@@ -14,6 +14,12 @@
         "ans": 2
       },
       {
+    "type": "std",
+    "q": "Ụdaolu Igbo ne-enwe ole?",
+    "opts": ["2", "3", "4", "5"],
+    "ans": 1
+  },
+      {
         "q": "Gịnị ka a na-ebu ụzọ enye ọbịa bịara n'ụlọ onye Igbo?",
         "opts": ["Nri na mmiri", "Mmiri na ọjị", "Mmanya na anụ", "Ego"],
         "ans": 1
@@ -301,3 +307,4 @@
     "ans": 0
   }
 ]
+
