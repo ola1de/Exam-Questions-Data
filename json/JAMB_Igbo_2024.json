@@ -1,39 +1,70 @@
 [
   {
     "type": "passage",
-    "content": "Gụọ mbadamba edemede a ma zaa ajụjụ ndị nọ n'okpuru ya: <br/><br/>Omenala bụ ụzọ ndị mmadụ si ebi ndụ. N'ala Igbo, omenala dị ezigbo mkpa. Ọ na-amalite site n'ọmụmụ nwa ruo n'ọnwụ mmadụ. Otu n'ime omenala kachasị mkpa bụ ile ọbịa. Onye bịara n'ụlọ onye Igbo, a na-enye ya ọjị. Ọjị bụ ihe nnọchianya nke nnabata na udo. Ọ bụrụ na e nyeghị mmadụ ọjị, ọ pụtara na anaghị anabata ya nke ọma. E wezụga ọjị, e nwere omenala ndị ọzọ dịka lụm di na nwunye, ikunye nwa aha, na echichi. Mana n'oge a, ọtụtụ ndị ntorobịa amaghịzi uru omenala ndị a bara n'ihi mmetụta omenala mba ọzọ.",
+    "content": "Gụọ mbadamba edemede a nke ọma ma zaa ajụjụ ndị nọ n'okpuru ya: <br/><br/>Ịlụ nwaanyị n'ala Igbo abụghị ihe egwuregwu. Ọ bụ njikọ dị n'etiti ezinụlọ abụọ, ọ bụghị naanị mmadụ abụọ. N'oge gboo, nne na nna na-achọrọ nwa ha nwoke nwaanyị ha ga-alụ. Ha na-agakwuru ezinụlọ nwaanyị ahụ jụọ ase gbasara ha. Ajụjụ ha na-ajụ na-agụnyekarị ma hà nwere ọrịa ọjọọ, ma hà bụ ndị ohi, ma ọ bụ ma hà bụ ndị nwere agwa ọma. Ọ bụrụ na ase ahụ gaa nke ọma, a na-amalite usoro ịkụ aka n'ọnụ ụzọ. N'ebe a, a na-eweta mmanya na ọjị. Emesịa, a na-ekpebi ego nwaanyị, nke a na-akpọ 'ego nnabata'. Ememe kachasị mma bụ 'Igba nkwụ', ebe nwaanyị na-achọ di ya n'ime igwe mmadụ ma nye ya mmanya. Nke a na-egosi na ọ nabatala ya dịka di ya nke iwu kwadoro.",
     "questions": [
       {
-        "q": "Gịnị bụ isiokwu mbadamba edemede a?",
-        "opts": ["Ihe gbasara ego", "Omenala Igbo", "Echichi", "Nri ndị Igbo"],
+        "q": "Gịnị bụ isiokwu edemede a?",
+        "opts": ["Ihe gbasara ọrụ ugbo", "Ịlụ nwaanyị n'ala Igbo", "Echichi", "Ịgba mgba"],
         "ans": 1
       },
       {
-        "q": "Gịnị ka a na-enye onye bịara ile ọbịa n'ala Igbo iji gosi nnabata?",
-        "opts": ["Nri", "Mmiri", "Ọjị", "Ego"],
-        "ans": 2
-      },
-      {
-        "q": "Kedu ihe ọjị na-anọchi anya ya n'ala Igbo?",
-        "opts": ["Iwe na ọgụ", "Nnabata na udo", "Ogbenye", "Ịmụ nwa"],
+        "q": "Ònye na-achọrọ nwa nwoke nwaanyị ọ ga-alụ n'oge gboo?",
+        "opts": ["Ndị enyi ya", "Nne na nna ya", "Dibia", "Eze"],
         "ans": 1
       },
       {
-        "q": "Dịka edemede ahụ siri kwuo, gịnị na-eme ka ndị ntorobịa chefuo omenala?",
-        "opts": ["Agụụ", "Ọrụ ugbo", "Omenala mba ọzọ", "Ịga ụka"],
+        "q": "Gịnị kpatara eji ajụ ase tupu a lụọ nwaanyị?",
+        "opts": ["Iji mara ego ha nwere", "Iji mara agwa na akụkọ ezinụlọ", "Iji mara ebe ha bi", "Iji mara nri ha na-eri"],
+        "ans": 1
+      },
+      {
+        "q": "Kedu ihe a na-eweta n'usoro ịkụ aka n'ọnụ ụzọ?",
+        "opts": ["Ego na nri", "Mmanya na ọjị", "Akwa na akpụkpọ ụkwụ", "Ji na ede"],
+        "ans": 1
+      },
+      {
+        "q": "Gịnị bụ 'Ego nnabata'?",
+        "opts": ["Ego eji azụ nri", "Ego nwaanyị (Bride price)", "Ego eji agba egwu", "Ego ụlọ ụka"],
+        "ans": 1
+      },
+      {
+        "q": "Kedu ememe kachasị mkpa na-egosi na nwaanyị lụchara di?",
+        "opts": ["Ịgba mgba", "Ịgba nkwụ", "Iri ji ọhụrụ", "Ịkụ aka"],
+        "ans": 1
+      },
+      {
+        "q": "Gịnị ka nwaanyị na-enye di ya n'ememe ịgba nkwụ?",
+        "opts": ["Mmiri", "Ọjị", "Mmanya", "Nri"],
         "ans": 2
       },
       {
-        "q": "Omenala Igbo na-amalite mgbe ole?",
-        "opts": ["Site n'ọmụmụ nwa", "Mgbe mmadụ gbara afọ iri", "Mgbe mmadụ lụrụ nwaanyị", "Mgbe mmadụ nwụrụ"],
-        "ans": 0
+        "q": "Ịlụ nwaanyị n'ala Igbo bụ njikọ dị n'etiti ole?",
+        "opts": ["Mmadụ abụọ naanị", "Ezinụlọ abụọ", "Obodo abụọ", "Ndị enyi abụọ"],
+        "ans": 1
+      },
+      {
+        "q": "Kedu n'ime ndị a abụghị ajụjụ a na-ajụ n'ase?",
+        "opts": ["Ma hà bụ ndị ohi", "Ma hà nwere agwa ọma", "Ma nwaanyị ahụ mara mma", "Ma hà nwere ọrịa ọjọọ"],
+        "ans": 2
+      },
+      {
+        "q": "Gịnị na-eme ma ọ bụrụ na ase agaghị nke ọma?",
+        "opts": ["A na-alụ nwaanyị ahụ", "A na-akwụsị usoro ọlụlụ", "A na-enye ego karịa", "A na-akpọ ndị uwe ojii"],
+        "ans": 1
       }
     ]
   },
   {
     "type": "std",
-    "q": "Mkpụrụ edemede Igbo ne nwere ole?",
-    "opts": ["iri abụọ na isii", "iri atọ na isii", "iri atọ", "iri abụọ"],
+    "q": "Mkpụrụ edemede Igbo ole bụ ụdaume (vowels)?",
+    "opts": ["isii", "asatọ", "itoolu", "iri"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Olee mkpụrụ edemede a na-akpọ 'ụda imi'?",
+    "opts": ["b, d", "m, n", "g, l", "s, z"],
     "ans": 1
   },
   {
@@ -44,207 +75,87 @@
   },
   {
     "type": "std",
-    "q": "Gịnị bụ ngwaa n'ahịrịokwu a: 'Ada na-eri nri'?",
-    "opts": ["Ada", "nri", "na-eri", "Ọ dịghị"],
+    "q": "Gịnị bụ aha nwa nwaanyị mbụ n'ezinụlọ Igbo?",
+    "opts": ["Opara", "Ada", "Nne", "Lolo"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Olee akaraedemede a na-eji eme ajụjụ?",
+    "opts": ["!", ".", "?", ","],
     "ans": 2
   },
   {
     "type": "std",
-    "q": "Kedu mkpụrụ edemede na-anọchi anya ụda imi?",
-    "opts": ["B", "M na N", "P", "S"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Olee nke bụ njikọ (Conjunction) n'ime ndị a?",
-    "opts": ["Maka", "Na", "Gaba", "Bịa"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Kedu aha a na-akpọ nwa a mụrụ ọhụrụ n'ala Igbo?",
-    "opts": ["Nwa ntorobịa", "Nwa ọhụrụ", "Okenye", "Nwadiala"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Gịnị ka a na-eme tupu a lụọ nwaanyị n'ala Igbo?",
-    "opts": ["Ịgba egwu", "Ịjụ ajụjụ", "Ịzụ ahịa", "Ịgba mgba"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Kedu utu aha a na-enye onye gburu agụ n'ala Igbo?",
-    "opts": ["Ogbuagu", "Ogbuefi", "Ozo", "Lolo"],
+    "q": "Gịnị bụ andonye (antonym) okwu bụ 'Ogologo'?",
+    "opts": ["Mkpụm kpu", "Ezigbo", "Ocha", "Nnukwu"],
     "ans": 0
   },
   {
     "type": "std",
-    "q": "Kedu n'ime ndị a bụ akụkụ ahụ mmadụ?",
-    "opts": ["oche", "anya", "akpa", "ute"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Onye dere akwụkwọ 'Omenuko'?",
+    "q": "Kedu onye dere akwụkwọ 'Omenuko'?",
     "opts": ["Chinua Achebe", "Pita Nwana", "Tony Ubesie", "Chidozie Ogbalu"],
     "ans": 1
   },
   {
     "type": "std",
-    "q": "Gịnị bụ andonye (Antonym) okwu bụ 'Onye oshi'?",
-    "opts": ["Onye eziokwu", "Onye ohi", "Onye nzuzu", "Onye ara"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Olee ụdị ahịrịokwu bụ nke a: 'Bịa ebe a!'?",
-    "opts": ["Ajụjụ", "Iwu", "Nkwupụta", "Mba"],
+    "q": "Olee n'ime ndị a bụ ngwaa (verb)?",
+    "opts": ["Anya", "Gaba", "Oche", "Maka"],
     "ans": 1
   },
   {
     "type": "std",
-    "q": "Olee n'ime ndị a bụ ụdaume ihu (Front vowels)?",
-    "opts": ["i, ị, e, a", "o, ọ, u, ụ", "a, o, u, i", "e, o, a, ị"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ aha nna nna gị n'Igbo?",
-    "opts": ["Nna ochie", "Nna ukwu", "Nwanne", "Dedem"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu ka a na-akpọ 'Table' n'asụsụ Igbo?",
-    "opts": ["Oche", "Akpụkpọ", "Tebụl", "Ute"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ mkpụrụ okwu a nwere mgbakwunye 'nwụ-': 'nwụọ'?",
-    "opts": ["Nsonazụ", "Mbuizụ", "Nsinetị", "Olumba"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu onye na-elekọta obodo n'ala Igbo?",
-    "opts": ["Eze/Igwe", "Dibia", "Ogaranya", "Mmanwu"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị ka eji mara ndị a: 'Chike na-ede akwụkwọ'?",
-    "opts": ["Ndaụda", "Nsupe", "Akaraedemede", "Ịgụ akwụkwọ"],
+    "q": "Gịnị bụ 'Orange' n'asụsụ Igbo?",
+    "opts": ["Ube", "Oroma", "Anara", "Akụ"],
     "ans": 1
   },
   {
     "type": "std",
-    "q": "Ole bụ mkpụrụ edemede konsonanti n'asụsụ Igbo?",
-    "opts": ["iri abụọ na asatọ", "itoolu", "iri", "iri abụọ"],
+    "q": "Olee ụbọchị ahịa dị n'ala Igbo?",
+    "opts": ["Eke, Orie, Afọ, Nkwọ", "Monday, Tuesday", "Abụọ, Atọ, Anọ", "Otu, Abụọ"],
     "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu mkpụrụ okwu kacha nso n'asụsụ 'School'?",
-    "opts": ["Ahịa", "Ụlọụka", "Ụlọakwụkwọ", "Ụlọ nri"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "Olee n'ime ndị a bụ aha (Noun)?",
-    "opts": ["Obi", "na-aga", "nwayọọ", "ma"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ ọrụ onye nche?",
-    "opts": ["Ise nri", "Iche ụlọ", "Ịkụ ọka", "Ịzụ ahịa"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Olee akaraedemede na-egosi nkwụsị oge n'ahịrịokwu?",
-    "opts": ["Kọma", "Fullstop", "Ajụjụ", "Mkpuchi"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Kedu n'ime ndị a bụ mkpụrụ edemede 'Anwụ'?",
-    "opts": ["a, n, w, ụ", "a, m, w, u", "e, n, w, o", "a, n, b, u"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Market' n'asụsụ Igbo?",
-    "opts": ["Ụzọ", "Ahịa", "Ubi", "Ebe"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Mmadụ ole mejupụtara 'Abụọ'?",
-    "opts": ["1", "3", "2", "4"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "Kedu nri kacha mkpa n'ememe Iri Ji?",
-    "opts": ["Raisi", "Ji", "Akpụ", "Ede"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Good morning' n'Igbo?",
-    "opts": ["Ị bọọla", "Ka chi fo", "Nnọọ", "Ndewo"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị ka eji agba mmiri?",
-    "opts": ["Akpa", "Ite/Iko", "Oche", "Akwụkwọ"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Kedu obodo a kacha mara maka akwa Akwete?",
-    "opts": ["Enugwu", "Abia", "Imo", "Anambra"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Olee nke bụ nnọchianahe (Pronoun) n'ime ndị a?",
-    "opts": ["M", "Gaa", "Onye", "Oche"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu onye na-akọ ọrụ ugbo?",
-    "opts": ["Onye nkuzi", "Onye ọrụ ugbo", "Dọkịta", "Ọkwọ ụgbọ"],
-    "ans": 1
   },
   {
     "type": "std",
     "q": "Gịnị bụ mkpụrụ okwu Igbo maka 'Blood'?",
-    "opts": ["Mmiri", "Mmanụ", "Obara/Mmee", "Nri"],
+    "opts": ["Mmiri", "Mmanụ", "Obara", "Nri"],
     "ans": 2
   },
   {
     "type": "std",
-    "q": "Olee n'ime ndị a bụ mgbakwunye?",
-    "opts": ["-ala", "ga-", "-ghi", "Niile dị n'elu"],
-    "ans": 3
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Tailor' n'Igbo?",
-    "opts": ["Onye na-akwa akwa", "Onye na-ese foto", "Onye na-agba egwu", "Onye na-agụ egwu"],
+    "q": "Kedu ka a na-akpọ 'Traditional Title' n'Igbo?",
+    "opts": ["Echichi", "Ịzụ ahịa", "Ịkụ ọka", "Ego"],
     "ans": 0
   },
   {
     "type": "std",
-    "q": "Kedu ebe a na-asụ asụsụ Igbo?",
-    "opts": ["Oduduwa", "Ndịda Anyanwụ", "Ndịda Ọwụwa Anyanwụ", "Ebe ugwu"],
+    "q": "Olee n'ime ndị a bụ njikọ (conjunction)?",
+    "opts": ["Ada", "Na", "Bịa", "Mba"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Good afternoon' n'Igbo?",
+    "opts": ["Ị bọọla", "Nnọọ", "Ndeewonụ", "Ka chi fo"],
     "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Olee n'ime mkpụrụ edemede a bụ konsonanti?",
+    "opts": ["A", "B", "E", "O"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Gịnị ka a na-akpọ 'God' n'asụsụ Igbo?",
+    "opts": ["Eze", "Chukwu/Chineke", "Mmụọ", "Dibia"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Kedu n'ime ndị a bụ akụkụ ahụ mmadụ?",
+    "opts": ["Oche", "Imi", "Akpa", "Tebụl"],
+    "ans": 1
   },
   {
     "type": "std",
@@ -254,44 +165,134 @@
   },
   {
     "type": "std",
-    "q": "Gịnị bụ 'Mother' n'Igbo?",
-    "opts": ["Nna", "Nne", "Nwanne", "Dedem"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Olee n'ime ndị a bụ akara ụdaolu?",
-    "opts": ["Akara mbilite", "Akara nkwụsị", "Akara ala", "A na C"],
-    "ans": 3
-  },
-  {
-    "type": "std",
-    "q": "Olee aha a na-akpọ nwa mbụ nwoke?",
-    "opts": ["Opara", "Ada", "Nwoke", "Nwa"],
+    "q": "Olee n'ime ndị a bụ nnọchianahe (pronoun)?",
+    "opts": ["M", "Gaa", "Onye", "Oche"],
     "ans": 0
   },
   {
     "type": "std",
-    "q": "Gịnị bụ 'Book' n'Igbo?",
-    "opts": ["Pen", "Akwụkwọ", "Oche", "Ubi"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Kedu ka a na-asụ 'Thank you' n'Igbo?",
-    "opts": ["Ndewo", "Imeela", "Ka chi fo", "Nnọọ"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Black' n'Igbo?",
-    "opts": ["Ọcha", "Uhie", "Oji", "Anụnụ"],
+    "q": "Gịnị bụ '100' n'asụsụ Igbo?",
+    "opts": ["Iri ise", "Nnu", "Otu nari", "Iri"],
     "ans": 2
   },
   {
     "type": "std",
-    "q": "Kedu n'ime mkpụrụ edemede a bụ ụdaume?",
-    "opts": ["B", "E", "D", "G"],
+    "q": "Olee nri kacha mkpa n'ala Igbo?",
+    "opts": ["Ji", "Raisi", "Agwa", "Ede"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kedu ka a na-akpọ 'House' n'Igbo?",
+    "opts": ["Ụlọ", "Ụzọ", "Ezi", "Ama"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Snake' n'asụsụ Igbo?",
+    "opts": ["Nkịta", "Agwọ", "Enyi", "Azụ"],
     "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Olee aha a na-akpọ nwa mbụ nwoke?",
+    "opts": ["Ada", "Opara", "Nwadiala", "Okenye"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Red' n'asụsụ Igbo?",
+    "opts": ["Ọcha", "Uhie", "Oji", "Edo"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Kedu n'ime ndị a bụ mkpụrụ edemede nsupe 'Akwụkwọ'?",
+    "opts": ["a, k, w, ụ, k, w, ọ", "a, k, u, k, o", "e, k, w, u, k, w, o", "a, p, u, p, o"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'School' n'Igbo?",
+    "opts": ["Ahịa", "Ụlọ nri", "Ụlọ akwụkwọ", "Ụzọ"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Olee ụdị ahịrịokwu bụ nke a: 'Onye ka i bụ?'",
+    "opts": ["Iwu", "Ajụjụ", "Nkwupụta", "Mba"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Water' n'Igbo?",
+    "opts": ["Mmanya", "Mmiri", "Mmanụ", "Nri"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Kedu ka a na-asụ 'Sit down' n'Igbo?",
+    "opts": ["Guzo ọtọ", "Nọdụ ala", "Gaba n'ihu", "Bịa ebe a"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Olee mkpụrụ edemede kacha nso na 'GB'?",
+    "opts": ["P", "CH", "KP", "GH"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Shoe' n'asụsụ Igbo?",
+    "opts": ["Akpa", "Akpụkpọ ụkwụ", "Uwe", "Okpu"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Olee aha a na-akpọ 'Nigeria' n'asụsụ Igbo?",
+    "opts": ["Ala Igbo", "Naịjirịa", "Ala Bekee", "Obodo anyị"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Friend' n'Igbo?",
+    "opts": ["Onye iro", "Enyi", "Nwanne", "Oga"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Kedu ebe a na-asụ asụsụ Igbo?",
+    "opts": ["North", "South-East", "West", "South-South"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Salt' n'asụsụ Igbo?",
+    "opts": ["Ose", "Nnu", "Mmanụ", "Uda"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Olee n'ime mkpụrụ edemede a bụ 'Digraph' (mkpụrụ abụọ na-anọchi anya otu ụda)?",
+    "opts": ["B", "CH", "D", "F"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Morning' n'Igbo?",
+    "opts": ["Ehihie", "Anyasị", "Ututu", "Abalị"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Olee akara e ji amata ụdaolu (Tones)?",
+    "opts": ["Akara elu, ala na n'etiti", "Kọma", "Fullstop", "Ajụjụ"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Market' n'asụsụ Igbo?",
+    "opts": ["Ụzọ", "Ubi", "Ahịa", "Ụgbọ"],
+    "ans": 2
   }
 ]
