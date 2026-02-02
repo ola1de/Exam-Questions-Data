@@ -56,7 +56,7 @@
   },
   {
     "type": "std",
-    "q": "Complete the proverb: 'Gidi gidi bụ ______.'",
+    "q": "Mezue ilu a: 'Gidi gidi bụ ______.'",
     "opts": ["ugwu eze", "anụ ọhia", "ugwu nansị", "aka na-aza"],
     "ans": 0
   },
@@ -64,7 +64,7 @@
     "type": "std",
     "q": "Gịnị bụ 'Aha' n'ahịrịokwu a: 'Obi na-eri nri'?",
     "opts": ["na-eri", "nri", "Obi", "Obi na nri"],
-    "ans": 3
+    "ans": 2
   },
   {
     "type": "std",
@@ -170,7 +170,7 @@
   },
   {
     "type": "std",
-    "q": "Gịnị bụ 'Market days' n'ala Igbo?",
+    "q": "Gịnị bụ ụbọchị anọ dị n'izu n'ala Igbo?",
     "opts": ["Eke, Orie, Afọ, Nkwọ", "Monday to Friday", "Sọnde", "Izu"],
     "ans": 0
   },
@@ -201,7 +201,7 @@
   {
     "type": "std",
     "q": "Onye dere 'Eze Goes to School' bụ ______.",
-    "opts": ["Cyprian Ekwensi", "Chinua Achebe", "Onuora Nzekwu na Michael Crowder", "Wole Soyinka"],
+    "opts": ["Cyprian Ekwensi", "Chinua Achebe", "Onuora Nzekwu", "Wole Soyinka"],
     "ans": 2
   },
   {
@@ -293,5 +293,11 @@
     "q": "Kedu n'ime ndị a bụ mkpụrụedemede Igbo?",
     "opts": ["v", "x", "gh", "q"],
     "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Kedu otu e si ede '10' n'Igbo?",
+    "opts": ["Iri", "Isii", "Ito", "Asatọ"],
+    "ans": 0
   }
 ]
