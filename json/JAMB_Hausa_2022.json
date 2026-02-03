@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'Karin Magana' a Hausa?",
+    "opts": ["Proverb", "Story", "Poem", "Song"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne jam'in kalmar 'Gida'?",
+    "opts": ["Gidaje", "Gida-gida", "Gidanu", "Gidos"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Suna' a cikin wannan jumlar: 'Audu ya tafi kasuwa'?",
+    "opts": ["Audu", "Tafi", "Ya", "Da"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene ake kira da 'Wasali'?",
+    "opts": ["Vowel", "Consonant", "Noun", "Verb"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Cika wannan karin maganar: 'Kowa ya duka ...'",
+    "opts": ["...shi zai tsinta.", "...zai sha wuya.", "...zai ji dadi.", "...shi zai gani."],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene ake nufi da 'Kirari'?",
+    "opts": ["Praise singing/Epithet", "Insult", "Greeting", "Crying"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne sarki ne ya shahara a Kano?",
+    "opts": ["Muhammadu Rumfa", "Queen Amina", "Bayajidda", "Dan Fodio"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Me ake nufi da 'Aure'?",
+    "opts": ["Marriage", "Divorce", "Naming", "Death"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne daga cikin wadannan haruffan 'Masu lankwasa' (Hooked letters)?",
+    "opts": ["ɗ, ɓ, ƙ, 'y", "a, b, c, d", "t, s, r, m", "x, y, z"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wane gari ne cibiyar kasuwanci a Arewa?",
+    "opts": ["Kano", "Sokoto", "Maiduguri", "Bauchi"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Wakilin Suna'?",
+    "opts": ["Pronoun", "Noun", "Adjective", "Adverb"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Su waye 'Makada'?",
+    "opts": ["Drummers/Singers", "Farmers", "Teachers", "Traders"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Siffa' a Nahawun Hausa?",
+    "opts": ["Adjective", "Verb", "Noun", "Pronoun"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanene ya rubuta littafin 'Magana Jari Ce'?",
+    "opts": ["Abubakar Imam", "Aminu Kano", "Sa'adu Zungur", "Tafawa Balewa"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Al'ada'?",
+    "opts": ["Culture/Tradition", "Religion", "Education", "Politics"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Idan ana 'Sallah', ina ake kallo?",
+    "opts": ["Gabas (Ka'aba)", "Yamma", "Arewa", "Kudu"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne daidai: 'Yarinya ... kyau'?",
+    "opts": ["Mai", "Masu", "Muna", "Suna"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Me ake nufi da 'Sunauni'?",
+    "opts": ["Adverb (Modification of verb)", "Noun", "Pronoun", "Preposition"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Aikatau'?",
+    "opts": ["Verb", "Noun", "Adjective", "Conjunction"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Zamantowa'?",
+    "opts": ["Assimilation", "Deletion", "Insertion", "Tone"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Cika karin magana: 'Komai nisan jifa ...'",
+    "opts": ["...kasa zai dawo.", "...sama zai tafi.", "...zai bace.", "...zai yi kyau."],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wane abinci ne aka fi sani da Hausawa?",
+    "opts": ["Tuwo da Miya", "Amala", "Akpu", "Pizza"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene ake kira da 'Bikin Suna'?",
+    "opts": ["Naming Ceremony", "Wedding", "Funeral", "Graduation"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene kishiyar kalmar 'Fari'?",
+    "opts": ["Baki", "Ja", "Kore", "Shudi"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne jam'in 'Mota'?",
+    "opts": ["Motoci", "Mota-mota", "Motaye", "Motan"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Daurin Aure'?",
+    "opts": ["Wedding solemnization", "Engagement", "Dating", "Divorce"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne kayan kida ne Mamman Shata ke amfani da shi?",
+    "opts": ["Kalangu", "Goge", "Kukuma", "Sarewa"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene ake nufi da 'Jinsi'?",
+    "opts": ["Gender", "Number", "Tense", "Person"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A ina ake gudanar da 'Durbar'?",
+    "opts": ["Fada (Palace)", "Kasuwa", "Gona", "Makarantar"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Haruffan Bakar'?",
+    "opts": ["Consonants", "Vowels", "Tones", "Words"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne kalmar 'Namiji'?",
+    "opts": ["Male", "Female", "Child", "Elder"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Sana'a'?",
+    "opts": ["Occupation/Trade", "Play", "Sleep", "Talk"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Dabba'?",
+    "opts": ["Animal", "Man", "Tree", "Stone"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Fassara: 'Good morning'.",
+    "opts": ["Ina kwana", "Ina yini", "Sai da safe", "Barka da zuwa"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Gishiri'?",
+    "opts": ["Salt", "Sugar", "Pepper", "Oil"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wane ne Allah?",
+    "opts": ["Mahalicci (Creator)", "Mutum", "Dabba", "Gida"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Kudin Goro'?",
+    "opts": ["Token gift/bribe", "Price of kola", "Money for food", "Tax"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Uba'?",
+    "opts": ["Father", "Mother", "Son", "Daughter"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Kano Ta Dabo'?",
+    "opts": ["Kirarin Kano", "Sunan sarki", "Sunan abinci", "Sunan kasuwa"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Ruwa'?",
+    "opts": ["Water", "Fire", "Earth", "Air"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Sarkin Musulmi'?",
+    "opts": ["Sultan", "Emir", "Chief", "President"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Makaranta'?",
+    "opts": ["School", "Market", "House", "Farm"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Littafi'?",
+    "opts": ["Book", "Pen", "Table", "Chair"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Alkalami'?",
+    "opts": ["Pen", "Book", "Paper", "Board"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Gona'?",
+    "opts": ["Farm", "Market", "School", "Hospital"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Kasuwanci'?",
+    "opts": ["Business/Trading", "Farming", "Fishing", "Hunting"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Rana'?",
+    "opts": ["Sun/Day", "Moon", "Star", "Night"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Wata'?",
+    "opts": ["Moon/Month", "Sun", "Star", "Sky"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Shekara'?",
+    "opts": ["Year", "Month", "Week", "Day"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Cika: 'Ladan aiki ...'",
+    "opts": ["...shine samu.", "...shine rashi.", "...shine kuka.", "...shine bacci."],
+    "ans": 0
+  }
+]
