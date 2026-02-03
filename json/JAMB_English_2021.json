@@ -1,1 +1,104 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "passage",
+    "content": "<b>The Digital Village</b><br><br>The world has truly become a global village, but the village square is now digital. Social media platforms have revolutionized how humans communicate, dismantling geographical barriers that once isolated communities. A teenager in Lagos can now share cultural trends with a peer in Tokyo instantly. However, this connectivity comes at a price. The constant barrage of curated lives fosters a sense of inadequacy among users, leading to mental health crises. Furthermore, the spread of misinformation travels faster than truth, often inciting violence or panic before facts can be verified. While the digital village offers boundless opportunities for networking and education, it lacks the accountability of the traditional village square, where anonymity was impossible.",
+    "questions": [
+      {
+        "q": "A suitable title for this passage is:",
+        "opts": ["Teenagers in Lagos", "<b>The Pros and Cons of the Digital Age</b>", "How to Use Social Media", "Tokyo Trends"],
+        "ans": 1
+      },
+      {
+        "q": "The phrase 'barrage of curated lives' implies:",
+        "opts": ["Real and raw experiences", "A heavy flow of edited and fake realities", "Military attacks", "Happy moments only"],
+        "ans": 1
+      },
+      {
+        "q": "According to the passage, one negative effect of social media is:",
+        "opts": ["Cultural exchange", "Instant communication", "Mental health issues due to inadequacy", "Networking"],
+        "ans": 2
+      },
+      {
+        "q": "The writer compares the 'digital village' to the 'traditional village' to highlight:",
+        "opts": ["The lack of accountability in the digital version", "The size of the village", "The cost of living", "Farming methods"],
+        "ans": 0
+      },
+      {
+        "q": "The word 'dismantling' in the passage means:",
+        "opts": ["Building", "Destroying/Removing", "Painting", "Reinforcing"],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<b>The Dying Art of Conversation</b><br><br>In the past, evenings were spent on verandas, swapping stories under the moonlight. Today, the glow of smartphone screens has replaced the moonlight. Silence in a room full of people is no longer awkward; it is the norm, as everyone is engrossed in a private digital world. Psychologists warn that we are losing the art of conversation—the ability to read non-verbal cues, to listen with empathy, and to articulate thoughts without the safety net of an edit button. We are more connected than ever, yet we are increasingly lonely. The depth of human connection is being sacrificed for the breadth of digital connections.",
+    "questions": [
+      {
+        "q": "The main theme of the passage is:",
+        "opts": ["The benefits of smartphones", "The loss of face-to-face interaction", "Moonlight tales", "Digital editing"],
+        "ans": 1
+      },
+      {
+        "q": "The 'safety net of an edit button' refers to:",
+        "opts": ["The ability to delete mistakes in text messages", "A safety feature in cars", "A medical procedure", "Speaking carefully"],
+        "ans": 0
+      },
+      {
+        "q": "The writer suggests that modern silence in a group is:",
+        "opts": ["Awkward", "Normal but isolating", "Peaceful", "Religious"],
+        "ans": 1
+      },
+      {
+        "q": "The paradox mentioned in the passage is:",
+        "opts": ["We have phones but no light", "We are connected yet lonely", "We talk but don't listen", "We are inside but outside"],
+        "ans": 1
+      },
+      {
+        "q": "The word 'engrossed' means:",
+        "opts": ["Bored", "Absorbed/Occupied", "Angry", "Lost"],
+        "ans": 1
+      }
+    ]
+  },
+  {"type": "std", "q": "The man, along with his children, <u>______</u> travelling today.", "opts": ["are", "is", "were", "have"], "ans": 1},
+  {"type": "std", "q": "Choose the option opposite in meaning to: <u>EXTRAVAGANT</u>", "opts": ["Rich", "Miserly/Frugal", "Careless", "Noisy"], "ans": 1},
+  {"type": "std", "q": "She was charged <u>______</u> murder.", "opts": ["with", "for", "of", "on"], "ans": 0},
+  {"type": "std", "q": "The idiom 'to burn the midnight oil' means:", "opts": ["To waste oil", "To study/work late into the night", "To cook late", "To sleep early"], "ans": 1},
+  {"type": "std", "q": "One of the boys <u>______</u> missing.", "opts": ["are", "is", "were", "have been"], "ans": 1},
+  {"type": "std", "q": "Choose the correct spelling:", "opts": ["Privilege", "Priviledge", "Privelege", "Previlage"], "ans": 0},
+  {"type": "std", "q": "He is good <u>______</u> Physics.", "opts": ["in", "at", "on", "with"], "ans": 1},
+  {"type": "std", "q": "If I <u>______</u> a bird, I would fly.", "opts": ["am", "was", "were", "be"], "ans": 2},
+  {"type": "std", "q": "The meeting was <u>put off</u>. This means it was:", "opts": ["Cancelled", "Postponed", "Started", "Forgotten"], "ans": 1},
+  {"type": "std", "q": "Choose the word that rhymes with: <u>PLOUGH</u>", "opts": ["Rough", "Cough", "Cow", "Dough"], "ans": 2},
+  {"type": "std", "q": "She is the <u>______</u> of the two ladies.", "opts": ["taller", "tallest", "most tall", "more tall"], "ans": 0},
+  {"type": "std", "q": "We congratulated him <u>______</u> his success.", "opts": ["for", "on", "at", "with"], "ans": 1},
+  {"type": "std", "q": "Choose the option nearest in meaning to: <u>OBSOLETE</u>", "opts": ["New", "Outdated", "Expensive", "Functional"], "ans": 1},
+  {"type": "std", "q": "Neither the teacher nor the students <u>______</u> here.", "opts": ["is", "are", "was", "has"], "ans": 1},
+  {"type": "std", "q": "I prefer coffee <u>______</u> tea.", "opts": ["than", "to", "over", "from"], "ans": 1},
+  {"type": "std", "q": "The boy <u>who</u> stole the pen is here. 'Who' is a:", "opts": ["Relative pronoun", "Verb", "Adjective", "Noun"], "ans": 0},
+  {"type": "std", "q": "He behaves <u>______</u> he is the boss.", "opts": ["as", "as if", "like", "so"], "ans": 1},
+  {"type": "std", "q": "The audience <u>______</u> clapping.", "opts": ["was", "were", "is", "has"], "ans": 1},
+  {"type": "std", "q": "To 'hit the nail on the head' means:", "opts": ["To be violent", "To be exactly right", "To build", "To hurt someone"], "ans": 1},
+  {"type": "std", "q": "He has been here <u>______</u> ten years.", "opts": ["since", "for", "from", "by"], "ans": 1},
+  {"type": "std", "q": "Choose the word with a different stress pattern:", "opts": ["Teacher", "Father", "About", "Table"], "ans": 2},
+  {"type": "std", "q": "The committee <u>______</u> decided to dissolve.", "opts": ["have", "has", "are", "were"], "ans": 1},
+  {"type": "std", "q": "It is high time we <u>______</u> home.", "opts": ["go", "went", "gone", "going"], "ans": 1},
+  {"type": "std", "q": "Antonym of: <u>ARROGANT</u>", "opts": ["Proud", "Humble", "Rude", "Loud"], "ans": 1},
+  {"type": "std", "q": "She <u>______</u> the baby on the bed.", "opts": ["lie", "laid", "lay", "lain"], "ans": 1},
+  {"type": "std", "q": "The <u>denouement</u> of the play was surprising.", "opts": ["Beginning", "Middle", "Resolution/End", "Conflict"], "ans": 2},
+  {"type": "std", "q": "Identify the figure of speech: 'The wind whispered secrets.'", "opts": ["Simile", "Personification", "Metaphor", "Irony"], "ans": 1},
+  {"type": "std", "q": "I look forward to <u>______</u> from you.", "opts": ["hear", "hearing", "heard", "have heard"], "ans": 1},
+  {"type": "std", "q": "He died <u>______</u> Malaria.", "opts": ["of", "from", "by", "with"], "ans": 0},
+  {"type": "std", "q": "The furniture <u>______</u> expensive.", "opts": ["are", "is", "were", "have"], "ans": 1},
+  {"type": "std", "q": "Unless you run, you <u>______</u> catch the bus.", "opts": ["will", "would", "will not", "can"], "ans": 2},
+  {"type": "std", "q": "Had I known, I <u>______</u> visited him.", "opts": ["will have", "would have", "can have", "shall have"], "ans": 1},
+  {"type": "std", "q": "The manager is <u>accessible</u> to everyone.", "opts": ["Approachable", "Rude", "Far", "Closed"], "ans": 0},
+  {"type": "std", "q": "To 'let the cat out of the bag' means:", "opts": ["To release a pet", "To reveal a secret", "To make a mistake", "To travel"], "ans": 1},
+  {"type": "std", "q": "This is the lady <u>whose</u> car was stolen.", "opts": ["who", "whom", "which", "whose"], "ans": 3},
+  {"type": "std", "q": "Synonym of: <u>CANDID</u>", "opts": ["Deceptive", "Frank/Honest", "Secret", "Shy"], "ans": 1},
+  {"type": "std", "q": "The rope is too <u>______</u>.", "opts": ["loosed", "lose", "loose", "lost"], "ans": 2},
+  {"type": "std", "q": "She is a <u>______</u> beauty.", "opts": ["rare", "scarce", "scanty", "few"], "ans": 0},
+  {"type": "std", "q": "Rice and beans <u>______</u> my favorite meal.", "opts": ["is", "are", "were", "have"], "ans": 0},
+  {"type": "std", "q": "The police <u>______</u> arresting the thieves.", "opts": ["is", "are", "was", "has"], "ans": 1}
+]
