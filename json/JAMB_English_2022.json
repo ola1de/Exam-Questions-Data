@@ -1,1 +1,320 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "passage",
+    "content": "<h3>The Digital Dilemma</h3><p>The impact of social media on youth mental health is a subject of growing concern. While these platforms offer opportunities for connection and self-expression, they also present significant risks. Studies have shown a correlation between heavy social media use and increased rates of anxiety, depression, and loneliness among teenagers. The constant exposure to carefully curated images of others' lives can lead to feelings of inadequacy and low self-esteem. Furthermore, the phenomenon of cyberbullying has introduced a new dimension of harassment that follows victims into their homes. However, experts argue that it is not the technology itself but how it is used that matters. Fostering digital literacy and encouraging moderate, purposeful use can help mitigate these negative effects.</p>",
+    "questions": [
+      {
+        "type": "std",
+        "q": "According to the passage, the relationship between social media and mental health is:",
+        "opts": ["Entirely positive", "Entirely negative", "A subject of increasing worry", "Insignificant"],
+        "ans": 2
+      },
+      {
+        "type": "std",
+        "q": "One of the specific negative effects mentioned is:",
+        "opts": ["Improved self-esteem", "Feelings of inadequacy", "Physical injury", "Academic success"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "What does the passage say about cyberbullying?",
+        "opts": ["It is less harmful than physical bullying", "It stops when the victim goes home", "It introduces harassment into the home", "It is rare"],
+        "ans": 2
+      },
+      {
+        "type": "std",
+        "q": "Experts suggest that the solution lies in:",
+        "opts": ["Banning social media", "Fostering digital literacy", "Buying more expensive phones", "Ignoring the problem"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The phrase 'carefully curated images' suggests that content on social media is:",
+        "opts": ["Spontaneous and real", "Selected and edited to look good", "Random and chaotic", "Always truthful"],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<h3>The Market Symphony</h3><p>In the heart of the bustling market, the air was thick with the scent of spices and roasting meat. Amaka wove her way through the throng, her eyes scanning the stalls for the specific herbs her grandmother had described. 'Look for the leaves with the jagged edges and the purple veins,' Mama had said. It was a chaotic symphony of bargaining voices, honking motorcycles, and the rhythmic thud of pestles in mortars. Amaka felt a bead of sweat trickle down her back. She was beginning to lose hope when she spotted a withered old woman sitting quietly behind a mound of green, completely untouched by the madness around her.</p>",
+    "questions": [
+      {
+        "type": "std",
+        "q": "What was Amaka looking for?",
+        "opts": ["Roasting meat", "Spices", "Specific herbs", "A pestle"],
+        "ans": 2
+      },
+      {
+        "type": "std",
+        "q": "The atmosphere of the market is described as:",
+        "opts": ["Quiet and serene", "Chaotic and busy", "Empty and scary", "Cold and damp"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The description 'chaotic symphony' is an example of:",
+        "opts": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+        "ans": 0
+      },
+      {
+        "type": "std",
+        "q": "Why was Amaka losing hope?",
+        "opts": ["She was tired", "She couldn't find the herbs", "She had no money", "The market was closing"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The woman Amaka spotted was:",
+        "opts": ["Shouting loudly", "Sitting quietly", "Cooking meat", "Riding a motorcycle"],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<h3>The Changing Climate</h3><p>Climate change is no longer a distant threat looming on the horizon; it is a reality that is reshaping our world today. From rising sea levels threatening coastal cities to extreme weather events becoming more frequent and severe, the signs are undeniable. Scientific consensus points to human activities, particularly the burning of fossil fuels and deforestation, as the primary drivers of global warming. The accumulation of greenhouse gases in the atmosphere traps heat, disrupting the delicate balance of the Earth's climate systems. Addressing this crisis requires a multifaceted approach, involving international cooperation, a shift towards renewable energy sources, and significant lifestyle changes. The window of opportunity to prevent irreversible damage is narrowing, urging immediate and collective action.</p>",
+    "questions": [
+      {
+        "type": "std",
+        "q": "According to the passage, climate change is:",
+        "opts": ["A future possibility", "A current reality", "A scientific myth", "Only affecting coastal cities"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The primary drivers of global warming mentioned are:",
+        "opts": ["Volcanic eruptions", "Solar flares", "Fossil fuels and deforestation", "Natural cycles"],
+        "ans": 2
+      },
+      {
+        "type": "std",
+        "q": "Greenhouse gases cause warming by:",
+        "opts": ["Blocking the sun", "Trapping heat", "Cooling the oceans", "Creating wind"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The passage suggests that solving the crisis requires:",
+        "opts": ["Waiting for technology", "Only government action", "A multifaceted approach", "Ignoring the signs"],
+        "ans": 2
+      },
+      {
+        "type": "std",
+        "q": "The tone of the last sentence is:",
+        "opts": ["Relaxed", "Indifferent", "Urgent", "Humorous"],
+        "ans": 2
+      }
+    ]
+  },
+  {
+    "type": "std",
+    "q": "<b>In each of the following questions, choose the option opposite in meaning to the word in italics.</b><br>The soldier was reprimanded for his <i>cowardice</i> during the battle.",
+    "opts": ["Bravery", "Fear", "Timidity", "Stupidity"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The teacher gave an <i>explicit</i> explanation of the complex theory.",
+    "opts": ["Clear", "Vague", "Detailed", "Long"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The economy has remained <i>stagnant</i> for the past three years.",
+    "opts": ["Static", "Dynamic", "Stable", "Poor"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "She is known for her <i>frugal</i> lifestyle.",
+    "opts": ["Extravagant", "Miserly", "Careful", "Simple"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The judge was <i>lenient</i> with the first-time offender.",
+    "opts": ["Kind", "Harsh", "Fair", "Slow"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "<b>Choose the option nearest in meaning to the italicized word.</b><br>The politician is known for his <i>candour</i>.",
+    "opts": ["Dishonesty", "Frankness", "Wealth", "Arrogance"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The task seemed <i>insurmountable</i> at first.",
+    "opts": ["Easy", "Unconquerable", "Strange", "Small"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "His <i>hostile</i> attitude surprised everyone.",
+    "opts": ["Friendly", "Aggressive", "Calm", "Happy"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The decision was <i>unanimous</i>.",
+    "opts": ["Divided", "Undisputed", "Confusing", "Wrong"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "She <i>corroborated</i> the evidence given by the witness.",
+    "opts": ["Denied", "Confirmed", "Hid", "Lost"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "<b>From the options lettered A to D, choose the word that best completes the sentence.</b><br>Neither the boys nor the girl _____ here.",
+    "opts": ["are", "is", "were", "have been"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The committee _____ decided to postpone the meeting.",
+    "opts": ["have", "has", "are", "were"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "I would have bought the car if I _____ enough money.",
+    "opts": ["have", "had", "have had", "had had"],
+    "ans": 3
+  },
+  {
+    "type": "std",
+    "q": "He is one of the men who _____ the prize.",
+    "opts": ["deserves", "deserve", "deserving", "is deserving"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The man with his two wives _____ coming.",
+    "opts": ["is", "are", "were", "have"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "She accused him _____ stealing her necklace.",
+    "opts": ["for", "on", "of", "with"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "We congratulated her _____ her success.",
+    "opts": ["for", "at", "on", "with"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The meeting was _____ until next week.",
+    "opts": ["put off", "put out", "put on", "put in"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "It is high time we _____ home.",
+    "opts": ["go", "went", "gone", "are going"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Had I known, I _____ gone.",
+    "opts": ["will not have", "would not have", "cannot have", "shall not have"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "<b>Choose the option that has the same vowel sound as the one represented by the letter(s) underlined.</b><br>S<u>ea</u>t",
+    "opts": ["Sit", "Set", "Key", "Say"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "B<u>u</u>ry",
+    "opts": ["Busy", "Berry", "Blur", "Buy"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "W<u>o</u>men",
+    "opts": ["Woman", "Kit", "Comb", "Come"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "P<u>ar</u>k",
+    "opts": ["Pack", "Pat", "Part", "Pet"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "<b>Choose the option that has the correct emphatic stress.</b><br>Ngozi STOLE the yellow bag.",
+    "opts": ["Did Ngozi buy the yellow bag?", "Did Emeka steal the yellow bag?", "Did Ngozi steal the red bag?", "Did Ngozi steal the yellow shoe?"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "My mother CANNOT drive a car.",
+    "opts": ["Can my father drive a car?", "Can my mother drive a lorry?", "Can my mother drive a car?", "Who can drive a car?"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "<b>Choose the word that is correctly spelt.</b>",
+    "opts": ["Embarrasment", "Embarassment", "Embarrassment", "Embarasment"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "<b>Choose the word that is correctly spelt.</b>",
+    "opts": ["Priviledge", "Privilege", "Privelege", "Priveledge"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to let the cat out of the bag' means:",
+    "opts": ["To allow a pet to escape", "To reveal a secret", "To make a mistake", "To be careless"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "To 'sit on the fence' means:",
+    "opts": ["To be comfortable", "To refuse to take sides", "To be lazy", "To build a fence"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The new law is a 'white elephant'. This means it is:",
+    "opts": ["Impressive but useless", "Very strong", "Rare", "Dangerous"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Choose the best interpretation: 'He has a finger in every pie'.",
+    "opts": ["He likes eating", "He is a cook", "He is involved in many activities", "He steals food"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Choose the option with the correct stress pattern: <b>Democratic</b>",
+    "opts": ["DE-mo-cra-tic", "de-MO-cra-tic", "de-mo-CRA-tic", "de-mo-cra-TIC"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Choose the option with the correct stress pattern: <b>Photography</b>",
+    "opts": ["PHO-to-gra-phy", "pho-TO-gra-phy", "pho-to-GRA-phy", "pho-to-gra-PHY"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The plural of 'Crisis' is:",
+    "opts": ["Crises", "Crisises", "Crisus", "Crisie"],
+    "ans": 0
+  }
+]
