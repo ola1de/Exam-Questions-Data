@@ -1,7 +1,43 @@
 [
   {
+    "type": "passage",
+    "content": "<h3>The King's Verdict</h3>BAROKA: (To the Bale) I have told you, the matter is settled. The girl stays. She has seen the palace and tasted the wine of royalty. Would you have her return to the dust of the village square?<br>BALE: But my Lord, she is betrothed to the hunter. The bride price has been paid in yams and goats.<br>BAROKA: Yams and goats! Is that the worth of a jewel? Return them. Double them. But the girl remains.<br>SADIQ: (Whispering) The hunter will not take this lightly, my Lord. His gun speaks louder than his voice.",
+    "questions": [
+      {
+        "type": "std",
+        "q": "The mood of the scene is:",
+        "opts": ["Romantic", "Tense", "Joyful", "Indifferent"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "Baroka's attitude towards the village life is one of:",
+        "opts": ["Admiration", "Disdain/Contempt", "Nostalgia", "Envy"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The phrase 'His gun speaks louder than his voice' is an example of:",
+        "opts": ["Personification", "Metaphor", "Simile", "Irony"],
+        "ans": 0
+      },
+      {
+        "type": "std",
+        "q": "The conflict in this passage is between:",
+        "opts": ["The Bale and Sadiq", "Tradition and Modernity", "Royal power and Previous engagement", "The Hunter and the Girl"],
+        "ans": 2
+      },
+      {
+        "type": "std",
+        "q": "Baroka refers to the girl as a 'jewel'. This is a:",
+        "opts": ["Simile", "Metaphor", "Hyperbole", "Euphemism"],
+        "ans": 1
+      }
+    ]
+  },
+  {
     "type": "poem",
-    "content": "I wonder how long, you say,\nI must wait for the day.\nWhen the sun will shine,\nOn this heart of mine.\nAnd the clouds will part,\nTo heal my heart.",
+    "content": "<h3>The Lonely Path</h3>The path is long and full of stones,<br>It breaks the feet and shakes the bones.<br>No bird sings here, no flower blooms,<br>Only the shadows of ancient tombs.<br>But at the end, a light I see,<br>A tiny spark of destiny.",
     "questions": [
       {
         "type": "std",
@@ -11,63 +47,27 @@
       },
       {
         "type": "std",
-        "q": "The 'sun' in line 3 symbolizes:",
-        "opts": ["Heat", "Hope/Happiness", "Time", "Fire"],
+        "q": "The 'path' is a symbol for:",
+        "opts": ["A road construction", "Life's journey/Struggle", "A garden", "A holiday"],
         "ans": 1
       },
       {
         "type": "std",
-        "q": "The mood of the poem is:",
-        "opts": ["Joyful", "Expectant/Melancholic", "Angry", "Indifferent"],
+        "q": "Line 3 ('No bird sings here...') appeals to the sense of:",
+        "opts": ["Taste", "Touch", "Sound/Sight", "Smell"],
+        "ans": 2
+      },
+      {
+        "type": "std",
+        "q": "The tone of the first four lines is:",
+        "opts": ["Optimistic", "Bleak/Desolate", "Humorous", "Angry"],
         "ans": 1
       },
       {
         "type": "std",
-        "q": "The figure of speech in 'heal my heart' is:",
-        "opts": ["Simile", "Alliteration", "Oxymoron", "Hyperbole"],
-        "ans": 1
-      },
-      {
-        "type": "std",
-        "q": "The speaker is waiting for:",
-        "opts": ["Rain", "A better time", "A friend", "Night"],
-        "ans": 1
-      }
-    ]
-  },
-  {
-    "type": "passage",
-    "content": "LAKUNLE: (To Sidi) A savage custom, barbaric, out-dated, rejected, denounced, accursed, excommunicated, archaic, degrading, humiliating, unspeakable, redundant, retrogressive, remarkable, unpalatable.\nSIDI: Is the bag empty? Why did you stop?",
-    "questions": [
-      {
-        "type": "std",
-        "q": "This excerpt is likely from which text?",
-        "opts": ["Look Back in Anger", "The Lion and the Jewel", "Second Class Citizen", "Wuthering Heights"],
-        "ans": 1
-      },
-      {
-        "type": "std",
-        "q": "Lakunle's speech is an example of:",
-        "opts": ["Verbosity/Bombast", "Simile", "Irony", "Euphemism"],
-        "ans": 0
-      },
-      {
-        "type": "std",
-        "q": "Lakunle is describing:",
-        "opts": ["Sidi's beauty", "The Bride Price", "The Village Head", "The Weather"],
-        "ans": 1
-      },
-      {
-        "type": "std",
-        "q": "Sidi's response suggests she is:",
-        "opts": ["Impressed", "Unimpressed/Mocking", "Angry", "Sad"],
-        "ans": 1
-      },
-      {
-        "type": "std",
-        "q": "The relationship between Lakunle and Sidi is characterized by:",
-        "opts": ["Mutual respect", "Conflict of values", "Deep romance", "Hatred"],
-        "ans": 1
+        "q": "The 'tiny spark' in the last line represents:",
+        "opts": ["Fire", "Danger", "Hope", "Death"],
+        "ans": 2
       }
     ]
   },
@@ -297,6 +297,132 @@
     "type": "std",
     "q": "Comic relief is used to:",
     "opts": ["Increase tension", "Reduce tension", "End the play", "Confuse the audience"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "In 'The Lion and the Jewel', Lakunle represents:",
+    "opts": ["Tradition", "Western Civilization", "Royalty", "Poverty"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Heathcliff is the protagonist of which novel?",
+    "opts": ["Jane Eyre", "Wuthering Heights", "Great Expectations", "Oliver Twist"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A lyrical poem usually expressing intense emotion is:",
+    "opts": ["Ballad", "Lyric", "Epic", "Didactic"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "In literature, the 'resolution' is also known as:",
+    "opts": ["Denouement", "Climax", "Conflict", "Prologue"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A character that does not change throughout the story is:",
+    "opts": ["Round character", "Flat/Static character", "Dynamic character", "Protagonist"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The use of humor to criticize society is:",
+    "opts": ["Satire", "Allegory", "Myth", "Fable"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "In 'Look Back in Anger', the ironing board is a symbol of:",
+    "opts": ["Domestic drudgery", "Wealth", "Love", "War"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Who is the author of 'Wuthering Heights'?",
+    "opts": ["Charlotte Bronte", "Emily Bronte", "Jane Austen", "George Eliot"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The attribution of human feelings to inanimate objects is:",
+    "opts": ["Pathetic Fallacy", "Personification", "Metaphor", "Simile"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "An exaggerated pride leading to a hero's downfall is:",
+    "opts": ["Hubris", "Hamartia", "Nemesis", "Pathos"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Adah in 'Second Class Citizen' moves to:",
+    "opts": ["USA", "United Kingdom", "Ghana", "France"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A question asked for effect with no answer expected is:",
+    "opts": ["Rhetorical question", "Direct question", "Indirect question", "Tag question"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The poetic device in 'The buzzing bee flew away' is:",
+    "opts": ["Onomatopoeia", "Alliteration", "Assonance", "Metaphor"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "In drama, 'Aside' is spoken to:",
+    "opts": ["Another character", "The audience", "The director", "No one"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The antagonist in 'The Lion and the Jewel' is often seen as:",
+    "opts": ["Sidi", "Baroka", "Lakunle", "Sadiku"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "A play typically divided into acts and:",
+    "opts": ["Chapters", "Scenes", "Stanzas", "Verses"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The perspective from which a story is told is:",
+    "opts": ["Point of view", "Setting", "Theme", "Plot"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a Non-African poem?",
+    "opts": ["The Panic of Growing Older", "The Pulley", "The Anvil and the Hammer", "Vanity"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A foil character is used to:",
+    "opts": ["Create conflict", "Highlight qualities of the protagonist", "End the story", "Narrate the story"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The sequence of events in a story is the:",
+    "opts": ["Plot", "Theme", "Setting", "Characterization"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "In 'Invisible Man', the protagonist is:",
+    "opts": ["Named Jack", "Unnamed", "Named Ras", "Named Tod"],
     "ans": 1
   }
 ]
