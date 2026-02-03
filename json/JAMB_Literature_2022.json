@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "poem",
+    "content": "I wonder how long, you say,\nI must wait for the day.\nWhen the sun will shine,\nOn this heart of mine.\nAnd the clouds will part,\nTo heal my heart.",
+    "questions": [
+      {
+        "type": "std",
+        "q": "The rhyme scheme of the poem is:",
+        "opts": ["ababcc", "aabbcc", "abcabc", "abacbc"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The 'sun' in line 3 symbolizes:",
+        "opts": ["Heat", "Hope/Happiness", "Time", "Fire"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The mood of the poem is:",
+        "opts": ["Joyful", "Expectant/Melancholic", "Angry", "Indifferent"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The figure of speech in 'heal my heart' is:",
+        "opts": ["Simile", "Alliteration", "Oxymoron", "Hyperbole"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The speaker is waiting for:",
+        "opts": ["Rain", "A better time", "A friend", "Night"],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "LAKUNLE: (To Sidi) A savage custom, barbaric, out-dated, rejected, denounced, accursed, excommunicated, archaic, degrading, humiliating, unspeakable, redundant, retrogressive, remarkable, unpalatable.\nSIDI: Is the bag empty? Why did you stop?",
+    "questions": [
+      {
+        "type": "std",
+        "q": "This excerpt is likely from which text?",
+        "opts": ["Look Back in Anger", "The Lion and the Jewel", "Second Class Citizen", "Wuthering Heights"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "Lakunle's speech is an example of:",
+        "opts": ["Verbosity/Bombast", "Simile", "Irony", "Euphemism"],
+        "ans": 0
+      },
+      {
+        "type": "std",
+        "q": "Lakunle is describing:",
+        "opts": ["Sidi's beauty", "The Bride Price", "The Village Head", "The Weather"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "Sidi's response suggests she is:",
+        "opts": ["Impressed", "Unimpressed/Mocking", "Angry", "Sad"],
+        "ans": 1
+      },
+      {
+        "type": "std",
+        "q": "The relationship between Lakunle and Sidi is characterized by:",
+        "opts": ["Mutual respect", "Conflict of values", "Deep romance", "Hatred"],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "type": "std",
+    "q": "The statement 'He is a lion in the battlefield' is an example of:",
+    "opts": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A poem of fourteen lines is called a:",
+    "opts": ["Ballad", "Sonnet", "Ode", "Elegy"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "'The sun smiled at us' illustrates:",
+    "opts": ["Metaphor", "Personification", "Irony", "Paradox"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A play that ends happily is called a:",
+    "opts": ["Tragedy", "Comedy", "Melodrama", "Farce"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The repetition of consonant sounds at the beginning of words is:",
+    "opts": ["Assonance", "Alliteration", "Rhyme", "Rhythm"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "'Bittersweet' is an example of:",
+    "opts": ["Oxymoron", "Irony", "Metaphor", "Simile"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The main character in a literary work is the:",
+    "opts": ["Antagonist", "Protagonist", "Villain", "Narrator"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A speech made by a character alone on stage is a:",
+    "opts": ["Dialogue", "Soliloquy", "Monologue", "Aside"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Hyperbole is the use of:",
+    "opts": ["Understatement", "Exaggeration", "Comparison", "Contradiction"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "'All hands on deck' uses which figure of speech?",
+    "opts": ["Metaphor", "Synecdoche", "Irony", "Simile"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The central idea of a literary work is the:",
+    "opts": ["Plot", "Theme", "Setting", "Style"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A poem mourning the dead is an:",
+    "opts": ["Ode", "Elegy", "Epic", "Lyric"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The time and place of action in a story is the:",
+    "opts": ["Plot", "Setting", "Theme", "Mood"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "'I have told you a million times' is:",
+    "opts": ["Metaphor", "Hyperbole", "Simile", "Personification"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The audience's feeling of pity and fear in a tragedy is:",
+    "opts": ["Catharsis", "Hubris", "Climax", "Conflict"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A story with a hidden meaning (moral or political) is an:",
+    "opts": ["Allegory", "Allusion", "Anecdote", "Anthem"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The clash of opposing forces in a play is:",
+    "opts": ["Climax", "Conflict", "Resolution", "Exposition"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'The Lion and the Jewel'?",
+    "opts": ["Chinua Achebe", "Wole Soyinka", "J.P. Clark", "Ngugi wa Thiong'o"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "In 'Look Back in Anger', the protagonist is:",
+    "opts": ["Jimmy Porter", "Cliff", "Alison", "Helena"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The recurrence of beat or stress in poetry is:",
+    "opts": ["Rhyme", "Rhythm", "Meter", "Stanza"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A play that exaggerates situations for humor is:",
+    "opts": ["Tragedy", "Farce", "Opera", "History"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Sarcasm is a form of:",
+    "opts": ["Irony", "Metaphor", "Simile", "Symbolism"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "'The pen is mightier than the sword' is:",
+    "opts": ["Metonymy", "Synecdoche", "Metaphor", "Simile"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The turning point of a story is the:",
+    "opts": ["Exposition", "Climax", "Resolution", "Falling Action"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Epistolary novel is written in the form of:",
+    "opts": ["Diaries", "Letters", "News", "Songs"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The writer's attitude towards the subject is:",
+    "opts": ["Mood", "Tone", "Style", "Theme"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The use of words to imitate sounds is:",
+    "opts": ["Alliteration", "Onomatopoeia", "Assonance", "Pun"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A long narrative poem about a hero is an:",
+    "opts": ["Epic", "Elegy", "Ode", "Ballad"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "'Death, be not proud' is an example of:",
+    "opts": ["Apostrophe", "Personification", "Metaphor", "Simile"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "In 'Second Class Citizen', Adah fights against:",
+    "opts": ["Racism and Sexism", "Poverty only", "Her children", "The government"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A stanza of two lines is a:",
+    "opts": ["Couplet", "Triplet", "Quatrain", "Sestet"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The error of judgment in a tragic hero is:",
+    "opts": ["Hubris", "Hamartia", "Catharsis", "Peripeteia"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Comparison using 'like' or 'as' is:",
+    "opts": ["Metaphor", "Simile", "Irony", "Personification"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'Invisible Man'?",
+    "opts": ["Ralph Ellison", "Richard Wright", "James Baldwin", "Langston Hughes"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The repetition of vowel sounds is:",
+    "opts": ["Alliteration", "Assonance", "Consonance", "Rhyme"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A direct address to an absent person or object is:",
+    "opts": ["Apostrophe", "Aside", "Soliloquy", "Dialogue"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which genre is performed on stage?",
+    "opts": ["Prose", "Drama", "Poetry", "Essay"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Comic relief is used to:",
+    "opts": ["Increase tension", "Reduce tension", "End the play", "Confuse the audience"],
+    "ans": 1
+  }
+]
