@@ -7,7 +7,7 @@
   },
   {
     "type": "std",
-    "q": "Simplify $$\\frac{2\\sqrt{3} - \sqrt{2}}{\\sqrt{3} + 2\sqrt{2}}$$.",
+    "q": "Simplify $$\\frac{2\\sqrt{3} - \\sqrt{2}}{\\sqrt{3} + 2\\sqrt{2}}$$.",
     "opts": ["$$ \\frac{1}{5}(4 - 3\\sqrt{6}) $$", "$$ \\frac{1}{5}(8 - 5\\sqrt{6}) $$", "$$ 4 - 3\\sqrt{6} $$", "$$ \\frac{1}{5}(2 - 3\\sqrt{6}) $$"],
     "ans": 1
   },
@@ -145,7 +145,7 @@
   },
   {
     "type": "std",
-    "q": "What is the value of $$x$$ in the diagram if the triangle is equilateral?",
+    "q": "What is the value of each angle in an equilateral triangle?",
     "opts": ["$$30^\\circ$$", "$$45^\\circ$$", "$$60^\\circ$$", "$$90^\\circ$$"],
     "ans": 2
   },
@@ -297,6 +297,66 @@
     "type": "std",
     "q": "Express $$0.06$$ as a fraction in lowest terms.",
     "opts": ["$$\\frac{3}{5}$$", "$$\\frac{3}{50}$$", "$$\\frac{6}{100}$$", "$$\\frac{1}{6}$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "If $$a * b = ab + a + b$$, evaluate $$2 * 3$$.",
+    "opts": ["$$6$$", "$$11$$", "$$9$$", "$$12$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Find the determinant of $$\\begin{pmatrix} 3 & 2 \\\\ 1 & 5 \\end{pmatrix}$$.",
+    "opts": ["$$13$$", "$$17$$", "$$15$$", "$$2$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a rational number?",
+    "opts": ["$$\\sqrt{2}$$", "$$\\pi$$", "$$0.5$$", "$$\\sqrt{3}$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Calculate the 5th term of the AP: 2, 5, 8, ...",
+    "opts": ["$$11$$", "$$14$$", "$$17$$", "$$20$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "If $$\\sin x = 0.5$$, find $$x$$ for $$0^\\circ \\le x \\le 90^\\circ$$.",
+    "opts": ["$$30^\\circ$$", "$$45^\\circ$$", "$$60^\\circ$$", "$$90^\\circ$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the derivative of $$y = 4x^3 - 2x + 1$$.",
+    "opts": ["$$12x^2 - 2$$", "$$12x^2 - 2x$$", "$$4x^2 - 2$$", "$$12x^2$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Calculate the percentage error if a length 5.0m is measured as 5.2m.",
+    "opts": ["$$4\\%$$", "$$2\\%$$", "$$10\\%$$", "$$5\\%$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A binary operation is commutative if:",
+    "opts": ["$$a * b = b * a$$", "$$a * b = b / a$$", "$$a + b = a * b$$", "$$a - b = b - a$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The angle of elevation of the top of a tower from a point 20m away is $$45^\\circ$$. Find the height.",
+    "opts": ["$$20m$$", "$$10m$$", "$$40m$$", "$$20\\sqrt{2}m$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the modulus of the vector $$\\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j}$$.",
+    "opts": ["$$7$$", "$$5$$", "$$1$$", "$$12$$"],
     "ans": 1
   }
 ]
