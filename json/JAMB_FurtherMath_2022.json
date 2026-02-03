@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Find the limit: $$\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2}$$.",
+    "opts": ["$$0$$", "$$2$$", "$$4$$", "$$\\infty$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "If $$y = e^{3x}$$, find $$\\frac{d^2y}{dx^2}$$.",
+    "opts": ["$$3e^{3x}$$", "$$9e^{3x}$$", "$$e^{3x}$$", "$$6e^{3x}$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Evaluate $$\\int_0^1 (2x + 1)^3 \\, dx$$.",
+    "opts": ["$$5$$", "$$10$$", "$$20$$", "$$40$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Given $$A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$$, find $$A^{-1}$$.",
+    "opts": ["$$\\begin{pmatrix} -2 & 1 \\\\ 1.5 & -0.5 \\end{pmatrix}$$", "$$\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$$", "$$-\\frac{1}{2}\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$$", "$$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Find the center of the circle $$x^2 + y^2 - 6x + 4y - 12 = 0$$.",
+    "opts": ["$$(3, -2)$$", "$$(-3, 2)$$", "$$(6, -4)$$", "$$(-6, 4)$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The coefficient of $$x^3$$ in the expansion of $$(1 - 2x)^5$$ is:",
+    "opts": ["$$-80$$", "$$80$$", "$$-40$$", "$$40$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "If $$\\alpha$$ and $$\\beta$$ are roots of $$2x^2 - 3x + 4 = 0$$, find $$\\alpha + \\beta$$.",
+    "opts": ["$$1.5$$", "$$-1.5$$", "$$2$$", "$$-2$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.",
+    "opts": ["$$\\frac{2}{x-1} + \\frac{3}{x+1}$$", "$$\\frac{3}{x-1} + \\frac{2}{x+1}$$", "$$\\frac{2}{x-1} - \\frac{3}{x+1}$$", "$$\\frac{3}{x-1} - \\frac{2}{x+1}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the derivative of $$y = \\ln(\\sin x)$$.",
+    "opts": ["$$\\tan x$$", "$$\\cot x$$", "$$\\sec x$$", "$$\\csc x$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A particle moves with velocity $$v = 3t^2 - 2t$$. Find its acceleration at $$t=2$$.",
+    "opts": ["$$10$$", "$$12$$", "$$8$$", "$$6$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the unit vector parallel to $$\\mathbf{a} = 3\\mathbf{i} + 4\\mathbf{j}$$.",
+    "opts": ["$$\\frac{3}{5}\\mathbf{i} + \\frac{4}{5}\\mathbf{j}$$", "$$3\\mathbf{i} + 4\\mathbf{j}$$", "$$5\\mathbf{i} + 5\\mathbf{j}$$", "$$\\frac{1}{5}\\mathbf{i} + \\frac{1}{5}\\mathbf{j}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "If $$f(x) = x^3 - 2x^2 + x - 5$$, find the remainder when divided by $$x - 2$$.",
+    "opts": ["$$-3$$", "$$0$$", "$$5$$", "$$-1$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Calculate the mean of the binomial distribution with $$n=10$$ and $$p=0.4$$.",
+    "opts": ["$$4$$", "$$2.4$$", "$$6$$", "$$0.4$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.",
+    "opts": ["$$1/3$$", "$$2/3$$", "$$1/2$$", "$$3/4$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Evaluate $$\\int \\cos(3x) \\, dx$$.",
+    "opts": ["$$3\\sin(3x) + C$$", "$$\\frac{1}{3}\\sin(3x) + C$$", "$$-\\frac{1}{3}\\sin(3x) + C$$", "$$\\sin(3x) + C$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.",
+    "opts": ["$$0^\\circ$$", "$$45^\\circ$$", "$$90^\\circ$$", "$$180^\\circ$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Solve for $$x$$: $$\\log_2(x) + \\log_2(x-2) = 3$$.",
+    "opts": ["$$4$$", "$$2$$", "$$-2$$", "$$6$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the perpendicular distance from point $$(2, 3)$$ to the line $$3x + 4y + 5 = 0$$.",
+    "opts": ["$$4.6$$", "$$5$$", "$$23/5$$", "$$4$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Determine the nature of the roots of $$x^2 + 4x + 4 = 0$$.",
+    "opts": ["Real and distinct", "Real and equal", "Complex", "Rational"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A force of 10N acts on a body of mass 2kg. Find the acceleration.",
+    "opts": ["$$20 m/s^2$$", "$$5 m/s^2$$", "$$0.2 m/s^2$$", "$$8 m/s^2$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Permutation: In how many ways can 5 people sit in a row?",
+    "opts": ["$$120$$", "$$24$$", "$$720$$", "$$60$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the standard deviation of 1, 2, 3, 4, 5.",
+    "opts": ["$$\\sqrt{2}$$", "$$\\sqrt{2.5}$$", "$$2$$", "$$1.414$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The probability of an event A occurring is 0.3. What is the probability of A not occurring?",
+    "opts": ["$$0.3$$", "$$0.7$$", "$$1.0$$", "$$0.0$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Simplify $$\\frac{1 - \\tan^2 \\theta}{1 + \\tan^2 \\theta}$$.",
+    "opts": ["$$\\cos 2\\theta$$", "$$\\sin 2\\theta$$", "$$\\tan 2\\theta$$", "$$1$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the gradient of the curve $$y = x^2 - 4x$$ at the point where $$x = 3$$.",
+    "opts": ["$$1$$", "$$2$$", "$$3$$", "$$4$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The determinant of matrix $$\\begin{pmatrix} 2 & k \\\\ 1 & 4 \\end{pmatrix}$$ is 6. Find $$k$$.",
+    "opts": ["$$1$$", "$$2$$", "$$3$$", "$$4$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A binary operation $$*$$ is defined by $$a * b = a + b + ab$$. Find $$2 * 3$$.",
+    "opts": ["$$5$$", "$$6$$", "$$11$$", "$$10$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a vector quantity?",
+    "opts": ["Speed", "Mass", "Displacement", "Distance"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Find the modulus of the complex number $$z = 3 - 4i$$.",
+    "opts": ["$$1$$", "$$5$$", "$$7$$", "$$25$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "If $$^nC_2 = 10$$, find $$n$$.",
+    "opts": ["$$4$$", "$$5$$", "$$6$$", "$$3$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Equation of the parabola with focus $$(2, 0)$$ and directrix $$x = -2$$ is:",
+    "opts": ["$$y^2 = 4x$$", "$$y^2 = 8x$$", "$$x^2 = 8y$$", "$$y^2 = -8x$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Integrate $$\\int x e^{x^2} \\, dx$$.",
+    "opts": ["$$e^{x^2} + C$$", "$$\\frac{1}{2}e^{x^2} + C$$", "$$2e^{x^2} + C$$", "$$x^2e^x + C$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Find the cross product $$\\mathbf{i} \\times \\mathbf{j}$$.",
+    "opts": ["$$\\mathbf{k}$$", "$$-\\mathbf{k}$$", "$$\\mathbf{0}$$", "$$1$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "What is the correlation coefficient if two variables are perfectly positively correlated?",
+    "opts": ["$$0$$", "$$1$$", "$$-1$$", "$$0.5$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The moment of a force of 10N at a distance of 2m is:",
+    "opts": ["$$20 Nm$$", "$$5 Nm$$", "$$12 Nm$$", "$$8 Nm$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the range of $$f(x) = \\sin x$$.",
+    "opts": ["$$(-1, 1)$$", "$$[-1, 1]$$", "$$[0, 1]$$", "$$(-\\infty, \\infty)$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?",
+    "opts": ["$$0$$", "$$I$$", "$$A$$", "$$B$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Find the slope of the tangent to $$y = x^3$$ at $$x = -1$$.",
+    "opts": ["$$-1$$", "$$-3$$", "$$3$$", "$$1$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Three coins are tossed. Probability of getting 3 heads is:",
+    "opts": ["$$1/8$$", "$$3/8$$", "$$1/2$$", "$$1/4$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The centroid of a triangle with vertices $$(0,0), (4,0), (2,3)$$ is:",
+    "opts": ["$$(2, 1)$$", "$$(2, 3)$$", "$$(3, 1)$$", "$$(1, 2)$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the value of $$\\lim_{x \\to 0} \\frac{\\sin x}{x}$$.",
+    "opts": ["$$0$$", "$$1$$", "$$\\infty$$", "$$-1$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:",
+    "opts": ["$$11$$", "$$10$$", "$$7$$", "$$3$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "If $$y = \\ln x$$, then $$\\frac{dy}{dx}$$ is:",
+    "opts": ["$$e^x$$", "$$1/x$$", "$$x$$", "$$\\ln x$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A bag contains 3 red and 2 blue balls. Probability of picking a red ball is:",
+    "opts": ["$$3/5$$", "$$2/5$$", "$$1/2$$", "$$1/3$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the solution set of $$|x - 2| < 3$$.",
+    "opts": ["$$-1 < x < 5$$", "$$x < 5$$", "$$x > -1$$", "$$1 < x < 5$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The derivative of a constant is:",
+    "opts": ["$$1$$", "$$0$$", "$$x$$", "$$\\infty$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Given $$f(x) = 2x + 1$$, find $$f^{-1}(x)$$.",
+    "opts": ["$$(x-1)/2$$", "$$(x+1)/2$$", "$$2x-1$$", "$$1/(2x+1)$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the sum of roots of $$x^2 - 5x + 6 = 0$$.",
+    "opts": ["$$5$$", "$$-5$$", "$$6$$", "$$-6$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which is a measure of dispersion?",
+    "opts": ["Mean", "Median", "Mode", "Variance"],
+    "ans": 3
+  },
+  {
+    "type": "std",
+    "q": "Calculate the magnitude of vector $$\\mathbf{v} = 6\\mathbf{i} - 8\\mathbf{j}$$.",
+    "opts": ["$$10$$", "$$14$$", "$$2$$", "$$100$$"],
+    "ans": 0
+  }
+]
