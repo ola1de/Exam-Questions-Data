@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "If $$f(x) = 3x^2 - 2x + 1$$, find the value of $$\\lim_{h \\to 0} \\frac{f(x+h) - f(x)}{h}$$.",
+    "opts": ["$$6x - 2$$", "$$3x - 2$$", "$$6x + 2$$", "$$6x$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Evaluate $$\\int_{0}^{\\pi/2} \\sin^2 x \\, dx$$.",
+    "opts": ["$$\\frac{\\pi}{2}$$", "$$\\frac{\\pi}{4}$$", "$$\\pi$$", "$$1$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Find the centre of the circle given by the equation $$x^2 + y^2 - 4x + 6y - 12 = 0$$.",
+    "opts": ["$$(2, -3)$$", "$$(-2, 3)$$", "$$(2, 3)$$", "$$(-2, -3)$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Given matrices $$A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix}$$ and $$B = \\begin{pmatrix} 1 & -2 \\\\ 0 & 5 \\end{pmatrix}$$, find $$AB$$.",
+    "opts": ["$$\\begin{pmatrix} 2 & 1 \\\\ 3 & 14 \\end{pmatrix}$$", "$$\\begin{pmatrix} 2 & 1 \\\\ 0 & 20 \\end{pmatrix}$$", "$$\\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix}$$", "$$\\begin{pmatrix} 2 & 1 \\\\ 3 & 14 \\end{pmatrix}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "If $$y = e^{2x} \\cos 3x$$, find $$\\frac{dy}{dx}$$.",
+    "opts": ["$$e^{2x}(2\\cos 3x - 3\\sin 3x)$$", "$$e^{2x}(3\\cos 3x - 2\\sin 3x)$$", "$$e^{2x}(\\cos 3x + \\sin 3x)$$", "$$2e^{2x}\\cos 3x$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the unit vector in the direction of vector $$\\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j}$$.",
+    "opts": ["$$\\frac{1}{5}(3\\mathbf{i} - 4\\mathbf{j})$$", "$$\\frac{1}{5}(3\\mathbf{i} + 4\\mathbf{j})$$", "$$5(3\\mathbf{i} - 4\\mathbf{j})$$", "$$3\\mathbf{i} - 4\\mathbf{j}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Solve for $$x$$ if $$ \\log_3(2x + 1) - \\log_3(x - 2) = 1 $$.",
+    "opts": ["$$x = 7$$", "$$x = 5$$", "$$x = 4$$", "$$x = 3$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The binary operation $$*$$ is defined on the set of real numbers by $$a * b = a + b - ab$$. Find the identity element.",
+    "opts": ["$$0$$", "$$1$$", "$$-1$$", "$$2$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the variance of the numbers: 2, 4, 6, 8, 10.",
+    "opts": ["$$8$$", "$$6$$", "$$10$$", "$$4$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Evaluate $$\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3}$$.",
+    "opts": ["$$6$$", "$$0$$", "$$3$$", "$$9$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "If $$\\alpha$$ and $$\\beta$$ are the roots of $$2x^2 - 5x + 3 = 0$$, find the value of $$\\alpha^2 + \\beta^2$$.",
+    "opts": ["$$\\frac{13}{4}$$", "$$\\frac{25}{4}$$", "$$\\frac{19}{4}$$", "$$\\frac{7}{4}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the coefficient of $$x^3$$ in the expansion of $$(2 + x)^6$$.",
+    "opts": ["$$160$$", "$$20$$", "$$120$$", "$$64$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A particle moves such that its displacement $$s$$ is given by $$s = t^3 - 6t^2 + 9t + 2$$. Find the time when the velocity is zero.",
+    "opts": ["$$t = 1, 3$$", "$$t = 2, 4$$", "$$t = 0, 3$$", "$$t = 1, 2$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Calculate the area bounded by the curve $$y = x^2$$ and the line $$y = 4$$.",
+    "opts": ["$$\\frac{32}{3}$$", "$$\\frac{16}{3}$$", "$$\\frac{64}{3}$$", "$$32$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the dot product of vectors $$\\mathbf{u} = 2\\mathbf{i} + 3\\mathbf{j}$$ and $$\\mathbf{v} = -\\mathbf{i} + 5\\mathbf{j}$$.",
+    "opts": ["$$13$$", "$$17$$", "$$-2$$", "$$15$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Resolve $$\\frac{3x - 1}{(x-1)(x+2)}$$ into partial fractions.",
+    "opts": ["$$\\frac{2}{3(x-1)} + \\frac{7}{3(x+2)}$$", "$$\\frac{1}{x-1} + \\frac{2}{x+2}$$", "$$\\frac{2}{x-1} - \\frac{7}{x+2}$$", "$$\\frac{2}{3(x-1)} - \\frac{7}{3(x+2)}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Calculate the radius of the circle $$x^2 + y^2 - 6x + 8y = 0$$.",
+    "opts": ["$$5$$", "$$10$$", "$$25$$", "$$7$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Determine the value of $$k$$ for which the matrix $$\\begin{pmatrix} 2 & k \\\\ 3 & 6 \\end{pmatrix}$$ is singular.",
+    "opts": ["$$4$$", "$$2$$", "$$9$$", "$$3$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the equation of the tangent to the curve $$y = x^2 - 3x + 2$$ at the point where $$x = 3$$.",
+    "opts": ["$$y = 3x - 7$$", "$$y = 3x + 7$$", "$$y = -3x + 7$$", "$$y = 2x - 4$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A body of mass 5kg is acted upon by forces $$\\mathbf{F_1} = (2\\mathbf{i} + 5\\mathbf{j})N$$ and $$\\mathbf{F_2} = (3\\mathbf{i} - 10\\mathbf{j})N$$. Find the magnitude of the acceleration.",
+    "opts": ["$$\\sqrt{2} m/s^2$$", "$$5\\sqrt{2} m/s^2$$", "$$2\\sqrt{2} m/s^2$$", "$$1 m/s^2$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Calculate the mean deviation of the set: 3, 5, 8, 11, 13.",
+    "opts": ["$$3.2$$", "$$4.0$$", "$$3.0$$", "$$2.8$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Evaluate $$\\int (3x^2 - 4x + 5) \\, dx$$.",
+    "opts": ["$$x^3 - 2x^2 + 5x + C$$", "$$3x^3 - 4x^2 + 5x + C$$", "$$x^3 - 4x^2 + 5x + C$$", "$$6x - 4 + C$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "If $$^nP_2 = 30$$, find the value of $$n$$.",
+    "opts": ["$$6$$", "$$5$$", "$$10$$", "$$15$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the cross product $$\\mathbf{a} \\times \\mathbf{b}$$ if $$\\mathbf{a} = \\mathbf{i} + 2\\mathbf{j} - \\mathbf{k}$$ and $$\\mathbf{b} = 2\\mathbf{i} + 3\\mathbf{j} + \\mathbf{k}$$.",
+    "opts": ["$$5\\mathbf{i} - 3\\mathbf{j} - \\mathbf{k}$$", "$$5\\mathbf{i} + 3\\mathbf{j} - \\mathbf{k}$$", "$$5\\mathbf{i} - 3\\mathbf{j} + \\mathbf{k}$$", "$$-5\\mathbf{i} + 3\\mathbf{j} - \\mathbf{k}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$.",
+    "opts": ["$$1$$", "$$0.5$$", "$$2$$", "$$0$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the angle between the vectors $$\\mathbf{a} = 3\\mathbf{i} + 4\\mathbf{j}$$ and $$\\mathbf{b} = 5\\mathbf{i} + 12\\mathbf{j}$$.",
+    "opts": ["$$\\cos^{-1}\\left(\\frac{63}{65}\\right)$$", "$$\\cos^{-1}\\left(\\frac{33}{65}\\right)$$", "$$90^\\circ$$", "$$45^\\circ$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A committee of 3 men and 2 women is to be formed from 6 men and 5 women. In how many ways can this be done?",
+    "opts": ["$$200$$", "$$150$$", "$$300$$", "$$120$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Solve the inequality $$x^2 - 5x + 6 < 0$$.",
+    "opts": ["$$2 < x < 3$$", "$$x < 2$$ or $$x > 3$$", "$$-3 < x < -2$$", "$$x < -3$$ or $$x > -2$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the derivative of $$y = \\tan^{-1} x$$.",
+    "opts": ["$$\\frac{1}{1+x^2}$$", "$$\\frac{1}{1-x^2}$$", "$$\\sec^2 x$$", "$$\\frac{1}{\\sqrt{1-x^2}}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.",
+    "opts": ["$$\\frac{3}{2}$$", "$$\\frac{4}{3}$$", "$$\\frac{2}{3}$$", "$$2$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Determine the coordinates of the focus of the parabola $$y^2 = 12x$$.",
+    "opts": ["$$(3, 0)$$", "$$(0, 3)$$", "$$(-3, 0)$$", "$$(0, -3)$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Calculate the standard deviation of numbers: 2, 3, 5, 6, 9.",
+    "opts": ["$$2.45$$", "$$6.0$$", "$$5.0$$", "$$2.0$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "If $$P(A) = 0.4$$, $$P(B) = 0.5$$ and $$A$$ and $$B$$ are independent, find $$P(A \\cup B)$$.",
+    "opts": ["$$0.7$$", "$$0.9$$", "$$0.2$$", "$$0.5$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the gradient of the normal to the curve $$y = x^3 - 2x + 1$$ at $$x = 1$$.",
+    "opts": ["$$-1$$", "$$1$$", "$$-3$$", "$$3$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Two forces of 30N and 40N act at right angles. Determine the magnitude of the resultant force.",
+    "opts": ["$$50N$$", "$$70N$$", "$$10N$$", "$$35N$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Express $$1 - i\\sqrt{3}$$ in polar form.",
+    "opts": ["$$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$", "$$2(\\cos 60^\\circ + i\\sin 60^\\circ)$$", "$$2(\\cos 330^\\circ + i\\sin 330^\\circ)$$", "$$4(\\cos 300^\\circ + i\\sin 300^\\circ)$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Evaluate the determinant of $$\\begin{pmatrix} 1 & 2 & 3 \\\\ 0 & 4 & 5 \\\\ 1 & 0 & 6 \\end{pmatrix}$$.",
+    "opts": ["$$22$$", "$$18$$", "$$10$$", "$$2$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A mapping $$f: \\mathbb{R} \\to \\mathbb{R}$$ is defined by $$f(x) = 2x - 3$$. Find $$f^{-1}(x)$$.",
+    "opts": ["$$\\frac{x+3}{2}$$", "$$\\frac{x-3}{2}$$", "$$2x + 3$$", "$$\\frac{1}{2x-3}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "If $$y = x^x$$, find $$\\frac{dy}{dx}$$.",
+    "opts": ["$$x^x(1 + \\ln x)$$", "$$x^x \\ln x$$", "$$x \\cdot x^{x-1}$$", "$$x^x(1 - \\ln x)$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the value of $$x$$ if the distance between points $$P(2, -3)$$ and $$Q(x, 5)$$ is $$10$$.",
+    "opts": ["$$8$$ or $$-4$$", "$$6$$ or $$-2$$", "$$8$$ or $$4$$", "$$-8$$ or $$4$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a scalar quantity?",
+    "opts": ["Work", "Velocity", "Force", "Displacement"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the equations of the asymptotes of the hyperbola $$\\frac{x^2}{9} - \\frac{y^2}{16} = 1$$.",
+    "opts": ["$$y = \\pm \\frac{4}{3}x$$", "$$y = \\pm \\frac{3}{4}x$$", "$$y = \\pm \\frac{16}{9}x$$", "$$y = \\pm \\frac{9}{16}x$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Determine the order of the differential equation $$\\frac{d^2y}{dx^2} + 3\\left(\\frac{dy}{dx}\\right)^4 - y = 0$$.",
+    "opts": ["$$2$$", "$$1$$", "$$4$$", "$$3$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Solve $$ \\sin x = 0.5 $$ for $$ 0 \\le x \\le 180^\\circ $$.",
+    "opts": ["$$30^\\circ, 150^\\circ$$", "$$30^\\circ, 60^\\circ$$", "$$60^\\circ, 120^\\circ$$", "$$45^\\circ, 135^\\circ$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the range of the function $$f(x) = \\frac{1}{1+x^2}$$.",
+    "opts": ["$$0 < y \\le 1$$", "$$0 \\le y \\le 1$$", "$$y \\ge 1$$", "$$y \\in \\mathbb{R}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "If the roots of $$x^2 - px + q = 0$$ are equal, then:",
+    "opts": ["$$p^2 = 4q$$", "$$p^2 = 2q$$", "$$q^2 = 4p$$", "$$p = 4q$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Evaluate $$\\int_1^2 \\frac{1}{x} \\, dx$$.",
+    "opts": ["$$\\ln 2$$", "$$1$$", "$$\\ln 3$$", "$$0.5$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Three coins are tossed. Find the probability of getting exactly two heads.",
+    "opts": ["$$\\frac{3}{8}$$", "$$\\frac{1}{2}$$", "$$\\frac{1}{4}$$", "$$\\frac{5}{8}$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Find the constant term in the expansion of $$\\left(x + \\frac{1}{x}\\right)^4$$.",
+    "opts": ["$$6$$", "$$4$$", "$$1$$", "$$8$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Calculate the work done by a force $$\\mathbf{F} = (3\\mathbf{i} + 4\\mathbf{j})N$$ moving a particle from point $$(1, 2)$$ to $$(4, 6)$$.",
+    "opts": ["$$25J$$", "$$20J$$", "$$50J$$", "$$15J$$"],
+    "ans": 0
+  }
+]
