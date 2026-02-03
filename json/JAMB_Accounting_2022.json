@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The accounting equation states that:",
+    "opts": ["Assets = Liabilities - Capital", "Assets = Capital + Liabilities", "Capital = Assets + Liabilities", "Liabilities = Assets + Capital"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a nominal account?",
+    "opts": ["Motor vehicle account", "Rent account", "Debtor's account", "Cash account"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Goods withdrawn by the owner for personal use are credited to:",
+    "opts": ["Sales account", "Drawings account", "Purchases account", "Capital account"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "A bank reconciliation statement is prepared to:",
+    "opts": ["Correct errors in the ledger", "Reconcile cash book and bank statement balance", "Calculate profit", "Detect fraud"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Depreciation is defined as:",
+    "opts": ["Wear and tear of assets", "Increase in value of assets", "Sale of assets", "Purchase of assets"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a Current Asset?",
+    "opts": ["Land", "Machinery", "Stock/Inventory", "Goodwill"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Carriage inwards is charged to the:",
+    "opts": ["Trading Account", "Profit and Loss Account", "Balance Sheet", "Cash Book"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The double entry for selling goods for cash is:",
+    "opts": ["Dr Cash, Cr Sales", "Dr Sales, Cr Cash", "Dr Cash, Cr Stock", "Dr Capital, Cr Sales"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Capital expenditure is expenditure on:",
+    "opts": ["Day to day running", "Fixed assets", "Salaries", "Rent"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Revenue expenditure is charged to:",
+    "opts": ["Balance Sheet", "Profit and Loss Account", "Capital Account", "Suspense Account"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Bad debts recovered are credited to:",
+    "opts": ["Bad debts account", "Bad debts recovered account", "Debtor's account", "Sales account"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A credit balance in the Cash Book indicates:",
+    "opts": ["Cash in hand", "Cash at bank", "Bank overdraft", "Profit"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The source document for returns inwards is:",
+    "opts": ["Credit note", "Debit note", "Invoice", "Receipt"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Prime cost consists of:",
+    "opts": ["Direct materials + Direct labor + Direct expenses", "Factory overheads + Work in progress", "Cost of sales + Profit", "Fixed cost + Variable cost"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Goodwill is an example of:",
+    "opts": ["Tangible asset", "Intangible asset", "Current asset", "Fictitious asset"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "In a partnership without a deed, profits are shared:",
+    "opts": ["Equally", "According to capital ratio", "According to age", "To the active partner only"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A suspense account is used to:",
+    "opts": ["Record bad debts", "Balance the trial balance temporarily", "Record drawings", "Calculate depreciation"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which method of depreciation charges a fixed amount every year?",
+    "opts": ["Straight line method", "Reducing balance method", "Sum of digits method", "Revaluation method"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The excess of Current Assets over Current Liabilities is:",
+    "opts": ["Capital employed", "Working capital", "Net profit", "Gross profit"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Subcriptions in advance in a club's account is a:",
+    "opts": ["Asset", "Liability", "Income", "Expense"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Cost of Goods Sold is calculated as:",
+    "opts": ["Opening Stock + Purchases - Closing Stock", "Sales - Gross Profit", "Purchases + Expenses", "Opening Stock + Sales"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which account is used to record small cash payments?",
+    "opts": ["Cash account", "Bank account", "Petty cash book", "Journal"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The imprest system is associated with:",
+    "opts": ["Sales ledger", "Petty cash book", "Purchase ledger", "General ledger"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Discount allowed is a:",
+    "opts": ["Income", "Expense", "Liability", "Asset"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which error does not affect the trial balance?",
+    "opts": ["Error of omission", "Error of casting", "Error of single entry", "Mathematical error"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Authorized share capital is:",
+    "opts": ["Capital paid up", "Maximum capital a company can issue", "Capital called up", "Capital reserved"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Dividends are paid to:",
+    "opts": ["Debenture holders", "Shareholders", "Creditors", "Directors"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Debenture interest is a:",
+    "opts": ["Appropriation of profit", "Charge against profit", "Dividend", "Reserve"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A statement of affairs is similar to a:",
+    "opts": ["Trading account", "Balance sheet", "Profit and loss account", "Cash book"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Real accounts relate to:",
+    "opts": ["Persons", "Assets/Properties", "Expenses", "Gains"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Opening entries are recorded in the:",
+    "opts": ["Sales journal", "Purchase journal", "General journal", "Cash book"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "When shares are issued at a price higher than face value, it is issued at:",
+    "opts": ["Par", "Discount", "Premium", "Loss"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a long-term liability?",
+    "opts": ["Creditors", "Overdraft", "Debentures", "Accruals"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Control accounts are used to:",
+    "opts": ["Check arithmetical accuracy of ledgers", "Calculate profit", "Record cash", "Calculate tax"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Mark-up is profit expressed as a percentage of:",
+    "opts": ["Sales", "Cost price", "Turnover", "Expenses"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Margin is profit expressed as a percentage of:",
+    "opts": ["Sales/Selling Price", "Cost Price", "Assets", "Liabilities"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Departmental accounts are prepared to:",
+    "opts": ["Show total profit only", "Ascertain the performance of each department", "Avoid tax", "Increase sales"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Income and Expenditure account is used by:",
+    "opts": ["Trading concerns", "Non-profit organizations", "Partnerships", "Public companies"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The book of original entry for credit sales is:",
+    "opts": ["Sales Journal", "Purchase Journal", "Cash Book", "General Journal"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Net Pay is calculated as:",
+    "opts": ["Gross Pay - Deductions", "Gross Pay + Bonus", "Basic Pay + Allowances", "Basic Pay - Tax"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Contra entry appears in the:",
+    "opts": ["Sales ledger", "Cash book", "Purchases ledger", "Journal"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Three column cash book records:",
+    "opts": ["Cash, Bank and Discount", "Cash, Sales and Purchases", "Bank, Capital and Drawings", "Assets, Liabilities and Capital"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Turnover represents:",
+    "opts": ["Net Sales", "Net Purchases", "Gross Profit", "Capital"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which accounting concept assumes the business will continue indefinitely?",
+    "opts": ["Going Concern", "Entity", "Accrual", "Consistency"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Provision for bad debts is deducted from:",
+    "opts": ["Creditors", "Debtors", "Sales", "Capital"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "If Assets = N20,000 and Liabilities = N5,000, Capital is:",
+    "opts": ["N25,000", "N15,000", "N10,000", "N5,000"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Purchases returns is also known as:",
+    "opts": ["Returns inwards", "Returns outwards", "Carriage inwards", "Carriage outwards"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The Trial Balance checks:",
+    "opts": ["Profitability", "Arithmetical accuracy", "Fraud", "Management efficiency"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Closing stock is valued at:",
+    "opts": ["Cost price", "Market price", "Lower of cost or market/net realizable value", "Higher of cost or market value"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Receipts and Payments account is a summary of the:",
+    "opts": ["Cash Book", "Trading Account", "Balance Sheet", "Sales Ledger"],
+    "ans": 0
+  }
+]
