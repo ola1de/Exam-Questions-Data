@@ -1,7 +1,7 @@
 [
   {
     "type": "passage",
-    "content": "<h3>Passage 1: The Impact of Social Media</h3><p>The rise of social media has fundamentally altered the landscape of human interaction. While it has bridged geographical gaps, allowing people to connect across continents, it has also introduced a paradox of isolation. Many users find themselves increasingly lonely despite having thousands of 'friends' online. Furthermore, the 'echo chamber' effect—where users are only exposed to opinions that align with their own—has contributed to significant social polarization. Critical thinking is now more important than ever to discern truth from the orchestrated digital noise.</p>",
+    "content": "<h3>Passage: The Impact of Social Media</h3><p>The rise of social media has fundamentally altered the landscape of human interaction. While it has bridged geographical gaps, allowing people to connect across continents, it has also introduced a paradox of isolation. Many users find themselves increasingly lonely despite having thousands of 'friends' online. Furthermore, the 'echo chamber' effect—where users are only exposed to opinions that align with their own—has contributed to significant social polarization. Critical thinking is now more important than ever to discern truth from the orchestrated digital noise.</p>",
     "questions": [
       { "q": "The 'paradox of isolation' mentioned in the passage implies that...", "opts": ["Social media makes people travel less", "Online connectivity can lead to real-life loneliness", "People prefer to live alone in the digital age", "Isolation is necessary for social media use"], "ans": 1 },
       { "q": "According to the passage, the 'echo chamber' effect leads to...", "opts": ["Improved communication skills", "Social polarization", "A better understanding of different views", "Faster internet speeds"], "ans": 1 },
@@ -12,7 +12,7 @@
   },
   {
     "type": "passage",
-    "content": "<h3>Passage 2: Environmental Sustainability</h3><p>Environmental sustainability is no longer a choice but a necessity. The rapid rate of deforestation and carbon emissions has accelerated climate change, leading to unpredictable weather patterns globally. Industrialized nations bear a larger share of the responsibility, yet developing nations often suffer the most severe consequences. Transitioning to renewable energy sources like wind and solar is the most viable path forward. However, this transition requires massive political will and global cooperation.</p>",
+    "content": "<h3>Passage: Environmental Sustainability</h3><p>Environmental sustainability is no longer a choice but a necessity. The rapid rate of deforestation and carbon emissions has accelerated climate change, leading to unpredictable weather patterns globally. Industrialized nations bear a larger share of the responsibility, yet developing nations often suffer the most severe consequences. Transitioning to renewable energy sources like wind and solar is the most viable path forward. However, this transition requires massive political will and global cooperation.</p>",
     "questions": [
       { "q": "Why is environmental sustainability now considered a 'necessity'?", "opts": ["Because it is fashionable", "Due to the accelerated rate of climate change", "Because oil is too expensive", "To satisfy political leaders"], "ans": 1 },
       { "q": "Which group of countries is said to bear more responsibility for the current situation?", "opts": ["Developing nations", "Industrialized nations", "Island nations", "Landlocked nations"], "ans": 1 },
@@ -62,3 +62,4 @@
   { "type": "std", "q": "Oral English: Identify the word that has the primary stress on the first syllable:", "opts": ["Between", "Father", "Release", "Agree"], "ans": 1 },
   { "type": "std", "q": "Oral English: Which word ends with the /z/ sound?", "opts": ["Cats", "Books", "Dogs", "Maps"], "ans": 2 }
 ]
+
