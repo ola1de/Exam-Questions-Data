@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The number of protons in an atom is its:",
+    "opts": ["Mass number", "Atomic number", "Isotope number", "Nucleon number"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is an example of a chemical change?",
+    "opts": ["Melting ice", "Dissolving sugar", "Rusting of iron", "Evaporation of water"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "What is the oxidation state of Sulphur in $$H_2SO_4$$?",
+    "opts": ["$$+4$$", "$$+6$$", "$$+2$$", "$$-2$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Boyle's Law states relationship between:",
+    "opts": ["Pressure and Temperature", "Volume and Temperature", "Pressure and Volume", "Mass and Volume"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The shape of a methane ($$CH_4$$) molecule is:",
+    "opts": ["Linear", "Tetrahedral", "Pyramidal", "Planar"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which element is a halogen?",
+    "opts": ["Sodium", "Chlorine", "Argon", "Oxygen"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The formula for alkanes is:",
+    "opts": ["$$C_nH_{2n}$$", "$$C_nH_{2n+2}$$", "$$C_nH_{2n-2}$$", "$$C_nH_{2n+1}$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these substances is hygroscopic?",
+    "opts": ["$$CaCl_2$$", "$$CuO$$", "$$NaCl$$", "$$H_2O$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Calculate the molar mass of $$CaCO_3$$. ($$Ca=40, C=12, O=16$$)",
+    "opts": ["$$100 g/mol$$", "$$80 g/mol$$", "$$50 g/mol$$", "$$120 g/mol$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Isotopes have the same:",
+    "opts": ["Mass number", "Neutron number", "Atomic number", "Physical properties"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which gas is evolved when calcium reacts with cold water?",
+    "opts": ["Oxygen", "Hydrogen", "Chlorine", "Nitrogen"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The pH of a neutral solution at 25°C is:",
+    "opts": ["1", "14", "7", "0"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Ethanol reacts with sodium to produce:",
+    "opts": ["Sodium ethanoate", "Sodium ethoxide", "Ethyl chloride", "Ethene"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Bronze is an alloy of:",
+    "opts": ["Copper and Zinc", "Copper and Tin", "Iron and Carbon", "Aluminum and Copper"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Endothermic reactions are characterized by:",
+    "opts": ["Heat release", "Heat absorption", "Light emission", "Sound production"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The main ore of iron is:",
+    "opts": ["Bauxite", "Haematite", "Galena", "Cassiterite"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which gas turns lime water milky?",
+    "opts": ["$$O_2$$", "$$CO_2$$", "$$NO_2$$", "$$H_2$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Catalysts increase reaction rate by:",
+    "opts": ["Increasing temperature", "Lowering activation energy", "Increasing concentration", "Increasing pressure"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a strong acid?",
+    "opts": ["$$CH_3COOH$$", "$$H_2SO_4$$", "$$H_2CO_3$$", "$$C_6H_8O_7$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The purity of a solid can be determined by its:",
+    "opts": ["Boiling point", "Melting point", "Density", "Solubility"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which group does Sodium belong to?",
+    "opts": ["Alkali metals", "Alkaline earth metals", "Halogens", "Noble gases"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Permanent hardness in water is caused by:",
+    "opts": ["$$Ca(HCO_3)_2$$", "$$CaSO_4$$", "$$Na_2CO_3$$", "$$NaCl$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The process of coating iron with zinc is called:",
+    "opts": ["Tinning", "Galvanizing", "Electroplating", "Alloying"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these molecules contains a triple bond?",
+    "opts": ["$$O_2$$", "$$N_2$$", "$$H_2$$", "$$Cl_2$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "What volume of 0.5M HCl is required to neutralize 20ml of 0.5M NaOH?",
+    "opts": ["10ml", "20ml", "40ml", "50ml"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The main component of natural gas is:",
+    "opts": ["Butane", "Methane", "Propane", "Ethene"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Faraday's first law of electrolysis relates mass to:",
+    "opts": ["Voltage", "Quantity of electricity", "Time", "Resistance"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The functional group of alkanols is:",
+    "opts": ["-COOH", "-OH", "-CHO", "-NH2"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Saponification is the production of:",
+    "opts": ["Plastics", "Soap", "Sugar", "Alcohol"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which gas is used for ripening fruits?",
+    "opts": ["Ethene", "Methane", "Butane", "Propane"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Elements in the same period have the same number of:",
+    "opts": ["Valence electrons", "Electron shells", "Protons", "Neutrons"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The bleaching action of Chlorine is due to:",
+    "opts": ["Reduction", "Oxidation", "Decomposition", "Hydrolysis"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which substance is used as an electrolyte in a car battery?",
+    "opts": ["$$HCl$$", "$$H_2SO_4$$", "$$HNO_3$$", "$$CH_3COOH$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Diamond and Graphite are allotropes of:",
+    "opts": ["Oxygen", "Carbon", "Sulphur", "Phosphorus"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A solution with pH 2 is:",
+    "opts": ["Strongly acidic", "Weakly acidic", "Neutral", "Alkaline"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The atomic number of Carbon is:",
+    "opts": ["6", "12", "14", "8"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which technique separates crude oil components?",
+    "opts": ["Filtration", "Fractional distillation", "Evaporation", "Chromatography"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The bond in Sodium Chloride ($$NaCl$$) is:",
+    "opts": ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Water gas is a mixture of:",
+    "opts": ["$$CO$$ and $$H_2$$", "$$CO_2$$ and $$H_2$$", "$$CO$$ and $$N_2$$", "$$CH_4$$ and $$H_2$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which metal is liquid at room temperature?",
+    "opts": ["Iron", "Mercury", "Gold", "Silver"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The reaction between an acid and a base is:",
+    "opts": ["Redox", "Neutralization", "Polymerization", "Esterification"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which pollutant causes acid rain?",
+    "opts": ["$$SO_2$$", "$$CO$$", "$$CH_4$$", "$$CFC$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The law of constant composition is also known as:",
+    "opts": ["Law of Multiple Proportions", "Law of Definite Proportions", "Law of Conservation of Mass", "Avogadro's Law"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Radioactivity was discovered by:",
+    "opts": ["Dalton", "Becquerel", "Bohr", "Rutherford"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Ethanol can be converted to Ethene by:",
+    "opts": ["Hydration", "Dehydration", "Oxidation", "Reduction"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which indicator is suitable for strong acid and strong base titration?",
+    "opts": ["Methyl orange", "Phenolphthalein", "Litmus", "Any of the above"],
+    "ans": 3
+  },
+  {
+    "type": "std",
+    "q": "Chlorine is prepared in the lab by oxidation of:",
+    "opts": ["$$NaCl$$", "$$HCl$$", "$$NaClO$$", "$$Cl_2O$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The IUPAC name of $$CH_3CH_2COOH$$ is:",
+    "opts": ["Ethanoic acid", "Propanoic acid", "Butanoic acid", "Methanoic acid"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Polythene is a polymer of:",
+    "opts": ["Propene", "Ethene", "Butene", "Styrene"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which gas is known as laughing gas?",
+    "opts": ["$$NO$$", "$$N_2O$$", "$$NO_2$$", "$$NH_3$$"],
+    "ans": 1
+  }
+]
