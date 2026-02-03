@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Which of the following is a derived unit?",
+    "opts": ["Kilogram", "Meter", "Newton", "Second"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "A car accelerates from rest at $$2m/s^2$$ for 10s. Calculate the distance covered.",
+    "opts": ["$$100m$$", "$$20m$$", "$$200m$$", "$$50m$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The tendency of a body to remain at rest or in uniform motion is called:",
+    "opts": ["Friction", "Inertia", "Impulse", "Momentum"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Calculate the work done in lifting a 10kg mass through a height of 5m. ($$g = 10m/s^2$$)",
+    "opts": ["$$50J$$", "$$500J$$", "$$5J$$", "$$100J$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which type of lens is used to correct short-sightedness (myopia)?",
+    "opts": ["Convex lens", "Concave lens", "Cylindrical lens", "Bifocal lens"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The specific heat capacity of a substance is the heat required to raise the temperature of:",
+    "opts": ["1kg by 1K", "1g by 1K", "The whole body by 1K", "1 mole by 1K"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Sound waves cannot travel through:",
+    "opts": ["Water", "Steel", "Air", "Vacuum"],
+    "ans": 3
+  },
+  {
+    "type": "std",
+    "q": "Ohm's law states that $$V = IR$$. Here, $$R$$ represents:",
+    "opts": ["Current", "Voltage", "Resistance", "Power"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "A transformer has 500 turns in the primary and 100 turns in the secondary. If the input voltage is 220V, find the output voltage.",
+    "opts": ["$$1100V$$", "$$44V$$", "$$220V$$", "$$50V$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which particle is emitted in alpha decay?",
+    "opts": ["Electron", "Helium nucleus", "Proton", "Neutron"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The velocity ratio of a machine is defined as:",
+    "opts": ["Load / Effort", "Effort distance / Load distance", "Work output / Work input", "Load distance / Effort distance"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The freezing point of water on the Kelvin scale is:",
+    "opts": ["$$0K$$", "$$100K$$", "$$273K$$", "$$373K$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "An object placed at the principal focus of a concave mirror produces an image at:",
+    "opts": ["Center of curvature", "Infinity", "Focus", "Pole"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Calculate the power of a crane that lifts a load of 2000N through 10m in 5s.",
+    "opts": ["$$4000W$$", "$$1000W$$", "$$2000W$$", "$$400W$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a scalar quantity?",
+    "opts": ["Velocity", "Acceleration", "Force", "Temperature"],
+    "ans": 3
+  },
+  {
+    "type": "std",
+    "q": "Total internal reflection occurs when light moves from:",
+    "opts": ["Air to Glass", "Dense to Rare medium", "Rare to Dense medium", "Vacuum to Air"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The S.I unit of capacitance is:",
+    "opts": ["Farad", "Coulomb", "Ohm", "Volt"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Heat transfer by actual movement of fluid molecules is called:",
+    "opts": ["Conduction", "Convection", "Radiation", "Evaporation"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "If the half-life of a substance is 5 days, how much remains after 15 days?",
+    "opts": ["$$1/2$$", "$$1/4$$", "$$1/8$$", "$$1/16$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Pressure in a liquid depends on:",
+    "opts": ["Surface area", "Depth and Density", "Container shape", "Volume"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which instrument is used to measure atmospheric pressure?",
+    "opts": ["Thermometer", "Barometer", "Manometer", "Hygrometer"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The energy stored in a stretched spring is:",
+    "opts": ["Kinetic energy", "Potential energy", "Chemical energy", "Heat energy"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Calculate the frequency of a wave with velocity $$330m/s$$ and wavelength $$10m$$.",
+    "opts": ["$$33Hz$$", "$$330Hz$$", "$$3300Hz$$", "$$3.3Hz$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "In a p-type semiconductor, the majority carriers are:",
+    "opts": ["Electrons", "Holes", "Neutrons", "Protons"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The phenomenon of splitting white light into colours is:",
+    "opts": ["Diffraction", "Refraction", "Dispersion", "Interference"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Upthrust is defined by which principle?",
+    "opts": ["Archimedes' Principle", "Pascal's Principle", "Bernoulli's Principle", "Hooke's Law"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A simple pendulum executes SHM. At maximum displacement, velocity is:",
+    "opts": ["Maximum", "Zero", "Minimum", "Constant"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Electric potential is defined as work done per unit:",
+    "opts": ["Current", "Charge", "Time", "Resistance"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which radiation has the highest penetrating power?",
+    "opts": ["Alpha", "Beta", "Gamma", "X-ray"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Surface tension is caused by:",
+    "opts": ["Adhesive forces", "Cohesive forces", "Gravity", "Friction"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The angle of dip at the magnetic equator is:",
+    "opts": ["$$90^\\circ$$", "$$45^\\circ$$", "$$0^\\circ$$", "$$180^\\circ$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which device converts mechanical energy to electrical energy?",
+    "opts": ["Motor", "Generator", "Transformer", "Resistor"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Calculate the effective resistance of two $$4\\Omega$$ resistors in parallel.",
+    "opts": ["$$8\\Omega$$", "$$2\\Omega$$", "$$4\\Omega$$", "$$1\\Omega$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The pitch of a sound note depends on its:",
+    "opts": ["Amplitude", "Frequency", "Quality", "Loudness"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Evaporation causes:",
+    "opts": ["Heating", "Cooling", "Boiling", "Melting"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "An image formed by a plane mirror is always:",
+    "opts": ["Real and inverted", "Virtual and erect", "Magnified", "Diminished"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The escape velocity on Earth is approximately:",
+    "opts": ["$$11 km/s$$", "$$8 km/s$$", "$$20 km/s$$", "$$5 km/s$$"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which law explains the recoil of a gun?",
+    "opts": ["Newton's 1st Law", "Newton's 2nd Law", "Newton's 3rd Law", "Law of Gravitation"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The latent heat of fusion deals with change from:",
+    "opts": ["Solid to Liquid", "Liquid to Gas", "Solid to Gas", "Gas to Liquid"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A body moves in a circle of radius $$r$$ with speed $$v$$. The centripetal acceleration is:",
+    "opts": ["$$v^2 r$$", "$$v/r$$", "$$v^2/r$$", "$$r/v$$"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The ability of a material to return to its original shape is:",
+    "opts": ["Plasticity", "Elasticity", "Ductility", "Malleability"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "What is the effective capacitance of two $$2\\mu F$$ capacitors in series?",
+    "opts": ["$$4\\mu F$$", "$$1\\mu F$$", "$$2\\mu F$$", "$$0.5\\mu F$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which color of light deviates most through a prism?",
+    "opts": ["Red", "Green", "Blue", "Violet"],
+    "ans": 3
+  },
+  {
+    "type": "std",
+    "q": "Efficiency of a machine is always:",
+    "opts": ["Greater than 100%", "Less than 100%", "Equal to 100%", "Zero"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "In a thermos flask, heat loss by radiation is minimized by:",
+    "opts": ["Cork stopper", "Vacuum", "Silvered walls", "Plastic base"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The unit of electric power is:",
+    "opts": ["Joule", "Watt", "Volt", "Ampere"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Calculate the kinetic energy of a 2kg mass moving at 3m/s.",
+    "opts": ["$$18J$$", "$$9J$$", "$$6J$$", "$$3J$$"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The quantity of heat required to change unit mass of liquid to vapour at constant temperature is:",
+    "opts": ["Specific heat capacity", "Latent heat of fusion", "Latent heat of vaporization", "Heat capacity"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a non-renewable energy source?",
+    "opts": ["Solar", "Wind", "Crude Oil", "Biomass"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The time rate of change of momentum is equal to:",
+    "opts": ["Force", "Impulse", "Energy", "Power"],
+    "ans": 0
+  }
+]
