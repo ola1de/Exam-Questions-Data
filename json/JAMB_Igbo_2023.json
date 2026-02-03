@@ -1,52 +1,302 @@
 [
-  {"type": "std", "q": "The brain of the computer:", "opts": ["CPU", "Monitor", "Mouse", "Keyboard"], "ans": 0},
-  {"type": "std", "q": "RAM is:", "opts": ["Volatile", "Non-volatile", "Permanent", "External"], "ans": 0},
-  {"type": "std", "q": "ROM stands for:", "opts": ["Read Only Memory", "Random Only Memory", "Read On Memory", "Run On Memory"], "ans": 0},
-  {"type": "std", "q": "1 KB equals:", "opts": ["1024 bytes", "1000 bytes", "100 bytes", "8 bytes"], "ans": 0},
-  {"type": "std", "q": "Binary of 10:", "opts": ["1010", "1001", "1100", "1110"], "ans": 0},
-  {"type": "std", "q": "Input device example:", "opts": ["Scanner", "Printer", "Speaker", "Monitor"], "ans": 0},
-  {"type": "std", "q": "Output device example:", "opts": ["Printer", "Mouse", "Keyboard", "Scanner"], "ans": 0},
-  {"type": "std", "q": "Software types:", "opts": ["System and Application", "Hard and Soft", "Input and Output", "Internal and External"], "ans": 0},
-  {"type": "std", "q": "Windows is an:", "opts": ["Operating System", "Application", "Hardware", "Antivirus"], "ans": 0},
-  {"type": "std", "q": "MS Word is for:", "opts": ["Word Processing", "Spreadsheet", "Database", "Presentation"], "ans": 0},
-  {"type": "std", "q": "MS Excel is for:", "opts": ["Spreadsheet/Calculation", "Drawing", "Typing", "Music"], "ans": 0},
-  {"type": "std", "q": "HTTP stands for:", "opts": ["HyperText Transfer Protocol", "High Transfer Text Protocol", "Hyper Tool Transfer Protocol", "High Text Tool Protocol"], "ans": 0},
-  {"type": "std", "q": "WWW stands for:", "opts": ["World Wide Web", "World Web Wide", "Wide World Web", "Web World Wide"], "ans": 0},
-  {"type": "std", "q": "LAN stands for:", "opts": ["Local Area Network", "Large Area Network", "Local Access Network", "Land Area Network"], "ans": 0},
-  {"type": "std", "q": "WAN stands for:", "opts": ["Wide Area Network", "World Area Network", "Wide Access Network", "Web Area Network"], "ans": 0},
-  {"type": "std", "q": "Father of Computer:", "opts": ["Charles Babbage", "Bill Gates", "Steve Jobs", "Alan Turing"], "ans": 0},
-  {"type": "std", "q": "First generation used:", "opts": ["Vacuum Tubes", "Transistors", "IC", "Microprocessors"], "ans": 0},
-  {"type": "std", "q": "Second generation used:", "opts": ["Transistors", "Vacuum Tubes", "IC", "AI"], "ans": 0},
-  {"type": "std", "q": "ALU stands for:", "opts": ["Arithmetic Logic Unit", "All Logic Unit", "Access Logic Unit", "Arithmetic Local Unit"], "ans": 0},
-  {"type": "std", "q": "GUI stands for:", "opts": ["Graphical User Interface", "General User Interface", "Global User Interface", "Graph Use Interface"], "ans": 0},
-  {"type": "std", "q": "Virus is a:", "opts": ["Program", "Hardware", "Bacteria", "User"], "ans": 0},
-  {"type": "std", "q": "Antivirus example:", "opts": ["Norton", "Windows", "Word", "Excel"], "ans": 0},
-  {"type": "std", "q": "Short cut for Copy:", "opts": ["Ctrl+C", "Ctrl+V", "Ctrl+X", "Ctrl+P"], "ans": 0},
-  {"type": "std", "q": "Short cut for Paste:", "opts": ["Ctrl+V", "Ctrl+C", "Ctrl+P", "Ctrl+Z"], "ans": 0},
-  {"type": "std", "q": "Short cut for Cut:", "opts": ["Ctrl+X", "Ctrl+C", "Ctrl+V", "Ctrl+S"], "ans": 0},
-  {"type": "std", "q": "Short cut for Save:", "opts": ["Ctrl+S", "Ctrl+A", "Ctrl+C", "Ctrl+O"], "ans": 0},
-  {"type": "std", "q": "Logic Gate AND output 1 when:", "opts": ["Both inputs are 1", "One input is 1", "Both inputs are 0", "Any input is 0"], "ans": 0},
-  {"type": "std", "q": "Logic Gate OR output 1 when:", "opts": ["Any input is 1", "Both inputs are 0", "No input is 1", "Inputs are equal"], "ans": 0},
-  {"type": "std", "q": "Logic Gate NOT:", "opts": ["Inverts input", "Adds input", "Multiplies input", "Ignores input"], "ans": 0},
-  {"type": "std", "q": "Byte is:", "opts": ["8 bits", "4 bits", "16 bits", "32 bits"], "ans": 0},
-  {"type": "std", "q": "Nibble is:", "opts": ["4 bits", "8 bits", "2 bits", "1 bit"], "ans": 0},
-  {"type": "std", "q": "Permanent storage:", "opts": ["Hard Disk", "RAM", "Register", "Cache"], "ans": 0},
-  {"type": "std", "q": "Smallest unit of data:", "opts": ["Bit", "Byte", "File", "Record"], "ans": 0},
-  {"type": "std", "q": "Hexadecimal base:", "opts": ["16", "10", "8", "2"], "ans": 0},
-  {"type": "std", "q": "Octal base:", "opts": ["8", "10", "16", "2"], "ans": 0},
-  {"type": "std", "q": "Internet is:", "opts": ["Network of networks", "A single computer", "A software", "A hardware"], "ans": 0},
-  {"type": "std", "q": "Email stands for:", "opts": ["Electronic Mail", "Electric Mail", "Engine Mail", "Easy Mail"], "ans": 0},
-  {"type": "std", "q": "Algorithm is:", "opts": ["Step by step solution", "A diagram", "A program", "A machine"], "ans": 0},
-  {"type": "std", "q": "Flowchart is:", "opts": ["Diagrammatic representation", "Code", "Text", "Audio"], "ans": 0},
-  {"type": "std", "q": "Which shape represents Start/Stop in flowchart?", "opts": ["Oval", "Rectangle", "Diamond", "Circle"], "ans": 0},
-  {"type": "std", "q": "Which shape represents Decision?", "opts": ["Diamond", "Rectangle", "Oval", "Parallelogram"], "ans": 0},
-  {"type": "std", "q": "HTML is used for:", "opts": ["Web pages", "Calculation", "Database", "Operating System"], "ans": 0},
-  {"type": "std", "q": "URL stands for:", "opts": ["Uniform Resource Locator", "Universal Resource Locator", "Uniform Resource Link", "Universal Resource Link"], "ans": 0},
-  {"type": "std", "q": "Search Engine example:", "opts": ["Google", "Windows", "Word", "Chrome"], "ans": 0},
-  {"type": "std", "q": "Browser example:", "opts": ["Chrome", "Google", "Facebook", "Twitter"], "ans": 0},
-  {"type": "std", "q": "Social Media example:", "opts": ["Facebook", "Excel", "Word", "Paint"], "ans": 0},
-  {"type": "std", "q": "Booting is:", "opts": ["Starting the computer", "Shutting down", "Typing", "Playing"], "ans": 0},
-  {"type": "std", "q": "Cold Booting is:", "opts": ["Turning on from off", "Restarting", "Freezing", "Heating"], "ans": 0},
-  {"type": "std", "q": "Warm Booting is:", "opts": ["Restarting", "Turning on from off", "Sleeping", "Hibernating"], "ans": 0},
-  {"type": "std", "q": "Recycle Bin stores:", "opts": ["Deleted files", "New files", "System files", "Pictures"], "ans": 0}
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'Karin Magana' a Hausa?",
+    "opts": ["Proverb", "Story", "Poem", "Song"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne jam'in kalmar 'Gida'?",
+    "opts": ["Gidaje", "Gida-gida", "Gidanu", "Gidos"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Suna' a cikin wannan jumlar: 'Musa ya tafi kasuwa'?",
+    "opts": ["Musa", "Tafi", "Ya", "Da"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene ake kira da 'Wasali'?",
+    "opts": ["Vowel", "Consonant", "Noun", "Verb"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Cika wannan karin maganar: 'Kowa ya duka ...'",
+    "opts": ["...shi zai tsinta.", "...zai sha wuya.", "...zai ji dadi.", "...shi zai gani."],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene ake nufi da 'Kirari'?",
+    "opts": ["Praise singing/Epithet", "Insult", "Greeting", "Crying"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne sarki ne ya shahara a Kano?",
+    "opts": ["Muhammadu Rumfa", "Queen Amina", "Bayajidda", "Dan Fodio"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Me ake nufi da 'Aure'?",
+    "opts": ["Marriage", "Divorce", "Naming", "Death"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne daga cikin wadannan haruffan 'Masu lankwasa' (Hooked letters)?",
+    "opts": ["ɗ, ɓ, ƙ, 'y", "a, b, c, d", "t, s, r, m", "x, y, z"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wane gari ne cibiyar kasuwanci a Arewa?",
+    "opts": ["Kano", "Sokoto", "Maiduguri", "Bauchi"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Wakilin Suna'?",
+    "opts": ["Pronoun", "Noun", "Adjective", "Adverb"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Su waye 'Makada'?",
+    "opts": ["Drummers/Singers", "Farmers", "Teachers", "Traders"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Siffa' a Nahawun Hausa?",
+    "opts": ["Adjective", "Verb", "Noun", "Pronoun"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanene ya rubuta littafin 'Magana Jari Ce'?",
+    "opts": ["Abubakar Imam", "Aminu Kano", "Sa'adu Zungur", "Tafawa Balewa"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Al'ada'?",
+    "opts": ["Culture/Tradition", "Religion", "Education", "Politics"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Idan ana 'Sallah', ina ake kallo?",
+    "opts": ["Gabas (Ka'aba)", "Yamma", "Arewa", "Kudu"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne daidai: 'Yarinya ... kyau'?",
+    "opts": ["Mai", "Masu", "Muna", "Suna"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Me ake nufi da 'Sunauni'?",
+    "opts": ["Adverb (Modification of verb)", "Noun", "Pronoun", "Preposition"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Aikatau'?",
+    "opts": ["Verb", "Noun", "Adjective", "Conjunction"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Zamantowa'?",
+    "opts": ["Assimilation", "Deletion", "Insertion", "Tone"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Cika karin magana: 'Komai nisan jifa ...'",
+    "opts": ["...kasa zai dawo.", "...sama zai tafi.", "...zai bace.", "...zai yi kyau."],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wane abinci ne aka fi sani da Hausawa?",
+    "opts": ["Tuwo da Miya", "Amala", "Akpu", "Pizza"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene ake kira da 'Bikin Suna'?",
+    "opts": ["Naming Ceremony", "Wedding", "Funeral", "Graduation"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene kishiyar kalmar 'Fari'?",
+    "opts": ["Baki", "Ja", "Kore", "Shudi"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne jam'in 'Mota'?",
+    "opts": ["Motoci", "Mota-mota", "Motaye", "Motan"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Daurin Aure'?",
+    "opts": ["Wedding solemnization", "Engagement", "Dating", "Divorce"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne kayan kida ne Mamman Shata ke amfani da shi?",
+    "opts": ["Kalangu", "Goge", "Kukuma", "Sarewa"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene ake nufi da 'Jinsi'?",
+    "opts": ["Gender", "Number", "Tense", "Person"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A ina ake gudanar da 'Durbar'?",
+    "opts": ["Fada (Palace)", "Kasuwa", "Gona", "Makarantar"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Haruffan Bakar'?",
+    "opts": ["Consonants", "Vowels", "Tones", "Words"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne kalmar 'Namiji'?",
+    "opts": ["Male", "Female", "Child", "Elder"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Sana'a'?",
+    "opts": ["Occupation/Trade", "Play", "Sleep", "Talk"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Dabba'?",
+    "opts": ["Animal", "Man", "Tree", "Stone"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Fassara: 'Good morning'.",
+    "opts": ["Ina kwana", "Ina yini", "Sai da safe", "Barka da zuwa"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Gishiri'?",
+    "opts": ["Salt", "Sugar", "Pepper", "Oil"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wane ne Allah?",
+    "opts": ["Mahalicci (Creator)", "Mutum", "Dabba", "Gida"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Kudin Goro'?",
+    "opts": ["Token gift/bribe", "Price of kola", "Money for food", "Tax"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Uba'?",
+    "opts": ["Father", "Mother", "Son", "Daughter"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Kano Ta Dabo'?",
+    "opts": ["Kirarin Kano", "Sunan sarki", "Sunan abinci", "Sunan kasuwa"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Ruwa'?",
+    "opts": ["Water", "Fire", "Earth", "Air"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Sarkin Musulmi'?",
+    "opts": ["Sultan", "Emir", "Chief", "President"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Makaranta'?",
+    "opts": ["School", "Market", "House", "Farm"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Littafi'?",
+    "opts": ["Book", "Pen", "Table", "Chair"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Alkalami'?",
+    "opts": ["Pen", "Book", "Paper", "Board"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Gona'?",
+    "opts": ["Farm", "Market", "School", "Hospital"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Kasuwanci'?",
+    "opts": ["Business/Trading", "Farming", "Fishing", "Hunting"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Rana'?",
+    "opts": ["Sun/Day", "Moon", "Star", "Night"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne 'Wata'?",
+    "opts": ["Moon/Month", "Sun", "Star", "Sky"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Shekara'?",
+    "opts": ["Year", "Month", "Week", "Day"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Cika: 'Ladan aiki ...'",
+    "opts": ["...shine samu.", "...shine rashi.", "...shine kuka.", "...shine bacci."],
+    "ans": 0
+  }
 ]
