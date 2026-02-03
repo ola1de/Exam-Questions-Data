@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The earth completes one rotation on its axis in approximately:",
+    "opts": ["24 hours", "365 days", "12 hours", "48 hours"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is an Igneous rock?",
+    "opts": ["Limestone", "Granite", "Sandstone", "Marble"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Lines joining places of equal temperature on a map are called:",
+    "opts": ["Isobars", "Isohyets", "Isotherms", "Contours"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The instrument used for measuring atmospheric pressure is the:",
+    "opts": ["Thermometer", "Barometer", "Anemometer", "Rain gauge"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which planet is known as the Red Planet?",
+    "opts": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The largest ocean in the world is the:",
+    "opts": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "ans": 3
+  },
+  {
+    "type": "std",
+    "q": "Closely spaced contour lines on a map indicate a:",
+    "opts": ["Gentle slope", "Steep slope", "Plain", "Valley"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The dominant vegetation in Northern Nigeria is:",
+    "opts": ["Mangrove swamp", "Rainforest", "Savanna", "Montane"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Limestone is a major raw material for the production of:",
+    "opts": ["Glass", "Cement", "Textile", "Paper"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The process by which rocks are broken down in situ is called:",
+    "opts": ["Erosion", "Weathering", "Deposition", "Mass wasting"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these rivers flows into Lake Chad?",
+    "opts": ["River Niger", "River Benue", "River Hadejia", "River Cross"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The port of Lagos is an example of a:",
+    "opts": ["River port", "Seaport", "Dry port", "Lake port"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of the following creates a Rift Valley?",
+    "opts": ["Folding", "Faulting", "Volcanism", "Erosion"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The solar system is part of the galaxy called:",
+    "opts": ["Andromeda", "Milky Way", "Nebula", "Comet"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Convectional rainfall is common in the:",
+    "opts": ["Polar region", "Temperate region", "Equatorial region", "Desert region"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The scale of a map is expressed as 1:50,000. This is a:",
+    "opts": ["Statement scale", "Linear scale", "Representative Fraction (RF)", "Small scale"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The highest peak in Africa is:",
+    "opts": ["Mount Everest", "Mount Kilimanjaro", "Mount Cameroon", "Mount Kenya"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Ajaokuta is famous for:",
+    "opts": ["Oil refinery", "Iron and Steel", "Coal mining", "Tin mining"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these creates an Ox-bow lake?",
+    "opts": ["Wind action", "River action", "Glacial action", "Wave action"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The wearing away of the land surface by agents of denudation is:",
+    "opts": ["Weathering", "Erosion", "Deposition", "Transportation"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which cloud type is associated with thunderstorms?",
+    "opts": ["Cirrus", "Stratus", "Cumulonimbus", "Altocumulus"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The intersection of longitude 0° and latitude 0° is located in the:",
+    "opts": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which country is the largest producer of cocoa in the world?",
+    "opts": ["Nigeria", "Ghana", "Ivory Coast (Côte d'Ivoire)", "Brazil"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The movement of people from rural to urban areas is:",
+    "opts": ["Urbanization", "Rural-urban migration", "Counter-urbanization", "Emigration"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Magma that cools and solidifies below the earth's surface forms:",
+    "opts": ["Extrusive rocks", "Intrusive rocks", "Sedimentary rocks", "Metamorphic rocks"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The main cause of day and night is:",
+    "opts": ["Revolution of the earth", "Rotation of the earth", "Tilt of the earth", "Shape of the earth"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Jos Plateau is known for mining:",
+    "opts": ["Coal", "Tin and Columbite", "Gold", "Petroleum"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The layer of the atmosphere closest to the earth is:",
+    "opts": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a metamorphic rock?",
+    "opts": ["Granite", "Basalt", "Marble", "Sandstone"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The instrument used to measure wind speed is:",
+    "opts": ["Wind vane", "Anemometer", "Barometer", "Thermometer"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The confluence of Rivers Niger and Benue is at:",
+    "opts": ["Onitsha", "Lokoja", "Jebba", "Makurdi"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a renewable resource?",
+    "opts": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The seasons of the year are caused by:",
+    "opts": ["Earth's rotation", "Earth's revolution", "Moon's orbit", "Sun's rotation"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A piece of land surrounded by water is a:",
+    "opts": ["Peninsula", "Island", "Isthmus", "Strait"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The process of turning vapor into liquid is:",
+    "opts": ["Evaporation", "Condensation", "Precipitation", "Transpiration"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "OPEC deals with the trade of:",
+    "opts": ["Coffee", "Gold", "Petroleum", "Cotton"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which soil type allows water to pass through most easily?",
+    "opts": ["Clay", "Loam", "Sandy", "Silt"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The Prime Meridian passes through:",
+    "opts": ["New York", "Greenwich (London)", "Paris", "Tokyo"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Slash and burn is a characteristic of:",
+    "opts": ["Plantation agriculture", "Shifting cultivation", "Mixed farming", "Dairy farming"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which instrument measures humidity?",
+    "opts": ["Barometer", "Hygrometer", "Thermometer", "Rain gauge"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The longest river in the world is:",
+    "opts": ["River Amazon", "River Nile", "River Mississippi", "River Yangtze"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Stalagmites are found in:",
+    "opts": ["Deserts", "Limestone regions (Karst)", "Volcanic regions", "Glacial regions"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Population density is defined as:",
+    "opts": ["Total population", "Number of people per unit area", "Birth rate", "Death rate"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these is created by wind deposition?",
+    "opts": ["Inselberg", "Sand dune", "Zeugen", "Yardang"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The Kainji Dam is located on River:",
+    "opts": ["Benue", "Niger", "Kaduna", "Cross"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The core of the earth is composed mainly of:",
+    "opts": ["Silica and Alumina", "Iron and Nickel", "Silica and Magnesium", "Water"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which climate is hot and wet throughout the year?",
+    "opts": ["Tropical Continental", "Equatorial", "Mediterranean", "Desert"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Delta formation occurs at the:",
+    "opts": ["Source of a river", "Middle course", "Mouth of a river", "Watershed"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The theoretical date line is the:",
+    "opts": ["Equator", "Greenwich Meridian", "180° meridian", "Tropic of Cancer"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Coal is found in Nigeria at:",
+    "opts": ["Jos", "Enugu", "Warri", "Kano"],
+    "ans": 1
+  }
+]
