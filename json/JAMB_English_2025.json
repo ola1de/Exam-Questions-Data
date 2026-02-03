@@ -1,1 +1,93 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "passage",
+    "content": "The creative power of the imagination is one of the greatest tools humans possess. Unlike other species that adapt to their environment, humans use imagination to adapt the environment to themselves. This distinct ability has led to the development of complex societies, technologies, and arts. However, imagination is a double-edged sword; while it creates wonders, it can also conjure scenarios of doom that do not exist, leading to anxiety and fear. <br><br> In the modern era, the digital landscape has become a new frontier for the imagination. Virtual realities allow people to inhabit worlds that were previously only accessible through dreams. Yet, sociologists warn that excessive immersion in these fabricated realities may dull our ability to deal with the tangible challenges of the physical world.",
+    "questions": [
+      {
+        "q": "According to the passage, what distinguishes humans from other species?",
+        "opts": ["The ability to dream while sleeping", "The capacity to adapt the environment to their needs", "The physical strength to build complex societies", "The ability to survive in digital landscapes"],
+        "ans": 1
+      },
+      {
+        "q": "The phrase 'double-edged sword' implies that imagination...",
+        "opts": ["Is sharp and dangerous physically", "Has both beneficial and detrimental aspects", "Is used primarily for warfare", "Can only be used by skilled artists"],
+        "ans": 1
+      },
+      {
+        "q": "What warning do sociologists give regarding virtual reality?",
+        "opts": ["It will replace physical reality entirely", "It is too expensive for the average person", "It might weaken coping mechanisms for real-world problems", "It enhances physical strength"],
+        "ans": 2
+      },
+      {
+        "q": "A suitable title for this passage would be:",
+        "opts": ["The Dangers of Technology", "The Human Imagination: Power and Peril", "How Animals Adapt", "Virtual Reality Gaming"],
+        "ans": 1
+      },
+      {
+        "q": "The word 'fabricated' as used in the passage means:",
+        "opts": ["Constructed or invented", "Historical", "Naturally occurring", "Expensive"],
+        "ans": 0
+      }
+    ]
+  },
+  {
+    "type": "std",
+    "q": "Choose the option that best completes the gap: <br> The manager, as well as his assistants, ______ sacked yesterday.",
+    "opts": ["were", "was", "are", "have been"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to the underlined word: <br> The soldier's <u>valour</u> was recognized by the general.",
+    "opts": ["Cowardice", "Strength", "Pride", "Heroism"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to the underlined phrase: <br> He decided to <u>turn a new leaf</u>.",
+    "opts": ["Change his garden", "Buy a new book", "Change his behavior for the better", "Write a new story"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "From the options, choose the word that rhymes with 'Plough'.",
+    "opts": ["Rough", "Cough", "Cow", "Dough"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Had he known, he ______ the meeting.",
+    "opts": ["would have attended", "will attend", "would attend", "had attended"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The committee ______ unable to reach a consensus.",
+    "opts": ["was", "were", "is", "has been"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "He is looked ______ as a role model.",
+    "opts": ["up to", "down on", "out for", "over"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Neither the boys nor the girl ______ here.",
+    "opts": ["are", "were", "is", "have been"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "She asked me if I ______ seen her book.",
+    "opts": ["have", "had", "has", "will have"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Identify the figure of speech: 'The wind whispered secrets through the trees.'",
+    "opts": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+    "ans": 2
+  }
+]
