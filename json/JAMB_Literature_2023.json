@@ -1,1 +1,104 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "poem",
+    "content": "<b>The Weaver's Song</b><br><br>The shuttle flies across the loom,<br>Weaving threads of joy and gloom.<br>A tapestry of life unfolds,<br>Stories new and legends old.<br>Red for passion, blue for pain,<br>Sunshine mixed with falling rain.<br>The weaver sits with patient hands,<br>Connecting souls in distant lands.<br>Though the fabric may be torn,<br>A new design is freshly born.",
+    "questions": [
+      {
+        "q": "The 'shuttle flies' is an example of:",
+        "opts": ["Hyperbole", "Personification", "Metaphor", "Simile"],
+        "ans": 1
+      },
+      {
+        "q": "The rhyme scheme of the first four lines is:",
+        "opts": ["abba", "abab", "aabb", "abcd"],
+        "ans": 2
+      },
+      {
+        "q": "Red and Blue in the poem serve as:",
+        "opts": ["Similes", "Symbols", "Irony", "Paradox"],
+        "ans": 1
+      },
+      {
+        "q": "The dominant theme of the poem is:",
+        "opts": ["The complexity of life", "The price of clothes", "The speed of machines", "Travel"],
+        "ans": 0
+      },
+      {
+        "q": "The mood of the weaver is best described as:",
+        "opts": ["Angry", "Anxious", "Reflective and Patient", "Indifferent"],
+        "ans": 2
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "The courtroom was silent as the judge adjusted his spectacles. The accused stood in the dock, his hands trembling like leaves in a storm. He looked at the gallery, searching for a friendly face, but found only eyes of stone. The prosecutor's voice cut through the air, sharp and unforgiving, listing the crimes one by one. It was a theatre of justice, but to the young man, it felt more like a slaughterhouse.",
+    "questions": [
+      {
+        "q": "The simile 'hands trembling like leaves' suggests:",
+        "opts": ["The accused was cold", "The accused was innocent", "The accused was terrified", "The accused was dancing"],
+        "ans": 2
+      },
+      {
+        "q": "The phrase 'eyes of stone' implies the audience was:",
+        "opts": ["Blind", "Unsympathetic", "Statues", "Asleep"],
+        "ans": 1
+      },
+      {
+        "q": "Describing the courtroom as a 'slaughterhouse' is a:",
+        "opts": ["Metaphor", "Simile", "Euphemism", "Pun"],
+        "ans": 0
+      },
+      {
+        "q": "The narrative point of view is:",
+        "opts": ["First Person", "Third Person Omniscient", "Second Person", "Dramatic Monologue"],
+        "ans": 1
+      },
+      {
+        "q": "The tone of the passage is:",
+        "opts": ["Joyful", "Tense", "Sarcastic", "Indifferent"],
+        "ans": 1
+      }
+    ]
+  },
+  {"type": "std", "q": "A play that creates humor through ridiculous situations is a:", "opts": ["Tragedy", "Farce", "Melodrama", "Opera"], "ans": 1},
+  {"type": "std", "q": "The main character who opposes the hero is the:", "opts": ["Protagonist", "Antagonist", "Foil", "Clown"], "ans": 1},
+  {"type": "std", "q": "'The pot calling the kettle black' is an example of:", "opts": ["Irony", "Metaphor", "Proverb", "Hyperbole"], "ans": 2},
+  {"type": "std", "q": "A poem of 14 lines is called a:", "opts": ["Ballad", "Sonnet", "Limerick", "Elegy"], "ans": 1},
+  {"type": "std", "q": "In drama, a 'Soliloquy' is:", "opts": ["A dialogue between two actors", "A speech by a character alone on stage", "The conclusion of the play", "A song"], "ans": 1},
+  {"type": "std", "q": "The repetition of consonant sounds at the beginning of words is:", "opts": ["Assonance", "Alliteration", "Rhyme", "Rhythm"], "ans": 1},
+  {"type": "std", "q": "A literary work depicting the life of a shepherd is:", "opts": ["Pastoral", "Urban", "Gothic", "Historical"], "ans": 0},
+  {"type": "std", "q": "'O Death, where is thy sting?' is an example of:", "opts": ["Apostrophe", "Simile", "Metonymy", "Synecdoche"], "ans": 0},
+  {"type": "std", "q": "In *The Lion and the Jewel*, Baroka represents:", "opts": ["Modernity", "Tradition", "Education", "Religion"], "ans": 1},
+  {"type": "std", "q": "In *Second Class Citizen*, Adah's main struggle is against:", "opts": ["Racism and Gender discrimination", "Poverty only", "Her children", "The weather"], "ans": 0},
+  {"type": "std", "q": "The feeling created in the reader by a work of art is:", "opts": ["Tone", "Mood", "Style", "Diction"], "ans": 1},
+  {"type": "std", "q": "Use of 'Crown' to mean 'King' is:", "opts": ["Metaphor", "Metonymy", "Simile", "Irony"], "ans": 1},
+  {"type": "std", "q": "A story with a double meaning (literal and symbolic) is an:", "opts": ["Allegory", "Elegy", "Ode", "Epic"], "ans": 0},
+  {"type": "std", "q": "The turning point in a plot is the:", "opts": ["Exposition", "Climax", "Resolution", "Conflict"], "ans": 1},
+  {"type": "std", "q": "Unrhymed poetry is called:", "opts": ["Blank Verse", "Free Verse", "Stanza", "Couplet"], "ans": 0},
+  {"type": "std", "q": "Epistolary novels are written in the form of:", "opts": ["Diaries", "Letters", "News", "Speeches"], "ans": 1},
+  {"type": "std", "q": "Which figure of speech is: 'He is as brave as a lion'?", "opts": ["Metaphor", "Simile", "Personification", "Hyperbole"], "ans": 1},
+  {"type": "std", "q": "The writer's choice of words is called:", "opts": ["Mood", "Diction", "Tone", "Theme"], "ans": 1},
+  {"type": "std", "q": "A stanza of four lines is a:", "opts": ["Couplet", "Triplet", "Quatrain", "Sestet"], "ans": 2},
+  {"type": "std", "q": "In *Look Back in Anger*, Jimmy Porter represents the:", "opts": ["Angry Young Men", "Aristocracy", "Religious Clergy", "Happy Peasants"], "ans": 0},
+  {"type": "std", "q": "A deliberate exaggeration is:", "opts": ["Litotes", "Hyperbole", "Irony", "Pun"], "ans": 1},
+  {"type": "std", "q": "The resolution of a comedy is usually:", "opts": ["Tragic", "Happy", "Confusing", "Open-ended"], "ans": 1},
+  {"type": "std", "q": "The main idea of a poem is its:", "opts": ["Subject matter", "Theme", "Tone", "Rhythm"], "ans": 1},
+  {"type": "std", "q": "Who wrote *Wuthering Heights*?", "opts": ["Charlotte Bronte", "Emily Bronte", "Jane Austen", "Charles Dickens"], "ans": 1},
+  {"type": "std", "q": "The use of words to convey the opposite of their literal meaning is:", "opts": ["Irony", "Symbolism", "Imagery", "Paradox"], "ans": 0},
+  {"type": "std", "q": "A long narrative poem about a hero is an:", "opts": ["Epic", "Elegy", "Ode", "Ballad"], "ans": 0},
+  {"type": "std", "q": "'The wind whispered' is:", "opts": ["Personification", "Simile", "Metaphor", "Alliteration"], "ans": 0},
+  {"type": "std", "q": "In *Unexpected Joy at Dawn*, the theme of Xenophobia is central. True or False?", "opts": ["True", "False", "Maybe", "Unknown"], "ans": 0},
+  {"type": "std", "q": "A speech by a character heard by the audience but not other characters is an:", "opts": ["Aside", "Soliloquy", "Dialogue", "Monologue"], "ans": 0},
+  {"type": "std", "q": "The clash of forces in a story is:", "opts": ["Conflict", "Climax", "Plot", "Setting"], "ans": 0},
+  {"type": "std", "q": "An understatement is called:", "opts": ["Hyperbole", "Litotes", "Irony", "Sarcasm"], "ans": 1},
+  {"type": "std", "q": "A poem mourning the dead is an:", "opts": ["Ode", "Elegy", "Sonnet", "Lyric"], "ans": 1},
+  {"type": "std", "q": "Heathcliff is the anti-hero of:", "opts": ["The Lion and the Jewel", "Wuthering Heights", "Second Class Citizen", "Invisible Man"], "ans": 1},
+  {"type": "std", "q": "The repeating of a line or phrase in a poem is:", "opts": ["Refrain", "Rhyme", "Rhythm", "Stanza"], "ans": 0},
+  {"type": "std", "q": "Onomatopoeia refers to:", "opts": ["Sound words", "Sight words", "Taste words", "Touch words"], "ans": 0},
+  {"type": "std", "q": "Sidi is the 'Jewel' in:", "opts": ["The Lion and the Jewel", "Second Class Citizen", "Harvest of Corruption", "Black Woman"], "ans": 0},
+  {"type": "std", "q": "A didactic work aims to:", "opts": ["Entertain", "Teach a moral lesson", "Confuse", "Frighten"], "ans": 1},
+  {"type": "std", "q": "The antagonist in *Invisible Man* is:", "opts": ["Society/Racism", "A single person", "The weather", "Animals"], "ans": 0},
+  {"type": "std", "q": "Oxymoron combines:", "opts": ["Similar terms", "Contradictory terms", "Rhyming words", "Foreign words"], "ans": 1},
+  {"type": "std", "q": "Denouement means:", "opts": ["Beginning", "Middle", "Unravelling/Ending", "Conflict"], "ans": 2}
+]
