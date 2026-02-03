@@ -1,77 +1,114 @@
 [
   {
     "type": "passage",
-    "content": "Ada lived in a small village called Umuofia. Every morning, she would wake up at 5:00 AM to sweep the compound and fetch water from the stream. One day, while returning from the stream, she saw a large snake on the path. She was terrified but stood still. The snake slowly slithered away into the bush. Ada ran home and told her mother, who praised her for being brave and not panicking. From that day on, Ada always carried a stick whenever she went to the stream.",
+    "content": "<b>THE GREEDY DOG</b><br><br>Once upon a time, a dog found a big, juicy bone near a market in Ibadan. He was very happy and decided to take it home to eat in peace. On his way, he had to cross a small bridge over a stream. As he looked into the water, he saw his own reflection. The foolish dog thought it was another dog with a bigger bone. He wanted that bone too. He opened his mouth to bark at the 'other dog' to scare him away. As soon as he opened his mouth, his own bone fell into the deep water and sank. The greedy dog went home hungry and sad.",
     "questions": [
       {
-        "q": "Where did Ada live?",
-        "opts": ["Lagos", "Umuofia", "Abuja", "Kano"],
+        "q": "Where did the dog find the bone?",
+        "opts": ["In a house", "Near a market", "In the stream", "In the forest"],
         "ans": 1
       },
       {
-        "q": "What time did Ada wake up?",
-        "opts": ["6:00 AM", "5:00 AM", "7:00 AM", "5:30 AM"],
+        "q": "What did the dog see in the water?",
+        "opts": ["A fish", "A crocodile", "His reflection", "A stone"],
+        "ans": 2
+      },
+      {
+        "q": "Why did the dog open his mouth?",
+        "opts": ["To drink water", "To bark at the other dog", "To eat the bone", "To catch a fish"],
         "ans": 1
       },
       {
-        "q": "What did Ada see on her way back from the stream?",
-        "opts": ["A lion", "A dog", "A snake", "A goat"],
-        "ans": 2
+        "q": "What happened to the bone?",
+        "opts": ["He ate it", "It fell into the water", "Another dog stole it", "He buried it"],
+        "ans": 1
       },
       {
-        "q": "Why did Ada's mother praise her?",
-        "opts": ["For running home", "For killing the snake", "For being brave", "For fetching water"],
-        "ans": 2
-      },
-      {
-        "q": "What did Ada start carrying to the stream after the incident?",
-        "opts": ["A stone", "A knife", "A stick", "A bag"],
+        "q": "What is the moral of the story?",
+        "opts": ["Always swim", "Don't eat bones", "Do not be greedy", "Markets are noisy"],
         "ans": 2
       }
     ]
   },
-  { "type": "std", "q": "Choose the verb in the sentence: 'The boy runs fast.'", "opts": ["The", "boy", "runs", "fast"], "ans": 2 },
-  { "type": "std", "q": "The plural of 'Child' is ________.", "opts": ["Childs", "Children", "Childrens", "Child"], "ans": 1 },
-  { "type": "std", "q": "She _______ to school every day.", "opts": ["go", "going", "goes", "gone"], "ans": 2 },
-  { "type": "std", "q": "Identify the noun: 'Lagos is a big city.'", "opts": ["is", "big", "Lagos", "a"], "ans": 2 },
-  { "type": "std", "q": "The opposite of 'Ancient' is ________.", "opts": ["Old", "Modern", "Past", "History"], "ans": 1 },
-  { "type": "std", "q": "A place where books are kept is called a ________.", "opts": ["Pharmacy", "Library", "Bakery", "Hospital"], "ans": 1 },
-  { "type": "std", "q": "Choose the correctly spelled word.", "opts": ["Recieve", "Receive", "Riceive", "Recive"], "ans": 1 },
-  { "type": "std", "q": "He is the ________ boy in the class.", "opts": ["tall", "taller", "tallest", "more tall"], "ans": 2 },
-  { "type": "std", "q": "A male sheep is called a ________.", "opts": ["Ewe", "Ram", "Lamb", "Goat"], "ans": 1 },
-  { "type": "std", "q": "We eat breakfast in the ________.", "opts": ["morning", "afternoon", "evening", "night"], "ans": 0 },
-  { "type": "std", "q": "The past tense of 'Go' is ________.", "opts": ["Goes", "Gone", "Went", "Going"], "ans": 2 },
-  { "type": "std", "q": "Add a suffix to 'Teach' to make it a person.", "opts": ["-ing", "-er", "-ed", "-ment"], "ans": 1 },
-  { "type": "std", "q": "Which of these is a pronoun?", "opts": ["Table", "Run", "She", "Blue"], "ans": 2 },
-  { "type": "std", "q": "The dog wagged ________ tail.", "opts": ["it", "it's", "its", "its'"], "ans": 2 },
-  { "type": "std", "q": "Choose the odd one out.", "opts": ["Mango", "Apple", "Orange", "Yam"], "ans": 3 },
-  { "type": "std", "q": "A group of lions is called a ________.", "opts": ["Pack", "Herd", "Pride", "Flock"], "ans": 2 },
-  { "type": "std", "q": "Gold is a ________ metal.", "opts": ["precious", "precheous", "presious", "preciouse"], "ans": 0 },
-  { "type": "std", "q": "She is as gentle as a ________.", "opts": ["Lion", "Dove", "Wolf", "Tiger"], "ans": 1 },
-  { "type": "std", "q": "If you are 'optimistic', you are ________.", "opts": ["Sad", "Hopeful", "Angry", "Tired"], "ans": 1 },
-  { "type": "std", "q": "The sun ________ in the East.", "opts": ["rise", "rises", "rose", "rising"], "ans": 1 },
-  { "type": "std", "q": "Neither James ________ John was there.", "opts": ["or", "nor", "and", "but"], "ans": 1 },
-  { "type": "std", "q": "A person who flies an airplane is a ________.", "opts": ["Driver", "Pilot", "Captain", "Cyclist"], "ans": 1 },
-  { "type": "std", "q": "Complete the proverb: 'A stitch in time saves ________.'", "opts": ["eight", "nine", "ten", "eleven"], "ans": 1 },
-  { "type": "std", "q": "The feminine of 'King' is ________.", "opts": ["Prince", "Madam", "Queen", "Lady"], "ans": 2 },
-  { "type": "std", "q": "I have ________ money left.", "opts": ["many", "few", "a few", "little"], "ans": 3 },
-  { "type": "std", "q": "The pen is ________ the table.", "opts": ["on", "in", "at", "to"], "ans": 0 },
-  { "type": "std", "q": "Synonym of 'Wealthy' is ________.", "opts": ["Poor", "Rich", "Health", "Wise"], "ans": 1 },
-  { "type": "std", "q": "How ________ sugar do you want?", "opts": ["many", "much", "few", "plenty"], "ans": 1 },
-  { "type": "std", "q": "The baby is ________.", "opts": ["crying", "cry", "cries", "cried"], "ans": 0 },
-  { "type": "std", "q": "This is ________ book.", "opts": ["my", "me", "I", "mine"], "ans": 0 },
-  { "type": "std", "q": "A decade is ________ years.", "opts": ["5", "10", "50", "100"], "ans": 1 },
-  { "type": "std", "q": "John bought ________ orange.", "opts": ["a", "an", "the", "some"], "ans": 1 },
-  { "type": "std", "q": "Antonym of 'Buy' is ________.", "opts": ["Cell", "Sell", "Sale", "Trade"], "ans": 1 },
-  { "type": "std", "q": "The patient was taken to the ________.", "opts": ["Hospital", "School", "Market", "Bank"], "ans": 0 },
-  { "type": "std", "q": "Who wrote 'Things Fall Apart'?", "opts": ["Wole Soyinka", "Chinua Achebe", "Cyprian Ekwensi", "Chimamanda Adichie"], "ans": 1 },
-  { "type": "std", "q": "Identify the adjective: 'The red car is fast.'", "opts": ["The", "car", "red", "is"], "ans": 2 },
-  { "type": "std", "q": "We cut meat with a ________.", "opts": ["Spoon", "Fork", "Knife", "Plate"], "ans": 2 },
-  { "type": "std", "q": "A person who sells drugs is a ________.", "opts": ["Chemist", "Doctor", "Nurse", "Surgeon"], "ans": 0 },
-  { "type": "std", "q": "She sings ________.", "opts": ["beautiful", "beauty", "beautifully", "beautify"], "ans": 2 },
-  { "type": "std", "q": "The market is ________ than the school.", "opts": ["far", "farther", "farthest", "more far"], "ans": 1 },
-  { "type": "std", "q": "My mother's sister is my ________.", "opts": ["Cousin", "Niece", "Aunt", "Sister"], "ans": 2 },
-  { "type": "std", "q": "Which word is a conjunction?", "opts": ["Run", "Because", "Happy", "Under"], "ans": 1 },
-  { "type": "std", "q": "The box is too heavy ________ me to lift.", "opts": ["to", "for", "from", "with"], "ans": 1 },
-  { "type": "std", "q": "Look ________! There is a car coming.", "opts": ["up", "out", "away", "in"], "ans": 1 }
+  {
+    "type": "passage",
+    "content": "<b>THE NEW YAM FESTIVAL</b><br><br>The New Yam Festival is a popular celebration in Nigeria, especially among the Igbo people. It usually takes place at the end of the rainy season, in August or September. It is a time to thank God and the ancestors for a good harvest. Before the festival, old yams are finished or thrown away. On the festival day, the King or the oldest man in the village eats the first new yam. Afterward, everyone celebrates with cultural dances, masquerades, and feasts of pounded yam and egusi soup.",
+    "questions": [
+      {
+        "q": "Which ethnic group mostly celebrates the New Yam Festival?",
+        "opts": ["Hausa", "Igbo", "Yoruba", "Fulani"],
+        "ans": 1
+      },
+      {
+        "q": "When does the festival usually take place?",
+        "opts": ["January or February", "April or May", "August or September", "December"],
+        "ans": 2
+      },
+      {
+        "q": "Why is the festival celebrated?",
+        "opts": ["To crown a king", "To thank God for harvest", "To start a war", "To welcome rain"],
+        "ans": 1
+      },
+      {
+        "q": "Who eats the first new yam?",
+        "opts": ["The youngest child", "The women", "The King or oldest man", "The visitors"],
+        "ans": 2
+      },
+      {
+        "q": "What food is mostly eaten during this festival?",
+        "opts": ["Rice and Stew", "Beans and Bread", "Pounded Yam", "Akara"],
+        "ans": 2
+      }
+    ]
+  },
+  { "type": "std", "q": "Choose the noun in this sentence: 'Musa plays football.'", "opts": ["plays", "football", "He", "Running"], "ans": 1 },
+  { "type": "std", "q": "The plural of 'Baby' is _______.", "opts": ["Babys", "Babies", "Babyies", "Babes"], "ans": 1 },
+  { "type": "std", "q": "Yesterday, I _______ rice.", "opts": ["eat", "eating", "ate", "eaten"], "ans": 2 },
+  { "type": "std", "q": "A person who treats sick people is a _______.", "opts": ["Teacher", "Doctor", "Farmer", "Driver"], "ans": 1 },
+  { "type": "std", "q": "The opposite of 'Rich' is _______.", "opts": ["Wealthy", "Poor", "Kind", "Happy"], "ans": 1 },
+  { "type": "std", "q": "The sun _______ in the East.", "opts": ["rise", "rising", "rises", "rose"], "ans": 2 },
+  { "type": "std", "q": "Identify the adjective: 'She has a pink bag.'", "opts": ["She", "has", "bag", "pink"], "ans": 3 },
+  { "type": "std", "q": "A dog _______.", "opts": ["roars", "barks", "moos", "bleats"], "ans": 1 },
+  { "type": "std", "q": "The feminine of 'Father' is _______.", "opts": ["Brother", "Uncle", "Mother", "Sister"], "ans": 2 },
+  { "type": "std", "q": "Which of these is a proper noun?", "opts": ["city", "boy", "Lagos", "school"], "ans": 2 },
+  { "type": "std", "q": "There are _______ days in a week.", "opts": ["five", "six", "seven", "eight"], "ans": 2 },
+  { "type": "std", "q": "Choose the correct spelling.", "opts": ["Because", "Becos", "Bicause", "Beccause"], "ans": 0 },
+  { "type": "std", "q": "A place where we learn is a _______.", "opts": ["Market", "School", "Hospital", "Bank"], "ans": 1 },
+  { "type": "std", "q": "The past tense of 'Run' is _______.", "opts": ["Running", "Ran", "Runs", "Runned"], "ans": 1 },
+  { "type": "std", "q": "A group of cattle is called a _______.", "opts": ["Flock", "Herd", "Pack", "Swarm"], "ans": 1 },
+  { "type": "std", "q": "My uncle's son is my _______.", "opts": ["Nephew", "Cousin", "Brother", "Niece"], "ans": 1 },
+  { "type": "std", "q": "We use a _______ to cut paper.", "opts": ["Knife", "Scissors", "Saw", "Blade"], "ans": 1 },
+  { "type": "std", "q": "Is this the boy _______ won the prize?", "opts": ["which", "who", "what", "where"], "ans": 1 },
+  { "type": "std", "q": "The boy is standing _______ the tree.", "opts": ["under", "in", "between", "of"], "ans": 0 },
+  { "type": "std", "q": "Synonym of 'Fast' is _______.", "opts": ["Slow", "Quick", "Lazy", "Late"], "ans": 1 },
+  { "type": "std", "q": "Choose the odd one out.", "opts": ["Table", "Chair", "Bed", "Water"], "ans": 3 },
+  { "type": "std", "q": "I saw _______ elephant at the zoo.", "opts": ["a", "an", "the", "some"], "ans": 1 },
+  { "type": "std", "q": "How _______ pencils do you have?", "opts": ["much", "many", "plenty", "more"], "ans": 1 },
+  { "type": "std", "q": "The train moves on _______.", "opts": ["water", "rails", "air", "sand"], "ans": 1 },
+  { "type": "std", "q": "A young cat is called a _______.", "opts": ["Puppy", "Kitten", "Cub", "Calf"], "ans": 1 },
+  { "type": "std", "q": "She is the _______ girl in the class.", "opts": ["tall", "taller", "tallest", "most tall"], "ans": 2 },
+  { "type": "std", "q": "We eat breakfast in the _______.", "opts": ["morning", "afternoon", "evening", "night"], "ans": 0 },
+  { "type": "std", "q": "The plural of 'Tooth' is _______.", "opts": ["Tooths", "Teeth", "Teeths", "Tooth"], "ans": 1 },
+  { "type": "std", "q": "Emeka is good _______ Mathematics.", "opts": ["on", "in", "at", "with"], "ans": 2 },
+  { "type": "std", "q": "Gold is a precious _______.", "opts": ["plastic", "metal", "wood", "liquid"], "ans": 1 },
+  { "type": "std", "q": "A person who flies an aeroplane is a _______.", "opts": ["Driver", "Pilot", "Captain", "Rider"], "ans": 1 },
+  { "type": "std", "q": "The opposite of 'Start' is _______.", "opts": ["Begin", "Finish", "Go", "Run"], "ans": 1 },
+  { "type": "std", "q": "He walked _______ the road.", "opts": ["across", "above", "under", "between"], "ans": 0 },
+  { "type": "std", "q": "Identify the verb: 'They danced all night.'", "opts": ["They", "all", "danced", "night"], "ans": 2 },
+  { "type": "std", "q": "A library is a place for _______.", "opts": ["Cooking", "Sleeping", "Reading", "Dancing"], "ans": 2 },
+  { "type": "std", "q": "Correct sentence: 'Me and John went home.'", "opts": ["John and I went home", "I and John went home", "Me and John go home", "John and Me went home"], "ans": 0 },
+  { "type": "std", "q": "The baby is _______ because she is hungry.", "opts": ["laughing", "crying", "sleeping", "playing"], "ans": 1 },
+  { "type": "std", "q": "A male sheep is called a _______.", "opts": ["Ewe", "Ram", "Bull", "Boar"], "ans": 1 },
+  { "type": "std", "q": "Add a suffix to 'Enjoy' to make it a noun.", "opts": ["-ment", "-tion", "-ness", "-ing"], "ans": 0 },
+  { "type": "std", "q": "She sings _______.", "opts": ["sweet", "sweetly", "sweeter", "sweetest"], "ans": 1 },
+  { "type": "std", "q": "A leap year has _______ days.", "opts": ["365", "366", "364", "360"], "ans": 1 },
+  { "type": "std", "q": "Antonym of 'Clean' is _______.", "opts": ["Neat", "Dirty", "Pure", "Bright"], "ans": 1 },
+  { "type": "std", "q": "Which is a conjunction?", "opts": ["Run", "But", "Table", "Happy"], "ans": 1 },
+  { "type": "std", "q": "My father's brother is my _______.", "opts": ["Aunt", "Uncle", "Cousin", "Grandfather"], "ans": 1 },
+  { "type": "std", "q": "The plural of 'Knife' is _______.", "opts": ["Knifes", "Knives", "Knive", "Knifess"], "ans": 1 },
+  { "type": "std", "q": "She _______ to the market yesterday.", "opts": ["go", "goes", "went", "gone"], "ans": 2 },
+  { "type": "std", "q": "Complete the proverb: 'Actions speak louder than _______.'", "opts": ["voice", "words", "sound", "noise"], "ans": 1 },
+  { "type": "std", "q": "A female chicken is a _______.", "opts": ["Cock", "Hen", "Bull", "Ram"], "ans": 1 },
+  { "type": "std", "q": "I have _______ water left.", "opts": ["little", "few", "many", "several"], "ans": 0 },
+  { "type": "std", "q": "The book is _______ the table.", "opts": ["on", "at", "to", "of"], "ans": 0 }
 ]
