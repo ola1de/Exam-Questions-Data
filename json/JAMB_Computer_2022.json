@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The physical parts of a computer are called:",
+    "opts": ["Software", "Hardware", "Firmware", "Shareware"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "CPU stands for:",
+    "opts": ["Central Processing Unit", "Control Processing Unit", "Computer Processing Unit", "Central Power Unit"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which of these is an input device?",
+    "opts": ["Monitor", "Printer", "Keyboard", "Speaker"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "RAM is:",
+    "opts": ["Read Only Memory", "Random Access Memory", "Read Access Memory", "Random Accept Memory"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these is NOT an operating system?",
+    "opts": ["Windows", "Linux", "Android", "Microsoft Word"],
+    "ans": 3
+  },
+  {
+    "type": "std",
+    "q": "The brain of the computer is the:",
+    "opts": ["Monitor", "Keyboard", "CPU", "Mouse"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "1 Byte is equal to:",
+    "opts": ["4 bits", "8 bits", "16 bits", "32 bits"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which key is used to capitalize letters?",
+    "opts": ["Ctrl", "Alt", "Shift/Caps Lock", "Esc"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "WWW stands for:",
+    "opts": ["World Wide Web", "World Web Wide", "Wide World Web", "Web World Wide"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which device is used for output?",
+    "opts": ["Scanner", "Microphone", "Printer", "Joystick"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The intersection of a row and column in Excel is called a:",
+    "opts": ["Table", "Cell", "Sheet", "Box"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A collection of related records is a:",
+    "opts": ["Field", "File", "Bit", "Byte"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a volatile memory?",
+    "opts": ["ROM", "Hard Disk", "RAM", "Flash Drive"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Ctrl + C is used for:",
+    "opts": ["Cut", "Copy", "Paste", "Undo"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Ctrl + V is used for:",
+    "opts": ["Cut", "Copy", "Paste", "Print"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a search engine?",
+    "opts": ["Google", "Facebook", "WhatsApp", "Zoom"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Software that protects against viruses is:",
+    "opts": ["Malware", "Spyware", "Antivirus", "Firmware"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "ALU stands for:",
+    "opts": ["Arithmetic Logic Unit", "All Logic Unit", "Arithmetic Linear Unit", "Allowed Logic Unit"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which generation of computers used vacuum tubes?",
+    "opts": ["First", "Second", "Third", "Fourth"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "HTML is used for:",
+    "opts": ["Calculations", "Web Page Design", "Database", "Graphics"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A group of 8 bits is called a:",
+    "opts": ["Nibble", "Byte", "Word", "Kilobyte"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which component stores data permanently?",
+    "opts": ["RAM", "Hard Disk", "Cache", "Register"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The process of starting a computer is:",
+    "opts": ["Loading", "Booting", "Starting", "Running"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "GUI stands for:",
+    "opts": ["Graphical User Interface", "General User Interface", "Global User Interface", "Graphical Unit Interface"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which of these is an example of application software?",
+    "opts": ["Windows", "Linux", "MS Word", "UNIX"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "What does ISP stand for?",
+    "opts": ["Internet Service Provider", "Internal Service Provider", "Internet System Provider", "International Service Provider"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The main circuit board of a computer is the:",
+    "opts": ["Motherboard", "Fatherboard", "Circuitboard", "Mainboard"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which key deletes characters to the left of the cursor?",
+    "opts": ["Delete", "Backspace", "Spacebar", "Enter"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a pointing device?",
+    "opts": ["Keyboard", "Mouse", "Scanner", "Microphone"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Information is:",
+    "opts": ["Raw facts", "Processed data", "Input", "Storage"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "USB stands for:",
+    "opts": ["Universal Serial Bus", "United Serial Bus", "Universal System Bus", "Unique Serial Bus"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a network topology?",
+    "opts": ["Star", "Circle", "Square", "Triangle"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "LAN stands for:",
+    "opts": ["Local Area Network", "Large Area Network", "Long Area Network", "Live Area Network"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Who is known as the father of the computer?",
+    "opts": ["Bill Gates", "Charles Babbage", "Steve Jobs", "Alan Turing"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which memory is fastest?",
+    "opts": ["RAM", "Cache", "Hard Disk", "Flash Drive"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "A computer virus is a:",
+    "opts": ["Hardware", "Bacteria", "Program", "Person"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Ctrl + Z is used for:",
+    "opts": ["Redo", "Undo", "Cut", "Paste"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a spreadsheet program?",
+    "opts": ["MS Word", "MS Excel", "PowerPoint", "Access"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "PDF stands for:",
+    "opts": ["Portable Document Format", "Public Document Format", "Personal Document Format", "Portable Data Format"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which device connects a computer to the internet?",
+    "opts": ["Printer", "Modem", "Monitor", "Scanner"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "1 Kilobyte is equal to:",
+    "opts": ["1000 bytes", "1024 bytes", "100 bytes", "10 bytes"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The binary system uses:",
+    "opts": ["0 and 1", "0 to 9", "A to Z", "1 to 10"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a Presentation software?",
+    "opts": ["Excel", "Word", "PowerPoint", "Outlook"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "A nibble is:",
+    "opts": ["2 bits", "4 bits", "8 bits", "16 bits"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The blinking line on the screen is called:",
+    "opts": ["Pointer", "Cursor", "Mouse", "Line"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which key captures the screen?",
+    "opts": ["Shift", "Print Screen", "Esc", "Tab"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which of these is not hardware?",
+    "opts": ["Monitor", "Mouse", "Windows", "CPU"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Data processed becomes:",
+    "opts": ["Input", "Information", "Memory", "Code"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "BIOS stands for:",
+    "opts": ["Basic Input Output System", "Binary Input Output System", "Basic Internal Output System", "Basic Input Open System"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "A hard disk is divided into:",
+    "opts": ["Tracks and Sectors", "Lines and Curves", "Bits and Bytes", "Files and Folders"],
+    "ans": 0
+  }
+]
