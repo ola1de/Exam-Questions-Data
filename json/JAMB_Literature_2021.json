@@ -1,1 +1,104 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "poem",
+    "content": "<b>The Caged Bird</b><br><br>The free bird leaps<br>on the back of the wind<br>and floats downstream<br>till the current ends<br>and dips his wings<br>in the orange sun rays<br>and dares to claim the sky.<br><br>But a bird that stalks<br>down his narrow cage<br>can seldom see through<br>his bars of rage<br>his wings are clipped and<br>his feet are tied<br>so he opens his throat to sing.",
+    "questions": [
+      {
+        "q": "The contrast in the poem is between:",
+        "opts": ["Freedom and Captivity", "Sun and Wind", "Singing and Flying", "Sky and Cage"],
+        "ans": 0
+      },
+      {
+        "q": "The 'narrow cage' is a symbol of:",
+        "opts": ["Oppression/Confinement", "Protection", "Home", "Nest"],
+        "ans": 0
+      },
+      {
+        "q": "'Dips his wings in the orange sun rays' appeals to the sense of:",
+        "opts": ["Sight (Visual imagery)", "Sound", "Taste", "Smell"],
+        "ans": 0
+      },
+      {
+        "q": "The tone of the poem is:",
+        "opts": ["Reflective and Sympathetic", "Happy", "Angry", "Indifferent"],
+        "ans": 0
+      },
+      {
+        "q": "The caged bird sings because:",
+        "opts": ["It longs for freedom", "It is happy", "It is hungry", "It sees the sun"],
+        "ans": 0
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<b>The Village Path</b><br><br>The path was narrow, winding like a snake through the tall elephant grass. Okonkwo walked with a heavy heart, his machete swinging loosely at his side. The drums had stopped beating, leaving an eerie silence that hung over the village like a thick fog. He knew what awaited him at the meeting place—judgment. The elders would be seated in a semi-circle, their faces grave, their eyes reading his very soul. He had broken the Week of Peace, and for that, there would be consequences.",
+    "questions": [
+      {
+        "q": "The simile 'winding like a snake' describes:",
+        "opts": ["The path", "The grass", "The machete", "The drums"],
+        "ans": 0
+      },
+      {
+        "q": "The atmosphere in the passage is:",
+        "opts": ["Tense and Ominous", "Joyful", "Celebratory", "Noisy"],
+        "ans": 0
+      },
+      {
+        "q": "Okonkwo's mood is characterized by:",
+        "opts": ["Fear/Dread", "Happiness", "Anger", "Confusion"],
+        "ans": 0
+      },
+      {
+        "q": "'Silence hung over the village like a thick fog' is a:",
+        "opts": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+        "ans": 0
+      },
+      {
+        "q": "Why was Okonkwo facing judgment?",
+        "opts": ["He broke the Week of Peace", "He killed a lion", "He stole yams", "He insulted the king"],
+        "ans": 0
+      }
+    ]
+  },
+  {"type": "std", "q": "A sonnet consists of:", "opts": ["14 lines", "12 lines", "10 lines", "8 lines"], "ans": 0},
+  {"type": "std", "q": "The main character in a tragedy is:", "opts": ["Protagonist", "Antagonist", "Clown", "Villain"], "ans": 0},
+  {"type": "std", "q": "Hyperbole refers to:", "opts": ["Exaggeration", "Understatement", "Comparison", "Sound"], "ans": 0},
+  {"type": "std", "q": "'The moon smiled at me' is:", "opts": ["Personification", "Simile", "Metaphor", "Irony"], "ans": 0},
+  {"type": "std", "q": "A poem mourning the dead is an:", "opts": ["Elegy", "Ode", "Epic", "Ballad"], "ans": 0},
+  {"type": "std", "q": "The audience's knowledge of something the character doesn't know is:", "opts": ["Dramatic Irony", "Verbal Irony", "Satire", "Suspense"], "ans": 0},
+  {"type": "std", "q": "In *The Lion and the Jewel*, Sidi is the:", "opts": ["Village Belle/Jewel", "School teacher", "Old wife", "Dancer"], "ans": 0},
+  {"type": "std", "q": "A speech made by a character alone on stage:", "opts": ["Soliloquy", "Dialogue", "Aside", "Prologue"], "ans": 0},
+  {"type": "std", "q": "The turning point of a play is:", "opts": ["Climax", "Exposition", "Resolution", "Conflict"], "ans": 0},
+  {"type": "std", "q": "Repetition of consonant sounds at the start of words:", "opts": ["Alliteration", "Assonance", "Rhyme", "Rhythm"], "ans": 0},
+  {"type": "std", "q": "In *Second Class Citizen*, Adah faces:", "opts": ["Gender and Racial discrimination", "War", "Famine", "Floods"], "ans": 0},
+  {"type": "std", "q": "The writer of a play is a:", "opts": ["Playwright", "Poet", "Novelist", "Actor"], "ans": 0},
+  {"type": "std", "q": "Who wrote *Wuthering Heights*?", "opts": ["Emily Bronte", "Jane Austen", "Charles Dickens", "Shakespeare"], "ans": 0},
+  {"type": "std", "q": "A story with a moral lesson using animals:", "opts": ["Fable", "Myth", "Legend", "Epic"], "ans": 0},
+  {"type": "std", "q": "The antagonist opposes the:", "opts": ["Protagonist", "Author", "Audience", "Director"], "ans": 0},
+  {"type": "std", "q": "Lakunle in *The Lion and the Jewel* represents:", "opts": ["Modernity/Westernization", "Tradition", "Royalty", "War"], "ans": 0},
+  {"type": "std", "q": "Unrhymed poetry is:", "opts": ["Blank Verse", "Free Verse", "Stanza", "Couplet"], "ans": 0},
+  {"type": "std", "q": "'Life is a walking shadow' is a:", "opts": ["Metaphor", "Simile", "Personification", "Pun"], "ans": 0},
+  {"type": "std", "q": "A stanza of four lines:", "opts": ["Quatrain", "Couplet", "Sestet", "Octave"], "ans": 0},
+  {"type": "std", "q": "Look Back in Anger is about:", "opts": ["Class conflict/Post-war frustration", "Romance", "Adventure", "History"], "ans": 0},
+  {"type": "std", "q": "Comic relief serves to:", "opts": ["Ease tension", "End the play", "Introduce characters", "Confuse audience"], "ans": 0},
+  {"type": "std", "q": "The feeling created by the setting:", "opts": ["Mood/Atmosphere", "Tone", "Theme", "Plot"], "ans": 0},
+  {"type": "std", "q": "Use of 'Crown' for 'King' is:", "opts": ["Metonymy", "Synecdoche", "Irony", "Simile"], "ans": 0},
+  {"type": "std", "q": "Baroka is the Bale of:", "opts": ["Ilejuma", "Ibadan", "Lagos", "Kano"], "ans": 0},
+  {"type": "std", "q": "Paradox is:", "opts": ["A contradictory statement with truth", "A lie", "A comparison", "A question"], "ans": 0},
+  {"type": "std", "q": "Epistolary novel uses:", "opts": ["Letters", "Diaries", "News", "Songs"], "ans": 0},
+  {"type": "std", "q": "Didactic literature aims to:", "opts": ["Teach", "Entertain", "Scare", "Confuse"], "ans": 0},
+  {"type": "std", "q": "Onomatopoeia appeals to:", "opts": ["Sound", "Sight", "Touch", "Taste"], "ans": 0},
+  {"type": "std", "q": "Adah's husband in *Second Class Citizen* is:", "opts": ["Francis", "Okolo", "Pa Noble", "Mr. Cole"], "ans": 0},
+  {"type": "std", "q": "Theme refers to:", "opts": ["Central idea", "Setting", "Character", "Style"], "ans": 0},
+  {"type": "std", "q": "Oxymoron examples:", "opts": ["Bitter-sweet", "Loud noise", "Blue sky", "Fast car"], "ans": 0},
+  {"type": "std", "q": "A question asked for effect, not answer:", "opts": ["Rhetorical Question", "Direct Question", "Tag Question", "Irony"], "ans": 0},
+  {"type": "std", "q": "Heathcliff loves:", "opts": ["Catherine", "Isabella", "Nelly", "Cathy"], "ans": 0},
+  {"type": "std", "q": "Flashback allows:", "opts": ["Looking at past events", "Predicting future", "Ending story", "Introducing hero"], "ans": 0},
+  {"type": "std", "q": "Imagery creates:", "opts": ["Mental pictures", "Sound", "Confusion", "Length"], "ans": 0},
+  {"type": "std", "q": "Conflict can be:", "opts": ["Internal and External", "Good and Bad", "Long and Short", "Hot and Cold"], "ans": 0},
+  {"type": "std", "q": "Satire uses humor to:", "opts": ["Criticize/Correct", "Praise", "Ignore", "Destroy"], "ans": 0},
+  {"type": "std", "q": "Denouement is the:", "opts": ["Unraveling/Resolution", "Beginning", "Climax", "Conflict"], "ans": 0},
+  {"type": "std", "q": "Protagonist of *Invisible Man*:", "opts": ["Unnamed Narrator", "Brother Jack", "Ras", "Tod Clifton"], "ans": 0},
+  {"type": "std", "q": "Genre of *The Lion and the Jewel*:", "opts": ["Comedy", "Tragedy", "History", "Melodrama"], "ans": 0}
+]
