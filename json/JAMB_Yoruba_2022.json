@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Kí ni ìtumọ̀ àmì ohùn tí ó wà lórí ọ̀rọ̀ 'bàbá'?",
+    "opts": ["Do-Do", "Mi-Mi", "Do-Mi", "Re-Re"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Èwo ni fáwẹ́lì àránmúpè nínú èdè Yorùbá?",
+    "opts": ["an, ẹn, in, ọn, un", "a, e, ẹ, i, o", "b, d, f, g", "p, kp, gb"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ta ni òrìṣà tí ó ní ẹ̀tọ́ lórí àrá àti mọ̀nàmọ́ná?",
+    "opts": ["Ògún", "Ṣàngó", "Ọ̀ṣun", "Èṣù"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Kí ni a ń pè ní Ìsọ̀gbé (Elision)?",
+    "opts": ["Yíyọ fáwẹ́lì kan kúrò", "Fífi fáwẹ́lì kún un", "Yíyí ohùn padà", "Pípe ọ̀rọ̀ papọ̀"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Iru aṣọ wo ni àwọn ọkùnrin Yorùbá máa ń wọ̀?",
+    "opts": ["Bùbá àti Ṣòkòtò", "Ìró àti Bùbá", "Síkẹ́ẹ̀tì", "Gáàwù"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Owe: 'Bí omọdé bá dé ibi ẹ̀rù, yóò _____'.",
+    "opts": ["Sá", "Dúró", "Rẹ́rìn-ín", "Sunkún"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ta ni adarí nínú ìlú Ìbàdàn?",
+    "opts": ["Olúbàdàn", "Ọọ̀ni", "Aláàfin", "Awùjalẹ̀"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Èwo ni ọ̀rọ̀-orúkọ nínú gbólóhùn yìí: 'Adé lọ sí ilé'?",
+    "opts": ["lọ", "sí", "Adé", "kò sí"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Kí ni ìtumọ̀ 'Oríkì'?",
+    "opts": ["Praise Poetry", "Abuse", "Proverb", "Dirge"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ọba wo ni o ni ade 'Are'?",
+    "opts": ["Ọọ̀ni", "Aláàfin", "Ọlọ́wọ̀", "Oràngún"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Iru ounjẹ wo ni a fi 'Iyán' wé mọ́?",
+    "opts": ["Èkìtì/Ijesha", "Èkó", "Ìbàdàn", "Ìjẹ̀bú"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ta ni òǹkọ̀wé ìwé 'Ògbójú Ọdẹ nínú Igbó Irúnmọlẹ̀'?",
+    "opts": ["D.O. Fágúnwà", "Wole Soyinka", "Adebayo Faleti", "Hubert Ogunde"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Àmì ohùn melo ló wà nínú èdè Yorùbá?",
+    "opts": ["Mẹ́ta (Do, Re, Mi)", "Méjì", "Mẹ́rin", "Marun"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni 'Àlọ́ Àpamọ̀'?",
+    "opts": ["Riddle", "Story", "Song", "Dance"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Nínú ìgbéyàwó, kí ni 'Idana'?",
+    "opts": ["Introduction/Engagement", "Wedding", "Divorce", "Naming"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Èwo ni kọnsonanti tí a máa ń pè ní 'Syllabic Nasal'?",
+    "opts": ["m, n", "p, b", "s, ṣ", "h, w"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni ìtumọ̀ àkànlò-èdè yìí: 'Ó nà á ní pàṣán abara'?",
+    "opts": ["Láti sọ òtítọ́ fun un", "Láti lu u", "Láti gba a ní imọ̀ràn", "Láti tan an jẹ"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Orúkọ wo ni a ń pe ọmọ tí a bí pẹ̀lú kòtò lẹ́yìn etí?",
+    "opts": ["Ìgè", "Dàda", "Olu", "Àìná"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni iṣẹ́ Ọ̀rúnmìlà?",
+    "opts": ["Ifá dídá/Imọ̀", "Ogun jija", "Isẹ́ àgbẹ̀", "Ilu lilu"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Aṣọ wo ni wọ́n máa ń lò fún òkú sínsìn láyé àtijọ́?",
+    "opts": ["Aṣọ funfun", "Aṣọ pupa", "Aṣọ dudu", "Kaki"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Tani ó kọ ìwé 'Kòṣéégbé'?",
+    "opts": ["Akinwumi Isola", "Wole Soyinka", "Hubert Ogunde", "Kola Ogunmola"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ọ̀rọ̀ wo ló ní sílébù mẹ́ta?",
+    "opts": ["Aláàfin", "Bàbá", "Jẹun", "Lọ"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni ìtumọ̀ 'Ìwà lẹwà'?",
+    "opts": ["Character is beauty", "Beauty is money", "Beauty is strength", "Beauty is clothing"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Owe: 'Agùntàn tó bá bá ajá rìn, yóò jẹ _____'.",
+    "opts": ["Ìgbẹ́", "Ounjẹ", "Koríko", "Ẹran"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ọjọ́ wo ni àwọn Yorùbá gbàgbọ́ pé a dá ayé?",
+    "opts": ["Ọjọ́ Aiku (Sunday)", "Ọjọ́ Aje", "Ọjọ́ Oti", "Ko si ọjọ kan"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni a n pè ní 'Ìsọ̀rọ̀npọ̀'?",
+    "opts": ["Vowel Coalescence", "Elision", "Tone mark", "Consonant cluster"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Orúkọ 'Babatunde' jẹ́ orúkọ _____.",
+    "opts": ["Orúkọ Àmútọ̀runwá", "Orúkọ Àbísọ", "Orúkọ Ìnagijẹ", "Orúkọ Ọtí"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Èwo ni kìí ṣe ounjẹ Yorùbá?",
+    "opts": ["Pizza", "Iyán", "Ẹ̀bà", "Àmàlà"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ta ni ó máa ń gbé 'Opá Aṣẹ'?",
+    "opts": ["Ọba", "Ìjòyè", "Ẹrú", "Ọmọ"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Èwo ni ẹranko tí a fi ń ṣe àpèjúwe 'Agbára'?",
+    "opts": ["Kìnnìún", "Ewúre", "Ajá", "Eku"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni ìtumọ̀ àmì 'Re'?",
+    "opts": ["Low Tone", "High Tone", "Mid Tone", "No Tone"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Fáwẹ́lì wo ni kò sí nínú èdè Yorùbá?",
+    "opts": ["c, q, v, z", "a, b, d, e", "p, r, s, t", "g, h, j, k"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni a ń pè ní 'Fọ́nẹ́tíìkì'?",
+    "opts": ["Ìmọ̀ ìpèró", "Ìmọ̀ ọ̀rọ̀", "Ìmọ̀ òwe", "Ìmọ̀ ìtàn"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Nínú ìtàn àròsọ, ta ni ìyàwó Ṣàngó tí ó di Odò?",
+    "opts": ["Ọya", "Ọ̀ṣun", "Yemoja", "Olukun"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Èwo ni a máa ń lò láti fi kí ni káàbọ̀?",
+    "opts": ["Ẹ kú ilé", "Ẹ kú àárọ̀", "Ẹ kú alẹ́", "O dáàbọ̀"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni orúkọ ìlú tí Odùduwà sọ̀kalẹ̀ sí?",
+    "opts": ["Ilé-Ifẹ̀", "Ọ̀yọ́", "Ìbàdàn", "Èkó"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Èwo ni òrìṣà ti a fi 'Ìgbín' bọ?",
+    "opts": ["Ọbàtálá", "Ògún", "Ṣàngó", "Èṣù"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Orúkọ wo ni a ń pe obìnrin tí ó ní oyún?",
+    "opts": ["Aboyún", "Agan", "Ìyàwó", "Arúgbó"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni a ń lò láti fi kọ 'Ewì'?",
+    "opts": ["Ọgbọ́n àti èdè", "Agbára", "Owó", "Ija"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Èwo ni ọ̀rọ̀ tí ó ní ìtumọ̀ méjì (Homonym): 'Ọkọ'?",
+    "opts": ["Hoe / Husband / Vehicle", "Spear", "Stone", "House"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Owe: 'Ti ilé bá tòrò, ọmọ _____ ni ẹni tí ó da a ru'.",
+    "opts": ["Àlè", "Iya", "Baba", "Oba"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ménu ba oríṣìí èdè tí a fi ń kọ ewì alohùn?",
+    "opts": ["Èdè àròfọ̀", "Èdè àfọ̀", "Èdè gẹ̀ẹ́sì", "Èdè àdúgbò"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ọba wo ni ó kọ́kọ́ jẹ ní Ọ̀yọ́?",
+    "opts": ["Ọ̀ráńyàn", "Ṣàngó", "Àjàká", "Abíọ́dún"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Èwo ni ounjẹ tí a fi 'Ẹ̀wà' ṣe?",
+    "opts": ["Àkàrà", "Iyán", "Àmàlà", "Fùfú"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni ìtumọ̀ 'Àbúrò'?",
+    "opts": ["Younger sibling", "Older sibling", "Father", "Mother"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Níbo ni a ti máa ń ra nǹkan?",
+    "opts": ["Ọjà", "Ilé", "Òkun", "Ọ̀run"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni ìtumọ̀ àmì ohùn 'Do'?",
+    "opts": ["Low Tone", "Mid Tone", "High Tone", "Rising Tone"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ọmọ wo ni a bí pẹ̀lú irun kíkà?",
+    "opts": ["Dàda", "Ìgè", "Àìná", "Òjó"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Ta ni òrìṣà irin?",
+    "opts": ["Ògún", "Ṣàngó", "Ọya", "Èṣù"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Kí ni àpèjúwe 'Ẹranko'?",
+    "opts": ["Animal", "Human", "Tree", "Spirit"],
+    "ans": 0
+  }
+]
