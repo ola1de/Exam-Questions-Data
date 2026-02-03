@@ -1,1 +1,104 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "poem",
+    "content": "<b>The Sea's Anger</b><br><br>The sea waves clashed with a mighty roar,<br>Beating against the silent shore.<br>The wind howled a mournful tune,<br>Under the gaze of the pale white moon.<br>Ships tossed like toys in a giant's hand,<br>Far away from the safety of land.<br>The sailors prayed with breath so shallow,<br>In the deep darkness, hard to swallow.",
+    "questions": [
+      {
+        "q": "The dominant mood of the poem is one of:",
+        "opts": ["Tranquility", "Terror and chaos", "Joy and celebration", "Indifference"],
+        "ans": 1
+      },
+      {
+        "q": "The line 'Ships tossed like toys' is an example of:",
+        "opts": ["Metaphor", "Simile", "Personification", "Irony"],
+        "ans": 1
+      },
+      {
+        "q": "The 'wind howled a mournful tune' illustrates:",
+        "opts": ["Personification", "Hyperbole", "Oxymoron", "Euphemism"],
+        "ans": 0
+      },
+      {
+        "q": "The rhyme scheme of the first four lines is:",
+        "opts": ["abab", "aabb", "abba", "abcb"],
+        "ans": 1
+      },
+      {
+        "q": "The 'pale white moon' serves as a symbol of:",
+        "opts": ["Warmth", "Witness/Observer", "Anger", "Noise"],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "The old mansion stood on the hill, a skeleton of its former self. Its windows were like hollow eyes staring blankly at the village below. Ivy strangled the stone pillars, and the roof sagged under the weight of a century of neglect. Villagers whispered that the house breathed at night, exhaling cold drafts that chilled the bone. No one dared approach the iron gates, which were rusted shut, guarding secrets that time had forgotten.",
+    "questions": [
+      {
+        "q": "The description of the windows as 'hollow eyes' is a:",
+        "opts": ["Simile", "Metaphor", "Pun", "Synecdoche"],
+        "ans": 0
+      },
+      {
+        "q": "The phrase 'Ivy strangled the stone pillars' suggests:",
+        "opts": ["The ivy was decorating the house", "The ivy was destructive and aggressive", "The pillars were made of soft wood", "The house was being repaired"],
+        "ans": 1
+      },
+      {
+        "q": "The atmosphere created in the passage is:",
+        "opts": ["Welcoming", "Eerie and foreboding", "Modern and sleek", "Humorous"],
+        "ans": 1
+      },
+      {
+        "q": "The expression 'the house breathed at night' is an instance of:",
+        "opts": ["Personification", "Alliteration", "Onomatopoeia", "Paradox"],
+        "ans": 0
+      },
+      {
+        "q": "The narrative perspective is likely:",
+        "opts": ["First Person", "Third Person Omniscient", "Second Person", "Third Person Objective"],
+        "ans": 1
+      }
+    ]
+  },
+  {"type": "std", "q": "A speech made by a character to himself on stage is called a:", "opts": ["Dialogue", "Monologue", "Soliloquy", "Prologue"], "ans": 2},
+  {"type": "std", "q": "The central idea or message of a literary work is the:", "opts": ["Plot", "Theme", "Setting", "Subject matter"], "ans": 1},
+  {"type": "std", "q": "The main character in a tragedy who suffers a downfall is the:", "opts": ["Antagonist", "Protagonist", "Tragic Hero", "Villain"], "ans": 2},
+  {"type": "std", "q": "'The pen is mightier than the sword' is an example of:", "opts": ["Metonymy", "Synecdoche", "Oxymoron", "Irony"], "ans": 0},
+  {"type": "std", "q": "A poem of fourteen lines with a specific rhyme scheme is a:", "opts": ["Ballad", "Sonnet", "Ode", "Elegy"], "ans": 1},
+  {"type": "std", "q": "The repetition of consonant sounds at the beginning of words is:", "opts": ["Assonance", "Alliteration", "Rhyme", "Rhythm"], "ans": 1},
+  {"type": "std", "q": "'He is a lion in the battlefield' is a:", "opts": ["Simile", "Metaphor", "Personification", "Hyperbole"], "ans": 1},
+  {"type": "std", "q": "A play that ends happily is called a:", "opts": ["Tragedy", "Comedy", "Melodrama", "Farce"], "ans": 1},
+  {"type": "std", "q": "The sequential arrangement of events in a story is the:", "opts": ["Theme", "Plot", "Setting", "Conflict"], "ans": 1},
+  {"type": "std", "q": "'I've told you a million times' is an example of:", "opts": ["Metaphor", "Hyperbole", "Litotes", "Irony"], "ans": 1},
+  {"type": "std", "q": "A literary work written in the form of letters is:", "opts": ["Epistolary", "Autobiographical", "Historical", "Pastoral"], "ans": 0},
+  {"type": "std", "q": "The writer's attitude towards his subject matter is the:", "opts": ["Mood", "Tone", "Style", "Diction"], "ans": 1},
+  {"type": "std", "q": "A statement that appears contradictory but contains truth is a:", "opts": ["Paradox", "Oxymoron", "Irony", "Sarcasm"], "ans": 0},
+  {"type": "std", "q": "The use of 'hands' to refer to workers is an example of:", "opts": ["Metonymy", "Synecdoche", "Metaphor", "Simile"], "ans": 1},
+  {"type": "std", "q": "A pause within a line of poetry is called:", "opts": ["Enjambment", "Caesura", "Stanza", "Meter"], "ans": 1},
+  {"type": "std", "q": "The running over of a sentence from one line of poetry to the next without punctuation is:", "opts": ["Enjambment", "Caesura", "End-stop", "Rhyme"], "ans": 0},
+  {"type": "std", "q": "A mournful poem written for the dead is an:", "opts": ["Ode", "Elegy", "Epic", "Sonnet"], "ans": 1},
+  {"type": "std", "q": "The struggle between opposing forces in a story is the:", "opts": ["Climax", "Conflict", "Resolution", "Exposition"], "ans": 1},
+  {"type": "std", "q": "'Bittersweet' is an example of:", "opts": ["Paradox", "Oxymoron", "Irony", "Metaphor"], "ans": 1},
+  {"type": "std", "q": "The person telling the story is the:", "opts": ["Author", "Narrator", "Protagonist", "Poet"], "ans": 1},
+  {"type": "std", "q": "The time and place of a story is the:", "opts": ["Plot", "Setting", "Atmosphere", "Background"], "ans": 1},
+  {"type": "std", "q": "A character that does not change throughout the story is:", "opts": ["Round", "Flat", "Dynamic", "Static"], "ans": 3},
+  {"type": "std", "q": "Ridicule of human follies/vices with the intent to correct is:", "opts": ["Satire", "Comedy", "Tragedy", "Irony"], "ans": 0},
+  {"type": "std", "q": "The point of highest tension in a story is the:", "opts": ["Resolution", "Climax", "Exposition", "Rising Action"], "ans": 1},
+  {"type": "std", "q": "The repetition of vowel sounds in a line of poetry is:", "opts": ["Alliteration", "Assonance", "Consonance", "Onomatopoeia"], "ans": 1},
+  {"type": "std", "q": "Comparison using 'as' or 'like' is:", "opts": ["Metaphor", "Simile", "Personification", "Analogy"], "ans": 1},
+  {"type": "std", "q": "A long narrative poem telling of a hero's deeds is an:", "opts": ["Epic", "Elegy", "Ode", "Ballad"], "ans": 0},
+  {"type": "std", "q": "'The kettle is boiling' (meaning the water in it) is:", "opts": ["Metaphor", "Metonymy", "Synecdoche", "Personification"], "ans": 1},
+  {"type": "std", "q": "The feeling created in the reader by a literary work is:", "opts": ["Tone", "Mood", "Style", "Theme"], "ans": 1},
+  {"type": "std", "q": "A play typically intended for reading rather than performance is:", "opts": ["Closet drama", "Melodrama", "Tragicomedies", "Farce"], "ans": 0},
+  {"type": "std", "q": "The introduction of background information in a story is:", "opts": ["Climax", "Resolution", "Exposition", "Falling Action"], "ans": 2},
+  {"type": "std", "q": "Words that imitate the sound they represent (e.g., 'Buzz') is:", "opts": ["Alliteration", "Onomatopoeia", "Assonance", "Rhyme"], "ans": 1},
+  {"type": "std", "q": "An address to an absent person or inanimate object is:", "opts": ["Apostrophe", "Personification", "Metaphor", "Hyperbole"], "ans": 0},
+  {"type": "std", "q": "Dramatic Irony occurs when:", "opts": ["The ending is funny", "The audience knows something the characters do not", "The character says the opposite of what they mean", "The author mocks the character"], "ans": 1},
+  {"type": "std", "q": "A short story with animals as characters conveying a moral is a:", "opts": ["Myth", "Fable", "Legend", "Parable"], "ans": 1},
+  {"type": "std", "q": "The use of humor to relieve tension in a tragedy is:", "opts": ["Tragic flaw", "Comic relief", "Catharsis", "Soliloquy"], "ans": 1},
+  {"type": "std", "q": "The purging of emotions (pity and fear) in a tragedy is:", "opts": ["Catharsis", "Hubris", "Hamartia", "Epiphany"], "ans": 0},
+  {"type": "std", "q": "The tragic flaw of a hero is called:", "opts": ["Catharsis", "Hamartia", "Hubris", "Nemesis"], "ans": 1},
+  {"type": "std", "q": "A direct address to the audience by an actor, unheard by other characters:", "opts": ["Soliloquy", "Aside", "Monologue", "Dialogue"], "ans": 1},
+  {"type": "std", "q": "Exaggeration for effect is:", "opts": ["Litotes", "Hyperbole", "Metaphor", "Irony"], "ans": 1}
+]
