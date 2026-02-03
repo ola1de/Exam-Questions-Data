@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The first revelation was received by Prophet Muhammad (SAW) in:",
+    "opts": ["Cave Thawr", "Cave Hira", "Mount Uhud", "Kaaba"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The Holy Quran was revealed over a period of:",
+    "opts": ["23 years", "10 years", "40 years", "25 years"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The first Pillar of Islam is:",
+    "opts": ["Salat", "Zakat", "Kalimat Shahada", "Sawm"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Zakat is obligatory on:",
+    "opts": ["The poor", "The wealthy", "Children", "Travelers"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The migration of the Prophet from Makkah to Madinah is called:",
+    "opts": ["Hajj", "Hijrah", "Isra", "Miraj"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The battle of Badr took place in the year:",
+    "opts": ["1 AH", "2 AH", "3 AH", "4 AH"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The literal meaning of 'Islam' is:",
+    "opts": ["War", "Submission/Peace", "Victory", "Wisdom"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who was the first Caliph of Islam?",
+    "opts": ["Umar ibn Khattab", "Abu Bakr as-Siddiq", "Uthman ibn Affan", "Ali ibn Abi Talib"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The sayings and deeds of the Prophet (SAW) are collected in:",
+    "opts": ["Quran", "Hadith", "Fiqh", "Sirah"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The mother of Prophet Muhammad (SAW) was:",
+    "opts": ["Khadijah", "Aisha", "Aminah", "Halimah"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Salat al-Jumu'ah is performed on:",
+    "opts": ["Monday", "Thursday", "Friday", "Saturday"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The Kaaba is located in:",
+    "opts": ["Madinah", "Jerusalem", "Makkah", "Riyadh"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which angel brought revelations to the Prophet?",
+    "opts": ["Mikail", "Israfil", "Jibril", "Izrail"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The term 'Tawhid' refers to:",
+    "opts": ["Prophethood", "Oneness of Allah", "Angels", "Judgement Day"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The shortest Surah in the Quran is:",
+    "opts": ["Surah Al-Fatiha", "Surah Al-Kawthar", "Surah Al-Ikhlas", "Surah Al-Nas"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Fasting in Ramadan is the _____ Pillar of Islam.",
+    "opts": ["First", "Third", "Fourth", "Fifth"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Who was the first male convert to Islam?",
+    "opts": ["Ali", "Abu Bakr", "Uthman", "Zaid"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The direction Muslims face during prayer is called:",
+    "opts": ["Qiblah", "Mihrab", "Minbar", "Sajdah"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The Night Journey of the Prophet is known as:",
+    "opts": ["Isra and Miraj", "Hijrah", "Hajj", "Umrah"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Which wife of the Prophet was known as 'Mother of the Believers'?",
+    "opts": ["Fatimah", "Khadijah", "Aminah", "Hafsah"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The compilation of the Quran into a book form was completed during the caliphate of:",
+    "opts": ["Abu Bakr", "Umar", "Uthman", "Ali"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Id al-Adha commemorates the sacrifice of:",
+    "opts": ["Prophet Muhammad", "Prophet Ibrahim", "Prophet Isa", "Prophet Musa"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The angel who blows the trumpet on Judgement Day is:",
+    "opts": ["Jibril", "Mikail", "Israfil", "Malik"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Shirk means:",
+    "opts": ["Belief in Allah", "Associating partners with Allah", "Prayer", "Charity"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Tayammum involves purification with:",
+    "opts": ["Water", "Dust/Sand", "Oil", "Perfume"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The Treaty of Hudaibiyah was a peace agreement between Muslims and:",
+    "opts": ["Quraish of Makkah", "Jews of Madinah", "Christians of Najran", "Romans"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The uncle of the Prophet who supported him but did not accept Islam was:",
+    "opts": ["Hamza", "Abu Lahab", "Abu Talib", "Abbas"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The most authentic book of Hadith is:",
+    "opts": ["Sahih Muslim", "Sahih Bukhari", "Sunan Abu Dawud", "Sunan Tirmidhi"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which Surah is described as one-third of the Quran?",
+    "opts": ["Surah Al-Fatiha", "Surah Al-Baqarah", "Surah Al-Ikhlas", "Surah Al-Falaq"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The Prophet's mosque in Madinah is called:",
+    "opts": ["Masjid al-Haram", "Masjid al-Nabawi", "Masjid al-Aqsa", "Masjid Quba"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The phrase 'Allahu Akbar' means:",
+    "opts": ["Allah is One", "Allah is the Greatest", "Praise be to Allah", "Glory to Allah"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who was the first Muezzin of Islam?",
+    "opts": ["Bilal ibn Rabah", "Zaid ibn Harithah", "Salman al-Farsi", "Ammar ibn Yasir"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Divorce in Islam is called:",
+    "opts": ["Nikah", "Talaq", "Walimah", "Iddah"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The waiting period for a divorced woman or widow is:",
+    "opts": ["Hajj", "Iddah", "Zina", "Mahr"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Which Prophet spoke from the cradle?",
+    "opts": ["Musa", "Isa (Jesus)", "Ibrahim", "Yusuf"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The Farewell Pilgrimage of the Prophet took place in:",
+    "opts": ["8 AH", "9 AH", "10 AH", "11 AH"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Maliki, Hanafi, Shafi'i, and Hanbali are schools of:",
+    "opts": ["Aqidah", "Fiqh (Jurisprudence)", "History", "Hadith"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The founder of the Sokoto Caliphate was:",
+    "opts": ["El Kanemi", "Usman Dan Fodio", "Sultan Bello", "Aminu Kano"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Ribs usually refers to interest, which is ____ in Islam.",
+    "opts": ["Allowed", "Encouraged", "Forbidden (Haram)", "Disliked"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which battle resulted in the defeat of Muslims due to disobedience of archers?",
+    "opts": ["Badr", "Uhud", "Khandaq", "Tabuk"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The holy book revealed to Prophet Dawud (David) is:",
+    "opts": ["Tawrat", "Injil", "Zabur", "Quran"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Ghusl refers to:",
+    "opts": ["Minor ablution", "Full ritual bath", "Cleaning teeth", "Putting on perfume"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The Year of the Elephant is the year:",
+    "opts": ["The Prophet was born", "The Prophet migrated", "The Prophet died", "The Quran was revealed"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Who tried to destroy the Kaaba with elephants?",
+    "opts": ["Abu Jahal", "Abraha", "Heraclius", "Kisra"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Ihraam is worn during:",
+    "opts": ["Salat", "Hajj/Umrah", "Jihad", "Sleeping"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Sadaqah refers to:",
+    "opts": ["Compulsory charity", "Voluntary charity", "Tax", "Loan"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The last Prophet of Allah is:",
+    "opts": ["Isa", "Musa", "Muhammad (SAW)", "Ibrahim"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which Surah does not start with Bismillah?",
+    "opts": ["Surah Al-Tawbah", "Surah Yasin", "Surah Rahman", "Surah Baqarah"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The angels recording deeds are called:",
+    "opts": ["Munkar and Nakir", "Kiraman Katibin", "Harut and Marut", "Malik and Ridwan"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Lailat al-Qadr is better than:",
+    "opts": ["100 months", "1000 months", "10 years", "50 years"],
+    "ans": 1
+  }
+]
