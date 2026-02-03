@@ -1,1 +1,302 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "On the first day of creation, God created:",
+    "opts": ["Man", "Light", "Animals", "Firmament"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who was the first martyr in the Bible?",
+    "opts": ["Peter", "Stephen", "James", "Paul"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The wife of Abraham was:",
+    "opts": ["Rebekah", "Rachel", "Sarah", "Leah"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Moses saw the burning bush at Mount:",
+    "opts": ["Sinai/Horeb", "Carmel", "Olive", "Nebo"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The parable of the Prodigal Son teaches about:",
+    "opts": ["Laziness", "Repentance and Forgiveness", "Wealth", "Farming"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who betrayed Jesus?",
+    "opts": ["Peter", "Judas Iscariot", "Thomas", "John"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The Israelites ate Manna in the:",
+    "opts": ["Egypt", "Wilderness", "Canaan", "Babylon"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "David killed Goliath with a:",
+    "opts": ["Sword", "Spear", "Sling and stone", "Arrow"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Who denied Jesus three times?",
+    "opts": ["Judas", "Peter", "James", "Andrew"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The Holy Spirit descended on the apostles on the day of:",
+    "opts": ["Passover", "Pentecost", "Tabernacles", "Atonement"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Joseph was sold into slavery by his brothers for:",
+    "opts": ["20 pieces of silver", "30 pieces of silver", "10 pieces of silver", "40 pieces of silver"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The mother of Samuel was:",
+    "opts": ["Peninnah", "Hannah", "Sarah", "Elizabeth"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Jesus was baptized in River Jordan by:",
+    "opts": ["Peter", "John the Baptist", "Philip", "Matthew"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who was the first King of Israel?",
+    "opts": ["David", "Solomon", "Saul", "Samuel"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The turning of water into wine happened at:",
+    "opts": ["Jericho", "Cana of Galilee", "Jerusalem", "Bethlehem"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "'I am the way, the truth and the life' was said by:",
+    "opts": ["Moses", "Elijah", "Jesus", "Paul"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The commandment 'Thou shall not steal' is the:",
+    "opts": ["6th", "8th", "4th", "10th"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who was known as the father of faith?",
+    "opts": ["Abraham", "Isaac", "Jacob", "Noah"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The shortest verse in the Bible is:",
+    "opts": ["God is love", "Jesus wept", "Pray without ceasing", "Rejoice always"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Paul was converted on his way to:",
+    "opts": ["Jerusalem", "Damascus", "Rome", "Antioch"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who interpreted Pharaoh's dream?",
+    "opts": ["Daniel", "Joseph", "Moses", "Aaron"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The raising of Lazarus took place in:",
+    "opts": ["Bethany", "Nazareth", "Capernaum", "Samaria"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Gideon defeated the Midianites with:",
+    "opts": ["3000 men", "300 men", "1000 men", "500 men"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The sons of Eli were:",
+    "opts": ["Hophni and Phinehas", "Joel and Abijah", "Nadab and Abihu", "Cain and Abel"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Who provided the tomb for Jesus' burial?",
+    "opts": ["Nicodemus", "Joseph of Arimathea", "Simon of Cyrene", "Pilate"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The beatitudes were given during the:",
+    "opts": ["Last Supper", "Sermon on the Mount", "Transfiguration", "Ascension"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who was thrown into the lion's den?",
+    "opts": ["Shadrach", "Daniel", "Meshach", "Abednego"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The first miracle of Jesus was:",
+    "opts": ["Healing the blind", "Raising the dead", "Turning water into wine", "Walking on water"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Esau sold his birthright for:",
+    "opts": ["Money", "Food (Pottage)", "Clothes", "Land"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The dominant theme of James' epistle is:",
+    "opts": ["Faith without works is dead", "Love", "Hope", "Grace"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Who replaced Judas Iscariot?",
+    "opts": ["Matthias", "Paul", "Barnabas", "Silas"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Solomon asked God for:",
+    "opts": ["Long life", "Riches", "Wisdom", "Power"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "The ark of Noah rested on Mount:",
+    "opts": ["Sinai", "Ararat", "Carmel", "Zion"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who was the tax collector that climbed a tree to see Jesus?",
+    "opts": ["Matthew", "Zacchaeus", "Luke", "Simon"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The Golden Calf was built by:",
+    "opts": ["Moses", "Aaron", "Joshua", "Caleb"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who was the female judge in Israel?",
+    "opts": ["Ruth", "Deborah", "Esther", "Mary"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The sign of the covenant between God and Noah was:",
+    "opts": ["Circumcision", "Rainbow", "Dove", "Star"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Jesus taught his disciples how to pray using the:",
+    "opts": ["Hail Mary", "Lord's Prayer", "Psalm 23", "Apostles Creed"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who built the first temple in Jerusalem?",
+    "opts": ["David", "Solomon", "Saul", "Rehoboam"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The contest on Mount Carmel was between Elijah and the prophets of:",
+    "opts": ["Baal", "Asherah", "Dagon", "Molech"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Job was known for his:",
+    "opts": ["Wisdom", "Patience/Endurance", "Strength", "Wealth"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who was the 'voice crying in the wilderness'?",
+    "opts": ["Isaiah", "John the Baptist", "Jeremiah", "Ezekiel"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "The fruits of the Spirit are recorded in:",
+    "opts": ["Galatians 5", "Romans 8", "1 Corinthians 13", "Ephesians 6"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The rich man who buried Jesus was:",
+    "opts": ["Joseph of Arimathea", "Nicodemus", "Lazarus", "Zacchaeus"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "Who was the first man to see the risen Christ?",
+    "opts": ["Peter", "Mary Magdalene", "John", "Thomas"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Elijah was taken up to heaven in a:",
+    "opts": ["Chariot of fire", "Boat", "Cloud", "Wind"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The vision of dry bones was seen by:",
+    "opts": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+    "ans": 2
+  },
+  {
+    "type": "std",
+    "q": "Which King tried to kill baby Jesus?",
+    "opts": ["Herod", "Pilate", "Caesar", "Agrippa"],
+    "ans": 0
+  },
+  {
+    "type": "std",
+    "q": "The commandment to honour father and mother has a promise of:",
+    "opts": ["Wealth", "Long life", "Health", "Wisdom"],
+    "ans": 1
+  },
+  {
+    "type": "std",
+    "q": "Who is the author of the Book of Revelation?",
+    "opts": ["Peter", "John", "Paul", "James"],
+    "ans": 1
+  }
+]
