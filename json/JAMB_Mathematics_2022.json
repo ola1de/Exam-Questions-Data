@@ -1,362 +1,52 @@
 [
-  {
-    "type": "std",
-    "q": "If set $A = \\{1, 2, 3, 4, 5\\}$ and set $B = \\{3, 4, 5, 6, 7\\}$, find $A \\cap B$.",
-    "opts": ["$\\{1, 2\\}$", "$\\{6, 7\\}$", "$\\{3, 4, 5\\}$", "$\\{1, 2, 3, 4, 5, 6, 7\\}$"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "Simplify the expression below: $$ \\frac{2\\sqrt{3} - \\sqrt{2}}{\\sqrt{3} + 2\\sqrt{2}} $$",
-    "opts": ["$ \\frac{1}{5}(4 - 3\\sqrt{6}) $", "$ \\frac{1}{5}(8 - 5\\sqrt{6}) $", "$ 4 - 3\\sqrt{6} $", "$ \\frac{1}{5}(2 - 3\\sqrt{6}) $"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Solve the exponential equation: $$ 3^{2x} - 4(3^x) + 3 = 0 $$",
-    "opts": ["$x = 0, 1$", "$x = 1, 2$", "$x = -1, 0$", "$x = 0, 3$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the sum to infinity of the geometric progression: $2, 1, \\frac{1}{2}, \\frac{1}{4}, \\dots$",
-    "opts": ["$3$", "$4$", "$2.5$", "$5$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "If $y = x^2 \\sin x$, find $\\frac{dy}{dx}$ using the product rule.",
-    "opts": ["$2x \\cos x$", "$x^2 \\cos x + 2x \\sin x$", "$x^2 \\sin x + 2x \\cos x$", "$2x \\sin x$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Evaluate the integral: $$ \\int_0^3 (x^2 - 2x) \\, dx $$",
-    "opts": ["$0$", "$3$", "$1$", "$-1$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Given the matrix $M = \\begin{pmatrix} 2 & 3 \\\\ 1 & 4 \\end{pmatrix}$, find the determinant of $M$.",
-    "opts": ["$11$", "$5$", "$6$", "$8$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "If $\\log_{10} 2 = 0.3010$ and $\\log_{10} 3 = 0.4771$, evaluate $\\log_{10} 6$.",
-    "opts": ["$0.7781$", "$0.1761$", "$1.2010$", "$0.6020$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the gradient of the line passing through points $A(2, 5)$ and $B(4, 9)$.",
-    "opts": ["$4$", "$2$", "$0.5$", "$-2$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "A sector of a circle of radius $7cm$ has an angle of $60^\\circ$. Find its perimeter. (Take $\\pi = \\frac{22}{7}$)",
-    "opts": ["$14.33 cm$", "$21.33 cm$", "$7.33 cm$", "$11.33 cm$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Convert $1101_2$ to base 10.",
-    "opts": ["$11$", "$13$", "$15$", "$12$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find the remainder when $x^3 - 2x^2 + 3x - 5$ is divided by $x - 2$.",
-    "opts": ["$1$", "$-1$", "$3$", "$5$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "If $P$ varies directly as $Q$ and inversely as the square of $R$, and $P=1$ when $Q=8$ and $R=2$, find $P$ when $Q=12$ and $R=3$.",
-    "opts": ["$\\frac{2}{3}$", "$\\frac{1}{3}$", "$\\frac{4}{3}$", "$2$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Solve the inequality: $2x - 5 > 4x + 3$.",
-    "opts": ["$x > -4$", "$x < -4$", "$x > 4$", "$x < 4$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Calculate the mean of the data set: $2, 4, 4, 6, 8, 10$.",
-    "opts": ["$5.67$", "$6$", "$5$", "$4$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "The probability of passing an exam is $0.7$. What is the probability of failing?",
-    "opts": ["$0.3$", "$0.7$", "$0.5$", "$0.0$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "If $\\tan \\theta = \\frac{3}{4}$, find $\\sin \\theta$ (where $\\theta$ is acute).",
-    "opts": ["$\\frac{3}{5}$", "$\\frac{4}{5}$", "$\\frac{3}{7}$", "$\\frac{5}{4}$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Evaluate the combination: $^5C_2$.",
-    "opts": ["$20$", "$10$", "$5$", "$15$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find the equation of a circle with centre $(0, 0)$ and radius $5$.",
-    "opts": ["$x^2 + y^2 = 5$", "$x^2 + y^2 = 25$", "$x^2 - y^2 = 25$", "$x + y = 5$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Two matrices $A$ and $B$ are such that $AB = I$. Matrix $B$ is called the ____ of $A$.",
-    "opts": ["Transpose", "Inverse", "Determinant", "Square"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "The sum of interior angles in a regular pentagon is:",
-    "opts": ["$360^\\circ$", "$540^\\circ$", "$720^\\circ$", "$180^\\circ$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Make $u$ the subject of the formula $v^2 = u^2 + 2as$.",
-    "opts": ["$u = \\sqrt{v^2 + 2as}$", "$u = \\sqrt{v^2 - 2as}$", "$u = v - 2as$", "$u = v^2 - 2as$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Simplify: $$ \\log_2 8 + \\log_2 4 $$",
-    "opts": ["$3$", "$4$", "$5$", "$6$"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "Find the simple interest on N5000 for 3 years at 4% per annum.",
-    "opts": ["N600", "N500", "N1000", "N6000"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "What is the value of each angle in an equilateral triangle?",
-    "opts": ["$30^\\circ$", "$45^\\circ$", "$60^\\circ$", "$90^\\circ$"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "Find the range of the following numbers: $12, 5, 8, 15, 20, 6$.",
-    "opts": ["$15$", "$20$", "$14$", "$12$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "If $f(x) = 2x - 1$ and $g(x) = x^2$, find $g(f(2))$.",
-    "opts": ["$3$", "$9$", "$5$", "$7$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "The volume of a cube is $64cm^3$. Find the length of its side.",
-    "opts": ["$8cm$", "$4cm$", "$2cm$", "$16cm$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Calculate the area of a triangle with base $10cm$ and height $8cm$.",
-    "opts": ["$80cm^2$", "$40cm^2$", "$20cm^2$", "$18cm^2$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Solve for $x$: $$ \\frac{x}{2} + \\frac{x}{3} = 5 $$",
-    "opts": ["$6$", "$5$", "$10$", "$12$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Convert $0.0045$ to standard form.",
-    "opts": ["$4.5 \\times 10^{-2}$", "$4.5 \\times 10^{-3}$", "$45 \\times 10^{-4}$", "$0.45 \\times 10^{-2}$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "The locus of points equidistant from a fixed point is a:",
-    "opts": ["Line", "Circle", "Parabola", "Bisector"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Differentiate $y = \\frac{1}{x}$ with respect to $x$.",
-    "opts": ["$x^{-2}$", "$-x^{-2}$", "$\\ln x$", "$-x$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "If the bearing of X from Y is $060^\\circ$, what is the bearing of Y from X?",
-    "opts": ["$120^\\circ$", "$240^\\circ$", "$300^\\circ$", "$150^\\circ$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find the median of the set: $2, 5, 1, 9, 8$.",
-    "opts": ["$5$", "$2$", "$8$", "$9$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Factorize completely: $x^2 - 5x + 6$.",
-    "opts": ["$(x-2)(x-3)$", "$(x+2)(x+3)$", "$(x-1)(x-6)$", "$(x+1)(x-6)$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "If $2^x = 0.125$, find $x$.",
-    "opts": ["$-2$", "$-3$", "$3$", "$2$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "In a class of 40 students, 25 play football, 15 play tennis, and 5 play both. How many play neither?",
-    "opts": ["$0$", "$5$", "$10$", "$15$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "A fair die is tossed. What is the probability of getting a number greater than 4?",
-    "opts": ["$\\frac{1}{2}$", "$\\frac{1}{3}$", "$\\frac{1}{6}$", "$\\frac{2}{3}$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Calculate the surface area of a sphere of radius $7cm$. ($\\pi = \\frac{22}{7}$)",
-    "opts": ["$616 cm^2$", "$154 cm^2$", "$308 cm^2$", "$44 cm^2$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the value of $k$ if $x - 1$ is a factor of $x^3 + kx^2 - 2x + 1$.",
-    "opts": ["$0$", "$1$", "$-1$", "$2$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Simplify using indices: $(2x^2 y)^3$.",
-    "opts": ["$6x^6 y^3$", "$8x^6 y^3$", "$8x^5 y^3$", "$2x^6 y^3$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "What is the slope of the line $2y - 4x = 8$?",
-    "opts": ["$2$", "$4$", "$-2$", "$0.5$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Evaluate: $\\cos 60^\\circ + \\sin 30^\\circ$.",
-    "opts": ["$1$", "$0.5$", "$\\sqrt{3}$", "$0$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Calculate the perimeter of a semi-circle of diameter $14cm$. ($\\pi = \\frac{22}{7}$)",
-    "opts": ["$22cm$", "$36cm$", "$44cm$", "$58cm$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "If $x \\propto y$ and $x = 4$ when $y = 2$, find $x$ when $y = 5$.",
-    "opts": ["$10$", "$8$", "$12$", "$6$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the distance between points $(1, 1)$ and $(4, 5)$.",
-    "opts": ["$3$", "$4$", "$5$", "$6$"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "Determine the mode of the numbers: $3, 4, 3, 5, 3, 6, 4$.",
-    "opts": ["$4$", "$3$", "$5$", "$6$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find $n$ if $3(n-2) = -6$.",
-    "opts": ["$0$", "$-4$", "$4$", "$2$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Express $0.06$ as a fraction in lowest terms.",
-    "opts": ["$\\frac{3}{5}$", "$\\frac{3}{50}$", "$\\frac{6}{100}$", "$\\frac{1}{6}$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "If binary operation is defined as $a * b = ab + a + b$, evaluate $2 * 3$.",
-    "opts": ["$6$", "$11$", "$9$", "$12$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find the determinant of the matrix: $\\begin{pmatrix} 3 & 2 \\\\ 1 & 5 \\end{pmatrix}$.",
-    "opts": ["$13$", "$17$", "$15$", "$2$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Which of the following is an irrational number?",
-    "opts": ["$2$", "$\\sqrt{4}$", "$\\sqrt{3}$", "$0.5$"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "Calculate the 5th term of the A.P: $2, 5, 8, \\dots$",
-    "opts": ["$11$", "$14$", "$17$", "$20$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "If $\\sin x = 0.5$, find $x$ for $0^\\circ \\le x \\le 90^\\circ$.",
-    "opts": ["$30^\\circ$", "$45^\\circ$", "$60^\\circ$", "$90^\\circ$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the derivative of $y = 4x^3 - 2x + 1$.",
-    "opts": ["$12x^2 - 2$", "$12x^2 - 2x$", "$4x^2 - 2$", "$12x^2$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Calculate the percentage error if a length $5.0m$ is measured as $5.2m$.",
-    "opts": ["$4\\%$", "$2\\%$", "$10\\%$", "$5\\%$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "A binary operation is commutative if:",
-    "opts": ["$a * b = b * a$", "$a * b = b / a$", "$a + b = a * b$", "$a - b = b - a$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "The angle of elevation of the top of a tower from a point $20m$ away is $45^\\circ$. Find the height of the tower.",
-    "opts": ["$20m$", "$10m$", "$40m$", "$20\\sqrt{2}m$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the modulus of the vector $\\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j}$.",
-    "opts": ["$7$", "$5$", "$1$", "$12$"],
-    "ans": 1
-  }
+  {"type": "std", "q": "Simplify $$ \\frac{2\\sqrt{3} - \\sqrt{2}}{\\sqrt{3} + 2\\sqrt{2}} $$", "opts": ["$$ \\frac{10-5\\sqrt{6}}{-5} $$", "$$ -2 + \\sqrt{6} $$", "$$ 2 - \\sqrt{6} $$", "$$ \\sqrt{6} - 2 $$"], "ans": 1},
+  {"type": "std", "q": "If $$ \\log_x 2 = 0.5 $$, find x.", "opts": ["2", "4", "1", "0.25"], "ans": 1},
+  {"type": "std", "q": "Solve $$ 4^x = 1/64 $$", "opts": ["-3", "3", "-2", "2"], "ans": 0},
+  {"type": "std", "q": "Find the sum of the first 20 terms of the AP: 2, 5, 8...", "opts": ["610", "590", "600", "620"], "ans": 0},
+  {"type": "std", "q": "Convert $$ 11011_2 $$ to base 10.", "opts": ["27", "15", "20", "25"], "ans": 0},
+  {"type": "std", "q": "If $$ A = \\{1, 2, 3\\} $$ and $$ B = \\{2, 3, 4\\} $$, find $$ A \\cap B $$.", "opts": ["$$ \\{2, 3\\} $$", "$$ \\{1, 4\\} $$", "$$ \\{1, 2, 3, 4\\} $$", "$$ \\emptyset $$"], "ans": 0},
+  {"type": "std", "q": "Factorize $$ x^2 - 5x + 6 $$.", "opts": ["$$ (x-2)(x-3) $$", "$$ (x+2)(x+3) $$", "$$ (x-1)(x-6) $$", "$$ (x+1)(x-6) $$"], "ans": 0},
+  {"type": "std", "q": "Make x the subject: $$ y = \\frac{1-x}{1+x} $$", "opts": ["$$ \\frac{1-y}{1+y} $$", "$$ \\frac{1+y}{1-y} $$", "$$ \\frac{y-1}{y+1} $$", "$$ \\frac{y+1}{y-1} $$"], "ans": 0},
+  {"type": "std", "q": "Find the gradient of the line joining (1, 2) and (3, 6).", "opts": ["2", "4", "0.5", "1"], "ans": 0},
+  {"type": "std", "q": "The sum of interior angles of a hexagon is:", "opts": ["$$ 720^\\circ $$", "$$ 540^\\circ $$", "$$ 360^\\circ $$", "$$ 180^\\circ $$"], "ans": 0},
+  {"type": "std", "q": "If $$ \\sin \\theta = 3/5 $$, find $$ \\cos \\theta $$.", "opts": ["4/5", "3/4", "5/4", "5/3"], "ans": 0},
+  {"type": "std", "q": "Calculate the area of a circle with radius 7cm ($$ \\pi = 22/7 $$).", "opts": ["$$ 154cm^2 $$", "$$ 44cm^2 $$", "$$ 22cm^2 $$", "$$ 144cm^2 $$"], "ans": 0},
+  {"type": "std", "q": "Solve $$ 2x - 3 > 5 $$.", "opts": ["$$ x > 4 $$", "$$ x < 4 $$", "$$ x > 1 $$", "$$ x < 1 $$"], "ans": 0},
+  {"type": "std", "q": "Differentiate $$ y = x^3 - 2x^2 + 5 $$.", "opts": ["$$ 3x^2 - 4x $$", "$$ 3x^2 - 2x $$", "$$ x^2 - 4x $$", "$$ 3x^2 + 4x $$"], "ans": 0},
+  {"type": "std", "q": "Integrate $$ \\int 2x dx $$.", "opts": ["$$ x^2 + c $$", "$$ 2x^2 + c $$", "$$ x + c $$", "$$ 2 + c $$"], "ans": 0},
+  {"type": "std", "q": "Find the mean of 2, 4, 4, 6, 8, 12.", "opts": ["6", "5", "4", "7"], "ans": 0},
+  {"type": "std", "q": "Find the mode of 2, 3, 2, 4, 2, 5.", "opts": ["2", "3", "4", "5"], "ans": 0},
+  {"type": "std", "q": "Find the median of 1, 3, 5, 7, 9.", "opts": ["5", "3", "7", "4"], "ans": 0},
+  {"type": "std", "q": "Probability of obtaining a head in a toss of a coin.", "opts": ["1/2", "1", "0", "1/4"], "ans": 0},
+  {"type": "std", "q": "Matrix $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$. Find Determinant.", "opts": ["5", "11", "-5", "7"], "ans": 0},
+  {"type": "std", "q": "Variation: If $$ y \\propto x $$ and $$ y=4 $$ when $$ x=2 $$, find $$ y $$ when $$ x=5 $$.", "opts": ["10", "8", "12", "5"], "ans": 0},
+  {"type": "std", "q": "Evaluate $$ {}^5P_2 $$", "opts": ["20", "10", "60", "12"], "ans": 0},
+  {"type": "std", "q": "Evaluate $$ {}^5C_2 $$", "opts": ["10", "20", "5", "15"], "ans": 0},
+  {"type": "std", "q": "Standard form of 0.0025 is:", "opts": ["$$ 2.5 \\times 10^{-3} $$", "$$ 2.5 \\times 10^3 $$", "$$ 25 \\times 10^{-4} $$", "$$ 0.25 \\times 10^{-2} $$"], "ans": 0},
+  {"type": "std", "q": "Simple Interest on N1000 for 2 years at 5% is:", "opts": ["N100", "N10", "N50", "N200"], "ans": 0},
+  {"type": "std", "q": "Volume of a cylinder is:", "opts": ["$$ \\pi r^2 h $$", "$$ 2\\pi rh $$", "$$ \\pi r^2 $$", "$$ 1/3 \\pi r^2 h $$"], "ans": 0},
+  {"type": "std", "q": "Length of an arc formula:", "opts": ["$$ \\frac{\\theta}{360} \\times 2\\pi r $$", "$$ \\frac{\\theta}{360} \\times \\pi r^2 $$", "$$ \\frac{\\theta}{180} \\times \\pi r $$", "$$ 2\\pi r $$"], "ans": 0},
+  {"type": "std", "q": "If $$ f(x) = 2x - 3 $$, find $$ f(4) $$.", "opts": ["5", "4", "3", "11"], "ans": 0},
+  {"type": "std", "q": "Find $$ x $$ if $$ 27^x = 9 $$.", "opts": ["2/3", "3/2", "2", "3"], "ans": 0},
+  {"type": "std", "q": "Solve $$ \\log_2 8 $$", "opts": ["3", "2", "4", "8"], "ans": 0},
+  {"type": "std", "q": "Gradient of a curve $$ y = x^2 $$ at $$ x=3 $$.", "opts": ["6", "9", "3", "2"], "ans": 0},
+  {"type": "std", "q": "If $$ \\tan \\theta = 1 $$, find $$ \\theta $$.", "opts": ["$$ 45^\\circ $$", "$$ 30^\\circ $$", "$$ 60^\\circ $$", "$$ 90^\\circ $$"], "ans": 0},
+  {"type": "std", "q": "Distance between (0,0) and (3,4).", "opts": ["5", "7", "1", "25"], "ans": 0},
+  {"type": "std", "q": "Midpoint of (2,4) and (6,8).", "opts": ["(4,6)", "(3,5)", "(2,2)", "(8,12)"], "ans": 0},
+  {"type": "std", "q": "Find the range of 2, 5, 1, 9, 3.", "opts": ["8", "7", "6", "9"], "ans": 0},
+  {"type": "std", "q": "Sum of roots of $$ x^2 - 4x + 3 = 0 $$.", "opts": ["4", "-4", "3", "-3"], "ans": 0},
+  {"type": "std", "q": "Product of roots of $$ x^2 - 4x + 3 = 0 $$.", "opts": ["3", "-3", "4", "-4"], "ans": 0},
+  {"type": "std", "q": "Perimeter of square with area $$ 16cm^2 $$.", "opts": ["16cm", "8cm", "4cm", "12cm"], "ans": 0},
+  {"type": "std", "q": "Solve $$ |x| = 3 $$.", "opts": ["3, -3", "3", "9", "0"], "ans": 0},
+  {"type": "std", "q": "Rationalize $$ \\frac{2}{\\sqrt{2}} $$", "opts": ["$$ \\sqrt{2} $$", "$$ 2 $$", "$$ 1 $$", "$$ 2\\sqrt{2} $$"], "ans": 0},
+  {"type": "std", "q": "Simplify $$ 3^0 + 3^{-1} $$", "opts": ["$$ 4/3 $$", "$$ 1 $$", "$$ 0 $$", "$$ 1/3 $$"], "ans": 0},
+  {"type": "std", "q": "Find $$ x $$ if $$ x^2 = 25 $$", "opts": ["$$ \\pm 5 $$", "5", "-5", "25"], "ans": 0},
+  {"type": "std", "q": "Equation of line with slope 2 passing through (0,0).", "opts": ["$$ y=2x $$", "$$ y=x+2 $$", "$$ y=x/2 $$", "$$ y=2 $$"], "ans": 0},
+  {"type": "std", "q": "A sector angle is $$ 90^\\circ $$. Fraction of circle?", "opts": ["1/4", "1/2", "1/3", "1/8"], "ans": 0},
+  {"type": "std", "q": "Derivative of $$ \\sin x $$", "opts": ["$$ \\cos x $$", "$$ -\\cos x $$", "$$ \\sin x $$", "$$ -\\sin x $$"], "ans": 0},
+  {"type": "std", "q": "Derivative of $$ \\cos x $$", "opts": ["$$ -\\sin x $$", "$$ \\sin x $$", "$$ \\cos x $$", "$$ -\\cos x $$"], "ans": 0},
+  {"type": "std", "q": "Integral of $$ x^n $$", "opts": ["$$ \\frac{x^{n+1}}{n+1} $$", "$$ nx^{n-1} $$", "$$ x^{n+1} $$", "$$ n x $$"], "ans": 0},
+  {"type": "std", "q": "Area of triangle: base 10, height 5.", "opts": ["25", "50", "15", "100"], "ans": 0},
+  {"type": "std", "q": "Total surface area of a cube of side 2cm.", "opts": ["$$ 24cm^2 $$", "$$ 12cm^2 $$", "$$ 8cm^2 $$", "$$ 4cm^2 $$"], "ans": 0},
+  {"type": "std", "q": "If $$ A \\subset B $$, then $$ A \\cap B $$ is:", "opts": ["A", "B", "Empty", "Universal"], "ans": 0}
 ]
