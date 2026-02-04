@@ -1,1 +1,114 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "passage",
+    "content": "<b>The Youth and the Digital Economy</b><br><br>In the bustling streets of Lagos and the quiet corners of Sokoto, a revolution is brewing. It is not fought with guns or machetes, but with laptops and smartphones. The Nigerian youth, long marginalized by traditional economic structures, have found a sanctuary in the digital economy. Fintech start-ups, freelance coding, and content creation have become the new oil. However, this digital migration is not without its hurdles. The erratic power supply and high cost of data act as formidable gatekeepers. Yet, the resilience of the youth shines through. They congregate in co-working spaces, sharing generators and ideas, determined to carve a niche in the global market. The government's recent policies on digital taxation, however, threaten to stifle this burgeoning sector before it reaches maturity.",
+    "questions": [
+      {
+        "q": "The 'revolution' mentioned in the passage refers to:",
+        "opts": ["A violent change in government", "The shift towards digital employment", "The discovery of new oil wells", "Youth protests"],
+        "ans": 1
+      },
+      {
+        "q": "What are the 'gatekeepers' mentioned in the text?",
+        "opts": ["Security guards", "Government officials", "Poor electricity and expensive data", "Traditional economic structures"],
+        "ans": 2
+      },
+      {
+        "q": "The phrase 'carve a niche' means to:",
+        "opts": ["Build a sculpture", "Create a specific market position", "Destroy a barrier", "Build a house"],
+        "ans": 1
+      },
+      {
+        "q": "According to the passage, the government's attitude is viewed as:",
+        "opts": ["Supportive", "Indifferent", "Threatening/Hindering", "Unknown"],
+        "ans": 2
+      },
+      {
+        "q": "A suitable title for this passage is:",
+        "opts": ["The Lazy Youth", "<b>Resilience in the Digital Age</b>", "The Oil Boom", "Co-working Spaces"],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<b>The Traditional Wedding</b><br><br>The compound was alive with the sound of talking drums. It was Adesuwa's traditional wedding, a day the two families had prepared for months. The groom's family arrived with yams the size of newborn babies and gourds of palm wine that frothed at the mouth. However, tension simmered beneath the surface. The bride's father felt the dowry was insufficient, a slight on his daughter's university education. The negotiator, a man with a silver tongue, stepped in. He wove proverbs like a master weaver, reminding everyone that marriage was a union of hearts, not a market transaction. Slowly, the frowns turned to smiles, and the breaking of the kola nut commenced.",
+    "questions": [
+      {
+        "q": "The 'tension' was caused by:",
+        "opts": ["The bad music", "The size of the yams", "Disagreement over the dowry", "The groom's lateness"],
+        "ans": 2
+      },
+      {
+        "q": "The negotiator is described as having a 'silver tongue', meaning he was:",
+        "opts": ["Rich", "Eloquent and persuasive", "Deceptive", "Old"],
+        "ans": 1
+      },
+      {
+        "q": "The comparison of yams to 'newborn babies' is a:",
+        "opts": ["Metaphor", "Simile", "Hyperbole", "Personification"],
+        "ans": 2
+      },
+      {
+        "q": "The breaking of the kola nut signifies:",
+        "opts": ["The end of the wedding", "The beginning of a fight", "Acceptance and peace", "Lunch time"],
+        "ans": 2
+      },
+      {
+        "q": "The tone of the negotiator was:",
+        "opts": ["Aggressive", "Conciliatory", "Arrogant", "Sad"],
+        "ans": 1
+      }
+    ]
+  },
+  {"type": "std", "q": "The principal, as well as the teachers, <u>______</u> present.", "opts": ["is", "are", "were", "have"], "ans": 0},
+  {"type": "std", "q": "Choose the option opposite in meaning to: <u>OBSCURE</u>", "opts": ["Hidden", "Clear", "Vague", "Dark"], "ans": 1},
+  {"type": "std", "q": "He was charged <u>______</u> theft.", "opts": ["for", "with", "of", "on"], "ans": 1},
+  {"type": "std", "q": "The idiom 'to bell the cat' means:", "opts": ["To play with a pet", "To take a risk for the common good", "To make noise", "To feed a cat"], "ans": 1},
+  {"type": "std", "q": "Neither the boy nor the girl <u>______</u> to blame.", "opts": ["are", "is", "were", "have been"], "ans": 1},
+  {"type": "std", "q": "Select the correctly spelt word:", "opts": ["Accomodation", "Accommodation", "Acommodation", "Accomodattion"], "ans": 1},
+  {"type": "std", "q": "He is an expert <u>______</u> fixing cars.", "opts": ["in", "at", "on", "with"], "ans": 1},
+  {"type": "std", "q": "If I <u>______</u> the Governor, I would build roads.", "opts": ["am", "was", "were", "be"], "ans": 2},
+  {"type": "std", "q": "The meeting was <u>called off</u>. This means it was:", "opts": ["Postponed", "Cancelled", "Started", "Ended"], "ans": 1},
+  {"type": "std", "q": "Choose the word that rhymes with: <u>SITE</u>", "opts": ["Seat", "Sight", "Sit", "Set"], "ans": 1},
+  {"type": "std", "q": "She is the <u>______</u> of the two.", "opts": ["taller", "tallest", "most tall", "more tall"], "ans": 0},
+  {"type": "std", "q": "We congratulated him <u>______</u> his promotion.", "opts": ["for", "on", "at", "with"], "ans": 1},
+  {"type": "std", "q": "Choose the option nearest in meaning to: <u>AMIABLE</u>", "opts": ["Hostile", "Friendly", "Rich", "Clever"], "ans": 1},
+  {"type": "std", "q": "Everyone <u>______</u> to be happy.", "opts": ["want", "wants", "wanting", "have wanted"], "ans": 1},
+  {"type": "std", "q": "I prefer tea <u>______</u> coffee.", "opts": ["than", "to", "over", "from"], "ans": 1},
+  {"type": "std", "q": "The man <u>whose</u> car was stolen is my uncle.", "opts": ["who", "whom", "which", "whose"], "ans": 3},
+  {"type": "std", "q": "He speaks <u>______</u> he knows everything.", "opts": ["as", "as if", "like", "so"], "ans": 1},
+  {"type": "std", "q": "The police <u>______</u> arrived.", "opts": ["has", "have", "is", "was"], "ans": 1},
+  {"type": "std", "q": "To 'burn the candle at both ends' means:", "opts": ["To waste wax", "To work excessively hard", "To be rich", "To light a room"], "ans": 1},
+  {"type": "std", "q": "He has been sick <u>______</u> last week.", "opts": ["since", "for", "from", "by"], "ans": 0},
+  {"type": "std", "q": "Emphatic Stress: 'My MOTHER cooked rice.'", "opts": ["Did your father cook rice?", "Did your mother buy rice?", "Did your mother cook beans?", "Did she eat rice?"], "ans": 0},
+  {"type": "std", "q": "The jury <u>______</u> given their verdict.", "opts": ["has", "have", "is", "was"], "ans": 1},
+  {"type": "std", "q": "It is high time we <u>______</u> leaving.", "opts": ["start", "started", "starting", "starts"], "ans": 1},
+  {"type": "std", "q": "Antonym of: <u>GIGANTIC</u>", "opts": ["Huge", "Tiny", "Large", "Big"], "ans": 1},
+  {"type": "std", "q": "She <u>______</u> the table for dinner.", "opts": ["lay", "laid", "lied", "lain"], "ans": 1},
+  {"type": "std", "q": "The <u>prologue</u> introduces the play.", "opts": ["Ending", "Beginning", "Middle", "Climax"], "ans": 1},
+  {"type": "std", "q": "Figure of speech: 'The city never sleeps.'", "opts": ["Simile", "Personification", "Metaphor", "Irony"], "ans": 1},
+  {"type": "std", "q": "I look forward to <u>______</u> the letter.", "opts": ["receive", "receiving", "received", "reception"], "ans": 1},
+  {"type": "std", "q": "He died <u>______</u> cholera.", "opts": ["of", "from", "by", "with"], "ans": 0},
+  {"type": "std", "q": "The cattle <u>______</u> grazing.", "opts": ["is", "are", "was", "has"], "ans": 1},
+  {"type": "std", "q": "Unless you study, you <u>______</u> pass.", "opts": ["will", "would", "will not", "can"], "ans": 2},
+  {"type": "std", "q": "Had I known, I <u>______</u> helped.", "opts": ["will have", "would have", "can have", "shall have"], "ans": 1},
+  {"type": "std", "q": "The shop is <u>accessible</u> by road.", "opts": ["Reachable", "Closed", "Far", "Hidden"], "ans": 0},
+  {"type": "std", "q": "To 'spill the beans' means:", "opts": ["To cook", "To reveal a secret", "To make a mistake", "To plant seeds"], "ans": 1},
+  {"type": "std", "q": "This is the boy <u>whom</u> the teacher praised.", "opts": ["who", "whom", "which", "whose"], "ans": 1},
+  {"type": "std", "q": "Synonym of: <u>LETHARGIC</u>", "opts": ["Energetic", "Sluggish", "Fast", "Happy"], "ans": 1},
+  {"type": "std", "q": "The knot is too <u>______</u>.", "opts": ["loosed", "lose", "loose", "lost"], "ans": 2},
+  {"type": "std", "q": "Information is <u>______</u>.", "opts": ["scarce", "scanty", "vital", "few"], "ans": 2},
+  {"type": "std", "q": "Rice and stew <u>______</u> delicious.", "opts": ["is", "are", "were", "have"], "ans": 0},
+  {"type": "std", "q": "The vermin <u>______</u> destroyed the crop.", "opts": ["has", "have", "is", "was"], "ans": 1},
+  {"type": "std", "q": "Oral: Vowel sound in 'Girl'", "opts": ["/e/", "/ɜː/", "/i:/", "/æ/"], "ans": 1},
+  {"type": "std", "q": "Oral: Consonant sound in 'Sing'", "opts": ["/n/", "/ŋ/", "/g/", "/k/"], "ans": 1},
+  {"type": "std", "q": "He is capable <u>______</u> doing it.", "opts": ["to", "of", "for", "with"], "ans": 1},
+  {"type": "std", "q": "She accused him <u>______</u> lying.", "opts": ["for", "of", "on", "about"], "ans": 1},
+  {"type": "std", "q": "The reason <u>______</u> the delay is clear.", "opts": ["why", "for", "because", "due"], "ans": 1},
+  {"type": "std", "q": "One of the rioters <u>______</u> arrested.", "opts": ["was", "were", "are", "have"], "ans": 0},
+  {"type": "std", "q": "The cost of living <u>______</u> risen.", "opts": ["has", "have", "are", "were"], "ans": 0},
+  {"type": "std", "q": "Neither James nor John <u>______</u> the answer.", "opts": ["know", "knows", "knowing", "known"], "ans": 1},
+  {"type": "std", "q": "The audience <u>______</u> cheering wildly.", "opts": ["was", "were", "is", "has"], "ans": 1},
+  {"type": "std", "q": "Oral: Stress in 'PHOtograph'", "opts": ["1st syllable", "2nd syllable", "3rd syllable", "4th syllable"], "ans": 0}
+]
