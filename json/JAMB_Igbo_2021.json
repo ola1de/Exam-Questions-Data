@@ -1,242 +1,52 @@
 [
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Udaume'?",
-    "opts": ["Vowel", "Consonant", "Tone", "Word"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Udaume ole dị n'asụsụ Igbo?",
-    "opts": ["Asatọ (8)", "Isii (6)", "Ise (5)", "Asaa (7)"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Ilu'?",
-    "opts": ["Proverb", "Story", "Song", "Drama"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu ihe 'Oji' pụtara n'ala Igbo?",
-    "opts": ["Kola nut (Symbol of welcome)", "Money", "Food", "Drink"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Mmanwu'?",
-    "opts": ["Masquerade", "Spirit", "Dance", "Music"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu aha akwụkwọ Chinua Achebe dere?",
-    "opts": ["Things Fall Apart", "Lion and Jewel", "The Gods Are Not To Blame", "Purple Hibiscus"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Ahịrịokwu'?",
-    "opts": ["Sentence", "Word", "Phrase", "Clause"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Mgbochiume'?",
-    "opts": ["Consonant", "Vowel", "Tone", "Syllable"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Nnọchiaha'?",
-    "opts": ["Pronoun", "Noun", "Verb", "Adjective"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Mkpuruokwu'?",
-    "opts": ["Word", "Letter", "Sentence", "Paragraph"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị ka 'Chi' pụtara?",
-    "opts": ["Personal God", "Sun", "Sky", "Land"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu ụbọchị ahịa anọ dị n'Igbo?",
-    "opts": ["Eke, Orie, Afọ, Nkwọ", "Monday, Tuesday, Wednesday, Thursday", "Jan, Feb, Mar, Apr", "One, Two, Three, Four"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Iri Ji'?",
-    "opts": ["New Yam Festival", "Planting Season", "Harvesting Season", "Rainy Season"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Nna'?",
-    "opts": ["Father", "Mother", "Child", "Brother"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Nne'?",
-    "opts": ["Mother", "Father", "Sister", "Uncle"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Ulo'?",
-    "opts": ["House", "Market", "School", "Church"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Ego'?",
-    "opts": ["Money", "Food", "Clothes", "Shoe"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Mmiri'?",
-    "opts": ["Water", "Fire", "Sand", "Air"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Oku'?",
-    "opts": ["Fire", "Water", "Earth", "Wind"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Akwụkwọ'?",
-    "opts": ["Book", "Pen", "Table", "Chair"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Udo'?",
-    "opts": ["Peace", "War", "Fight", "Quarrel"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Eze'?",
-    "opts": ["King", "Queen", "Chief", "Servant"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Ahịa'?",
-    "opts": ["Market", "House", "Farm", "River"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Chukwu'?",
-    "opts": ["God", "Man", "Spirit", "Idol"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Ala'?",
-    "opts": ["Land/Earth", "Sky", "Sea", "Moon"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Anyanwụ'?",
-    "opts": ["Sun", "Moon", "Star", "Cloud"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Onwa'?",
-    "opts": ["Moon", "Sun", "Star", "Sky"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Kpakpando'?",
-    "opts": ["Star", "Moon", "Sun", "Earth"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Nri'?",
-    "opts": ["Food", "Water", "Drink", "Meat"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Anụ'?",
-    "opts": ["Meat/Animal", "Fish", "Bird", "Snake"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Azụ'?",
-    "opts": ["Fish", "Meat", "Head", "Tail"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Isi'?",
-    "opts": ["Head", "Leg", "Hand", "Eye"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Anya'?",
-    "opts": ["Eye", "Nose", "Ear", "Mouth"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Onu'?",
-    "opts": ["Mouth", "Nose", "Eye", "Ear"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Nti'?",
-    "opts": ["Ear", "Eye", "Nose", "Mouth"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Aka'?",
-    "opts": ["Hand", "Leg", "Head", "Body"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Ụkwụ'?",
-    "opts": ["Leg", "Hand", "Head", "Stomach"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Kedu nke bụ 'Afọ'?",
-    "opts": ["Stomach", "Head", "Leg", "Hand"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Mezuo ilu a: 'Ebe onye bi ...'",
-    "opts": ["...ka ọ na-awachi.", "...ka ọ na-erhi.", "...ka ọ na-eje.", "...ka ọ na-agba."],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Gịnị bụ 'Egwuregwu'?",
-    "opts": ["Play/Game", "Work", "Sleep", "Eat"],
-    "ans": 0
-  }
+  {"type": "std", "q": "Gịnị bụ 'Noun'?", "opts": ["Nkeaha", "Ngwaa", "Nkọwa", "Nnọchiaha"], "ans": 0},
+  {"type": "std", "q": "Ònye dere 'Omenuko'?", "opts": ["Pita Nwana", "Chinua Achebe", "F.C. Ogbalu", "Tony Ubesie"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Verb'?", "opts": ["Ngwaa", "Nkeaha", "Nkọwa", "Mbukumba"], "ans": 0},
+  {"type": "std", "q": "Eze n'ala Igbo:", "opts": ["Igwe/Eze", "Oba", "Emir", "Obong"], "ans": 0},
+  {"type": "std", "q": "'Ije Odumodu Jere' bụ maka:", "opts": ["Njem", "Agha", "Ịhụnanya", "Azụmahịa"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Market'?", "opts": ["Ahịa", "Ụlọ", "Ụlọ akwụkwọ", "Ụlọ ụka"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Plural'?", "opts": ["Ọtụtụ", "Otu", "Abụọ", "Ole"], "ans": 0},
+  {"type": "std", "q": "Nna nna ndị Igbo:", "opts": ["Eri", "Oduduwa", "Bayajidda", "Nri"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Money'?", "opts": ["Ego", "Akwa", "Nri", "Mmiri"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Father'?", "opts": ["Nna", "Nne", "Nwanne", "Nwunye"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Welcome'?", "opts": ["Nnọọ", "Ka chi fo", "Gaa nke ọma", "Daalụ"], "ans": 0},
+  {"type": "std", "q": "Nri ndị Igbo:", "opts": ["Akpụ/Fufu", "Tuwo", "Amala", "Starch"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Pronoun'?", "opts": ["Nnọchiaha", "Nkeaha", "Ngwaa", "Nkọwa"], "ans": 0},
+  {"type": "std", "q": "Obodo 'Iri Ji' na-ewu:", "opts": ["Ala Igbo", "Ala Yoruba", "Ala Hausa", "Ala Edo"], "ans": 0},
+  {"type": "std", "q": "Mkpụrụokwu ụdaolu:", "opts": ["8", "5", "6", "10"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Water'?", "opts": ["Mmiri", "Ọkụ", "Ikuku", "Ala"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Sun'?", "opts": ["Anyanwụ", "Ọnwa", "Kpakpando", "Igwe"], "ans": 0},
+  {"type": "std", "q": "Ilu: 'Chọọ ewu ojii...'", "opts": ["Mgbe chi ka dị", "N'abalị", "Mgbe o riri nri", "N'ụtụtụ"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Adjective'?", "opts": ["Nkọwa", "Nkeaha", "Ngwaa", "Mbukumba"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'House'?", "opts": ["Ụlọ", "Ahịa", "Ama", "Ubi"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'God'?", "opts": ["Chukwu", "Alusi", "Ekwensu", "Mmuo"], "ans": 0},
+  {"type": "std", "q": "Akwụkwọ J.U.T. Nzeako:", "opts": ["Juochi", "Omenuko", "Ije Odumodu", "Isi Akwu Dara N'ala"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'One'?", "opts": ["Otu", "Abụọ", "Atọ", "Anọ"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Hand'?", "opts": ["Aka", "Ụkwụ", "Isi", "Afo"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'King'?", "opts": ["Eze", "Ohu", "Nwa", "Okenye"], "ans": 0},
+  {"type": "std", "q": "Eji gịnị aga ije?", "opts": ["Ụkwụ", "Aka", "Isi", "Ntị"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Mouth'?", "opts": ["Ọnụ", "Anya", "Imu", "Ntị"], "ans": 0},
+  {"type": "std", "q": "'Good morning' bụ:", "opts": ["Ụtụtụ ọma", "Ehihie ọma", "Abalị ọma", "Nnọọ"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Book'?", "opts": ["Akwụkwọ", "Pen", "Tebulu", "Oche"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Teacher'?", "opts": ["Onye nkuzi", "Onye ahịa", "Dọkịta", "Onye ọrụ"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Snake'?", "opts": ["Agwọ", "Azụ", "Anụ", "Nnụnụ"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Fish'?", "opts": ["Azụ", "Anụ", "Okuko", "Ewu"], "ans": 0},
+  {"type": "std", "q": "'Vowel' bụ:", "opts": ["Udaume", "Mgbochiume", "Mkpụrụokwu", "Okwu"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Ten'?", "opts": ["Iri", "Ise", "Otu", "Nari"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Sky'?", "opts": ["Elu igwe", "Ala", "Mmiri", "Ọhịa"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Male'?", "opts": ["Nwoke", "Nwanyi", "Nwatakiri", "Okenye"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Mother'?", "opts": ["Nne", "Nna", "Nwa", "Di"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Friend'?", "opts": ["Enyi", "Onye iro", "Onye ohi", "Onye ala"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Food'?", "opts": ["Nri", "Mmiri", "Akwa", "Ego"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Eye'?", "opts": ["Anya", "Imu", "Ọnụ", "Ntị"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Ear'?", "opts": ["Ntị", "Anya", "Imu", "Ọnụ"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Come'?", "opts": ["Bịa", "Gaa", "Nọdụ", "Kuo"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Go'?", "opts": ["Gaa", "Bịa", "Lagho", "Rie"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Sit'?", "opts": ["Nọdụ", "Kuzo", "Gaa", "Bịa"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Love'?", "opts": ["Ịhụnanya", "Kpọasị", "Iwe", "Ọṅụ"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Work'?", "opts": ["Ọrụ", "Egwuregwu", "Ụra", "Nri"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Sleep'?", "opts": ["Ụra", "Ọrụ", "Egwuregwu", "Nri"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Tree'?", "opts": ["Osisi", "Okooko", "Ahịhịa", "Nkume"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Bag'?", "opts": ["Akpa", "Akpụkpọ", "Akwụkwọ", "Akwa"], "ans": 0},
+  {"type": "std", "q": "Gịnị bụ 'Head'?", "opts": ["Isi", "Aka", "Ụkwụ", "Afọ"], "ans": 0}
 ]
