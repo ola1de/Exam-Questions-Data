@@ -1,1 +1,114 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "poem",
+    "content": "<b>The Old Pensioner</b><br><br>He sits upon the park bench grey,<br>Watching the children run and play.<br>His coat is worn, his eyes are dim,<br>The world has little time for him.<br>Once he marched with strength and pride,<br>With comrades marching by his side.<br>Now silence is his only friend,<br>Waiting for the journey's end.<br>The autumn leaves drift softly down,<br>Like golden tears upon the town.",
+    "questions": [
+      {
+        "q": "The mood of the poem is best described as:",
+        "opts": ["Celebratory", "Melancholic/Sad", "Angry", "Fearful"],
+        "ans": 1
+      },
+      {
+        "q": "The simile 'Like golden tears' describes:",
+        "opts": ["The children", "The old man", "The autumn leaves", "The bench"],
+        "ans": 2
+      },
+      {
+        "q": "The 'journey's end' is a euphemism for:",
+        "opts": ["Going home", "Death", "Sunset", "Winter"],
+        "ans": 1
+      },
+      {
+        "q": "Line 4 'The world has little time for him' suggests:",
+        "opts": ["He is busy", "He is neglected/isolated", "He is famous", "He is late"],
+        "ans": 1
+      },
+      {
+        "q": "The rhyme scheme of the first four lines is:",
+        "opts": ["abab", "aabb", "abba", "abcd"],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<b>The Storm</b><br><br>The sky turned a bruised purple as the wind began to howl like a wounded animal. Trees bent in submission, their branches scraping the ground in a desperate plea for mercy. Amaka hurriedly gathered the drying clothes, her wrapper whipping furiously around her legs. Thunder rumbled, a deep, angry growl from the belly of the clouds, followed by a blinding flash that tore the sky apart. It was not just a rainstorm; it was nature declaring war on the village.",
+    "questions": [
+      {
+        "q": "The phrase 'howl like a wounded animal' is a:",
+        "opts": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+        "ans": 1
+      },
+      {
+        "q": "The atmosphere in the passage is:",
+        "opts": ["Peaceful", "Chaotic and threatening", "Joyful", "Boring"],
+        "ans": 1
+      },
+      {
+        "q": "'Nature declaring war on the village' is an example of:",
+        "opts": ["Hyperbole", "Litotes", "Irony", "Euphemism"],
+        "ans": 0
+      },
+      {
+        "q": "The word 'submission' implies that the trees were:",
+        "opts": ["Fighting back", "Yielding/Defeated", "Breaking", "Growing"],
+        "ans": 1
+      },
+      {
+        "q": "The thunder is described using the literary device of:",
+        "opts": ["Personification", "Alliteration", "Oxymoron", "Pun"],
+        "ans": 0
+      }
+    ]
+  },
+  {"type": "std", "q": "A poem of fourteen lines is called a:", "opts": ["Ballad", "Sonnet", "Ode", "Elegy"], "ans": 1},
+  {"type": "std", "q": "The main character in a literary work is the:", "opts": ["Antagonist", "Protagonist", "Villain", "Foil"], "ans": 1},
+  {"type": "std", "q": "Which figure of speech addresses an inanimate object as if it were human?", "opts": ["Apostrophe", "Simile", "Metonymy", "Synecdoche"], "ans": 0},
+  {"type": "std", "q": "A play that ends happily is a:", "opts": ["Tragedy", "Comedy", "Farce", "Melodrama"], "ans": 1},
+  {"type": "std", "q": "The repetition of consonant sounds at the beginning of words is:", "opts": ["Assonance", "Alliteration", "Rhyme", "Rhythm"], "ans": 1},
+  {"type": "std", "q": "In drama, a speech made by a character alone on stage is a:", "opts": ["Dialogue", "Soliloquy", "Monologue", "Aside"], "ans": 1},
+  {"type": "std", "q": "A story with a double meaning, often symbolic, is an:", "opts": ["Allegory", "Epic", "Fable", "Myth"], "ans": 0},
+  {"type": "std", "q": "The time and place of a story is the:", "opts": ["Plot", "Setting", "Theme", "Mood"], "ans": 1},
+  {"type": "std", "q": "Who is the author of *Second Class Citizen*?", "opts": ["Chimamanda Adichie", "Buchi Emecheta", "Wole Soyinka", "Chinua Achebe"], "ans": 1},
+  {"type": "std", "q": "In *Second Class Citizen*, Adah's main conflict is against:", "opts": ["Her parents", "Gender discrimination and Racism", "The government", "Her teachers"], "ans": 1},
+  {"type": "std", "q": "The use of words to convey the opposite of their literal meaning is:", "opts": ["Irony", "Symbolism", "Imagery", "Paradox"], "ans": 0},
+  {"type": "std", "q": "In *The Lion and the Jewel*, Sidi is referred to as the:", "opts": ["Village Belle", "Village Witch", "Village Queen", "Village Outcast"], "ans": 0},
+  {"type": "std", "q": "Lakunle in *The Lion and the Jewel* represents:", "opts": ["Tradition", "Modernity/Westernization", "Royalty", "Wisdom"], "ans": 1},
+  {"type": "std", "q": "Baroka symbolizes:", "opts": ["Youth", "Tradition and Cunning", "Weakness", "Poverty"], "ans": 1},
+  {"type": "std", "q": "A deliberate exaggeration for effect is:", "opts": ["Litotes", "Hyperbole", "Metaphor", "Pun"], "ans": 1},
+  {"type": "std", "q": "The clash between opposing forces in a play is:", "opts": ["Climax", "Conflict", "Resolution", "Exposition"], "ans": 1},
+  {"type": "std", "q": "A stanza of four lines is a:", "opts": ["Couplet", "Triplet", "Quatrain", "Sestet"], "ans": 2},
+  {"type": "std", "q": "'The kettle is boiling' is an example of:", "opts": ["Metonymy", "Synecdoche", "Irony", "Simile"], "ans": 0},
+  {"type": "std", "q": "The emotional feeling created by a work of art is:", "opts": ["Tone", "Mood", "Style", "Diction"], "ans": 1},
+  {"type": "std", "q": "Who wrote *Look Back in Anger*?", "opts": ["John Osborne", "Shakespeare", "Arthur Miller", "Bernard Shaw"], "ans": 0},
+  {"type": "std", "q": "Jimmy Porter in *Look Back in Anger* is an:", "opts": ["Angry Young Man", "Aristocrat", "Old Soldier", "Happy Priest"], "ans": 0},
+  {"type": "std", "q": "A poem mourning the dead is an:", "opts": ["Ode", "Elegy", "Sonnet", "Lyric"], "ans": 1},
+  {"type": "std", "q": "The writer's choice of words is called:", "opts": ["Syntax", "Diction", "Mood", "Rhythm"], "ans": 1},
+  {"type": "std", "q": "An understatement is known as:", "opts": ["Hyperbole", "Litotes", "Irony", "Sarcasm"], "ans": 1},
+  {"type": "std", "q": "In *Wuthering Heights*, Heathcliff's love interest is:", "opts": ["Isabella", "Catherine", "Nelly", "Cathy"], "ans": 1},
+  {"type": "std", "q": "The narrative technique starting a story in the middle is:", "opts": ["In media res", "Flashback", "Foreshadowing", "Suspense"], "ans": 0},
+  {"type": "std", "q": "Unrhymed poetry is called:", "opts": ["Blank Verse", "Free Verse", "Sonnet", "Haiku"], "ans": 0},
+  {"type": "std", "q": "The final resolution of a plot is the:", "opts": ["Climax", "Denouement", "Conflict", "Introduction"], "ans": 1},
+  {"type": "std", "q": "A character that does not change is:", "opts": ["Dynamic", "Static/Flat", "Round", "Complex"], "ans": 1},
+  {"type": "std", "q": "Use of 'Crown' for 'King' is:", "opts": ["Metonymy", "Synecdoche", "Simile", "Metaphor"], "ans": 0},
+  {"type": "std", "q": "A contradiction that contains truth is:", "opts": ["Paradox", "Irony", "Oxymoron", "Pun"], "ans": 0},
+  {"type": "std", "q": "The antagonist in *Invisible Man* is:", "opts": ["Society/Racism", "Brother Jack", "Ras", "Dr. Bledsoe"], "ans": 0},
+  {"type": "std", "q": "The 'Invisible Man' is invisible because:", "opts": ["He is a ghost", "People refuse to see him", "He wears a mask", "He is magic"], "ans": 1},
+  {"type": "std", "q": "Comic relief is used to:", "opts": ["Increase tension", "Reduce tension", "End the play", "Start the play"], "ans": 1},
+  {"type": "std", "q": "'Bitter-sweet' is an example of:", "opts": ["Oxymoron", "Paradox", "Irony", "Metaphor"], "ans": 0},
+  {"type": "std", "q": "A long narrative poem about a hero is an:", "opts": ["Epic", "Elegy", "Ballad", "Ode"], "ans": 0},
+  {"type": "std", "q": "Epistolary novels are written as:", "opts": ["Letters", "Diaries", "News reports", "Dialogues"], "ans": 0},
+  {"type": "std", "q": "The turning point of highest tension is:", "opts": ["Climax", "Resolution", "Exposition", "Falling Action"], "ans": 0},
+  {"type": "std", "q": "Adah's husband in *Second Class Citizen* is:", "opts": ["Francis", "Okolo", "Pa Noble", "Mr. Cole"], "ans": 0},
+  {"type": "std", "q": "Didactic literature is meant to:", "opts": ["Teach a moral", "Entertain", "Confuse", "Scare"], "ans": 0},
+  {"type": "std", "q": "Onomatopoeia refers to:", "opts": ["Words that sound like their meaning", "Comparisons", "Exaggerations", "Repetitions"], "ans": 0},
+  {"type": "std", "q": "The dramatic genre of *The Lion and the Jewel* is:", "opts": ["Comedy", "Tragedy", "History", "Melodrama"], "ans": 0},
+  {"type": "std", "q": "A question asked for effect without expecting an answer:", "opts": ["Rhetorical question", "Direct question", "Indirect question", "Tag question"], "ans": 0},
+  {"type": "std", "q": "The villain creates:", "opts": ["Conflict", "Peace", "Resolution", "Harmony"], "ans": 0},
+  {"type": "std", "q": "In *Look Back in Anger*, the ironing board symbolizes:", "opts": ["Domestic routine/Boredom", "Weapon", "Wealth", "Love"], "ans": 0},
+  {"type": "std", "q": "Use of 'Sail' for 'Ship' is:", "opts": ["Synecdoche", "Metonymy", "Metaphor", "Simile"], "ans": 0},
+  {"type": "std", "q": "Verbal Irony is:", "opts": ["Saying opposite of meaning", "Dramatic situation", "Fate", "Coincidence"], "ans": 0},
+  {"type": "std", "q": "A foil character:", "opts": ["Contrasts with the protagonist", "Helps the protagonist", "Is the hero", "Is invisible"], "ans": 0},
+  {"type": "std", "q": "The prologue comes:", "opts": ["At the beginning", "At the end", "In the middle", "Nowhere"], "ans": 0},
+  {"type": "std", "q": "The epilogue comes:", "opts": ["At the end", "At the beginning", "In the middle", "Before the climax"], "ans": 0}
+]
