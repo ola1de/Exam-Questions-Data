@@ -1,1 +1,114 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "passage",
+    "content": "<b>The Burden of Leadership</b><br><br>Chief Adeolu had always coveted the throne. For years, he had plotted and schemed, forming alliances with the most unsavory characters in the village. When the old king finally joined his ancestors, Adeolu’s path seemed clear. However, the crown was heavier than he anticipated. The village was plagued by drought, the youths were restless, and the treasury was empty. The very people who had cheered his ascension now grumbled in market squares. Adeolu realized too late that power was not just about wearing royal robes and eating from silver platters; it was a burden that demanded wisdom, sacrifice, and the ability to listen—virtues he had never cultivated. His nights became sleepless, haunted by the realization that he was a king in title but a pauper in leadership.",
+    "questions": [
+      {
+        "q": "The expression 'joined his ancestors' is a euphemism for:",
+        "opts": ["Went to a meeting", "Died", "Travelled abroad", "Became sick"],
+        "ans": 1
+      },
+      {
+        "q": "Adeolu’s initial attitude towards the throne was one of:",
+        "opts": ["Indifference", "Fear", "Ambition", "Reluctance"],
+        "ans": 2
+      },
+      {
+        "q": "The villagers' reaction to Adeolu’s reign changed from:",
+        "opts": ["Anger to joy", "Approval to dissatisfaction", "Indifference to love", "Hate to fear"],
+        "ans": 1
+      },
+      {
+        "q": "The phrase 'king in title but a pauper in leadership' implies Adeolu:",
+        "opts": ["Was poor financially", "Lacked leadership qualities", "Lost his title", "Was a servant"],
+        "ans": 1
+      },
+      {
+        "q": "A suitable title for this passage is:",
+        "opts": ["The Evil Plot", "<b>The Reality of Power</b>", "The Drought", "The Market Square"],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<b>The Impact of Artificial Intelligence</b><br><br>Artificial Intelligence (AI) is no longer the stuff of science fiction; it is weaving itself into the fabric of daily life. From recommendation algorithms on streaming services to sophisticated diagnostic tools in healthcare, AI is ubiquitous. Proponents argue that it increases efficiency and solves complex problems faster than the human brain. However, critics raise ethical concerns regarding privacy, bias in algorithms, and the potential displacement of jobs. As machines become smarter, the line between human intuition and machine logic blurs. The challenge for the 21st century is not just developing AI, but governing it to ensure it serves humanity rather than enslaving it.",
+    "questions": [
+      {
+        "q": "According to the passage, AI is now:",
+        "opts": ["A future possibility", "Present everywhere", "Only in hospitals", "Illegal"],
+        "ans": 1
+      },
+      {
+        "q": "One major concern raised by critics is:",
+        "opts": ["Speed of computers", "Job displacement", "Cost of electricity", "Lack of internet"],
+        "ans": 1
+      },
+      {
+        "q": "The word 'ubiquitous' means:",
+        "opts": ["Rare", "Expensive", "Found everywhere", "Dangerous"],
+        "ans": 2
+      },
+      {
+        "q": "The writer suggests the main challenge of the 21st century is:",
+        "opts": ["Stopping AI development", "Making AI faster", "Regulating AI", "Ignoring AI"],
+        "ans": 2
+      },
+      {
+        "q": "The tone of the passage is:",
+        "opts": ["Balanced/Objective", "Angry", "Sarcastic", "Indifferent"],
+        "ans": 0
+      }
+    ]
+  },
+  {"type": "std", "q": "The boys, as well as their father, <u>______</u> going to the party.", "opts": ["are", "is", "were", "have"], "ans": 1},
+  {"type": "std", "q": "In the sentence 'The <u>running</u> water is cold', the underlined word is a:", "opts": ["Verb", "Noun", "Adjective (Participle)", "Adverb"], "ans": 2},
+  {"type": "std", "q": "Choose the option opposite in meaning to: <u>ADAMANT</u>", "opts": ["Stubborn", "Yielding", "Hard", "Difficult"], "ans": 1},
+  {"type": "std", "q": "He was charged <u>______</u> arson.", "opts": ["for", "with", "of", "on"], "ans": 1},
+  {"type": "std", "q": "The idiom 'to sit on the fence' means:", "opts": ["To be lazy", "To remain neutral", "To build a house", "To fall down"], "ans": 1},
+  {"type": "std", "q": "Choose the option nearest in meaning to: <u>CORROBORATE</u>", "opts": ["Deny", "Confirm", "Understand", "Write"], "ans": 1},
+  {"type": "std", "q": "Neither the players nor the coach <u>______</u> blamed.", "opts": ["was", "were", "are", "have been"], "ans": 0},
+  {"type": "std", "q": "The lady <u>whose</u> purse was stolen is crying.", "opts": ["who", "whom", "which", "whose"], "ans": 3},
+  {"type": "std", "q": "He <u>______</u> the book on the table yesterday.", "opts": ["lay", "laid", "lied", "lain"], "ans": 1},
+  {"type": "std", "q": "It is high time we <u>______</u> studying.", "opts": ["start", "started", "starting", "have started"], "ans": 1},
+  {"type": "std", "q": "Select the correctly spelt word:", "opts": ["Embarrasment", "Embarrassment", "Embarassment", "Embarasment"], "ans": 1},
+  {"type": "std", "q": "The man is an authority <u>______</u> History.", "opts": ["in", "on", "at", "with"], "ans": 1},
+  {"type": "std", "q": "If I <u>______</u> you, I would accept the offer.", "opts": ["am", "was", "were", "be"], "ans": 2},
+  {"type": "std", "q": "To 'let the cat out of the bag' means:", "opts": ["To free a pet", "To reveal a secret", "To make a mistake", "To travel"], "ans": 1},
+  {"type": "std", "q": "The hospital is <u>adjacent</u> to the bank.", "opts": ["Opposite", "Next", "Behind", "Far"], "ans": 1},
+  {"type": "std", "q": "We look forward to <u>______</u> you.", "opts": ["see", "saw", "seeing", "seen"], "ans": 2},
+  {"type": "std", "q": "The police <u>______</u> investigating the case.", "opts": ["is", "are", "was", "has"], "ans": 1},
+  {"type": "std", "q": "One of the girls <u>______</u> lost her bag.", "opts": ["have", "has", "are", "were"], "ans": 1},
+  {"type": "std", "q": "Choose the word with the same vowel sound as 'Key':", "opts": ["Sit", "Quay", "Die", "Play"], "ans": 1},
+  {"type": "std", "q": "Choose the word with the same consonant sound as 'Church':", "opts": ["Chemise", "Character", "Cheap", "Show"], "ans": 2},
+  {"type": "std", "q": "The <u>climax</u> of the movie was thrilling.", "opts": ["Beginning", "Peak", "End", "Middle"], "ans": 1},
+  {"type": "std", "q": "He is good <u>______</u> Mathematics.", "opts": ["in", "at", "on", "with"], "ans": 1},
+  {"type": "std", "q": "Unless you work hard, you <u>______</u> fail.", "opts": ["will", "would", "can", "should"], "ans": 0},
+  {"type": "std", "q": "Had he known, he <u>______</u> attended.", "opts": ["will have", "would have", "can have", "shall have"], "ans": 1},
+  {"type": "std", "q": "The jury gave <u>______</u> verdict.", "opts": ["its", "it's", "their", "theirs"], "ans": 0},
+  {"type": "std", "q": "Choose the option opposite to: <u>MITIGATE</u>", "opts": ["Alleviate", "Aggravate", "Reduce", "Calm"], "ans": 1},
+  {"type": "std", "q": "He ran <u>______</u> he had seen a ghost.", "opts": ["as", "like", "as if", "so"], "ans": 2},
+  {"type": "std", "q": "The man died <u>______</u> yellow fever.", "opts": ["of", "from", "by", "with"], "ans": 0},
+  {"type": "std", "q": "She is the <u>______</u> of the three sisters.", "opts": ["tallest", "taller", "most tall", "more tall"], "ans": 0},
+  {"type": "std", "q": "Bread and butter <u>______</u> my breakfast.", "opts": ["are", "is", "were", "have"], "ans": 1},
+  {"type": "std", "q": "The machinery <u>______</u> old.", "opts": ["is", "are", "were", "have"], "ans": 0},
+  {"type": "std", "q": "I prefer reading <u>______</u> dancing.", "opts": ["than", "to", "over", "from"], "ans": 1},
+  {"type": "std", "q": "The word 'indigent' means:", "opts": ["Native", "Poor", "Rich", "Angry"], "ans": 1},
+  {"type": "std", "q": "Oral: Emphatic stress. 'TOM bought a new car.'", "opts": ["Did John buy a new car?", "Did Tom sell a new car?", "Did Tom buy an old car?", "Did Tom buy a new house?"], "ans": 0},
+  {"type": "std", "q": "Rhyme: Which word rhymes with 'Plough'?", "opts": ["Rough", "Cough", "Cow", "Dough"], "ans": 2},
+  {"type": "std", "q": "He is a <u>______</u> driver.", "opts": ["fast", "fastly", "fastest", "faster"], "ans": 0},
+  {"type": "std", "q": "We discussed <u>______</u> the matter.", "opts": ["about", "on", "of", "no preposition"], "ans": 3},
+  {"type": "std", "q": "The soup tastes <u>______</u>.", "opts": ["sweet", "delicious", "sweeter", "sweetly"], "ans": 1},
+  {"type": "std", "q": "She has been sleeping <u>______</u> 2pm.", "opts": ["for", "since", "by", "from"], "ans": 1},
+  {"type": "std", "q": "To 'hit the nail on the head':", "opts": ["To be violent", "To be correct", "To work hard", "To fail"], "ans": 1},
+  {"type": "std", "q": "Synonym of: <u>OBSOLETE</u>", "opts": ["New", "Outdated", "Fashionable", "Current"], "ans": 1},
+  {"type": "std", "q": "Antonym of: <u>TRANSPARENT</u>", "opts": ["Clear", "Opaque", "Clean", "Visible"], "ans": 1},
+  {"type": "std", "q": "The committee <u>______</u> divided in their opinion.", "opts": ["was", "were", "is", "has"], "ans": 1},
+  {"type": "std", "q": "Ten miles <u>______</u> a long distance.", "opts": ["is", "are", "were", "have"], "ans": 0},
+  {"type": "std", "q": "Oral: Vowel sound in 'Pot'", "opts": ["/ɒ/", "/ɔː/", "/u/", "/ʌ/"], "ans": 0},
+  {"type": "std", "q": "Oral: Consonant sound in 'Think'", "opts": ["/ð/", "/θ/", "/t/", "/f/"], "ans": 1},
+  {"type": "std", "q": "He is too weak <u>______</u> walk.", "opts": ["to", "for", "in", "that"], "ans": 0},
+  {"type": "std", "q": "She is a <u>______</u> beauty.", "opts": ["rare", "scarce", "few", "less"], "ans": 0},
+  {"type": "std", "q": "The reason <u>______</u> he left is unknown.", "opts": ["why", "that", "because", "due to"], "ans": 0},
+  {"type": "std", "q": "This is the man <u>______</u> I saw.", "opts": ["who", "whom", "which", "whose"], "ans": 1}
+]
