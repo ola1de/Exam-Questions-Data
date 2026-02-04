@@ -1,242 +1,52 @@
 [
-  {
-    "type": "std",
-    "q": "Evaluate: $$\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3}$$",
-    "opts": ["$0$", "$3$", "$6$", "$9$"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "If $$y = x^3 - 4x^2 + 5$$, find $$\\frac{dy}{dx}$$.",
-    "opts": ["$3x^2 - 8x$", "$3x^2 - 4x$", "$x^2 - 8x$", "$3x^2 + 8x$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Given $$A = \\begin{pmatrix} 2 & 5 \\\\ 1 & 3 \\end{pmatrix}$$, find the determinant of $$A$$.",
-    "opts": ["$1$", "$11$", "$-1$", "$5$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Integrate: $$\\int_0^2 (3x^2 + 2x) dx$$",
-    "opts": ["$10$", "$12$", "$8$", "$16$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find the centre of the circle: $$x^2 + y^2 - 4x + 6y - 12 = 0$$",
-    "opts": ["$(2, -3)$", "$(-2, 3)$", "$(2, 3)$", "$(-2, -3)$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "The coefficient of $$x^2$$ in the expansion of $$(1 - 3x)^6$$ is:",
-    "opts": ["$135$", "$15$", "$270$", "$90$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "If $$\\alpha$$ and $$\\beta$$ are the roots of $$2x^2 - 5x + 2 = 0$$, find $$\\alpha + \\beta$$.",
-    "opts": ["$2.5$", "$-2.5$", "$1$", "$2$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the unit vector in the direction of $$\\mathbf{a} = 3\\mathbf{i} + 4\\mathbf{j}$$.",
-    "opts": ["$\\frac{1}{5}(3\\mathbf{i} + 4\\mathbf{j})$", "$\\frac{1}{25}(3\\mathbf{i} + 4\\mathbf{j})$", "$5(3\\mathbf{i} + 4\\mathbf{j})$", "$3\\mathbf{i} + 4\\mathbf{j}$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Solve for $$x$$: $$\\log_3(2x + 1) = 2$$.",
-    "opts": ["$3$", "$4$", "$5$", "$8$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find the derivative of $$y = \\sin(2x)$$.",
-    "opts": ["$\\cos(2x)$", "$2\\cos(2x)$", "$-\\cos(2x)$", "$-2\\cos(2x)$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "A binary operation $$*$$ is defined by $$a * b = a + b - ab$$. Find $$2 * 3$$.",
-    "opts": ["$-1$", "$1$", "$5$", "$6$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Calculate the variance of the numbers: 2, 4, 6, 8, 10.",
-    "opts": ["$4$", "$8$", "$10$", "$2$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "If $$f(x) = 2x + 1$$ and $$g(x) = x^2$$, find $$g(f(1))$$.",
-    "opts": ["$3$", "$9$", "$5$", "$1$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "The sum to infinity of a G.P is 20 and the first term is 10. Find the common ratio.",
-    "opts": ["$0.5$", "$0.2$", "$2$", "$0.1$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the angle between vectors $$\\mathbf{a} = 2\\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = -\\mathbf{i} + 2\\mathbf{j}$$.",
-    "opts": ["$90^\\circ$", "$45^\\circ$", "$60^\\circ$", "$30^\\circ$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "The radius of the circle $$2x^2 + 2y^2 - 8x + 12y + 2 = 0$$ is:",
-    "opts": ["$\\sqrt{12}$", "$4$", "$\\sqrt{15}$", "$3$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Resolve $$\\frac{3x+1}{(x-1)(x+1)}$$ into partial fractions.",
-    "opts": ["$\\frac{2}{x-1} + \\frac{1}{x+1}$", "$\\frac{1}{x-1} + \\frac{2}{x+1}$", "$\\frac{2}{x-1} - \\frac{1}{x+1}$", "$\\frac{1}{x-1} - \\frac{2}{x+1}$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the value of $$k$$ for which the matrix $$\\begin{pmatrix} 2 & k \\\\ 1 & 4 \\end{pmatrix}$$ is singular.",
-    "opts": ["$2$", "$4$", "$8$", "$6$"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "A particle moves with velocity $$v = (3t^2 - 1)m/s$$. Find its acceleration at $$t=2s$$.",
-    "opts": ["$6 m/s^2$", "$11 m/s^2$", "$12 m/s^2$", "$10 m/s^2$"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "Evaluate: $$^8P_2$$.",
-    "opts": ["$28$", "$56$", "$16$", "$64$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find the modulus of the complex number $$z = 3 - 4i$$.",
-    "opts": ["$1$", "$5$", "$7$", "$25$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "If $$y = e^{2x}$$, find $$\\frac{d^2y}{dx^2}$$.",
-    "opts": ["$2e^{2x}$", "$4e^{2x}$", "$e^{2x}$", "$8e^{2x}$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find the area under the curve $$y = x^2$$ from $$x=1$$ to $$x=2$$.",
-    "opts": ["$7/3$", "$3$", "$2$", "$5/3$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Determine the value of $$x$$ if $$\\begin{vmatrix} x & 2 \\\\ 3 & 4 \\end{vmatrix} = 10$$.",
-    "opts": ["$2$", "$4$", "$1$", "$3$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "The derivative of $$\\ln x$$ is:",
-    "opts": ["$e^x$", "$1/x$", "$x$", "$x^2$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Which of these is a scalar quantity?",
-    "opts": ["Velocity", "Force", "Mass", "Displacement"],
-    "ans": 2
-  },
-  {
-    "type": "std",
-    "q": "Find the equation of the tangent to the curve $$y = x^2$$ at the point $$(1,1)$$.",
-    "opts": ["$y = 2x - 1$", "$y = 2x + 1$", "$y = x - 1$", "$y = x + 1$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "If $$P(A) = 0.4$$ and $$P(B) = 0.5$$ are independent events, find $$P(A \\cap B)$$.",
-    "opts": ["$0.9$", "$0.2$", "$0.1$", "$0.25$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find the dot product of $$\\mathbf{a} = \\mathbf{i} + 2\\mathbf{j}$$ and $$\\mathbf{b} = 3\\mathbf{i} - \\mathbf{j}$$.",
-    "opts": ["$1$", "$2$", "$5$", "$0$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Solve for $$x$$: $$|2x - 3| = 5$$.",
-    "opts": ["$4, -1$", "$4, 1$", "$2, -1$", "$3, -2$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the range of $$f(x) = \\cos x$$.",
-    "opts": ["$[0, 1]$", "$[-1, 1]$", "$(-\\infty, \\infty)$", "$[0, \\infty)$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "The sum of roots of $$x^2 - 7x + 10 = 0$$ is:",
-    "opts": ["$7$", "$-7$", "$10$", "$5$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Calculate the mean deviation of 2, 4, 6, 8, 10.",
-    "opts": ["$2.4$", "$3.0$", "$2.0$", "$4.0$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "If $$^nC_2 = 15$$, find $$n$$.",
-    "opts": ["$5$", "$6$", "$4$", "$7$"],
-    "ans": 1
-  },
-  {
-    "type": "std",
-    "q": "Find the cross product $$\\mathbf{i} \\times \\mathbf{j}$$.",
-    "opts": ["$\\mathbf{k}$", "$-\\mathbf{k}$", "$0$", "$1$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "What is the gradient of the line $$2y - 4x = 6$$?",
-    "opts": ["$2$", "$4$", "$3$", "$1$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "A particle is projected vertically upwards with $$u = 20m/s$$. Time to reach maximum height ($$g=10m/s^2$$) is:",
-    "opts": ["$2s$", "$4s$", "$1s$", "$0.5s$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Integrate $$\\int \\cos x dx$$.",
-    "opts": ["$\\sin x + C$", "$-\\sin x + C$", "$\\cos x + C$", "$-\\cos x + C$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "Find the remainder when $$x^3 + 2x^2 - 5x + 1$$ is divided by $$x - 1$$.",
-    "opts": ["$-1$", "$0$", "$1$", "$-2$"],
-    "ans": 0
-  },
-  {
-    "type": "std",
-    "q": "The matrix $$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$$ is called:",
-    "opts": ["Zero matrix", "Identity matrix", "Singular matrix", "Row matrix"],
-    "ans": 1
-  }
+  {"type": "std", "q": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.", "opts": ["$$ 12x^2 - 4x $$", "$$ 12x^2 - 2x $$", "$$ 4x^2 - 4x $$", "$$ 12x^2 + 4x $$"], "ans": 0},
+  {"type": "std", "q": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.", "opts": ["3", "1", "0", "1/3"], "ans": 0},
+  {"type": "std", "q": "If $$ z = 3 + 4i $$, find $$ |z| $$.", "opts": ["5", "3", "4", "7"], "ans": 0},
+  {"type": "std", "q": "Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.", "opts": ["$$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$", "$$ 3\\mathbf{i} - 4\\mathbf{j} $$", "$$ 5(\\mathbf{i} + \\mathbf{j}) $$", "$$ \\mathbf{i} - \\mathbf{j} $$"], "ans": 0},
+  {"type": "std", "q": "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.", "opts": ["5", "11", "7", "-5"], "ans": 0},
+  {"type": "std", "q": "Evaluate $$ \\int_0^2 (2x + 1) dx $$.", "opts": ["6", "4", "5", "8"], "ans": 0},
+  {"type": "std", "q": "Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.", "opts": ["(2, -3)", "(-2, 3)", "(4, -6)", "(-4, 6)"], "ans": 0},
+  {"type": "std", "q": "Number of ways to arrange letters of 'APPLE'.", "opts": ["60", "120", "24", "12"], "ans": 0},
+  {"type": "std", "q": "If $$ y = e^{2x} $$, find $$ d^2y/dx^2 $$.", "opts": ["$$ 4e^{2x} $$", "$$ 2e^{2x} $$", "$$ e^{2x} $$", "$$ 8e^{2x} $$"], "ans": 0},
+  {"type": "std", "q": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.", "opts": ["$$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$", "$$ \\frac{1}{x-1} + \\frac{1}{x+1} $$", "$$ \\frac{1}{2(x+1)} - \\frac{1}{2(x-1)} $$", "$$ \\frac{2}{x-1} $$"], "ans": 0},
+  {"type": "std", "q": "Particle moves $$ s = t^3 - 3t^2 $$. Find velocity at $$ t=3 $$.", "opts": ["9", "0", "3", "27"], "ans": 0},
+  {"type": "std", "q": "Angle between $$ y=x $$ and $$ y=-x $$ is:", "opts": ["$$ 90^\\circ $$", "$$ 45^\\circ $$", "$$ 0^\\circ $$", "$$ 180^\\circ $$"], "ans": 0},
+  {"type": "std", "q": "Variance of 1, 2, 3, 4, 5 is:", "opts": ["2", "2.5", "4", "1.41"], "ans": 0},
+  {"type": "std", "q": "Sum of roots of $$ 2x^2 - 5x + 1 = 0 $$ is:", "opts": ["2.5", "5", "-2.5", "0.5"], "ans": 0},
+  {"type": "std", "q": "Equation of tangent to $$ y=x^2 $$ at (1,1).", "opts": ["$$ y=2x-1 $$", "$$ y=2x+1 $$", "$$ y=x $$", "$$ y=x+1 $$"], "ans": 0},
+  {"type": "std", "q": "Binary operation $$ a*b = a+b-ab $$. Find $$ 2*3 $$.", "opts": ["-1", "5", "1", "6"], "ans": 0},
+  {"type": "std", "q": "Which is a scalar quantity?", "opts": ["Mass", "Velocity", "Force", "Displacement"], "ans": 0},
+  {"type": "std", "q": "If $$ P(A)=0.5, P(B)=0.4 $$, Independent. Find $$ P(A \\cap B) $$.", "opts": ["0.2", "0.9", "0.1", "0.5"], "ans": 0},
+  {"type": "std", "q": "Integrate $$ \\cos x $$.", "opts": ["$$ \\sin x + c $$", "$$ -\\sin x + c $$", "$$ \\cos x + c $$", "$$ -\\cos x + c $$"], "ans": 0},
+  {"type": "std", "q": "Resultant of 3N and 4N at $$ 90^\\circ $$.", "opts": ["5N", "7N", "1N", "12N"], "ans": 0},
+  {"type": "std", "q": "Derivative of $$ \\ln x $$ is:", "opts": ["$$ 1/x $$", "$$ x $$", "$$ e^x $$", "$$ 1 $$"], "ans": 0},
+  {"type": "std", "q": "Remainder when $$ x^2 - 3x + 2 $$ divided by $$ x-1 $$.", "opts": ["0", "1", "-1", "2"], "ans": 0},
+  {"type": "std", "q": "Solve $$ \\log_2 x = 3 $$.", "opts": ["8", "6", "9", "5"], "ans": 0},
+  {"type": "std", "q": "Matrix multiplication $$ AB $$ requires:", "opts": ["Cols A = Rows B", "Rows A = Cols B", "Rows A = Rows B", "Cols A = Cols B"], "ans": 0},
+  {"type": "std", "q": "Sum to infinity $$ 1, 1/2, 1/4... $$", "opts": ["2", "1.5", "1", "3"], "ans": 0},
+  {"type": "std", "q": "Equation of circle center (0,0) radius 5.", "opts": ["$$ x^2 + y^2 = 25 $$", "$$ x^2 + y^2 = 5 $$", "$$ x^2 - y^2 = 25 $$", "$$ x + y = 5 $$"], "ans": 0},
+  {"type": "std", "q": "Correlation $$ r = -1 $$ means:", "opts": ["Perfect negative", "Perfect positive", "No correlation", "Weak"], "ans": 0},
+  {"type": "std", "q": "Time for body to fall 20m ($$ g=10 $$).", "opts": ["2s", "4s", "1s", "3s"], "ans": 0},
+  {"type": "std", "q": "Value of $$ {}^5C_2 $$.", "opts": ["10", "20", "5", "60"], "ans": 0},
+  {"type": "std", "q": "If $$ \\tan \\theta = 1 $$, $$ \\theta $$ is:", "opts": ["$$ 45^\\circ $$", "$$ 30^\\circ $$", "$$ 60^\\circ $$", "$$ 90^\\circ $$"], "ans": 0},
+  {"type": "std", "q": "Moment = ?", "opts": ["$$ Force \\times Distance $$", "$$ Force / Distance $$", "$$ Mass \\times Velocity $$", "$$ Force + Distance $$"], "ans": 0},
+  {"type": "std", "q": "Distance point (1,1) to $$ 3x+4y+3=0 $$.", "opts": ["2", "1", "3", "4"], "ans": 0},
+  {"type": "std", "q": "Expand $$ (1+x)^3 $$.", "opts": ["$$ 1 + 3x + 3x^2 + x^3 $$", "$$ 1 + x^3 $$", "$$ 1 + 3x + x^3 $$", "$$ 1 - 3x + 3x^2 - x^3 $$"], "ans": 0},
+  {"type": "std", "q": "Scalar product $$ \\mathbf{i} \\cdot \\mathbf{j} $$ is:", "opts": ["0", "1", "k", "-1"], "ans": 0},
+  {"type": "std", "q": "Integrate $$ e^x $$.", "opts": ["$$ e^x + c $$", "$$ xe^x + c $$", "$$ e^{2x} + c $$", "$$ 1 $$"], "ans": 0},
+  {"type": "std", "q": "Polynomial factor $$ (x-2) $$ means $$ P(2) $$ is:", "opts": ["0", "1", "2", "-1"], "ans": 0},
+  {"type": "std", "q": "SHM acceleration is proportional to:", "opts": ["Displacement", "Velocity", "Time", "Mass"], "ans": 0},
+  {"type": "std", "q": "Geometric Mean of 4 and 16.", "opts": ["8", "10", "12", "20"], "ans": 0},
+  {"type": "std", "q": "Transpose of $$ \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix} $$.", "opts": ["$$ \\begin{pmatrix} 1 & 3 \\\\ 2 & 4 \\end{pmatrix} $$", "$$ \\begin{pmatrix} 4 & 3 \\\\ 2 & 1 \\end{pmatrix} $$", "$$ \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix} $$", "$$ \\begin{pmatrix} -1 & -2 \\\\ -3 & -4 \\end{pmatrix} $$"], "ans": 0},
+  {"type": "std", "q": "Derivative of $$ \\cos x $$.", "opts": ["$$ -\\sin x $$", "$$ \\sin x $$", "$$ \\cos x $$", "$$ -\\cos x $$"], "ans": 0},
+  {"type": "std", "q": "Limiting friction $$ F $$ related to $$ R $$ by:", "opts": ["$$ F = \\mu R $$", "$$ F = R/\\mu $$", "$$ F = \\mu + R $$", "$$ F = R - \\mu $$"], "ans": 0},
+  {"type": "std", "q": "Solve $$ |x| < 2 $$.", "opts": ["$$ -2 < x < 2 $$", "$$ x > 2 $$", "$$ x < -2 $$", "$$ x = 2 $$"], "ans": 0},
+  {"type": "std", "q": "Order of $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.", "opts": ["$$ 2 \\times 1 $$", "$$ 1 \\times 2 $$", "$$ 2 \\times 2 $$", "$$ 1 \\times 1 $$"], "ans": 0},
+  {"type": "std", "q": "Derivative of $$ x^n $$.", "opts": ["$$ nx^{n-1} $$", "$$ x^{n+1} $$", "$$ x^n $$", "$$ n x $$"], "ans": 0},
+  {"type": "std", "q": "Slope of tangent to $$ y=x $$ is:", "opts": ["1", "x", "0", "-1"], "ans": 0},
+  {"type": "std", "q": "Area under velocity-time graph is:", "opts": ["Distance", "Acceleration", "Force", "Power"], "ans": 0},
+  {"type": "std", "q": "Limit $$ \\frac{1}{x} $$ as $$ x \\to \\infty $$.", "opts": ["0", "Infinity", "1", "Undefined"], "ans": 0},
+  {"type": "std", "q": "Modulus of $$ 5\\mathbf{i} + 12\\mathbf{j} $$.", "opts": ["13", "17", "7", "60"], "ans": 0},
+  {"type": "std", "q": "If $$ f(x) = x^2 $$, range for $$ x \\in R $$ is:", "opts": ["$$ y \\ge 0 $$", "$$ y > 0 $$", "$$ y \\le 0 $$", "All Reals"], "ans": 0},
+  {"type": "std", "q": "Integration is reverse of:", "opts": ["Differentiation", "Algebra", "Trigonometry", "Geometry"], "ans": 0}
 ]
