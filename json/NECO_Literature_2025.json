@@ -1,1 +1,114 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "poem",
+    "content": "<b>The Silent Drum</b><br><br>The drum hangs silent on the wall,<br>No hands to make its rhythm call.<br>Dust settles on its tautened skin,<br>Where once the spirit danced within.<br>The dancers' feet are cold and still,<br>The songbirds left the grassy hill.<br>A silence heavy, thick, and deep,<br>Has lulled the village into sleep.<br>We wait for dawn to break the spell,<br>And drink from memory's deep well.",
+    "questions": [
+      {
+        "q": "The 'silent drum' is a symbol of:",
+        "opts": ["A broken instrument", "Loss of culture/festivity", "Peace and quiet", "A new beginning"],
+        "ans": 1
+      },
+      {
+        "q": "The mood of the poem is:",
+        "opts": ["Celebratory", "Nostalgic and Somber", "Angry", "Fearful"],
+        "ans": 1
+      },
+      {
+        "q": "The rhyme scheme of the first four lines is:",
+        "opts": ["aabb", "abab", "abba", "acbd"],
+        "ans": 0
+      },
+      {
+        "q": "'Memory's deep well' is an example of:",
+        "opts": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+        "ans": 1
+      },
+      {
+        "q": "The 'spirit' in line 4 refers to:",
+        "opts": ["A ghost", "The energy/life of the music", "Alcohol", "The wind"],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<b>The Marketplace</b><br><br>The market was a cacophony of sounds and a riot of colors. Market women shouted their wares at the top of their lungs, competing with the blaring horns of impatience buses. Chike navigated the labyrinth of stalls, holding his wallet tight against his chest. He saw a woman haggling fiercely over a basket of tomatoes, her hands cutting the air for emphasis. The smell of roasted corn battled with the stench of the open gutters. It was chaotic, dirty, and loud, yet it possessed a vibrant pulse that Chike found strangely intoxicating.",
+    "questions": [
+      {
+        "q": "The expression 'cacophony of sounds' appeals to the sense of:",
+        "opts": ["Sight", "Hearing", "Smell", "Touch"],
+        "ans": 1
+      },
+      {
+        "q": "Chike held his wallet tight because:",
+        "opts": ["He was cold", "He feared pickpockets", "He had no pocket", "It was heavy"],
+        "ans": 1
+      },
+      {
+        "q": "The woman's hands 'cutting the air' implies:",
+        "opts": ["She was holding a knife", "She was gesturing emphatically", "She was swatting flies", "She was dancing"],
+        "ans": 1
+      },
+      {
+        "q": "The passage describes the market as:",
+        "opts": ["Quiet and organized", "Chaotic but lively", "Dangerous and empty", "Modern and clean"],
+        "ans": 1
+      },
+      {
+        "q": "The 'pulse' of the market suggests:",
+        "opts": ["It is a living entity", "It has a heartbeat monitor", "It is dying", "It is sick"],
+        "ans": 0
+      }
+    ]
+  },
+  {"type": "std", "q": "A poem of 14 lines with a specific rhyme scheme is a:", "opts": ["Ballad", "Sonnet", "Ode", "Elegy"], "ans": 1},
+  {"type": "std", "q": "The central idea or message in a literary work is the:", "opts": ["Subject matter", "Theme", "Plot", "Setting"], "ans": 1},
+  {"type": "std", "q": "A play that ends in disaster for the protagonist is a:", "opts": ["Comedy", "Tragedy", "Farce", "Melodrama"], "ans": 1},
+  {"type": "std", "q": "The repetition of vowel sounds in a line of poetry is:", "opts": ["Alliteration", "Assonance", "Consonance", "Onomatopoeia"], "ans": 1},
+  {"type": "std", "q": "In drama, 'comic relief' is used to:", "opts": ["Make the play longer", "Relieve tension", "Confuse the audience", "Introduce the villain"], "ans": 1},
+  {"type": "std", "q": "Who wrote *The Lion and the Jewel*?", "opts": ["Chinua Achebe", "Wole Soyinka", "J.P. Clark", "Ola Rotimi"], "ans": 1},
+  {"type": "std", "q": "In *The Lion and the Jewel*, Sidi is known as the:", "opts": ["Village Queen", "Village Belle/Jewel", "Village Witch", "Village Teacher"], "ans": 1},
+  {"type": "std", "q": "Lakunle represents:", "opts": ["Tradition", "Modernity/Western values", "Royalty", "Wisdom"], "ans": 1},
+  {"type": "std", "q": "Baroka is the:", "opts": ["School teacher", "Bale of Ilujinle", "Village drunk", "Priest"], "ans": 1},
+  {"type": "std", "q": "A speech made by a character to himself on stage is a:", "opts": ["Dialogue", "Soliloquy", "Monologue", "Aside"], "ans": 1},
+  {"type": "std", "q": "The struggle between opposing forces in a story is:", "opts": ["Climax", "Conflict", "Resolution", "Exposition"], "ans": 1},
+  {"type": "std", "q": "Who wrote *Second Class Citizen*?", "opts": ["Buchi Emecheta", "Chimamanda Adichie", "Mariama Ba", "Flora Nwapa"], "ans": 0},
+  {"type": "std", "q": "Adah in *Second Class Citizen* faces discrimination based on:", "opts": ["Age", "Gender and Race", "Religion", "Height"], "ans": 1},
+  {"type": "std", "q": "The use of words to convey the opposite of their literal meaning is:", "opts": ["Irony", "Metaphor", "Symbolism", "Hyperbole"], "ans": 0},
+  {"type": "std", "q": "A narrative poem celebrating the deeds of a hero is an:", "opts": ["Epic", "Elegy", "Ode", "Lyric"], "ans": 0},
+  {"type": "std", "q": "In *Look Back in Anger*, Jimmy Porter belongs to the:", "opts": ["Upper class", "Working class", "Royal family", "Clergy"], "ans": 1},
+  {"type": "std", "q": "The ironing board in *Look Back in Anger* symbolizes:", "opts": ["Wealth", "Domestic drudgery/Routine", "Fashion", "Violence"], "ans": 1},
+  {"type": "std", "q": "Exaggeration for emphasis is called:", "opts": ["Litotes", "Hyperbole", "Personification", "Pun"], "ans": 1},
+  {"type": "std", "q": "A statement that appears contradictory but contains truth is a:", "opts": ["Paradox", "Oxymoron", "Irony", "Sarcasm"], "ans": 0},
+  {"type": "std", "q": "Who wrote *Wuthering Heights*?", "opts": ["Jane Austen", "Emily Bronte", "Charlotte Bronte", "Charles Dickens"], "ans": 1},
+  {"type": "std", "q": "Heathcliff's love for Catherine is:", "opts": ["Peaceful", "Destructive/Obsessive", "Brief", "Platonic"], "ans": 1},
+  {"type": "std", "q": "The narrator of *Invisible Man* is:", "opts": ["Named Jack", "Named Ras", "Unnamed", "Named Tod"], "ans": 2},
+  {"type": "std", "q": "The 'Invisible Man' lives in a:", "opts": ["Penthouse", "Basement/Hole", "Mansion", "Forest"], "ans": 1},
+  {"type": "std", "q": "A stanza of two lines is a:", "opts": ["Couplet", "Triplet", "Quatrain", "Sestet"], "ans": 0},
+  {"type": "std", "q": "Unrhymed poetry is called:", "opts": ["Blank Verse", "Free Verse", "Sonnet", "Haiku"], "ans": 0},
+  {"type": "std", "q": "The sequence of events in a story is the:", "opts": ["Theme", "Plot", "Setting", "Characterization"], "ans": 1},
+  {"type": "std", "q": "A character that does not change is:", "opts": ["Dynamic", "Static/Flat", "Round", "Complex"], "ans": 1},
+  {"type": "std", "q": "The use of 'crown' to mean 'king' is:", "opts": ["Metonymy", "Synecdoche", "Simile", "Metaphor"], "ans": 0},
+  {"type": "std", "q": "Addressing an absent person or object is:", "opts": ["Apostrophe", "Personification", "Allusion", "Paradox"], "ans": 0},
+  {"type": "std", "q": "A literary work written in the form of letters is:", "opts": ["Epistolary", "Historical", "Autobiographical", "Pastoral"], "ans": 0},
+  {"type": "std", "q": "The turning point of a play is the:", "opts": ["Exposition", "Climax", "Denouement", "Conflict"], "ans": 1},
+  {"type": "std", "q": "Adah's husband in *Second Class Citizen* is:", "opts": ["Francis", "Okolo", "Pa Noble", "Mr. Cole"], "ans": 0},
+  {"type": "std", "q": "A foil character:", "opts": ["Contrasts with the protagonist", "Is the hero", "Is the villain", "Is invisible"], "ans": 0},
+  {"type": "std", "q": "The ending of a tragedy is called:", "opts": ["Resolution", "Catastrophe", "Climax", "Epilogue"], "ans": 1},
+  {"type": "std", "q": "A poem mourning a death is an:", "opts": ["Ode", "Elegy", "Sonnet", "Ballad"], "ans": 1},
+  {"type": "std", "q": "The repetition of 's' sounds in 'sweet silent thought' is:", "opts": ["Alliteration", "Assonance", "Onomatopoeia", "Rhyme"], "ans": 0},
+  {"type": "std", "q": "Sadiku in *The Lion and the Jewel* is:", "opts": ["Baroka's head wife", "Sidi's mother", "The village teacher", "A trader"], "ans": 0},
+  {"type": "std", "q": "A question asked for effect without expecting an answer is:", "opts": ["Rhetorical", "Direct", "Indirect", "Tag"], "ans": 0},
+  {"type": "std", "q": "The villain opposes the:", "opts": ["Protagonist", "Author", "Audience", "Director"], "ans": 0},
+  {"type": "std", "q": "A comparison using 'like' or 'as' is a:", "opts": ["Simile", "Metaphor", "Personification", "Pun"], "ans": 0},
+  {"type": "std", "q": "The writer's attitude towards the subject is:", "opts": ["Tone", "Mood", "Style", "Theme"], "ans": 0},
+  {"type": "std", "q": "Imagery appeals to the:", "opts": ["Intellect", "Senses", "Emotions", "Logic"], "ans": 1},
+  {"type": "std", "q": "In *Invisible Man*, the 'Battle Royal' symbolizes:", "opts": ["Black struggle for survival", "Boxing match", "Friendship", "Sports"], "ans": 0},
+  {"type": "std", "q": "An understatement is:", "opts": ["Litotes", "Hyperbole", "Irony", "Sarcasm"], "ans": 0},
+  {"type": "std", "q": "The prologue comes:", "opts": ["At the beginning", "At the end", "In the middle", "Nowhere"], "ans": 0},
+  {"type": "std", "q": "The epilogue comes:", "opts": ["At the end", "At the beginning", "In the middle", "Before the climax"], "ans": 0},
+  {"type": "std", "q": "Flashback allows the writer to:", "opts": ["Show past events", "Predict the future", "End the story", "Introduce new characters"], "ans": 0},
+  {"type": "std", "q": "Didactic literature aims to:", "opts": ["Teach a lesson", "Entertain only", "Confuse", "Scare"], "ans": 0},
+  {"type": "std", "q": "A humorous play with ridiculous situations is a:", "opts": ["Farce", "Tragedy", "History", "Opera"], "ans": 0},
+  {"type": "std", "q": "In poetry, a 'run-on line' is called:", "opts": ["Enjambment", "Caesura", "End-stop", "Stanza"], "ans": 0}
+]
