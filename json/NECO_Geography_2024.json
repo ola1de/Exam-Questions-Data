@@ -1,1 +1,451 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Which of the following planets is known as the 'Red Planet'?",
+"opts": ["Venus", "Mars", "Jupiter", "Saturn"],
+"ans": 1,
+"explanation": "Mars is often called the Red Planet because of the iron oxide (rust) on its surface, which gives it a reddish appearance."
+},
+{
+"q": "The spinning of the earth on its axis from West to East once every 24 hours is called _____.",
+"opts": ["Revolution", "Rotation", "Inclination", "Precision"],
+"ans": 1,
+"explanation": "Rotation is the Earth's movement around its axis, which causes day and night. Revolution is the movement around the sun."
+},
+{
+"q": "Calculate the time at Longitude 45°W when the time at the Greenwich Meridian is 12:00 noon.",
+"opts": ["9:00 am", "3:00 pm", "9:00 pm", "3:00 am"],
+"ans": 0,
+"explanation": "The earth rotates 15° per hour. 45°/15° = 3 hours. Since the location is West of Greenwich, we subtract: 12 noon - 3 hours = 9:00 am."
+},
+{
+"q": "The layer of the earth's atmosphere where weather phenomena occur is the _____.",
+"opts": ["Stratosphere", "Mesosphere", "Troposphere", "Thermosphere"],
+"ans": 2,
+"explanation": "The troposphere is the lowest layer of the atmosphere and contains most of the water vapor and dust, making it the primary site for weather activity."
+},
+{
+"q": "Which of the following is a sedimentary rock formed by chemical processes?",
+"opts": ["Coal", "Sandstone", "Limestone", "Granite"],
+"ans": 2,
+"explanation": "Limestone can be formed chemically through the precipitation of calcium carbonate from water, making it a chemically formed sedimentary rock."
+},
+{
+"q": "The point on the Earth's surface directly above the origin of an earthquake is the _____.",
+"opts": ["Focus", "Hypocenter", "Epicenter", "Crater"],
+"ans": 2,
+"explanation": "The epicenter is the point on the surface directly above the focus (or hypocenter) where the seismic waves originate inside the earth."
+},
+{
+"q": "A plateau surrounded by mountains is known as a/an _____ plateau.",
+"opts": ["Piedmont", "Continental", "Intermontane", "Volcanic"],
+"ans": 2,
+"explanation": "Intermontane plateaus are the highest and most extensive plateaus in the world, completely enclosed by mountain ranges (e.g., the Tibetan Plateau)."
+},
+{
+"q": "The process by which rocks are broken down by the action of plants and animals is _____ weathering.",
+"opts": ["Physical", "Chemical", "Biological", "Exfoliation"],
+"ans": 2,
+"explanation": "Biological weathering involves the disintegration of rocks caused by living organisms, such as tree roots growing into cracks."
+},
+{
+"q": "Which of the following landforms is associated with the middle course of a river?",
+"opts": ["V-shaped valley", "Meander", "Delta", "Gorge"],
+"ans": 1,
+"explanation": "Meanders are loop-like bends in a river that develop as it enters its middle course and starts eroding laterally."
+},
+{
+"q": "The type of rainfall associated with the meeting of warm and cold air masses is _____.",
+"opts": ["Convectional", "Orographic", "Cyclonic", "Relief"],
+"ans": 2,
+"explanation": "Cyclonic (or Frontal) rainfall occurs when a warm, moist air mass meets a cold, dry air mass; the warm air is forced upward, leading to condensation."
+},
+{
+"q": "The instrument used to measure the intensity of solar radiation is the _____.",
+"opts": ["Thermometer", "Barometer", "Pyranometer", "Anemometer"],
+"ans": 2,
+"explanation": "A pyranometer is a sensor designed to measure solar irradiance on a planar surface."
+},
+{
+"q": "The transfer of heat through the movement of a fluid (liquid or gas) is _____.",
+"opts": ["Conduction", "Convection", "Radiation", "Insulation"],
+"ans": 1,
+"explanation": "Convection is the transfer of heat by the actual movement of the heated parts of a liquid or gas."
+},
+{
+"q": "Which of the following is a characteristic of Mediterranean vegetation?",
+"opts": ["Buttress roots", "Conical shapes", "Thick waxy leaves", "Tall grass"],
+"ans": 2,
+"explanation": "Mediterranean plants have thick, waxy, or leathery leaves (sclerophyllous) to reduce transpiration during the hot, dry summers."
+},
+{
+"q": "The ratio of the map distance to the actual ground distance is called the _____.",
+"opts": ["Legend", "Scale", "Grid", "Projection"],
+"ans": 1,
+"explanation": "The scale of a map tells us the relationship between distance on the map and the corresponding distance on the ground."
+},
+{
+"q": "Which of the following is a primary economic activity?",
+"opts": ["Banking", "Manufacturing", "Mining", "Teaching"],
+"ans": 2,
+"explanation": "Primary activities involve the extraction of natural resources directly from the earth (e.g., farming, mining, fishing)."
+},
+{
+"q": "The leading producer of cocoa in West Africa is _____.",
+"opts": ["Nigeria", "Ghana", "Ivory Coast", "Sierra Leone"],
+"ans": 2,
+"explanation": "Ivory Coast (Côte d'Ivoire) is the world's largest producer and exporter of cocoa beans."
+},
+{
+"q": "Environmental pollution caused by the release of toxic substances into water bodies is _____.",
+"opts": ["Air pollution", "Water pollution", "Noise pollution", "Land pollution"],
+"ans": 1,
+"explanation": "Water pollution occurs when harmful substances like chemicals or microorganisms contaminate a stream, river, or lake."
+},
+{
+"q": "The highest mountain peak in Nigeria is _____.",
+"opts": ["Zuma Rock", "Chappal Waddi", "Olumo Rock", "Idanre Hill"],
+"ans": 1,
+"explanation": "Chappal Waddi, located in the Mambilla Plateau, is the highest point in Nigeria at approximately 2,419 meters."
+},
+{
+"q": "Which of the following states in Nigeria is known for the commercial production of Tin and Columbite?",
+"opts": ["Kano", "Plateau", "Enugu", "Oyo"],
+"ans": 1,
+"explanation": "The Jos Plateau in Plateau State is the primary region for tin and columbite mining in Nigeria."
+},
+{
+"q": "The confluence of the River Niger and River Benue is located at _____.",
+"opts": ["Lagos", "Kano", "Lokoja", "Onitsha"],
+"ans": 2,
+"explanation": "Lokoja, the capital of Kogi State, is situated at the meeting point of Africa's two great rivers, the Niger and the Benue."
+},
+{
+"q": "In a GIS, 'Attribute Data' refers to _____.",
+"opts": ["Coordinates", "Descriptive information", "Pixel values", "Shapefiles"],
+"ans": 1,
+"explanation": "Attribute data in Geographic Information Systems provides non-spatial descriptive information about geographic features (e.g., the name of a city)."
+},
+{
+"q": "The movement of people from rural areas to urban centers is called _____.",
+"opts": ["Emigration", "Immigration", "Urbanization", "Rural-urban migration"],
+"ans": 3,
+"explanation": "Rural-urban migration specifically describes the internal movement of people from the countryside to the cities."
+},
+{
+"q": "Which of the following is a non-renewable resource?",
+"opts": ["Solar energy", "Natural gas", "Wind energy", "Water"],
+"ans": 1,
+"explanation": "Natural gas is a fossil fuel that takes millions of years to form; once it is used up, it cannot be replaced in a human timeframe."
+},
+{
+"q": "The line on a map joining places of equal rainfall is an _____.",
+"opts": ["Isotherm", "Isobar", "Isohyet", "Isohel"],
+"ans": 2,
+"explanation": "Isohyets are lines on a map connecting points that receive the same amount of rainfall."
+},
+{
+"q": "The 'Ring of Fire' is a region of high volcanic and seismic activity located around the _____.",
+"opts": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+"ans": 2,
+"explanation": "The Pacific Ring of Fire is a major area in the basin of the Pacific Ocean where many earthquakes and volcanic eruptions occur."
+},
+{
+"q": "A map with a scale of 1:250,000 is a _____ scale map compared to 1:50,000.",
+"opts": ["Small", "Large", "Medium", "Topographical"],
+"ans": 0,
+"explanation": "A smaller scale map covers a larger area with less detail. 1:250,000 is smaller than 1:50,000 because the denominator is larger."
+},
+{
+"q": "Which of the following factors most influences the climate of West Africa?",
+"opts": ["Altitude", "Latitude", "The Inter-Tropical Convergence Zone (ITCZ)", "Ocean currents"],
+"ans": 2,
+"explanation": "The movement of the ITCZ determines the seasonal patterns of rainfall and the dry Harmattan winds in West Africa."
+},
+{
+"q": "The study of human population statistics is known as _____.",
+"opts": ["Demography", "Cartography", "Geology", "Anthropology"],
+"ans": 0,
+"explanation": "Demography is the statistical study of human populations, including their size, structure, and distribution."
+},
+{
+"q": "An example of a block mountain in Africa is the _____.",
+"opts": ["Atlas Mountains", "Drakensberg Mountains", "Ruwenzoiri Mountains", "Mount Kilimanjaro"],
+"ans": 2,
+"explanation": "The Ruwenzori Mountains (Mountains of the Moon) are an example of a block mountain (horst) formed by tectonic uplifting."
+},
+{
+"q": "Which of the following is a major challenge for the ECOWAS region?",
+"opts": ["Too much rainfall", "Political instability", "Lack of labor", "Excessive gold"],
+"ans": 1,
+"explanation": "Political instability, including coups and civil unrest, has historically hindered economic integration in the West African sub-region."
+},
+{
+"q": "The boundary between the Earth's crust and the mantle is the _____.",
+"opts": ["Gutenberg Discontinuity", "Mohorovicic Discontinuity", "Asthenosphere", "Lithosphere"],
+"ans": 1,
+"explanation": "The Mohorovicic Discontinuity (Moho) is the boundary separating the crust from the underlying mantle."
+},
+{
+"q": "Steep-sided, U-shaped valleys are formed by _____.",
+"opts": ["Wind erosion", "Glacial erosion", "River erosion", "Marine erosion"],
+"ans": 1,
+"explanation": "Glaciers carve out deep, steep-sided U-shaped valleys, whereas rivers typically create V-shaped valleys."
+},
+{
+"q": "The world's largest hot desert is the _____.",
+"opts": ["Kalahari", "Gobi", "Sahara", "Atacama"],
+"ans": 2,
+"explanation": "The Sahara in North Africa is the largest hot desert in the world, covering over 9 million square kilometers."
+},
+{
+"q": "Which ocean current is a warm current?",
+"opts": ["Benguela Current", "Canaries Current", "Gulf Stream", "California Current"],
+"ans": 2,
+"explanation": "The Gulf Stream is a powerful, warm Atlantic ocean current that originates in the Gulf of Mexico."
+},
+{
+"q": "The 'Greenhouse Effect' is primarily caused by an increase in _____.",
+"opts": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+"ans": 2,
+"explanation": "Carbon dioxide (
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+) traps heat in the atmosphere, leading to the warming of the Earth's surface."
+},
+{
+"q": "In which stage of a river do ox-bow lakes typically form?",
+"opts": ["Youthful stage", "Middle stage", "Old stage", "Torrential stage"],
+"ans": 2,
+"explanation": "Ox-bow lakes form in the old (lower) stage of a river when a meander is cut off through deposition."
+},
+{
+"q": "The primary source of energy for the Earth is the _____.",
+"opts": ["Moon", "Sun", "Stars", "Core"],
+"ans": 1,
+"explanation": "The Sun provides solar radiation, which is the fundamental source of energy for the Earth's climate and life."
+},
+{
+"q": "The leading producer of Petroleum in Africa is _____.",
+"opts": ["Egypt", "Nigeria", "South Africa", "Kenya"],
+"ans": 1,
+"explanation": "Nigeria is historically the largest producer of petroleum in Africa, although output fluctuates."
+},
+{
+"q": "A linear settlement pattern is most likely to develop along a _____.",
+"opts": ["Lake", "Road", "Market", "Hilltop"],
+"ans": 1,
+"explanation": "Linear settlements form in a line, often following a transport route such as a road, railway, or river."
+},
+{
+"q": "The term 'Albedo' refers to the _____.",
+"opts": ["Heat absorbed by the earth", "Reflectivity of a surface", "Total solar output", "Thickness of the ozone"],
+"ans": 1,
+"explanation": "Albedo is the fraction of solar energy reflected from the Earth back into space."
+},
+{
+"q": "Which of the following is a landlocked country in West Africa?",
+"opts": ["Senegal", "Liberia", "Mali", "Ghana"],
+"ans": 2,
+"explanation": "Mali is entirely surrounded by land and has no direct access to the sea."
+},
+{
+"q": "The transition zone between the Sahara desert and the Savannah is the _____.",
+"opts": ["Veld", "Sahel", "Prairies", "Steppe"],
+"ans": 1,
+"explanation": "The Sahel is the semiarid region of Western and North-Central Africa forming a transition between the Sahara to the north and the Sudanian Savanna to the south."
+},
+{
+"q": "Which type of rock is formed from pre-existing rocks under great heat and pressure?",
+"opts": ["Igneous", "Sedimentary", "Metamorphic", "Basalt"],
+"ans": 2,
+"explanation": "Metamorphic rocks are formed when igneous or sedimentary rocks are subjected to high heat and pressure without melting."
+},
+{
+"q": "The instrument used to measure wind direction is the _____.",
+"opts": ["Anemometer", "Wind Vane", "Hygrometer", "Barometer"],
+"ans": 1,
+"explanation": "A wind vane (or weather cock) points in the direction from which the wind is blowing."
+},
+{
+"q": "A rejuvenated river is one that has _____.",
+"opts": ["Dried up", "Reached the sea", "Gained new erosive power", "Stopped flowing"],
+"ans": 2,
+"explanation": "River rejuvenation occurs when a river's vertical erosive power is increased, usually due to a fall in sea level or rise in land."
+},
+{
+"q": "Which of the following is an example of an intrusive igneous rock?",
+"opts": ["Basalt", "Obsidian", "Granite", "Pumice"],
+"ans": 2,
+"explanation": "Granite forms from magma that cools slowly deep underground, making it an intrusive (plutonic) igneous rock."
+},
+{
+"q": "The 'Great Rift Valley' is a major feature of _____.",
+"opts": ["West Africa", "East Africa", "North Africa", "Southern Africa"],
+"ans": 1,
+"explanation": "The Great Rift Valley is a continuous geographic trench running through Ethiopia, Kenya, and Tanzania."
+},
+{
+"q": "The process by which plants release water vapor through their leaves is _____.",
+"opts": ["Evaporation", "Condensation", "Transpiration", "Precipitation"],
+"ans": 2,
+"explanation": "Transpiration is the biological process where water is taken up by roots and released into the atmosphere as vapor through leaf stomata."
+},
+{
+"q": "A plateau that drops steeply to the surrounding lowlands is a/an _____.",
+"opts": ["Escarpment", "Cuesta", "Inselberg", "Ridge"],
+"ans": 0,
+"explanation": "An escarpment is a steep slope or long cliff that forms as a result of erosion or faulting and separates two relatively level areas."
+},
+{
+"q": "Which of the following is a major export crop for Nigeria?",
+"opts": ["Wheat", "Cocoa", "Rice", "Maize"],
+"ans": 1,
+"explanation": "Cocoa is one of Nigeria's most important non-oil exports and agricultural commodities."
+},
+{
+"q": "The time difference between two places is 4 hours. Calculate the longitudinal difference.",
+"opts": ["15°", "30°", "60°", "120°"],
+"ans": 2,
+"explanation": "Since 1 hour equals 15° of longitude, 4 hours equals 
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+15
+=
+60
+°
+4
+times15=60°
+."
+},
+{
+"q": "The state in Nigeria with the smallest land area is _____.",
+"opts": ["Lagos", "Kano", "Rivers", "Anambra"],
+"ans": 0,
+"explanation": "Lagos State is the smallest state in Nigeria by landmass, despite having one of the highest populations."
+},
+{
+"q": "An example of a fold mountain in the world is the _____.",
+"opts": ["Himalayas", "Vosges", "Black Forest", "Jos Plateau"],
+"ans": 0,
+"explanation": "The Himalayas were formed by the collision of tectonic plates, which folded the earth's crust."
+},
+{
+"q": "The most common gas in the Earth's atmosphere is _____.",
+"opts": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+"ans": 2,
+"explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere."
+},
+{
+"q": "Which of the following is an environmental consequence of deforestation?",
+"opts": ["Reduced soil erosion", "Increase in biodiversity", "Global warming", "Decrease in carbon dioxide"],
+"ans": 2,
+"explanation": "Deforestation removes trees that absorb 
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+, contributing to the greenhouse effect and global warming."
+},
+{
+"q": "The mapping of the ocean floor is called _____.",
+"opts": ["Topography", "Bathymetry", "Cartography", "Demography"],
+"ans": 1,
+"explanation": "Bathymetry is the study of the 'beds' or 'floors' of water bodies, including the ocean."
+},
+{
+"q": "Which of the following is a push factor in migration?",
+"opts": ["Better jobs", "Quality education", "Drought and famine", "Safety"],
+"ans": 2,
+"explanation": "Push factors are negative conditions that force people to leave their current location, such as drought."
+},
+{
+"q": "The deepest lake in the world is Lake _____.",
+"opts": ["Victoria", "Superior", "Baikal", "Chad"],
+"ans": 2,
+"explanation": "Lake Baikal in Russia is the world's deepest and oldest freshwater lake."
+},
+{
+"q": "The leading producer of coal in Nigeria is _____.",
+"opts": ["Enugu", "Kogi", "Delta", "Akwa Ibom"],
+"ans": 0,
+"explanation": "Enugu is famously known as the 'Coal City' due to its history of coal mining."
+},
+{
+"q": "A compass direction of 225° represents _____.",
+"opts": ["North-East", "South-East", "South-West", "North-West"],
+"ans": 2,
+"explanation": "On a 360° compass, 0/360 is North, 90 is East, 180 is South, and 270 is West. 225 is midway between South (180) and West (270)."
+},
+{
+"q": "Which of the following is a renewable energy source?",
+"opts": ["Coal", "Petroleum", "Solar", "Nuclear"],
+"ans": 2,
+"explanation": "Solar energy is derived from the sun and is naturally replenished, unlike fossil fuels."
+},
+{
+"q": "The imaginary line that divides the Earth into the Northern and Southern Hemispheres is the _____.",
+"opts": ["Prime Meridian", "Equator", "Tropic of Cancer", "International Date Line"],
+"ans": 1,
+"explanation": "The Equator is the 0° latitude line that bisects the Earth into North and South."
+},
+{
+"q": "Which of the following is a secondary economic activity?",
+"opts": ["Farming", "Mining", "Textile production", "Banking"],
+"ans": 2,
+"explanation": "Secondary activities involve the processing of raw materials into finished goods (manufacturing)."
+},
+{
+"q": "The scale of a map expressed as 1cm to 2km is a _____ scale.",
+"opts": ["Statement", "Linear", "Representative Fraction", "Diagonal"],
+"ans": 0,
+"explanation": "A statement scale expresses the scale in words, such as '1 centimeter represents 2 kilometers'."
+},
+{
+"q": "The delta of the River Niger is an example of an _____ delta.",
+"opts": ["Arcuate", "Bird's foot", "Cuspate", "Estuarine"],
+"ans": 0,
+"explanation": "The Niger Delta has a fan-like shape, which is characteristic of an arcuate delta."
+},
+{
+"q": "The process by which water changes from a liquid to a gas is _____.",
+"opts": ["Condensation", "Evaporation", "Sublimation", "Freezing"],
+"ans": 1,
+"explanation": "Evaporation occurs when liquid water is heated and turns into water vapor."
+},
+{
+"q": "Which of the following is a biotic component of an ecosystem?",
+"opts": ["Soil", "Water", "Bacteria", "Sunlight"],
+"ans": 2,
+"explanation": "Biotic components are the living parts of an ecosystem, such as plants, animals, and bacteria."
+},
+{
+"q": "The angular distance of a place East or West of the Prime Meridian is its _____.",
+"opts": ["Latitude", "Longitude", "Altitude", "Bearing"],
+"ans": 1,
+"explanation": "Longitudes are imaginary lines that run from pole to pole and measure distance in degrees East or West of the Greenwich Meridian."
+},
+{
+"q": "Which of the following is a major cause of desertification?",
+"opts": ["Afforestation", "Overgrazing", "Irrigation", "Crop rotation"],
+"ans": 1,
+"explanation": "Overgrazing by livestock removes vegetation cover, making the soil vulnerable to erosion and turning fertile land into desert."
+},
+{
+"q": "A person who draws maps is called a _____.",
+"opts": ["Geographer", "Cartographer", "Geologist", "Demographer"],
+"ans": 1,
+"explanation": "Cartography is the science and art of map-making, and a practitioner is a cartographer."
+}
+]
