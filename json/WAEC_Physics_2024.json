@@ -1,1 +1,1878 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Which of the following is a fundamental unit?",
+"opts": ["Newton", "Watt", "Joule", "Ampere"],
+"ans": 3,
+"explanation": "In the S.I. system, the Ampere is one of the seven fundamental units. Newton, Watt, and Joule are derived units."
+},
+{
+"q": "The dimension of power is written as _____.",
+"opts": ["
+𝑀
+𝐿
+2
+𝑇
+−
+3
+ML
+2
+T
+−3
+", "
+𝑀
+𝐿
+2
+𝑇
+−
+2
+ML
+2
+T
+−2
+", "
+𝑀
+𝐿
+𝑇
+−
+2
+MLT
+−2
+", "
+𝑀
+𝐿
+2
+𝑇
+−
+1
+ML
+2
+T
+−1
+"],
+"ans": 0,
+"explanation": "Power = Work/Time. Work = Force x Distance = 
+𝑀
+𝐿
+𝑇
+−
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝐿
+=
+𝑀
+𝐿
+2
+𝑇
+−
+2
+MLT
+−2
+timesL=ML
+2
+T
+−2
+. Power = 
+𝑀
+𝐿
+2
+𝑇
+−
+2
+/
+𝑇
+=
+𝑀
+𝐿
+2
+𝑇
+−
+3
+ML
+2
+T
+−2
+/T=ML
+2
+T
+−3
+."
+},
+{
+"q": "A car moves with a constant speed of 20 m/s in a circle of radius 50 m. Calculate its centripetal acceleration.",
+"opts": ["0.4 m/s²", "4.0 m/s²", "8.0 m/s²", "10.0 m/s²"],
+"ans": 2,
+"explanation": "Centripetal acceleration 
+𝑎
+=
+𝑣
+2
+/
+𝑟
+=
+20
+2
+/
+50
+=
+400
+/
+50
+=
+8
+a=v
+2
+/r=20
+2
+/50=400/50=8
+ m/s²."
+},
+{
+"q": "The area under a velocity-time graph represents _____.",
+"opts": ["Acceleration", "Momentum", "Distance covered", "Force"],
+"ans": 2,
+"explanation": "The integral of velocity with respect to time gives the displacement or distance covered by the object."
+},
+{
+"q": "A resultant force of 15 N acts on a body of mass 3 kg. Calculate the acceleration produced.",
+"opts": ["45 m/s²", "5 m/s²", "18 m/s²", "0.2 m/s²"],
+"ans": 1,
+"explanation": "Using Newton's Second Law, 
+𝐹
+=
+𝑚
+𝑎
+F=ma
+. Therefore, 
+𝑎
+=
+𝐹
+/
+𝑚
+=
+15
+/
+3
+=
+5
+a=F/m=15/3=5
+ m/s²."
+},
+{
+"q": "A ball is thrown horizontally from the top of a building 45 m high with a velocity of 10 m/s. How long does it take to reach the ground? (g = 10 m/s²)",
+"opts": ["3.0 s", "4.5 s", "9.0 s", "2.0 s"],
+"ans": 0,
+"explanation": "Using 
+ℎ
+=
+0.5
+𝑔
+𝑡
+2
+h=0.5gt
+2
+, 
+45
+=
+0.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑡
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+45
+=
+5
+𝑡
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑡
+2
+=
+9
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑡
+=
+3
+45=0.5
+times10
+timest
+2
+Rightarrow45=5t
+2
+Rightarrowt
+2
+=9
+Rightarrowt=3
+ s."
+},
+{
+"q": "Which of the following is a vector quantity?",
+"opts": ["Electric potential", "Magnetic flux density", "Work", "Distance"],
+"ans": 1,
+"explanation": "Magnetic flux density has both magnitude and direction. Potential, work, and distance are scalar quantities."
+},
+{
+"q": "A block of wood of mass 5 kg is pulled on a horizontal floor by a force of 20 N. If the coefficient of friction is 0.2, calculate the frictional force.",
+"opts": ["1 N", "4 N", "10 N", "40 N"],
+"ans": 2,
+"explanation": "Frictional force 
+𝑓
+=
+𝑚
+𝑢
+𝑅
+f=
+muR
+. For a horizontal surface, 
+𝑅
+=
+𝑚
+𝑔
+R=mg
+. 
+𝑓
+=
+0.2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+=
+10
+f=0.2
+times5
+times10=10
+ N."
+},
+{
+"q": "The principle of moments states that for a body in equilibrium, the sum of clockwise moments about a point is _____.",
+"opts": ["Greater than the anticlockwise moments", "Less than the anticlockwise moments", "Equal to the anticlockwise moments", "Zero"],
+"ans": 2,
+"explanation": "The second condition for equilibrium requires the sum of clockwise moments to equal the sum of anticlockwise moments about any pivot."
+},
+{
+"q": "Calculate the work done in lifting a 50 kg bag of cement through a vertical height of 10 m. (g = 10 m/s²)",
+"opts": ["50 J", "500 J", "5000 J", "50000 J"],
+"ans": 2,
+"explanation": "Work = 
+𝑚
+𝑔
+ℎ
+=
+50
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+=
+5000
+mgh=50
+times10
+times10=5000
+ J."
+},
+{
+"q": "The efficiency of a machine is always less than 100% because of _____.",
+"opts": ["Velocity ratio", "Mechanical advantage", "Friction", "Load"],
+"ans": 2,
+"explanation": "In real machines, some energy is always lost as heat due to friction between moving parts, making efficiency less than 100%."
+},
+{
+"q": "An object of mass 0.5 kg is attached to a spring and vibrates with a frequency of 10 Hz. Calculate the angular velocity.",
+"opts": ["
+20
+𝑝
+𝑖
+20
+pi
+ rad/s", "
+10
+𝑝
+𝑖
+10
+pi
+ rad/s", "5 rad/s", "20 rad/s"],
+"ans": 0,
+"explanation": "Angular velocity 
+𝑜
+𝑚
+𝑒
+𝑔
+𝑎
+=
+2
+𝑝
+𝑖
+𝑓
+=
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑝
+𝑖
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+=
+20
+𝑝
+𝑖
+omega=2
+pif=2
+times
+pi
+times10=20
+pi
+ rad/s."
+},
+{
+"q": "A simple pendulum has a period of 2.0 s. What is the frequency of oscillation?",
+"opts": ["4.0 Hz", "0.5 Hz", "1.0 Hz", "2.0 Hz"],
+"ans": 1,
+"explanation": "
+𝑓
+=
+1
+/
+𝑇
+=
+1
+/
+2.0
+=
+0.5
+f=1/T=1/2.0=0.5
+ Hz."
+},
+{
+"q": "The pressure at a point in a liquid depends on the following EXCEPT _____.",
+"opts": ["Density of liquid", "Depth", "Acceleration due to gravity", "Area of the surface"],
+"ans": 3,
+"explanation": "Pressure in a fluid is given by 
+𝑃
+=
+ℎ
+𝑟
+ℎ
+𝑜
+𝑔
+P=h
+rhog
+. It depends on depth (h), density (
+𝑟
+ℎ
+𝑜
+rho
+), and gravity (g), but not on the area."
+},
+{
+"q": "Which of the following is the unit of Young's Modulus?",
+"opts": ["
+𝑁
+𝑚
+−
+1
+Nm
+−1
+", "
+𝑁
+𝑚
+−
+2
+Nm
+−2
+", "
+𝑁
+𝑚
+Nm
+", "Dimensionless"],
+"ans": 1,
+"explanation": "Young's Modulus = Stress / Strain. Stress is 
+𝑁
+/
+𝑚
+2
+N/m
+2
+ and strain is dimensionless, so the unit is 
+𝑁
+/
+𝑚
+2
+N/m
+2
+ (Pascal)."
+},
+{
+"q": "The temperature at which the volume of a gas becomes theoretically zero is _____.",
+"opts": ["0°C", "273 K", "0 K", "-273°F"],
+"ans": 2,
+"explanation": "According to Charles's Law, volume is proportional to absolute temperature. At 0 K (absolute zero), volume is theoretically zero."
+},
+{
+"q": "A mass of gas occupies 20 
+𝑐
+𝑚
+3
+cm
+3
+ at a pressure of 760 mmHg. What is its volume at 380 mmHg if temperature remains constant?",
+"opts": ["10 
+𝑐
+𝑚
+3
+cm
+3
+", "20 
+𝑐
+𝑚
+3
+cm
+3
+", "40 
+𝑐
+𝑚
+3
+cm
+3
+", "80 
+𝑐
+𝑚
+3
+cm
+3
+"],
+"ans": 2,
+"explanation": "Using Boyle's Law: 
+𝑃
+1
+𝑉
+1
+=
+𝑃
+2
+𝑉
+2
+P
+1
+	​
+
+V
+1
+	​
+
+=P
+2
+	​
+
+V
+2
+	​
+
+. 
+760
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+20
+=
+380
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑉
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑉
+2
+=
+40
+760
+times20=380
+timesV
+2
+	​
+
+RightarrowV
+2
+	​
+
+=40
+ 
+𝑐
+𝑚
+3
+cm
+3
+."
+},
+{
+"q": "The quantity of heat required to raise the temperature of a unit mass of a substance by 1 K is called _____.",
+"opts": ["Heat capacity", "Specific heat capacity", "Latent heat", "Specific latent heat"],
+"ans": 1,
+"explanation": "This is the definition of specific heat capacity (c). Heat capacity refers to the entire mass of the object."
+},
+{
+"q": "A brass rod of length 2.0 m is heated from 30°C to 80°C. If the linear expansivity is 
+1.9
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+5
+𝐾
+−
+1
+1.9
+times10
+−5
+K
+−1
+, calculate the increase in length.",
+"opts": ["0.0019 m", "0.0038 m", "0.0190 m", "0.1900 m"],
+"ans": 0,
+"explanation": "
+𝐷
+𝑒
+𝑙
+𝑡
+𝑎
+𝐿
+=
+𝐿
+0
+𝑎
+𝑙
+𝑝
+ℎ
+𝑎
+𝐷
+𝑒
+𝑙
+𝑡
+𝑎
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+2.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+1.9
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+(
+80
+−
+30
+)
+=
+2.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+1.9
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+50
+=
+0.0019
+DeltaL=L
+0
+	​
+
+alpha
+Delta
+theta=2.0
+times1.9
+times10
+−5
+times(80−30)=2.0
+times1.9
+times10
+−5
+times50=0.0019
+ m."
+},
+{
+"q": "Which of the following describes the change from solid to gas without passing through the liquid phase?",
+"opts": ["Evaporation", "Melting", "Sublimation", "Condensation"],
+"ans": 2,
+"explanation": "Sublimation is the direct transition of a substance from solid to gas."
+},
+{
+"q": "The clinical thermometer has a constriction to _____.",
+"opts": ["Make it more sensitive", "Prevent mercury from flowing back into the bulb quickly", "Protect the bulb", "Increase the range of temperature"],
+"ans": 1,
+"explanation": "The constriction allows the mercury level to stay at the maximum temperature reached until it is shaken down, allowing for a proper reading."
+},
+{
+"q": "Which mode of heat transfer does not require a material medium?",
+"opts": ["Conduction", "Convection", "Radiation", "Evaporation"],
+"ans": 2,
+"explanation": "Radiation transfers energy through electromagnetic waves, which can travel through a vacuum."
+},
+{
+"q": "The scent of a perfume spreads through a room mainly by the process of _____.",
+"opts": ["Osmosis", "Convection", "Diffusion", "Capillarity"],
+"ans": 2,
+"explanation": "Diffusion is the movement of particles from a region of higher concentration to lower concentration."
+},
+{
+"q": "Water is used as a coolant in car radiators because _____.",
+"opts": ["It is cheap", "It has a high specific heat capacity", "It is easily available", "It is a liquid"],
+"ans": 1,
+"explanation": "Water's high specific heat capacity allows it to absorb a large amount of heat with a small rise in its own temperature."
+},
+{
+"q": "Calculate the heat required to melt 2 kg of ice at 0°C. (Specific latent heat of fusion of ice = 
+3.36
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+5
+𝐽
+/
+𝑘
+𝑔
+3.36
+times10
+5
+J/kg
+)",
+"opts": ["
+1.68
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+5
+1.68
+times10
+5
+ J", "
+6.72
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+5
+6.72
+times10
+5
+ J", "
+3.36
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+5
+3.36
+times10
+5
+ J", "
+6.72
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+4
+6.72
+times10
+4
+ J"],
+"ans": 1,
+"explanation": "
+𝑄
+=
+𝑚
+𝐿
+=
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3.36
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+5
+=
+6.72
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+5
+Q=mL=2
+times3.36
+times10
+5
+=6.72
+times10
+5
+ J."
+},
+{
+"q": "Transverse waves differ from longitudinal waves because transverse waves can be _____.",
+"opts": ["Reflected", "Refracted", "Polarized", "Diffracted"],
+"ans": 2,
+"explanation": "Polarization is a property unique to transverse waves; longitudinal waves (like sound) cannot be polarized."
+},
+{
+"q": "The speed of sound in air is 340 m/s. Calculate the wavelength of a note with a frequency of 680 Hz.",
+"opts": ["0.5 m", "2.0 m", "231,200 m", "1.5 m"],
+"ans": 0,
+"explanation": "
+𝑣
+=
+𝑓
+𝑙
+𝑎
+𝑚
+𝑏
+𝑑
+𝑎
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑙
+𝑎
+𝑚
+𝑏
+𝑑
+𝑎
+=
+𝑣
+/
+𝑓
+=
+340
+/
+680
+=
+0.5
+v=f
+lambda
+Rightarrow
+lambda=v/f=340/680=0.5
+ m."
+},
+{
+"q": "An object is placed 15 cm in front of a concave mirror of focal length 10 cm. The image distance is _____.",
+"opts": ["6 cm", "15 cm", "30 cm", "60 cm"],
+"ans": 2,
+"explanation": "
+1
+/
+𝑓
+=
+1
+/
+𝑢
++
+1
+/
+𝑣
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+1
+/
+10
+=
+1
+/
+15
++
+1
+/
+𝑣
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+1
+/
+𝑣
+=
+1
+/
+10
+−
+1
+/
+15
+=
+(
+3
+−
+2
+)
+/
+30
+=
+1
+/
+30
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑣
+=
+30
+1/f=1/u+1/v
+Rightarrow1/10=1/15+1/v
+Rightarrow1/v=1/10−1/15=(3−2)/30=1/30
+Rightarrowv=30
+ cm."
+},
+{
+"q": "The phenomenon of light bending as it passes from one medium to another is called _____.",
+"opts": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+"ans": 1,
+"explanation": "Refraction is caused by the change in speed of light when it enters a medium with a different optical density."
+},
+{
+"q": "The critical angle for a glass-air interface is 42°. Calculate the refractive index of the glass.",
+"opts": ["0.67", "1.49", "1.52", "2.42"],
+"ans": 1,
+"explanation": "
+."
+},
+{
+"q": "Which of the following colors of light has the shortest wavelength?",
+"opts": ["Red", "Green", "Blue", "Violet"],
+"ans": 3,
+"explanation": "In the visible spectrum, Violet has the shortest wavelength (highest frequency) and Red has the longest wavelength."
+},
+{
+"q": "The formation of a rainbow is due to _____.",
+"opts": ["Reflection and Diffraction", "Refraction and Dispersion", "Polarization", "Interference"],
+"ans": 1,
+"explanation": "A rainbow is formed by the refraction and internal reflection of sunlight in water droplets, leading to the dispersion of light into its component colors."
+},
+{
+"q": "A magnifying glass is a _____.",
+"opts": ["Concave lens", "Convex lens", "Concave mirror", "Convex mirror"],
+"ans": 1,
+"explanation": "A convex (converging) lens forms a magnified, virtual, and erect image when the object is placed within the focal point."
+},
+{
+"q": "The persistence of sound after the source has stopped is known as _____.",
+"opts": ["Echo", "Reverberation", "Resonance", "Pitch"],
+"ans": 1,
+"explanation": "Reverberation is the collection of reflected sounds from the surfaces in an enclosure."
+},
+{
+"q": "Two sound waves of slightly different frequencies produce _____.",
+"opts": ["Echoes", "Beats", "Harmonics", "Overtones"],
+"ans": 1,
+"explanation": "Beats are produced by the interference of two sound waves of slightly different frequencies, resulting in periodic variations in intensity."
+},
+{
+"q": "The unit of luminous intensity is the _____.",
+"opts": ["Lumen", "Lux", "Candela", "Watt"],
+"ans": 2,
+"explanation": "The Candela (cd) is the S.I. unit for luminous intensity."
+},
+{
+"q": "A lens of power +2.0 D has a focal length of _____.",
+"opts": ["2.0 m", "0.5 m", "50 cm", "20 cm"],
+"ans": 2,
+"explanation": "
+𝑃
+=
+1
+/
+𝑓
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑓
+=
+1
+/
+2.0
+=
+0.5
+P=1/f
+Rightarrowf=1/2.0=0.5
+ m = 50 cm."
+},
+{
+"q": "Which of the following instruments is used to view objects above the level of the observer?",
+"opts": ["Telescope", "Microscope", "Periscope", "Spectroscope"],
+"ans": 2,
+"explanation": "A periscope uses mirrors or prisms to allow an observer to see over, around, or through an object or obstacle."
+},
+{
+"q": "Total internal reflection occurs when light travels from _____.",
+"opts": ["Air to water", "Glass to water", "Water to glass", "Vacuum to air"],
+"ans": 1,
+"explanation": "Total internal reflection only occurs when light travels from a denser medium to a less dense medium at an angle greater than the critical angle."
+},
+{
+"q": "The pitch of a musical note depends on its _____.",
+"opts": ["Amplitude", "Frequency", "Wavelength", "Velocity"],
+"ans": 1,
+"explanation": "Pitch is the brain's perception of frequency. High frequency corresponds to high pitch."
+},
+{
+"q": "The S.I. unit of electric charge is _____.",
+"opts": ["Ampere", "Volt", "Coulomb", "Ohm"],
+"ans": 2,
+"explanation": "The Coulomb (C) is the unit of charge, defined as the charge transported by a constant current of one ampere in one second."
+},
+{
+"q": "Which of the following materials is a good conductor?",
+"opts": ["Glass", "Copper", "Plastic", "Wood"],
+"ans": 1,
+"explanation": "Metals like copper have free electrons that allow electric current to flow easily."
+},
+{
+"q": "Three resistors of 2 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+, 3 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+, and 6 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+ are connected in parallel. Calculate the effective resistance.",
+"opts": ["11 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+", "1 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+", "0.5 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+", "6 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+"],
+"ans": 1,
+"explanation": "
+1
+/
+𝑅
+=
+1
+/
+2
++
+1
+/
+3
++
+1
+/
+6
+=
+(
+3
++
+2
++
+1
+)
+/
+6
+=
+6
+/
+6
+=
+1
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑅
+=
+1
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+1/R=1/2+1/3+1/6=(3+2+1)/6=6/6=1
+RightarrowR=1
+Omega
+."
+},
+{
+"q": "The device used to store electric charge is called a _____.",
+"opts": ["Resistor", "Inductor", "Capacitor", "Transistor"],
+"ans": 2,
+"explanation": "A capacitor consists of two conductors separated by an insulator and is used to store electrical energy in an electric field."
+},
+{
+"q": "The work done in moving a charge of 5 C through a potential difference of 12 V is _____.",
+"opts": ["2.4 J", "17 J", "60 J", "0.41 J"],
+"ans": 2,
+"explanation": "Work = 
+𝑄
+𝑉
+=
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+12
+=
+60
+QV=5
+times12=60
+ J."
+},
+{
+"q": "Ohm's Law states that 
+𝑉
+=
+𝐼
+𝑅
+V=IR
+, provided that _____ remains constant.",
+"opts": ["Current", "Voltage", "Temperature", "Resistance"],
+"ans": 2,
+"explanation": "Ohm's law is valid only if physical conditions, such as temperature, remain constant, as resistance changes with temperature."
+},
+{
+"q": "Which of the following is used to measure electric current?",
+"opts": ["Voltmeter", "Ammeter", "Galvanometer", "Wattmeter"],
+"ans": 1,
+"explanation": "An ammeter is connected in series in a circuit to measure the current flowing through it."
+},
+{
+"q": "The magnetic field around a straight current-carrying wire is _____.",
+"opts": ["Parallel to the wire", "Circular", "Radial", "Uniform"],
+"ans": 1,
+"explanation": "According to the right-hand grip rule, the magnetic field lines form concentric circles around the wire."
+},
+{
+"q": "A transformer has 500 turns in the primary and 2500 turns in the secondary. If the input voltage is 220 V, calculate the output voltage.",
+"opts": ["44 V", "1100 V", "220 V", "5500 V"],
+"ans": 1,
+"explanation": "
+𝑉
+𝑠
+/
+𝑉
+𝑝
+=
+𝑁
+𝑠
+/
+𝑁
+𝑝
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑉
+𝑠
+/
+220
+=
+2500
+/
+500
+=
+5
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑉
+𝑠
+=
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+220
+=
+1100
+V
+s
+	​
+
+/V
+p
+	​
+
+=N
+s
+	​
+
+/N
+p
+	​
+
+RightarrowV
+s
+	​
+
+/220=2500/500=5
+RightarrowV
+s
+	​
+
+=5
+times220=1100
+ V."
+},
+{
+"q": "The process of splitting an atom into two smaller nuclei is called _____.",
+"opts": ["Nuclear fusion", "Nuclear fission", "Radioactivity", "Ionization"],
+"ans": 1,
+"explanation": "Nuclear fission is the process where a heavy nucleus (like Uranium) splits into smaller nuclei, releasing a large amount of energy."
+},
+{
+"q": "Which of the following radiations has the highest ionizing power?",
+"opts": ["Alpha particles", "Beta particles", "Gamma rays", "X-rays"],
+"ans": 0,
+"explanation": "Alpha particles are relatively large and doubly charged, making them very effective at knocking electrons off atoms (ionizing)."
+},
+{
+"q": "The time taken for half the atoms in a radioactive sample to decay is the _____.",
+"opts": ["Decay constant", "Half-life", "Mean life", "Activity"],
+"ans": 1,
+"explanation": "Half-life is the characteristic time for a radioactive substance to reduce to half of its initial quantity."
+},
+{
+"q": "Which of the following is an isotope of Hydrogen?",
+"opts": ["Helium", "Deuterium", "Lithium", "Beryllium"],
+"ans": 1,
+"explanation": "Deuterium is an isotope of hydrogen with one proton and one neutron. Tritium is another."
+},
+{
+"q": "The photoelectric effect proves the _____.",
+"opts": ["Wave nature of light", "Particle nature of light", "Refraction of light", "Polarization of light"],
+"ans": 1,
+"explanation": "The photoelectric effect shows that light can behave as discrete packets of energy called photons (particle nature)."
+},
+{
+"q": "In an AC circuit, the ratio of the root mean square (rms) voltage to the peak voltage is _____.",
+"opts": ["2", "
+𝑠
+𝑞
+𝑟
+𝑡
+2
+sqrt2
+", "
+1
+/
+𝑠
+𝑞
+𝑟
+𝑡
+2
+1/
+sqrt2
+", "1/2"],
+"ans": 2,
+"explanation": "
+𝑉
+𝑟
+𝑚
+𝑠
+=
+𝑉
+𝑝
+𝑒
+𝑎
+𝑘
+/
+𝑠
+𝑞
+𝑟
+𝑡
+2
+V
+rms
+	​
+
+=V
+peak
+	​
+
+/
+sqrt2
+. Therefore, the ratio is 
+1
+/
+𝑠
+𝑞
+𝑟
+𝑡
+2
+𝑎
+𝑝
+𝑝
+𝑟
+𝑜
+𝑥
+0.707
+1/
+sqrt2
+approx0.707
+."
+},
+{
+"q": "A step-up transformer increases _____.",
+"opts": ["Power", "Current", "Voltage", "Resistance"],
+"ans": 2,
+"explanation": "A step-up transformer increases voltage while simultaneously decreasing current (to conserve power)."
+},
+{
+"q": "The resistance of a semiconductor _____ with an increase in temperature.",
+"opts": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+"ans": 1,
+"explanation": "Unlike metals, semiconductors have a negative temperature coefficient of resistance; as they get hotter, more charge carriers are freed, reducing resistance."
+},
+{
+"q": "Which component allows current to flow in only one direction?",
+"opts": ["Resistor", "Capacitor", "Diode", "Inductor"],
+"ans": 2,
+"explanation": "A diode acts as a one-way valve for electricity, allowing current to flow only when forward-biased."
+},
+{
+"q": "Calculate the energy of a photon of light with a frequency of 
+6.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+14
+𝐻
+𝑧
+6.0
+times10
+14
+Hz
+. (Planck's constant 
+ℎ
+=
+6.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+34
+𝐽
+𝑠
+h=6.6
+times10
+−34
+Js
+)",
+"opts": ["
+3.96
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+19
+𝐽
+3.96
+times10
+−19
+J
+", "
+1.1
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+48
+𝐽
+1.1
+times10
+−48
+J
+", "
+4.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+20
+𝐽
+4.0
+times10
+−20
+J
+", "
+6.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+34
+𝐽
+6.6
+times10
+−34
+J
+"],
+"ans": 0,
+"explanation": "
+𝐸
+=
+ℎ
+𝑓
+=
+6.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+34
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+6.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+14
+=
+39.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+20
+=
+3.96
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+19
+E=hf=6.6
+times10
+−34
+times6.0
+times10
+14
+=39.6
+times10
+−20
+=3.96
+times10
+−19
+ J."
+},
+{
+"q": "Which of the following is NOT a property of Laser light?",
+"opts": ["Monochromatic", "Coherent", "Divergent", "Collimated"],
+"ans": 2,
+"explanation": "Laser light is highly directional and has very low divergence. It is monochromatic (one color) and coherent (waves are in phase)."
+},
+{
+"q": "The process by which electrons are emitted from a heated metal surface is _____.",
+"opts": ["Photoelectric emission", "Thermionic emission", "Secondary emission", "Field emission"],
+"ans": 1,
+"explanation": "Thermionic emission is the heat-induced flow of charge carriers from a surface or over a potential energy barrier."
+},
+{
+"q": "A body of mass 2 kg is released from a height of 20 m. Calculate its kinetic energy just before it hits the ground. (g = 10 m/s²)",
+"opts": ["20 J", "40 J", "200 J", "400 J"],
+"ans": 3,
+"explanation": "By conservation of energy, 
+𝐾
+.
+𝐸
+=
+𝑃
+.
+𝐸
+𝑡
+𝑜
+𝑝
+=
+𝑚
+𝑔
+ℎ
+=
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+20
+=
+400
+K.E=P.E
+top
+	​
+
+=mgh=2
+times10
+times20=400
+ J."
+},
+{
+"q": "The instrument used to measure the density of a liquid is a _____.",
+"opts": ["Barometer", "Hygrometer", "Hydrometer", "Manometer"],
+"ans": 2,
+"explanation": "A hydrometer is an instrument used for measuring the relative density of liquids based on the concept of buoyancy."
+},
+{
+"q": "In a p-type semiconductor, the majority charge carriers are _____.",
+"opts": ["Electrons", "Holes", "Protons", "Neutrons"],
+"ans": 1,
+"explanation": "P-type semiconductors are doped with trivalent impurities, creating 'holes' which act as positive charge carriers."
+},
+{
+"q": "The force of attraction between two masses 
+𝑚
+1
+m
+1
+	​
+
+ and 
+𝑚
+2
+m
+2
+	​
+
+ separated by distance 
+𝑟
+r
+ is _____.",
+"opts": ["
+𝐺
+𝑚
+1
+𝑚
+2
+/
+𝑟
+Gm
+1
+	​
+
+m
+2
+	​
+
+/r
+", "
+𝐺
+𝑚
+1
+𝑚
+2
+/
+𝑟
+2
+Gm
+1
+	​
+
+m
+2
+	​
+
+/r
+2
+", "
+𝑚
+1
+𝑚
+2
+/
+𝐺
+𝑟
+2
+m
+1
+	​
+
+m
+2
+	​
+
+/Gr
+2
+", "
+𝐺
+𝑟
+2
+/
+𝑚
+1
+𝑚
+2
+Gr
+2
+/m
+1
+	​
+
+m
+2
+	​
+
+"],
+"ans": 1,
+"explanation": "Newton's Law of Universal Gravitation states 
+𝐹
+=
+𝐺
+𝑚
+1
+𝑚
+2
+/
+𝑟
+2
+F=Gm
+1
+	​
+
+m
+2
+	​
+
+/r
+2
+."
+},
+{
+"q": "A stone is dropped into a well and the sound of the splash is heard 2 s later. If the speed of sound is 340 m/s, the depth of the well is approximately _____.",
+"opts": ["20 m", "340 m", "680 m", "17 m"],
+"ans": 0,
+"explanation": "The time for the stone to fall dominates (
+𝑡
+=
+𝑠
+𝑞
+𝑟
+𝑡
+2
+ℎ
+/
+𝑔
+t=
+sqrt2h/g
+). If 
+𝑡
+𝑎
+𝑝
+𝑝
+𝑟
+𝑜
+𝑥
+2
+𝑠
+t
+approx2s
+, 
+ℎ
+=
+0.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+2
+=
+20
+h=0.5
+times10
+times2
+2
+=20
+ m. (Ignoring the slight time sound takes to travel back for a rough estimate)."
+},
+{
+"q": "Which of the following is a unit of magnetic flux?",
+"opts": ["Tesla", "Weber", "Henry", "Farad"],
+"ans": 1,
+"explanation": "The Weber (Wb) is the S.I. unit of magnetic flux. Tesla is the unit for magnetic flux density."
+},
+{
+"q": "The color of an object is determined by the color of light that it _____.",
+"opts": ["Absorbs", "Refracts", "Reflects", "Transmits"],
+"ans": 2,
+"explanation": "We see the color of light that an opaque object reflects. A red apple reflects red light and absorbs other colors."
+},
+{
+"q": "Capacitance is measured in _____.",
+"opts": ["Ohms", "Farads", "Henrys", "Watts"],
+"ans": 1,
+"explanation": "The Farad (F) is the S.I. unit of capacitance."
+},
+{
+"q": "Which of the following is an example of an artificial satellite?",
+"opts": ["The Moon", "Comet Halley", "International Space Station", "The Sun"],
+"ans": 2,
+"explanation": "Artificial satellites are man-made objects placed in orbit. The Moon is a natural satellite."
+}
+]
