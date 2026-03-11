@@ -1,1 +1,817 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "The use of a word whose sound suggests its meaning is known as _____.",
+"opts": [
+"Onomatopoeia",
+"Oxymoron",
+"Alliteration",
+"Assonance"
+],
+"ans": 0,
+"explanation": "Onomatopoeia is a literary device where the word itself mimics the natural sounds of a thing, such as 'buzz' or 'hiss'."
+},
+{
+"q": "A speech made by a character alone on stage to reveal their inner thoughts is a/an _____.",
+"opts": [
+"Aside",
+"Prologue",
+"Soliloquy",
+"Epilogue"
+],
+"ans": 2,
+"explanation": "A soliloquy is a dramatic convention where a character speaks to themselves, revealing thoughts that the audience hears but other characters do not."
+},
+{
+"q": "The struggle between two opposing forces in a literary work is called _____.",
+"opts": [
+"Climax",
+"Conflict",
+"Denouement",
+"Exposition"
+],
+"ans": 1,
+"explanation": "Conflict is the essence of plot; it can be internal (man vs self) or external (man vs man/nature/society)."
+},
+{
+"q": "Identify the figure of speech in: 'The sun peeped over the mountain'.",
+"opts": [
+"Simile",
+"Metaphor",
+"Personification",
+"Hyperbole"
+],
+"ans": 2,
+"explanation": "Personification gives human qualities (peeping) to inanimate objects (the sun)."
+},
+{
+"q": "A poem of fourteen lines with a strict rhyme scheme is a _____.",
+"opts": [
+"Ode",
+"Elegy",
+"Ballad",
+"Sonnet"
+],
+"ans": 3,
+"explanation": "A sonnet is a fixed verse form of 14 lines, typically in iambic pentameter, common in Shakespearean or Petrarchan styles."
+},
+{
+"type": "passage",
+"content": "Adah was a 'second-class citizen' in a country that was supposed to be her haven. The cold of London was not just in the weather, but in the eyes of the landlords who posted signs saying 'No Blacks, No Dogs, No Irish'.",
+"questions": [
+{
+"q": "The passage above is set in _____.",
+"opts": [
+"Lagos",
+"London",
+"New York",
+"Accra"
+],
+"ans": 1,
+"explanation": "The excerpt explicitly mentions 'The cold of London' and refers to the experiences of Adah, the protagonist of Emecheta's 'Second Class Citizen'."
+},
+{
+"q": "The landlord's signs mentioned in the passage illustrate _____.",
+"opts": [
+"Hospitality",
+"Racial discrimination",
+"Environmental policy",
+"Religious intolerance"
+],
+"ans": 1,
+"explanation": "The exclusion of 'Blacks' alongside 'Dogs' highlights the systemic racism and dehumanization faced by immigrants in post-war Britain."
+},
+{
+"q": "The phrase 'second-class citizen' suggests _____.",
+"opts": [
+"Diplomatic status",
+"Inferior social standing",
+"Aristocratic background",
+"Illegal residency"
+],
+"ans": 1,
+"explanation": "It refers to a person who is systematically discriminated against within a state or other political jurisdiction, despite their nominal status as a citizen or resident."
+}
+]
+},
+{
+"q": "A light or humorous play that ends happily is a _____.",
+"opts": [
+"Tragedy",
+"Comedy",
+"Melodrama",
+"Farce"
+],
+"ans": 1,
+"explanation": "In classical literary terms, a comedy is defined by its lighthearted tone and a resolution that involves the triumph of the protagonist, often ending in marriage."
+},
+{
+"q": "The error in judgment or character flaw that leads to the downfall of a tragic hero is _____.",
+"opts": [
+"Hamartia",
+"Catharsis",
+"Hubris",
+"Peripeteia"
+],
+"ans": 0,
+"explanation": "Hamartia is the Greek term for 'tragic flaw'. While Hubris (excessive pride) is a type of hamartia, hamartia is the general term for the error."
+},
+{
+"q": "In poetry, the repetition of vowel sounds is called _____.",
+"opts": [
+"Alliteration",
+"Consonance",
+"Assonance",
+"Onomatopoeia"
+],
+"ans": 2,
+"explanation": "Assonance is the repetition of similar vowel sounds within close proximity, such as 'the light of the fire is a sight'."
+},
+{
+"q": "A story in which characters and events represent abstract qualities or moral meanings is a/an _____.",
+"opts": [
+"Fable",
+"Allegory",
+"Parody",
+"Satire"
+],
+"ans": 1,
+"explanation": "An allegory, like Bunyan's 'Pilgrim's Progress' or Orwell's 'Animal Farm', uses symbolic figures to convey a deeper message."
+},
+{
+"q": "In Buchi Emecheta's Second Class Citizen, why does Adah marry Francis?",
+"opts": [
+"She loves him deeply",
+"To enable her to continue her education",
+"Her parents forced her",
+"He was the wealthiest suitor"
+],
+"ans": 1,
+"explanation": "Adah views marriage primarily as a means to achieve her dream of going to the United Kingdom and furthering her education, as single women faced more restrictions."
+},
+{
+"q": "Which character in Unexpected Joy at Dawn represents the theme of identity crisis across borders?",
+"opts": [
+"Nii Tackie",
+"Mama Orojo",
+"Massa",
+"Marshak"
+],
+"ans": 0,
+"explanation": "Nii Tackie is a Ghanaian by blood but lives in Nigeria, and later faces the 'alien' status in both countries during the deportation eras."
+},
+{
+"q": "The atmosphere or emotional aura of a work is its _____.",
+"opts": [
+"Theme",
+"Plot",
+"Mood",
+"Style"
+],
+"ans": 2,
+"explanation": "Mood refers to the feeling created in the reader by a literary work or passage."
+},
+{
+"q": "In Drama, the purging of emotions (pity and fear) experienced by the audience is _____.",
+"opts": [
+"Anagnorisis",
+"Catharsis",
+"Exposition",
+"Suspense"
+],
+"ans": 1,
+"explanation": "Aristotle defined catharsis as the emotional release felt by the audience at the end of a tragedy."
+},
+{
+"type": "poem",
+"content": "The Panic of growing older\nSpreads fluttering wings from birth\nAs we can hear\nThe soft rustle of the leaves\nOf the book of life.",
+"questions": [
+{
+"q": "The 'fluttering wings' in the first stanza is a/an _____.",
+"opts": [
+"Simile",
+"Metaphor",
+"Alliteration",
+"Paradox"
+],
+"ans": 1,
+"explanation": "Panic is directly compared to a bird or insect with wings without using 'like' or 'as', making it a metaphor."
+},
+{
+"q": "The 'book of life' is a symbol for _____.",
+"opts": [
+"Education",
+"Human existence and time",
+"Religion",
+"Nature"
+],
+"ans": 1,
+"explanation": "The 'book of life' is a common literary trope representing the record of one's days or the span of a human life."
+}
+]
+},
+{
+"q": "A statement that appears self-contradictory but reveals a truth is a _____.",
+"opts": [
+"Paradox",
+"Oxymoron",
+"Irony",
+"Euphemism"
+],
+"ans": 0,
+"explanation": "A paradox is a statement that seems impossible but contains a hidden truth, such as 'The child is father of the man'."
+},
+{
+"q": "The literary device used to give a hint of what is to happen later in a story is _____.",
+"opts": [
+"Flashback",
+"In media res",
+"Foreshadowing",
+"Juxtaposition"
+],
+"ans": 2,
+"explanation": "Foreshadowing provides clues or hints to prepare the reader for future events in the plot."
+},
+{
+"q": "A mournful poem, typically a lament for the dead, is an _____.",
+"opts": [
+"Ode",
+"Elegy",
+"Epic",
+"Limerick"
+],
+"ans": 1,
+"explanation": "An elegy is a poem of serious reflection, typically a lament for the deceased."
+},
+{
+"q": "In Wole Soyinka's The Lion and the Jewel, Baroka is the _____.",
+"opts": [
+"School teacher",
+"Bale of Ilujinle",
+"The Jewel",
+"The Photographer"
+],
+"ans": 1,
+"explanation": "Baroka is the 'Lion', the Bale (village head) of Ilujinle, who competes for Sidi's hand."
+},
+{
+"q": "Sidi refuses to marry Lakunle because he _____.",
+"opts": [
+"Is too old",
+"Is poor",
+"Refuses to pay the bride price",
+"Is a foreigner"
+],
+"ans": 2,
+"explanation": "Sidi insists on the bride price as a measure of her worth in tradition; Lakunle considers it a 'barbarous' custom and refuses."
+},
+{
+"q": "The character who provides a contrast to the protagonist is the _____.",
+"opts": [
+"Antagonist",
+"Foil",
+"Confidant",
+"Hero"
+],
+"ans": 1,
+"explanation": "A foil is a character whose traits are the opposite of the protagonist's, thereby highlighting the protagonist’s characteristics."
+},
+{
+"q": "A long narrative poem celebrating the deeds of a legendary hero is an _____.",
+"opts": [
+"Epic",
+"Ode",
+"Ballad",
+"Lyric"
+],
+"ans": 0,
+"explanation": "Epics like The Odyssey or Beowulf are grand in scale and focus on heroic figures and national myths."
+},
+{
+"q": "'Parting is such sweet sorrow' is an example of _____.",
+"opts": [
+"Hyperbole",
+"Oxymoron",
+"Litotes",
+"Metonymy"
+],
+"ans": 1,
+"explanation": "Oxymoron joins two contradictory terms ('sweet' and 'sorrow') to create a paradoxical effect."
+},
+{
+"q": "In Let Me Die Alone, Yoko's decision to commit suicide is driven by _____.",
+"opts": [
+"Fear of the warriors",
+"Humiliation and false accusations",
+"Loss of her beauty",
+"Hatred for her husband"
+],
+"ans": 1,
+"explanation": "Queen Yoko commits suicide after being falsely accused of killing a child and realizing the treachery within her chiefdom."
+},
+{
+"q": "The protagonist of Ralph Ellison's Invisible Man is invisible because _____.",
+"opts": [
+"He is a ghost",
+"He wears a special suit",
+"Society refuses to see him as a human being",
+"He lives underground"
+],
+"ans": 2,
+"explanation": "The invisibility is metaphorical; it represents the racial prejudice that prevents white society from acknowledging his individuality and humanity."
+},
+{
+"q": "A poem written in praise of a person, object, or event is a/an _____.",
+"opts": [
+"Elegy",
+"Ode",
+"Sonnet",
+"Satire"
+],
+"ans": 1,
+"explanation": "An ode is a formal, often ceremonial lyric poem that addresses and often celebrates a person, place, thing, or idea."
+},
+{
+"q": "In Emily Brontë's Wuthering Heights, the primary setting represents _____.",
+"opts": [
+"Urban chaos",
+"The wildness of nature and human passion",
+"Religious stability",
+"Industrial progress"
+],
+"ans": 1,
+"explanation": "The moors and the house 'Wuthering Heights' signify the stormy, untamed nature of Heathcliff and Catherine's love."
+},
+{
+"q": "The rhyme scheme of a typical Shakespearean sonnet is _____.",
+"opts": [
+"abba abba cde cde",
+"abab cdcd efef gg",
+"aabb ccdd eeff gg",
+"abcd abcd abcd ee"
+],
+"ans": 1,
+"explanation": "The Shakespearean (English) sonnet consists of three quatrains and a final rhyming couplet."
+},
+{
+"q": "The person who tells the story in a novel is the _____.",
+"opts": [
+"Author",
+"Narrator",
+"Protagonist",
+"Antagonist"
+],
+"ans": 1,
+"explanation": "The narrator is the voice or character through which the author tells the story; the narrator is not necessarily the author."
+},
+{
+"q": "'The white house issued a statement' is an example of _____.",
+"opts": [
+"Synecdoche",
+"Metonymy",
+"Irony",
+"Personification"
+],
+"ans": 1,
+"explanation": "Metonymy replaces the name of a thing with the name of something else with which it is closely connected (the building representing the administration)."
+},
+{
+"q": "In Look Back in Anger, Jimmy Porter's 'anger' is primarily directed at _____.",
+"opts": [
+"His wife's upper-middle-class background",
+"The educational system",
+"The government of America",
+"His best friend Cliff"
+],
+"ans": 0,
+"explanation": "Jimmy Porter represents the 'Angry Young Men' of the 1950s, railing against the complacency of the British class system represented by Alison's family."
+},
+{
+"q": "The use of 'thou' and 'thee' in older literature are examples of _____.",
+"opts": [
+"Neologisms",
+"Archaic language",
+"Slang",
+"Jargon"
+],
+"ans": 1,
+"explanation": "Archaisms are words or styles of language that are no longer in everyday use but are used for literary effect."
+},
+{
+"q": "A story that teaches a moral lesson using animals as characters is a/an _____.",
+"opts": [
+"Parable",
+"Fable",
+"Myth",
+"Legend"
+],
+"ans": 1,
+"explanation": "Fables, such as Aesop's, utilize anthropomorphized animals to deliver a moral truth."
+},
+{
+"q": "In the poem 'The Grieved Lands', the tone is one of _____.",
+"opts": [
+"Joy and celebration",
+"Resilience and defiance",
+"Indifference",
+"Humor"
+],
+"ans": 1,
+"explanation": "Agostinho Neto's poem speaks to the suffering and strength of the African people under colonial oppression."
+},
+{
+"q": "The repetition of consonant sounds at the beginning of words is _____.",
+"opts": [
+"Assonance",
+"Onomatopoeia",
+"Alliteration",
+"Pun"
+],
+"ans": 2,
+"explanation": "Alliteration is the repetition of the same initial consonant sounds in a sequence of words, like 'Peter Piper picked a peck'."
+},
+{
+"q": "In Fences, Troy Maxson's 'fence' symbolizes _____.",
+"opts": [
+"His carpentry skills",
+"Emotional barriers and protection of his family",
+"His wealth",
+"The boundary of the city"
+],
+"ans": 1,
+"explanation": "The fence is a central metaphor for keeping people out (death, change) and keeping people in (family, legacy)."
+},
+{
+"q": "The climax of a plot is the _____.",
+"opts": [
+"Beginning of the story",
+"Point of highest tension",
+"Resolution of the conflict",
+"Introduction of characters"
+],
+"ans": 1,
+"explanation": "The climax is the turning point of the story where the conflict reaches its peak intensity."
+},
+{
+"q": "A play on words that sound similar but have different meanings is a _____.",
+"opts": [
+"Sarcasm",
+"Pun",
+"Euphemism",
+"Understatement"
+],
+"ans": 1,
+"explanation": "A pun exploits different possible meanings of a word or the fact that there are words which sound alike but have different meanings."
+},
+{
+"q": "The main theme of 'Caged Bird' by Maya Angelou is _____.",
+"opts": [
+"The beauty of nature",
+"The struggle for freedom vs oppression",
+"The importance of singing",
+"The history of aviation"
+],
+"ans": 1,
+"explanation": "The poem contrasts a free bird with a caged bird to illustrate the African American experience of captivity and longing for liberty."
+},
+{
+"q": "An exaggerated statement not meant to be taken literally is _____.",
+"opts": [
+"Litotes",
+"Hyperbole",
+"Simile",
+"Synecdoche"
+],
+"ans": 1,
+"explanation": "Hyperbole is an intentional exaggeration used for emphasis or comic effect, like 'I've told you a million times'."
+},
+{
+"q": "In prose, the method of describing a character's traits is _____.",
+"opts": [
+"Plotting",
+"Characterization",
+"Setting",
+"Narration"
+],
+"ans": 1,
+"explanation": "Characterization is the process by which the writer reveals the personality of a character, either directly or indirectly."
+},
+{
+"q": "The 'Grave Diggers' scene in Shakespeare's Hamlet provides _____.",
+"opts": [
+"Tragic climax",
+"Comic relief",
+"Exposition",
+"Epilogue"
+],
+"ans": 1,
+"explanation": "Comic relief is a humorous scene included in a tragedy to provide a temporary emotional break for the audience."
+},
+{
+"q": "A reference to a well-known person, place, or event from history or literature is an _____.",
+"opts": [
+"Allusion",
+"Illusion",
+"Allegory",
+"Apostrophe"
+],
+"ans": 0,
+"explanation": "An allusion is a brief and indirect reference to a person, place, thing or idea of historical, cultural, literary or political significance."
+},
+{
+"q": "In 'The Leader and the Led', the animals are looking for _____.",
+"opts": [
+"Food",
+"A leader",
+"A new home",
+"War"
+],
+"ans": 1,
+"explanation": "Niyi Osundare's poem uses animals to satirize the quest for leadership in Africa and the qualities required of a true leader."
+},
+{
+"q": "The central character in a story is the _____.",
+"opts": [
+"Antagonist",
+"Protagonist",
+"Foil",
+"Deuteragonist"
+],
+"ans": 1,
+"explanation": "The protagonist is the main figure or one of the most prominent figures in a real situation or a story."
+},
+{
+"q": "A poem that tells a story, often meant to be sung, is a _____.",
+"opts": [
+"Limerick",
+"Ballad",
+"Haiku",
+"Elegy"
+],
+"ans": 1,
+"explanation": "A ballad is a type of narrative poem that is typically structured with four-line stanzas and tells a folk tale or legend."
+},
+{
+"q": "The resolution of the plot in a story is also called the _____.",
+"opts": [
+"Rising action",
+"Climax",
+"Denouement",
+"Falling action"
+],
+"ans": 2,
+"explanation": "Denouement is the final part of a play, film, or narrative in which the strands of the plot are drawn together and matters are explained or resolved."
+},
+{
+"q": "In Second Class Citizen, the 'burning of the manuscript' symbolizes _____.",
+"opts": [
+"Francis's support for Adah",
+"The destruction of Adah's intellectual and creative dreams",
+"An accident in the house",
+"A ritual cleaning"
+],
+"ans": 1,
+"explanation": "Francis burns Adah's novel, The Bride Price, which represents his jealousy and his attempt to suppress her independence and success."
+},
+{
+"q": "The term 'In media res' means _____.",
+"opts": [
+"Starting at the beginning",
+"Starting in the middle of things",
+"Starting at the end",
+"A story with no end"
+],
+"ans": 1,
+"explanation": "'In media res' is a narrative technique where the story opens in the midst of action, rather than from the chronological beginning."
+},
+{
+"q": "An address to an absent person or a personified object is an _____.",
+"opts": [
+"Alliteration",
+"Apostrophe",
+"Assonance",
+"Anaphora"
+],
+"ans": 1,
+"explanation": "Apostrophe is a figure of speech in which the poet addresses an absent person, an abstract idea, or a thing (e.g., 'O wild West Wind')."
+},
+{
+"q": "Which of these is a characteristic of African traditional oral literature?",
+"opts": [
+"Written in Latin",
+"Emphasis on performance and communal participation",
+"Always written by one author",
+"Strictly for children"
+],
+"ans": 1,
+"explanation": "Oral literature (orature) thrives on live performance, audience interaction, and is passed down through generations."
+},
+{
+"q": "In Look Back in Anger, what instrument does Jimmy Porter play?",
+"opts": [
+"Piano",
+"Trumpet",
+"Violin",
+"Guitar"
+],
+"ans": 1,
+"explanation": "Jimmy Porter plays the trumpet, which serves as an auditory symbol of his noisy, disruptive, and 'angry' presence."
+},
+{
+"q": "The comparison of two unlike things using 'like' or 'as' is a _____.",
+"opts": [
+"Metaphor",
+"Simile",
+"Metonymy",
+"Synecdoche"
+],
+"ans": 1,
+"explanation": "A simile is an explicit comparison, while a metaphor is an implicit one."
+},
+{
+"q": "A poem with no regular meter or rhyme scheme is called _____.",
+"opts": [
+"Blank verse",
+"Free verse",
+"Couplet",
+"Quatrain"
+],
+"ans": 1,
+"explanation": "Free verse poetry does not follow strict rules of rhythm or rhyme, allowing for more natural speech-like patterns."
+},
+{
+"q": "The pattern of end rhymes in a poem is the _____.",
+"opts": [
+"Rhythm",
+"Meter",
+"Rhyme Scheme",
+"Stanza"
+],
+"ans": 2,
+"explanation": "The rhyme scheme is labeled with letters (e.g., AABB) to represent the sounds at the end of each line."
+},
+{
+"q": "In drama, a character whose fate is determined by a supernatural power or the gods is common in _____.",
+"opts": [
+"Modern comedy",
+"Greek tragedy",
+"Farce",
+"Satire"
+],
+"ans": 1,
+"explanation": "In classical Greek tragedy, the concept of 'Fate' or 'Destiny' is a central force that the hero cannot escape."
+},
+{
+"q": "The use of a part to represent the whole is _____.",
+"opts": [
+"Metonymy",
+"Synecdoche",
+"Hyperbole",
+"Simile"
+],
+"ans": 1,
+"explanation": "Synecdoche is a figure of speech in which a part is made to represent the whole or vice versa (e.g., 'all hands on deck' where 'hands' means 'men')."
+},
+{
+"q": "In Wuthering Heights, Heathcliff is described as a _____ hero.",
+"opts": [
+"Byronic",
+"Epic",
+"Tragic",
+"Reluctant"
+],
+"ans": 0,
+"explanation": "A Byronic hero is a moody, rebellious, and dark figure with a troubled past, fitting Heathcliff’s character perfectly."
+},
+{
+"q": "The moral or message of a literary work is its _____.",
+"opts": [
+"Theme",
+"Motif",
+"Style",
+"Subject"
+],
+"ans": 0,
+"explanation": "A theme is a central idea or underlying message that the author explores throughout the text."
+},
+{
+"q": "A short, clever statement of a wise or witty truth is an _____.",
+"opts": [
+"Epigram",
+"Epic",
+"Epitaph",
+"Epilogue"
+],
+"ans": 0,
+"explanation": "An epigram is a pithy saying or remark expressing an idea in a clever and amusing way."
+},
+{
+"q": "In 'The Good-Morrow', John Donne compares the lovers to _____.",
+"opts": [
+"Soldiers at war",
+"Hemispheres or maps",
+"Birds in a cage",
+"Flowers in spring"
+],
+"ans": 1,
+"explanation": "As a Metaphysical poet, Donne uses a 'conceit' (an elaborate metaphor) comparing the lovers' faces to two better hemispheres."
+},
+{
+"q": "An unrhymed poem written in iambic pentameter is _____.",
+"opts": [
+"Free verse",
+"Blank verse",
+"Sonnet",
+"Haiku"
+],
+"ans": 1,
+"explanation": "Blank verse is a standard form for English dramatic and epic poetry, famously used by Shakespeare and Milton."
+},
+{
+"q": "The repetition of a word or phrase at the beginning of successive clauses is _____.",
+"opts": [
+"Epistrophe",
+"Anaphora",
+"Chiasmus",
+"Litotes"
+],
+"ans": 1,
+"explanation": "Anaphora is used for emphasis and rhythm, common in speeches and religious texts (e.g., 'I have a dream...')."
+},
+{
+"q": "In 'Journey of the Magi', the journey represents _____.",
+"opts": [
+"A fun vacation",
+"A spiritual transition and the pain of birth and death",
+"A business trip",
+"Military conquest"
+],
+"ans": 1,
+"explanation": "T.S. Eliot explores the internal conflict of the Magi as they witness the end of their old pagan world and the birth of Christianity."
+},
+{
+"q": "A comic imitation of a serious work is a _____.",
+"opts": [
+"Satire",
+"Parody",
+"Fable",
+"Tragedy"
+],
+"ans": 1,
+"explanation": "Parody imitates the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect."
+},
+{
+"q": "A play that ridicules the vices and follies of society is a _____.",
+"opts": [
+"Melodrama",
+"Farce",
+"Satire",
+"Opera"
+],
+"ans": 2,
+"explanation": "Satire uses humor, irony, and exaggeration to expose and criticize people's stupidity or vices."
+},
+{
+"q": "The term used for the 'dictionary meaning' of a word is _____.",
+"opts": [
+"Connotation",
+"Denotation",
+"Imagery",
+"Context"
+],
+"ans": 1,
+"explanation": "Denotation is the literal meaning; connotation is the emotional or cultural association attached to the word."
+},
+{
+"q": "In Unexpected Joy at Dawn, the 'aliens' are _____.",
+"opts": [
+"Creatures from space",
+"Ghanaians in Nigeria and Nigerians in Ghana",
+"Europeans in Africa",
+"Politicians"
+],
+"ans": 1,
+"explanation": "The title and story refer to the Alien Compliance Order and the reciprocal expulsions of West African migrants."
+},
+{
+"q": "The 'voice' in a poem is the _____.",
+"opts": [
+"Author",
+"Persona",
+"Audience",
+"Narrator"
+],
+"ans": 1,
+"explanation": "In poetry, the speaker or 'persona' is the character assumed by the poet."
+},
+{
+"q": "Identify the device in 'He is no fool'.",
+"opts": [
+"Hyperbole",
+"Litotes",
+"Simile",
+"Sarcasm"
+],
+"ans": 1,
+"explanation": "Litotes is an ironical understatement in which an affirmative is expressed by the negative of its contrary (stating 'no fool' to mean 'wise')."
+}
+]
