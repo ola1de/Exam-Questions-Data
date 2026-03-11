@@ -1,1 +1,767 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Economics is often defined as the study of scarcity and _____.",
+"opts": [
+"poverty",
+"choice",
+"wealth",
+"money"
+],
+"ans": 1,
+"explanation": "Because resources are limited (scarcity), individuals and societies must make choices about how to allocate them to satisfy unlimited wants."
+},
+{
+"q": "The fundamental economic problem facing every society is _____.",
+"opts": [
+"unemployment",
+"inflation",
+"scarcity",
+"poverty"
+],
+"ans": 2,
+"explanation": "Scarcity is the basic economic problem because resources are finite whereas human wants are infinite."
+},
+{
+"q": "The opportunity cost of a measure is the _____.",
+"opts": [
+"money cost of the measure",
+"alternative forgone",
+"sacrifice made by the consumer",
+"total cost of production"
+],
+"ans": 1,
+"explanation": "Opportunity cost refers to the next best alternative that is sacrificed when a choice is made."
+},
+{
+"q": "A production possibility curve (PPC) shows the _____.",
+"opts": [
+"rate of inflation in an economy",
+"distribution of income",
+"maximum combinations of two goods an economy can produce",
+"total amount of money in circulation"
+],
+"ans": 2,
+"explanation": "The PPC illustrates the trade-offs and limits of production for two goods given fixed resources and technology."
+},
+{
+"q": "If the price of a commodity increases from #10 to #15 and the quantity demanded falls from 100 units to 50 units, the price elasticity of demand is _____.",
+"opts": [
+"0.5",
+"1.0",
+"1.5",
+"1.0"
+],
+"ans": 3,
+"explanation": "Percentage change in quantity = (50/100)*100 = 50%. Percentage change in price = (5/10)*100 = 50%. Elasticity = 50/50 = 1 (Unitary)."
+},
+{
+"q": "Which of the following is a characteristic of a free market economy?",
+"opts": [
+"Price fixing by the government",
+"Public ownership of means of production",
+"Consumer sovereignty",
+"Central planning"
+],
+"ans": 2,
+"explanation": "In a free market, consumers determine what is produced through their spending patterns, a concept known as consumer sovereignty."
+},
+{
+"q": "The law of diminishing marginal utility states that as more of a product is consumed, the _____.",
+"opts": [
+"total utility increases at an increasing rate",
+"marginal utility eventually decreases",
+"total utility decreases",
+"marginal utility remains constant"
+],
+"ans": 1,
+"explanation": "The law posits that the additional satisfaction gained from consuming one extra unit of a good diminishes as the total quantity consumed increases."
+},
+{
+"q": "A shift in the demand curve to the right indicates a/an _____.",
+"opts": [
+"decrease in demand",
+"increase in quantity demanded",
+"increase in demand",
+"decrease in quantity demanded"
+],
+"ans": 2,
+"explanation": "A rightward shift of the entire demand curve represents an 'increase in demand' caused by factors other than price (e.g., rise in income)."
+},
+{
+"q": "In a perfectly competitive market, the firm is a _____.",
+"opts": [
+"price maker",
+"price taker",
+"price discriminator",
+"monopolist"
+],
+"ans": 1,
+"explanation": "Individual firms in perfect competition are too small to influence market price; they must accept the prevailing equilibrium price."
+},
+{
+"q": "Which of the following is a factor of production?",
+"opts": [
+"Money",
+"Enterprise",
+"Shares",
+"Interest"
+],
+"ans": 1,
+"explanation": "The four factors of production are Land, Labour, Capital, and Enterprise (or Entrepreneurship)."
+},
+{
+"q": "Division of labour leads to _____.",
+"opts": [
+"decreased productivity",
+"increased cost of production",
+"specialization",
+"waste of time"
+],
+"ans": 2,
+"explanation": "Division of labour involves breaking down a production process into tasks, which allows workers to specialize and become more efficient."
+},
+{
+"q": "The S.I. unit of economic value in Nigeria is the _____.",
+"opts": [
+"Dollar",
+"Pound",
+"Naira",
+"Cedi"
+],
+"ans": 2,
+"explanation": "The Naira is the legal tender and unit of account used for economic transactions in Nigeria."
+},
+{
+"q": "When Marginal Product (MP) is zero, Total Product (TP) is _____.",
+"opts": [
+"zero",
+"at its minimum",
+"at its maximum",
+"equal to Average Product"
+],
+"ans": 2,
+"explanation": "Total Product reaches its peak at the exact point where the additional unit of input adds nothing further to output (MP = 0)."
+},
+{
+"q": "An example of a fixed cost is _____.",
+"opts": [
+"raw materials",
+"electricity bill",
+"wages of casual workers",
+"rent on factory building"
+],
+"ans": 3,
+"explanation": "Fixed costs do not change with the level of output in the short run. Rent must be paid regardless of how much is produced."
+},
+{
+"q": "In economics, a market is defined as _____.",
+"opts": [
+"a place where people buy food",
+"any arrangement for buyers and sellers to exchange goods",
+"a physical building for trade",
+"a government-controlled trading zone"
+],
+"ans": 1,
+"explanation": "A market is not necessarily a physical location; it is any mechanism that facilitates the exchange of goods and services between buyers and sellers."
+},
+{
+"q": "If demand is perfectly inelastic, the demand curve will be _____.",
+"opts": [
+"horizontal",
+"vertical",
+"downward sloping",
+"upward sloping"
+],
+"ans": 1,
+"explanation": "A vertical demand curve shows that the quantity demanded remains the same regardless of changes in price."
+},
+{
+"q": "The primary function of the Central Bank of Nigeria is to _____.",
+"opts": [
+"accept deposits from the public",
+"lend money for house construction",
+"issue currency and control monetary policy",
+"engage in retail banking"
+],
+"ans": 2,
+"explanation": "The Central Bank acts as the issuing authority for legal tender and manages the country's money supply and exchange rate."
+},
+{
+"q": "Inflation caused by an increase in the cost of raw materials is known as _____.",
+"opts": [
+"demand-pull inflation",
+"cost-push inflation",
+"hyperinflation",
+"creeping inflation"
+],
+"ans": 1,
+"explanation": "Cost-push inflation occurs when production costs (wages, raw materials) rise, forcing producers to increase prices."
+},
+{
+"q": "Which of the following is an example of an indirect tax?",
+"opts": [
+"Personal income tax",
+"Company profit tax",
+"Value Added Tax (VAT)",
+"Capital gains tax"
+],
+"ans": 2,
+"explanation": "Indirect taxes are levied on goods and services rather than individuals. The burden is passed to the consumer."
+},
+{
+"q": "Gross Domestic Product (GDP) measures the value of goods and services produced _____.",
+"opts": [
+"by citizens of a country living anywhere",
+"within the geographical boundaries of a country",
+"by the government only",
+"for export only"
+],
+"ans": 1,
+"explanation": "GDP focuses on the location of production (within the country's borders), regardless of the nationality of the producers."
+},
+{
+"q": "A budget deficit occurs when _____.",
+"opts": [
+"revenue exceeds expenditure",
+"expenditure exceeds revenue",
+"exports exceed imports",
+"imports exceed exports"
+],
+"ans": 1,
+"explanation": "A deficit occurs when the government spends more money than it generates through taxes and other revenue sources."
+},
+{
+"q": "The Malthusian theory of population suggests that population grows _____.",
+"opts": [
+"arithmetically",
+"geometrically",
+"linearly",
+"slowly"
+],
+"ans": 1,
+"explanation": "Thomas Malthus argued that population increases in a geometric progression (1, 2, 4, 8...) while food supply increases arithmetically (1, 2, 3, 4...)."
+},
+{
+"q": "Comparative advantage theory was developed by _____.",
+"opts": [
+"Adam Smith",
+"David Ricardo",
+"John Maynard Keynes",
+"Alfred Marshall"
+],
+"ans": 1,
+"explanation": "David Ricardo introduced the law of comparative advantage, explaining how countries benefit from specializing in goods they produce at a lower relative cost."
+},
+{
+"q": "The 'terms of trade' is the ratio of _____.",
+"opts": [
+"export volume to import volume",
+"export price index to import price index",
+"national income to population",
+"money supply to inflation"
+],
+"ans": 1,
+"explanation": "Terms of trade measure the relative prices of a country's exports compared to its imports (Index of Export Prices / Index of Import Prices x 100)."
+},
+{
+"q": "Which of the following is a barrier to international trade?",
+"opts": [
+"Free trade zones",
+"Tariffs",
+"Bilateral agreements",
+"Globalization"
+],
+"ans": 1,
+"explanation": "Tariffs are taxes on imported goods designed to protect domestic industries by making imports more expensive."
+},
+{
+"q": "The main objective of the Economic Community of West African States (ECOWAS) is _____.",
+"opts": ["political unification", "economic integration", "military defense", "religious harmony"],
+"ans": 1,
+"explanation": "ECOWAS was formed to promote cooperation and integration, leading to the establishment of an economic union in West Africa."
+},
+{
+"q": "In the circular flow of income, the households provide _____ to the firms.",
+"opts": [
+"goods and services",
+"factors of production",
+"subsidies",
+"taxes"
+],
+"ans": 1,
+"explanation": "Households own the factors of production (land, labour, capital) and provide them to firms in exchange for rent, wages, interest, and profit."
+},
+{
+"q": "A 'monopsony' is a market situation with _____.",
+"opts": [
+"one seller",
+"one buyer",
+"few sellers",
+"many buyers"
+],
+"ans": 1,
+"explanation": "Monopsony occurs when there is only one buyer in the market, giving that buyer significant power over sellers."
+},
+{
+"q": "The demand for labour is described as 'derived demand' because it _____.",
+"opts": [
+"is demanded for its own sake",
+"depends on the demand for the product it produces",
+"is determined by the government",
+"is fixed in the short run"
+],
+"ans": 1,
+"explanation": "Labour is not demanded because people want workers for fun; it is demanded because there is a demand for the goods those workers produce."
+},
+{
+"q": "To control inflation, the Central Bank may _____.",
+"opts": [
+"reduce interest rates",
+"lower the reserve requirement",
+"sell government securities",
+"increase government spending"
+],
+"ans": 2,
+"explanation": "Selling securities (Open Market Operations) mops up excess liquidity from the banking system, reducing the money supply and curbing inflation."
+},
+{
+"q": "Which of the following is a component of the 'current account' in the Balance of Payments?",
+"opts": [
+"Foreign direct investment",
+"Portfolio investment",
+"Visible trade (exports and imports of goods)",
+"Foreign exchange reserves"
+],
+"ans": 2,
+"explanation": "The current account records the trade in goods (visible) and services (invisible), as well as primary and secondary income."
+},
+{
+"q": "Elasticity of supply measures the responsiveness of quantity supplied to a change in _____.",
+"opts": [
+"income",
+"technology",
+"price",
+"tastes"
+],
+"ans": 2,
+"explanation": "Price elasticity of supply measures how much the quantity supplied changes in response to a change in the product's own price."
+},
+{
+"q": "The 'infant industry' argument is used to justify _____.",
+"opts": [
+"free trade",
+"privatization",
+"protectionism",
+"devaluation"
+],
+"ans": 2,
+"explanation": "This argument suggests that new domestic industries need protection from foreign competition until they are mature enough to compete."
+},
+{
+"q": "Which of the following is a function of money?",
+"opts": [
+"Standard for deferred payment",
+"Source of inflation",
+"Barrier to trade",
+"Factor of production"
+],
+"ans": 0,
+"explanation": "Money allows for credit transactions where payment is made in the future (deferred)."
+},
+{
+"q": "A normal good is one where demand increases as _____.",
+"opts": [
+"price increases",
+"income increases",
+"price of substitutes falls",
+"population decreases"
+],
+"ans": 1,
+"explanation": "For normal goods, there is a positive relationship between a consumer's income and the quantity demanded."
+},
+{
+"q": "The point where the supply and demand curves intersect is called _____.",
+"opts": [
+"surplus point",
+"shortage point",
+"equilibrium point",
+"inflection point"
+],
+"ans": 2,
+"explanation": "Equilibrium occurs where quantity demanded equals quantity supplied; there is no tendency for the price to change."
+},
+{
+"q": "When Total Utility is increasing, Marginal Utility must be _____.",
+"opts": [
+"negative",
+"zero",
+"positive",
+"decreasing at an increasing rate"
+],
+"ans": 2,
+"explanation": "As long as you are still getting some extra satisfaction (positive MU), your total satisfaction (TU) will continue to rise."
+},
+{
+"q": "In the short run, a firm should shut down if price is less than _____.",
+"opts": [
+"Average Total Cost",
+"Average Variable Cost",
+"Marginal Cost",
+"Fixed Cost"
+],
+"ans": 1,
+"explanation": "If the price cannot even cover the variable costs (AVC), the firm loses more by staying open than by closing."
+},
+{
+"q": "Which of the following is a characteristic of an oligopoly?",
+"opts": [
+"Many small firms",
+"A single seller",
+"Interdependence between firms",
+"No barriers to entry"
+],
+"ans": 2,
+"explanation": "In an oligopoly, few large firms dominate the market, and the actions of one firm (e.g., price change) significantly affect the others."
+},
+{
+"q": "The value of money varies _____.",
+"opts": [
+"directly with the price level",
+"inversely with the price level",
+"directly with the interest rate",
+"inversely with the interest rate"
+],
+"ans": 1,
+"explanation": "When prices rise (inflation), the purchasing power of money falls. Thus, value of money = 1/Price level."
+},
+{
+"q": "Devaluation of a currency is intended to _____.",
+"opts": [
+"make imports cheaper",
+"make exports cheaper and imports dearer",
+"increase the value of the currency",
+"reduce the balance of payments deficit"
+],
+"ans": 1,
+"explanation": "Devaluation makes a country's goods cheaper for foreigners and foreign goods more expensive for locals, aiming to improve the trade balance."
+},
+{
+"q": "Public goods are characterized by _____.",
+"opts": [
+"excludability and rivalry",
+"non-excludability and non-rivalry",
+"high prices",
+"government ownership only"
+],
+"ans": 1,
+"explanation": "Non-excludable means you can't stop people from using it; non-rivalry means one person's use doesn't reduce availability for others (e.g., street lights)."
+},
+{
+"q": "The 'Golden Age' of agriculture in Nigeria was characterized by the dominance of _____.",
+"opts": [
+"Petroleum",
+"Cash crops (Cocoa, Groundnut, Palm oil)",
+"Solid minerals",
+"Manufacturing"
+],
+"ans": 1,
+"explanation": "Before the oil boom of the 1970s, Nigeria's economy relied heavily on the export of various agricultural cash crops."
+},
+{
+"q": "An 'inferior good' is one for which demand falls when _____.",
+"opts": [
+"price falls",
+"income rises",
+"income falls",
+"supply increases"
+],
+"ans": 1,
+"explanation": "As consumers get wealthier, they stop buying inferior goods (like low-quality starchy foods) and switch to better alternatives."
+},
+{
+"q": "Which of the following is a direct tax?",
+"opts": [
+"Excise duty",
+"Customs duty",
+"Personal Income Tax",
+"Sales tax"
+],
+"ans": 2,
+"explanation": "Direct taxes are paid directly by the person or organization on whom they are levied, such as income or profit taxes."
+},
+{
+"q": "The reward for Land as a factor of production is _____.",
+"opts": [
+"Wages",
+"Interest",
+"Profit",
+"Rent"
+],
+"ans": 3,
+"explanation": "Economically, rent is the payment made for the use of land and other natural resources."
+},
+{
+"q": "A production process where the output increases more than proportionately to the increase in inputs is called _____.",
+"opts": [
+"constant returns to scale",
+"decreasing returns to scale",
+"increasing returns to scale",
+"diminishing returns"
+],
+"ans": 2,
+"explanation": "If you double all inputs and output more than doubles, you are experiencing increasing returns to scale."
+},
+{
+"q": "The dependency ratio is the ratio of _____.",
+"opts": [
+"children to adults",
+"men to women",
+"non-working population to the working population",
+"urban dwellers to rural dwellers"
+],
+"ans": 2,
+"explanation": "It measures the pressure on the productive part of the population to support the young and the elderly."
+},
+{
+"q": "Which of the following is a drawback of a barter system?",
+"opts": [
+"It promotes trade",
+"Double coincidence of wants",
+"It uses money",
+"It is very simple"
+],
+"ans": 1,
+"explanation": "In barter, you must find someone who has what you want and wants exactly what you have, which is difficult and inefficient."
+},
+{
+"q": "The primary aim of a private limited company is to _____.",
+"opts": [
+"provide social services",
+"maximize profit",
+"create employment only",
+"reduce competition"
+],
+"ans": 1,
+"explanation": "Like most private businesses, the fundamental goal is to generate profit for its shareholders."
+},
+{
+"q": "Economic growth is best measured by an increase in _____.",
+"opts": [
+"nominal GDP",
+"real GDP",
+"population",
+"money supply"
+],
+"ans": 1,
+"explanation": "Real GDP accounts for inflation, providing a more accurate measure of the actual increase in the production of goods and services."
+},
+{
+"q": "Which of the following is a function of the commercial banks?",
+"opts": [
+"Issuing currency",
+"Acting as the government's bank",
+"Advancing loans to customers",
+"Formulating monetary policy"
+],
+"ans": 2,
+"explanation": "Commercial banks (like First Bank or GTB) focus on accepting deposits and lending money to individuals and businesses."
+},
+{
+"q": "A 'price floor' is a _____.",
+"opts": [
+"maximum legal price",
+"minimum legal price",
+"equilibrium price",
+"subsidized price"
+],
+"ans": 1,
+"explanation": "A price floor (like minimum wage) is a government-imposed minimum limit below which the price is not allowed to fall."
+},
+{
+"q": "The range of a set of data is the _____.",
+"opts": [
+"sum of the data",
+"middle value",
+"difference between the highest and lowest values",
+"most frequent value"
+],
+"ans": 2,
+"explanation": "In statistics, range measures the spread of data by subtracting the minimum value from the maximum value."
+},
+{
+"q": "Which of the following describes a 'mixed economy'?",
+"opts": [
+"Economy with both agriculture and industry",
+"Economy with both private and public sectors",
+"Economy that trades with other countries",
+"Economy using both barter and money"
+],
+"ans": 1,
+"explanation": "In a mixed economy, both the government (public sector) and private individuals/firms (private sector) play roles in resource allocation."
+},
+{
+"q": "The coefficient of price elasticity of demand for a necessity is usually _____.",
+"opts": [
+"greater than 1",
+"less than 1",
+"equal to 1",
+"equal to infinity"
+],
+"ans": 1,
+"explanation": "Necessities have inelastic demand because consumers will still buy them even if the price rises significantly."
+},
+{
+"q": "An increase in the price of a complement good will cause the demand for the main good to _____.",
+"opts": [
+"increase",
+"decrease",
+"remain constant",
+"become perfectly elastic"
+],
+"ans": 1,
+"explanation": "Complements are used together (e.g., Car and Petrol). If petrol gets very expensive, the demand for cars will likely fall."
+},
+{
+"q": "Which of the following is a 'near money' asset?",
+"opts": [
+"Currency notes",
+"Savings account balance",
+"Commodity money",
+"Credit cards"
+],
+"ans": 1,
+"explanation": "Near money refers to assets that are highly liquid and can be easily converted into cash, but are not immediately used as a medium of exchange."
+},
+{
+"q": "The 'Laffer Curve' shows the relationship between _____.",
+"opts": [
+"inflation and unemployment",
+"tax rates and tax revenue",
+"income and consumption",
+"price and quantity supplied"
+],
+"ans": 1,
+"explanation": "It suggests that there is an optimal tax rate that maximizes revenue; too high a rate can actually decrease revenue by discouraging work."
+},
+{
+"q": "Economic development differs from economic growth because development involves _____.",
+"opts": [
+"only an increase in GDP",
+"structural and qualitative changes in the economy",
+"an increase in the money supply",
+"a decrease in international trade"
+],
+"ans": 1,
+"explanation": "Growth is purely quantitative (more output), while development includes improvements in literacy, healthcare, and living standards."
+},
+{
+"q": "Privatization is the policy of _____.",
+"opts": [
+"selling government-owned enterprises to private individuals",
+"government taking over private businesses",
+"reducing taxes on private firms",
+"increasing government control over the economy"
+],
+"ans": 0,
+"explanation": "It is the transfer of ownership, property, or business from the public sector to the private sector."
+},
+{
+"q": "The World Bank is primarily concerned with _____.",
+"opts": [
+"short-term balance of payment loans",
+"long-term loans for developmental projects",
+"controlling global inflation",
+"regulating international trade"
+],
+"ans": 1,
+"explanation": "While the IMF handles short-term currency crises, the World Bank provides financial and technical assistance for capital projects in developing countries."
+},
+{
+"q": "A 'Giffen good' is an exception to the law of _____.",
+"opts": [
+"Supply",
+"Demand",
+"Diminishing returns",
+"Comparative advantage"
+],
+"ans": 1,
+"explanation": "For Giffen goods, demand increases as the price increases, which violates the standard Law of Demand."
+},
+{
+"q": "What is the median of the following scores: 12, 15, 10, 20, 18?",
+"opts": [
+"10",
+"15",
+"12",
+"18"
+],
+"ans": 1,
+"explanation": "First, arrange in order: 10, 12, 15, 18, 20. The middle value is 15."
+},
+{
+"q": "Tax evasion is _____.",
+"opts": [
+"reducing tax liability through legal means",
+"illegal non-payment or underpayment of taxes",
+"paying taxes ahead of time",
+"a type of indirect tax"
+],
+"ans": 1,
+"explanation": "Tax evasion is a criminal act, whereas tax avoidance is the legal use of the tax regime to your advantage."
+},
+{
+"q": "The labour force of a country consists of _____.",
+"opts": [
+"the total population",
+"everyone who wants to work",
+"the population aged 15-64 who are willing and able to work",
+"only those who are currently employed"
+],
+"ans": 2,
+"explanation": "The labour force includes both the employed and the unemployed who are actively seeking work within the productive age bracket."
+},
+{
+"q": "Which of the following is a cause of rural-urban migration in Nigeria?",
+"opts": [
+"Better agricultural land in cities",
+"Search for better social amenities and jobs",
+"Lower cost of living in cities",
+"Higher air pollution in rural areas"
+],
+"ans": 1,
+"explanation": "The concentration of infrastructure, healthcare, education, and industries in cities 'pulls' people from rural areas."
+},
+{
+"q": "The 'liquidity ratio' is the percentage of _____.",
+"opts": [
+"deposits a bank must keep in cash or liquid assets",
+"profits a bank must pay as tax",
+"loans a bank must give to farmers",
+"interest a bank must pay to savers"
+],
+"ans": 0,
+"explanation": "It is a requirement set by the Central Bank to ensure that commercial banks have enough cash to meet their customers' withdrawal demands."
+},
+{
+"q": "The 'petro-dollar' refers to _____.",
+"opts": [
+"currency used only in oil-producing countries",
+"US dollars earned from the export of petroleum",
+"a new currency for OPEC nations",
+"the cost of refining oil in Nigeria"
+],
+"ans": 1,
+"explanation": "Because oil is priced and traded globally in US dollars, the revenue earned by oil exporters is called petro-dollars."
+},
+{
+"q": "In a capitalist economy, resources are allocated by _____.",
+"opts": [
+"the central planning committee",
+"the price mechanism",
+"religious leaders",
+"the military"
+],
+"ans": 1,
+"explanation": "The price mechanism (the interaction of supply and demand) determines what is produced, how, and for whom."
+}
+]
