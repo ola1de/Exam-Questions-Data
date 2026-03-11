@@ -1,1 +1,422 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "The basic unit of classification of living things is the _____.",
+"opts": ["Genus", "Species", "Phylum", "Kingdom"],
+"ans": 1,
+"explanation": "Species is the lowest and most basic unit of classification, consisting of organisms that can interbreed to produce fertile offspring."
+},
+{
+"q": "Which of the following organelles is known as the powerhouse of the cell?",
+"opts": ["Nucleus", "Ribosome", "Mitochondrion", "Chloroplast"],
+"ans": 2,
+"explanation": "The mitochondrion is where aerobic respiration occurs, generating ATP which provides energy for cellular activities."
+},
+{
+"q": "The movement of water molecules from a region of higher concentration to a region of lower concentration through a semi-permeable membrane is _____.",
+"opts": ["Diffusion", "Osmosis", "Active transport", "Plasmolysis"],
+"ans": 1,
+"explanation": "Osmosis specifically refers to the movement of solvent (water) across a selectively permeable membrane."
+},
+{
+"q": "Which of these organisms exhibits holozoic nutrition?",
+"opts": ["Mushroom", "Amoeba", "Spirogyra", "Tapeworm"],
+"ans": 1,
+"explanation": "Amoeba engulfs solid food particles (phagocytosis), which is a characteristic of holozoic nutrition."
+},
+{
+"q": "The enzyme in the saliva that starts the digestion of starch is _____.",
+"opts": ["Pepsin", "Rennin", "Ptyalin", "Lipase"],
+"ans": 2,
+"explanation": "Ptyalin (salivary amylase) breaks down cooked starch into maltose in the mouth."
+},
+{
+"q": "Which of the following is a function of the liver?",
+"opts": ["Production of insulin", "Storage of iron", "Filtration of urea", "Production of digestive enzymes"],
+"ans": 1,
+"explanation": "The liver stores iron from the breakdown of old red blood cells. Insulin is produced by the pancreas."
+},
+{
+"q": "In photosynthesis, the light-dependent reaction occurs in the _____.",
+"opts": ["Stroma", "Grana", "Cytoplasm", "Nucleolus"],
+"ans": 1,
+"explanation": "The chlorophyll needed to trap light energy is located in the thylakoid membranes which make up the grana."
+},
+{
+"q": "The deficiency of Vitamin K leads to _____.",
+"opts": ["Night blindness", "Beri-beri", "Scurvy", "Poor blood clotting"],
+"ans": 3,
+"explanation": "Vitamin K is essential for the synthesis of prothrombin, a protein necessary for blood coagulation."
+},
+{
+"q": "Which part of the brain is responsible for the maintenance of posture and balance?",
+"opts": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+"ans": 1,
+"explanation": "The cerebellum coordinates muscular activities and maintains body equilibrium and posture."
+},
+{
+"q": "The structural and functional unit of the nervous system is the _____.",
+"opts": ["Nephron", "Neuron", "Axon", "Dendrite"],
+"ans": 1,
+"explanation": "Neurons are the specialized cells that transmit nerve impulses throughout the body."
+},
+{
+"q": "The type of joint found at the shoulder and hip is the _____.",
+"opts": ["Hinge joint", "Suture joint", "Ball and socket joint", "Gliding joint"],
+"ans": 2,
+"explanation": "Ball and socket joints allow for rotational movement in many directions."
+},
+{
+"q": "Which of the following is an excretory organ in insects?",
+"opts": ["Flame cells", "Nephridia", "Malpighian tubules", "Contractile vacuole"],
+"ans": 2,
+"explanation": "Malpighian tubules remove nitrogenous wastes from the hemolymph of insects."
+},
+{
+"q": "The gaseous exchange in terrestrial insects occurs through the _____.",
+"opts": ["Gills", "Lungs", "Tracheal system", "Cell membrane"],
+"ans": 2,
+"explanation": "Insects use a system of tubes called tracheae that open to the outside via spiracles for gas exchange."
+},
+{
+"q": "Which of the following blood cells is responsible for the transport of oxygen?",
+"opts": ["Leucocytes", "Thrombocytes", "Erythrocytes", "Phagocytes"],
+"ans": 2,
+"explanation": "Erythrocytes (red blood cells) contain hemoglobin which binds to and transports oxygen."
+},
+{
+"q": "The process by which plants lose water in the form of vapor through the stomata is _____.",
+"opts": ["Guttation", "Transpiration", "Evaporation", "Osmosis"],
+"ans": 1,
+"explanation": "Transpiration is the loss of water vapor from the aerial parts of plants, mainly through the leaves."
+},
+{
+"q": "A person with blood group AB is called a universal recipient because _____.",
+"opts": ["They lack antigens A and B", "They have both antibodies a and b", "They lack antibodies in the plasma", "They have Antigen O"],
+"ans": 2,
+"explanation": "Blood group AB has no anti-A or anti-B antibodies in the plasma, so it can receive blood from any other group without agglutination."
+},
+{
+"q": "The hormone that regulates the blood sugar level is _____.",
+"opts": ["Adrenaline", "Thyroxine", "Insulin", "Auxin"],
+"ans": 2,
+"explanation": "Insulin, produced by the Islets of Langerhans in the pancreas, lowers blood glucose levels."
+},
+{
+"q": "The phenotype of an individual is defined as the _____.",
+"opts": ["Genetic makeup", "Physical appearance", "Number of chromosomes", "Allele frequency"],
+"ans": 1,
+"explanation": "Phenotype refers to the observable characteristics resulting from the interaction of the genotype and the environment."
+},
+{
+"q": "In a cross between a homozygous tall plant (TT) and a homozygous dwarf plant (tt), the F1 generation will be _____.",
+"opts": ["All dwarf", "All tall", "50% tall, 50% dwarf", "75% tall, 25% dwarf"],
+"ans": 1,
+"explanation": "The cross TT x tt results in all offspring having the genotype Tt. Since Tall (T) is dominant, all will appear tall."
+},
+{
+"q": "Which of these is a vestigial organ in humans?",
+"opts": ["Appendix", "Liver", "Pancreas", "Kidney"],
+"ans": 0,
+"explanation": "The vermiform appendix is considered vestigial because it has lost its primary function in human digestion compared to ancestors."
+},
+{
+"q": "The sequence of energy flow in an ecosystem is _____.",
+"opts": ["Producer -> Herbivore -> Carnivore", "Producer -> Carnivore -> Herbivore", "Herbivore -> Producer -> Carnivore", "Carnivore -> Herbivore -> Producer"],
+"ans": 0,
+"explanation": "Energy flows from primary producers (plants) to primary consumers (herbivores) and then to secondary consumers (carnivores)."
+},
+{
+"q": "Which of the following is a biotic factor in an ecosystem?",
+"opts": ["Temperature", "Soil pH", "Predation", "Rainfall"],
+"ans": 2,
+"explanation": "Biotic factors are living components; predation involves interactions between living organisms."
+},
+{
+"q": "The process by which nitrogen in the air is converted into nitrates by bacteria is _____.",
+"opts": ["Nitrification", "Nitrogen fixation", "Denitrification", "Putrefaction"],
+"ans": 1,
+"explanation": "Nitrogen fixation is the conversion of atmospheric nitrogen into compounds like ammonia or nitrates by bacteria like Rhizobium."
+},
+{
+"q": "Which of the following is a dry indehiscent fruit?",
+"opts": ["Legume", "Capsule", "Caryopsis", "Schizocarp"],
+"ans": 2,
+"explanation": "Caryopsis (e.g., maize grain) is a dry fruit that does not split open (indehiscent) when ripe."
+},
+{
+"q": "The part of the flower that develops into a seed after fertilization is the _____.",
+"opts": ["Ovary", "Ovule", "Stigma", "Style"],
+"ans": 1,
+"explanation": "The ovule becomes the seed, while the ovary becomes the fruit."
+},
+{
+"q": "Anaerobic respiration in yeast produces _____.",
+"opts": ["Lactic acid and Energy", "Ethanol and Carbon dioxide", "Water and Carbon dioxide", "Glucose and Oxygen"],
+"ans": 1,
+"explanation": "In yeast, fermentation (anaerobic respiration) yields ethanol (alcohol) and CO2."
+},
+{
+"q": "The instrument used to measure the rate of transpiration is the _____.",
+"opts": ["Photometer", "Potometer", "Hygrometer", "Anemometer"],
+"ans": 1,
+"explanation": "A potometer measures the rate of water uptake, which is almost equal to the rate of transpiration."
+},
+{
+"q": "Which of these is a function of the skeleton?",
+"opts": ["Digestion", "Protection of delicate organs", "Excretion", "Nerve impulse transmission"],
+"ans": 1,
+"explanation": "The skeleton (e.g., skull, ribs) protects organs like the brain, heart, and lungs."
+},
+{
+"q": "The functional unit of the kidney is the _____.",
+"opts": ["Ureter", "Nephron", "Bladder", "Cortex"],
+"ans": 1,
+"explanation": "The nephron is the microscopic structure responsible for filtration, reabsorption, and urine formation."
+},
+{
+"q": "Which of the following is an example of continuous variation?",
+"opts": ["Blood groups", "Tongue rolling", "Height", "Sex"],
+"ans": 2,
+"explanation": "Height shows a range of values with no distinct categories, which is characteristic of continuous variation."
+},
+{
+"q": "The symbiotic relationship between a fungus and an alga is known as _____.",
+"opts": ["Mycorrhiza", "Lichen", "Commensalism", "Parasitism"],
+"ans": 1,
+"explanation": "Lichen is a mutualistic association where the alga provides food and the fungus provides shelter and water."
+},
+{
+"q": "A group of similar cells performing a specific function is called a/an _____.",
+"opts": ["Organ", "System", "Tissue", "Organism"],
+"ans": 2,
+"explanation": "Tissues are collections of similar cells that work together to perform a specific task (e.g., muscle tissue)."
+},
+{
+"q": "The site of lipid synthesis in the cell is the _____.",
+"opts": ["Rough Endoplasmic Reticulum", "Smooth Endoplasmic Reticulum", "Golgi apparatus", "Lysosome"],
+"ans": 1,
+"explanation": "The Smooth ER is primarily involved in the synthesis of lipids and steroids, unlike the Rough ER which has ribosomes for protein synthesis."
+},
+{
+"q": "Which of the following is a characteristic of wind-pollinated flowers?",
+"opts": ["Large brightly colored petals", "Sticky pollens", "Long feathery stigmas", "Presence of nectar"],
+"ans": 2,
+"explanation": "Feathery stigmas provide a large surface area to catch pollen grains blowing in the wind."
+},
+{
+"q": "The mammalian heart is described as myogenic because _____.",
+"opts": ["It is controlled by nerves", "The contraction starts within the muscle itself", "It requires oxygen", "It has four chambers"],
+"ans": 1,
+"explanation": "Myogenic means the heartbeat originates in the muscle tissue (SA node) rather than being initiated by external nerve impulses."
+},
+{
+"q": "Which of the following is a polysaccharide?",
+"opts": ["Glucose", "Sucrose", "Cellulose", "Fructose"],
+"ans": 2,
+"explanation": "Cellulose is a complex carbohydrate made of many glucose units. Glucose and fructose are monosaccharides; sucrose is a disaccharide."
+},
+{
+"q": "The process of maintaining a constant internal environment is _____.",
+"opts": ["Metabolism", "Homeostasis", "Osmoregulation", "Thermoregulation"],
+"ans": 1,
+"explanation": "Homeostasis involves various mechanisms that keep the body's internal conditions (temperature, pH, water) stable."
+},
+{
+"q": "The hormone that stimulates the 'fight or flight' response is _____.",
+"opts": ["Thyroxine", "Adrenaline", "Estrogen", "Prolactin"],
+"ans": 1,
+"explanation": "Adrenaline (epinephrine) is released by the adrenal glands during stress to prepare the body for immediate action."
+},
+{
+"q": "Which of the following is a function of the amniotic fluid?",
+"opts": ["Exchange of gases", "Protection against shock", "Supply of nutrients", "Removal of waste"],
+"ans": 1,
+"explanation": "Amniotic fluid acts as a cushion/shock absorber for the developing fetus."
+},
+{
+"q": "The part of the eye that contains light-sensitive cells is the _____.",
+"opts": ["Sclera", "Choroid", "Retina", "Iris"],
+"ans": 2,
+"explanation": "The retina contains photoreceptors (rods and cones) that convert light into nerve impulses."
+},
+{
+"q": "Plants that are adapted to live in dry habitats are called _____.",
+"opts": ["Hydrophytes", "Mesophytes", "Xerophytes", "Halophytes"],
+"ans": 2,
+"explanation": "Xerophytes have adaptations like thick cuticles and sunken stomata to conserve water in arid conditions."
+},
+{
+"q": "The theory of use and disuse was proposed by _____.",
+"opts": ["Charles Darwin", "Jean Lamarck", "Gregor Mendel", "Alfred Wallace"],
+"ans": 1,
+"explanation": "Lamarck suggested that organs used frequently become more developed, while those not used degenerate."
+},
+{
+"q": "Which of the following is a social insect?",
+"opts": ["Housefly", "Mosquito", "Termite", "Cockroach"],
+"ans": 2,
+"explanation": "Termites live in colonies with a division of labor (queen, king, soldiers, workers)."
+},
+{
+"q": "The dental formula of an adult human is _____.",
+"opts": ["2:1:2:3 / 2:1:2:3", "2:1:0:2 / 2:1:0:2", "3:1:4:3 / 3:1:4:3", "2:1:3:3 / 2:1:3:3"],
+"ans": 0,
+"explanation": "The human adult dental formula (half of each jaw) is 2 Incisors, 1 Canine, 2 Premolars, and 3 Molars."
+},
+{
+"q": "The type of placentation found in a tomato fruit is _____.",
+"opts": ["Marginal", "Parietal", "Axile", "Free-central"],
+"ans": 2,
+"explanation": "In axile placentation, the carpels are fused and the ovules are attached to the central axis of a multi-locular ovary."
+},
+{
+"q": "Which of the following is NOT a characteristic of a respiratory surface?",
+"opts": ["Thin membrane", "Moist surface", "Small surface area", "Rich blood supply"],
+"ans": 2,
+"explanation": "A large surface area is required for efficient gas exchange, not a small one."
+},
+{
+"q": "The movement of plant parts in response to the direction of a light stimulus is _____.",
+"opts": ["Phototropism", "Phototaxis", "Photonasty", "Hydrotropism"],
+"ans": 0,
+"explanation": "Phototropism is a growth movement where the direction is determined by the direction of light."
+},
+{
+"q": "The primary structure for hearing in the mammalian ear is the _____.",
+"opts": ["Pinna", "Ossicles", "Cochlea", "Semicircular canals"],
+"ans": 2,
+"explanation": "The cochlea contains the Organ of Corti, which converts sound vibrations into nerve impulses."
+},
+{
+"q": "In the process of succession, the first organisms to colonize a bare rock are called _____.",
+"opts": ["Climax community", "Pioneer species", "Secondary consumers", "Seral stages"],
+"ans": 1,
+"explanation": "Pioneer species (like lichens) are the first to inhabit a previously uncolonized area."
+},
+{
+"q": "A lack of iodine in the diet leads to the swelling of the neck known as _____.",
+"opts": ["Rickets", "Scurvy", "Goiter", "Anemia"],
+"ans": 2,
+"explanation": "Iodine is needed for thyroxine production; without it, the thyroid gland enlarges (goiter)."
+},
+{
+"q": "The stage of mitosis where chromosomes align at the equator of the cell is _____.",
+"opts": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+"ans": 1,
+"explanation": "During metaphase, spindle fibers pull chromosomes to the center (equatorial plate)."
+},
+{
+"q": "Which of the following is a product of excretion in plants?",
+"opts": ["Oxygen", "Carbon dioxide", "Tannins", "All of the above"],
+"ans": 3,
+"explanation": "Plants excrete oxygen (from photosynthesis), CO2 (from respiration), and secondary metabolites like tannins and resins."
+},
+{
+"q": "The part of the flower that receives pollen grains during pollination is the _____.",
+"opts": ["Anther", "Filament", "Stigma", "Style"],
+"ans": 2,
+"explanation": "The stigma is the sticky/feathery top of the carpel designed to catch pollen."
+},
+{
+"q": "The vector for the parasite Plasmodium is the _____.",
+"opts": ["Female Anopheles mosquito", "Male Anopheles mosquito", "Tsetse fly", "Housefly"],
+"ans": 0,
+"explanation": "Only the female Anopheles mosquito sucks blood and transmits the malaria parasite."
+},
+{
+"q": "A cell that is placed in a hypertonic solution will become _____.",
+"opts": ["Turgid", "Flaccid", "Plasmolysed", "Swollen"],
+"ans": 2,
+"explanation": "In a hypertonic solution (higher concentration), water leaves the cell, causing the cytoplasm to shrink away from the cell wall (plasmolysis)."
+},
+{
+"q": "The study of the relationship between a single species and its environment is _____.",
+"opts": ["Synecology", "Autecology", "Ecology", "Ethology"],
+"ans": 1,
+"explanation": "Autecology focuses on individual species, while synecology focuses on communities."
+},
+{
+"q": "Which of the following is a sex-linked character?",
+"opts": ["Albinism", "Color blindness", "Sickle cell anemia", "Polydactyly"],
+"ans": 1,
+"explanation": "Color blindness is carried on the X-chromosome and is more common in males."
+},
+{
+"q": "The process by which complex food substances are broken down into simpler soluble forms is _____.",
+"opts": ["Absorption", "Assimilation", "Digestion", "Egestion"],
+"ans": 2,
+"explanation": "Digestion is the mechanical and chemical breakdown of food."
+},
+{
+"q": "The blood vessel that carries deoxygenated blood from the heart to the lungs is the _____.",
+"opts": ["Aorta", "Pulmonary vein", "Pulmonary artery", "Vena cava"],
+"ans": 2,
+"explanation": "The pulmonary artery is the only artery that carries deoxygenated blood."
+},
+{
+"q": "The small gap between two neurons where neurotransmitters are released is the _____.",
+"opts": ["Axon", "Myelin sheath", "Synapse", "Node of Ranvier"],
+"ans": 2,
+"explanation": "Impulses cross the synaptic cleft via chemical messengers called neurotransmitters."
+},
+{
+"q": "The vitamin that helps in the absorption of calcium in the body is _____.",
+"opts": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+"ans": 3,
+"explanation": "Vitamin D is essential for bone health as it facilitates calcium absorption from the gut."
+},
+{
+"q": "Which of the following is a kidney disease?",
+"opts": ["Hepatitis", "Nephritis", "Asthma", "Diabetes insipidus"],
+"ans": 1,
+"explanation": "Nephritis is the inflammation of the nephrons in the kidney."
+},
+{
+"q": "The enzyme pepsin acts on proteins in the _____.",
+"opts": ["Mouth", "Stomach", "Duodenum", "Ileum"],
+"ans": 1,
+"explanation": "Pepsin is secreted by gastric glands in the stomach and works best in acidic pH."
+},
+{
+"q": "The green pigment found in plants that traps solar energy is _____.",
+"opts": ["Carotene", "Xanthophyll", "Chlorophyll", "Anthocyanin"],
+"ans": 2,
+"explanation": "Chlorophyll is the primary pigment responsible for photosynthesis."
+},
+{
+"q": "Which of the following is a function of the placenta?",
+"opts": ["Protection from mechanical injury", "Exchange of materials between mother and fetus", "Production of red blood cells", "Movement of the fetus"],
+"ans": 1,
+"explanation": "The placenta allows nutrients and oxygen to pass to the fetus and waste products to pass to the mother."
+},
+{
+"q": "The type of evolution where different species develop similar traits due to similar environments is _____.",
+"opts": ["Divergent evolution", "Convergent evolution", "Adaptive radiation", "Parallel evolution"],
+"ans": 1,
+"explanation": "Convergent evolution leads to analogous structures, like wings in birds and insects."
+},
+{
+"q": "The maintenance of the osmotic pressure of blood is primarily the work of the _____.",
+"opts": ["Liver", "Lungs", "Kidney", "Skin"],
+"ans": 2,
+"explanation": "Kidneys regulate the amount of water and salts in the blood (osmoregulation)."
+},
+{
+"q": "A food chain always begins with a/an _____.",
+"opts": ["Decomposer", "Consumer", "Producer", "Omnivore"],
+"ans": 2,
+"explanation": "Producers (autotrophs) are the foundation of any food chain as they capture energy from the sun."
+},
+{
+"q": "The structure in the mammalian ear that is responsible for balance is the _____.",
+"opts": ["Cochlea", "Eustachian tube", "Semicircular canals", "Ear drum"],
+"ans": 2,
+"explanation": "The semicircular canals detect changes in head position and maintain equilibrium."
+},
+{
+"q": "Which of the following describes the genotype of a female with Turner syndrome?",
+"opts": ["XXY", "XYY", "XO", "XXX"],
+"ans": 2,
+"explanation": "Turner syndrome is a chromosomal abnormality where a female has only one X chromosome (XO)."
+}
+]
