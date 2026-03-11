@@ -1,1 +1,779 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "The first generation of computers used _____ as their primary electronic component.",
+"opts": [
+"Vacuum Tubes",
+"Transistors",
+"Integrated Circuits",
+"Microprocessors"
+],
+"ans": 0,
+"explanation": "First-generation computers (1940-1956) relied on vacuum tubes for circuitry and magnetic drums for memory, making them bulky and expensive."
+},
+{
+"q": "Which of the following is an example of an Operating System?",
+"opts": [
+"Microsoft Word",
+"Linux",
+"Google Chrome",
+"Oracle"
+],
+"ans": 1,
+"explanation": "Linux is a system software (Operating System) that manages computer hardware and software resources. The others are application softwares."
+},
+{
+"q": "The binary equivalent of the decimal number 10 is _____.",
+"opts": [
+"1001",
+"1010",
+"1100",
+"1111"
+],
+"ans": 1,
+"explanation": "To convert 10 to binary: 10/2 = 5 R 0; 5/2 = 2 R 1; 2/2 = 1 R 0; 1/2 = 0 R 1. Reading remainders from bottom to top gives 1010."
+},
+{
+"q": "Which part of the CPU is responsible for performing mathematical calculations?",
+"opts": [
+"Control Unit",
+"Registers",
+"Arithmetic and Logic Unit",
+"Cache Memory"
+],
+"ans": 2,
+"explanation": "The Arithmetic and Logic Unit (ALU) performs all arithmetic (addition, subtraction) and logical (comparisons) operations."
+},
+{
+"q": "A collection of 8 bits is known as a _____.",
+"opts": [
+"Nibble",
+"Byte",
+"Word",
+"Kilobyte"
+],
+"ans": 1,
+"explanation": "A byte is a unit of data that is eight binary digits long. A nibble is 4 bits."
+},
+{
+"q": "Which logic gate produces an output of 1 only when all its inputs are 1?",
+"opts": [
+"OR gate",
+"AND gate",
+"NOT gate",
+"NAND gate"
+],
+"ans": 1,
+"explanation": "In an AND gate, the output is high (1) if and only if all the input signals are high (1)."
+},
+{
+"q": "The primary purpose of a modem is to _____.",
+"opts": [
+"Store data",
+"Convert signals between analog and digital",
+"Speed up the CPU",
+"Clean the computer of viruses"
+],
+"ans": 1,
+"explanation": "A modem (modulator-demodulator) converts digital signals from a computer into analog signals for transmission over telephone lines and vice versa."
+},
+{
+"q": "In Microsoft Excel, the intersection of a row and a column is called a _____.",
+"opts": [
+"Box",
+"Table",
+"Cell",
+"Range"
+],
+"ans": 2,
+"explanation": "A cell is the basic unit of a spreadsheet where data is entered, identified by a column letter and row number (e.g., A1)."
+},
+{
+"q": "Which of the following is a permanent storage device?",
+"opts": [
+"RAM",
+"Cache",
+"Hard Disk Drive",
+"Registers"
+],
+"ans": 2,
+"explanation": "Hard Disk Drives are non-volatile storage, meaning they retain data even when the power is turned off. RAM and Cache are volatile."
+},
+{
+"q": "The process of starting or restarting a computer is known as _____.",
+"opts": [
+"Loading",
+"Booting",
+"Processing",
+"Executing"
+],
+"ans": 1,
+"explanation": "Booting is the initial set of operations that a computer system performs when electrical power is switched on."
+},
+{
+"q": "Which networking topology connects all devices to a single central cable?",
+"opts": [
+"Star",
+"Bus",
+"Ring",
+"Mesh"
+],
+"ans": 1,
+"explanation": "In a bus topology, all nodes are connected to a main transmission line (backbone)."
+},
+{
+"q": "HTTP stands for _____.",
+"opts": [
+"Hypertext Transfer Protocol",
+"Hyperlink Text Technical Program",
+"High Tech Transfer Protocol",
+"Hypertext Total Process"
+],
+"ans": 0,
+"explanation": "HTTP is the standard protocol used to transfer data over the World Wide Web."
+},
+{
+"q": "A unique field in a database table that identifies each record is called a _____.",
+"opts": [
+"Foreign Key",
+"Primary Key",
+"Composite Key",
+"Candidate Key"
+],
+"ans": 1,
+"explanation": "The Primary Key is a column or set of columns that uniquely identifies every row in a table."
+},
+{
+"q": "Which of the following is an input device?",
+"opts": [
+"Monitor",
+"Printer",
+"Scanner",
+"Speaker"
+],
+"ans": 2,
+"explanation": "A scanner is an input device that captures images from photographic prints, posters, and similar sources for computer editing."
+},
+{
+"q": "The high-level programming language developed for business data processing is _____.",
+"opts": [
+"FORTRAN",
+"COBOL",
+"BASIC",
+"Pascal"
+],
+"ans": 1,
+"explanation": "COBOL (Common Business-Oriented Language) was designed specifically for business, finance, and administrative systems."
+},
+{
+"q": "What is the result of the binary addition 1 + 1?",
+"opts": [
+"2",
+"10",
+"11",
+"0"
+],
+"ans": 1,
+"explanation": "In binary, 1+1 equals 0 with a carry of 1, represented as 10 (which is the binary for decimal 2)."
+},
+{
+"q": "Malicious software designed to infiltrate or damage a computer system is called _____.",
+"opts": [
+"Firmware",
+"Shareware",
+"Malware",
+"Freeware"
+],
+"ans": 2,
+"explanation": "Malware is a broad term that includes viruses, worms, trojans, and spyware."
+},
+{
+"q": "In a database, a row is also referred to as a _____.",
+"opts": [
+"Field",
+"Record",
+"Table",
+"Data type"
+],
+"ans": 1,
+"explanation": "A record (or row) contains a complete set of data for a single entity in a database table."
+},
+{
+"q": "Which of the following units is used to measure CPU speed?",
+"opts": [
+"Gigabytes",
+"Hertz",
+"Pixels",
+"Bps"
+],
+"ans": 1,
+"explanation": "CPU speed is measured in cycles per second, known as Hertz (typically MHz or GHz)."
+},
+{
+"q": "The software that translates high-level code into machine code line by line is a/an _____.",
+"opts": [
+"Compiler",
+"Interpreter",
+"Assembler",
+"Linker"
+],
+"ans": 1,
+"explanation": "An interpreter translates and executes code one statement at a time, whereas a compiler translates the whole program at once."
+},
+{
+"q": "Which layer of the OSI model is responsible for routing data packets?",
+"opts": [
+"Data Link Layer",
+"Network Layer",
+"Transport Layer",
+"Physical Layer"
+],
+"ans": 1,
+"explanation": "The Network Layer handles the addressing and routing of data packets across different networks."
+},
+{
+"q": "A network that covers a small geographical area like a single office is a _____.",
+"opts": [
+"WAN",
+"MAN",
+"LAN",
+"PAN"
+],
+"ans": 2,
+"explanation": "Local Area Network (LAN) is used to connect computers within a small area like a room or a building."
+},
+{
+"q": "The hexadecimal number system uses base _____.",
+"opts": [
+"2",
+"8",
+"10",
+"16"
+],
+"ans": 3,
+"explanation": "Hexadecimal uses sixteen distinct symbols: 0–9 and A–F."
+},
+{
+"q": "Which of the following is used to uniquely identify a computer on the internet?",
+"opts": [
+"MAC Address",
+"IP Address",
+"URL",
+"HTML"
+],
+"ans": 1,
+"explanation": "An IP Address is a numerical label assigned to each device participating in a computer network that uses the Internet Protocol."
+},
+{
+"q": "In HTML, which tag is used to create a hyperlink?",
+"opts": [
+"<link>",
+"<a>",
+"<href>",
+"<u>"
+],
+"ans": 1,
+"explanation": "The <a> (anchor) tag is used to define a hyperlink, which links one page to another."
+},
+{
+"q": "Which memory type must be constantly refreshed to retain data?",
+"opts": [
+"SRAM",
+"DRAM",
+"ROM",
+"Flash Memory"
+],
+"ans": 1,
+"explanation": "Dynamic RAM (DRAM) uses capacitors that leak charge and thus must be refreshed periodically."
+},
+{
+"q": "The shortcut key to 'Paste' a copied item in Windows is _____.",
+"opts": [
+"Ctrl + C",
+"Ctrl + X",
+"Ctrl + V",
+"Ctrl + P"
+],
+"ans": 2,
+"explanation": "Ctrl + V is the standard Windows keyboard shortcut for pasting data from the clipboard."
+},
+{
+"q": "A pre-defined formula in Excel is known as a _____.",
+"opts": [
+"Variable",
+"Function",
+"Argument",
+"Operator"
+],
+"ans": 1,
+"explanation": "Functions (like SUM, AVERAGE) are built-in formulas in Excel that perform specific calculations."
+},
+{
+"q": "The act of pretending to be a trustworthy entity to steal sensitive information online is called _____.",
+"opts": [
+"Spamming",
+"Phishing",
+"Hacking",
+"Cracking"
+],
+"ans": 1,
+"explanation": "Phishing involves sending fraudulent communications (like emails) that appear to come from a reputable source."
+},
+{
+"q": "Which computer generation introduced the use of Integrated Circuits (ICs)?",
+"opts": [
+"Second",
+"Third",
+"Fourth",
+"Fifth"
+],
+"ans": 1,
+"explanation": "The third generation (1964-1971) replaced transistors with Integrated Circuits, which increased speed and efficiency."
+},
+{
+"q": "The main circuit board of a computer is the _____.",
+"opts": [
+"Hard drive",
+"Microprocessor",
+"Motherboard",
+"Power Supply"
+],
+"ans": 2,
+"explanation": "The motherboard is the primary printed circuit board that connects all components of a computer system."
+},
+{
+"q": "What does PDF stand for?",
+"opts": [
+"Personal Data File",
+"Portable Document Format",
+"Printable Digital File",
+"Public Document Folder"
+],
+"ans": 1,
+"explanation": "PDF is a file format developed by Adobe to present documents in a manner independent of application software, hardware, and operating systems."
+},
+{
+"q": "The binary system uses only the digits _____.",
+"opts": [
+"1 and 2",
+"0 and 1",
+"0 to 9",
+"A and B"
+],
+"ans": 1,
+"explanation": "Binary is a base-2 number system representing values using only 0 (off) and 1 (on)."
+},
+{
+"q": "Which of the following is a cloud storage service?",
+"opts": [
+"VLC Media Player",
+"Google Drive",
+"WinZip",
+"Adobe Reader"
+],
+"ans": 1,
+"explanation": "Google Drive is a file storage and synchronization service developed by Google."
+},
+{
+"q": "The first phase of the System Development Life Cycle (SDLC) is _____.",
+"opts": [
+"System Design",
+"Feasibility Study",
+"System Implementation",
+"System Analysis"
+],
+"ans": 1,
+"explanation": "SDLC typically begins with Preliminary Investigation or Feasibility Study to determine if the project is worth pursuing."
+},
+{
+"q": "Convert the binary number 111 to decimal.",
+"opts": [
+"3",
+"5",
+"7",
+"9"
+],
+"ans": 2,
+"explanation": "(1 * 2^2) + (1 * 2^1) + (1 * 2^0) = 4 + 2 + 1 = 7."
+},
+{
+"q": "A pixel is _____.",
+"opts": [
+"A computer program",
+"The smallest unit of a digital image",
+"A type of storage device",
+"An internet protocol"
+],
+"ans": 1,
+"explanation": "Pixels are the small dots that make up the images on computer displays."
+},
+{
+"q": "Which of the following is a high-level language?",
+"opts": [
+"Assembly",
+"Machine code",
+"Python",
+"Mnemonics"
+],
+"ans": 2,
+"explanation": "Python is a high-level, interpreted, general-purpose programming language. Assembly and Machine code are low-level."
+},
+{
+"q": "The most widely used input device on a laptop is a _____.",
+"opts": [
+"Joystick",
+"Touchpad",
+"Light pen",
+"Trackball"
+],
+"ans": 1,
+"explanation": "A touchpad is a pointing device featuring a tactile sensor that translates the motion and position of a user's fingers."
+},
+{
+"q": "A website's main page is called the _____.",
+"opts": [
+"First page",
+"Home page",
+"Index",
+"Browser"
+],
+"ans": 1,
+"explanation": "The home page is the introductory page of a website, typically serving as a table of contents."
+},
+{
+"q": "Which device is used to protect a computer system from power surges?",
+"opts": [
+"Inverter",
+"UPS",
+"CPU",
+"VGA"
+],
+"ans": 1,
+"explanation": "An Uninterruptible Power Supply (UPS) provides battery backup when the electrical power fails or drops to an unacceptable voltage level."
+},
+{
+"q": "Which protocol is used for sending emails?",
+"opts": [
+"HTTP",
+"SMTP",
+"FTP",
+"IP"
+],
+"ans": 1,
+"explanation": "Simple Mail Transfer Protocol (SMTP) is the standard protocol for sending emails across the Internet."
+},
+{
+"q": "An 8-bit byte can represent _____ different values.",
+"opts": [
+"8",
+"64",
+"128",
+"256"
+],
+"ans": 3,
+"explanation": "2 raised to the power of 8 (2^8) equals 256."
+},
+{
+"q": "The file extension for a PowerPoint presentation is usually _____.",
+"opts": [
+".docx",
+".xlsx",
+".pptx",
+".txt"
+],
+"ans": 2,
+"explanation": ".pptx is the standard file extension for Microsoft PowerPoint presentations created in versions 2007 and later."
+},
+{
+"q": "Which of the following is an example of an output device?",
+"opts": [
+"Keyboard",
+"Mouse",
+"Plotter",
+"Microphone"
+],
+"ans": 2,
+"explanation": "A plotter is a printer that uses a pen to draw images, commonly used for technical drawings."
+},
+{
+"q": "The brain of the computer system is the _____.",
+"opts": [
+"ALU",
+"Memory",
+"CPU",
+"Control Unit"
+],
+"ans": 2,
+"explanation": "The Central Processing Unit (CPU) is often referred to as the brain because it executes instructions and coordinates all activities."
+},
+{
+"q": "What is the function of the 'Undo' command?",
+"opts": [
+"Delete a file",
+"Reverse the last action",
+"Save a document",
+"Open a new window"
+],
+"ans": 1,
+"explanation": "Undo (Ctrl+Z) allows a user to cancel the most recent command or action performed."
+},
+{
+"q": "Which of the following is a database management system (DBMS)?",
+"opts": [
+"MS Word",
+"MS Access",
+"MS PowerPoint",
+"MS Publisher"
+],
+"ans": 1,
+"explanation": "Microsoft Access is a pseudo-relational database management system."
+},
+{
+"q": "The physical path over which a message travels is called the _____.",
+"opts": [
+"Protocol",
+"Medium",
+"Signal",
+"Topology"
+],
+"ans": 1,
+"explanation": "The transmission medium (e.g., fiber optic cable, wireless) is the physical link between sender and receiver."
+},
+{
+"q": "The base of the Octal number system is _____.",
+"opts": [
+"2",
+"8",
+"10",
+"16"
+],
+"ans": 1,
+"explanation": "Octal uses eight digits: 0, 1, 2, 3, 4, 5, 6, and 7."
+},
+{
+"q": "A program that manages all the other programs in a computer is the _____.",
+"opts": [
+"Utility Software",
+"Operating System",
+"Compiler",
+"Application Software"
+],
+"ans": 1,
+"explanation": "The OS acts as an intermediary between the user and the computer hardware."
+},
+{
+"q": "Which of the following is used for video output?",
+"opts": [
+"VGA",
+"USB",
+"PS/2",
+"RJ-45"
+],
+"ans": 0,
+"explanation": "Video Graphics Array (VGA) is a standard connector for computer video output."
+},
+{
+"q": "The 'logical' part of a computer that you cannot touch is _____.",
+"opts": [
+"Hardware",
+"Software",
+"Peripheral",
+"Memory"
+],
+"ans": 1,
+"explanation": "Software consists of instructions and data that tell the hardware how to work."
+},
+{
+"q": "WWW stands for _____.",
+"opts": [
+"World Wide Web",
+"Web Wide World",
+"Work Wide Web",
+"Word Wide Web"
+],
+"ans": 0,
+"explanation": "The World Wide Web is an information system where documents are identified by URLs."
+},
+{
+"q": "A small image representing a program or file is a/an _____.",
+"opts": [
+"Folder",
+"Icon",
+"Window",
+"Menu"
+],
+"ans": 1,
+"explanation": "Icons are used in Graphical User Interfaces to represent applications, objects, or functions."
+},
+{
+"q": "Which logic gate is also known as an 'Inverter'?",
+"opts": [
+"AND gate",
+"OR gate",
+"NOT gate",
+"XOR gate"
+],
+"ans": 2,
+"explanation": "A NOT gate is called an inverter because it reverses the input signal (1 becomes 0 and vice versa)."
+},
+{
+"q": "What is the maximum data capacity of a standard CD-ROM?",
+"opts": [
+"700 MB",
+"4.7 GB",
+"25 GB",
+"1.44 MB"
+],
+"ans": 0,
+"explanation": "A standard Compact Disc (CD) typically holds 700 MB of data. 4.7 GB is the standard for a DVD."
+},
+{
+"q": "The primary language used to create web pages is _____.",
+"opts": [
+"Python",
+"C++",
+"HTML",
+"Java"
+],
+"ans": 2,
+"explanation": "Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser."
+},
+{
+"q": "Which of the following is a portable computer?",
+"opts": [
+"Mainframe",
+"Supercomputer",
+"Desktop",
+"Tablet"
+],
+"ans": 3,
+"explanation": "Tablets and laptops are designed to be easily carried and used in various locations."
+},
+{
+"q": "A computer on a network that requests resources is called a _____.",
+"opts": [
+"Server",
+"Client",
+"Router",
+"Hub"
+],
+"ans": 1,
+"explanation": "In a client-server model, the client requests services and the server fulfills them."
+},
+{
+"q": "The decimal equivalent of hexadecimal 'A' is _____.",
+"opts": [
+"10",
+"11",
+"12",
+"15"
+],
+"ans": 0,
+"explanation": "In Hexadecimal, A=10, B=11, C=12, D=13, E=14, and F=15."
+},
+{
+"q": "Which utility is used to reduce the size of files to save disk space?",
+"opts": [
+"Antivirus",
+"Defragmenter",
+"Compression",
+"Backup"
+],
+"ans": 2,
+"explanation": "File compression (like ZIP) reduces the file size by encoding data more efficiently."
+},
+{
+"q": "What is the function of the BIOS?",
+"opts": [
+"Word processing",
+"Initialize hardware during booting",
+"Calculate mathematical formulas",
+"Browse the internet"
+],
+"ans": 1,
+"explanation": "Basic Input/Output System (BIOS) is firmware used to perform hardware initialization during the booting process."
+},
+{
+"q": "In computer ethics, 'Copyright' is intended to _____.",
+"opts": [
+"Encourage piracy",
+"Protect original works of authorship",
+"Make software free",
+"Speed up the internet"
+],
+"ans": 1,
+"explanation": "Copyright laws provide legal protection to the creators of intellectual property."
+},
+{
+"q": "Which of the following is a spreadsheet application?",
+"opts": [
+"Lotus 1-2-3",
+"CorelDraw",
+"PowerPoint",
+"Notepad"
+],
+"0": 0,
+"ans": 0,
+"explanation": "Lotus 1-2-3 was a popular spreadsheet program before Excel became dominant."
+},
+{
+"q": "A computer network spanning across a country or the world is a _____.",
+"opts": [
+"LAN",
+"MAN",
+"WAN",
+"SAN"
+],
+"ans": 2,
+"explanation": "Wide Area Network (WAN) connects LANs over long distances using leased telecommunication lines or satellites."
+},
+{
+"q": "The symbols used in a Flowchart to represent a 'Decision' is a _____.",
+"opts": [
+"Rectangle",
+"Diamond",
+"Oval",
+"Parallelogram"
+],
+"ans": 1,
+"explanation": "In flowcharting, a diamond shape represents a conditional operation or decision (Yes/No)."
+},
+{
+"q": "Which of the following is an example of an impact printer?",
+"opts": [
+"Laser printer",
+"Inkjet printer",
+"Dot Matrix printer",
+"Thermal printer"
+],
+"ans": 2,
+"explanation": "Impact printers (like Dot Matrix) function by striking an inked ribbon against the paper."
+},
+{
+"q": "The 'Home Row' on a QWERTY keyboard for the left hand is _____.",
+"opts": [
+"A S D F",
+"J K L ;",
+"Q W E R",
+"Z X C V"
+],
+"ans": 0,
+"explanation": "In touch typing, the home row keys for the left hand are A, S, D, and F."
+},
+{
+"q": "What is the primary function of an Assembler?",
+"opts": [
+"Convert high-level language to machine code",
+"Convert assembly language to machine code",
+"Execute code line by line",
+"Design web pages"
+],
+"ans": 1,
+"explanation": "Assemblers are translators for low-level assembly language programs."
+}
+]
+
+code
+Code
+download
+content_copy
+expand_less
