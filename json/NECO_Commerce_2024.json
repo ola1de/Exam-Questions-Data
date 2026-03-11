@@ -1,1 +1,422 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "The core objective of commerce is the _____ of goods and services.",
+"opts": ["production", "distribution", "warehousing", "consumption"],
+"ans": 1,
+"explanation": "Commerce focuses on the exchange and distribution aspect of economics, ensuring goods move from producers to final consumers."
+},
+{
+"q": "Which of the following is an auxiliary to trade?",
+"opts": ["Mining", "Farming", "Insurance", "Fishing"],
+"ans": 2,
+"explanation": "Insurance is an aid to trade because it helps manage the risks involved in business activities."
+},
+{
+"q": "The process of buying and selling goods within the boundaries of a single country is _____ trade.",
+"opts": ["foreign", "entrepot", "home", "bilateral"],
+"ans": 2,
+"explanation": "Home or internal trade occurs within a specific nation, involving wholesalers and retailers."
+},
+{
+"q": "A person who buys in large quantities from producers and sells in smaller quantities to retailers is a _____.",
+"opts": ["consumer", "wholesaler", "broker", "factor"],
+"ans": 1,
+"explanation": "The wholesaler acts as a middleman between the manufacturer and the retailer, performing the function of 'breaking bulk'."
+},
+{
+"q": "Which of the following is a function of the retailer?",
+"opts": ["Financing the manufacturer", "Providing warehousing for raw materials", "Selling in small units to consumers", "Buying only in bulk"],
+"ans": 2,
+"explanation": "Retailers bridge the gap between wholesalers and final users by selling goods in units that meet consumer needs."
+},
+{
+"q": "A specialized retailer that deals in only one line of products is a _____.",
+"opts": ["supermarket", "department store", "specialty shop", "itinerant trader"],
+"ans": 2,
+"explanation": "Specialty shops focus on a specific niche, such as a pharmacy, a boutique, or a bookshop."
+},
+{
+"q": "The document issued by a seller to a buyer when goods are returned is a _____.",
+"opts": ["debit note", "credit note", "invoice", "pro-forma invoice"],
+"ans": 1,
+"explanation": "A credit note is issued to inform the buyer that their account has been credited for returned or overcharged goods."
+},
+{
+"q": "An 'unpaid seller' has the right of _____ which allows him to keep the goods until the price is paid.",
+"opts": ["stoppage in transit", "lien", "resale", "re-entry"],
+"ans": 1,
+"explanation": "A lien is a legal right to keep possession of property belonging to another person until a debt owed by that person is discharged."
+},
+{
+"q": "The term 'entrepot' trade refers to _____.",
+"opts": ["trading with neighboring countries", "importing goods for re-export", "selling goods on the high seas", "trade by barter"],
+"ans": 1,
+"explanation": "Entrepot trade involves importing goods from one country and exporting them to another without significant processing."
+},
+{
+"q": "Which document is required when goods are to be exported to a country with which the exporter's country has a trade agreement?",
+"opts": ["Bill of Lading", "Consular Invoice", "Certificate of Origin", "Airway Bill"],
+"ans": 2,
+"explanation": "A Certificate of Origin proves the country where goods were manufactured, often used to qualify for lower tariffs."
+},
+{
+"q": "The physical path over which goods are transported by sea is governed by a document called a _____.",
+"opts": ["Shipping Note", "Bill of Lading", "Manifest", "Dock Warrant"],
+"ans": 1,
+"explanation": "The Bill of Lading is a document of title and a contract of carriage for goods shipped by sea."
+},
+{
+"q": "The act of selling goods in a foreign market at a price lower than the cost of production or the price in the home market is _____.",
+"opts": ["hedging", "arbitrage", "dumping", "smuggling"],
+"ans": 2,
+"explanation": "Dumping is a predatory pricing strategy used to gain market share in another country, often seen as unfair competition."
+},
+{
+"q": "Which of the following is a function of the Nigerian Export Promotion Council (NEPC)?",
+"opts": ["Regulating local markets", "Promoting non-oil exports", "Fixing the price of fuel", "Issuing national passports"],
+"ans": 1,
+"explanation": "The NEPC is tasked with diversifying the Nigerian economy by encouraging the export of non-petroleum products."
+},
+{
+"q": "A warehouse used for storing dutiable goods until the customs duties are paid is a _____ warehouse.",
+"opts": ["private", "public", "bonded", "state"],
+"ans": 2,
+"explanation": "Bonded warehouses are controlled by customs authorities; goods cannot be removed until the required taxes are settled."
+},
+{
+"q": "The most suitable mode of transport for bulky and heavy goods over long distances across the ocean is _____.",
+"opts": ["Air", "Rail", "Sea", "Pipeline"],
+"ans": 2,
+"explanation": "Sea transport is cost-effective for large volumes of cargo that do not require rapid delivery."
+},
+{
+"q": "In insurance, the principle of 'Indemnity' means _____.",
+"opts": ["the insured must tell the truth", "the insured must not make a profit from a loss", "only the owner can insure a property", "the cause of loss must be direct"],
+"ans": 1,
+"explanation": "Indemnity ensures the insured is restored to their pre-loss financial position without gaining any extra benefit."
+},
+{
+"q": "The risk that can be calculated and predicted using mathematical models is a/an _____ risk.",
+"opts": ["insurable", "non-insurable", "speculative", "fundamental"],
+"ans": 0,
+"explanation": "Insurable risks are those that insurance companies can estimate using probability and statistics."
+},
+{
+"q": "Which type of insurance policy covers a ship's hull and machinery?",
+"opts": ["Marine Cargo", "Marine Hull", "Third Party", "Life Assurance"],
+"ans": 1,
+"explanation": "Marine Hull insurance specifically covers the physical structure and equipment of the vessel."
+},
+{
+"q": "The fee paid periodically to an insurance company to maintain a policy is the _____.",
+"opts": ["Commission", "Dividend", "Premium", "Interest"],
+"ans": 2,
+"explanation": "The premium is the consideration paid by the insured for the protection provided by the insurer."
+},
+{
+"q": "Advertising that aims at building a company's reputation rather than selling a specific product is _____ advertising.",
+"opts": ["persuasive", "informative", "institutional", "competitive"],
+"ans": 2,
+"explanation": "Institutional or corporate advertising focuses on the image and goodwill of the organization."
+},
+{
+"q": "Which of the following is a medium of outdoor advertising?",
+"opts": ["Radio", "Newspapers", "Billboards", "Magazines"],
+"ans": 2,
+"explanation": "Billboards are placed in public areas to capture the attention of people while they are outside their homes."
+},
+{
+"q": "The method of communication where many people participate in a discussion across different locations via video is _____.",
+"opts": ["telex", "teleconferencing", "e-mail", "paging"],
+"ans": 1,
+"explanation": "Teleconferencing allows for real-time visual and audio interaction between groups in diverse geographic areas."
+},
+{
+"q": "In a partnership business, the liability of 'Limited Partners' is _____.",
+"opts": ["unlimited", "restricted to their capital contribution", "equal to the firm's total debt", "zero"],
+"ans": 1,
+"explanation": "Limited partners are only liable for the amount they have invested in the business, unlike general partners."
+},
+{
+"q": "Which of the following business units is owned and controlled by a single person?",
+"opts": ["Public Limited Company", "Partnership", "Sole Proprietorship", "Cooperative Society"],
+"ans": 2,
+"explanation": "A sole proprietorship (or one-man business) is the simplest form of business ownership."
+},
+{
+"q": "The minimum number of members in a Public Limited Company in Nigeria is _____.",
+"opts": ["2", "7", "50", "unlimited"],
+"ans": 1,
+"explanation": "Under the Companies and Allied Matters Act (CAMA), at least seven persons are required to form a public company."
+},
+{
+"q": "The document that defines the relationship between a company and the outside world is the _____.",
+"opts": ["Articles of Association", "Memorandum of Association", "Prospectus", "Certificate of Trading"],
+"ans": 1,
+"explanation": "The Memorandum of Association outlines the company's objects, name, and powers regarding external parties."
+},
+{
+"q": "A Public Corporation is established by _____.",
+"opts": ["the Registrar of Companies", "an Act of Parliament", "a Deed of Partnership", "a Prospectus"],
+"ans": 1,
+"explanation": "Public corporations (statutory bodies) are created by specific laws to provide essential social or utility services."
+},
+{
+"q": "The profit shared among members of a Cooperative Society based on their patronage is the _____.",
+"opts": ["Interest", "Dividend", "Commission", "Premium"],
+"ans": 1,
+"explanation": "Cooperatives distribute surpluses to members known as dividends, often in proportion to how much the member used the society's services."
+},
+{
+"q": "Which of the following is a disadvantage of a Sole Proprietorship?",
+"opts": ["Quick decision making", "Privacy of accounts", "Lack of continuity", "Low tax rate"],
+"ans": 2,
+"explanation": "Since the business is tied to the owner, the death or illness of the owner often leads to the end of the business."
+},
+{
+"q": "The abbreviation 'PLC' stands for _____.",
+"opts": ["Private Limited Company", "Public Liability Company", "Public Limited Company", "Partnership Limited Company"],
+"ans": 2,
+"explanation": "PLC denotes a company whose shares are available for subscription by the general public."
+},
+{
+"q": "A market for short-term loans and financial instruments like Treasury Bills is the _____ market.",
+"opts": ["Capital", "Commodity", "Money", "Labour"],
+"ans": 2,
+"explanation": "The money market deals with high-liquidity financial assets with a maturity of one year or less."
+},
+{
+"q": "The 'Bear' in the Stock Exchange is a person who _____.",
+"opts": ["expects share prices to rise", "expects share prices to fall", "buys only government bonds", "refuses to sell his shares"],
+"ans": 1,
+"explanation": "A Bear is a pessimistic investor who sells shares in the hope of buying them back later at a lower price."
+},
+{
+"q": "The secondary market where existing shares and stocks are traded is the _____.",
+"opts": ["Commercial Bank", "Central Bank", "Stock Exchange", "Bureau de Change"],
+"ans": 2,
+"explanation": "The Stock Exchange provides a platform for investors to buy and sell already issued securities."
+},
+{
+"q": "Which of the following is a function of the Central Bank of Nigeria?",
+"opts": ["Accepting deposits from the public", "Lending to small businesses", "Issuing legal tender", "Selling consumer goods"],
+"ans": 2,
+"explanation": "The Central Bank has the sole authority to issue and manage the national currency (Naira)."
+},
+{
+"q": "A 'Crossing' on a cheque is intended to _____.",
+"opts": ["make it invalid", "ensure it is paid only into a bank account", "allow it to be cashed over the counter", "increase its value"],
+"ans": 1,
+"explanation": "Crossed cheques provide security because they must be processed through a bank account, creating a paper trail."
+},
+{
+"q": "The automated system that allows customers to withdraw cash outside banking hours is the _____.",
+"opts": ["POS", "E-mail", "ATM", "Telex"],
+"ans": 2,
+"explanation": "Automated Teller Machines (ATMs) provide 24/7 access to basic banking services."
+},
+{
+"q": "A bank account that allows the holder to withdraw more than the balance is a _____ account.",
+"opts": ["Savings", "Current", "Fixed Deposit", "Domiciliary"],
+"ans": 1,
+"explanation": "Current accounts offer overdraft facilities, which allow customers to borrow money on a short-term basis."
+},
+{
+"q": "The principle of 'Caveat Emptor' means _____.",
+"opts": ["the seller must be honest", "let the buyer beware", "goods must be of high quality", "the buyer is always right"],
+"ans": 1,
+"explanation": "It is a legal doctrine that warns the buyer to examine the goods before purchasing, as the seller is not responsible for defects unless stated."
+},
+{
+"q": "Which agency in Nigeria is responsible for the standard and quality of food and drugs?",
+"opts": ["SON", "NAFDAC", "NDLEA", "EFCC"],
+"ans": 1,
+"explanation": "The National Agency for Food and Drug Administration and Control (NAFDAC) regulates and controls the manufacture and sale of food and drugs."
+},
+{
+"q": "The use of computers and the internet to conduct business transactions is _____.",
+"opts": ["E-government", "E-commerce", "E-learning", "E-banking"],
+"ans": 1,
+"explanation": "Electronic commerce (E-commerce) encompasses buying, selling, and marketing goods online."
+},
+{
+"q": "In a contract, an 'Offer' must be followed by _____ for a valid agreement to exist.",
+"opts": ["a rejection", "an acceptance", "a counter-offer", "a lawsuit"],
+"ans": 1,
+"explanation": "Offer and acceptance are the two primary requirements for the formation of a binding contract."
+},
+{
+"q": "A person who is authorized by another to act on their behalf in business dealings is a/an _____.",
+"opts": ["Employee", "Partner", "Agent", "Contractor"],
+"ans": 2,
+"explanation": "The law of agency describes the relationship where an agent acts for a principal."
+},
+{
+"q": "Which of the following is an example of an extractive occupation?",
+"opts": ["Carpentry", "Banking", "Quarrying", "Bricklaying"],
+"ans": 2,
+"explanation": "Extractive occupations involve taking resources directly from the earth or sea."
+},
+{
+"q": "The reward for an entrepreneur for taking risk is _____.",
+"opts": ["Wages", "Interest", "Profit", "Rent"],
+"ans": 2,
+"explanation": "Entrepreneurs organize other factors of production and receive profit as a reward for their management and risk-taking."
+},
+{
+"q": "Which of the following documents is used to move goods from one place to another by road?",
+"opts": ["Invoice", "Waybill", "Debit Note", "Credit Note"],
+"ans": 1,
+"explanation": "A waybill serves as a delivery note and a record of the items being transported by a carrier."
+},
+{
+"q": "The practice of selling off government-owned businesses to private individuals is _____.",
+"opts": ["nationalization", "commercialization", "privatization", "diversification"],
+"ans": 2,
+"explanation": "Privatization is the transfer of ownership from the public sector to the private sector."
+},
+{
+"q": "Which of the following is a component of the 'marketing mix'?",
+"opts": ["Planning", "Product", "Purchase", "Profit"],
+"ans": 1,
+"explanation": "The 4 Ps of marketing are Product, Price, Place, and Promotion."
+},
+{
+"q": "A market where a single buyer dominates the market for a product is a _____.",
+"opts": ["Monopoly", "Oligopoly", "Monopsony", "Duopoly"],
+"ans": 2,
+"explanation": "Monopsony occurs when there is only one buyer, giving that buyer significant power over sellers."
+},
+{
+"q": "The record of all financial transactions of a business in a systematic way is _____.",
+"opts": ["Auditing", "Accounting", "Commerce", "Budgeting"],
+"ans": 1,
+"explanation": "Accounting involves the identifying, measuring, and communicating of financial information."
+},
+{
+"q": "Which of the following allows a trader to buy goods now and pay at a future date?",
+"opts": ["Cash trade", "Credit trade", "Barter trade", "Entrepot trade"],
+"ans": 1,
+"explanation": "Credit trade enables business expansion by allowing buyers to manage their cash flow."
+},
+{
+"q": "The person who is appointed to oversee the winding up of a company is the _____.",
+"opts": ["Promoter", "Director", "Liquidator", "Auditor"],
+"ans": 2,
+"explanation": "A liquidator is responsible for selling the assets of a company to pay off its debts when it is being dissolved."
+},
+{
+"q": "Which of the following is a source of long-term capital for a company?",
+"opts": ["Bank Overdraft", "Trade Credit", "Issue of Shares", "Bill of Exchange"],
+"ans": 2,
+"explanation": "Issuing shares provides equity capital that does not need to be repaid in the short term."
+},
+{
+"q": "The act of using a well-known name or symbol to distinguish a product is _____.",
+"opts": ["Packaging", "Branding", "Labeling", "Grading"],
+"ans": 1,
+"explanation": "Branding helps to create product identity and build customer loyalty."
+},
+{
+"q": "The most important document for a Public Company to invite the public to buy shares is the _____.",
+"opts": ["Articles of Association", "Memorandum of Association", "Prospectus", "Trading License"],
+"ans": 2,
+"explanation": "A prospectus is a legal document that provides details about the company and its share offer to potential investors."
+},
+{
+"q": "Which transport mode is most affected by weather conditions like fog and storms?",
+"opts": ["Rail", "Road", "Air", "Pipeline"],
+"ans": 2,
+"explanation": "Air transport is highly sensitive to visibility and atmospheric turbulence, leading to delays or cancellations."
+},
+{
+"q": "The term 'F.O.B' in international trade stands for _____.",
+"opts": ["Freight on Board", "Free on Board", "Fixed on Board", "Forward on Board"],
+"ans": 1,
+"explanation": "Free on Board means the seller is responsible for the goods until they are loaded onto the ship."
+},
+{
+"q": "A contract that is not legally enforceable from the beginning is _____.",
+"opts": ["Valid", "Voidable", "Void", "Implied"],
+"ans": 2,
+"explanation": "A void contract has no legal effect and cannot be enforced by either party."
+},
+{
+"q": "Which of the following is a function of the Stock Exchange?",
+"opts": ["Lending money to individuals", "Fixing the exchange rate", "Protecting the value of the currency", "Providing a market for old securities"],
+"ans": 3,
+"explanation": "The Stock Exchange facilitates the 'liquidity' of investments by allowing investors to sell their shares."
+},
+{
+"q": "The 'Standard Organization of Nigeria' (SON) is primarily concerned with _____.",
+"opts": ["labor disputes", "quality control of manufactured goods", "issuing international passports", "controlling the price of fuel"],
+"ans": 1,
+"explanation": "SON ensures that products manufactured or sold in Nigeria meet required safety and quality specifications."
+},
+{
+"q": "Which type of communication involves the use of facial expressions and body language?",
+"opts": ["Written", "Oral", "Non-verbal", "Visual"],
+"ans": 2,
+"explanation": "Non-verbal communication conveys messages without using spoken or written words."
+},
+{
+"q": "A bank draft is safer than a personal cheque because _____.",
+"opts": ["it is cheaper", "it cannot be lost", "the bank guarantees payment", "it is signed by the President"],
+"ans": 2,
+"explanation": "A bank draft is drawn by the bank on its own funds, so there is no risk of the cheque 'bouncing'."
+},
+{
+"q": "The process of a manufacturer selling directly to the consumer is an example of _____.",
+"opts": ["indirect distribution", "direct distribution", "wholesale trade", "retail trade"],
+"ans": 1,
+"explanation": "Direct distribution eliminates middlemen, allowing the producer to keep all the profit margin."
+},
+{
+"q": "Which of the following allows a person to withdraw money from their bank account at any time using a machine?",
+"opts": ["Credit card", "ATM card", "Voucher", "Pay slip"],
+"ans": 1,
+"explanation": "An ATM card linked to a bank account allows for immediate cash withdrawals."
+},
+{
+"q": "A person who buys and sells shares on behalf of the public for a commission is a _____.",
+"opts": ["Jobber", "Broker", "Stag", "Bull"],
+"ans": 1,
+"explanation": "Stockbrokers act as agents for clients in the buying and selling of securities on the exchange floor."
+},
+{
+"q": "The document showing the evidence of a contract of insurance is the _____.",
+"opts": ["Premium", "Policy", "Proposal form", "Cover note"],
+"ans": 1,
+"explanation": "The insurance policy is the formal document containing all the terms and conditions of the contract."
+},
+{
+"q": "Which of the following is a type of internal trade?",
+"opts": ["Export trade", "Import trade", "Wholesale trade", "Entrepot trade"],
+"ans": 2,
+"explanation": "Wholesale trade happens within a country, involving the purchase of goods in bulk from local or foreign producers for local resale."
+},
+{
+"q": "The systematic record of all economic transactions between a country and the rest of the world is the _____.",
+"opts": ["Terms of trade", "Balance of payments", "Balance of trade", "National income"],
+"ans": 1,
+"explanation": "The Balance of Payments (BOP) accounts for all visible and invisible trade plus capital movements."
+},
+{
+"q": "A 'Stale' cheque is one that _____.",
+"opts": ["has been rejected by the bank", "is presented before its date", "is presented more than six months after its date", "has no signature"],
+"ans": 2,
+"explanation": "In banking practice, a cheque becomes stale and is usually not honored if it is too old (usually 6 months)."
+},
+{
+"q": "Which of the following is a barrier to international trade?",
+"opts": ["Language differences", "Use of the internet", "Efficient transport", "Standardization of products"],
+"ans": 0,
+"explanation": "Differences in language can make communication and negotiations difficult between international traders."
+},
+{
+"q": "The use of the internet to buy and sell goods and services is _____.",
+"opts": ["E-mail", "E-commerce", "E-government", "E-learning"],
+"ans": 1,
+"explanation": "E-commerce encompasses online shopping, digital payments, and electronic business processes."
+}
+]
