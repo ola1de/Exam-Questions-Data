@@ -1,1 +1,422 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "According to the first account of creation, God created the firmament on the _____ day.",
+"opts": ["first", "second", "third", "fourth"],
+"ans": 1,
+"explanation": "In Genesis 1:6-8, God created the firmament (the expanse) on the second day to separate the waters from the waters."
+},
+{
+"q": "The creation of man in the second account of creation was primarily from _____.",
+"opts": ["the spoken word of God", "the dust of the ground", "the rib of an animal", "the water of the sea"],
+"ans": 1,
+"explanation": "Genesis 2:7 states that the Lord God formed man of dust from the ground and breathed into his nostrils the breath of life."
+},
+{
+"q": "Joseph was sold by his brothers to the Ishmaelites for _____ pieces of silver.",
+"opts": ["ten", "twenty", "thirty", "fifty"],
+"ans": 1,
+"explanation": "According to Genesis 37:28, Joseph's brothers sold him to the Midianite/Ishmaelite traders for twenty shekels of silver."
+},
+{
+"q": "God's promise to Abraham that he would be the father of many nations was sealed with the sign of _____.",
+"opts": ["circumcision", "baptism", "a rainbow", "sacrificing a bull"],
+"ans": 0,
+"explanation": "In Genesis 17, God established circumcision as the physical sign of the covenant between Him and Abraham's descendants."
+},
+{
+"q": "Moses' father-in-law, who advised him on how to delegate judicial duties, was _____.",
+"opts": ["Aaron", "Joshua", "Jethro", "Potiphera"],
+"ans": 2,
+"explanation": "Jethro, the priest of Midian, observed Moses wearing himself out and advised him to appoint capable men as leaders over thousands, hundreds, fifties, and tens."
+},
+{
+"q": "The passover feast was instituted in Egypt to commemorate the _____.",
+"opts": ["crossing of the Red Sea", "giving of the Ten Commandments", "sparing of the first-born of the Israelites", "destruction of the Egyptian crops"],
+"ans": 2,
+"explanation": "The Passover was established so the Angel of Death would pass over the houses marked with lamb's blood, sparing the Israelite first-borns."
+},
+{
+"q": "The golden calf made by the Israelites in the wilderness was facilitated by _____.",
+"opts": ["Moses", "Joshua", "Aaron", "Hur"],
+"ans": 2,
+"explanation": "While Moses was on Mount Sinai, the people pressured Aaron, who took their gold and fashioned it into a molten calf."
+},
+{
+"q": "Which of the following women was a judge in Israel?",
+"opts": ["Ruth", "Deborah", "Esther", "Naomi"],
+"ans": 1,
+"explanation": "Deborah was a prophetess and the only female judge mentioned in the Book of Judges who led Israel to victory over Jabin's army."
+},
+{
+"q": "The high priest who fell and died upon hearing that the Ark of God had been captured was _____.",
+"opts": ["Eli", "Samuel", "Hophni", "Phinehas"],
+"ans": 0,
+"explanation": "Eli died at age ninety-eight when he heard the news of the capture of the Ark and the death of his two sons."
+},
+{
+"q": "Saul was rejected as king over Israel primarily because of his _____.",
+"opts": ["defeat in battle", "uncontrolled anger", "disobedience to God's command regarding the Amalekites", "attempt to kill David"],
+"ans": 2,
+"explanation": "1 Samuel 15 records that Saul spared Agag and the best of the livestock, violating God's command of total destruction (herem)."
+},
+{
+"q": "David's sin with Bathsheba was exposed by the prophet _____.",
+"opts": ["Samuel", "Nathan", "Gad", "Elijah"],
+"ans": 1,
+"explanation": "Prophet Nathan used a parable about a rich man stealing a poor man's ewe lamb to convict David of his adultery and murder."
+},
+{
+"q": "The wisdom of Solomon was notably demonstrated in his judgment between _____.",
+"opts": ["two brothers fighting for land", "two harlots claiming a living child", "two priests arguing over sacrifice", "two kings planning a war"],
+"ans": 1,
+"explanation": "Solomon proposed to divide the living child in half, knowing the real mother would prefer to give up the child than see it killed."
+},
+{
+"q": "The division of the kingdom of Israel took place during the reign of _____.",
+"opts": ["Solomon", "Rehoboam", "Jeroboam", "Asa"],
+"ans": 1,
+"explanation": "Rehoboam's refusal to lighten the labor yoke imposed by his father Solomon led to the rebellion of the ten northern tribes."
+},
+{
+"q": "Elijah's contest with the prophets of Baal took place on Mount _____.",
+"opts": ["Sinai", "Nebo", "Carmel", "Hermon"],
+"ans": 2,
+"explanation": "Mount Carmel was the site where Elijah proved that Yahweh is God by calling down fire to consume the sacrifice."
+},
+{
+"q": "The prophet who was a shepherd from Tekoa and preached against social injustice was _____.",
+"opts": ["Hosea", "Isaiah", "Amos", "Jeremiah"],
+"ans": 2,
+"explanation": "Amos was a simple shepherd and dresser of sycamore trees who fearlessly condemned the wealthy for oppressing the poor."
+},
+{
+"q": "Hosea’s marriage to _____ was a symbolic representation of God’s relationship with unfaithful Israel.",
+"opts": ["Jezebel", "Gomer", "Rahab", "Delilah"],
+"ans": 1,
+"explanation": "God commanded Hosea to marry an unfaithful woman (Gomer) to illustrate Israel's spiritual adultery through idol worship."
+},
+{
+"q": "The king of Babylon who destroyed Jerusalem and took the people into exile was _____.",
+"opts": ["Cyrus", "Darius", "Nebuchadnezzar", "Sennacherib"],
+"ans": 2,
+"explanation": "Nebuchadnezzar II led the siege that resulted in the burning of the Temple and the deportation of the Jews to Babylon."
+},
+{
+"q": "Nehemiah's primary mission in Jerusalem was to _____.",
+"opts": ["rebuild the Temple", "rebuild the walls of the city", "reform the priesthood", "fight the Samaritans"],
+"ans": 1,
+"explanation": "Nehemiah was the cupbearer to the Persian king who obtained permission to return to Jerusalem to rebuild its broken walls."
+},
+{
+"q": "According to the Gospel of Luke, the angel who announced the birth of Jesus to Mary was _____.",
+"opts": ["Michael", "Uriel", "Gabriel", "Raphael"],
+"ans": 2,
+"explanation": "Luke 1:26 states that the angel Gabriel was sent from God to a city in Galilee named Nazareth."
+},
+{
+"q": "Jesus was born in Bethlehem during the census ordered by _____.",
+"opts": ["Herod the Great", "Augustus Caesar", "Tiberius Caesar", "Pontius Pilate"],
+"ans": 1,
+"explanation": "Luke 2 records that a decree went out from Caesar Augustus that all the world should be registered."
+},
+{
+"q": "John the Baptist's message centered on 'Repent, for the _____ is at hand'.",
+"opts": ["Judgment of God", "Kingdom of Heaven", "End of the World", "Day of the Lord"],
+"ans": 1,
+"explanation": "Matthew 3:2 records John preaching in the wilderness of Judea, announcing the proximity of the Kingdom of Heaven."
+},
+{
+"q": "Jesus was baptized by John in the River Jordan to _____.",
+"opts": ["wash away His sins", "fulfill all righteousness", "show He was a disciple of John", "become a Jewish priest"],
+"ans": 1,
+"explanation": "In Matthew 3:15, Jesus told John to permit the baptism to 'fulfill all righteousness', identifying with humanity."
+},
+{
+"q": "During the temptation, the devil asked Jesus to turn stones into bread to test His _____.",
+"opts": ["patience", "miraculous power", "humanity/sonship", "faith in the Word"],
+"ans": 2,
+"explanation": "The temptation 'If you are the Son of God...' was an attempt to make Jesus use His divine power for selfish physical needs."
+},
+{
+"q": "The first four disciples called by Jesus were _____.",
+"opts": ["Peter, Andrew, James and John", "Philip, Bartholomew, Thomas and Matthew", "James, Jude, Simon and Judas", "Peter, John, Philip and Thomas"],
+"ans": 0,
+"explanation": "Mark 1:16-20 records the calling of the two pairs of brothers: Simon (Peter) and Andrew, then James and John."
+},
+{
+"q": "In the Sermon on the Mount, Jesus taught that the _____ shall inherit the earth.",
+"opts": ["poor in spirit", "merciful", "meek", "pure in heart"],
+"ans": 2,
+"explanation": "Matthew 5:5 (The Beatitudes) states: 'Blessed are the meek, for they shall inherit the earth'."
+},
+{
+"q": "The miracle of the feeding of the five thousand involved _____.",
+"opts": ["seven loaves and a few fish", "five loaves and two fish", "ten loaves and five fish", "two loaves and five fish"],
+"ans": 1,
+"explanation": "Matthew 14:17 specifies the boy's offering was five barley loaves and two fish."
+},
+{
+"q": "The Transfiguration of Jesus took place in the presence of _____.",
+"opts": ["Peter, James and Andrew", "Peter, James and John", "All twelve apostles", "Mary and Martha"],
+"ans": 1,
+"explanation": "Jesus took the inner circle of Peter, James, and John up into a high mountain where He was transfigured before them."
+},
+{
+"q": "In the parable of the Good Samaritan, the two religious figures who passed by the wounded man were a _____ and a _____.",
+"opts": ["Priest / Pharisee", "Priest / Levite", "Levite / Scribe", "Pharisee / Sadducee"],
+"ans": 1,
+"explanation": "Luke 10:31-32 mentions that first a priest and then a Levite saw the man and passed by on the other side."
+},
+{
+"q": "The parable of the Prodigal Son was primarily told to illustrate _____.",
+"opts": ["the dangers of wastefulness", "the importance of farming", "the love and forgiveness of God", "the jealousy of siblings"],
+"ans": 2,
+"explanation": "The father's reception of the lost son represents God's joy and eagerness to welcome back repentant sinners."
+},
+{
+"q": "The request of the sons of Zebedee for positions of honor in Jesus’ kingdom showed their _____.",
+"opts": ["faith in Jesus", "humility", "ambition and lack of understanding", "love for the church"],
+"ans": 2,
+"explanation": "James and John sought seats at the right and left of Jesus, failing to understand that greatness in His kingdom comes through service and suffering."
+},
+{
+"q": "Jesus' triumphal entry into Jerusalem on a donkey was a fulfillment of the prophecy of _____.",
+"opts": ["Isaiah", "Jeremiah", "Zechariah", "Malachi"],
+"ans": 2,
+"explanation": "Zechariah 9:9 prophesied the King coming to Zion 'humble and riding on a donkey'."
+},
+{
+"q": "At the Last Supper, the bread represents Jesus’ _____.",
+"opts": ["spirit", "word", "body", "suffering"],
+"ans": 2,
+"explanation": "Jesus took bread, blessed it, and said, 'Take, eat; this is my body' (Matthew 26:26)."
+},
+{
+"q": "The garden where Jesus prayed in agony before His arrest was _____.",
+"opts": ["Eden", "Gethsemane", "Golgotha", "Bethany"],
+"ans": 1,
+"explanation": "Gethsemane, located on the Mount of Olives, was the site where Jesus asked that 'this cup' might pass from Him."
+},
+{
+"q": "Judas Iscariot betrayed Jesus with a _____.",
+"opts": ["handshake", "hug", "kiss", "pointed finger"],
+"ans": 2,
+"explanation": "Judas used a kiss as the signal to the soldiers to identify which man was Jesus."
+},
+{
+"q": "The Jewish high priest who presided over the trial of Jesus was _____.",
+"opts": ["Annas", "Caiaphas", "Gamaliel", "Nicodemus"],
+"ans": 1,
+"explanation": "Caiaphas was the high priest that year who organized the plot to kill Jesus."
+},
+{
+"q": "The Roman Governor who reluctantly sentenced Jesus to death was _____.",
+"opts": ["Herod Antipas", "Felix", "Festus", "Pontius Pilate"],
+"ans": 3,
+"explanation": "Pilate found no guilt in Jesus but gave in to the pressure of the crowd to avoid a riot."
+},
+{
+"q": "The criminal who was released instead of Jesus was _____.",
+"opts": ["Barabbas", "Barnabas", "Silas", "Dismas"],
+"ans": 0,
+"explanation": "The crowd chose Barabbas, a notorious prisoner/insurrectionist, to be released according to the custom of the feast."
+},
+{
+"q": "Jesus was crucified at a place called Golgotha, which means _____.",
+"opts": ["House of Bread", "City of David", "Place of the Skull", "Garden of Peace"],
+"ans": 2,
+"explanation": "Golgotha is an Aramaic word meaning 'Skull', referring to the hill's shape or its function as an execution site."
+},
+{
+"q": "The person who provided the tomb for the burial of Jesus was _____.",
+"opts": ["Simon of Cyrene", "Joseph of Arimathea", "Nicodemus", "Lazarus"],
+"ans": 1,
+"explanation": "Joseph of Arimathea, a wealthy member of the Council, asked Pilate for the body and placed it in his own new tomb."
+},
+{
+"q": "The resurrection of Jesus took place on the _____ day.",
+"opts": ["first", "second", "third", "seventh"],
+"ans": 2,
+"explanation": "Biblical accounts and creeds affirm that Jesus rose from the dead on the third day (Friday to Sunday morning)."
+},
+{
+"q": "Before His ascension, Jesus commanded His disciples to wait in Jerusalem for the _____.",
+"opts": ["return of Elijah", "Promise of the Father (Holy Spirit)", "Day of Judgment", "Establishment of the Temple"],
+"ans": 1,
+"explanation": "Acts 1:4-5 records Jesus telling them to wait for the Holy Spirit who would empower them."
+},
+{
+"q": "The replacement for Judas Iscariot among the twelve apostles was _____.",
+"opts": ["Paul", "Barnabas", "Matthias", "Stephen"],
+"ans": 2,
+"explanation": "In Acts 1, the disciples cast lots and the lot fell on Matthias to join the eleven apostles."
+},
+{
+"q": "The Holy Spirit descended on the disciples on the Day of _____.",
+"opts": ["Passover", "Tabernacles", "Pentecost", "Purim"],
+"ans": 2,
+"explanation": "Pentecost, a Jewish harvest festival occurring 50 days after Passover, was when the disciples spoke in tongues as the Spirit gave them utterance."
+},
+{
+"q": "The first Christian martyr was _____.",
+"opts": ["James", "Peter", "Stephen", "Philip"],
+"ans": 2,
+"explanation": "Stephen, one of the first seven deacons, was stoned to death for his testimony about Jesus (Acts 7)."
+},
+{
+"q": "Saul's conversion took place on the road to _____.",
+"opts": ["Damascus", "Antioch", "Rome", "Tarsus"],
+"ans": 0,
+"explanation": "Saul was traveling to Damascus to arrest Christians when he was blinded by a light and heard the voice of Jesus."
+},
+{
+"q": "The first place where the disciples were called 'Christians' was _____.",
+"opts": ["Jerusalem", "Antioch", "Ephesus", "Rome"],
+"ans": 1,
+"explanation": "Acts 11:26 notes that it was in Antioch (Syria) that the name 'Christian' was first applied to believers."
+},
+{
+"q": "The Jerusalem Council (Acts 15) met primarily to discuss _____.",
+"opts": ["how to distribute food", "the collection for the poor", "the circumcision of Gentile converts", "Paul's authority as an apostle"],
+"ans": 2,
+"explanation": "The council determined that Gentile believers did not need to be circumcised or follow the whole Mosaic Law to be saved."
+},
+{
+"q": "Paul was known as the 'Apostle to the _____'.",
+"opts": ["Jews", "Gentiles", "Romans", "Greeks"],
+"ans": 1,
+"explanation": "Paul received a specific commission to preach the Gospel to the non-Jewish world (Gentiles)."
+},
+{
+"q": "According to Paul in 1 Corinthians 13, the greatest virtue is _____.",
+"opts": ["faith", "hope", "love", "wisdom"],
+"ans": 2,
+"explanation": "Paul concludes the chapter by stating: 'So now faith, hope, and love abide... but the greatest of these is love'."
+},
+{
+"q": "James teaches that 'faith by itself, if it has no _____, is dead'.",
+"opts": ["preaching", "works", "fasting", "knowledge"],
+"ans": 1,
+"explanation": "James 2:17 emphasizes that true saving faith will naturally result in good deeds or 'works'."
+},
+{
+"q": "The person who helped Jesus carry the cross was _____.",
+"opts": ["Simon Peter", "Simon of Cyrene", "Joseph of Arimathea", "John the Beloved"],
+"ans": 1,
+"explanation": "As Jesus was led away, the soldiers seized Simon of Cyrene and laid the cross on him to carry it behind Jesus."
+},
+{
+"q": "God's promise to Noah was symbolized by a _____.",
+"opts": ["rainbow", "stone altar", "burning bush", "pillar of fire"],
+"ans": 0,
+"explanation": "Genesis 9:13 describes the rainbow as the sign of the covenant that God would never again destroy all life with a flood."
+},
+{
+"q": "The son of Abraham born to the Egyptian maid Hagar was _____.",
+"opts": ["Isaac", "Ishmael", "Jacob", "Esau"],
+"ans": 1,
+"explanation": "Ishmael was Abraham's first son, born when Sarah remained childless."
+},
+{
+"q": "The first king of Israel was _____.",
+"opts": ["David", "Saul", "Solomon", "Samuel"],
+"ans": 1,
+"explanation": "Saul was anointed by Samuel after the people of Israel demanded a king to be like other nations."
+},
+{
+"q": "The city of Jericho was captured by the Israelites under the leadership of _____.",
+"opts": ["Moses", "Joshua", "Caleb", "Gideon"],
+"ans": 1,
+"explanation": "Joshua led the miraculous fall of Jericho's walls after circling the city for seven days."
+},
+{
+"q": "Samson's strength was tied to his vow as a _____.",
+"opts": ["Priest", "Prophet", "Nazirite", "King"],
+"ans": 2,
+"explanation": "As a Nazirite, Samson was consecrated to God from birth, and one of his conditions was never to cut his hair."
+},
+{
+"q": "The mother of Samuel was _____.",
+"opts": ["Hannah", "Peninnah", "Naomi", "Ruth"],
+"ans": 0,
+"explanation": "Hannah was barren but prayed fervently at the temple in Shiloh, and God gave her Samuel."
+},
+{
+"q": "Solomon built the Temple of the Lord in the city of _____.",
+"opts": ["Bethlehem", "Hebron", "Jerusalem", "Samaria"],
+"ans": 2,
+"explanation": "Jerusalem was the capital and the religious center where the First Temple was constructed."
+},
+{
+"q": "The prophet who challenged King Ahab and Queen Jezebel was _____.",
+"opts": ["Isaiah", "Elijah", "Jeremiah", "Elisha"],
+"ans": 1,
+"explanation": "Elijah was the fierce opponent of the cult of Baal introduced by Jezebel in the Northern Kingdom."
+},
+{
+"q": "The 'Valley of Dry Bones' vision was seen by Prophet _____.",
+"opts": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+"ans": 2,
+"explanation": "Ezekiel 37 records this vision symbolizing the restoration and spiritual revival of the house of Israel."
+},
+{
+"q": "Jesus healed a man born blind by using _____.",
+"opts": ["prayer only", "spittle and clay", "water from the Jordan", "oil and wine"],
+"ans": 1,
+"explanation": "John 9:6 records Jesus spitting on the ground, making mud with the saliva, and anointing the man's eyes."
+},
+{
+"q": "The disciple who doubted the resurrection until he saw Jesus' wounds was _____.",
+"opts": ["Peter", "Thomas", "Andrew", "Bartholomew"],
+"ans": 1,
+"explanation": "Thomas, also called Didymus, said he would not believe unless he could touch the nail marks in Jesus' hands."
+},
+{
+"q": "The gift of the Magi that symbolized Jesus’ future death and burial was _____.",
+"opts": ["Gold", "Frankincense", "Myrrh", "Silver"],
+"ans": 2,
+"explanation": "Myrrh was an expensive resin used for embalming bodies, prefiguring Christ's sacrifice."
+},
+{
+"q": "Paul wrote the Letter to the Romans primarily to explain _____.",
+"opts": ["the second coming", "justification by faith", "the gifts of the spirit", "church organization"],
+"ans": 1,
+"explanation": "Romans is Paul’s most systematic theological work, focusing on how humans are made right with God through faith in Christ."
+},
+{
+"q": "The Roman Centurion who sought Jesus to heal his servant showed great _____.",
+"opts": ["wealth", "fear", "faith", "anger"],
+"ans": 2,
+"explanation": "Jesus marveled at the Centurion's faith, saying He had not found such great faith even in Israel."
+},
+{
+"q": "Ananias and Sapphira died because they _____.",
+"opts": ["refused to sell their land", "persecuted the apostles", "lied to the Holy Spirit about the proceeds of a sale", "worshipped idols"],
+"ans": 2,
+"explanation": "They kept back part of the money from a land sale while pretending to give the full amount to the church (Acts 5)."
+},
+{
+"q": "The specific sin of the people of Sodom and Gomorrah according to Genesis was _____.",
+"opts": ["greed", "idolatry", "wickedness and sexual immorality", "laziness"],
+"ans": 2,
+"explanation": "The cities were destroyed because their outcry reached heaven and their sin was very grave."
+},
+{
+"q": "The 'Great Commission' involves _____.",
+"opts": ["feeding the poor", "healing the sick", "making disciples of all nations", "rebuilding the temple"],
+"ans": 2,
+"explanation": "Matthew 28:19 records Jesus' final command to go, baptize, and teach all nations."
+},
+{
+"q": "In the parable of the Sower, the 'seed' represents _____.",
+"opts": ["money", "good deeds", "the Word of God", "the children of the church"],
+"ans": 2,
+"explanation": "Jesus explained that the seed is the Word of God being sown into different types of human hearts."
+},
+{
+"q": "According to Christian teaching, the 'wages of sin is death', but the 'free gift of God is _____' in Christ Jesus.",
+"opts": ["happiness", "eternal life", "wealth", "wisdom"],
+"ans": 1,
+"explanation": "Romans 6:23 contrasts the consequence of sin with the gracious gift of eternal life through Christ."
+}
+]
