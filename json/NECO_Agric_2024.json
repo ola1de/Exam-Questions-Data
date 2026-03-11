@@ -1,1 +1,422 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "The Land Use Act of 1978 in Nigeria vests the ownership of all land in the _____.",
+"opts": ["Federal Government", "Local Government Chairmen", "State Governors", "Traditional Rulers"],
+"ans": 2,
+"explanation": "The Land Use Act of 1978 vests all land within a state in the Governor of that state, to be held in trust for the people."
+},
+{
+"q": "Which of the following is a major problem of agricultural development in Nigeria?",
+"opts": ["Inadequate land mass", "Lack of interest in farming", "Inadequate credit facilities", "Excessive rainfall"],
+"ans": 2,
+"explanation": "Access to finance or credit is a significant bottleneck for small-scale farmers to expand or modernize their operations."
+},
+{
+"q": "Subsistence agriculture is characterized by _____.",
+"opts": ["Small land holdings", "Use of heavy machinery", "High capital investment", "Production for export"],
+"ans": 0,
+"explanation": "Subsistence farming involves small plots of land primarily used to produce food for the farmer's family."
+},
+{
+"q": "Which type of rock is formed from the cooling and solidification of molten magma?",
+"opts": ["Sedimentary", "Metamorphic", "Igneous", "Sandstone"],
+"ans": 2,
+"explanation": "Igneous rocks, such as granite and basalt, are formed directly from the cooling of magma or lava."
+},
+{
+"q": "The process of rock weathering that involves the reaction of minerals with oxygen is _____.",
+"opts": ["Hydration", "Oxidation", "Carbonation", "Hydrolysis"],
+"ans": 1,
+"explanation": "Oxidation occurs when minerals react with oxygen, often changing the color and structural integrity of the rock (e.g., rusting of iron-rich rocks)."
+},
+{
+"q": "Soil texture refers to the _____.",
+"opts": ["Arrangement of soil particles", "Relative proportion of sand, silt, and clay", "Level of soil fertility", "Amount of water in the soil"],
+"ans": 1,
+"explanation": "Texture is an inherent physical property determined by the percentage distribution of different-sized mineral particles."
+},
+{
+"q": "A soil sample with a pH of 4.5 is considered to be _____.",
+"opts": ["Alkaline", "Neutral", "Strongly acidic", "Saline"],
+"ans": 2,
+"explanation": "The pH scale runs from 0-14. Values below 7 are acidic; 4.5 is significantly low, making it strongly acidic."
+},
+{
+"q": "Which of the following is a primary macronutrient for plants?",
+"opts": ["Iron", "Zinc", "Phosphorus", "Boron"],
+"ans": 2,
+"explanation": "The primary macronutrients are Nitrogen (N), Phosphorus (P), and Potassium (K)."
+},
+{
+"q": "The removal of the upper layer of soil by water or wind is known as _____.",
+"opts": ["Mulching", "Erosion", "Leaching", "Irrigation"],
+"ans": 1,
+"explanation": "Soil erosion is the displacement of the fertile topsoil by environmental agents like water and wind."
+},
+{
+"q": "The symbiotic relationship between Rhizobium bacteria and legumes results in _____.",
+"opts": ["Nitrogen fixation", "Carbon fixation", "Phosphorus mobilization", "Soil sterilization"],
+"ans": 0,
+"explanation": "Rhizobium bacteria live in root nodules and convert atmospheric nitrogen into nitrates that plants can absorb."
+},
+{
+"q": "The implement used for the initial breaking and turning of the soil is the _____.",
+"opts": ["Harrow", "Ridger", "Plough", "Planter"],
+"ans": 2,
+"explanation": "The plough (disc or mouldboard) is used for primary tillage to break up and turn the soil."
+},
+{
+"q": "Which part of the tractor is used to lift and lower implements?",
+"opts": ["Power Take-Off (PTO)", "Drawbar", "Hydraulic system", "Clutch"],
+"ans": 2,
+"explanation": "The hydraulic system provides the power to raise or lower attached farm tools like ploughs."
+},
+{
+"q": "A simple farm tool used for harvesting rice is the _____.",
+"opts": ["Spade", "Sickle", "Pick-axe", "Rake"],
+"ans": 1,
+"explanation": "A sickle has a curved blade suitable for cutting grasses and cereal stalks like rice."
+},
+{
+"q": "The process of applying water to the soil artificially is called _____.",
+"opts": ["Drainage", "Evaporation", "Irrigation", "Transpiration"],
+"ans": 2,
+"explanation": "Irrigation ensures plants have enough moisture in areas or seasons with low rainfall."
+},
+{
+"q": "Which of the following is a form of surface irrigation?",
+"opts": ["Sprinkler", "Drip", "Furrow", "Overhead"],
+"ans": 2,
+"explanation": "Furrow irrigation involves creating small channels (furrows) along the crop rows and filling them with water."
+},
+{
+"q": "The botanical name for Cowpea is _____.",
+"opts": ["Zea mays", "Vigna unguiculata", "Oryza sativa", "Manihot esculenta"],
+"ans": 1,
+"explanation": "Vigna unguiculata is the scientific name for cowpea. Zea mays is maize, Oryza sativa is rice."
+},
+{
+"q": "Which of the following is a cereal crop?",
+"opts": ["Groundnut", "Cassava", "Millet", "Soybean"],
+"ans": 2,
+"explanation": "Cereals are grasses grown for their edible grains. Millet, maize, and sorghum are common cereals."
+},
+{
+"q": "The removal of excess seedlings from a stand is known as _____.",
+"opts": ["Supplying", "Thinning", "Pruning", "Mulching"],
+"ans": 1,
+"explanation": "Thinning is done to reduce competition for light, space, and nutrients among seedlings."
+},
+{
+"q": "Which of the following is a viral disease of cassava?",
+"opts": ["Blast", "Mosaic", "Smut", "Red rot"],
+"ans": 1,
+"explanation": "Cassava Mosaic Disease (CMD) is a well-known viral infection transmitted by whiteflies."
+},
+{
+"q": "The chemical used specifically to kill weeds is a/an _____.",
+"opts": ["Insecticide", "Fungicide", "Herbicide", "Rodenticide"],
+"ans": 2,
+"explanation": "Herbicides are pesticides used to kill unwanted plants or weeds."
+},
+{
+"q": "Which of the following crops is a legume?",
+"opts": ["Yam", "Sweet potato", "Soybean", "Plantain"],
+"ans": 2,
+"explanation": "Legumes are plants from the family Fabaceae, characterized by seed pods and nitrogen-fixing roots."
+},
+{
+"q": "The period between mating and the birth of young in animals is _____.",
+"opts": ["Lactation", "Gestation", "Incubation", "Parturition"],
+"ans": 1,
+"explanation": "Gestation is the pregnancy period, lasting from conception to birth."
+},
+{
+"q": "Which of the following is a ruminant animal?",
+"opts": ["Pig", "Chicken", "Goat", "Rabbit"],
+"ans": 2,
+"explanation": "Goats are ruminants because they have a complex four-compartment stomach and chew the cud."
+},
+{
+"q": "The part of the poultry digestive system that grinds food is the _____.",
+"opts": ["Crop", "Proventriculus", "Gizzard", "Cloaca"],
+"ans": 2,
+"explanation": "The gizzard (ventriculus) contains grit or small stones to mechanically grind down grain and feed."
+},
+{
+"q": "Newcastle disease is a highly contagious _____ disease in poultry.",
+"opts": ["Fungal", "Bacterial", "Viral", "Protozoan"],
+"ans": 2,
+"explanation": "Newcastle disease is caused by a virulent virus and often results in high mortality rates in birds."
+},
+{
+"q": "The act of giving birth in rabbits is called _____.",
+"opts": ["Farrowing", "Kindling", "Kidding", "Lambing"],
+"ans": 1,
+"explanation": "Kindling is the term for parturition in rabbits. Farrowing is for pigs, kidding for goats."
+},
+{
+"q": "A castrated male cattle is called a _____.",
+"opts": ["Bull", "Steer", "Boar", "Wether"],
+"ans": 1,
+"explanation": "A steer is a male bovine castrated before reaching sexual maturity."
+},
+{
+"q": "The first milk produced by a female animal after birth is called _____.",
+"opts": ["Whole milk", "Skimmed milk", "Colostrum", "Pasteurized milk"],
+"ans": 2,
+"explanation": "Colostrum is rich in antibodies (immunoglobulins) that provide passive immunity to the newborn."
+},
+{
+"q": "Ticks and lice are examples of _____ of livestock.",
+"opts": ["Endoparasites", "Ectoparasites", "Pathogens", "Vectors"],
+"ans": 1,
+"explanation": "Ectoparasites live on the external surface (skin) of the host animal."
+},
+{
+"q": "Which of the following is a roughage feed?",
+"opts": ["Maize offal", "Groundnut cake", "Silage", "Fish meal"],
+"ans": 2,
+"explanation": "Roughages are feeds high in fiber and low in digestible nutrients, such as hay, straw, and silage."
+},
+{
+"q": "The law of diminishing marginal returns states that as more variable inputs are added to a fixed input, the _____.",
+"opts": ["Total product will increase forever", "Marginal product will eventually decrease", "Fixed costs will disappear", "Average product becomes zero"],
+"ans": 1,
+"explanation": "This fundamental economic principle states that adding more of one factor of production while holding others constant will eventually yield lower per-unit returns."
+},
+{
+"q": "In farm records, a list of all assets and liabilities of a farm at a specific time is the _____.",
+"opts": ["Cash book", "Inventory", "Balance sheet", "Diary"],
+"ans": 2,
+"explanation": "A balance sheet (or net worth statement) summarizes the financial position of the farm business."
+},
+{
+"q": "The people who buy agricultural produce from farmers and sell to retailers are _____.",
+"opts": ["Consumers", "Wholesalers", "Processors", "Extension agents"],
+"ans": 1,
+"explanation": "Wholesalers act as middlemen who buy in bulk from producers and distribute to retailers."
+},
+{
+"q": "Which of the following is a fixed cost in agriculture?",
+"opts": ["Cost of seeds", "Cost of fertilizers", "Interest on land mortgage", "Wages of casual labor"],
+"ans": 2,
+"explanation": "Fixed costs (like interest or insurance) do not change regardless of the level of output in the short run."
+},
+{
+"q": "Agricultural extension aims to _____.",
+"opts": ["Force farmers to grow specific crops", "Give free food to rural people", "Disseminate research findings to farmers", "Collect taxes from farmers"],
+"ans": 2,
+"explanation": "Extension is an educational process that brings scientific knowledge and modern techniques to farmers to improve productivity."
+},
+{
+"q": "Which of the following is a mass media method of extension?",
+"opts": ["Result demonstration", "Farm visit", "Radio program", "Method demonstration"],
+"ans": 2,
+"explanation": "Radio allows information to reach a very large audience simultaneously, making it a mass contact method."
+},
+{
+"q": "The science of rock study is called _____.",
+"opts": ["Pedology", "Geology", "Petrology", "Physiology"],
+"ans": 2,
+"explanation": "Petrology is the specific branch of geology that studies the origin, composition, and structure of rocks."
+},
+{
+"q": "A soil with high clay content is likely to have _____.",
+"opts": ["Good drainage", "Poor water-holding capacity", "High capillarity", "Large pore spaces"],
+"ans": 2,
+"explanation": "Clay has very small pores, which allows water to rise easily through capillary action but makes it prone to waterlogging."
+},
+{
+"q": "Green manuring involves _____.",
+"opts": ["Applying urea to the soil", "Growing a legume and ploughing it into the soil while green", "Using animal dung only", "Painting the soil green"],
+"ans": 1,
+"explanation": "Green manure crops are incorporated back into the soil to improve organic matter and nitrogen levels."
+},
+{
+"q": "Which of the following is a fungal disease of maize?",
+"opts": ["Maize streak", "Cassava mosaic", "Smut", "Citrus tristeza"],
+"ans": 2,
+"explanation": "Maize smut is caused by a fungus that creates large galls filled with black spores on the ears or tassels."
+},
+{
+"q": "In the nitrogen cycle, the conversion of nitrates to atmospheric nitrogen is _____.",
+"opts": ["Nitrification", "Nitrogen fixation", "Denitrification", "Ammonification"],
+"ans": 2,
+"explanation": "Denitrification is performed by bacteria in anaerobic conditions, releasing nitrogen gas back into the air."
+},
+{
+"q": "The botanical name for Cassava is _____.",
+"opts": ["Oryza sativa", "Manihot esculenta", "Zea mays", "Dioscorea spp"],
+"ans": 1,
+"explanation": "Manihot esculenta is the scientific name for cassava, a major root tuber in Nigeria."
+},
+{
+"q": "The primary objective of pruning in cocoa is to _____.",
+"opts": ["Increase the height of the tree", "Control the shape and improve air circulation", "Kill pests on the bark", "Ensure the seeds are sweet"],
+"ans": 1,
+"explanation": "Pruning removes unwanted branches to allow better light penetration and reduce disease spread by improving airflow."
+},
+{
+"q": "Which of the following is a storage pest of cowpea?",
+"opts": ["Aphid", "Stem borer", "Pulse beetle (Callosobruchus)", "Whitefly"],
+"ans": 2,
+"explanation": "The cowpea weevil or pulse beetle is the most destructive pest of stored beans."
+},
+{
+"q": "A tractor-mounted implement used for creating ridges is the _____.",
+"opts": ["Harrow", "Plough", "Ridger", "Cultivator"],
+"ans": 2,
+"explanation": "The ridger is designed to form the mounds or ridges required for planting crops like yams and potatoes."
+},
+{
+"q": "The gestation period of a sow (pig) is approximately _____.",
+"opts": ["21 days", "114 days", "280 days", "150 days"],
+"ans": 1,
+"explanation": "The standard gestation for a pig is 3 months, 3 weeks, and 3 days (roughly 114 days)."
+},
+{
+"q": "Which of the following poultry systems requires the most labor per bird?",
+"opts": ["Battery cage system", "Deep litter system", "Free range system", "Fold system"],
+"ans": 2,
+"explanation": "While free range has low equipment costs, managing and protecting birds in the open requires significant labor/monitoring compared to intensive systems."
+},
+{
+"q": "The process of removing the horns of an animal is known as _____.",
+"opts": ["Docking", "Dehorning", "Castration", "Culling"],
+"ans": 1,
+"explanation": "Dehorning prevents animals from injuring each other or the farm handlers."
+},
+{
+"q": "In animal nutrition, maintenance ration is intended to _____.",
+"opts": ["Help the animal gain weight rapidly", "Ensure the animal produces more milk", "Keep the animal alive without gaining or losing weight", "Cure the animal of diseases"],
+"ans": 2,
+"explanation": "Maintenance ration provides just enough nutrients for vital body processes like heartbeat and breathing."
+},
+{
+"q": "Which of the following is an example of a concentrate feed?",
+"opts": ["Hay", "Straw", "Soybean meal", "Grass"],
+"ans": 2,
+"explanation": "Concentrates are high in energy or protein and low in fiber, unlike roughages."
+},
+{
+"q": "The study of the relationship between organisms and their environment is _____.",
+"opts": ["Anatomy", "Ecology", "Genetics", "Pathology"],
+"ans": 1,
+"explanation": "Agricultural ecology focuses on how crops and livestock interact with soil, climate, and other organisms."
+},
+{
+"q": "A piece of land covered with grasses and legumes for livestock grazing is a _____.",
+"opts": ["Forest", "Pasture", "Orchard", "Nursery"],
+"ans": 1,
+"explanation": "Pastures are specifically managed land units used for feeding ruminant animals."
+},
+{
+"q": "Which of the following is a biotic factor affecting agricultural production?",
+"opts": ["Soil pH", "Rainfall", "Pests", "Temperature"],
+"ans": 2,
+"explanation": "Biotic factors are living components; pests, parasites, and weeds are examples."
+},
+{
+"q": "The process by which plants lose water through their leaves is _____.",
+"opts": ["Translocation", "Respiration", "Transpiration", "Photosynthesis"],
+"ans": 2,
+"explanation": "Transpiration is the evaporation of water from the stomata of leaves into the atmosphere."
+},
+{
+"q": "Which of the following is a metamorphic rock?",
+"opts": ["Granite", "Limestone", "Marble", "Shale"],
+"ans": 2,
+"explanation": "Marble is formed from the transformation of limestone under high heat and pressure."
+},
+{
+"q": "The survey instrument used for measuring horizontal and vertical angles is the _____.",
+"opts": ["Theodolite", "Prismatic compass", "Measuring tape", "Gunter's chain"],
+"ans": 0,
+"explanation": "The theodolite is a precision instrument used in land surveying for measuring angles."
+},
+{
+"q": "A farm record that tracks the day-to-day work done on the farm is the _____.",
+"opts": ["Labour record", "Inventory", "Cash book", "Yield record"],
+"ans": 0,
+"explanation": "Labour records help the farmer calculate the cost of man-days and manage human resources."
+},
+{
+"q": "Monopoly is a market situation characterized by _____.",
+"opts": ["Many buyers and many sellers", "A few large sellers", "A single seller", "Two sellers"],
+"ans": 2,
+"explanation": "In a monopoly, one firm dominates the supply of a particular product or service."
+},
+{
+"q": "The function of farm management which involves setting goals for the future is _____.",
+"opts": ["Organizing", "Planning", "Coordinating", "Directing"],
+"ans": 1,
+"explanation": "Planning is the foundational management task that decides the 'what, how, and when' of farm activities."
+},
+{
+"q": "Which of the following is an example of an indigenous cattle breed in West Africa?",
+"opts": ["Holstein", "Jersey", "N'dama", "Ayrshire"],
+"ans": 2,
+"explanation": "N'dama is a trypano-tolerant breed native to West Africa, well-adapted to the humid tropics."
+},
+{
+"q": "The act of removing an inferior animal from a herd is known as _____.",
+"opts": ["Castration", "Kindling", "Culling", "Docking"],
+"ans": 2,
+"explanation": "Culling improves the overall quality of the herd by removing unproductive or diseased animals."
+},
+{
+"q": "The first step in the formation of soil from rocks is _____.",
+"opts": ["Leaching", "Weathering", "Erosion", "Humification"],
+"ans": 1,
+"explanation": "Weathering is the mechanical and chemical breakdown of rocks into smaller mineral particles."
+},
+{
+"q": "The type of soil with the highest water-holding capacity is _____.",
+"opts": ["Sandy soil", "Silty soil", "Clayey soil", "Loamy soil"],
+"ans": 2,
+"explanation": "Due to its very small particle size and narrow pore spaces, clay retains more water than other soil types."
+},
+{
+"q": "An example of a micro-nutrient required in trace amounts by plants is _____.",
+"opts": ["Nitrogen", "Potassium", "Zinc", "Calcium"],
+"ans": 2,
+"explanation": "Zinc, along with copper and boron, is needed only in very small quantities compared to macronutrients."
+},
+{
+"q": "Which of the following is a characteristic of a good irrigation water source?",
+"opts": ["High salt content", "Nearness to the farm", "High pollution levels", "Low reliability"],
+"ans": 1,
+"explanation": "Proximity to the farm reduces the cost of pumping and transporting water to the fields."
+},
+{
+"q": "The part of the plant that grows towards a light source exhibits _____.",
+"opts": ["Geotropism", "Phototropism", "Hydrotropism", "Thigmotropism"],
+"ans": 1,
+"explanation": "Positive phototropism ensures that leaves and stems receive maximum sunlight for photosynthesis."
+},
+{
+"q": "A crop that completes its life cycle in one growing season is a/an _____.",
+"opts": ["Perennial", "Biennial", "Annual", "Ephemeral"],
+"ans": 2,
+"explanation": "Annual crops, like maize and rice, germinate, flower, and die within a single year or season."
+},
+{
+"q": "Which of the following is a viral disease in livestock?",
+"opts": ["Anthrax", "Brucellosis", "Foot and Mouth Disease", "Coccidiosis"],
+"ans": 2,
+"explanation": "Foot and Mouth Disease (FMD) is a highly infectious viral disease of cloven-hoofed animals."
+},
+{
+"q": "The primary role of the entrepreneur in agriculture is _____.",
+"opts": ["To do the manual labor", "To provide the land", "To bear the risks and make decisions", "To repair the tractors"],
+"ans": 2,
+"explanation": "The entrepreneur (farmer) coordinates land, labor, and capital and accepts the financial risk of the enterprise."
+},
+{
+"q": "Which of the following helps to maintain soil fertility in a crop rotation system?",
+"opts": ["Continuous cropping", "Inclusion of a legume", "Monoculture", "Excessive irrigation"],
+"ans": 1,
+"explanation": "Legumes fix nitrogen into the soil, benefiting the subsequent crops in the rotation cycle."
+}
+]
