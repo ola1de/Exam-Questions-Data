@@ -1,1 +1,434 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Wanne ne cikin wadannan wakilin suna ne na nuni (Demonstrative Pronoun)?",
+"opts": ["Wannan", "Su", "Mu", "Kai"],
+"ans": 0,
+"explanation": "'Wannan' (this) is used for pointing or indicating a specific noun, making it a demonstrative pronoun."
+},
+{
+"q": "Wasulan Hausa guda nawa ne a tsaye (Standard vowels)?",
+"opts": ["Biyar", "Bakwai", "Goma", "Sha biyu"],
+"ans": 0,
+"explanation": "Standard Hausa has five basic vowels: a, e, i, o, u."
+},
+{
+"q": "Kammala karin maganar nan: 'Kowa ya ci zomo, _____.'",
+"opts": ["ya ci gudu", "ya sha romo", "ya san dadinsa", "ya tafi gida"],
+"ans": 0,
+"explanation": "The complete proverb is 'Kowa ya ci zomo, ya ci gudu', which translates to 'Whoever eats a rabbit must run like one' (consequences follow actions)."
+},
+{
+"q": "Kalmar 'Yarinya' tana nuna jinsi na _____.",
+"opts": ["Mace", "Miji", "Gami", "Babu"],
+"ans": 0,
+"explanation": "'Yarinya' means 'girl', which falls under the feminine (mace) gender category."
+},
+{
+"q": "A wanne bangare na sauti ake samun 'Gamasauti' (Diphthongs)?",
+"opts": ["Bakari", "Wasali", "Gaba", "Amshi"],
+"ans": 1,
+"explanation": "Diphthongs are a combination of two vowel sounds within the same syllable, hence they belong to the 'Wasali' (Vowel) category."
+},
+{
+"q": "Wane littafi ne Dr. Abubakar Imam ya rubuta?",
+"opts": ["Magana Jari Ce", "Ruwan Bagaja", "Iliya Dan Maikarfi", "Gambo Sawaba"],
+"ans": 0,
+"explanation": "Dr. Abubakar Imam is the renowned author of the Hausa classic 'Magana Jari Ce'."
+},
+{
+"q": "Wacce sana'a ce ake amfani da 'Kira' a cikinta?",
+"opts": ["Noma", "Kira (Blacksmithing)", "Saka", "Fatawa"],
+"ans": 1,
+"explanation": "The term 'Kira' refers specifically to blacksmithing, where metal tools are produced."
+},
+{
+"q": "Menene ma'anar kalmar 'Alhamis'?",
+"opts": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+"ans": 3,
+"explanation": "In the Hausa calendar, 'Alhamis' corresponds to Thursday."
+},
+{
+"q": "A cikin 'Tatsuniya', wanene ya fi kowa wayo (cleverness)?",
+"opts": ["Gizo", "Kura", "Zaki", "Biri"],
+"ans": 0,
+"explanation": "In Hausa folklore (tatsuniya), Gizo (the spider) is the archetypal trickster known for his cunning."
+},
+{
+"q": "Cika gibin: 'Bello _____ Kano jiya.'",
+"opts": ["ya tafi", "sun tafi", "za ya tafi", "ta tafi"],
+"ans": 0,
+"explanation": "Since 'Bello' is a singular male subject and the time is past (jiya), the correct marker is 'ya tafi'."
+},
+{
+"type": "passage",
+"content": "Noma na daya daga cikin muhimman sana'o'in gargajiya na Hausawa. Tun kafin zuwan Turawa, Hausawa sun kasance suna dogara da noma domin samun abinci da kuma tufafi. Ana yin noma a lokacin damina da kuma lokacin rani ta hanyar ban-ruwa wanda ake kira 'noman fadamu'. Manyan kayan amfanin gona da ake nomawa sun hada da hatsi, wake, gyada, da auduga. Noma ba wai kawai abinci yake samarwa ba, har ma da kudin shiga ga kasar mu.",
+"questions": [
+{
+"q": "Mene ne babban jigon wannan bayani?",
+"opts": ["Sana'ar Noma", "Zuwan Turawa", "Kayan Abinci", "Ban-ruwa"],
+"ans": 0,
+"explanation": "The entire passage focuses on the traditional and economic importance of farming (Noma)."
+},
+{
+"q": "Yaya ake kiran noman da ake yi a lokacin rani?",
+"opts": ["Noman Rani", "Noman Fadamu", "Noman Damina", "Noman Dutse"],
+"ans": 1,
+"explanation": "The passage explicitly states that dry-season farming using irrigation is called 'noman fadamu'."
+},
+{
+"q": "Mene ne amfanin auduga ga mutanen daka bayyana a passage din?",
+"opts": ["Don abinci", "Don kera mota", "Don samar da tufafi", "Don magani"],
+"ans": 2,
+"explanation": "The passage mentions that Hausa people depended on farming for food and 'tufafi' (clothing), which auduga (cotton) provides."
+},
+{
+"q": "Wanne amfanin gona ne ba a ambata a cikin passage din ba?",
+"opts": ["Wake", "Gyada", "Doya", "Auduga"],
+"ans": 2,
+"explanation": "The passage mentions hatsi, wake, gyada, and auduga, but does not mention 'Doya' (Yam)."
+}
+]
+},
+{
+"q": "Wanene babban jagoran sarautar gargajiya a masarautar Kano?",
+"opts": ["Sultan", "Oba", "Emir", "Ooni"],
+"ans": 2,
+"explanation": "Traditional rulers in Northern Nigeria, specifically Kano, hold the title of 'Emir' (Sarki)."
+},
+{
+"q": "Wanne ne 'Bakari' (Consonant) mai fashewa (Ejective)?",
+"opts": ["K'", "B", "D", "S"],
+"ans": 0,
+"explanation": "In Hausa phonology, K' (k tare da lamba) is an ejective consonant, produced with high pressure."
+},
+{
+"q": "Kalmar 'Littattafai' jam'i ne na _____.",
+"opts": ["Litta", "Littafi", "Littan", "Littafe"],
+"ans": 1,
+"explanation": "'Littattafai' is the plural form of the singular noun 'Littafi' (Book)."
+},
+{
+"q": "A ina ake samun 'Karin Magana'?",
+"opts": ["Adabin Baka", "Adabin Rubuce", "Zane", "Wasan kwaikwayo"],
+"ans": 0,
+"explanation": "Proverbs (Karin Magana) are transmitted orally, making them part of 'Adabin Baka' (Oral Literature)."
+},
+{
+"q": "Mene ne 'Daidaitacciyar Hausa' (Standard Hausa)?",
+"opts": ["Hausar Kano", "Hausar Sakkwato", "Hausar Zazzau", "Hausar Katsina"],
+"ans": 0,
+"explanation": "The Kano dialect is generally accepted as the basis for Standard Written Hausa."
+},
+{
+"q": "A cikin lissafi, 'Dari biyar' nawa ne?",
+"opts": ["100", "500", "1000", "50"],
+"ans": 1,
+"explanation": "'Dari' means hundred and 'Biyar' means five, totaling 500."
+},
+{
+"q": "Wanne ne sifa (Adjective) a cikin wannan jimlar: 'Ina son riga fara'?",
+"opts": ["Ina", "Son", "Riga", "Fara"],
+"ans": 3,
+"explanation": "'Fara' (white) describes the noun 'riga', making it an adjective (sifa)."
+},
+{
+"q": "Mene ne kalmar nan 'Guda' take nufi a cikin jimlar 'Na ga guda uku'?",
+"opts": ["Person", "Unit/Item", "Group", "Place"],
+"ans": 1,
+"explanation": "'Guda' acts as a counter or unit, referring to the quantity of items."
+},
+{
+"q": "Idan mace ta haifi 'Tagwaye', mene ne ma'anar hakan?",
+"opts": ["She had a girl", "She had a boy", "She had twins", "She had triplets"],
+"ans": 2,
+"explanation": "'Tagwaye' is the Hausa word for twins."
+},
+{
+"q": "Wanne ne cikin wadannan ba Fi'ili (Verb) ba ne?",
+"opts": ["Gudu", "Cin abinci", "Kyakkyawa", "Kwana"],
+"ans": 2,
+"explanation": "Gudu (run), Cin abinci (eat), and Kwana (sleep) are actions, while Kyakkyawa (beautiful) is an adjective."
+},
+{
+"q": "Menene 'Karin Magana'?",
+"opts": ["Language used by kings", "Wisdom expressed in brief sentences", "Long stories", "Songs"],
+"ans": 1,
+"explanation": "Karin Magana are proverbs used to convey wisdom or hidden meanings succinctly."
+},
+{
+"q": "Wace rana ce take biyo bayan Lahadi?",
+"opts": ["Litinin", "Talata", "Laraba", "Asabar"],
+"ans": 0,
+"explanation": "Lahadi is Sunday; the day following it is 'Litinin' (Monday)."
+},
+{
+"q": "Wanene 'Malam' a cikin al'ummar Hausawa?",
+"opts": ["King", "Teacher/Scholar", "Farmer", "Soldier"],
+"ans": 1,
+"explanation": "'Malam' refers to an educated person, teacher, or religious scholar."
+},
+{
+"q": "Menene ma'anar 'Kayan daki' a wurin biki?",
+"opts": ["Kitchen equipment", "Room decorations", "Bridal gifts for house setup", "Food items"],
+"ans": 2,
+"explanation": "In Hausa wedding culture, 'Kayan daki' refers to the household furniture and utilities provided for the bride's new home."
+},
+{
+"q": "Wanne ne wasalin nan 'i'?",
+"opts": ["Wasali mai fadi", "Wasali mai tsayi", "Wasali dunkule", "Wasali na gaba"],
+"ans": 3,
+"explanation": "The vowel 'i' is classified as a front vowel (wasali na gaba) in Hausa phonology."
+},
+{
+"q": "Wacce dabba ce ake kira 'Sarkin dawa'?",
+"opts": ["Zaki", "Giwa", "Kura", "Doki"],
+"ans": 0,
+"explanation": "'Sarkin dawa' means 'King of the forest/bush', which refers to the Lion (Zaki)."
+},
+{
+"q": "Menene sunan mahaifin mutum a Hausa?",
+"opts": ["Baba", "Kawu", "Gwaggo", "Inna"],
+"ans": 0,
+"explanation": "'Baba' or 'Uba' is the term for father."
+},
+{
+"q": "Wanne sashi na gaba (Syllable) ne 'Ma-ran-ta-wa'?",
+"opts": ["Biyu", "Uku", "Hudu", "Biyar"],
+"ans": 2,
+"explanation": "Ma-ran-ta-wa has four syllables."
+},
+{
+"q": "Menene 'Inkiya'?",
+"opts": ["Real name", "Nickname", "Surname", "Father's name"],
+"ans": 1,
+"explanation": "'Inkiya' refers to a nickname or an alias."
+},
+{
+"q": "Wanne ne sunan babban birnin jihar Kano?",
+"opts": ["Zaria", "Kaduna", "Kano", "Gusau"],
+"ans": 2,
+"explanation": "The capital of Kano State is Kano city."
+},
+{
+"q": "Kammala karin maganar nan: 'Hankali .'",
+"opts": ["shima dadi ne", "maganin dadi", "dukiyarmu ce", "maganin komai"],
+"ans": 3,
+"explanation": "The proverb 'Hankali maganin komai' means wisdom/intelligence is the cure/solution to everything."
+},
+{
+"q": "Wane littafi ne Bello Kagara ya rubuta?",
+"opts": ["Gandoki", "Shaihu Umar", "Jiki Magayi", "Idon Matambayi"],
+"ans": 0,
+"explanation": "Bello Kagara is the author of the epic novel 'Gandoki'."
+},
+{
+"q": "Mene ne 'Wakar Gargajiya'?",
+"opts": ["Modern songs", "Traditional songs", "Political songs", "School songs"],
+"ans": 1,
+"explanation": "'Wakar Gargajiya' refers to indigenous traditional songs often accompanied by local instruments."
+},
+{
+"q": "Wanne bakari (consonant) ne ake kiran sa 'K' dake tare da 'y'?",
+"opts": ["Ky", "Kw", "Ts", "Ch"],
+"ans": 0,
+"explanation": "'Ky' is a labialized/palatalized consonant in Hausa phonology."
+},
+{
+"q": "Menene ma'anar 'Sadarwa'?",
+"opts": ["Transportation", "Communication", "Education", "Health"],
+"ans": 1,
+"explanation": "'Sadarwa' is the Hausa term for Communication."
+},
+{
+"q": "A fannin sarauta, wanene yake biye da Sarki?",
+"opts": ["Waziri", "Dogari", "Talakawa", "Sarkin Noma"],
+"ans": 0,
+"explanation": "The 'Waziri' acts as the Prime Minister or the highest advisor to the King (Sarki)."
+},
+{
+"q": "Menene 'Bayanau' (Adverb)?",
+"opts": ["Modifier of a noun", "Modifier of a verb", "Connector of sentences", "Action word"],
+"ans": 1,
+"explanation": "'Bayanau' is a word that modifies a verb (Fi'ili), describing how an action is performed."
+},
+{
+"q": "Cika wannan: ' muke nufi.'",
+"opts": ["Ku", "Mu", "Su", "Ni"],
+"ans": 1,
+"explanation": "The plural verb marker 'muke' corresponds to the first-person plural pronoun 'Mu' (We)."
+},
+{
+"q": "Wane asali ne Hausawa suke da shi na farko?",
+"opts": ["Banza Bakwai", "Hausa Bakwai", "Fula", "Tuareg"],
+"ans": 1,
+"explanation": "The 'Hausa Bakwai' represents the seven original Hausa city-states."
+},
+{
+"q": "A wanne lokaci ne ake cin 'Tuwon Suna'?",
+"opts": ["Marriage", "Funeral", "Naming Ceremony", "Harvest"],
+"ans": 2,
+"explanation": "'Tuwon Suna' is the special meal prepared during a naming ceremony."
+},
+{
+"q": "Mene ne 'Ami' (Tones) a cikin Hausa?",
+"opts": ["Vowels", "Consonants", "Pitch variations (High/Low)", "Numbers"],
+"ans": 2,
+"explanation": "Hausa is a tonal language where 'Ami' indicates the high, low, or falling pitch of a syllable."
+},
+{
+"q": "Wanne littafi ne Sir Abubakar Tafawa Balewa ya rubuta?",
+"opts": ["Shaihu Umar", "Ruwan Bagaja", "Magana Jari Ce", "Gandoki"],
+"ans": 0,
+"explanation": "The first Prime Minister of Nigeria, Sir Abubakar Tafawa Balewa, wrote 'Shaihu Umar'."
+},
+{
+"q": "Wace sana'a ce 'Saka'?",
+"opts": ["Fishing", "Weaving", "Hunting", "Pottery"],
+"ans": 1,
+"explanation": "'Saka' refers to the traditional craft of weaving clothes."
+},
+{
+"q": "Menene ma'anar 'Dan-koli'?",
+"opts": ["Farmer", "Petty trader", "Prince", "Student"],
+"ans": 1,
+"explanation": "A 'Dan-koli' is a traditional petty trader who travels to sell small household wares."
+},
+{
+"q": "Wanne ne sunan dabba mai wuya mai tsayi?",
+"opts": ["Rakumi", "Rakumin Dawa (Giraffe)", "Zaki", "Biri"],
+"ans": 1,
+"explanation": "'Rakumin Dawa' is the Hausa name for a Giraffe, characterized by its long neck."
+},
+{
+"q": "Menene 'Jinsin miji' (Masculine)?",
+"opts": ["Uwa", "Kanwa", "Yaya (male)", "Yarinya"],
+"ans": 2,
+"explanation": "In most contexts, 'Yaya' (older brother) is masculine, while the others are feminine."
+},
+{
+"q": "Wanne bangare ne na Sauti ake kira 'Amshi'?",
+"opts": ["Stress", "Tone", "Pause", "Rhyme"],
+"ans": 1,
+"explanation": "'Amshi' is often used interchangeably with Tone or the musical response in poetry."
+},
+{
+"q": "Mene ne ma'anar 'K'ungiyar asiri'?",
+"opts": ["Cooperative society", "Secret cult/society", "Youth club", "Political party"],
+"ans": 1,
+"explanation": "'K'ungiyar asiri' refers to a secret society or cult."
+},
+{
+"q": "Wace rana ce 'Friday' a Hausa?",
+"opts": ["Alhamis", "Jumma'a", "Asabar", "Litinin"],
+"ans": 1,
+"explanation": "Friday is called 'Jumma'a', the holy day for Muslims."
+},
+{
+"q": "Cika wannan: 'Ina _____ zuwa gida.'",
+"opts": ["so", "son", "se", "sun"],
+"ans": 1,
+"explanation": "The correct construction for 'I want' is 'Ina son' before a verb phrase."
+},
+{
+"q": "Menene 'Tatsuniya'?",
+"opts": ["History", "Fiction/Folktale", "Poetry", "Law"],
+"ans": 1,
+"explanation": "Tatsuniya refers to fictional folktales often told to children at night."
+},
+{
+"q": "Wanne ne cikin wadannan wasali ne mai tsawo?",
+"opts": ["aa", "a", "u", "i"],
+"ans": 0,
+"explanation": "In Hausa orthography, doubling a vowel (e.g., 'aa') represents a long vowel sound."
+},
+{
+"q": "Menene 'Karin harshe'?",
+"opts": ["Dialect", "Grammar", "Proverb", "Tongue twister"],
+"ans": 0,
+"explanation": "'Karin harshe' refers to the different dialects or variations of a language."
+},
+{
+"q": "Wanne ne siffa (Adjective) na launi (color)?",
+"opts": ["Dogon", "Baki", "Gudu", "Biyar"],
+"ans": 1,
+"explanation": "'Baki' means black, which is a color adjective."
+},
+{
+"q": "Menene 'Gishirin jimla'?",
+"opts": ["Noun", "Verb", "Particles/Conjunctions", "Adverb"],
+"ans": 2,
+"explanation": "Particles and small functional words like 'da', 'ko', 'ma' are often called the 'salt' (gishiri) of a sentence."
+},
+{
+"q": "A ina ake yin sana'ar 'Fatuwa'?",
+"opts": ["River", "Market/Long distance trade", "Farm", "Workshop"],
+"ans": 1,
+"explanation": "'Fatuwa' is the traditional long-distance trading system."
+},
+{
+"q": "Menene 'Surutu'?",
+"opts": ["Silence", "Noise/Chatter", "Song", "Prayer"],
+"ans": 1,
+"explanation": "'Surutu' refers to excessive talking or noise."
+},
+{
+"q": "Wanne ne kalmar nuni na nesa (Far demonstrative)?",
+"opts": ["Wannan", "Wancan", "Nan", "Can"],
+"ans": 1,
+"explanation": "'Wancan' means 'that one over there', used for distant objects."
+},
+{
+"q": "Menene 'Wakilin suna na mallaka' (Possessive Pronoun)?",
+"opts": ["Nawa", "Kai", "Su", "Mu"],
+"ans": 0,
+"explanation": "'Nawa' means 'mine', indicating possession."
+},
+{
+"q": "Wace dabba ce 'Kura'?",
+"opts": ["Lion", "Hyena", "Elephant", "Monkey"],
+"ans": 1,
+"explanation": "'Kura' is the Hausa name for a Hyena."
+},
+{
+"q": "Mene ne 'Aure'?",
+"opts": ["Death", "Marriage", "Birth", "Naming"],
+"ans": 1,
+"explanation": "Aure is the legal union between a man and a woman."
+},
+{
+"q": "Menene 'Sana'o'i'?",
+"opts": ["Hobbies", "Occupations/Trades", "Schools", "Diseases"],
+"ans": 1,
+"explanation": "Sana'o'i refers to the various ways people earn a living (Trades/Crafts)."
+},
+{
+"q": "Wanene ya kera wannan: 'Sarkin ruwa'?",
+"opts": ["Head of farmers", "Head of fishers", "Head of smiths", "Head of weavers"],
+"ans": 1,
+"explanation": "The title 'Sarkin Ruwa' is given to the head of the fishermen community."
+},
+{
+"q": "Menene 'Labarin zuciya'?",
+"opts": ["A secret", "An open news", "A physical illness", "A type of food"],
+"ans": 0,
+"explanation": "In metaphorical Hausa, 'Labarin zuciya' refers to one's inner secrets or true feelings."
+},
+{
+"q": "Wanne ne sunan azuzuwan Hausa?",
+"opts": ["A, B, C", "Bakandamiya", "Lamba", "Daidaitacciya"],
+"ans": 3,
+"explanation": "Daidaitacciyar Hausa refers to the standard academic form of the language."
+},
+{
+"q": "Menene 'Amshi' a cikin waka?",
+"opts": ["Title", "The ending of a line/refrain", "The melody", "The singer's name"],
+"ans": 1,
+"explanation": "Amshi refers to the refrain or the response provided by the backup singers."
+},
+{
+"q": "Cika wannan: 'Ina _____ Hausa.'",
+"opts": ["jin", "ganin", "tafiya", "sha"],
+"ans": 0,
+"explanation": "To understand or speak a language, the word 'ji' (hear/feel/understand) is used. 'Ina jin Hausa'."
+}
+]
