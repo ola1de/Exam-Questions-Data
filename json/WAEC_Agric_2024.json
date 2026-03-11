@@ -1,1 +1,772 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "The Land Use Act of 1978 was enacted in Nigeria primarily to _____.",
+"opts": [
+"encourage traditional land tenure systems",
+"vest ownership of land in the federal government",
+"vest all land in the state in the Governor of that state",
+"ensure land is sold at high prices to farmers"
+],
+"ans": 2,
+"explanation": "The Land Use Act of 1978 vests all land in the territory of each state in the Governor of that state, who holds it in trust for the people and issues Certificates of Occupancy (C of O)."
+},
+{
+"q": "Which of the following is a problem associated with the land tenure system of inheritance?",
+"opts": [
+"Improvement of soil fertility",
+"Fragmentation of land",
+"Large-scale commercial farming",
+"Mechanization of the farm"
+],
+"ans": 1,
+"explanation": "Inheritance leads to the division of land among many children, resulting in small, scattered plots (fragmentation) that are difficult to manage for commercial agriculture."
+},
+{
+"q": "The primary role of agriculture in the economic development of Nigeria is the _____.",
+"opts": [
+"provision of industrial machinery",
+"provision of food and raw materials",
+"creation of urban slums",
+"promotion of heavy metal mining"
+],
+"ans": 1,
+"explanation": "Agriculture is the main source of food for the population and raw materials (like cocoa, rubber, and palm oil) for the industrial sector."
+},
+{
+"q": "Which of the following is an example of an igneous rock?",
+"opts": [
+"Limestone",
+"Sandstone",
+"Granite",
+"Marble"
+],
+"ans": 2,
+"explanation": "Granite is formed from the cooling and solidification of molten magma, making it an igneous rock. Limestone and sandstone are sedimentary, while marble is metamorphic."
+},
+{
+"q": "The process of rock weathering that involves the reaction of minerals with water to form new compounds is _____.",
+"opts": [
+"Hydration",
+"Hydrolysis",
+"Oxidation",
+"Carbonation"
+],
+"ans": 1,
+"explanation": "Hydrolysis is a chemical weathering process where water reacts with minerals to produce new substances, such as the change of feldspar into clay."
+},
+{
+"q": "A soil sample has a pH of 4.5. This soil is said to be _____.",
+"opts": [
+"Alkaline",
+"Neutral",
+"Acidic",
+"Saline"
+],
+"ans": 2,
+"explanation": "Soil with a pH below 7.0 is acidic. A pH of 4.5 is strongly acidic and may require liming for most crops to grow well."
+},
+{
+"q": "Which soil component has the smallest particle size?",
+"opts": [
+"Gravel",
+"Sand",
+"Silt",
+"Clay"
+],
+"ans": 3,
+"explanation": "Clay particles are less than 0.002mm in diameter, making them the smallest soil mineral particles with high water-holding capacity."
+},
+{
+"q": "The most effective method of controlling soil erosion on a steep slope is _____.",
+"opts": [
+"Monocropping",
+"Terracing",
+"Overgrazing",
+"Clean clearing"
+],
+"ans": 1,
+"explanation": "Terracing involves creating 'steps' on a slope to reduce the speed of runoff water, thereby preventing the washing away of topsoil."
+},
+{
+"q": "The symbiotic relationship between legumes and Rhizobium bacteria leads to _____.",
+"opts": [
+"phosphorus fixation",
+"nitrogen fixation",
+"potassium mobilization",
+"denitrification"
+],
+"ans": 1,
+"explanation": "Rhizobium bacteria live in the root nodules of legumes and convert atmospheric nitrogen into nitrates that the plant can use."
+},
+{
+"q": "Which of the following is a macronutrient required by plants?",
+"opts": [
+"Zinc",
+"Copper",
+"Boron",
+"Potassium"
+],
+"ans": 3,
+"explanation": "Potassium (K) is a primary macronutrient, along with Nitrogen (N) and Phosphorus (P). Zinc, Copper, and Boron are micronutrients."
+},
+{
+"q": "The implement used for turning the soil and burying weeds is the _____.",
+"opts": [
+"Disc harrow",
+"Ridger",
+"Mouldboard plough",
+"Planter"
+],
+"ans": 2,
+"explanation": "The mouldboard plough is specifically designed to cut, lift, and flip the soil completely, which buries weeds and crop residues."
+},
+{
+"q": "Which of the following is a simple farm tool used for harvesting rice?",
+"opts": [
+"Spade",
+"Sickle",
+"Pick-axe",
+"Rake"
+],
+"ans": 1,
+"explanation": "A sickle is a hand-held tool with a curved blade used for cutting grasses or harvesting cereals like rice and wheat."
+},
+{
+"q": "The purpose of a harvester is to _____.",
+"opts": [
+"apply fertilizer",
+"cut and gather mature crops",
+"shell maize grains",
+"irrigate the field"
+],
+"ans": 1,
+"explanation": "A harvester is a machine used to reap or cut and gather crops when they are ready."
+},
+{
+"q": "Which part of a tractor provides the power to drive stationary machinery like a thresher?",
+"opts": [
+"Steering wheel",
+"Power Take-Off (PTO)",
+"Hydraulic system",
+"Drawbar"
+],
+"ans": 1,
+"explanation": "The PTO is a shaft at the rear of a tractor that transfers engine power to drive implements or stationary machines."
+},
+{
+"q": "The survey instrument used for measuring vertical angles is the _____.",
+"opts": [
+"Theodolite",
+"Gunter's chain",
+"Prismatic compass",
+"Measuring tape"
+],
+"ans": 0,
+"explanation": "A theodolite is a precision instrument used for measuring both horizontal and vertical angles in farm surveying."
+},
+{
+"q": "In farm planning, the map that shows the layout of a farm, including buildings and plots, is the _____.",
+"opts": [
+"Topographical map",
+"Farm layout",
+"Soil map",
+"Weather map"
+],
+"ans": 1,
+"explanation": "A farm layout is a diagrammatic representation of the arrangement of all farm structures and enterprises on the land."
+},
+{
+"q": "The application of water to the soil artificially to promote crop growth is _____.",
+"opts": [
+"Drainage",
+"Mulching",
+"Irrigation",
+"Fertilization"
+],
+"ans": 2,
+"explanation": "Irrigation is the artificial supply of water to land or crops to help growth, typically in dry areas or during periods of inadequate rainfall."
+},
+{
+"q": "Which of the following is a system of drainage?",
+"opts": [
+"Sprinkler",
+"Drip",
+"Cambered bed",
+"Basin"
+],
+"ans": 2,
+"explanation": "Cambered beds are raised areas that allow excess water to flow into side furrows, a form of surface drainage. Sprinkler and Drip are irrigation methods."
+},
+{
+"q": "The type of irrigation where water is supplied to the base of each plant through pipes is _____.",
+"opts": [
+"Furrow irrigation",
+"Overhead irrigation",
+"Drip irrigation",
+"Flood irrigation"
+],
+"ans": 2,
+"explanation": "Drip (or trickle) irrigation is the most water-efficient method, delivering water directly to the root zone of plants."
+},
+{
+"q": "The removal of excess water from the farm land is known as _____.",
+"opts": [
+"Irrigation",
+"Drainage",
+"Evaporation",
+"Transpiration"
+],
+"ans": 1,
+"explanation": "Drainage is the process of removing excess water from the soil surface or sub-surface to prevent waterlogging."
+},
+{
+"q": "The botanical name for maize is _____.",
+"opts": [
+"Oryza sativa",
+"Zea mays",
+"Vigna unguiculata",
+"Manihot esculenta"
+],
+"ans": 1,
+"explanation": "Zea mays is the scientific name for maize. Oryza sativa is rice, Vigna unguiculata is cowpea, and Manihot esculenta is cassava."
+},
+{
+"q": "Which of the following crops is a legume?",
+"opts": [
+"Sorghum",
+"Groundnut",
+"Yam",
+"Millet"
+],
+"ans": 1,
+"explanation": "Groundnut (peanut) belongs to the family Fabaceae, which are legumes known for their nitrogen-fixing capabilities."
+},
+{
+"q": "The practice of growing only one type of crop on a piece of land at a time is _____.",
+"opts": [
+"Mixed cropping",
+"Monocropping",
+"Crop rotation",
+"Intercropping"
+],
+"ans": 1,
+"explanation": "Monocropping is the agricultural practice of growing a single crop year after year on the same land."
+},
+{
+"q": "A nursery is essential for the production of _____.",
+"opts": [
+"Maize",
+"Cocoa",
+"Cowpea",
+"Cassava"
+],
+"ans": 1,
+"explanation": "Cocoa seeds are delicate and require controlled conditions in a nursery before being transplanted to the permanent field."
+},
+{
+"q": "The process of removing excess seedlings from a stand is known as _____.",
+"opts": [
+"Thinning",
+"Supplying",
+"Pruning",
+"Mulching"
+],
+"ans": 0,
+"explanation": "Thinning is the removal of some plants to give the remaining ones enough space and nutrients to grow properly."
+},
+{
+"q": "Which of the following is a storage pest of grains?",
+"opts": [
+"Aphid",
+"Weevil",
+"Grasshopper",
+"Stem borer"
+],
+"ans": 1,
+"explanation": "Weevils (e.g., maize weevil or bean weevil) are notorious for attacking and destroying stored grains and pulses."
+},
+{
+"q": "The chemical used to kill weeds is called a/an _____.",
+"opts": [
+"Insecticide",
+"Fungicide",
+"Herbicide",
+"Rodenticide"
+],
+"ans": 2,
+"explanation": "Herbicides are chemical substances used to control or destroy unwanted plants (weeds)."
+},
+{
+"q": "Which of the following crops is propagated by stem cuttings?",
+"opts": [
+"Yam",
+"Maize",
+"Cassava",
+"Rice"
+],
+"ans": 2,
+"explanation": "Cassava is typically propagated vegetatively using stem cuttings (stakes) about 20-25cm long."
+},
+{
+"q": "The 'Taungya system' refers to the _____.",
+"opts": [
+"rearing of animals in the forest",
+"integration of food crops with forest trees",
+"burning of forests for hunting",
+"use of chemicals to kill trees"
+],
+"ans": 1,
+"explanation": "Taungya is an agroforestry system where farmers are allowed to plant food crops between young forest trees until the trees canopy closes."
+},
+{
+"q": "Which of the following is a fungal disease of crops?",
+"opts": [
+"Maize streak",
+"Cassava mosaic",
+"Rice blast",
+"Citrus tristeza"
+],
+"ans": 2,
+"explanation": "Rice blast, caused by Magnaporthe oryzae, is a devastating fungal disease. The others listed are viral diseases."
+},
+{
+"q": "The period between the mating of an animal and the birth of its young is _____.",
+"opts": [
+"Lactation period",
+"Gestation period",
+"Incubation period",
+"Oestrus cycle"
+],
+"ans": 1,
+"explanation": "Gestation is the time during which the embryo or fetus develops inside the mother's womb."
+},
+{
+"q": "A castrated male pig is called a _____.",
+"opts": [
+"Boar",
+"Gilt",
+"Sow",
+"Barrow"
+],
+"ans": 3,
+"explanation": "A boar is an intact male, a sow is a mature female, a gilt is a young female, and a barrow is a castrated male pig."
+},
+{
+"q": "Which of the following animals is a ruminant?",
+"opts": [
+"Rabbit",
+"Pig",
+"Goat",
+"Poultry"
+],
+"ans": 2,
+"explanation": "Goats are ruminants because they have a four-compartment stomach (rumen, reticulum, omasum, abomasum) and chew the cud."
+},
+{
+"q": "The first milk produced by a mother animal after parturition is called _____.",
+"opts": [
+"Whole milk",
+"Skimmed milk",
+"Colostrum",
+"Pasteurized milk"
+],
+"ans": 2,
+"explanation": "Colostrum is rich in antibodies (immunoglobulins) that provide passive immunity to the newborn animal."
+},
+{
+"q": "Which of the following is an example of a concentrate feed?",
+"opts": [
+"Silage",
+"Hay",
+"Maize offal",
+"Fresh grass"
+],
+"ans": 2,
+"explanation": "Maize offal is a concentrate feed because it is low in fiber and high in energy/nutrients. Silage and hay are roughages."
+},
+{
+"q": "The part of the poultry digestive system where grinding of food occurs is the _____.",
+"opts": [
+"Crop",
+"Proventriculus",
+"Gizzard",
+"Cloaca"
+],
+"ans": 2,
+"explanation": "The gizzard (ventriculus) is a muscular organ that uses grit or small stones to grind food in birds."
+},
+{
+"q": "Newcastle disease is a common viral disease affecting _____.",
+"opts": [
+"Cattle",
+"Poultry",
+"Pigs",
+"Sheep"
+],
+"ans": 1,
+"explanation": "Newcastle disease is a highly contagious and fatal viral disease of birds, especially domestic poultry."
+},
+{
+"q": "The process of removing the horns of an animal is known as _____.",
+"opts": [
+"Docking",
+"Dehorning",
+"Castration",
+"Culling"
+],
+"ans": 1,
+"explanation": "Dehorning (or disbudding in young animals) is done to prevent injury to other animals and handlers."
+},
+{
+"q": "Artificial insemination is the _____.",
+"opts": [
+"natural mating of animals",
+"introduction of semen into the female reproductive tract by human intervention",
+"killing of inferior male animals",
+"feeding of animals with artificial hormones"
+],
+"ans": 1,
+"explanation": "Artificial Insemination (AI) allows the use of high-quality semen from superior males to impregnate many females without physical contact."
+},
+{
+"q": "An example of an ectoparasite of livestock is _____.",
+"opts": [
+"Tapeworm",
+"Liver fluke",
+"Tick",
+"Roundworm"
+],
+"ans": 2,
+"explanation": "Ticks live on the external surface (skin) of the host, making them ectoparasites. Tapeworms and flukes are endoparasites."
+},
+{
+"q": "The law of diminishing marginal returns states that as more units of a variable input are added to a fixed input, the _____.",
+"opts": [
+"total product will decrease immediately",
+"marginal product will eventually decrease",
+"total product will remain constant",
+"average product will always increase"
+],
+"ans": 1,
+"explanation": "This fundamental economic law states that adding more of one factor of production while holding others constant will at some point yield lower per-unit returns."
+},
+{
+"q": "In agricultural marketing, the people who buy in bulk from farmers and sell to retailers are _____.",
+"opts": [
+"Consumers",
+"Wholesalers",
+"Producers",
+"Processors"
+],
+"ans": 1,
+"explanation": "Wholesalers act as middlemen who bridge the gap between large-scale production and small-scale retail."
+},
+{
+"q": "Which of the following is a fixed cost in a poultry enterprise?",
+"opts": [
+"Cost of feed",
+"Cost of vaccines",
+"Cost of poultry house construction",
+"Wages of casual laborers"
+],
+"ans": 2,
+"explanation": "Fixed costs do not change with the level of output. The building is a long-term investment (fixed), while feed and vaccines are variable costs."
+},
+{
+"q": "A farm record that shows the day-to-day activities on the farm is the _____.",
+"opts": [
+"Farm inventory",
+"Cash book",
+"Farm diary",
+"Labour record"
+],
+"ans": 2,
+"explanation": "A farm diary or logbook is used to record daily observations, operations, and events on the farm."
+},
+{
+"q": "Agricultural extension aims at _____.",
+"opts": [
+"distributing free tractors to all farmers",
+"teaching farmers modern farming techniques",
+"buying all farm produce at fixed prices",
+"imposing taxes on rural dwellers"
+],
+"ans": 1,
+"explanation": "Agricultural extension is an educational process that disseminates scientific information and new technologies to farmers to improve productivity."
+},
+{
+"q": "The use of posters and radio programs to reach farmers is an example of _____.",
+"opts": [
+"Individual contact method",
+"Group contact method",
+"Mass contact method",
+"Result demonstration"
+],
+"ans": 2,
+"explanation": "Mass contact methods are used to reach a large, diverse audience simultaneously."
+},
+{
+"q": "Which of the following is a source of farm credit?",
+"opts": [
+"Money lenders",
+"Agricultural banks",
+"Cooperative societies",
+"All of the above"
+],
+"ans": 3,
+"explanation": "Farmers can obtain credit from both formal sources (banks, cooperatives) and informal sources (money lenders)."
+},
+{
+"q": "The total value of assets minus the total value of liabilities of a farm is the _____.",
+"opts": [
+"Gross margin",
+"Net worth",
+"Net income",
+"Variable cost"
+],
+"ans": 1,
+"explanation": "Net worth (or Equity) represents the owner's stake in the business after all debts have been settled."
+},
+{
+"q": "A market situation with only one seller is called _____.",
+"opts": [
+"Monopoly",
+"Oligopoly",
+"Monopsony",
+"Perfect competition"
+],
+"ans": 0,
+"explanation": "A monopoly exists when a single individual or organization is the sole supplier of a particular commodity or service."
+},
+{
+"q": "The function of a farm manager which involves looking into the future and setting goals is _____.",
+"opts": [
+"Organizing",
+"Planning",
+"Coordinating",
+"Directing"
+],
+"ans": 1,
+"explanation": "Planning is the primary management function that involves deciding in advance what to do, how to do it, and who is to do it."
+},
+{
+"q": "The type of rock formed from the accumulation of sediments over time is _____.",
+"opts": [
+"Igneous rock",
+"Sedimentary rock",
+"Metamorphic rock",
+"Volcanic rock"
+],
+"ans": 1,
+"explanation": "Sedimentary rocks are formed by the deposition and subsequent cementation of mineral or organic particles."
+},
+{
+"q": "Soil texture refers to the _____.",
+"opts": [
+"arrangement of soil particles",
+"relative proportion of sand, silt, and clay",
+"ability of soil to support life",
+"color of the soil"
+],
+"ans": 1,
+"explanation": "Texture is an inherent property of soil determined by the size distribution of its mineral particles."
+},
+{
+"q": "Which of the following organisms is a soil macro-fauna?",
+"opts": [
+"Bacteria",
+"Fungi",
+"Earthworm",
+"Protozoa"
+],
+"ans": 2,
+"explanation": "Earthworms are large enough to be seen with the naked eye (macro-fauna), whereas bacteria and fungi are micro-organisms."
+},
+{
+"q": "In the nitrogen cycle, the conversion of ammonia to nitrates is called _____.",
+"opts": [
+"Nitrogen fixation",
+"Nitrification",
+"Denitrification",
+"Ammonification"
+],
+"ans": 1,
+"explanation": "Nitrification is a two-step biological process where ammonia is oxidized to nitrite and then to nitrate by specific bacteria (Nitrosomonas and Nitrobacter)."
+},
+{
+"q": "Which of the following is a physical property of soil?",
+"opts": [
+"Cation exchange capacity",
+"Soil structure",
+"Organic matter content",
+"Mineral nutrient levels"
+],
+"ans": 1,
+"explanation": "Soil structure refers to the way soil particles are grouped together into aggregates (peds)."
+},
+{
+"q": "The primary objective of soil conservation is to _____.",
+"opts": [
+"increase the depth of the soil",
+"maintain soil fertility and prevent erosion",
+"change the soil texture",
+"remove all living organisms from the soil"
+],
+"ans": 1,
+"explanation": "Soil conservation involves practices aimed at protecting soil from degradation and ensuring its long-term productivity."
+},
+{
+"q": "Green manuring involves _____.",
+"opts": [
+"applying urea to the field",
+"ploughing under green, succulent crops into the soil",
+"using animal dung",
+"painting the soil green"
+],
+"ans": 1,
+"explanation": "Green manure crops (usually legumes) are grown and incorporated into the soil while still green to improve organic matter and nitrogen content."
+},
+{
+"q": "Which of the following irrigation methods is most wasteful of water?",
+"opts": [
+"Drip irrigation",
+"Sprinkler irrigation",
+"Flood irrigation",
+"Canal irrigation"
+],
+"ans": 2,
+"explanation": "Flood irrigation involves covering the entire field with water, leading to high losses through evaporation and deep percolation."
+},
+{
+"q": "A soil with high capillarity _____.",
+"opts": [
+"allows water to drain away very quickly",
+"allows water to rise easily through small pores",
+"cannot hold any water at all",
+"is always sandy in nature"
+],
+"ans": 1,
+"explanation": "Capillarity is the ability of water to move upwards against gravity in narrow spaces, which is highest in clayey soils due to small pore sizes."
+},
+{
+"q": "Organic matter in the soil is primarily derived from _____.",
+"opts": [
+"weathered rocks",
+"decomposed plants and animals",
+"chemical fertilizers",
+"rainfall"
+],
+"ans": 1,
+"explanation": "Organic matter (humus) is formed from the biological decomposition of residues of plants and animals."
+},
+{
+"q": "The term 'monandry' in animal breeding refers to _____.",
+"opts": [
+"mating one male with many females",
+"mating one female with only one male",
+"mating many males with one female",
+"preventing animals from mating"
+],
+"ans": 1,
+"explanation": "Monandry is a mating system where a female has only one mate at a time."
+},
+{
+"q": "Which of the following is a symptom of vitamin A deficiency in livestock?",
+"opts": [
+"Scurvy",
+"Night blindness",
+"Rickets",
+"Anemia"
+],
+"ans": 1,
+"explanation": "Vitamin A is essential for vision; its deficiency leads to xerophthalmia or night blindness. Rickets is due to Vitamin D deficiency."
+},
+{
+"q": "The process of egg-laying in poultry is called _____.",
+"opts": [
+"Parturition",
+"Oviposition",
+"Incubation",
+"Hatching"
+],
+"ans": 1,
+"explanation": "Oviposition is the technical term for the act of laying an egg."
+},
+{
+"q": "In Mendelian inheritance, a cross between two heterozygous (Tt) tall plants will result in a phenotypic ratio of _____.",
+"opts": [
+"1:1",
+"3:1",
+"9:3:3:1",
+"1:2:1"
+],
+"ans": 1,
+"explanation": "The cross Tt x Tt results in offspring: TT (Tall), Tt (Tall), Tt (Tall), and tt (Dwarf). Phenotypically, that is 3 Tall to 1 Dwarf."
+},
+{
+"q": "The study of the relationship between living organisms and their environment is _____.",
+"opts": [
+"Agronomy",
+"Pathology",
+"Ecology",
+"Entomology"
+],
+"ans": 2,
+"explanation": "Ecology focuses on how organisms interact with each other and their physical surroundings."
+},
+{
+"q": "Which of the following is a function of the liver in animals?",
+"opts": [
+"Production of insulin",
+"Storage of glycogen and vitamins",
+"Pumping of blood",
+"Gaseous exchange"
+],
+"ans": 1,
+"explanation": "The liver plays a vital role in metabolism, including the storage of glucose as glycogen and the detoxification of chemicals."
+},
+{
+"q": "The method of selecting animals for breeding based on the performance of their ancestors is _____.",
+"opts": [
+"Pedigree selection",
+"Progeny testing",
+"Individual selection",
+"Mass selection"
+],
+"ans": 0,
+"explanation": "Pedigree selection relies on the records of the parents, grandparents, and other ancestors."
+},
+{
+"q": "The primary advantage of zero-grazing (stall feeding) is that it _____.",
+"opts": [
+"allows animals to exercise freely",
+"reduces the risk of parasite infestation",
+"is cheaper than ranching",
+"requires no specialized equipment"
+],
+"ans": 1,
+"explanation": "In zero-grazing, fodder is brought to the animals. This prevents them from picking up worms or ticks from the pasture."
+},
+{
+"q": "Which of the following is an example of a bi-sexual (hermaphrodite) animal?",
+"opts": [
+"Snail",
+"Chicken",
+"Cattle",
+"Sheep"
+],
+"ans": 0,
+"explanation": "Many land snails are hermaphrodites, possessing both male and female reproductive organs."
+},
+{
+"q": "The act of giving birth in rabbits is called _____.",
+"opts": [
+"Farrowing",
+"Kindling",
+"Kidding",
+"Lambing"
+],
+"ans": 1,
+"explanation": "Kindling is parturition in rabbits. Farrowing is for pigs, kidding for goats, and lambing for sheep."
+}
+]
