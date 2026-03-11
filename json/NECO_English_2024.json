@@ -1,1 +1,839 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Neither the players nor their coach _____ happy with the referee's decision yesterday.",
+"opts": [
+"is",
+"were",
+"was",
+"are"
+],
+"ans": 2,
+"explanation": "According to the rule of proximity in 'neither/nor' structures, the verb agrees with the closer subject. 'Coach' is singular, so 'was' is the correct past tense form."
+},
+{
+"q": "The principal congratulated the students _____ their brilliant performance in the debate.",
+"opts": [
+"for",
+"on",
+"at",
+"about"
+],
+"ans": 1,
+"explanation": "The verb 'congratulate' is idiomatically followed by the preposition 'on'."
+},
+{
+"q": "By the time the doctor arrived, the patient _____.",
+"opts": [
+"has died",
+"died",
+"had died",
+"was dying"
+],
+"ans": 2,
+"explanation": "The past perfect tense 'had died' is used to describe an action that was completed before another action (the doctor's arrival) in the past."
+},
+{
+"q": "The suspect _____ to the crime after hours of interrogation.",
+"opts": [
+"admitted",
+"confessed",
+"accepted",
+"agreed"
+],
+"ans": 1,
+"explanation": "To 'confess' is to formally admit that one has committed a crime."
+},
+{
+"q": "If I _____ his address, I would have visited him.",
+"opts": [
+"know",
+"knew",
+"had known",
+"have known"
+],
+"ans": 2,
+"explanation": "This is a third conditional sentence expressing an unreal past situation. The structure is 'If + past perfect, would have + past participle'."
+},
+{
+"q": "The committee reached a _____ after a long deliberation.",
+"opts": [
+"consensus",
+"conscience",
+"consent",
+"consequence"
+],
+"ans": 0,
+"explanation": "A consensus is a general agreement among a group of people."
+},
+{
+"q": "Choose the word most nearly opposite in meaning to the underlined word: The manager is known for being <u>extravagant</u>.",
+"opts": [
+"generous",
+"frugal",
+"careless",
+"wealthy"
+],
+"ans": 1,
+"explanation": "'Extravagant' means spending money excessively; 'frugal' means being economical or cautious with spending."
+},
+{
+"q": "Choose the word most nearly opposite in meaning to the underlined word: The soldiers fought <u>valiantly</u> against the invaders.",
+"opts": [
+"boldly",
+"cowardly",
+"fiercely",
+"skilfully"
+],
+"ans": 1,
+"explanation": "'Valiantly' means with courage. The opposite is 'cowardly'."
+},
+{
+"q": "The teacher told the students to look _____ the difficult words in the dictionary.",
+"opts": [
+"at",
+"out",
+"up",
+"into"
+],
+"ans": 2,
+"explanation": "The phrasal verb 'look up' means to search for information in a reference book like a dictionary."
+},
+{
+"q": "Adah takes _____ her mother in character.",
+"opts": [
+"after",
+"on",
+"to",
+"by"
+],
+"ans": 0,
+"explanation": "To 'take after' means to resemble a parent or relative in appearance or character."
+},
+{
+"type": "passage",
+"content": "The menace of environmental pollution has become a global concern. In Nigeria, the situation is worsened by poor waste management practices and the lack of strict enforcement of environmental laws. Industrial activities in cities like Lagos and Port Harcourt release toxic gases into the atmosphere, while plastic waste clogs the drainage systems, leading to perennial flooding. Environmentalists argue that unless there is a collective effort to adopt sustainable habits, the future of the planet remains bleak.",
+"questions": [
+{
+"q": "According to the passage, why is environmental pollution a major problem in Nigeria?",
+"opts": [
+"Lack of industries",
+"Poor waste management and weak law enforcement",
+"Too much rainfall",
+"Abundance of plastic"
+],
+"ans": 1,
+"explanation": "The passage states that the situation is worsened by 'poor waste management practices and the lack of strict enforcement of environmental laws'."
+},
+{
+"q": "What is the effect of plastic waste as mentioned in the passage?",
+"opts": [
+"It improves soil fertility",
+"It blocks drainage systems",
+"It purifies the atmosphere",
+"It prevents global warming"
+],
+"ans": 1,
+"explanation": "The passage notes that 'plastic waste clogs the drainage systems'."
+},
+{
+"q": "Which cities were mentioned as examples of industrial pollution sites?",
+"opts": [
+"Abuja and Kano",
+"Lagos and Port Harcourt",
+"Enugu and Ibadan",
+"Kaduna and Jos"
+],
+"ans": 1,
+"explanation": "The passage explicitly names 'Lagos and Port Harcourt'."
+},
+{
+"q": "The word 'perennial' as used in the passage means _____.",
+"opts": [
+"occasional",
+"unlikely",
+"continually recurring",
+"sudden"
+],
+"ans": 2,
+"explanation": "'Perennial' refers to something that lasts for a long time or recurs repeatedly."
+},
+{
+"q": "What is the recommended solution according to the passage?",
+"opts": [
+"Stopping all industrial activities",
+"Moving to rural areas",
+"Collective adoption of sustainable habits",
+"Banning all plastics immediately"
+],
+"ans": 2,
+"explanation": "The author concludes that 'unless there is a collective effort to adopt sustainable habits, the future remains bleak'."
+}
+]
+},
+{
+"q": "Choose the word most nearly synonymous with the underlined word: The lawyer gave a <u>vivid</u> description of the scene.",
+"opts": [
+"vague",
+"graphic",
+"boring",
+"long"
+],
+"ans": 1,
+"explanation": "'Vivid' and 'graphic' both mean producing powerful, clear, or detailed images in the mind."
+},
+{
+"q": "The judge dismissed the case because the evidence was _____.",
+"opts": [
+"inadmissible",
+"incredible",
+"indelible",
+"inevitable"
+],
+"ans": 0,
+"explanation": "'Inadmissible' evidence is evidence that cannot be accepted or allowed in a court of law."
+},
+{
+"q": "He is a <u>bone of contention</u> between the two families. This idiom means _____.",
+"opts": [
+"a source of wealth",
+"a mutual friend",
+"a cause of dispute",
+"a strong link"
+],
+"ans": 2,
+"explanation": "A 'bone of contention' refers to a subject or issue over which there is continuing disagreement or fighting."
+},
+{
+"q": "I have been waiting here _____ two hours.",
+"opts": [
+"since",
+"for",
+"at",
+"during"
+],
+"ans": 1,
+"explanation": "'For' is used to describe a duration of time (two hours), whereas 'since' is used for a specific starting point."
+},
+{
+"q": "The news of his death was a _____ pill to swallow.",
+"opts": [
+"sweet",
+"bitter",
+"hard",
+"heavy"
+],
+"ans": 1,
+"explanation": "A 'bitter pill to swallow' is an idiomatic expression meaning an unpleasant fact that must be accepted."
+},
+{
+"q": "The students were asked to keep _____ in the library.",
+"opts": [
+"silent",
+"silently",
+"silence",
+"still"
+],
+"ans": 0,
+"explanation": "In this context, 'silent' is an adjective describing the state of the students."
+},
+{
+"q": "The governor's visit was intended to _____ the tension in the community.",
+"opts": [
+"defuse",
+"diffuse",
+"refuse",
+"confuse"
+],
+"ans": 0,
+"explanation": "To 'defuse' means to make a situation less dangerous or tense. 'Diffuse' means to spread over a wide area."
+},
+{
+"q": "The acronym NIMC stands for National _____ Management Commission.",
+"opts": [
+"Information",
+"Identity",
+"Internal",
+"Intelligent"
+],
+"ans": 1,
+"explanation": "NIMC is the National Identity Management Commission in Nigeria."
+},
+{
+"q": "Choose the correctly spelled word:",
+"opts": [
+"Accomodation",
+"Accommodation",
+"Acomodation",
+"Accommodattion"
+],
+"ans": 1,
+"explanation": "'Accommodation' is spelled with double 'c' and double 'm'."
+},
+{
+"q": "Identify the part of speech of the underlined word: The <u>brave</u> man saved the child.",
+"opts": [
+"Noun",
+"Verb",
+"Adjective",
+"Adverb"
+],
+"ans": 2,
+"explanation": "'Brave' describes the noun 'man', so it is an adjective."
+},
+{
+"type": "passage",
+"content": "Digital technology has revolutionized the way we communicate. Social media platforms like WhatsApp, X (formerly Twitter), and Instagram have enabled real-time interaction across borders. However, this progress comes with challenges such as cyberbullying and the spread of fake news. Experts suggest that media literacy should be integrated into the school curriculum to equip young people with the skills to navigate the digital world responsibly. Without such education, the internet could become a tool for misinformation rather than enlightenment.",
+"questions": [
+{
+"q": "What is the main advantage of digital technology mentioned?",
+"opts": [
+"It is very cheap",
+"It enables real-time global interaction",
+"It provides free entertainment",
+"It makes studying unnecessary"
+],
+"ans": 1,
+"explanation": "The passage states technology has 'enabled real-time interaction across borders'."
+},
+{
+"q": "What are the two challenges mentioned in the passage?",
+"opts": [
+"High cost and slow speed",
+"Cyberbullying and fake news",
+"Lack of gadgets and electricity",
+"Privacy and data storage"
+],
+"ans": 1,
+"explanation": "The passage identifies 'challenges such as cyberbullying and the spread of fake news'."
+},
+{
+"q": "What do experts suggest as a solution?",
+"opts": [
+"Banning social media for students",
+"Increasing the cost of data",
+"Integrating media literacy into the curriculum",
+"Reducing the number of social media platforms"
+],
+"ans": 2,
+"explanation": "The passage says 'Experts suggest that media literacy should be integrated into the school curriculum'."
+},
+{
+"q": "The phrase 'real-time' as used in the passage means _____.",
+"opts": [
+"Very slow",
+"In the future",
+"Immediately or as it happens",
+"Twice a day"
+],
+"ans": 2,
+"explanation": "Real-time refers to the actual time during which a process or event occurs."
+},
+{
+"q": "What is the tone of the author regarding the digital world?",
+"opts": [
+"Hostile",
+"Purely optimistic",
+"Indifferent",
+"Cautions yet acknowledging"
+],
+"ans": 3,
+"explanation": "The author acknowledges the benefits of technology while cautioning about the risks, representing a balanced and cautious view."
+}
+]
+},
+{
+"q": "He is _____ to the rules of the society.",
+"opts": [
+"observant",
+"obedient",
+"obliging",
+"oblivious"
+],
+"ans": 1,
+"explanation": "'Obedient' means complying or willing to comply with orders or requests; in this case, the rules."
+},
+{
+"q": "The story he told was quite _____.",
+"opts": [
+"incredible",
+"incredulous",
+"uncredited",
+"discredited"
+],
+"ans": 0,
+"explanation": "'Incredible' means difficult to believe or extraordinary. 'Incredulous' describes a person who is unwilling to believe something."
+},
+{
+"q": "She was <u>at her wit's end</u> when the money got lost. This means she was _____.",
+"opts": [
+"very happy",
+"confused and worried",
+"calculating",
+"clever"
+],
+"ans": 1,
+"explanation": "To be 'at one's wit's end' means to be so worried, confused, or annoyed that you do not know what to do next."
+},
+{
+"q": "Identify the word that has the same vowel sound as the one underlined: G<u>oo</u>d",
+"opts": [
+"Food",
+"Pull",
+"Moon",
+"Blood"
+],
+"ans": 1,
+"explanation": "The 'oo' in 'good' and the 'u' in 'pull' both represent the short /ʊ/ sound. 'Food' and 'Moon' have the long /uː/ sound."
+},
+{
+"q": "Identify the word that has the same consonant sound as the one underlined: <u>Ch</u>emist",
+"opts": [
+"Church",
+"Character",
+"Cheap",
+"Chain"
+],
+"ans": 1,
+"explanation": "In 'Chemist', the 'ch' sounds like /k/. This matches the 'ch' in 'Character'."
+},
+{
+"q": "Which of the following words has the stress on the first syllable?",
+"opts": [
+"Important",
+"Develop",
+"Education",
+"Calculate"
+],
+"ans": 3,
+"explanation": "'Calculate' is stressed on the first syllable (CAL-cu-late). Im-POR-tant, de-VE-lop, and ed-u-CA-tion are stressed elsewhere."
+},
+{
+"q": "Choose the word that has the same vowel sound as: 'Cat'",
+"opts": [
+"Father",
+"Plait",
+"Want",
+"Palm"
+],
+"ans": 1,
+"explanation": "'Cat' and 'Plait' both contain the /æ/ sound."
+},
+{
+"q": "Choose the word that rhymes with 'Bread'",
+"opts": [
+"Bead",
+"Said",
+"Blade",
+"Seed"
+],
+"ans": 1,
+"explanation": "'Bread' /bred/ rhymes with 'Said' /sed/."
+},
+{
+"q": "He didn't see the teacher, _____?",
+"opts": [
+"did he",
+"didn't he",
+"has he",
+"wasn't he"
+],
+"ans": 0,
+"explanation": "A negative statement takes a positive question tag."
+},
+{
+"q": "The workers are _____ strike for better pay.",
+"opts": [
+"at",
+"in",
+"on",
+"with"
+],
+"ans": 2,
+"explanation": "The correct idiom is to be 'on strike'."
+},
+{
+"q": "The scent of the flower is very _____.",
+"opts": [
+"pungent",
+"fragrant",
+"noisy",
+"heavy"
+],
+"ans": 1,
+"explanation": "'Fragrant' is used to describe a pleasant smell, especially of flowers."
+},
+{
+"q": "The building was <u>razed</u> to the ground. Synonym for 'razed' is _____.",
+"opts": [
+"built",
+"demolished",
+"raised",
+"painted"
+],
+"ans": 1,
+"explanation": "'Razed' means to completely destroy a building or town."
+},
+{
+"q": "Neither John _____ his sisters are attending the party.",
+"opts": [
+"and",
+"nor",
+"or",
+"but"
+],
+"ans": 1,
+"explanation": "The correlative conjunction for 'neither' is 'nor'."
+},
+{
+"q": "He is the _____ of the three brothers.",
+"opts": [
+"tall",
+"taller",
+"tallest",
+"most tall"
+],
+"ans": 2,
+"explanation": "When comparing more than two items or people, the superlative degree ('tallest') is used."
+},
+{
+"q": "Identify the odd word out in terms of consonant sound:",
+"opts": [
+"Phonetics",
+"Paper",
+"Rough",
+"Laugh"
+],
+"ans": 1,
+"explanation": "'Phonetics', 'Rough', and 'Laugh' all contain the /f/ sound. 'Paper' contains the /p/ sound."
+},
+{
+"q": "Stress pattern: Which word has the primary stress on the third syllable?",
+"opts": [
+"Television",
+"Economic",
+"Photography",
+"Adventure"
+],
+"ans": 1,
+"explanation": "Eco-NO-mic has the stress on the third syllable. TEL-e-vi-sion (1st), pho-TOG-ra-phy (2nd), ad-VEN-ture (2nd)."
+},
+{
+"q": "The meeting was <u>put off</u>. This means it was _____.",
+"opts": [
+"cancelled",
+"started",
+"postponed",
+"extended"
+],
+"ans": 2,
+"explanation": "The phrasal verb 'put off' means to delay or postpone an event."
+},
+{
+"q": "I _____ the book before he came.",
+"opts": [
+"have read",
+"had read",
+"read",
+"was reading"
+],
+"ans": 1,
+"explanation": "Past perfect 'had read' shows an action completed before another past action ('he came')."
+},
+{
+"q": "She is the girl _____ stole the money.",
+"opts": [
+"whom",
+"whose",
+"who",
+"which"
+],
+"ans": 2,
+"explanation": "'Who' is the subject relative pronoun used for people."
+},
+{
+"q": "This is the car _____ engine is faulty.",
+"opts": [
+"who",
+"which",
+"whose",
+"that"
+],
+"ans": 2,
+"explanation": "'Whose' is the possessive relative pronoun used for both people and objects."
+},
+{
+"q": "Identify the word that contains a diphthong:",
+"opts": [
+"Seat",
+"Boy",
+"Cat",
+"Bird"
+],
+"ans": 1,
+"explanation": "'Boy' contains the diphthong /ɔɪ/."
+},
+{
+"q": "He is good _____ Mathematics.",
+"opts": [
+"in",
+"at",
+"with",
+"for"
+],
+"ans": 1,
+"explanation": "The adjective 'good' is followed by 'at' when referring to skills."
+},
+{
+"q": "The plane took _____ at 6:00 am.",
+"opts": [
+"in",
+"up",
+"off",
+"out"
+],
+"ans": 2,
+"explanation": "'Take off' is the phrasal verb for an aircraft becoming airborne."
+},
+{
+"q": "The sun _____ in the East.",
+"opts": [
+"rise",
+"rose",
+"rises",
+"rising"
+],
+"ans": 2,
+"explanation": "Scientific facts or habitual actions are expressed in the simple present tense."
+},
+{
+"q": "If he _____ hard, he will pass.",
+"opts": [
+"studies",
+"studied",
+"study",
+"is studying"
+],
+"ans": 0,
+"explanation": "First conditional: 'If + simple present, will + base verb'."
+},
+{
+"q": "He is the _____ man I have ever met.",
+"opts": [
+"most honest",
+"more honest",
+"honestest",
+"honest"
+],
+"ans": 0,
+"explanation": "For multi-syllable adjectives, 'most' is used for the superlative degree."
+},
+{
+"q": "I _____ my breakfast before I left for school.",
+"opts": [
+"ate",
+"have eaten",
+"had eaten",
+"eat"
+],
+"ans": 2,
+"explanation": "Past perfect 'had eaten' denotes the first of two past actions."
+},
+{
+"q": "Which of the following words has the same consonant sound as '<u>th</u>ink'?",
+"opts": [
+"Those",
+"Cloth",
+"There",
+"Them"
+],
+"ans": 1,
+"explanation": "'Think' and 'Cloth' both contain the voiceless dental fricative /θ/. Those, There, and Them contain the voiced /ð/."
+},
+{
+"q": "The word '<u>Impeccable</u>' means _____.",
+"opts": [
+"dishonest",
+"faultless",
+"expensive",
+"dirty"
+],
+"ans": 1,
+"explanation": "'Impeccable' means in accordance with the highest standards; faultless."
+},
+{
+"q": "Choose the word with a different stress pattern:",
+"opts": [
+"Teacher",
+"Doctor",
+"Report",
+"Pencil"
+],
+"ans": 2,
+"explanation": "Re-PORT is stressed on the second syllable, while the others are stressed on the first."
+},
+{
+"q": "The students were <u>all ears</u>. This means they were _____.",
+"opts": [
+"listening attentively",
+"making noise",
+"having large ears",
+"sleeping"
+],
+"ans": 0,
+"explanation": "To be 'all ears' is an idiom meaning to be waiting eagerly to hear about something."
+},
+{
+"q": "He <u>passed away</u> last night. This is a _____.",
+"opts": [
+"metaphor",
+"euphemism",
+"personification",
+"hyperbole"
+],
+"ans": 1,
+"explanation": "A euphemism is a mild or indirect word used in place of one considered to be too harsh; 'passed away' is used instead of 'died'."
+},
+{
+"q": "I prefer tea _____ coffee.",
+"opts": [
+"than",
+"more than",
+"to",
+"for"
+],
+"ans": 2,
+"explanation": "The verb 'prefer' is idiomatically followed by 'to'."
+},
+{
+"q": "The boy, as well as his friends, _____ coming.",
+"opts": [
+"is",
+"are",
+"were",
+"have"
+],
+"ans": 0,
+"explanation": "When 'as well as' is used, the verb agrees with the first subject (The boy), which is singular."
+},
+{
+"q": "The girl <u>hardly</u> ever cries. This means she _____.",
+"opts": [
+"cries all the time",
+"cries with difficulty",
+"almost never cries",
+"cries very loudly"
+],
+"ans": 2,
+"explanation": "'Hardly' is a negative adverb meaning 'scarcely' or 'almost not'."
+},
+{
+"q": "Which of these words contains the /z/ sound?",
+"opts": [
+"Books",
+"Cats",
+"Houses",
+"Laps"
+],
+"ans": 2,
+"explanation": "The 's' in 'Houses' is pronounced as /z/ because it follows a vowel sound in the stem transformation. Books, Cats, and Laps have the /s/ sound."
+},
+{
+"q": "Identify the word that contains the sound /iː/:",
+"opts": [
+"Sit",
+"Sheep",
+"Hit",
+"Pen"
+],
+"ans": 1,
+"explanation": "'Sheep' contains the long vowel /iː/."
+},
+{
+"q": "It is high time you _____ home.",
+"opts": [
+"go",
+"went",
+"are going",
+"gone"
+],
+"ans": 1,
+"explanation": "'It is high time' is followed by a subject and a past tense verb to express the idea that something should have already happened."
+},
+{
+"q": "The man <u>was a lion</u> in the fight. This is a _____.",
+"opts": [
+"simile",
+"metaphor",
+"irony",
+"paradox"
+],
+"ans": 1,
+"explanation": "A metaphor is a direct comparison between two unlike things without using 'like' or 'as'."
+},
+{
+"q": "I look forward _____ seeing you soon.",
+"opts": [
+"to",
+"for",
+"at",
+"in"
+],
+"ans": 0,
+"explanation": "The phrase 'look forward to' is always followed by a gerund (-ing) or a noun."
+},
+{
+"q": "The driver was <u>at fault</u>. Antonym for 'at fault' is _____.",
+"opts": [
+"guilty",
+"blameless",
+"responsible",
+"careless"
+],
+"ans": 1,
+"explanation": "To be 'at fault' means to be responsible for a mistake; 'blameless' is the opposite."
+},
+{
+"q": "She _____ her hair every Saturday.",
+"opts": [
+"wash",
+"is washing",
+"washes",
+"washed"
+],
+"ans": 2,
+"explanation": "Simple present tense is used for habitual actions."
+},
+{
+"q": "One of the boys _____ broken the window.",
+"opts": [
+"have",
+"has",
+"were",
+"is"
+],
+"ans": 1,
+"explanation": "The subject is 'One', which is singular, hence 'has'."
+},
+{
+"q": "Identify the word with the stress on the second syllable:",
+"opts": [
+"Market",
+"Sister",
+"Police",
+"Brother"
+],
+"ans": 2,
+"explanation": "Po-LICE is stressed on the second syllable. The others are stressed on the first."
+},
+{
+"q": "The book is _____ the table.",
+"opts": [
+"on",
+"at",
+"in",
+"over"
+],
+"ans": 0,
+"explanation": "'On' is the preposition used for surfaces."
+}
+]
