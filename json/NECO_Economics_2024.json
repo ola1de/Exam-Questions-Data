@@ -1,1 +1,422 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Economics is a science which studies human behavior as a relationship between ends and scarce means which have alternative uses. This definition was given by _____.",
+"opts": ["Adam Smith", "Alfred Marshall", "Lionel Robbins", "John Stuart Mill"],
+"ans": 2,
+"explanation": "Lionel Robbins provided this definition in 1932, emphasizing the relationship between unlimited ends (wants) and scarce resources."
+},
+{
+"q": "The fundamental economic problem common to all societies is _____.",
+"opts": ["Unemployment", "Inflation", "Scarcity", "Poverty"],
+"ans": 2,
+"explanation": "Scarcity is the basic economic problem because resources are finite while human wants are infinite, requiring choices to be made."
+},
+{
+"q": "A consumer who has #100 and buys a book instead of a pen has made an economic choice. The pen in this context is the _____.",
+"opts": ["Total cost", "Opportunity cost", "Explicit cost", "Marginal cost"],
+"ans": 1,
+"explanation": "Opportunity cost is the next best alternative forgone when a choice is made."
+},
+{
+"q": "Which of the following will cause an inward shift of the Production Possibility Curve (PPC)?",
+"opts": ["Improvement in technology", "Increase in the labor force", "A natural disaster destroying resources", "Discovery of new oil reserves"],
+"ans": 2,
+"explanation": "An inward shift represents a decrease in the economy's productive capacity, which happens when resources are destroyed or lost."
+},
+{
+"q": "The branch of economics that deals with the behavior of individual households and firms is _____.",
+"opts": ["Macroeconomics", "Microeconomics", "Positive economics", "Normative economics"],
+"ans": 1,
+"explanation": "Microeconomics focuses on small units of the economy, such as individual consumers, prices, and firms."
+},
+{
+"q": "In a socialist economy, the decision on what to produce is made by _____.",
+"opts": ["The price mechanism", "Private individuals", "The central planning authority", "Consumers"],
+"ans": 2,
+"explanation": "Socialism (or command economy) is characterized by state ownership of resources and centralized decision-making."
+},
+{
+"q": "Which of the following is a characteristic of a capitalist economy?",
+"opts": ["Public ownership of means of production", "Consumer sovereignty", "Price control by government", "Equal distribution of wealth"],
+"ans": 1,
+"explanation": "Consumer sovereignty means that consumers' preferences determine what goods and services are produced in a free market."
+},
+{
+"q": "A major disadvantage of a traditional economic system is that it _____.",
+"opts": ["Encourages competition", "Resists change and innovation", "Is highly complex", "Leads to high inflation"],
+"ans": 1,
+"explanation": "Traditional systems rely on customs and heritage, which often discourages new technology and modern methods of production."
+},
+{
+"q": "The law of demand states that, other things being equal, the higher the price _____.",
+"opts": ["The higher the quantity demanded", "The lower the quantity demanded", "The higher the quantity supplied", "The lower the quantity supplied"],
+"ans": 1,
+"explanation": "There is an inverse relationship between price and quantity demanded, according to the Law of Demand."
+},
+{
+"q": "A shift in the demand curve to the right indicates _____.",
+"opts": ["An increase in quantity demanded due to price fall", "A decrease in demand", "An increase in demand due to factors other than price", "A contraction in demand"],
+"ans": 2,
+"explanation": "A shift (rather than a movement along the curve) is caused by changes in income, tastes, or population, leading to a change in demand at all price levels."
+},
+{
+"q": "If an increase in the price of tea leads to an increase in the demand for coffee, tea and coffee are _____.",
+"opts": ["Complements", "Substitutes", "Inferior goods", "Giffen goods"],
+"ans": 1,
+"explanation": "Substitutes are goods that can be used in place of one another; an increase in the price of one increases the demand for the other."
+},
+{
+"q": "The demand for a factor of production is a _____.",
+"opts": ["Joint demand", "Derived demand", "Competitive demand", "Composite demand"],
+"ans": 1,
+"explanation": "Derived demand occurs when a resource (like labor) is demanded because of its contribution to the production of another good."
+},
+{
+"q": "The point where the quantity demanded equals the quantity supplied is known as _____.",
+"opts": ["Equilibrium point", "Surplus point", "Shortage point", "Inflection point"],
+"ans": 0,
+"explanation": "Market equilibrium is the price-quantity combination where there is no tendency for change because buyers and sellers are satisfied."
+},
+{
+"q": "A government-imposed maximum price below the equilibrium price is called a _____.",
+"opts": ["Price floor", "Price ceiling", "Subsidy", "Minimum wage"],
+"ans": 1,
+"explanation": "A price ceiling is a legal maximum designed to protect consumers, but it often leads to shortages."
+},
+{
+"q": "If the price of a commodity increases from #10 to #12 and the quantity supplied rises from 100 to 140 units, the price elasticity of supply is _____.",
+"opts": ["0.5", "1.0", "2.0", "1.5"],
+"ans": 2,
+"explanation": "ES = (% change in Qs) / (% change in P). % change Qs = 40%; % change P = 20%. 40/20 = 2.0."
+},
+{
+"q": "When the percentage change in quantity demanded is exactly equal to the percentage change in price, demand is _____.",
+"opts": ["Perfectly elastic", "Perfectly inelastic", "Unitary elastic", "Inelastic"],
+"ans": 2,
+"explanation": "Unitary elasticity occurs when the elasticity coefficient is exactly 1."
+},
+{
+"q": "For a normal good, the income elasticity of demand is _____.",
+"opts": ["Negative", "Zero", "Positive", "Infinite"],
+"ans": 2,
+"explanation": "Income elasticity is positive for normal goods because as income increases, demand also increases."
+},
+{
+"q": "If the cross elasticity of demand between two goods is negative, the goods are _____.",
+"opts": ["Substitutes", "Complements", "Independent", "Luxuries"],
+"ans": 1,
+"explanation": "Negative cross elasticity means that an increase in the price of one good (e.g., cars) leads to a decrease in demand for the other (e.g., petrol)."
+},
+{
+"q": "Total utility is at its maximum when marginal utility is _____.",
+"opts": ["Negative", "Positive", "Zero", "Constant"],
+"ans": 2,
+"explanation": "When marginal utility becomes zero, it means the consumer has reached the point of satiation, and total utility stops increasing."
+},
+{
+"q": "The Law of Diminishing Marginal Utility states that as more of a commodity is consumed _____.",
+"opts": ["Total utility increases at an increasing rate", "Marginal utility increases", "Additional satisfaction from an extra unit decreases", "Total utility decreases immediately"],
+"ans": 2,
+"explanation": "This law explains that the satisfaction derived from each additional unit of a good falls as consumption increases."
+},
+{
+"q": "An 'Inferior Good' is defined as one for which demand falls when _____.",
+"opts": ["Price falls", "Income rises", "Income falls", "Price of complements rises"],
+"ans": 1,
+"explanation": "As consumers' income rises, they switch from low-quality (inferior) goods to higher-quality substitutes."
+},
+{
+"q": "The primary objective of a firm in a capitalist system is to _____.",
+"opts": ["Provide social services", "Maximize profit", "Minimize employment", "Control the government"],
+"ans": 1,
+"explanation": "The profit motive is the driving force for production in a free-market economy."
+},
+{
+"q": "Which factor of production is geographically immobile but occupationally mobile?",
+"opts": ["Labor", "Capital", "Land", "Entrepreneur"],
+"ans": 2,
+"explanation": "Land cannot be moved from one location to another (geographically immobile), but its use can change from agriculture to housing (occupationally mobile)."
+},
+{
+"q": "The reward for Land as a factor of production is _____.",
+"opts": ["Wages", "Interest", "Profit", "Rent"],
+"ans": 3,
+"explanation": "Rent is the payment made for the use of land and other natural resources."
+},
+{
+"q": "Division of labor is limited by _____.",
+"opts": ["Government policy", "The size of the market", "The number of factories", "The availability of money"],
+"ans": 1,
+"explanation": "Adam Smith noted that the degree of specialization (division of labor) depends on the extent of the market or the volume of demand."
+},
+{
+"q": "The 'Short Run' in production is a period where _____.",
+"opts": ["All factors are fixed", "All factors are variable", "At least one factor is fixed", "Production is stopped"],
+"ans": 2,
+"explanation": "In the short run, some inputs (like machinery or land) cannot be changed, while others (like labor) can."
+},
+{
+"q": "The Law of Diminishing Returns occurs when _____.",
+"opts": ["Total product starts decreasing", "Average product is zero", "Marginal product begins to decline", "Fixed costs increase"],
+"ans": 2,
+"explanation": "The law states that adding more of a variable factor to a fixed factor will eventually lead to a decline in the marginal output."
+},
+{
+"q": "A production process that results in a double output for a more than double increase in input exhibits _____.",
+"opts": ["Constant returns to scale", "Increasing returns to scale", "Decreasing returns to scale", "Diminishing returns"],
+"ans": 2,
+"explanation": "Decreasing returns to scale occur when the percentage increase in output is less than the percentage increase in inputs."
+},
+{
+"q": "Which cost remains constant regardless of the level of output?",
+"opts": ["Variable cost", "Marginal cost", "Total Fixed Cost", "Average Variable Cost"],
+"ans": 2,
+"explanation": "Fixed costs (like rent or insurance) do not change with the volume of production in the short run."
+},
+{
+"q": "Average Cost is calculated as _____.",
+"opts": ["TC / Q", "TVC / Q", "Change in TC / Change in Q", "TFC + TVC"],
+"ans": 0,
+"explanation": "Average Total Cost (AC) is the total cost of production divided by the number of units produced."
+},
+{
+"q": "In a perfectly competitive market, the firm is a _____.",
+"opts": ["Price maker", "Price taker", "Monopolist", "Oligopolist"],
+"ans": 1,
+"explanation": "Because there are many firms producing identical products, no single firm can influence the market price."
+},
+{
+"q": "A market structure with only one seller and no close substitutes is a _____.",
+"opts": ["Duopoly", "Oligopoly", "Monopoly", "Monopsony"],
+"ans": 2,
+"explanation": "Monopoly refers to a single producer dominating the entire market."
+},
+{
+"q": "The 'Monopsony' market is characterized by _____.",
+"opts": ["One seller", "One buyer", "Many sellers", "Many buyers"],
+"ans": 1,
+"explanation": "Monopsony occurs when there is only one buyer for a product or service, such as a single large employer in a small town."
+},
+{
+"q": "Cartels are typically found in which market structure?",
+"opts": ["Perfect competition", "Monopolistic competition", "Oligopoly", "Monopoly"],
+"ans": 2,
+"explanation": "In an oligopoly, a few large firms may collude (form a cartel) to set prices or restrict output to increase profits."
+},
+{
+"q": "Gross Domestic Product (GDP) measures the value of goods and services produced _____.",
+"opts": ["By citizens of a country only", "Within the geographical boundaries of a country", "By government agencies only", "For export only"],
+"ans": 1,
+"explanation": "GDP is location-based; it includes everything produced inside the country, regardless of the nationality of the producer."
+},
+{
+"q": "The formula for calculating National Income using the Expenditure approach is _____.",
+"opts": ["C + I + G + (X - M)", "C + I + G + (M - X)", "Wages + Rent + Interest + Profit", "Output - Intermediate consumption"],
+"ans": 0,
+"explanation": "Expenditure method sums Consumption, Investment, Government spending, and Net Exports (Exports minus Imports)."
+},
+{
+"q": "Real National Income is National Income adjusted for _____.",
+"opts": ["Depreciation", "Taxes", "Inflation", "Subsidies"],
+"ans": 2,
+"explanation": "Real values account for changes in the price level (inflation) to show the actual volume of production."
+},
+{
+"q": "The difference between Gross National Product (GNP) and Net National Product (NNP) is _____.",
+"opts": ["Net income from abroad", "Indirect taxes", "Depreciation", "Subsidies"],
+"ans": 2,
+"explanation": "NNP = GNP minus Depreciation (consumption of fixed capital)."
+},
+{
+"q": "Which of the following is a function of money?",
+"opts": ["Standard for deferred payment", "Cause of inflation", "Fixed value", "Tool for hoarding"],
+"ans": 0,
+"explanation": "Money allows for credit transactions where payments are made at a future date."
+},
+{
+"q": "M1 money supply consists of _____.",
+"opts": ["Currency in circulation and demand deposits", "Savings deposits and time deposits", "Gold and silver", "Foreign exchange reserves"],
+"ans": 0,
+"explanation": "M1 is the narrowest definition of money, consisting of highly liquid assets like cash and bank checking accounts."
+},
+{
+"q": "The rate at which the Central Bank lends money to commercial banks is the _____.",
+"opts": ["Interest rate", "Lending rate", "Bank rate", "Exchange rate"],
+"ans": 2,
+"explanation": "The bank rate (or discount rate) is a tool used by the Central Bank to control the money supply."
+},
+{
+"q": "To control inflation, the Central Bank should _____.",
+"opts": ["Buy government securities", "Reduce the reserve requirement", "Sell government securities", "Lower the bank rate"],
+"ans": 2,
+"explanation": "Selling securities (Open Market Operations) mops up excess cash from the banking system, reducing the money supply."
+},
+{
+"q": "Inflation caused by an increase in the cost of production is _____.",
+"opts": ["Demand-pull inflation", "Cost-push inflation", "Hyperinflation", "Creeping inflation"],
+"ans": 1,
+"explanation": "Cost-push inflation happens when rising wages or raw material prices force producers to increase their prices."
+},
+{
+"q": "A person who is out of work because of a mismatch between their skills and the available jobs is experiencing _____.",
+"opts": ["Frictional unemployment", "Cyclical unemployment", "Structural unemployment", "Seasonal unemployment"],
+"ans": 2,
+"explanation": "Structural unemployment occurs when the structure of the economy changes, making certain skills obsolete."
+},
+{
+"q": "Malthus's theory of population suggests that population grows _____.",
+"opts": ["Arithmetically", "Geometrically", "Linearly", "Slowly"],
+"ans": 1,
+"explanation": "Thomas Malthus argued that population increases in a geometric progression (1, 2, 4, 8...), outstripping food supply."
+},
+{
+"q": "The Dependency Ratio is the ratio of _____.",
+"opts": ["Men to women", "Workers to the total population", "The non-working population to the working population", "Births to deaths"],
+"ans": 2,
+"explanation": "It measures the pressure on the productive part of the population to support the young and the elderly."
+},
+{
+"q": "A budget deficit occurs when _____.",
+"opts": ["Revenue equals expenditure", "Expenditure exceeds revenue", "Revenue exceeds expenditure", "Exports exceed imports"],
+"ans": 1,
+"explanation": "A deficit means the government is spending more than it earns from taxes and other sources."
+},
+{
+"q": "Which of the following is a direct tax?",
+"opts": ["Value Added Tax (VAT)", "Excise duty", "Personal Income Tax", "Customs duty"],
+"ans": 2,
+"explanation": "Direct taxes are levied on individuals or companies and cannot be shifted to others."
+},
+{
+"q": "The 'Ability to Pay' principle of taxation suggests that _____.",
+"opts": ["Everyone should pay the same amount", "Tax should be based on the benefits received", "Rich people should pay a higher percentage of their income", "Taxes should be voluntary"],
+"ans": 2,
+"explanation": "This principle supports progressive taxation, where those with higher income contribute more to the state."
+},
+{
+"q": "A tax system where the rate of tax increases as income increases is _____.",
+"opts": ["Regressive", "Proportional", "Progressive", "Specific"],
+"ans": 2,
+"explanation": "Progressive taxes (like income tax in Nigeria) aim to reduce income inequality."
+},
+{
+"q": "Comparative advantage theory was popularized by _____.",
+"opts": ["Adam Smith", "David Ricardo", "J.M. Keynes", "Milton Friedman"],
+"ans": 1,
+"explanation": "David Ricardo argued that countries should specialize in producing goods for which they have the lowest opportunity cost."
+},
+{
+"q": "The 'Terms of Trade' is defined as the ratio of _____.",
+"opts": ["Export prices to import prices", "Export volume to import volume", "Net exports to GDP", "National income to population"],
+"ans": 0,
+"explanation": "Terms of Trade = (Index of Export Prices / Index of Import Prices) x 100."
+},
+{
+"q": "A systematic record of all economic transactions between a country and the rest of the world is the _____.",
+"opts": ["Balance of Trade", "Balance of Payments", "Current Account", "Capital Account"],
+"ans": 1,
+"explanation": "Balance of Payments (BOP) includes the trade of goods, services, and capital movements."
+},
+{
+"q": "Devaluation of a currency is intended to _____.",
+"opts": ["Make imports cheaper", "Increase the value of the currency", "Make exports cheaper and imports more expensive", "Reduce the money supply"],
+"ans": 2,
+"explanation": "By lowering the value of the currency, a country's goods become cheaper for foreigners, theoretically improving the trade balance."
+},
+{
+"q": "Which of the following is a member of OPEC?",
+"opts": ["Ghana", "Nigeria", "South Africa", "Kenya"],
+"ans": 1,
+"explanation": "Nigeria joined the Organization of the Petroleum Exporting Countries (OPEC) in 1971."
+},
+{
+"q": "The 'Petro-dollar' refers to _____.",
+"opts": ["Currency used only in oil markets", "US dollars earned from the export of petroleum", "A special currency created by OPEC", "The cost of refining one barrel of oil"],
+"ans": 1,
+"explanation": "Because oil is globally traded in US dollars, the revenue generated by oil-exporting nations is called petro-dollars."
+},
+{
+"q": "The main objective of the Economic Community of West African States (ECOWAS) is _____.",
+"opts": ["Military defense", "Economic integration", "Political unification", "Religious harmony"],
+"ans": 1,
+"explanation": "ECOWAS aims to foster cooperation and development in all fields of economic activity among West African nations."
+},
+{
+"q": "Economic growth is best measured by an increase in _____.",
+"opts": ["Nominal GDP", "Real GDP", "Total population", "Money supply"],
+"ans": 1,
+"explanation": "Real GDP growth indicates an actual increase in the production of goods and services over time."
+},
+{
+"q": "The 'Primary Sector' of the Nigerian economy is dominated by _____.",
+"opts": ["Manufacturing", "Banking", "Agriculture and Mining", "Telecommunications"],
+"ans": 2,
+"explanation": "The primary sector involves the extraction of natural resources."
+},
+{
+"q": "Which of the following is a barrier to international trade?",
+"opts": ["Free trade zones", "Tariffs", "Bilateral agreements", "Globalization"],
+"ans": 1,
+"explanation": "Tariffs are taxes on imported goods used to protect local industries and raise revenue."
+},
+{
+"q": "The 'Laffer Curve' shows the relationship between _____.",
+"opts": ["Inflation and unemployment", "Tax rates and tax revenue", "Income and consumption", "Price and quantity supplied"],
+"ans": 1,
+"explanation": "It suggests that there is an optimal tax rate that maximizes revenue; rates beyond that point may discourage work and reduce total revenue."
+},
+{
+"q": "Public goods are characterized by _____.",
+"opts": ["Excludability and rivalry", "Non-excludability and non-rivalry", "High market prices", "Private ownership"],
+"ans": 1,
+"explanation": "Public goods (like street lights) can be used by anyone without reducing availability for others, and nobody can be easily prevented from using them."
+},
+{
+"q": "A 'Giffen Good' is one whose demand curve is _____.",
+"opts": ["Downward sloping", "Upward sloping", "Vertical", "Horizontal"],
+"ans": 1,
+"explanation": "Giffen goods are a rare exception to the law of demand; as their price rises, people buy more because they cannot afford better substitutes."
+},
+{
+"q": "The average number of children born to a woman during her lifetime is the _____.",
+"opts": ["Birth rate", "Death rate", "Fertility rate", "Growth rate"],
+"ans": 2,
+"explanation": "The total fertility rate is a key demographic indicator used to project population growth."
+},
+{
+"q": "Which of the following is an example of an indirect tax?",
+"opts": ["Company profit tax", "Capital gains tax", "Value Added Tax (VAT)", "Personal income tax"],
+"ans": 2,
+"explanation": "Indirect taxes are levied on goods and services; the burden is often passed to the final consumer."
+},
+{
+"q": "The process of moving from a centrally planned economy to a market economy is _____.",
+"opts": ["Nationalization", "Privatization", "Commercialization", "Deregulation"],
+"ans": 1,
+"explanation": "Privatization involves transferring the ownership of state-run enterprises to the private sector."
+},
+{
+"q": "The World Bank is also known as the _____.",
+"opts": ["IMF", "IBRD", "WTO", "UNCTAD"],
+"ans": 1,
+"explanation": "The International Bank for Reconstruction and Development (IBRD) is the core arm of the World Bank."
+},
+{
+"q": "Deflation is a period of _____.",
+"opts": ["Rising prices", "Falling prices", "High unemployment", "Rapid economic growth"],
+"ans": 1,
+"explanation": "Deflation is a sustained decrease in the general price level of goods and services."
+},
+{
+"q": "The demand for labor by a firm is determined by the _____.",
+"opts": ["Marginal Physical Product", "Price of the product", "Marginal Revenue Product", "All of the above"],
+"ans": 3,
+"explanation": "A firm will hire labor up to the point where the cost of the last worker (wage) equals the value of what that worker produces (MRP)."
+},
+{
+"q": "Economic development differs from economic growth because it includes _____.",
+"opts": ["Only quantitative changes", "Only qualitative changes", "Both quantitative and qualitative changes", "Neither"],
+"ans": 2,
+"explanation": "Growth is an increase in output, while development includes structural changes, better health, and higher literacy rates."
+}
+]
