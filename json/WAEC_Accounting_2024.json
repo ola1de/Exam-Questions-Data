@@ -1,1 +1,428 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "The accounting concept which states that for every debit entry, there must be a corresponding credit entry is the _____ concept.",
+"opts": ["Going concern", "Dual aspect", "Accrual", "Money measurement"],
+"ans": 1,
+"explanation": "The Dual Aspect concept is the foundation of the double-entry system, ensuring that the accounting equation (Assets = Liabilities + Equity) always balances."
+},
+{
+"q": "Which of the following is an example of a nominal account?",
+"opts": ["Plant and Machinery", "Bank Account", "Wages Account", "Debtors Account"],
+"ans": 2,
+"explanation": "Nominal accounts are accounts for expenses, incomes, losses, and gains. Wages is an expense account."
+},
+{
+"q": "The process of transferring entries from the journals to the ledger is known as _____.",
+"opts": ["Balancing", "Totaling", "Posting", "Analyzing"],
+"ans": 2,
+"explanation": "Posting is the technical term for transferring data from the books of original entry (journals) to the principal book (ledger)."
+},
+{
+"q": "Which book of prime entry is used to record the purchase of a motor van on credit?",
+"opts": ["Purchases Journal", "Cash Book", "General Journal", "Returns Outwards Journal"],
+"ans": 2,
+"explanation": "The Purchases Journal is only for credit purchases of goods intended for resale (trading stock). Non-current assets bought on credit are recorded in the General Journal."
+},
+{
+"q": "A credit balance in the Cash Book (Bank column) indicates a/an _____.",
+"opts": ["Bank deposit", "Bank overdraft", "Available cash", "Cash in hand"],
+"ans": 1,
+"explanation": "In the bank account, a debit balance is an asset, while a credit balance represents a liability to the bank, known as an overdraft."
+},
+{
+"q": "What is the correct entry for recording a cash discount allowed to a customer?",
+"opts": ["Debit: Discount Received; Credit: Customer's Account", "Debit: Customer's Account; Credit: Discount Allowed", "Debit: Discount Allowed; Credit: Customer's Account", "Debit: Cash; Credit: Discount Allowed"],
+"ans": 2,
+"explanation": "Discount Allowed is an expense. To record it, you debit the expense account (Discount Allowed) and credit the personal account of the customer."
+},
+{
+"q": "Which of the following errors will NOT affect the Trial Balance agreement?",
+"opts": ["Addition error in a ledger account", "Omission of an account from the Trial Balance", "Complete omission of a transaction", "Transposition error in one account"],
+"ans": 2,
+"explanation": "An error of omission (forgetting to record a transaction entirely) means no debit or credit was made, so the Trial Balance will still agree despite the error."
+},
+{
+"q": "A Bank Reconciliation Statement is prepared by the _____.",
+"opts": ["Bank manager", "Accountant of the business", "External auditor", "Central Bank"],
+"ans": 1,
+"explanation": "The business prepares the Bank Reconciliation Statement to identify discrepancies between its Cash Book (Bank column) and the Bank Statement provided by the bank."
+},
+{
+"type": "passage",
+"content": "The following information relates to Tunde Enterprises for the month of January 2024: \nOpening Stock: #5,000\nPurchases: #20,000\nClosing Stock: #3,000\nSales: #40,000\nExpenses: #8,000",
+"questions": [
+{
+"q": "Calculate the Cost of Goods Sold.",
+"opts": ["#15,000", "#18,000", "#22,000", "#25,000"],
+"ans": 2,
+"explanation": "Cost of Goods Sold = Opening Stock + Purchases - Closing Stock = 5,000 + 20,000 - 3,000 = #22,000."
+},
+{
+"q": "Calculate the Gross Profit.",
+"opts": ["#18,000", "#15,000", "#20,000", "#10,000"],
+"ans": 0,
+"explanation": "Gross Profit = Sales - Cost of Goods Sold = 40,000 - 22,000 = #18,000."
+},
+{
+"q": "Calculate the Net Profit.",
+"opts": ["#10,000", "#12,000", "#18,000", "#5,000"],
+"ans": 0,
+"explanation": "Net Profit = Gross Profit - Expenses = 18,000 - 8,000 = #10,000."
+}
+]
+},
+{
+"q": "The reward for a partner for providing capital to the firm is _____.",
+"opts": ["Interest on drawings", "Share of profit", "Interest on capital", "Commission"],
+"ans": 2,
+"explanation": "Interest on capital is an appropriation of profit designed to compensate partners for the amount of capital they have invested in the partnership."
+},
+{
+"q": "The document sent by a supplier to a customer showing an overcharge on a previous invoice is a _____.",
+"opts": ["Credit note", "Debit note", "Payment voucher", "Waybill"],
+"ans": 0,
+"explanation": "A credit note is issued to reduce the amount the customer owes, used for returns or overcharges."
+},
+{
+"q": "Which of the following is a capital expenditure?",
+"opts": ["Purchase of raw materials", "Payment of electricity bills", "Purchase of a new delivery truck", "Painting of an old office"],
+"ans": 2,
+"explanation": "Capital expenditure is spending on non-current assets that will benefit the business for more than one year."
+},
+{
+"q": "The accounting equation is expressed as _____.",
+"opts": ["Assets = Liabilities - Capital", "Capital = Assets + Liabilities", "Assets = Liabilities + Capital", "Liabilities = Assets + Capital"],
+"ans": 2,
+"explanation": "The fundamental equation of accounting states that everything the business owns (Assets) is funded by either creditors (Liabilities) or the owner (Capital)."
+},
+{
+"q": "In a partnership, where there is no deed, the Profit and Loss sharing ratio is _____.",
+"opts": ["Based on capital contribution", "2:1", "Equal", "Determined by the senior partner"],
+"ans": 2,
+"explanation": "According to the Partnership Act of 1890, in the absence of a formal agreement, profits and losses must be shared equally among partners."
+},
+{
+"q": "The petty cash system where the petty cashier is given a fixed sum at the start of a period is the _____.",
+"opts": ["Floating system", "Imprest system", "Direct system", "Reserve system"],
+"ans": 1,
+"explanation": "The Imprest system involves providing a fixed amount (float) and replenishing exactly what was spent at the end of the period."
+},
+{
+"q": "The value of a non-current asset as shown in the books after deducting accumulated depreciation is its _____.",
+"opts": ["Market value", "Scrap value", "Net Book Value", "Replacement value"],
+"ans": 2,
+"explanation": "Net Book Value (NBV) is the historical cost less the total depreciation charged to date."
+},
+{
+"q": "A firm purchased a machine for #10,000. It is estimated to last 4 years with a scrap value of #2,000. Using the straight-line method, calculate the annual depreciation.",
+"opts": ["#2,500", "#2,000", "#1,500", "#3,000"],
+"ans": 1,
+"explanation": "Annual Depreciation = (Cost - Scrap Value) / Life = (10,000 - 2,000) / 4 = 8,000 / 4 = #2,000."
+},
+{
+"q": "An entry made on both sides of a three-column cash book is a _____.",
+"opts": ["Double entry", "Single entry", "Contra entry", "Reverse entry"],
+"ans": 2,
+"explanation": "A contra entry occurs when cash is deposited into the bank or cash is withdrawn from the bank for office use, affecting both cash and bank columns."
+},
+{
+"q": "Which of the following is an intangible asset?",
+"opts": ["Inventory", "Accounts Receivable", "Goodwill", "Cash at Bank"],
+"ans": 2,
+"explanation": "Goodwill is an asset that lacks physical substance but provides long-term value to the business."
+},
+{
+"q": "Prime cost is the sum of _____.",
+"opts": ["Direct materials and direct labour", "Direct materials, direct labour and direct expenses", "Factory overheads and direct labour", "Cost of goods sold and expenses"],
+"ans": 1,
+"explanation": "Prime cost consists of all direct costs involved in the manufacturing of a product."
+},
+{
+"q": "The excess of a non-profit organization's income over its expenditure is called _____.",
+"opts": ["Net Profit", "Gross Profit", "Surplus", "Accumulated Fund"],
+"ans": 2,
+"explanation": "Non-profit organizations use the term 'Surplus' instead of profit and 'Deficit' instead of loss."
+},
+{
+"q": "In a limited liability company, the part of authorized capital that has been offered to the public for subscription is _____.",
+"opts": ["Paid-up capital", "Issued capital", "Called-up capital", "Reserve capital"],
+"ans": 1,
+"explanation": "Issued capital is the portion of authorized (nominal) capital that the company has actually sent out for investors to buy."
+},
+{
+"q": "The document that regulates the internal rules of a company is the _____.",
+"opts": ["Memorandum of Association", "Prospectus", "Articles of Association", "Certificate of Incorporation"],
+"ans": 2,
+"explanation": "Articles of Association define the relationship between the company and its members and the internal conduct of the business."
+},
+{
+"q": "The list of balances extracted from the ledgers to test the arithmetical accuracy of the double-entry is the _____.",
+"opts": ["Balance Sheet", "Income Statement", "Trial Balance", "Cash Book"],
+"ans": 2,
+"explanation": "The Trial Balance is a diagnostic tool to ensure that total debits equal total credits before preparing final accounts."
+},
+{
+"q": "Which of the following is a current liability?",
+"opts": ["Bank Loan (5 years)", "Accrued Wages", "Furniture", "Prepaid Insurance"],
+"ans": 1,
+"explanation": "Accrued wages are expenses incurred but not yet paid, representing a short-term debt (current liability)."
+},
+{
+"q": "The systematic record of the cash and bank transactions of a business is the _____.",
+"opts": ["Petty Cash Book", "Cash Book", "Journal", "Ledger"],
+"ans": 1,
+"explanation": "The Cash Book serves as both a book of original entry and a ledger account for cash and bank balances."
+},
+{
+"q": "Bad debts are categorized as _____.",
+"opts": ["Current Assets", "Operating Incomes", "Operating Expenses", "Intangible Assets"],
+"ans": 2,
+"explanation": "Bad debts represent a loss resulting from uncollectible receivables and are treated as an expense in the profit and loss account."
+},
+{
+"q": "Which of the following is recorded in the Trading Account?",
+"opts": ["Electricity bill", "Discount allowed", "Carriage inwards", "Salaries"],
+"ans": 2,
+"explanation": "Carriage inwards is the cost of transporting purchases to the business premises and is added to purchases in the Trading Account to find the cost of goods sold."
+},
+{
+"q": "Shares that carry a fixed rate of dividend are _____.",
+"opts": ["Ordinary shares", "Preference shares", "Deferred shares", "Equity shares"],
+"ans": 1,
+"explanation": "Preference shares give the holder a right to a fixed dividend before any dividend is paid to ordinary shareholders."
+},
+{
+"q": "The matching concept requires that _____.",
+"opts": ["Assets must match liabilities", "Expenses incurred must be matched against revenue earned in the same period", "The debit side must match the credit side", "Current assets must match current liabilities"],
+"ans": 1,
+"explanation": "The matching principle ensures that profit is calculated by comparing the revenues of a period with the expenses used to generate that revenue."
+},
+{
+"q": "A suspense account is used to _____.",
+"opts": ["Record bad debts", "Temporarily balance the trial balance", "Keep track of cash shortages", "Record drawings by the owner"],
+"ans": 1,
+"explanation": "When a Trial Balance fails to agree, the difference is temporarily placed in a Suspense Account until the errors are located and corrected."
+},
+{
+"q": "The value of a non-profit organization's assets over its liabilities at the start of a period is the _____.",
+"opts": ["Working capital", "Accumulated fund", "Share capital", "Net profit"],
+"ans": 1,
+"explanation": "For clubs and societies, the equivalent of 'Capital' is the Accumulated Fund, representing the net worth of the organization."
+},
+{
+"q": "Subscription received in advance for the next accounting period is a/an _____ in the current Balance Sheet.",
+"opts": ["Current Asset", "Current Liability", "Income", "Expense"],
+"ans": 1,
+"explanation": "Income received in advance is a liability because the organization still owes the service to the member for the coming period."
+},
+{
+"q": "The Purchases Ledger Control Account is used to check the accuracy of the _____.",
+"opts": ["Sales Ledger", "General Ledger", "Purchases Ledger", "Private Ledger"],
+"ans": 2,
+"explanation": "The Purchases Ledger Control Account (or Creditors Control) summarizes all transactions in the individual creditors' accounts."
+},
+{
+"q": "When a partner retires, the profit on revaluation of assets is credited to _____.",
+"opts": ["Remaining partners only", "Retiring partner only", "All partners in their old profit sharing ratio", "New partners only"],
+"ans": 2,
+"explanation": "Revaluation gains belong to all partners who were in the firm when the asset value changed, shared according to their existing ratios."
+},
+{
+"q": "Which of the following is a book of prime entry AND a ledger?",
+"opts": ["Sales Journal", "Cash Book", "Purchases Journal", "Returns Inwards Journal"],
+"ans": 1,
+"explanation": "The Cash Book is unique because it serves both as the initial record of transactions and as the final T-account for cash and bank."
+},
+{
+"q": "If a Trial Balance has a total debit of #10,500 and a total credit of #10,000, what is the balance in the Suspense Account?",
+"opts": ["#500 Debit", "#500 Credit", "#1,000 Credit", "#10,500 Credit"],
+"ans": 1,
+"explanation": "To make the Trial Balance agree, the smaller side (Credit) must be increased by #500. Therefore, the Suspense Account will have a credit balance."
+},
+{
+"q": "Sales of #2,000 to Mr. A was recorded in Mr. B's account. This is an error of _____.",
+"opts": ["Principle", "Commission", "Original entry", "Compensating"],
+"ans": 1,
+"explanation": "An error of commission occurs when an entry is made in the correct class of account (Personal) but the wrong individual account (Mr. B instead of Mr. A)."
+},
+{
+"q": "The document showing the financial position of a business at a specific date is the _____.",
+"opts": ["Income Statement", "Balance Sheet", "Cash Flow Statement", "Trial Balance"],
+"ans": 1,
+"explanation": "The Balance Sheet (Statement of Financial Position) lists assets, liabilities, and capital to show what a business is worth at a specific point in time."
+},
+{
+"q": "Cost of raw materials consumed is calculated as _____.",
+"opts": ["Opening stock of raw materials + Purchases - Closing stock of raw materials", "Opening stock of finished goods + Purchases - Closing stock", "Direct labour + Factory overheads", "Sales - Gross profit"],
+"ans": 0,
+"explanation": "This is the standard formula in a Manufacturing Account to determine the value of materials actually used in production."
+},
+{
+"q": "Which of the following is a source of revenue for the government?",
+"opts": ["Grants to local governments", "Payment of civil servants' salaries", "Direct and indirect taxes", "Construction of roads"],
+"ans": 2,
+"explanation": "Taxes (CIT, PIT, VAT, etc.) are the primary means by which a government generates income to fund public expenditure."
+},
+{
+"q": "The method of depreciation where the percentage is applied to the declining balance of the asset is the _____.",
+"opts": ["Straight line method", "Reducing balance method", "Revaluation method", "Sum of the years' digits"],
+"ans": 1,
+"explanation": "The reducing balance method results in higher depreciation charges in the earlier years of an asset's life."
+},
+{
+"q": "Authorized capital is also known as _____.",
+"opts": ["Issued capital", "Nominal capital", "Paid-up capital", "Working capital"],
+"ans": 1,
+"explanation": "Nominal or registered capital is the maximum amount of share capital a company is legally allowed to issue."
+},
+{
+"q": "Goodwill is usually brought into the books when _____.",
+"opts": ["A business is making losses", "A business is purchased or a new partner is admitted", "The owner decides to increase the asset value", "Depreciation is too high"],
+"ans": 1,
+"explanation": "Goodwill is generally only recognized in accounting when there is a change in the ownership structure or a purchase of a going concern."
+},
+{
+"q": "Which of the following describes a 'Capital Reserve'?",
+"opts": ["Profit from normal trading activities", "Profit set aside for dividends", "Profit from the sale of a fixed asset", "Money set aside for paying wages"],
+"ans": 2,
+"explanation": "Capital reserves are created from non-trading activities, such as the profit on sale of non-current assets or revaluation of assets."
+},
+{
+"q": "Working Capital is defined as _____.",
+"opts": ["Total Assets - Total Liabilities", "Fixed Assets - Current Liabilities", "Current Assets - Current Liabilities", "Capital + Long-term Loans"],
+"ans": 2,
+"explanation": "Working capital measures the short-term liquidity of a business, indicating its ability to pay off debts due within a year."
+},
+{
+"q": "The ledger containing the individual accounts of suppliers is the _____.",
+"opts": ["General Ledger", "Sales Ledger", "Purchases Ledger", "Private Ledger"],
+"ans": 2,
+"explanation": "The Purchases Ledger (or Creditors Ledger) houses the personal accounts of all credit suppliers."
+},
+{
+"q": "Which of the following appears on the credit side of the Trading Account?",
+"opts": ["Opening Stock", "Purchases", "Returns Inwards", "Sales"],
+"ans": 3,
+"explanation": "Sales and Closing Stock are credited to the Trading Account to calculate the gross profit."
+},
+{
+"q": "Provision for doubtful debts is based on the _____ concept.",
+"opts": ["Consistency", "Prudence", "Materiality", "Entity"],
+"ans": 1,
+"explanation": "The Prudence (Conservatism) concept dictates that a business should anticipate losses but not profits, leading to the creation of provisions."
+},
+{
+"q": "A debit note received from a supplier would be recorded in the _____.",
+"opts": ["Purchases Journal", "Returns Outwards Journal", "Sales Journal", "Returns Inwards Journal"],
+"ans": 1,
+"explanation": "If a supplier sends a debit note, it means they are increasing our debt, usually because we returned goods. We record this in the Returns Outwards Journal."
+},
+{
+"q": "The person who prepares the Petty Cash Book is the _____.",
+"opts": ["Chief Accountant", "External Auditor", "Petty Cashier", "Company Secretary"],
+"ans": 2,
+"explanation": "The petty cashier is a junior staff member responsible for small, daily expenditures."
+},
+{
+"q": "Unpresented cheques are cheques _____.",
+"opts": ["Drawn but not yet paid by the bank", "Received but not yet deposited", "Rejected by the bank due to errors", "Lost in transit"],
+"ans": 0,
+"explanation": "Unpresented cheques have been recorded in the Cash Book (credit side) but have not yet appeared on the Bank Statement."
+},
+{
+"q": "The Purchases Day Book is used to record _____.",
+"opts": ["Cash purchases", "Credit sales", "Credit purchases of goods for resale", "All purchases"],
+"ans": 2,
+"explanation": "The Purchases Day Book (or Journal) is specifically for the credit purchase of inventory."
+},
+{
+"q": "Drawings by the owner of a business results in a/an _____.",
+"opts": ["Increase in Capital", "Decrease in Capital", "Increase in Liability", "Increase in Net Profit"],
+"ans": 1,
+"explanation": "Drawings reduce the owner's stake (equity) in the business."
+},
+{
+"q": "Which of the following is a fictitious asset?",
+"opts": ["Preliminary expenses", "Patents", "Buildings", "Stocks"],
+"ans": 0,
+"explanation": "Fictitious assets are expenses or losses not yet written off, like preliminary expenses or discount on issue of shares."
+},
+{
+"q": "The double entry for 'Cash sales' is _____.",
+"opts": ["Debit: Sales; Credit: Cash", "Debit: Cash; Credit: Sales", "Debit: Bank; Credit: Debtors", "Debit: Sales; Credit: Debtors"],
+"ans": 1,
+"explanation": "Cash is increasing (asset debit) and Sales is an income (credit)."
+},
+{
+"q": "Stock valuation is usually at _____.",
+"opts": ["Cost price only", "Market price only", "Lower of cost and net realizable value", "Higher of cost and net realizable value"],
+"ans": 2,
+"explanation": "IAS 2 (and the Prudence concept) requires stock to be valued at the lower of cost and net realizable value (market value)."
+},
+{
+"q": "In Departmental Accounts, expenses that cannot be directly traced to a department are allocated _____.",
+"opts": ["To the department with highest sales", "Equally to all departments", "On a reasonable basis such as floor space or turnover", "Ignored entirely"],
+"ans": 2,
+"explanation": "Common expenses (like rent or electricity) are apportioned using logical bases (e.g., rent by floor area)."
+},
+{
+"q": "A Receipts and Payments Account is essentially a summary of the _____.",
+"opts": ["Income and Expenditure Account", "Cash Book", "Trading Account", "Profit and Loss Account"],
+"ans": 1,
+"explanation": "A Receipts and Payments account records all cash inflows and outflows of a non-profit organization for a period."
+},
+{
+"q": "Which of the following is NOT a purpose of a Trial Balance?",
+"opts": ["To check arithmetical accuracy", "To facilitate the preparation of final accounts", "To show the financial position of the business", "To check that every debit has a credit"],
+"ans": 2,
+"explanation": "The Trial Balance does not show financial position; that is the function of the Balance Sheet."
+},
+{
+"q": "The ledger that contains all accounts except personal accounts is the _____.",
+"opts": ["Sales Ledger", "Purchases Ledger", "General Ledger", "Nominal Ledger"],
+"ans": 2,
+"explanation": "The General Ledger (or Impersonal Ledger) contains real and nominal accounts (Asset, Liability, Income, Expense)."
+},
+{
+"q": "Conversion of a partnership into a limited company involves the _____.",
+"opts": ["Revaluation of assets", "Dissolution of the partnership", "Appointment of an auditor", "Reduction of capital"],
+"ans": 1,
+"explanation": "Technically, the partnership is dissolved as the business entity changes to a corporate form."
+},
+{
+"q": "The account maintained for each head of expenditure in the Public Sector is the _____.",
+"opts": ["Capital Account", "Revenue Account", "Vote Account", "Consolidated Revenue Fund"],
+"ans": 2,
+"explanation": "In government accounting, a 'Vote' is the authority to spend money on a specific head of expenditure."
+},
+{
+"q": "Which of the following will result in a higher Gross Profit?",
+"opts": ["Increase in Closing Stock", "Increase in Opening Stock", "Increase in Purchases", "Decrease in Sales"],
+"ans": 0,
+"explanation": "Closing stock is subtracted from the cost of goods available for sale. A higher closing stock reduces the COGS and thus increases Gross Profit."
+},
+{
+"q": "The 'Consistency' concept means that _____.",
+"opts": ["The business must produce the same products", "The same accounting methods must be used from year to year", "The profits must be consistent", "The owner must not change"],
+"ans": 1,
+"explanation": "Consistency ensures that financial statements are comparable over different accounting periods."
+},
+{
+"q": "Which of the following is an internal user of accounting information?",
+"opts": ["Shareholders", "Bankers", "Production Manager", "Tax Authority"],
+"ans": 2,
+"explanation": "The Production Manager is an employee within the organization who needs the data for decision-making."
+},
+{
+"q": "A debit balance brought down in the Insurance Account represents _____.",
+"opts": ["Insurance owed", "Insurance prepaid", "Insurance expense for the year", "Insurance refund"],
+"ans": 1,
+"explanation": "A debit balance at the start of a period for an expense account indicates that the business has an asset (prepayment)."
+},
+{
+"q": "The primary objective of financial accounting is to _____.",
+"opts": ["Determine the tax to be paid", "Provide information for stakeholders to make decisions", "Detect and prevent fraud", "Ensure the business stays open"],
+"ans": 1,
+"explanation": "Accounting is often called the 'language of business' because its main goal is communicating information to users."
+}
+]
