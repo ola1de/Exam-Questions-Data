@@ -1,1 +1,2510 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Which of the following is a derived unit?",
+"opts": ["Kilogram", "Kelvin", "Newton", "Candela"],
+"ans": 2,
+"explanation": "Newton is a derived unit (
+𝑘
+𝑔
+𝑐
+𝑑
+𝑜
+𝑡
+𝑚
+/
+𝑠
+2
+kg
+cdotm/s
+2
+). Kilogram, Kelvin, and Candela are fundamental S.I. units."
+},
+{
+"q": "The dimension of Young's Modulus is _____.",
+"opts": ["
+𝑀
+𝐿
+−
+1
+𝑇
+−
+2
+ML
+−1
+T
+−2
+", "
+𝑀
+𝐿
+𝑇
+−
+2
+MLT
+−2
+", "
+𝑀
+𝐿
+2
+𝑇
+−
+2
+ML
+2
+T
+−2
+", "
+𝑀
+2
+𝐿
+−
+1
+𝑇
+−
+2
+M
+2
+L
+−1
+T
+−2
+"],
+"ans": 0,
+"explanation": "Young's Modulus = Stress / Strain. Stress is Force/Area (
+𝑀
+𝐿
+𝑇
+−
+2
+/
+𝐿
+2
+=
+𝑀
+𝐿
+−
+1
+𝑇
+−
+2
+MLT
+−2
+/L
+2
+=ML
+−1
+T
+−2
+) and strain is dimensionless."
+},
+{
+"q": "A car starts from rest and accelerates uniformly at 
+5
+,
+𝑚
+/
+𝑠
+2
+5
+,m/s
+2
+ for 8 seconds. Calculate the distance covered.",
+"opts": ["40 m", "80 m", "160 m", "320 m"],
+"ans": 2,
+"explanation": "Using 
+𝑠
+=
+𝑢
+𝑡
++
+𝑓
+𝑟
+𝑎
+𝑐
+12
+𝑎
+𝑡
+2
+s=ut+
+frac12at
+2
+, where 
+𝑢
+=
+0
+u=0
+, 
+𝑎
+=
+5
+a=5
+, and 
+𝑡
+=
+8
+t=8
+. 
+𝑠
+=
+0
++
+0.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+64
+=
+160
+s=0+0.5
+times5
+times64=160
+ m."
+},
+{
+"q": "The property of a body to remain at rest or continue in its state of uniform motion unless acted upon by a force is _____.",
+"opts": ["Momentum", "Inertia", "Impulse", "Friction"],
+"ans": 1,
+"explanation": "Inertia is the tendency of an object to resist changes to its state of motion, as described by Newton's First Law."
+},
+{
+"q": "A ball is projected with a velocity of 
+20
+,
+𝑚
+/
+𝑠
+20
+,m/s
+ at an angle of 
+ to the horizontal. Calculate the time of flight. (
+𝑔
+=
+10
+,
+𝑚
+/
+𝑠
+2
+g=10
+,m/s
+2
+)",
+"opts": ["1 s", "2 s", "4 s", "8 s"],
+"ans": 1,
+"explanation": "Time of flight 
+𝑇
+=
+𝑓
+𝑟
+𝑎
+𝑐
+2
+𝑢
+𝑠
+𝑖
+𝑛
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+𝑔
+=
+𝑓
+𝑟
+𝑎
+𝑐
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+20
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑠
+𝑖
+𝑛
+30
+10
+=
+𝑓
+𝑟
+𝑎
+𝑐
+40
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+0.5
+10
+=
+2
+T=
+frac2usinthetag=
+frac2times20timessin3010=
+frac40times0.510=2
+ s."
+},
+{
+"q": "The work done in stretching a spring by 4 cm is 0.8 J. Calculate the force constant of the spring.",
+"opts": ["200 N/m", "400 N/m", "800 N/m", "1000 N/m"],
+"ans": 3,
+"explanation": "
+𝑊
+=
+𝑓
+𝑟
+𝑎
+𝑐
+12
+𝑘
+𝑒
+2
+W=
+frac12ke
+2
+. 
+0.8
+=
+0.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑘
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+(
+0.04
+)
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+0.8
+=
+0.0008
+𝑘
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑘
+=
+1000
+0.8=0.5
+timesk
+times(0.04)
+2
+Rightarrow0.8=0.0008k
+Rightarrowk=1000
+ N/m."
+},
+{
+"q": "Which of the following is a vector quantity?",
+"opts": ["Work", "Energy", "Magnetic Flux Density", "Temperature"],
+"ans": 2,
+"explanation": "Magnetic flux density has both magnitude and direction. The others are scalar quantities."
+},
+{
+"q": "A body of mass 2 kg moving at 
+10
+,
+𝑚
+/
+𝑠
+10
+,m/s
+ collides with a stationary body of mass 3 kg. If they move together, calculate their common velocity.",
+"opts": ["2 m/s", "4 m/s", "5 m/s", "6 m/s"],
+"ans": 1,
+"explanation": "Conservation of momentum: 
+𝑚
+1
+𝑢
+1
++
+𝑚
+2
+𝑢
+2
+=
+(
+𝑚
+1
++
+𝑚
+2
+)
+𝑣
+m
+1
+	​
+
+u
+1
+	​
+
++m
+2
+	​
+
+u
+2
+	​
+
+=(m
+1
+	​
+
++m
+2
+	​
+
+)v
+. 
+2
+(
+10
+)
++
+3
+(
+0
+)
+=
+5
+𝑣
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+20
+=
+5
+𝑣
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑣
+=
+4
+2(10)+3(0)=5v
+Rightarrow20=5v
+Rightarrowv=4
+ m/s."
+},
+{
+"q": "The centripetal force acting on a body of mass 
+𝑚
+m
+ moving with velocity 
+𝑣
+v
+ in a circle of radius 
+𝑟
+r
+ is _____.",
+"opts": ["
+𝑚
+𝑣
+/
+𝑟
+mv/r
+", "
+𝑚
+𝑣
+2
+/
+𝑟
+mv
+2
+/r
+", "
+𝑚
+𝑣
+/
+𝑟
+2
+mv/r
+2
+", "
+𝑚
+2
+𝑣
+/
+𝑟
+m
+2
+v/r
+"],
+"ans": 1,
+"explanation": "Centripetal force is defined as 
+𝐹
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑚
+𝑣
+2
+𝑟
+F=
+fracmv
+2
+r
+."
+},
+{
+"q": "A hydraulic press has a small piston of area 
+0.02
+,
+𝑚
+2
+0.02
+,m
+2
+ and a large piston of area 
+0.5
+,
+𝑚
+2
+0.5
+,m
+2
+. If a force of 100 N is applied to the small piston, what is the force on the large piston?",
+"opts": ["4 N", "250 N", "2500 N", "5000 N"],
+"ans": 2,
+"explanation": "
+𝐹
+1
+/
+𝐴
+1
+=
+𝐹
+2
+/
+𝐴
+2
+F
+1
+	​
+
+/A
+1
+	​
+
+=F
+2
+	​
+
+/A
+2
+	​
+
+. 
+100
+/
+0.02
+=
+𝐹
+2
+/
+0.5
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+5000
+=
+𝐹
+2
+/
+0.5
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝐹
+2
+=
+2500
+100/0.02=F
+2
+	​
+
+/0.5
+Rightarrow5000=F
+2
+	​
+
+/0.5
+RightarrowF
+2
+	​
+
+=2500
+ N."
+},
+{
+"q": "The clinical thermometer is designed with a narrow constriction to _____.",
+"opts": ["increase sensitivity", "prevent mercury from falling back instantly", "measure high temperatures", "make it portable"],
+"ans": 1,
+"explanation": "The constriction (kink) prevents the mercury from returning to the bulb before the reading is taken."
+},
+{
+"q": "The heat required to change 1 kg of ice at 
+ to water at the same temperature is _____.",
+"opts": ["Specific heat capacity", "Latent heat of fusion", "Latent heat of vaporization", "Heat capacity"],
+"ans": 1,
+"explanation": "Latent heat of fusion is the heat required to change a substance from solid to liquid without a change in temperature."
+},
+{
+"q": "The volume of a gas is 
+40
+,
+𝑐
+𝑚
+3
+40
+,cm
+3
+ at 
+. Calculate its volume at 
+ if the pressure is constant.",
+"opts": ["30.0 
+𝑐
+𝑚
+3
+cm
+3
+", "53.3 
+𝑐
+𝑚
+3
+cm
+3
+", "189.2 
+𝑐
+𝑚
+3
+cm
+3
+", "80.0 
+𝑐
+𝑚
+3
+cm
+3
+"],
+"ans": 1,
+"explanation": "Using Charles' Law: 
+𝑉
+1
+/
+𝑇
+1
+=
+𝑉
+2
+/
+𝑇
+2
+V
+1
+	​
+
+/T
+1
+	​
+
+=V
+2
+	​
+
+/T
+2
+	​
+
+. 
+𝑇
+1
+=
+300
+𝐾
+,
+𝑇
+2
+=
+400
+𝐾
+T
+1
+	​
+
+=300K,T
+2
+	​
+
+=400K
+. 
+40
+/
+300
+=
+𝑉
+2
+/
+400
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑉
+2
+=
+53.33
+,
+𝑐
+𝑚
+3
+40/300=V
+2
+	​
+
+/400
+RightarrowV
+2
+	​
+
+=53.33
+,cm
+3
+."
+},
+{
+"q": "The mode of heat transfer that does not require a material medium is _____.",
+"opts": ["Conduction", "Convection", "Radiation", "Evaporation"],
+"ans": 2,
+"explanation": "Radiation transfers heat via electromagnetic waves, which can travel through a vacuum."
+},
+{
+"q": "An object of mass 0.5 kg is heated from 
+ to 
+. If the specific heat capacity is 
+400
+,
+𝐽
+/
+𝑘
+𝑔
+𝑐
+𝑑
+𝑜
+𝑡
+𝐾
+400
+,J/kg
+cdotK
+, calculate the heat absorbed.",
+"opts": ["16,000 J", "32,000 J", "40,000 J", "20,000 J"],
+"ans": 0,
+"explanation": "
+𝑄
+=
+𝑚
+𝑐
+𝐷
+𝑒
+𝑙
+𝑡
+𝑎
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+0.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+400
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+(
+100
+−
+20
+)
+=
+200
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+80
+=
+16
+,
+000
+Q=mc
+Delta
+theta=0.5
+times400
+times(100−20)=200
+times80=16,000
+ J."
+},
+{
+"q": "The temperature at which the saturated vapor pressure of a liquid equals the atmospheric pressure is the _____.",
+"opts": ["Dew point", "Melting point", "Boiling point", "Triple point"],
+"ans": 2,
+"explanation": "This is the definition of the boiling point of a liquid."
+},
+{
+"q": "A wave has a frequency of 500 Hz and a wavelength of 0.7 m. Calculate its velocity.",
+"opts": ["35 m/s", "350 m/s", "714 m/s", "1500 m/s"],
+"ans": 1,
+"explanation": "
+𝑣
+=
+𝑓
+𝑙
+𝑎
+𝑚
+𝑏
+𝑑
+𝑎
+=
+500
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+0.7
+=
+350
+v=f
+lambda=500
+times0.7=350
+ m/s."
+},
+{
+"q": "Transverse waves can be _____ while longitudinal waves cannot.",
+"opts": ["reflected", "refracted", "polarized", "diffracted"],
+"ans": 2,
+"explanation": "Polarization is a property unique to transverse waves; longitudinal waves oscillate in the direction of propagation and cannot be restricted to a single plane."
+},
+{
+"q": "An object is placed 15 cm in front of a concave mirror of focal length 10 cm. Calculate the image distance.",
+"opts": ["6 cm", "25 cm", "30 cm", "60 cm"],
+"ans": 2,
+"explanation": "
+1
+/
+𝑓
+=
+1
+/
+𝑢
++
+1
+/
+𝑣
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+1
+/
+10
+=
+1
+/
+15
++
+1
+/
+𝑣
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+1
+/
+𝑣
+=
+1
+/
+10
+−
+1
+/
+15
+=
+1
+/
+30
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑣
+=
+30
+1/f=1/u+1/v
+Rightarrow1/10=1/15+1/v
+Rightarrow1/v=1/10−1/15=1/30
+Rightarrowv=30
+ cm."
+},
+{
+"q": "The refractive index of glass is 1.5. Calculate the speed of light in glass. (
+𝑐
+=
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+8
+,
+𝑚
+/
+𝑠
+c=3
+times10
+8
+,m/s
+)",
+"opts": ["
+2.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+8
+,
+𝑚
+/
+𝑠
+2.0
+times10
+8
+,m/s
+", "
+4.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+8
+,
+𝑚
+/
+𝑠
+4.5
+times10
+8
+,m/s
+", "
+1.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+8
+,
+𝑚
+/
+𝑠
+1.5
+times10
+8
+,m/s
+", "
+2.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+8
+,
+𝑚
+/
+𝑠
+2.5
+times10
+8
+,m/s
+"],
+"ans": 0,
+"explanation": "
+𝑛
+=
+𝑐
+/
+𝑣
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑣
+=
+𝑐
+/
+𝑛
+=
+(
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+8
+)
+/
+1.5
+=
+2.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+8
+n=c/v
+Rightarrowv=c/n=(3
+times10
+8
+)/1.5=2.0
+times10
+8
+ m/s."
+},
+{
+"q": "The type of lens used to correct hypermetropia (long-sightedness) is _____.",
+"opts": ["Concave lens", "Biconcave lens", "Converging lens", "Cylindrical lens"],
+"ans": 2,
+"explanation": "Hypermetropia is corrected using a converging (convex) lens to bring the focus onto the retina."
+},
+{
+"q": "Total internal reflection occurs when the angle of incidence is _____.",
+"opts": ["equal to the critical angle", "less than the critical angle", "greater than the critical angle", "zero"],
+"ans": 2,
+"explanation": "Total internal reflection occurs only when light moves from a denser to a less dense medium and the angle of incidence exceeds the critical angle."
+},
+{
+"q": "A person hears an echo from a cliff 2 seconds after shouting. If the speed of sound is 
+340
+,
+𝑚
+/
+𝑠
+340
+,m/s
+, calculate the distance to the cliff.",
+"opts": ["170 m", "340 m", "680 m", "85 m"],
+"ans": 1,
+"explanation": "
+𝑣
+=
+2
+𝑑
+/
+𝑡
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+340
+=
+2
+𝑑
+/
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑑
+=
+340
+v=2d/t
+Rightarrow340=2d/2
+Rightarrowd=340
+ m."
+},
+{
+"q": "The pitch of a musical note depends on its _____.",
+"opts": ["Amplitude", "Frequency", "Overtones", "Velocity"],
+"ans": 1,
+"explanation": "Pitch is a sensory perception related to the frequency of the sound wave."
+},
+{
+"q": "The property of sound that distinguishes notes of the same pitch and loudness from different instruments is _____.",
+"opts": ["Intensity", "Resonance", "Quality/Timbre", "Pitch"],
+"ans": 2,
+"explanation": "Quality or Timbre depends on the overtones or harmonics produced by the instrument."
+},
+{
+"q": "Three resistors of 
+2
+,
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+2
+,
+Omega
+, 
+4
+,
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+4
+,
+Omega
+, and 
+6
+,
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+6
+,
+Omega
+ are connected in series. If a 24 V battery is connected, calculate the current.",
+"opts": ["2 A", "4 A", "12 A", "24 A"],
+"ans": 0,
+"explanation": "
+𝑅
+𝑡
+𝑜
+𝑡
+𝑎
+𝑙
+=
+2
++
+4
++
+6
+=
+12
+,
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+R
+total
+	​
+
+=2+4+6=12
+,
+Omega
+. 
+𝐼
+=
+𝑉
+/
+𝑅
+=
+24
+/
+12
+=
+2
+I=V/R=24/12=2
+ A."
+},
+{
+"q": "The unit of electric potential is the _____.",
+"opts": ["Ampere", "Volt", "Coulomb", "Ohm"],
+"ans": 1,
+"explanation": "The Volt is the S.I. unit of electric potential and electromotive force."
+},
+{
+"q": "A capacitor of 
+5
+,
+𝑚
+𝑢
+𝐹
+5
+,
+muF
+ is connected to a 10 V source. Calculate the charge stored.",
+"opts": ["
+0.5
+,
+𝑚
+𝑢
+𝐶
+0.5
+,
+muC
+", "
+50
+,
+𝑚
+𝑢
+𝐶
+50
+,
+muC
+", "
+2
+,
+𝑚
+𝑢
+𝐶
+2
+,
+muC
+", "
+15
+,
+𝑚
+𝑢
+𝐶
+15
+,
+muC
+"],
+"ans": 1,
+"explanation": "
+𝑄
+=
+𝐶
+𝑉
+=
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+=
+50
+,
+𝑚
+𝑢
+𝐶
+Q=CV=5
+times10=50
+,
+muC
+."
+},
+{
+"q": "Which of the following materials is a semiconductor?",
+"opts": ["Copper", "Silicon", "Iron", "Aluminum"],
+"ans": 1,
+"explanation": "Silicon and Germanium are the most common semiconductor materials used in electronics."
+},
+{
+"q": "A transformer has 100 turns in the primary and 500 turns in the secondary. If the input voltage is 220 V, the output voltage is _____.",
+"opts": ["44 V", "110 V", "1100 V", "2200 V"],
+"ans": 2,
+"explanation": "
+𝑉
+𝑠
+/
+𝑉
+𝑝
+=
+𝑁
+𝑠
+/
+𝑁
+𝑝
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑉
+𝑠
+/
+220
+=
+500
+/
+100
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑉
+𝑠
+=
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+220
+=
+1100
+V
+s
+	​
+
+/V
+p
+	​
+
+=N
+s
+	​
+
+/N
+p
+	​
+
+RightarrowV
+s
+	​
+
+/220=500/100
+RightarrowV
+s
+	​
+
+=5
+times220=1100
+ V."
+},
+{
+"q": "The process of adding impurities to a pure semiconductor to increase conductivity is _____.",
+"opts": ["Doping", "Ionization", "Induction", "Thermionic emission"],
+"ans": 0,
+"explanation": "Doping introduces charge carriers into the semiconductor lattice."
+},
+{
+"q": "The emission of electrons from a heated metal surface is known as _____.",
+"opts": ["Photoelectric effect", "Thermionic emission", "Radioactivity", "Field emission"],
+"ans": 1,
+"explanation": "Thermionic emission involves the escape of electrons from a metal due to thermal energy."
+},
+{
+"q": "Calculate the energy of a photon of frequency 
+6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+14
+,
+𝐻
+𝑧
+6
+times10
+14
+,Hz
+. (
+ℎ
+=
+6.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+34
+,
+𝐽
+𝑠
+h=6.6
+times10
+−34
+,Js
+)",
+"opts": ["
+3.96
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+19
+𝐽
+3.96
+times10
+−19
+J
+", "
+1.1
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+48
+𝐽
+1.1
+times10
+−48
+J
+", "
+4.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+20
+𝐽
+4.0
+times10
+−20
+J
+", "
+6.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+34
+𝐽
+6.6
+times10
+−34
+J
+"],
+"ans": 0,
+"explanation": "
+𝐸
+=
+ℎ
+𝑓
+=
+6.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+34
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+14
+=
+39.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+20
+=
+3.96
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+19
+E=hf=6.6
+times10
+−34
+times6
+times10
+14
+=39.6
+times10
+−20
+=3.96
+times10
+−19
+ J."
+},
+{
+"q": "The time taken for a radioactive sample to decay to half its original mass is its _____.",
+"opts": ["Mean life", "Decay constant", "Half-life", "Period"],
+"ans": 2,
+"explanation": "Half-life (
+𝑇
+1
+/
+2
+T
+1/2
+	​
+
+) is the characteristic time required for half the atoms in a sample to decay."
+},
+{
+"q": "In nuclear fission, a heavy nucleus splits into two smaller nuclei with the release of _____.",
+"opts": ["Protons", "Neutrons and energy", "Electrons only", "Alpha particles only"],
+"ans": 1,
+"explanation": "Fission typically releases neutrons which can trigger a chain reaction, along with massive kinetic energy."
+},
+{
+"q": "The device used to measure current in a circuit is the _____.",
+"opts": ["Voltmeter", "Ammeter", "Galvanometer", "Wattmeter"],
+"ans": 1,
+"explanation": "An ammeter is connected in series to measure the rate of flow of electric charge."
+},
+{
+"q": "Which of the following radiations has the highest penetrating power?",
+"opts": ["Alpha particles", "Beta particles", "Gamma rays", "X-rays"],
+"ans": 2,
+"explanation": "Gamma rays are high-energy electromagnetic waves and have no mass or charge, giving them high penetrating power."
+},
+{
+"q": "The S.I. unit of pressure is _____.",
+"opts": ["
+𝑁
+/
+𝑚
+N/m
+", "
+𝑁
+𝑐
+𝑑
+𝑜
+𝑡
+𝑚
+N
+cdotm
+", "Pascal", "Joule"],
+"ans": 2,
+"explanation": "One Pascal (Pa) is defined as one Newton per square meter (
+𝑁
+/
+𝑚
+2
+N/m
+2
+)."
+},
+{
+"q": "Archimedes' Principle states that when a body is immersed in a fluid, it experiences an upthrust equal to the _____.",
+"opts": ["weight of the body", "weight of fluid displaced", "volume of fluid displaced", "density of the fluid"],
+"ans": 1,
+"explanation": "The upward buoyant force (upthrust) equals the weight of the fluid that the body pushes aside."
+},
+{
+"q": "The ability of a material to return to its original shape after a deforming force is removed is _____.",
+"opts": ["Plasticity", "Ductility", "Elasticity", "Malleability"],
+"ans": 2,
+"explanation": "Elasticity is the physical property of a material that returns to its original shape after stress is removed."
+},
+{
+"q": "Which of the following is a scalar quantity?",
+"opts": ["Momentum", "Electric Field Intensity", "Magnetic Flux", "Acceleration"],
+"ans": 2,
+"explanation": "Magnetic flux is a scalar product of B and A. Momentum, Field Intensity, and Acceleration are vectors."
+},
+{
+"q": "Calculate the power of a pump that lifts 500 kg of water through a height of 10 m in 20 s. (
+𝑔
+=
+10
+,
+𝑚
+/
+𝑠
+2
+g=10
+,m/s
+2
+)",
+"opts": ["250 W", "2500 W", "5000 W", "1000 W"],
+"ans": 1,
+"explanation": "
+𝑃
+=
+𝑊
+/
+𝑡
+=
+𝑚
+𝑔
+ℎ
+/
+𝑡
+=
+(
+500
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+)
+/
+20
+=
+50000
+/
+20
+=
+2500
+P=W/t=mgh/t=(500
+times10
+times10)/20=50000/20=2500
+ W."
+},
+{
+"q": "The instrument used to measure relative humidity is the _____.",
+"opts": ["Hygrometer", "Hydrometer", "Barometer", "Pyrometer"],
+"ans": 0,
+"explanation": "A hygrometer measures the moisture content in the atmosphere."
+},
+{
+"q": "Which of the following colors of light is deviated the least by a triangular prism?",
+"opts": ["Violet", "Green", "Yellow", "Red"],
+"ans": 3,
+"explanation": "Red light has the longest wavelength and the lowest refractive index in glass, so it is deviated the least."
+},
+{
+"q": "The work function of a metal is 
+3.3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+19
+𝐽
+3.3
+times10
+−19
+J
+. Calculate the threshold frequency. (
+ℎ
+=
+6.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+34
+,
+𝐽
+𝑠
+h=6.6
+times10
+−34
+,Js
+)",
+"opts": ["
+0.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+15
+𝐻
+𝑧
+0.5
+times10
+15
+Hz
+", "
+2.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+14
+𝐻
+𝑧
+2.0
+times10
+14
+Hz
+", "
+5.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+14
+𝐻
+𝑧
+5.0
+times10
+14
+Hz
+", "
+1.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+15
+𝐻
+𝑧
+1.0
+times10
+15
+Hz
+"],
+"ans": 2,
+"explanation": "
+𝑊
+=
+ℎ
+𝑓
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑓
+0
+=
+𝑊
+/
+ℎ
+=
+(
+3.3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+19
+)
+/
+(
+6.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+34
+)
+=
+0.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+15
+=
+5.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+14
+W=hf
+0
+	​
+
+Rightarrowf
+0
+	​
+
+=W/h=(3.3
+times10
+−19
+)/(6.6
+times10
+−34
+)=0.5
+times10
+15
+=5.0
+times10
+14
+ Hz."
+},
+{
+"q": "The resistance of a wire is 
+10
+,
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+10
+,
+Omega
+. If its length is doubled and its area is halved, the new resistance is _____.",
+"opts": ["10 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+", "20 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+", "40 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+", "5 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+"],
+"ans": 2,
+"explanation": "
+𝑅
+=
+𝑟
+ℎ
+𝑜
+𝐿
+/
+𝐴
+R=
+rhoL/A
+. New 
+𝑅
+=
+𝑟
+ℎ
+𝑜
+(
+2
+𝐿
+)
+/
+(
+𝐴
+/
+2
+)
+=
+4
+(
+𝑟
+ℎ
+𝑜
+𝐿
+/
+𝐴
+)
+=
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+=
+40
+,
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+R=
+rho(2L)/(A/2)=4(
+rhoL/A)=4
+times10=40
+,
+Omega
+."
+},
+{
+"q": "The particle that carries a negative charge in an atom is the _____.",
+"opts": ["Proton", "Neutron", "Electron", "Positron"],
+"ans": 2,
+"explanation": "Electrons are negatively charged particles that orbit the nucleus."
+},
+{
+"q": "An electric iron is rated 1000 W, 220 V. Calculate the resistance of the heating element.",
+"opts": ["0.22 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+", "4.54 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+", "48.4 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+", "220,000 
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+Omega
+"],
+"ans": 2,
+"explanation": "
+𝑃
+=
+𝑉
+2
+/
+𝑅
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑅
+=
+𝑉
+2
+/
+𝑃
+=
+(
+220
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+220
+)
+/
+1000
+=
+48400
+/
+1000
+=
+48.4
+,
+𝑂
+𝑚
+𝑒
+𝑔
+𝑎
+P=V
+2
+/R
+RightarrowR=V
+2
+/P=(220
+times220)/1000=48400/1000=48.4
+,
+Omega
+."
+},
+{
+"q": "The phenomena that demonstrates the wave nature of light is _____.",
+"opts": ["Photoelectric effect", "Diffraction", "Thermionic emission", "Compton effect"],
+"ans": 1,
+"explanation": "Diffraction and Interference are characteristics of waves. Photoelectric and Compton effects demonstrate the particle nature."
+},
+{
+"q": "The magnifying power of a telescope with an objective of focal length 100 cm and an eyepiece of focal length 5 cm is _____.",
+"opts": ["20", "500", "0.05", "105"],
+"ans": 0,
+"explanation": "
+𝑀
+=
+𝑓
+𝑜
+/
+𝑓
+𝑒
+=
+100
+/
+5
+=
+20
+M=f
+o
+	​
+
+/f
+e
+	​
+
+=100/5=20
+."
+},
+{
+"q": "A simple pendulum has a period of 2 s on Earth. If it is taken to the Moon where gravity is 
+1
+/
+6
+1/6
+ of Earth's, the period will _____.",
+"opts": ["increase", "decrease", "remain the same", "become zero"],
+"ans": 0,
+"explanation": "
+𝑇
+=
+2
+𝑝
+𝑖
+𝑠
+𝑞
+𝑟
+𝑡
+𝐿
+/
+𝑔
+T=2
+pi
+sqrtL/g
+. If 
+𝑔
+g
+ decreases, 
+𝑇
+T
+ increases."
+},
+{
+"q": "The unit of magnetic flux is the _____.",
+"opts": ["Tesla", "Weber", "Henry", "Farad"],
+"ans": 1,
+"explanation": "The Weber (Wb) is the unit of magnetic flux. Tesla is for magnetic flux density."
+},
+{
+"q": "Which of the following is a neutral equilibrium condition?",
+"opts": ["A ball on a flat table", "A cone on its apex", "A cone on its base", "A ruler balanced on a finger"],
+"ans": 0,
+"explanation": "In neutral equilibrium, the center of gravity remains at the same height when the body is slightly displaced."
+},
+{
+"q": "The boiling point of water in the Kelvin scale is _____.",
+"opts": ["100 K", "273 K", "373 K", "0 K"],
+"ans": 2,
+"explanation": "
+𝑇
+(
+𝐾
+)
+=
+𝜃
+(
+∘
+𝐶
+)
++
+273
+T(K)=θ(
+∘
+C)+273
+. Water boils at 
+100
+∘
+𝐶
+100
+∘
+C
+, which is 
+373
+𝐾
+373K
+."
+},
+{
+"q": "The mercury-in-glass thermometer works on the principle of _____.",
+"opts": ["thermal expansion", "thermionic emission", "variation of resistance", "the Seebeck effect"],
+"ans": 0,
+"explanation": "Liquids expand when heated, and this expansion is used to indicate temperature changes."
+},
+{
+"q": "Which of the following is used to store electrical energy in an electric field?",
+"opts": ["Inductor", "Resistor", "Capacitor", "Transistor"],
+"ans": 2,
+"explanation": "A capacitor stores charge and energy within the electric field between its plates."
+},
+{
+"q": "A force of 50 N acts on a body of mass 5 kg for 2 seconds. Calculate the change in momentum.",
+"opts": ["10 kg m/s", "25 kg m/s", "50 kg m/s", "100 kg m/s"],
+"ans": 3,
+"explanation": "Change in momentum = Impulse = 
+𝐹
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑡
+=
+50
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+=
+100
+F
+timest=50
+times2=100
+ kg m/s."
+},
+{
+"q": "The escape velocity of an object from the Earth's surface is approximately _____.",
+"opts": ["7.9 km/s", "11.2 km/s", "3.0 km/s", "42.0 km/s"],
+"ans": 1,
+"explanation": "The standard value for Earth's escape velocity is 
+11.2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+3
+,
+𝑚
+/
+𝑠
+11.2
+times10
+3
+,m/s
+."
+},
+{
+"q": "The component that converts AC to DC is a _____.",
+"opts": ["Transformer", "Capacitor", "Rectifier", "Inductor"],
+"ans": 2,
+"explanation": "Rectification is the process of converting alternating current to direct current using diodes."
+},
+{
+"q": "Sound waves cannot travel through _____.",
+"opts": ["Water", "Steel", "Air", "A vacuum"],
+"ans": 3,
+"explanation": "Sound is a mechanical wave and requires a material medium to propagate."
+},
+{
+"q": "The fundamental frequency of a closed pipe of length 
+𝐿
+L
+ is _____.",
+"opts": ["
+𝑣
+/
+2
+𝐿
+v/2L
+", "
+𝑣
+/
+4
+𝐿
+v/4L
+", "
+2
+𝑣
+/
+𝐿
+2v/L
+", "
+𝑣
+/
+𝐿
+v/L
+"],
+"ans": 1,
+"explanation": "For a closed pipe, the first harmonic occurs at 
+𝑙
+𝑎
+𝑚
+𝑏
+𝑑
+𝑎
+=
+4
+𝐿
+lambda=4L
+, so 
+𝑓
+=
+𝑣
+/
+4
+𝐿
+f=v/4L
+."
+},
+{
+"q": "An isotope of an element has the same number of _____.",
+"opts": ["Neutrons", "Protons", "Electrons and Neutrons", "Mass number"],
+"ans": 1,
+"explanation": "Isotopes are atoms of the same element with the same atomic number (protons) but different mass numbers (neutrons)."
+},
+{
+"q": "Which of the following is the most suitable material for the core of an electromagnet?",
+"opts": ["Steel", "Soft iron", "Copper", "Aluminum"],
+"ans": 1,
+"explanation": "Soft iron is easily magnetized and demagnetized, which is essential for an electromagnet."
+},
+{
+"q": "The unit of radioactivity is the _____.",
+"opts": ["Curie", "Joule", "Watt", "Tesla"],
+"ans": 0,
+"explanation": "The Curie (Ci) or Becquerel (Bq) are units used to measure the rate of radioactive decay."
+},
+{
+"q": "Calculate the current flowing through a 100 W bulb connected to a 250 V supply.",
+"opts": ["0.4 A", "2.5 A", "25 A", "40 A"],
+"ans": 0,
+"explanation": "
+𝐼
+=
+𝑃
+/
+𝑉
+=
+100
+/
+250
+=
+0.4
+I=P/V=100/250=0.4
+ A."
+},
+{
+"q": "The force between two point charges is inversely proportional to the _____.",
+"opts": ["product of the charges", "distance between them", "square of the distance between them", "permittivity"],
+"ans": 2,
+"explanation": "According to Coulomb's Law, 
+𝐹
+=
+𝑘
+(
+𝑞
+1
+𝑞
+2
+)
+/
+𝑟
+2
+F=k(q
+1
+	​
+
+q
+2
+	​
+
+)/r
+2
+."
+},
+{
+"q": "The primary objective of a step-up transformer is to increase _____.",
+"opts": ["Current", "Power", "Voltage", "Resistance"],
+"ans": 2,
+"explanation": "A step-up transformer increases the secondary voltage relative to the primary voltage."
+},
+{
+"q": "Which of the following is an example of a first-class lever?",
+"opts": ["Wheelbarrow", "Nutcracker", "Scissors", "Sugar tongs"],
+"ans": 2,
+"explanation": "In a first-class lever, the fulcrum is between the effort and the load (e.g., scissors, seesaw)."
+},
+{
+"q": "The weight of an object is measured using a _____.",
+"opts": ["Beam balance", "Spring balance", "Chemical balance", "Metre rule"],
+"ans": 1,
+"explanation": "A spring balance measures the gravitational pull (weight) on an object, whereas a beam balance measures mass."
+},
+{
+"q": "The S.I. unit of viscosity is _____.",
+"opts": ["
+𝑘
+𝑔
+/
+𝑚
+𝑐
+𝑑
+𝑜
+𝑡
+𝑠
+kg/m
+cdots
+", "
+𝑁
+𝑐
+𝑑
+𝑜
+𝑡
+𝑚
+N
+cdotm
+", "
+𝑁
+/
+𝑚
+2
+N/m
+2
+", "Pascal"],
+"ans": 0,
+"explanation": "The unit of viscosity is the Poiseuille (
+𝑘
+𝑔
+𝑐
+𝑑
+𝑜
+𝑡
+𝑚
+−
+1
+𝑠
+−
+1
+kg
+cdotm
+−1
+s
+−1
+ or 
+𝑃
+𝑎
+𝑐
+𝑑
+𝑜
+𝑡
+𝑠
+Pa
+cdots
+)."
+}
+]
