@@ -1,1 +1,800 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Mkpụrụedemede asụsụ Igbo (Abidịị) dị ole?",
+"opts": [
+"Iri abụọ na isii",
+"Iri atọ na isii",
+"Iri abụọ na asatọ",
+"Iri atọ na asatọ"
+],
+"ans": 1,
+"explanation": "Asụsụ Igbo nwere mkpụrụedemede iri atọ na isii (36) n'Abidịị ya."
+},
+{
+"q": "Udaume ole dị n'asụsụ Igbo?",
+"opts": [
+"Ise",
+"Isii",
+"Asatọ",
+"Iri"
+],
+"ans": 2,
+"explanation": "Igbo nwere udaume asatọ (8) e kewara ụzọ abụọ: mfe na nrarị."
+},
+{
+"q": "Olee n'ime ndị a bụ udaume nrarị (Heavy vowels)?",
+"opts": [
+"a, ị, ọ, ụ",
+"e, i, o, u",
+"a, e, i, o",
+"ị, ụ, a, ọ"
+],
+"ans": 1,
+"explanation": "Udaume nrarị (Akaebe) bụ e, i, o, u."
+},
+{
+"q": "Mkpụrụedemede ole bụ mgbochiume n'asụsụ Igbo?",
+"opts": [
+"Iri abụọ na isii",
+"Iri abụọ na asatọ",
+"Iri atọ",
+"Iri abụọ na anọ"
+],
+"ans": 1,
+"explanation": "N'ime mkpụrụedemede 36, iri abụọ na asatọ (28) bụ mgbochiume."
+},
+{
+"q": "Gịnị bụ myiriụda (Nasal consonant acting as a syllable)?",
+"opts": [
+"b, d",
+"f, g",
+"m, n",
+"p, k"
+],
+"ans": 2,
+"explanation": "M na N bụ myiriụda n'ihi na ha nwere ike ikuru udaolu ma nọrọ onwe ha dị ka síllẹ́bụ̀."
+},
+{
+"q": "Mgbochiume kpachịrị akpachị (Digraphs) dị ole n'Igbo?",
+"opts": [
+"Isii",
+"Asatọ",
+"Mkpụrụ itoolu",
+"Mkpụrụ iri"
+],
+"ans": 2,
+"explanation": "Mgbochiume kpachịrị akpachị (mkpụrụedemede abụọ na-emepụta otu ụda) dị itoolu (9): ch, gb, gh, gw, kp, kw, nw, ny, sh."
+},
+{
+"q": "Olee akaraolu (Tone mark) a na-eji egosi 'Udaala'?",
+"opts": [
+"Akara elu (/)",
+"Akara ala (\)",
+"Akara nsu (-)",
+"Kọma"
+],
+"ans": 1,
+"explanation": "A na-eji akara a (\) egosi udaala (low tone)."
+},
+{
+"q": "N'asụsụ Igbo, a naghị akara _____ akaraolu n'akwụkwọ izugbe.",
+"opts": [
+"Udaala",
+"Udaelu",
+"Udansu",
+"Mkpụrụedemede"
+],
+"ans": 1,
+"explanation": "N'Igbo izugbe, a naghị akara udaelu (high tone) akara ọ bụla n'elu mkpụrụedemede."
+},
+{
+"q": "Olee akara edemede a na-eji egosi ajụjụ?",
+"opts": [
+"!",
+"?",
+".",
+","
+],
+"ans": 1,
+"explanation": "A na-eji akara ajụjụ (?) egosi na ahịrịokwu bụ nke ajụjụ."
+},
+{
+"q": "Kedu nke bụ aha pụrụ iche (Proper noun) n'ime ndị a?",
+"opts": [
+"Osisi",
+"Mmadụ",
+"Anambra",
+"Okpu"
+],
+"ans": 2,
+"explanation": "Anambra bụ aha pụrụ iche n'ihi na ọ bụ aha otu steeti akọwapụtara."
+},
+{
+"q": "Nnọchiaha 'Anyị' nọ n'ụdị wo?",
+"opts": [
+"Nnọchiaha mbụ (n'ụdị ọtụtụ)",
+"Nnọchiaha abụọ",
+"Nnọchiaha atọ",
+"Nnọchiaha nnyemaka"
+],
+"ans": 0,
+"explanation": "Anyị bụ nnọchiaha mbụ na-anọchite anya ọtụtụ mmadụ (First person plural)."
+},
+{
+"q": "Ngwaa 'Rie' dị n'ụdị _____.",
+"opts": [
+"Isi ngwaa",
+"Ngwaa nnyemaka",
+"Ngwaa iwu",
+"Ngwaa mbufe"
+],
+"ans": 2,
+"explanation": "'Rie' bụ ngwaa iwu (Imperative) na-enye mmadụ ntuziaka ka ọ rụọ ọrụ."
+},
+{
+"q": "Gịnị bụ 'Nkọwa' (Adjective) n'ahịrịokwu a: 'Akpa ọcha ahụ danyere na mmiri'?",
+"opts": [
+"Akpa",
+"Ọcha",
+"Danyere",
+"Mmiri"
+],
+"ans": 1,
+"explanation": "Ọcha bụ nkọwa n'ihi na ọ na-akọwa ụdị akpa ahụ bụ."
+},
+{
+"q": "Ahịrịokwu 'Obi na-agụ akwụkwọ' nwere nnyemaka ngwaa wo?",
+"opts": [
+"Agụ",
+"Akwụkwọ",
+"Na-",
+"Obi"
+],
+"ans": 2,
+"explanation": "'Na' na-eje ozi dị ka ngwaa nnyemaka (Auxiliary verb) na-egosi na ihe ahụ na-eme ugbu a."
+},
+{
+"q": "Mgbakwunye (Affix) na-abịa n'ihu ngwaa bụ _____.",
+"opts": [
+"Nsonazụ",
+"Mbuụzọ",
+"Ntinye",
+"Sílẹ́bụ̀"
+],
+"ans": 1,
+"explanation": "Mbuụzọ (Prefix) bụ mgbakwunye a na-etinye n'ihu isi ngwaa."
+},
+{
+"q": "Olee síllẹ́bụ̀ ole dị n'okwu a 'Mmadụ'?",
+"opts": [
+"Abụọ",
+"Mẹ́ta",
+"Mẹ́rin",
+"Kan"
+],
+"ans": 1,
+"explanation": "Okwu bụ M-ma-dụ. M bụ myiriụda (síllẹ́bụ̀ nke mbụ), 'ma' bụ nke abụọ, 'dụ' bụ nke atọ."
+},
+{
+"q": "Ahịrịokwu 'Onye ka ọ bụ?' bụ ụdị _____.",
+"opts": [
+"Ahịrịokwu nkwupụta",
+"Ahịrịokwu ajụjụ",
+"Ahịrịokwu iwu",
+"Ahịrịokwu mkpu"
+],
+"ans": 1,
+"explanation": "Ọ bụ ahịrịokwu ajụjụ n'ihi na ọ na-ajụ maka mmadụ."
+},
+{
+"q": "Kedu nke kacha bụrụ ezi nsupe n'okwu ndị a?",
+"opts": [
+"Ezinnụlọ",
+"Ezinụlọ",
+"Ezinulọ",
+"Ezinụllọ"
+],
+"ans": 1,
+"explanation": "Nsupe ziri ezi bụ 'Ezinụlọ'."
+},
+{
+"q": "Mmekọ udaume (Vowel harmony) pụtara na _____.",
+"opts": [
+"Udaume niile na-abịa n'otu okwu",
+"Udaume mfe na nrarị anaghị agwakọta n'otu okwu",
+"Udaume asatọ na-anọ otu ebe",
+"Mgbochiume na-aghọ udaume"
+],
+"ans": 1,
+"explanation": "Mmekọ udaume bụ iwu na-ekwu na udaume si n'otu otu (otu mfe ma ọ bụ otu nrarị) na-anọkarị n'otu mkpụrụokwu."
+},
+{
+"q": "Ngwaa 'Bịa' ma ọ bụrụ n'ụdị n'ọdịnihu (Future tense) na-aghọ _____.",
+"opts": [
+"Abịa",
+"Bịara",
+"Ga-abịa",
+"Na-abịa"
+],
+"ans": 2,
+"explanation": "A na-eji 'ga' agbakwunyere isi ngwaa na-egosi n'ọdịnihu."
+},
+{
+"type": "passage",
+"content": "Omenala bụ ụzọ ndị mmadụ si ebi ndụ. N'ala Igbo, anyị ji omenala anyị eme ọnụ. Omenala gụnyere ejiji, nri, asụsụ, na ememme dị iche iche dịka iri ji ọhụrụ. Onye tụfuru omenala ya bụ onye tụfuru onwe ya. Ọ dị mkpa ka anyị kụziere ụmụ anyị omenala anyị ka ọ ghara ịla n'iyi. Ndị nna nna anyị siri n'ụzọ dị mma kụziere anyị otu e si asọpụrụ ndị okenye na otu e si ebi n'udo.",
+"questions": [
+{
+"q": "Gịnị bụ omenala dịka passage si kọwaa?",
+"opts": [
+"Ụzọ e si eri nri",
+"Ụzọ ndị mmadụ si ebi ndụ",
+"Ụzọ e si agba egwu",
+"Ịzụ ahịa n'ọma ahịa"
+],
+"ans": 1,
+"explanation": "Passage ahụ kwuru na 'Omenala bụ ụzọ ndị mmadụ si ebi ndụ'."
+},
+{
+"q": "Olee ihe na-eme onye tụfuru omenala ya?",
+"opts": [
+"Ọ na-enwe ego",
+"Ọ na-atụfu onwe ya",
+"Ọ na-aghọ eze",
+"Ọ na-aga mba ofesi"
+],
+"ans": 1,
+"explanation": "Edemede ahụ sịrị: 'Onye tụfuru omenala ya bụ onye tụfuru onwe ya'."
+},
+{
+"q": "Gịnị bụ otu n'ime ememme a kpọrọ aha n'ime passage ahụ?",
+"opts": [
+"Ịwa akwa",
+"Iri ji ọhụrụ",
+"Ịgba mgba",
+"Ịlụ nwaanyị"
+],
+"ans": 1,
+"explanation": "Ememme a kpọrọ aha n'ebe ahụ bụ 'Iri ji ọhụrụ'."
+},
+{
+"q": "Gịnị kpatara ọ jiri dị mkpa ka a kụziere ụmụaka omenala?",
+"opts": [
+"Ka ha wee nwee ike ịlụ di",
+"Ka omenala ghara ịla n'iyi",
+"Ka ha wee gaa akwụkwọ",
+"Ka ha nwee ike ịba ọgaranya"
+],
+"ans": 1,
+"explanation": "Passage ahụ sị: 'Ọ dị mkpa ka anyị kụziere ụmụ anyị omenala anyị ka ọ ghara ịla n'iyi'."
+},
+{
+"q": "Gịnị ka ndị nna nna anyị kụziere anyị banyere ndị okenye?",
+"opts": [
+"Ịkparị ha",
+"Ịsọpụrụ ha",
+"Ịgbalaga ha",
+"Ịnapụ ha ihe ha nwere"
+],
+"ans": 1,
+"explanation": "Passage ahụ kwuru maka: 'otu e si asọpụrụ ndị okenye'."
+}
+]
+},
+{
+"q": "Ụbọchị ahịa ole dị n'ala Igbo?",
+"opts": [
+"Abụọ",
+"Mẹ́ta",
+"Anọ",
+"Ise"
+],
+"ans": 2,
+"explanation": "Anyị nwere ụbọchị ahịa anọ: Eke, Orie, Afọ, na Nkwọ."
+},
+{
+"q": "Olee aha nwa a mụrụ n'ụbọchị 'Eke' (nwoke)?",
+"opts": [
+"Okeke",
+"Okorie",
+"Okafor",
+"Okonkwọ"
+],
+"ans": 0,
+"explanation": "Nwa nwoke a mụrụ n'ụbọchị Eke bụ Okeke, nwa nwaanyị abụrụ Mgbeke."
+},
+{
+"q": "Gịnị bụ 'Ọmụgwọ' n'ala Igbo?",
+"opts": [
+"Ememme iri ji",
+"Nleta a na-aleta nwaanyị mụrụ nwa ọhụrụ",
+"Ịlụ nwaanyị",
+"Ịgba mmanwu"
+],
+"ans": 1,
+"explanation": "Ọmụgwọ bụ nlekọta nne ma ọ bụ nne di na-enyere nwaanyị mụrụ nwa ọhụrụ aka."
+},
+{
+"q": "Ịlụ nwaanyị n'ala Igbo na-amalite n'ụzọ a kpọrọ _____.",
+"opts": [
+"Ịgba egwu",
+"Ịjụ ajụjụ (Knocking)",
+"Ịkwụ ụgwọ isi nwaanyị",
+"Ịda ogo"
+],
+"ans": 1,
+"explanation": "Usoro mbụ bụ ịjụ ajụjụ n'ụlọ nne na nna nwaanyị a chọrọ ịlụ."
+},
+{
+"q": "Kedu aha a na-akpọ nwa mbụ nwoke mụrụ n'ezinụlọ?",
+"opts": [
+"Ada",
+"Diọpara",
+"Diọkpa",
+"Nwaọbi"
+],
+"ans": 1,
+"explanation": "Nwa mbụ nwoke bụ Diọpara. Ada bụ nwa mbụ nwaanyị."
+},
+{
+"q": "Kedu onye n'ala Igbo na-ahụ maka ikpe ikpe n'oge gboo n'obodo?",
+"opts": [
+"Ndị ntorobịa",
+"Amala/Ndị okenye na ndị nwere echichi",
+"Ụmụaka",
+"Nani eze"
+],
+"ans": 1,
+"explanation": "N'oge gboo, Amala (Council of Elders) na ndị nze na ọzọ na-ekpe ikpe."
+},
+{
+"q": "Gịnị bụ 'Ikwa ozu' n'ala Igbo?",
+"opts": [
+"Ịwa ákwà e ji ebe akwa",
+"Ememme olili nke abụọ a na-emere onye nwụrụ anwụ",
+"Ịkwa oche",
+"Ịgba mgba"
+],
+"ans": 1,
+"explanation": "Ikwa ozu (Burial rites) bụ usoro ememme e ji asọpụrụ onye nwụrụ anwụ iji dube ya n'ala mmụọ."
+},
+{
+"q": "Gịnị bụ 'Ozo' n'ala Igbo?",
+"opts": [
+"Aha osisi",
+"Echichi a na-enye ndị nwoke rụzuru ihe n'obodo",
+"Ụdị nri",
+"Mmanwụ"
+],
+"ans": 1,
+"explanation": "Ọzo bụ echichi kacha ugwu fọrọ nke nta n'ala Igbo maka ndị nwoke nwere ego na agwa dị mma."
+},
+{
+"q": "Onye na-akpụ isi bụ onye _____.",
+"opts": [
+"Onye na-akpụ isi",
+"Onye na-akpụ ígwè",
+"Onye na-akpụ ụrọ",
+"Onye ọrụ ubi"
+],
+"ans": 0,
+"explanation": "Onye na-akpụ isi (Barber) na-elekọta ntutu isi mmadụ."
+},
+{
+"q": "Gịnị ka a na-eji amata onye nwere echichi 'Ozo'?",
+"opts": [
+"Okpu mme mme na mpị nzu",
+"Akpa",
+"Oche",
+"Akwụkwọ"
+],
+"ans": 0,
+"explanation": "Okpu mme mme (Red cap) na eriri ụkwụ (elephant tusk ornaments) bụ ụfọdụ n'ime ihe e ji amata ha."
+},
+{
+"q": "Gịnị bụ uru ego nwaanyị (Bride price) baara n'ala Igbo?",
+"opts": [
+"Ọ bụ ego e ji azụ nwaanyị",
+"Ọ na-egosi nkwekọrịta n'etiti ezinụlọ abụọ",
+"Ọ bụ ihe e ji eme mkpotu",
+"Ọ dịghị mkpa"
+],
+"ans": 1,
+"explanation": "Ego nwaanyị abụghị ịzụ nwaanyị n'ahịa; ọ bụ akara iwu na njikọ dị n'etiti ezinụlọ abụọ ahụ."
+},
+{
+"q": "Kedu nke bụ nri kacha mkpa n'ememme Igbo?",
+"opts": [
+"Raysi",
+"Ji",
+"Ede",
+"Akpụ"
+],
+"ans": 1,
+"explanation": "Ji bụ eze nri n'ala Igbo, ọ bụ ya mere e ji enwe ememme 'Iri ji'."
+},
+{
+"q": "Gịnị bụ 'Chi' n'asụsụ Igbo?",
+"opts": [
+"Mmụọ nche onye ọ bụla nwere",
+"Ihe e ji eri nri",
+"Aha mmanwụ",
+"Ụbọchị ahịa"
+],
+"ans": 0,
+"explanation": "Chi bụ mmụọ onwe onye ma ọ bụ akara aka onye ọ bụla siri n'aka Chineke nweta."
+},
+{
+"q": "Mmanwụ n'ala Igbo na-anọchite anya _____.",
+"opts": [
+"Ụmụaka",
+"Ndị mmụọ nke nna nna anyị",
+"Ndị ohi",
+"Ụmụ nwaanyị"
+],
+"ans": 1,
+"explanation": "Igbo kwenyere na mmanwụ bụ ndị mmụọ nna nna anyị siri n'ala pụta ileta ndị dị ndụ."
+},
+{
+"q": "Ịgba mgba bụ egwuregwu a na-eme n'oge _____.",
+"opts": [
+"Olili",
+"Ememme dịka iri ji ma ọ bụ egwu ọwa",
+"Ịzụ ahịa",
+"N'ụlọ ọgwụ"
+],
+"ans": 1,
+"explanation": "Ịgba mgba bụ egwuregwu e ji egosi ike n'oge ememme."
+},
+{
+"q": "Parí ilu a: 'Gidi gidi bụ ugwu _____.'",
+"opts": [
+"mmadụ",
+"eze",
+"obodo",
+"ụlọ"
+],
+"ans": 1,
+"explanation": "Ilu ahụ bụ 'Gidi gidi bụ ugwu eze', nke pụtara na nkwado ọtụtụ mmadụ na-enye eze ugwu."
+},
+{
+"q": "Gịnị ka ilu a pụtara: 'Onye kwe, chi ya ekwe'?",
+"opts": [
+"Na chi na-arụ ọrụ",
+"Na mmadụ nwere ike ime ihe ọ bụla ọ kpebiri ime",
+"Na e nwere eze n'obodo",
+"Na mmiri na-ezo"
+],
+"ans": 1,
+"explanation": "Ilu a na-agba ume na mbọ mmadụ na mkpebi ya na-eme ka Chineke kwado ya."
+},
+{
+"q": "Kammala ilu a: 'Onye nwayọ na-ericha _____.'",
+"opts": [
+"azụ",
+"nri",
+"ego",
+"nkirinkiri ọba"
+],
+"ans": 3,
+"explanation": "Ilu a bụ 'Onye nwayọ na-ericha nkirinkiri ọba', ọ na-akụzi maka ndidi."
+},
+{
+"q": "Gịnị bụ 'Akpalaokwu' (Idiom) n'ahịrịokwu a: 'Obi riri ji ego'?",
+"opts": [
+"O riri nri",
+"O nwere ego pụrụ iche",
+"Ọ lụrụ nwaanyị",
+"Ọ nwere ajọ obi"
+],
+"ans": 1,
+"explanation": "Ji ego (Money yam/richness) n'ebe a pụtara ịbụ ọgaranya ma ọ bụ inwe nnukwu ego."
+},
+{
+"q": "Gịnị bụ 'Ilu' n'asụsụ Igbo?",
+"opts": [
+"Okwu nkịtị",
+"Mmanụ e ji eri okwu",
+"Abụ",
+"Akụkọ ifo"
+],
+"ans": 1,
+"explanation": "Chinua Achebe kọwara ilu dịka 'mmanụ e ji eri okwu'."
+},
+{
+"q": "Kedu onye bụ onyeisi n'akụkọ ifo Igbo niile?",
+"opts": [
+"Zaki",
+"Mbe (Tortoise)",
+"Agu",
+"Enyi"
+],
+"ans": 1,
+"explanation": "Mbe bụ onye aghụghọ na-apụta n'ọtụtụ akụkọ ifo Igbo."
+},
+{
+"q": "Gịnị bụ isi ebumnuche 'Akụkọ ifo'?",
+"opts": [
+"Ịkpa ọchị nani",
+"Inye ntụrụndụ na izi ihe mụtara (Morals)",
+"Ịmụ asụsụ bekee",
+"Ịzụ ahịa"
+],
+"ans": 1,
+"explanation": "Akụkọ ifo na-akuziri ụmụaka ihe dị mma na ihe dị njọ site n'atụmaatụ."
+},
+{
+"q": "Olee n'ime ndị a bụ ụdị agụmagụ ọnụ (Oral literature)?",
+"opts": [
+"Novel",
+"Drama onye dere ede",
+"Mbem",
+"Edemede ule"
+],
+"ans": 2,
+"explanation": "Mbem bụ agụmagụ ọnụ a na-ekwu ma ọ bụ na-abụ abụ ya."
+},
+{
+"q": "Kedu onye dere akwụkwọ 'Isi Akwu Dara n'Ala'?",
+"opts": [
+"Tony Ubesie",
+"Chinua Achebe",
+"Cyprian Ekwensi",
+"Flora Nwapa"
+],
+"ans": 0,
+"explanation": "Tony Ubesie bụ onye dere akwụkwọ a ma ama n'Igbo."
+},
+{
+"q": "Gịnị ka a na-akpọ akwụkwọ akụkọ mbụ e dere n'asụsụ Igbo?",
+"opts": [
+"Isi Akwu Dara n'Ala",
+"Omenụkọ",
+"Ala Bingo",
+"Juochi"
+],
+"ans": 1,
+"explanation": "Omenụkọ nke Pita Nwana dere bụ akwụkwọ akụkọ (Novel) mbụ n'Igbo."
+},
+{
+"q": "Kedu ihe bụ 'Mbem'?",
+"opts": [
+"Akụkọ ifo",
+"Abụ otuto ma ọ bụ abụ akwa",
+"Mmanwụ",
+"Njikọ"
+],
+"ans": 1,
+"explanation": "Mbem na-anọchi anya uri ma ọ bụ abụ n'agụmagụ ọnụ."
+},
+{
+"q": "Olee asụsụ mbụ e ji malite ịsụpe asụsụ Igbo?",
+"opts": [
+"Abidịị Chọchị",
+"Abidịị Onwu",
+"Abidịị Lepsius",
+"Abidịị Bekee"
+],
+"ans": 2,
+"explanation": "Abidịị Lepsius bụ otu n'ime nsupe mbụ a nwara iji dee Igbo tupu Abidịị Onwu abịa."
+},
+{
+"q": "N'agụmagụ, gịnị bụ 'Egwuregwu onye dere ede' (Drama)?",
+"opts": [
+"Ịgba bọọlụ",
+"Edemede e ji eme ihe nkiri na ntanetị",
+"Agụmagụ na-egosi nṅomi na mmekọrịta mmadụ na ibe ya n'elu ikpo okwu",
+"Ilu"
+],
+"ans": 2,
+"explanation": "Egwuregwu onye dere ede bụ Drama e mere ka e lee ya anya n'elu ikpo okwu (Stage)."
+},
+{
+"q": "Gịnị bụ 'Ihuami' (Hyphen) n'edemede Igbo?",
+"opts": [
+"Ami e ji ekewa okwu",
+"Akara e ji ejikọ mkpụrụokwu abụọ",
+"Akara kọma",
+"Ami ajụjụ"
+],
+"ans": 1,
+"explanation": "A na-eji ihuami (-) ejikọ mkpụrụokwu dịka 'na-eri'."
+},
+{
+"q": "N'omenala Igbo, gịnị bụ 'Ofo'?",
+"opts": [
+"Ihe e ji esi nri",
+"Akara ikpe ziri ezi na ikike",
+"Ụdị nri",
+"Ego"
+],
+"ans": 1,
+"explanation": "Ofo bụ osisi dị nsọ na-anọchite anya eziokwu na ikike n'aka ndị okenye."
+},
+{
+"q": "Onye bụ 'Dibịa' n'ala Igbo?",
+"opts": [
+"Onye na-akụzi ihe",
+"Onye na-agwọ ọrịa ma ọ bụ na-agba afa",
+"Onye na-azụ ahịa",
+"Onye na-ese foto"
+],
+"ans": 1,
+"explanation": "Dibịa bụ ọkachamara n'ihe gbasara ahụike ọdịnala ma ọ bụ nkwurịta okwu n'etiti mmadụ na mmụọ."
+},
+{
+"q": "Gịnị bụ 'Ịgba nkwụ'?",
+"opts": [
+"Ịgba egwu n'elu nkwụ",
+"Ịlụ nwaanyị n'ụzọ omenala",
+"Ịrị nkwụ",
+"Ịtụ vootu"
+],
+"ans": 1,
+"explanation": "Ịgba nkwụ bụ ememme mmechi n'alụmdi na nwunye Igbo ebe a na-enye mmanya n'ihu ọha."
+},
+{
+"q": "Gịnị bụ 'Ala' n'ìhè gbasara okpukpe Igbo?",
+"opts": [
+"Ebe anyị na-azọ ụkwụ nani",
+"Agbala/Arụsị na-ahụ maka omunye na ezi omume",
+"Akwụkwọ",
+"Igwe"
+],
+"ans": 1,
+"explanation": "Ala bụ arụsị kacha mkpa na-ahụ maka ọmụmụ nwa, owuwe ihe ubi na idebe iwu obodo."
+},
+{
+"q": "Onye bụ 'Onyeisi obodo' n'oge ugbua n'Igbo?",
+"opts": [
+"Igwe ma ọ bụ Eze",
+"Dibia",
+"Nwa mbụ",
+"Onye ohi"
+],
+"ans": 0,
+"explanation": "Igwe ma ọ bụ Eze bụ onye isi nchịkwa omenala n'obodo n'oge ugbua."
+},
+{
+"q": "Olee n'ime ndị a bụ 'Udamkpọ' (Vowel harmony)?",
+"opts": [
+"e, i, o, u",
+"a, ị, ọ, ụ",
+"a, e, i, o",
+"Mkpụrụ okwu nwere udaume si n'otu otu"
+],
+"ans": 3,
+"explanation": "Udamkpọ bụ nkwekọrịta udaume na-eme ka okwu nwee uda ụtọ na nhazi."
+},
+{
+"q": "Akpalaokwu 'Ịta nchara' pụtara _____.",
+"opts": [
+"Ịta ihe nchara",
+"Ịda ogbenye",
+"Ịbụ onye amamihe",
+"Ịsa ahụ"
+],
+"ans": 1,
+"explanation": "'Ịta nchara' bụ idiom pụtara inwe oke ụkọ ego ma ọ bụ ịda ogbenye kpamkpam."
+},
+{
+"q": "Gịnị bụ 'Inyom' n'ala Igbo?",
+"opts": [
+"Ụmụaka",
+"Ndị nwaanyị lụrụ di n'obodo",
+"Ndị nwoke",
+"Mmanwụ"
+],
+"ans": 1,
+"explanation": "Inyom bụ mkpokọta ndị nwaanyị lụrụ di n'otu ebe."
+},
+{
+"q": "Kammala ilu a: 'Agadi nwaanyị anaghị aka nka n'egwu _____.'",
+"opts": [
+"ọ mụtara",
+"ọ na-agba",
+"ọ na-abụ",
+"eze"
+],
+"ans": 0,
+"explanation": "Ilu a bụ 'Agadi nwaanyị anaghị aka nka n'egwu ọ mụtara n'eto'."
+},
+{
+"q": "Kedu ihe 'Mbuụzọ' n'okwu bụ 'Agụmakwụkwọ'?",
+"opts": [
+"A-",
+"Gụ",
+"Ma",
+"Kwụ"
+],
+"ans": 0,
+"explanation": "'A' bụ mbuụzọ na-eso ngwaa 'gụ' n'okwu ahụ."
+},
+{
+"q": "Mgbochiume Igbo ole bụ mgbochiume mfe (Single consonants)?",
+"opts": [
+"Iri na itoolu",
+"Iri abụọ na asatọ",
+"Iri na asatọ",
+"Iri abụọ"
+],
+"ans": 0,
+"explanation": "N'ime mgbochiume 28, 19 bụ ndị nanị otu mkpụrụedemede mejupụtara."
+},
+{
+"q": "Gịnị bụ 'Njikọ' (Conjunction) n'ahịrịokwu a: 'Ada na Obi gara ahịa'?",
+"opts": [
+"Ada",
+"Na",
+"Obi",
+"Ahịa"
+],
+"ans": 1,
+"explanation": "'Na' bụ njikọ na-ejikọ mkpụrụokwu abụọ ahụ."
+},
+{
+"q": "Olee akaraolu dị n'elu mkpụrụedemede 'i' n'okwu bụ 'mì'?",
+"opts": [
+"Elu",
+"Ala",
+"Nsu",
+"Kọma"
+],
+"ans": 1,
+"explanation": "Akara a (\) na-egosi udaala."
+},
+{
+"q": "Onye na-akpụ ígwè n'ala Igbo bụ _____.",
+"opts": [
+"Dibịa",
+"Onye kpara nkata",
+"Okaụzu",
+"Onye ubi"
+],
+"ans": 2,
+"explanation": "Okaụzu (Blacksmith) bụ onye na-akpụ ngwaọrụ ígwè."
+},
+{
+"q": "N'oge iri ji ọhụrụ, onye na-ebute ụzọ rie ji bụ _____.",
+"opts": [
+"Nwa ikpeazụ",
+"Eze ma ọ bụ Diọkpa obodo",
+"Nwa nwaanyị",
+"Onye ohi"
+],
+"ans": 1,
+"explanation": "Ọ bụ usoro nsọpụrụ na eze ma ọ bụ onye kacha okenye na-amalite iri ji ọhụrụ."
+},
+{
+"q": "Gịnị bụ 'Ikpo nku' n'ala Igbo?",
+"opts": [
+"Ịgba ọkụ",
+"Nkwadobe ezinụlọ nwoke na-akwadobere ezinụlọ nwaanyị",
+"Ịkpụ isi",
+"Ịga ubi"
+],
+"ans": 1,
+"explanation": "Ikpo nku bụ otu n'ime usoro di na-eme iji gosi na ọ dị njikere ịlụ nwaanyị."
+},
+{
+"q": "Onye dere akwụkwọ 'Omenụkọ' bụ _____.",
+"opts": [
+"Pita Nwana",
+"F.C. Ogbalu",
+"Tony Ubesie",
+"B.C. Okonkwo"
+],
+"ans": 0,
+"explanation": "Pita Nwana dere akwụkwọ Omenụkọ n'afọ 1933."
+},
+{
+"q": "Asụsụ Igbo bụ asụsụ _____.",
+"opts": [
+"Udaolu (Tonal)",
+"Anaghị ekwu okwu",
+"Bekee",
+"Nani mgbochiume"
+],
+"ans": 0,
+"explanation": "Igbo bụ asụsụ udaolu, pụtara na uda okwu na-agbanwe nkọwa okwu."
+}
+]
