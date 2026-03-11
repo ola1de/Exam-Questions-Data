@@ -1,1 +1,756 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Irúfẹ́ ọ̀rọ̀-asojú-orúkọ wo ni 'Èmi'?",
+"opts": [
+"Asolù",
+"Adáńdúró",
+"Asopọ̀",
+"Atọ́ka"
+],
+"ans": 1,
+"explanation": "'Èmi' is an independent (emphatic) pronoun used to refer to the speaker in the first person singular."
+},
+{
+"q": "Kí ni iṣẹ́ 'ẹ̀mí' nínú ìpín mẹ́ta tí Yorùbá pín ènìyàn sí?",
+"opts": [
+"Láti gbé ara ró",
+"Láti fún ènìyàn ní ìjìnlẹ̀ òye",
+"Láti sọ ara di alààyè",
+"Láti yan orí ní àjálá mọpin"
+],
+"ans": 2,
+"explanation": "In Yoruba metaphysics, the 'Ẹ̀mí' (soul/breath) is the life-giving force provided by Olodumare that animates the 'Ara' (body)."
+},
+{
+"q": "Báwo ni a ṣe ń kọ 'emi' pẹ̀lú àmì ohùn tí ó tọ́ bí ó bá dúró fún 'breath of life'?",
+"opts": [
+"Èmi",
+"Ẹ̀mí",
+"Emí",
+"Ẹmi"
+],
+"ans": 1,
+"explanation": "The word for soul or spirit is written as 'Ẹ̀mí' with a low tone on 'Ẹ' and a high tone on 'i'."
+},
+{
+"q": "Inú fọ́nẹ́tíìkì, 'e' ati 'ẹ' jẹ́ fọ́wẹ́lì _____.",
+"opts": [
+"Aránpúpò",
+"Àránmú",
+"Àìránmú",
+"Atẹnu"
+],
+"ans": 2,
+"explanation": "'e' and 'ẹ' are oral vowels (fọ́wẹ́lì àìránmú) because air flows only through the mouth during their production."
+},
+{
+"q": "Kí ni ìyàtọ̀ láàárín 'Èmi' àti 'Mo' nínú gírámà Yorùbá?",
+"opts": [
+"Kò sí ìyàtọ̀",
+"Èmi jẹ́ fún ìtẹnumọ́, Mo jẹ́ asojú-orúkọ lásán",
+"Mo jẹ́ fún ìtẹnumọ́, Èmi jẹ́ asojú-orúkọ lásán",
+"Èmi ni a ń lò lẹ́yìn ọ̀rọ̀-ìṣe"
+],
+"ans": 1,
+"explanation": "'Èmi' is the emphatic/strong form of the first-person singular pronoun, while 'Mo' is the short/clitic form used as a subject."
+},
+{
+"q": "Nínú àsà Yorùbá, ta ni ẹni tí ń mọ 'Ara'?",
+"opts": [
+"Olódùmarè",
+"Àjàlá",
+"Ọbàtálá",
+"Ògún"
+],
+"ans": 2,
+"explanation": "Obatala is the deity responsible for molding the physical body (Ara) from clay."
+},
+{
+"q": "Parí òwe yìí: 'Ẹ̀mí m' bẹ, _____ m' bẹ'.",
+"opts": [
+"Owó",
+"Ìmọ́lẹ̀",
+"Ìtura",
+"Àlàáfíà"
+],
+"ans": 2,
+"explanation": "The proverb 'Ẹ̀mí m' bẹ, ìtura m' bẹ' implies that as long as there is life, there is hope for comfort/relief."
+},
+{
+"q": "Àpólà-ọ̀rọ̀ wo ni 'Èmi tìkarami'?",
+"opts": [
+"Àpólà-orúkọ",
+"Àpólà-ìṣe",
+"Àpólà-atọ́ka",
+"Àpólà-asọpọ̀"
+],
+"ans": 0,
+"explanation": "'Èmi tìkarami' (I, myself) functions as a noun phrase (Àpólà-orúkọ) focusing on the subject."
+},
+{
+"q": "Kí ni iṣẹ́ fáwẹ́lì nínú ọ̀rọ̀ Yorùbá?",
+"opts": [
+"Wọ́n ń bẹ̀rẹ̀ ọ̀rọ̀-ìṣe",
+"Wọ́n ń gbé ohùn jáde",
+"Wọ́n ń parí ọ̀rọ̀-orúkọ",
+"Wọ́n jẹ́ kọ́nṣónáǹtì"
+],
+"ans": 1,
+"explanation": "Vowels are the nucleus of syllables in Yoruba; every syllable must contain a vowel to carry a tone."
+},
+{
+"q": "Mélòó ni fáwẹ́lì àránmú nínú èdè Yorùbá?",
+"opts": [
+"Meje",
+"Márùn-ún",
+"Mẹ́sàn-án",
+"Mẹ́fà"
+],
+"ans": 1,
+"explanation": "There are five nasal vowels in standard Yoruba: an, ẹn, in, ọn, un."
+},
+{
+"q": "Èwo nínú àwọn wọ̀nyí ni kì í ṣe kọ́nṣónáǹtì nínú èdè Yorùbá?",
+"opts": [
+"p",
+"gb",
+"c",
+"y"
+],
+"ans": 2,
+"explanation": "The letter 'c' does not exist in the Yoruba alphabet; its sound is usually represented by 's' or 'ṣ'."
+},
+{
+"q": "Kí ni Yorùbá ń pè ní 'Ẹ̀fọ̀n'?",
+"opts": [
+"Elephant",
+"Buffalo",
+"Tiger",
+"Deer"
+],
+"ans": 1,
+"explanation": "'Ẹ̀fọ̀n' is the Yoruba name for a Buffalo."
+},
+{
+"q": "Nínú lítíréṣọ̀ àtẹnudẹ́nu, kí ni 'Àlọ̀ Àpagbe'?",
+"opts": [
+"Àlọ̀ tí kò ní orin",
+"Àlọ̀ tí ó ní orin",
+"Àlọ̀ nípa ìtàn ìṣẹ̀dá",
+"Àlọ̀ nípa àwọn ọba"
+],
+"ans": 1,
+"explanation": "Àlọ̀ Àpagbe refers to folktales that involve songs where the audience joins in the chorus."
+},
+{
+"q": "Ta ni akọni nínú ìwé 'Ògbójú Ọdẹ nínú Igbó Irúnmalẹ̀'?",
+"opts": [
+"Àkàrà-oògùn",
+"Kákò",
+"Ọmọ-òdú",
+"Ìrìnkèrindò"
+],
+"ans": 0,
+"explanation": "Akara-oogun is the central protagonist in D.O. Fagunwa's famous novel."
+},
+{
+"q": "Kí ni orúkọ àmì ohùn orí 'i' nínú ọ̀rọ̀ 'mì'?",
+"opts": [
+"Kòkòrò",
+"Pe-n-pè-re-pè",
+"Àmì-ìsàlẹ̀",
+"Àmì-òkè"
+],
+"ans": 2,
+"explanation": "The low tone marks (`) are called Àmì-ìsàlẹ̀ or Àmì-dò."
+},
+{
+"q": "Èwo nínú àwọn wọ̀nyí ni ó jẹ́ àmì-ìdánimọ̀ fún 'Ẹ̀mí' nínú èdè Yorùbá?",
+"opts": [
+"Mímí",
+"Rírìn",
+"Sísùn",
+"Jíjẹun"
+],
+"ans": 0,
+"explanation": "Breathing (Mímí) is the physical manifestation of the presence of 'Ẹ̀mí' (the soul/life force)."
+},
+{
+"q": "Kí ni 'Ọmọ-olórí-ire' nínú àṣà Yorùbá?",
+"opts": [
+"Ọmọ tí ó ní owó lọ́wọ́",
+"Ọmọ tí àyànmọ́ rẹ̀ dára",
+"Ọmọ tí ó ga",
+"Ọmọ tí ó jẹ́ àgbà"
+],
+"ans": 1,
+"explanation": "An 'olórí-ire' is someone believed to have chosen a good 'Ori' (destiny/inner head) before coming to earth."
+},
+{
+"q": "Báwo ni a ṣe ń pè 'Pronoun' ní èdè Yorùbá?",
+"opts": [
+"Ọ̀rọ̀-orúkọ",
+"Ọ̀rọ̀-asojú-orúkọ",
+"Ọ̀rọ̀-ìṣe",
+"Ọ̀rọ̀-àpèjúwe"
+],
+"ans": 1,
+"explanation": "The word for Pronoun is Ọ̀rọ̀-asojú-orúkọ (a word that stands in for a name)."
+},
+{
+"q": "Nínú lítíréṣọ̀ àtinúdá, ta ni ó kọ 'Ẹfúnsetán Aníwúrà'?",
+"opts": [
+"D.O. Fagunwa",
+"Akinwunmi Isola",
+"J.F. Odunjo",
+"Adebayọ Faleti"
+],
+"ans": 1,
+"explanation": "The historical drama 'Efunsetan Aniwura' was written by Professor Akinwunmi Isola."
+},
+{
+"q": "Kí ni iṣẹ́-oògùn 'Èmi' nínú gírámà?",
+"opts": [
+"Láti jẹ́ ẹni kẹta",
+"Láti jẹ́ ẹni kìn-ín-ní",
+"Láti jẹ́ ẹni kẹjì",
+"Láti jẹ́ ẹni púpọ̀"
+],
+"ans": 1,
+"explanation": "'Èmi' is the first-person singular (ẹni kìn-ín-ní ẹyọ) pronoun."
+},
+{
+"type": "passage",
+"content": "Ẹ̀mí ènìyàn kò ní kú. Bí ara bá kú, ẹ̀mí á padà sí ọ̀dọ̀ Ẹlẹ́dàá rẹ̀. Yorùbá gbàgbọ́ pé ayé ni ọjà, ọ̀run ni ilé. Ohun tí ènìyàn bá ṣe ní ayé ni yóò lọ sọ ní ọ̀run. Èyí ni ó jẹ́ kí àwọn àgbà máa sọ pé 'Ìwà lẹ̀ṣìn ènìyàn'. Bí ènìyàn bá ní ìwà rere, ẹ̀mí rẹ̀ á sinmi lẹ́yìn ikú.",
+"questions": [
+{
+"q": "Gẹ́gẹ́ bí nkan tí o kà, kí ni ń ṣẹlẹ̀ sí ẹ̀mí lẹ́yìn ikú?",
+"opts": [
+"Ó ń kú pẹ̀lú ara",
+"Ó ń padà sí ọ̀dọ̀ Ẹlẹ́dàá",
+"Ó ń di òkúta",
+"Ó ń di ẹran"
+],
+"ans": 1,
+"explanation": "The passage states that when the body dies, the soul (ẹ̀mí) returns to the Creator (Ẹlẹ́dàá)."
+},
+{
+"q": "Kí ni ìtumọ̀ 'Ayé ni ọjà, ọ̀run ni ilé'?",
+"opts": [
+"Ayé jẹ́ ibi tí a ti ń tajà",
+"Ayé jẹ́ ibi ìgbà díẹ̀, ọ̀run ni ibùgbé títí ayé",
+"Ọ̀run kò dára bí ayé",
+"Ilé wa wà ní ọjà"
+],
+"ans": 1,
+"explanation": "This is a philosophical proverb meaning earth is a temporary marketplace while heaven is our true home."
+},
+{
+"q": "Kí ni ohun tí ó ṣe pàtàkì jù nínú ìrìn-àjò ẹ̀mí gẹ́gẹ́ bí passage yìí ṣe sọ?",
+"opts": [
+"Owó",
+"Ìwà",
+"Ẹ̀wà",
+"Iṣẹ́"
+],
+"ans": 1,
+"explanation": "The passage emphasizes 'Ìwà' (character) as the most important thing for the soul's rest."
+}
+]
+},
+{
+"q": "Èwo ni 'Nasal Vowel' nínú àwọn wọ̀nyí?",
+"opts": [
+"a",
+"e",
+"in",
+"o"
+],
+"ans": 2,
+"explanation": "'in' is a nasal vowel in Yoruba phonology."
+},
+{
+"q": "Kí ni ohun tí a ń lò láti fi kọ àmì ohùn 're' nínú gírámà Yorùbá?",
+"opts": [
+"Àmì-òkè",
+"Àmì-ìsàlẹ̀",
+"Kò sí àmì",
+"Àmì-ẹyẹ"
+],
+"ans": 2,
+"explanation": "The mid-tone (re) is typically left unmarked in Yoruba orthography."
+},
+{
+"q": "Ta ni Olúwa 'Ẹ̀mí' nínú ìgbàgbọ́ Yorùbá?",
+"opts": [
+"Èṣù",
+"Olódùmarè",
+"Sàngó",
+"Ọ̀yá"
+],
+"ans": 1,
+"explanation": "Olodumare (God) is the supreme giver and owner of the soul (Ẹ̀mí)."
+},
+{
+"q": "Mélòó ni kọ́nṣónáǹtì Yorùbá?",
+"opts": [
+"Mẹ́rin-dín-lógún",
+"Mẹ́jọ-dín-lógún",
+"Mẹ́tà-dín-lógún",
+"Mẹ́ẹ̀ẹ́dógún"
+],
+"ans": 1,
+"explanation": "There are 18 consonants in the standard Yoruba alphabet (b, d, f, g, gb, h, j, k, l, m, n, p, r, s, ṣ, t, w, y)."
+},
+{
+"q": "Kí ni iṣẹ́ 'ẹ̀mí' nínú gírámà nígbà tí a bá ń sọ̀rọ̀ nípa 'I'?",
+"opts": [
+"Láti jẹ́ ọ̀rọ̀-ìṣe",
+"Láti jẹ́ ọ̀rọ̀-asojú-orúkọ ẹni kìn-ín-ní",
+"Láti jẹ́ ọ̀rọ̀-àpèjúwe",
+"Láti jẹ́ ọ̀rọ̀-atọ́ka"
+],
+"ans": 1,
+"explanation": "When referring to 'I', 'Èmi' is the first-person singular pronoun."
+},
+{
+"q": "Nínú 'Ogboju Ode', ta ni a mọ̀ sí 'ẹni tí ó ní ìyá méjì'?",
+"opts": [
+"Àkàrà-oògùn",
+"Olowo-aiye",
+"Aramada-okunrin",
+"Gbogbo rẹ̀"
+],
+"ans": 0,
+"explanation": "This refers to the protagonist Akara-oogun in Fagunwa's literature."
+},
+{
+"q": "Kí ni ìtumọ̀ 'Ààyè'?",
+"opts": [
+"Iku",
+"Ibi tí ẹ̀mí wà/Life",
+"Òkúta",
+"Òrun"
+],
+"ans": 1,
+"explanation": "'Ààyè' refers to being alive or a living space where life exists."
+},
+{
+"q": "Kí ni Yorùbá ń pè ní 'Syllable'?",
+"opts": [
+"Mọ́fíìmù",
+"Sílẹ́bù",
+"Fóníìmù",
+"Gírámà"
+],
+"ans": 1,
+"explanation": "Yoruba language uses 'Sílẹ́bù' for Syllable."
+},
+{
+"q": "Mélòó ni fáwẹ́lì inú èdè Yorùbá lápapọ̀?",
+"opts": [
+"Meje",
+"Mẹ́fà",
+"Mẹ́ẹ̀ẹ́dógún",
+"Mẹ́tàlá"
+],
+"ans": 3,
+"explanation": "Standard Yoruba has 12-13 vowels depending on dialect counting: 7 oral (a, e, ẹ, i, o, ọ, u) and 5 nasal (an, ẹn, in, ọn, un)."
+},
+{
+"q": "Kí ni orúkọ fáwẹ́lì tí a ń pè ní 'ẹ'?",
+"opts": [
+"Fáwẹ́lì iwájú, a-mí-sí-nu",
+"Fáwẹ́lì iwájú, kéré-díẹ̀",
+"Fáwẹ́lì ẹ̀yìn",
+"Fáwẹ́lì àárín"
+],
+"ans": 1,
+"explanation": "'ẹ' is a front, half-open vowel (iwájú, kéré-díẹ̀)."
+},
+{
+"q": "Èwo nínú àwọn wọ̀nyí ni kì í ṣe ọ̀nà ìpè kọ́nṣónáǹtì?",
+"opts": [
+"Aránmú",
+"Atẹnu",
+"Ayán-nu",
+"gb"
+],
+"ans": 3,
+"explanation": "'gb' is a consonant itself, not a place or manner of articulation."
+},
+{
+"q": "Inú 'Sàngó', àmì ohùn wo ni ó wà lórí 'o'?",
+"opts": [
+"Do",
+"Re",
+"Mi",
+"Kò sí"
+],
+"ans": 2,
+"explanation": "In Sàngó, the 'o' carries a high tone (Mi)."
+},
+{
+"q": "Kí ni Yorùbá ń pè ní 'Subject'?",
+"opts": [
+"Olùwà",
+"Àbọ̀",
+"Ọ̀rọ̀-ìṣe",
+"Ẹyọ"
+],
+"ans": 0,
+"explanation": "The Subject of a sentence is called 'Olùwà'."
+},
+{
+"q": "Kí ni Yorùbá ń pè ní 'Object'?",
+"opts": [
+"Olùwà",
+"Àbọ̀",
+"Àpólà",
+"Kàn-an-nì"
+],
+"ans": 1,
+"explanation": "The Object of a sentence is called 'Àbọ̀'."
+},
+{
+"q": "Parí òwe yìí: 'Iṣẹ́ ni oògùn _____'?",
+"opts": [
+"Owó",
+"Àìsàn",
+"Ìyà",
+"Ibi"
+],
+"ans": 2,
+"explanation": "The proverb 'Iṣẹ́ ni oògùn ìyà' means work is the antidote to poverty/suffering."
+},
+{
+"q": "Kí ni 'Èmi' nínú gírámà Yorùbá fún ẹni tí ń sọ̀rọ̀?",
+"opts": [
+"First person",
+"Second person",
+"Third person",
+"None of the above"
+],
+"ans": 0,
+"explanation": "'Èmi' corresponds to the First Person singular."
+},
+{
+"q": "Èwo nínú àwọn wọ̀nyí ni ó jẹ́ orúkọ-àbíkú?",
+"opts": [
+"Ìgè",
+"Bánjókòó",
+"Àdùfẹ́",
+"Ẹ̀rù-ò-boni"
+],
+"ans": 1,
+"explanation": "Names like 'Banjoko' (Stay with us) are given to Abiku children to encourage them to stay alive."
+},
+{
+"q": "Kí ni Yorùbá ń pè ní 'Naming Ceremony'?",
+"opts": [
+"Ìsọmọlórúkọ",
+"Ìgbéyàwó",
+"Ìsìnkú",
+"Ìwúyè"
+],
+"ans": 0,
+"explanation": "Ìsọmọlórúkọ is the naming ceremony usually performed on the 8th or 9th day."
+},
+{
+"q": "Kí ni ohun tí a ń lò nínú ìsọmọlórúkọ láti dúró fún 'Ìtura'?",
+"opts": [
+"Iyọ̀",
+"Oyin",
+"Omi",
+"Atare"
+],
+"ans": 2,
+"explanation": "Water (Omi) is used in ceremonies to symbolize coolness and comfort (ìtura)."
+},
+{
+"q": "Kí ni àyà-fún-mú nínú èdè Yorùbá?",
+"opts": [
+"Èémí",
+"Ìmú",
+"Fọ́nẹ́tíìkì",
+"Kọ́nṣónáǹtì àránmú"
+],
+"ans": 3,
+"explanation": "Nasal consonants are produced with air passing through the nose."
+},
+{
+"q": "Èwo ni 'Labio-dental fricative' kọ́nṣónáǹtì?",
+"opts": [
+"f",
+"s",
+"h",
+"p"
+],
+"ans": 0,
+"explanation": "The consonant 'f' is a labio-dental fricative."
+},
+{
+"q": "Kí ni Yorùbá ń pè ní 'Literature'?",
+"opts": [
+"Gírámà",
+"Lítíréṣọ̀",
+"Àṣà",
+"Ìtàn"
+],
+"ans": 1,
+"explanation": "Literature is translated as 'Lítíréṣọ̀'."
+},
+{
+"q": "Kí ni 'Oriki'?",
+"opts": [
+"Àlọ̀",
+"Ewì ìyìn/Appellation",
+"Ìtàn àròsọ",
+"Erè kárí ayé"
+],
+"ans": 1,
+"explanation": "Oriki are panegyrics or praise poetry used to highlight lineage or character."
+},
+{
+"q": "Èwo nínú àwọn wọ̀nyí ni kì í ṣe iṣẹ́-òbí Yorùbá?",
+"opts": [
+"Ìtọ́jú ọmọ",
+"Kíkọ́ ọmọ ní ìṣẹ́",
+"Kíkọ́ ọmọ láti jalè",
+"Kíkọ́ ọmọ ní ìwà"
+],
+"ans": 2,
+"explanation": "Stealing is contrary to 'Omoluabi' values taught by parents."
+},
+{
+"q": "Kí ni Yorùbá ń pè ní 'Good character'?",
+"opts": [
+"Ìwà tútù",
+"Ìwà rere",
+"Ìwà ìbàjẹ́",
+"Ìwà ọ̀pẹ"
+],
+"ans": 1,
+"explanation": "Good character is 'Ìwà rere'."
+},
+{
+"q": "Èwo nínú àwọn wọ̀nyí ni ohun èlò kọ̀ǹpútà nínú èdè Yorùbá?",
+"opts": [
+"Ìpàtẹ",
+"Pẹ́n-ń-rẹ́n-rẹ́n",
+"Bọ́tìnnì",
+"Gbogbo rẹ̀"
+],
+"ans": 3,
+"explanation": "These are Yoruba terms for screen, mouse/pen, and buttons."
+},
+{
+"q": "Kí ni orúkọ Yorùbá fún 'Market'?",
+"opts": [
+"Ilé",
+"Ọjà",
+"Igbó",
+"Odò"
+],
+"ans": 1,
+"explanation": "'Ọjà' is a market."
+},
+{
+"q": "Kí ni 'Ìrè'?",
+"opts": [
+"Blessing",
+"Curse",
+"Fight",
+"Death"
+],
+"ans": 0,
+"explanation": "'Ìrè' refers to goodness or blessings."
+},
+{
+"q": "Ta ni ó mọ 'Orí' ní Ìmọ̀-ìṣẹ̀dá Yorùbá?",
+"opts": [
+"Àjàlá mọpin",
+"Ọbàtálá",
+"Ògún",
+"Sàngó"
+],
+"ans": 0,
+"explanation": "Ajalamopin is the potter in heaven who creates the inner heads (Ori)."
+},
+{
+"q": "Kí ni Yorùbá ń pè ní 'Destiny'?",
+"opts": [
+"Owó",
+"Àyànmọ́",
+"Ara",
+"Iṣẹ́"
+],
+"ans": 1,
+"explanation": "Destiny is known as 'Àyànmọ́' or 'Àpín-orí'."
+},
+{
+"q": "Èwo nínú àwọn wọ̀nyí ni ó jẹ́ kọ́nṣónáǹtì 'fìpè-fagbe' (Voiced)?",
+"opts": [
+"f",
+"b",
+"s",
+"k"
+],
+"ans": 1,
+"explanation": "'b' is a voiced bilabial stop."
+},
+{
+"q": "Kí ni 'Èmi' ń jẹ́ nínú gbólóhùn yìí: 'Èmi ni alága'?",
+"opts": [
+"Olùwà",
+"Àbọ̀",
+"Ẹ̀yán",
+"Ọ̀rọ̀-ìpọ́"
+],
+"ans": 0,
+"explanation": "In 'Èmi ni alága', 'Èmi' is the Subject (Olùwà)."
+},
+{
+"q": "Èwo ni fáwẹ́lì iwájú, fífẹ̀ (open front)?",
+"opts": [
+"a",
+"i",
+"u",
+"o"
+],
+"ans": 0,
+"explanation": "'a' is an open front vowel in Yoruba."
+},
+{
+"q": "Mélòó ni fáwẹ́lì 'ẹyọ' (Oral) nínú èdè Yorùbá?",
+"opts": [
+"Meje",
+"Márùn-ún",
+"Mẹ́sàn-án",
+"Mẹ́ẹ̀ẹ́dógún"
+],
+"ans": 0,
+"explanation": "There are 7 oral vowels: a, e, ẹ, i, o, ọ, u."
+},
+{
+"q": "Kí ni Yorùbá ń pè ní 'Culture'?",
+"opts": [
+"Èdè",
+"Àṣà",
+"Lítíréṣọ̀",
+"Ìtàn"
+],
+"ans": 1,
+"explanation": "Culture is 'Àṣà'."
+},
+{
+"q": "Èwo nínú àwọn wọ̀nyí ni iṣẹ́-abínibí Yorùbá?",
+"opts": [
+"Àgbẹ̀",
+"Akọ̀wé",
+"Mẹ́káníìkì",
+"Tẹ́ńpù"
+],
+"ans": 0,
+"explanation": "Farming (Àgbẹ̀) is a primary traditional occupation of the Yoruba."
+},
+{
+"q": "Ta ni Ọba tí ó ní 'Ilé-Ifẹ̀'?",
+"opts": [
+"Aláàfin",
+"Ọọ̀ni",
+"Oba",
+"Awùjalẹ̀"
+],
+"ans": 1,
+"explanation": "The Ooni is the traditional ruler of Ile-Ife."
+},
+{
+"q": "Báwo ni a ṣe ń kí ẹni tí ó ń ṣiṣẹ́?",
+"opts": [
+"Ẹ kú àárọ̀",
+"Ẹ kú iṣẹ́",
+"Ẹ kú àbọ̀",
+"Ẹ kú ìjókòó"
+],
+"ans": 1,
+"explanation": "'Ẹ kú iṣẹ́' is the greeting for someone working."
+},
+{
+"q": "Kí ni 'Ẹ̀mí' nínú ohun tí ó wà lórí ilẹ̀?",
+"opts": [
+"Erùpẹ̀",
+"Èrò",
+"Èèyàn",
+"Gbogbo rẹ̀"
+],
+"ans": 2,
+"explanation": "A person (Èèyàn) is the primary vessel for 'Ẹ̀mí' in human context."
+},
+{
+"q": "Èwo nínú àwọn wọ̀nyí ni ó jẹ́ fáwẹ́lì àránmú 'un'?",
+"opts": [
+"High back nasal",
+"Low back nasal",
+"Front nasal",
+"Mid nasal"
+],
+"ans": 0,
+"explanation": "'un' is a high back nasal vowel."
+},
+{
+"q": "Kí ni ìtumọ̀ 'Àkókò'?",
+"opts": [
+"Time",
+"Wealth",
+"Power",
+"Work"
+],
+"ans": 0,
+"explanation": "'Àkókò' means Time."
+},
+{
+"q": "Kí ni ohun tí Yorùbá ń pè ní 'Family'?",
+"opts": [
+"Ẹ̀bí",
+"Ìlú",
+"Ọjà",
+"Ayé"
+],
+"ans": 0,
+"explanation": "Family is 'Ẹ̀bí'."
+},
+{
+"q": "Èwo nínú àwọn wọ̀nyí ni kì í ṣe ọ̀rọ̀-asopọ̀?",
+"opts": [
+"Àti",
+"Sùgbọ́n",
+"Tàbí",
+"Èmi"
+],
+"ans": 3,
+"explanation": "'Èmi' is a pronoun, while the others are conjunctions."
+},
+{
+"q": "Kí ni iṣẹ́ 'Èmi' nínú èdè?",
+"opts": [
+"Communication of self",
+"Description of house",
+"Telling time",
+"None"
+],
+"ans": 0,
+"explanation": "'Èmi' expresses the first person identity."
+},
+{
+"q": "Parí òwe yìí: 'Bí ẹ̀mí bá wà, _____ á wà'?",
+"opts": [
+"Ìrètí",
+"Owó",
+"Ibi",
+"Iṣẹ́"
+],
+"ans": 0,
+"explanation": "The proverb implies 'Where there is life, there is hope' (Ìrètí)."
+}
+]
