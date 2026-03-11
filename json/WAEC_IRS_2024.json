@@ -1,1 +1,434 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "The first Surah of the Glorious Qur'an is known as _____.",
+"opts": ["Al-Baqarah", "Al-Ikhlas", "Al-Fatihah", "Al-Nasr"],
+"ans": 2,
+"explanation": "Surat Al-Fatihah is the opening chapter of the Qur'an and is essential in every unit of the Muslim prayer (Salat)."
+},
+{
+"q": "The Qur'an was revealed to Prophet Muhammad (SAW) over a period of approximately _____ years.",
+"opts": ["10", "13", "23", "40"],
+"ans": 2,
+"explanation": "The revelation began when the Prophet was 40 and ended shortly before his death at 63, totaling 23 years (13 in Makkah and 10 in Madinah)."
+},
+{
+"q": "The primary source of Islamic Law (Shari'ah) is the _____.",
+"opts": ["Hadith", "Qur'an", "Ijma", "Qiyas"],
+"ans": 1,
+"explanation": "The Qur'an is the ultimate and most authoritative source of guidance in Islam, followed by the Sunnah/Hadith."
+},
+{
+"q": "A Hadith that is attributed directly to Allah but phrased by the Prophet (SAW) is called _____.",
+"opts": ["Hadith Sahih", "Hadith Qudsi", "Hadith Mutawatir", "Hadith Da'if"],
+"ans": 1,
+"explanation": "Hadith Qudsi (Sacred Hadith) contains meanings from Allah expressed in the Prophet's words, distinguished from the Qur'an which is Allah's literal word."
+},
+{
+"q": "The 'Year of Elephant' (Amul-Fil) is significant in Islamic history because it was the year _____.",
+"opts": ["the Prophet migrated to Madinah", "the Prophet was born", "the Ka'bah was built", "the first battle of Islam occurred"],
+"ans": 1,
+"explanation": "Prophet Muhammad (SAW) was born in Makkah in 570 CE, the same year Abrahah attempted to destroy the Ka'bah with an army of elephants."
+},
+{
+"q": "The term 'Tawhid' in Islam refers to the _____.",
+"opts": ["Prophethood of Muhammad", "Belief in the Angels", "Oneness of Allah", "Day of Judgment"],
+"ans": 2,
+"explanation": "Tawhid is the core concept of monotheism in Islam, asserting that Allah is One and Unique in His essence and attributes."
+},
+{
+"q": "Which of the following is NOT among the 'As-Sihah as-Sittah' (The Six Authentic Books of Hadith)?",
+"opts": ["Sahih Bukhari", "Sahih Muslim", "Muwatta Malik", "Sunan Abu Dawood"],
+"ans": 2,
+"explanation": "Muwatta Malik is a highly respected collection but is not traditionally numbered among the 'Six Books' (Bukhari, Muslim, Abu Dawood, Tirmidhi, Nasa'i, and Ibn Majah)."
+},
+{
+"q": "The first Caliph in Islam was _____.",
+"opts": ["Umar b. Khattab", "Ali b. Abi Talib", "Uthman b. Affan", "Abu Bakr As-Siddiq"],
+"ans": 3,
+"explanation": "Abu Bakr was elected as the leader of the Muslim community immediately after the death of the Prophet (SAW)."
+},
+{
+"q": "The migration of the early Muslims from Makkah to Abyssinia (Ethiopia) was to escape the persecution of the _____.",
+"opts": ["Romans", "Persians", "Quraysh", "Jews"],
+"ans": 2,
+"explanation": "The Quraysh polytheists persecuted early converts, prompting the Prophet to advise some to seek refuge with the Christian King Negus (Najashi)."
+},
+{
+"q": "The ritual of 'Sa'y' during Hajj involves walking between the hills of _____.",
+"opts": ["Arafat and Muzdalifah", "Safa and Marwa", "Mina and Makkah", "Uhud and Hira"],
+"ans": 1,
+"explanation": "Sa'y commemorates Hajar's (AS) search for water for her son Ismail (AS) between the hills of Safa and Marwa."
+},
+{
+"q": "The amount of Zakat payable on wealth (gold/silver/cash) that has reached the Nisab is _____.",
+"opts": ["10%", "5%", "2.5%", "1%"],
+"ans": 2,
+"explanation": "Zakat on liquid assets is calculated at 2.5% (one-fortieth) of the total value once held for a full lunar year."
+},
+{
+"q": "The Surah that is equivalent to one-third of the Qur'an in terms of reward and meaning is _____.",
+"opts": ["Surat al-Falaq", "Surat al-Ikhlas", "Surat al-Nas", "Surat al-Kafirun"],
+"ans": 1,
+"explanation": "Surat al-Ikhlas summarizes the concept of Tawhid, which is the foundation of one-third of the Qur'anic message."
+},
+{
+"q": "In Islamic Inheritance (Mirath), a daughter's share when she is the only child is _____.",
+"opts": ["One-third", "One-half", "One-quarter", "One-eighth"],
+"ans": 1,
+"explanation": "According to the Qur'an (Surat an-Nisa), if there is only one daughter and no son, she receives half of the estate."
+},
+{
+"q": "The companion who was known as 'Dhul-Nurayn' (The possessor of two lights) was _____.",
+"opts": ["Abu Bakr", "Umar", "Uthman", "Ali"],
+"ans": 2,
+"explanation": "Uthman b. Affan was given this title because he married two of the Prophet's daughters, Ruqayyah and Umm Kulthum."
+},
+{
+"q": "The battle in which the Muslims suffered a setback due to the disobedience of the archers was the Battle of _____.",
+"opts": ["Badr", "Uhud", "Khandaq (Trench)", "Hunayn"],
+"ans": 1,
+"explanation": "At Uhud, the archers left their positions on the hill against the Prophet's orders, allowing Khalid b. Walid to lead a counter-attack."
+},
+{
+"q": "The science of the rules governing the correct pronunciation of the Qur'an is called _____.",
+"opts": ["Tafsir", "Tajwid", "Fiqh", "Hadith"],
+"ans": 1,
+"explanation": "Tajwid ensures that every letter of the Qur'an is pronounced correctly from its point of articulation with its proper characteristics."
+},
+{
+"q": "The angel responsible for blowing the trumpet (Sur) to signal the Day of Judgment is _____.",
+"opts": ["Jibril", "Mika'il", "Israfil", "Izra'il"],
+"ans": 2,
+"explanation": "Israfil is the angel tasked with blowing the trumpet twice: once to end life and once to initiate the resurrection."
+},
+{
+"q": "The collection and compilation of the Qur'an into a single volume was initiated during the Caliphate of _____.",
+"opts": ["Abu Bakr", "Umar", "Uthman", "Ali"],
+"ans": 0,
+"explanation": "Following the Battle of Yamamah where many huffaz died, Abu Bakr ordered Zaid b. Thabit to compile the Qur'an into a single book (Mushaf)."
+},
+{
+"q": "A 'Mahr' in an Islamic marriage is the _____.",
+"opts": ["wedding feast", "marriage contract", "obligatory gift from husband to wife", "divorce settlement"],
+"ans": 2,
+"explanation": "Mahr is the mandatory dowry or gift paid by the groom to the bride at the time of marriage as a token of respect and security."
+},
+{
+"q": "The act of 'Tayammum' is performed when _____ is unavailable.",
+"opts": ["food", "water", "a prayer mat", "a mosque"],
+"ans": 1,
+"explanation": "Tayammum is dry ablution using clean earth/sand when water is not available or its use is harmful to health."
+},
+{
+"type": "passage",
+"content": "Prophet Muhammad (SAW) said: 'None of you truly believes until he wishes for his brother what he wishes for himself.' (Narrated by Al-Bukhari and Muslim)",
+"questions": [
+{
+"q": "The central theme of this Hadith is _____.",
+"opts": ["Prayer", "Altruism and Love", "Business Ethics", "Hajj"],
+"ans": 1,
+"explanation": "The Hadith emphasizes that true faith involves selfless love and wishing good for others as much as for oneself."
+},
+{
+"q": "In this context, 'brother' refers to _____.",
+"opts": ["biological siblings only", "Muslims only", "fellow human beings", "neighbors only"],
+"ans": 2,
+"explanation": "While it primarily addresses the brotherhood in faith, scholars interpret the spirit of the Hadith as universal kindness toward all fellow humans."
+}
+]
+},
+{
+"q": "The 'Nisab' of cattle (cows) for Zakat starts at _____ animals.",
+"opts": ["5", "30", "40", "10"],
+"ans": 1,
+"explanation": "Zakat is not due on cows until the owner has at least 30, at which point one one-year-old calf (Tabi') is due."
+},
+{
+"q": "The term 'Shirk' means _____.",
+"opts": ["Belief in Allah", "Associating partners with Allah", "Performing Salat", "Fasting in Ramadan"],
+"ans": 1,
+"explanation": "Shirk is the opposite of Tawhid and is considered the gravest sin in Islam, as it compromises the absolute oneness of God."
+},
+{
+"q": "The 'Hijrah' calendar begins from the year the Prophet (SAW) migrated from _____ to _____.",
+"opts": ["Makkah to Abyssinia", "Madinah to Makkah", "Makkah to Madinah", "Madinah to Ta'if"],
+"ans": 2,
+"explanation": "The Islamic (Hijri) era marks the migration to Madinah in 622 CE, which established the first Islamic state."
+},
+{
+"q": "The Surah that protects a person from the trials of the Dajjal (Anti-Christ) if the first ten verses are memorized is _____.",
+"opts": ["Al-Baqarah", "Al-Kahf", "Yasin", "Al-Mulk"],
+"ans": 1,
+"explanation": "Prophet Muhammad (SAW) recommended reciting Surat al-Kahf on Fridays and memorizing its opening for protection against the Dajjal."
+},
+{
+"q": "The 'Khulafah ar-Rashidun' refers to the _____.",
+"opts": ["Umayyad Caliphs", "Abbasid Caliphs", "Rightly Guided Caliphs", "Ottoman Sultans"],
+"ans": 2,
+"explanation": "This title is given to the first four Caliphs: Abu Bakr, Umar, Uthman, and Ali, who followed the Sunnah of the Prophet closely."
+},
+{
+"q": "The pre-Islamic period of ignorance in Arabia is known as _____.",
+"opts": ["Jahiliyyah", "Fitnah", "Riddah", "Asabiyyah"],
+"ans": 0,
+"explanation": "Jahiliyyah refers to the state of affairs in Arabia before the mission of Prophet Muhammad (SAW), characterized by idolatry and tribal warfare."
+},
+{
+"q": "The Prophet's wife who was the daughter of Abu Bakr and a great scholar of Hadith was _____.",
+"opts": ["Khadijah", "Sawdah", "Aishah", "Hafsah"],
+"ans": 2,
+"explanation": "Aishah (RA) was known for her intelligence and contributed significantly to the preservation and teaching of Islamic knowledge."
+},
+{
+"q": "The 'Iddah' period for a divorced woman who is not pregnant is _____.",
+"opts": ["4 months and 10 days", "3 menstrual cycles", "1 year", "40 days"],
+"ans": 1,
+"explanation": "The Qur'an specifies three monthly cycles (Quru') for a divorced woman to ensure there is no pregnancy before she remarries."
+},
+{
+"q": "The treaty signed between the Muslims and the Quraysh in 628 CE was the Treaty of _____.",
+"opts": ["Madinah", "Ta'if", "Hudaibiyyah", "Aqabah"],
+"ans": 2,
+"explanation": "Hudaibiyyah was a 10-year peace treaty that, although initially seeming disadvantageous to Muslims, led to the peaceful conquest of Makkah."
+},
+{
+"q": "The first Mu'adhin (caller to prayer) in Islam was _____.",
+"opts": ["Zaid b. Harithah", "Bilal b. Rabah", "Abdullah b. Mas'ud", "Salman al-Farisi"],
+"ans": 1,
+"explanation": "Bilal, a former slave from Ethiopia, was chosen for his beautiful and strong voice to call Muslims to prayer."
+},
+{
+"q": "A prayer offered for a deceased Muslim before burial is called _____.",
+"opts": ["Salat al-Istisqa", "Salat al-Janazah", "Salat al-Kusuf", "Salat al-Witr"],
+"ans": 1,
+"explanation": "Salat al-Janazah is a funeral prayer consisting of four Takbirs, performed in congregation standing up (without Ruku' or Sujud)."
+},
+{
+"q": "The 'Night of Power' (Laylatul-Qadr) is better than _____ months.",
+"opts": ["100", "500", "1,000", "10,000"],
+"ans": 2,
+"explanation": "Surat al-Qadr states that worship on this night in Ramadan is better than a thousand months of worship."
+},
+{
+"q": "The legal ruling that is 'highly recommended' but not strictly obligatory is called _____.",
+"opts": ["Fard", "Mustahabb (Mandub)", "Makruh", "Haram"],
+"ans": 1,
+"explanation": "Mustahabb actions are those for which a person is rewarded if performed, but not punished if omitted."
+},
+{
+"q": "The Surah that warns against backbiting and slandering is _____.",
+"opts": ["Surat al-Humazah", "Surat al-Fil", "Surat al-Ma'un", "Surat al-Kawthar"],
+"ans": 0,
+"explanation": "Surat al-Humazah begins by condemning 'every slanderer and backbiter'."
+},
+{
+"q": "The Islamic concept of 'Ihsan' means _____.",
+"opts": ["to pay Zakat", "to worship Allah as if you see Him", "to fast in the heat", "to go for Hajj twice"],
+"ans": 1,
+"explanation": "In the Hadith of Jibril, Ihsan is defined as 'to worship Allah as if you see Him, and if you cannot see Him, you know He sees you'."
+},
+{
+"q": "Which Caliph oversaw the expansion of Islam into Persia, Egypt, and the Levant?",
+"opts": ["Abu Bakr", "Umar b. Khattab", "Uthman b. Affan", "Ali b. Abi Talib"],
+"ans": 1,
+"explanation": "Umar (RA) was the great administrator and conqueror under whose rule the Islamic empire expanded most rapidly."
+},
+{
+"q": "The 'Sunnah' refers to the _____ of the Prophet Muhammad (SAW).",
+"opts": ["writings", "physical appearance", "sayings, actions, and approvals", "family tree"],
+"ans": 2,
+"explanation": "Sunnah encompasses everything the Prophet said (Qawl), did (Fi'l), or tacitly approved (Taqrir)."
+},
+{
+"q": "The major theme of the 'Makkan' Surahs is usually _____.",
+"opts": ["Social legislation", "Tawhid and the Hereafter", "War and Peace", "Rules of Inheritance"],
+"ans": 1,
+"explanation": "Makkan Surahs focus on establishing faith, the oneness of Allah, and the reality of life after death, while Madinan Surahs focus on law and community building."
+},
+{
+"q": "The number of Sajdah (prostration) marks found in the Qur'an is _____.",
+"opts": ["10", "14", "20", "30"],
+"ans": 1,
+"explanation": "Most scholars agree on 14 specific verses in the Qur'an where it is Sunnah to perform a prostration (Sajdah at-Tilawah) upon recitation."
+},
+{
+"q": "The 'Battle of the Trench' is also known as the Battle of _____.",
+"opts": ["Al-Ahzab (The Confederates)", "Tabuk", "Mu'tah", "Khaybar"],
+"ans": 0,
+"explanation": "It is called 'Al-Ahzab' because various tribes formed a confederacy to attack the Muslims in Madinah."
+},
+{
+"q": "A Hadith that has a broken chain of narrators is classified as _____.",
+"opts": ["Sahih", "Hasan", "Munqati'", "Maudu'"],
+"ans": 2,
+"explanation": "Munqati' refers to a Hadith where a narrator is missing from the chain of transmission."
+},
+{
+"q": "The prophet mentioned most frequently by name in the Qur'an is _____.",
+"opts": ["Muhammad (SAW)", "Ibrahim (AS)", "Musa (AS)", "Isa (AS)"],
+"ans": 2,
+"explanation": "Prophet Musa (AS) is mentioned 136 times in the Qur'an across many Surahs."
+},
+{
+"q": "The direction (Qiblah) Muslims face during prayer was changed from _____ to Makkah.",
+"opts": ["Cairo", "Jerusalem (Al-Quds)", "Madinah", "Damascus"],
+"ans": 1,
+"explanation": "Early in Madinah, the Qiblah was toward Masjid al-Aqsa in Jerusalem before the revelation of Surat al-Baqarah verse 144."
+},
+{
+"q": "The term 'Sadaqah' generally refers to _____.",
+"opts": ["Obligatory tax", "Voluntary charity", "Loans", "Interest"],
+"ans": 1,
+"explanation": "While Zakat is obligatory, Sadaqah refers to any act of voluntary kindness or financial help given for the sake of Allah."
+},
+{
+"q": "The 'Haram' months in which fighting is prohibited are _____.",
+"opts": ["Ramadan and Shawwal", "Dhul-Qi'dah, Dhul-Hijjah, Muharram, and Rajab", "Muharram and Safar", "Rabi' al-Awwal and Rabi' al-Thani"],
+"ans": 1,
+"explanation": "These four months are sacred, and the Qur'an forbids initiating warfare during them."
+},
+{
+"q": "The compiler of the most authentic book of Hadith, Sahih Al-Bukhari, was from _____.",
+"opts": ["Saudi Arabia", "Egypt", "Uzbekistan (Bukhara)", "Iran"],
+"ans": 2,
+"explanation": "Imam Muhammad b. Ismail al-Bukhari was born in Bukhara, in present-day Uzbekistan."
+},
+{
+"q": "The act of 'Istighfar' means _____.",
+"opts": ["praising Allah", "seeking forgiveness from Allah", "declaring Allah's greatness", "fasting"],
+"ans": 1,
+"explanation": "Istighfar is the act of saying 'Astaghfirullah' (I seek Allah's forgiveness)."
+},
+{
+"q": "A person who memorizes the entire Qur'an is called a _____.",
+"opts": ["Hafiz", "Qari", "Mufassir", "Faqih"],
+"ans": 0,
+"explanation": "Hafiz (Guardian) is the title for someone who has committed the 6,236 verses of the Qur'an to memory."
+},
+{
+"q": "The 'Riddah' wars were fought during the Caliphate of Abu Bakr against _____.",
+"opts": ["the Romans", "the Persians", "apostates and false prophets", "the Quraysh"],
+"ans": 2,
+"explanation": "After the Prophet's death, some tribes rebelled or followed false prophets like Musaylimah; Abu Bakr fought to maintain the unity of Islam."
+},
+{
+"q": "The 'Takbirat al-Ihram' is the _____.",
+"opts": ["final greeting in prayer", "opening 'Allahu Akbar' to start prayer", "prostration", "call to prayer"],
+"ans": 1,
+"explanation": "This Takbir signals the entry into the sacred state of prayer, during which ordinary actions like eating or talking become forbidden."
+},
+{
+"q": "The 'Al-Faruq' was the title of which Caliph?",
+"opts": ["Abu Bakr", "Umar b. Khattab", "Uthman", "Ali"],
+"ans": 1,
+"explanation": "Umar was called Al-Faruq (The one who distinguishes between truth and falsehood) for his strict justice."
+},
+{
+"q": "The main focus of Surat al-Ma'un is _____.",
+"opts": ["Warfare", "Hypocrisy and neglecting the needy", "Inheritance", "The creation of man"],
+"ans": 1,
+"explanation": "The Surah criticizes those who pray for show but refuse to help the orphans and the poor."
+},
+{
+"q": "Islamic monotheism is divided into three categories: Tawhid ar-Rububiyyah, Tawhid al-Uluhiyyah, and _____.",
+"opts": ["Tawhid al-Iman", "Tawhid al-Asma was-Sifat", "Tawhid al-Qadr", "Tawhid al-Ihsan"],
+"ans": 1,
+"explanation": "The third category involves the belief in Allah's unique Names and Attributes as mentioned in the Qur'an and Sunnah."
+},
+{
+"q": "The 'Sujud as-Sahw' is performed when a person _____.",
+"opts": ["finishes the Qur'an", "makes a mistake or forgetfulness in prayer", "receives good news", "enters a mosque"],
+"ans": 1,
+"explanation": "Two extra prostrations are performed at the end of Salat to compensate for unintentional omissions or additions."
+},
+{
+"q": "The primary objective of 'Sawm' (fasting) as stated in the Qur'an is to achieve _____.",
+"opts": ["weight loss", "poverty awareness", "Taqwa (God-consciousness)", "patience"],
+"ans": 2,
+"explanation": "Surat al-Baqarah 183 states: '...so that you may become God-fearing/righteous (Taqwa)'."
+},
+{
+"q": "The collection of sayings and deeds of the Prophet Muhammad (SAW) is called _____.",
+"opts": ["Qur'an", "Hadith", "Shari'ah", "Sira"],
+"ans": 1,
+"explanation": "Hadith is the record of the Sunnah."
+},
+{
+"q": "In Shari'ah, the prohibited acts are known as _____.",
+"opts": ["Halal", "Haram", "Mubah", "Wajib"],
+"ans": 1,
+"explanation": "Haram refers to anything explicitly forbidden by Allah and His Messenger."
+},
+{
+"q": "The first revelation came to the Prophet in the Cave of _____.",
+"opts": ["Thawr", "Hira", "Uhud", "Safa"],
+"ans": 1,
+"explanation": "Mount Nur houses the Cave of Hira, where Angel Jibril first commanded the Prophet to 'Read!' (Iqra)."
+},
+{
+"q": "Which Caliph was known for his extreme modesty and for compiling the standard version of the Qur'an used today?",
+"opts": ["Abu Bakr", "Umar", "Uthman", "Ali"],
+"ans": 2,
+"explanation": "Uthman (RA) ordered the standardized 'Uthmanic Codex' to be sent to all major Islamic cities to ensure uniformity."
+},
+{
+"q": "The 'Asadullah' (Lion of Allah) was a title of _____.",
+"opts": ["Khalid b. Walid", "Umar b. Khattab", "Hamzah b. Abdul-Muttalib", "Ali b. Abi Talib"],
+"ans": 2,
+"explanation": "The Prophet's uncle, Hamzah, was given this title for his bravery, though Ali (RA) was also famously brave."
+},
+{
+"q": "The Surah that must be recited in every Rak'ah of prayer is _____.",
+"opts": ["Al-Nas", "Al-Fatihah", "Al-Ikhlas", "Al-Asr"],
+"ans": 1,
+"explanation": "Prayer is invalid without the recitation of Al-Fatihah, known as 'Umm al-Kitab'."
+},
+{
+"q": "A 'Mushrik' is a person who _____.",
+"opts": ["denies Allah's existence", "associates partners with Allah", "fasts without praying", "commits murder"],
+"ans": 1,
+"explanation": "The term comes from 'Shirk', meaning polytheism or idolatry."
+},
+{
+"q": "The Islamic term for the 'oneness of God' is _____.",
+"opts": ["Iman", "Tawhid", "Ihsan", "Salat"],
+"ans": 1,
+"explanation": "Tawhid is the defining doctrine of Islam."
+},
+{
+"q": "The five daily prayers are: Fajr, Zuhr, Asr, Maghrib, and _____.",
+"opts": ["Tahajjud", "Witr", "Isha", "Duha"],
+"ans": 2,
+"explanation": "Isha is the night prayer, the last of the five obligatory daily prayers."
+},
+{
+"q": "The term 'Tafsir' refers to _____.",
+"opts": ["recitation of the Qur'an", "exegesis/explanation of the Qur'an", "memorization", "handwriting"],
+"ans": 1,
+"explanation": "Mufassirun (commentators) use linguistics, history, and Hadith to explain the meanings of Qur'anic verses."
+},
+{
+"q": "A Hadith narrated by only one person at every stage of the chain is called _____.",
+"opts": ["Gharib", "Aziz", "Mashhur", "Mutawatir"],
+"ans": 0,
+"explanation": "Gharib means 'strange' or 'solitary' in Hadith terminology."
+},
+{
+"q": "The Prophet Muhammad (SAW) belonged to the tribe of _____.",
+"opts": ["Aus", "Khazraj", "Quraysh", "Thaqif"],
+"ans": 2,
+"explanation": "He was from the Banu Hashim clan of the Quraysh tribe in Makkah."
+},
+{
+"q": "The 'Kharaj' in Islamic taxation refers to _____.",
+"opts": ["tax on trade", "land tax", "poll tax on non-Muslims", "war booty"],
+"ans": 1,
+"explanation": "Kharaj is a tax on agricultural land, typically applied to lands conquered by Muslims."
+},
+{
+"q": "The Surah that describes the short duration of time and the importance of faith and good deeds is _____.",
+"opts": ["Surat al-Nas", "Surat al-Ikhlas", "Surat al-Asr", "Surat al-Falaq"],
+"ans": 2,
+"explanation": "Surat al-Asr emphasizes that all mankind is in a state of loss except those who have faith, do good, and encourage truth and patience."
+}
+]
