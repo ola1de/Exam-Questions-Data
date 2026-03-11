@@ -1,1 +1,784 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Which of the following planets is the closest to the Sun?",
+"opts": [
+"Venus",
+"Mars",
+"Mercury",
+"Earth"
+],
+"ans": 2,
+"explanation": "Mercury is the first planet from the Sun in our solar system, followed by Venus, Earth, and Mars."
+},
+{
+"q": "The movement of the earth on its axis is called _____.",
+"opts": [
+"Revolution",
+"Rotation",
+"Precision",
+"Inclination"
+],
+"ans": 1,
+"explanation": "Rotation is the spinning of the Earth on its imaginary axis from West to East, which takes approximately 24 hours and causes day and night."
+},
+{
+"q": "If the time at the Greenwich Meridian (
+) is 12:00 noon, what is the time at 
+?",
+"opts": [
+"9:00 am",
+"3:00 pm",
+"2:00 pm",
+"10:00 am"
+],
+"ans": 1,
+"explanation": "The Earth rotates 
+ in 1 hour. 
+ hours. Since the location is East, we add the time: 12:00 + 3 hours = 3:00 pm."
+},
+{
+"q": "Which of the following is an example of a metamorphic rock?",
+"opts": [
+"Granite",
+"Limestone",
+"Marble",
+"Sandstone"
+],
+"ans": 2,
+"explanation": "Marble is a metamorphic rock formed from the transformation of limestone under great heat and pressure."
+},
+{
+"q": "The point within the earth's crust where an earthquake originates is called the _____.",
+"opts": [
+"Epicentre",
+"Focus",
+"Fault line",
+"Crater"
+],
+"ans": 1,
+"explanation": "The focus (or hypocenter) is the exact point inside the Earth where the earthquake starts. The epicentre is the point directly above it on the surface."
+},
+{
+"q": "An example of a volcanic mountain in Africa is _____.",
+"opts": [
+"Mount Kilimanjaro",
+"The Atlas Mountains",
+"The Drakensberg Mountains",
+"The Jos Plateau"
+],
+"ans": 0,
+"explanation": "Mount Kilimanjaro in Tanzania is a dormant volcano and the highest peak in Africa."
+},
+{
+"q": "The process of physical weathering caused by the repeated freezing and thawing of water in rock crevices is _____.",
+"opts": [
+"Exfoliation",
+"Hydration",
+"Frost action",
+"Oxidation"
+],
+"ans": 2,
+"explanation": "Frost action (or frost wedging) occurs in cold climates where water expands when frozen, exerting pressure that eventually breaks the rock apart."
+},
+{
+"q": "A rejuvenated river is one that has _____.",
+"opts": [
+"dried up completely",
+"developed a wide flood plain",
+"gained new erosive power",
+"entered its old stage"
+],
+"ans": 2,
+"explanation": "River rejuvenation occurs when there is a fall in sea level or a rise in land, giving the river more vertical energy to erode its bed again."
+},
+{
+"q": "Which of the following features is produced by wind erosion in deserts?",
+"opts": [
+"Barchan",
+"Zeugen",
+"Wadi",
+"Inselberg"
+],
+"ans": 1,
+"explanation": "A Zeugen is a table-shaped area of rock found in arid regions, formed by the wind eroding softer layers of rock underneath harder ones."
+},
+{
+"q": "The instrument used to measure wind speed is the _____.",
+"opts": [
+"Anemometer",
+"Wind vane",
+"Hygrometer",
+"Barometer"
+],
+"ans": 0,
+"explanation": "An anemometer measures the speed of the wind, while a wind vane determines its direction."
+},
+{
+"q": "Which layer of the atmosphere contains the ozone layer?",
+"opts": [
+"Troposphere",
+"Stratosphere",
+"Mesosphere",
+"Thermosphere"
+],
+"ans": 1,
+"explanation": "The ozone layer is located within the stratosphere and is responsible for absorbing most of the sun's harmful ultraviolet radiation."
+},
+{
+"q": "Lines on a map joining places with equal atmospheric pressure are called _____.",
+"opts": [
+"Isohyets",
+"Isotherms",
+"Isobars",
+"Isohels"
+],
+"ans": 2,
+"explanation": "Isobars connect areas of equal pressure. Isohyets are for rainfall, Isotherms for temperature, and Isohels for sunshine."
+},
+{
+"q": "The 'Inter-Tropical Convergence Zone' (ITCZ) is a region where _____.",
+"opts": [
+"Polar air masses meet",
+"Tropical maritime and Tropical continental air masses meet",
+"Warm and cold ocean currents meet",
+"High-pressure belts are formed"
+],
+"ans": 1,
+"explanation": "The ITCZ is the zone where the North-East Trades and the South-West Trades (air masses) converge, influencing rainfall patterns in West Africa."
+},
+{
+"q": "The most important factor influencing the climate of West Africa is the _____.",
+"opts": [
+"Latitude",
+"Altitude",
+"Distance from the sea",
+"Seasonal migration of the ITCZ"
+],
+"ans": 3,
+"explanation": "The movement of the ITCZ determines the onset and duration of the rainy and dry seasons in West Africa."
+},
+{
+"q": "Which type of vegetation is characterized by broad-leaved evergreen trees and multiple layers of canopy?",
+"opts": [
+"Tropical Grassland",
+"Coniferous Forest",
+"Tropical Rainforest",
+"Mediterranean Vegetation"
+],
+"ans": 2,
+"explanation": "Tropical Rainforests have high rainfall and temperatures year-round, supporting dense, layered, evergreen vegetation."
+},
+{
+"q": "The 'Sapped' or 'Leached' soils found in the tropical rainforest regions are known as _____.",
+"opts": [
+"Chernozems",
+"Laterites",
+"Podzols",
+"Chestnut soils"
+],
+"ans": 1,
+"explanation": "Laterite soils are formed in hot and wet tropical areas where heavy rain leaches out silica, leaving behind aluminum and iron oxides."
+},
+{
+"q": "A linear settlement pattern is most likely to develop _____.",
+"opts": [
+"at a crossroad",
+"around a circular market",
+"along a major road or railway",
+"on a defensive hilltop"
+],
+"ans": 2,
+"explanation": "Linear settlements form in a line, usually following the route of a communication line like a road, river, or railway."
+},
+{
+"q": "Which of the following is a pull factor in rural-urban migration?",
+"opts": [
+"Soil exhaustion",
+"Lack of social amenities",
+"Better job opportunities",
+"Natural disasters"
+],
+"ans": 2,
+"explanation": "Pull factors are positive attributes of a destination (the city) that attract migrants, such as better employment and infrastructure."
+},
+{
+"q": "The primary objective of the 'Green Revolution' is to _____.",
+"opts": [
+"increase agricultural productivity",
+"plant more trees in urban areas",
+"stop the use of chemicals on farms",
+"protect wildlife"
+],
+"ans": 0,
+"explanation": "The Green Revolution refers to the set of research and technology transfer initiatives that increased agricultural production through high-yielding varieties of seeds."
+},
+{
+"q": "Which of the following is an example of a secondary economic activity?",
+"opts": [
+"Mining",
+"Fishing",
+"Textile manufacturing",
+"Banking"
+],
+"ans": 2,
+"explanation": "Secondary activities involve the processing or manufacturing of raw materials into finished goods. Mining and fishing are primary, while banking is tertiary."
+},
+{
+"q": "The main reason for the location of the Iron and Steel industry at Ajaokuta is _____.",
+"opts": [
+"availability of cheap labor",
+"nearness to the market",
+"proximity to raw materials",
+"government policy only"
+],
+"ans": 2,
+"explanation": "Ajaokuta was chosen due to its proximity to iron ore deposits (Itakpe) and coal, which are essential raw materials for steel production."
+},
+{
+"q": "Environmental pollution caused by the release of sulfur dioxide into the atmosphere leads to _____.",
+"opts": [
+"Global warming",
+"Acid rain",
+"Ozone layer depletion",
+"The greenhouse effect"
+],
+"ans": 1,
+"explanation": "Sulfur dioxide reacts with water vapor in the atmosphere to form sulfuric acid, which falls as acid rain, damaging crops and buildings."
+},
+{
+"q": "The highest mountain peak in Nigeria is _____.",
+"opts": [
+"Chappal Waddi",
+"Zuma Rock",
+"Olumo Rock",
+"Idanre Hill"
+],
+"ans": 0,
+"explanation": "Chappal Waddi (Gangirwal), located in the Mambilla Plateau of Taraba State, is the highest point in Nigeria."
+},
+{
+"q": "The River Niger enters the Atlantic Ocean through a _____.",
+"opts": [
+"Delta",
+"Estuary",
+"Lagoon",
+"Canyon"
+],
+"ans": 0,
+"explanation": "The Niger Delta is a vast fan-shaped deposit of silt at the mouth of the River Niger, where it splits into numerous distributaries."
+},
+{
+"q": "Which of the following mineral resources is found in commercial quantities in Enugu?",
+"opts": [
+"Petroleum",
+"Tin",
+"Coal",
+"Gold"
+],
+"ans": 2,
+"explanation": "Enugu is nicknamed the 'Coal City' because it was the center of coal mining in Nigeria."
+},
+{
+"q": "The 'Harmattan' wind in Nigeria blows from the _____.",
+"opts": [
+"South-West",
+"North-East",
+"South-East",
+"North-West"
+],
+"ans": 1,
+"explanation": "The Harmattan is a dry and dusty North-East trade wind that blows from the Sahara Desert across West Africa."
+},
+{
+"q": "The most densely populated area in Nigeria is the _____.",
+"opts": [
+"Middle Belt",
+"South-West",
+"North-East",
+"Lake Chad Basin"
+],
+"ans": 1,
+"explanation": "The South-West, particularly around Lagos and Ibadan, has very high population densities due to industrialization and commercial activity."
+},
+{
+"q": "A map with a scale of 1:50,000 is _____ than a map with a scale of 1:250,000.",
+"opts": [
+"smaller",
+"larger",
+"the same",
+"less detailed"
+],
+"ans": 1,
+"explanation": "A larger-scale map (smaller denominator) shows a smaller area but in much greater detail."
+},
+{
+"q": "The core of the earth consists mainly of _____.",
+"opts": [
+"Silica and Aluminum",
+"Silica and Magnesium",
+"Iron and Nickel",
+"Calcium and Sodium"
+],
+"ans": 2,
+"explanation": "The core (Barysphere) is primarily composed of Iron (Fe) and Nickel (Ni), often referred to as 'Nife'."
+},
+{
+"q": "The steep slope of a fold mountain is called a/an _____.",
+"opts": [
+"Anticline",
+"Syncline",
+"Limb",
+"Axis"
+],
+"ans": 2,
+"explanation": "The limbs are the sloping sides of a fold. The anticline is the up-fold, and the syncline is the down-fold."
+},
+{
+"q": "Which of the following is a depositional feature of a river?",
+"opts": [
+"Waterfall",
+"V-shaped valley",
+"Ox-bow lake",
+"Pothole"
+],
+"ans": 2,
+"explanation": "An ox-bow lake is formed in the lower course of a river when a meander is cut off through deposition and erosion."
+},
+{
+"q": "The main source of irrigation water in Northern Nigeria is _____.",
+"opts": [
+"Direct rainfall",
+"Underground wells",
+"Dams and Rivers",
+"Desalinated seawater"
+],
+"ans": 2,
+"explanation": "Dams like the Kainji and Tiga dams provide water for irrigation in the drier northern regions."
+},
+{
+"q": "Which of the following is a major export of Nigeria besides crude oil?",
+"opts": [
+"Automobiles",
+"Cocoa",
+"Wheat",
+"Electronics"
+],
+"ans": 1,
+"explanation": "Cocoa remains one of Nigeria's most significant non-oil agricultural exports."
+},
+{
+"q": "The concept of 'Central Place Theory' was proposed by _____.",
+"opts": [
+"Wegener",
+"Davis",
+"Christaller",
+"Malthus"
+],
+"ans": 2,
+"explanation": "Walter Christaller developed the Central Place Theory to explain the size, spacing, and distribution of settlements."
+},
+{
+"q": "The process of urban sprawl leads to the _____.",
+"opts": [
+"concentration of people in the city center",
+"expansion of cities into surrounding rural areas",
+"reduction of pollution",
+"reforestation of the city"
+],
+"ans": 1,
+"explanation": "Urban sprawl is the unrestricted growth in many urban areas of housing, commercial development, and roads over large expanses of land."
+},
+{
+"q": "In a GIS (Geographical Information System), 'raster data' represents information using _____.",
+"opts": [
+"Points and Lines",
+"Polygons",
+"A grid of cells or pixels",
+"Text descriptions only"
+],
+"ans": 2,
+"explanation": "Raster data represents features as a matrix of cells (pixels), common in satellite imagery."
+},
+{
+"q": "Which of the following ocean currents is a cold current?",
+"opts": [
+"Gulf Stream",
+"Benguela Current",
+"Kuroshio Current",
+"North Atlantic Drift"
+],
+"ans": 1,
+"explanation": "The Benguela current off the coast of South-Western Africa is a cold current."
+},
+{
+"q": "The deep, narrow, steep-sided valley formed by a river is a _____.",
+"opts": [
+"Gorge",
+"Floodplain",
+"Delta",
+"Meander"
+],
+"ans": 0,
+"explanation": "A gorge is a narrow valley with very steep, rocky walls, often formed by a river cutting through hard rock."
+},
+{
+"q": "The world's highest waterfalls, Angel Falls, are located in _____.",
+"opts": [
+"Brazil",
+"Venezuela",
+"USA",
+"Zambia"
+],
+"ans": 1,
+"explanation": "Angel Falls is located in the Canaima National Park, Venezuela."
+},
+{
+"q": "The Mediterranean type of climate is characterized by _____.",
+"opts": [
+"Hot, wet summers and cold, dry winters",
+"Hot, dry summers and mild, wet winters",
+"Constant high temperatures and rainfall",
+"Very low temperatures year-round"
+],
+"ans": 1,
+"explanation": "Mediterranean climates have distinct dry summers and rainy winters."
+},
+{
+"q": "The study of the relationship between organisms and their environment is _____.",
+"opts": [
+"Ecology",
+"Geology",
+"Anthropology",
+"Meteorology"
+],
+"ans": 0,
+"explanation": "Ecology deals with the interactions of living organisms with their physical environment."
+},
+{
+"q": "The primary cause of deforestation in Nigeria is _____.",
+"opts": [
+"Wildfires",
+"Agricultural expansion and logging",
+"Acid rain",
+"Volcanic eruptions"
+],
+"ans": 1,
+"explanation": "In Nigeria, clearing land for farming and the timber industry are the leading drivers of forest loss."
+},
+{
+"q": "Which of the following is a non-renewable resource?",
+"opts": [
+"Solar energy",
+"Wind",
+"Natural Gas",
+"Water"
+],
+"ans": 2,
+"explanation": "Natural gas is a fossil fuel and takes millions of years to form; once consumed, it cannot be replaced in a human timeframe."
+},
+{
+"q": "The term 'Albedo' refers to the _____.",
+"opts": [
+"heat absorbed by the earth",
+"reflectivity of a surface",
+"total energy emitted by the sun",
+"temperature of the ocean"
+],
+"ans": 1,
+"explanation": "Albedo is the fraction of solar energy (shortwave radiation) reflected from the Earth back into space."
+},
+{
+"q": "The largest desert in the world is the _____.",
+"opts": [
+"Kalahari",
+"Sahara",
+"Gobi",
+"Atacama"
+],
+"ans": 1,
+"explanation": "The Sahara Desert in North Africa is the largest hot desert in the world."
+},
+{
+"q": "The transition zone between the Sahara desert and the Savannah is the _____.",
+"opts": [
+"Sahel",
+"Veld",
+"Prairies",
+"Pampas"
+],
+"ans": 0,
+"explanation": "The Sahel is the semiarid region of Western and North-Central Africa forming a transition between the Sahara and the Sudanian Savanna."
+},
+{
+"q": "Which of the following is a block mountain?",
+"opts": [
+"Himalayas",
+"Andes",
+"Vosges",
+"Rockies"
+],
+"ans": 2,
+"explanation": "The Vosges in France and the Black Forest in Germany are classic examples of block mountains (Horsts)."
+},
+{
+"q": "The scale of a map expressed as 1cm to 2km is a _____ scale.",
+"opts": [
+"Representative Fraction",
+"Linear",
+"Statement",
+"Diagonal"
+],
+"ans": 2,
+"explanation": "A statement scale expresses the relationship in words (e.g., 'one centimeter represents two kilometers')."
+},
+{
+"q": "The leading producer of Petroleum in Africa is _____.",
+"opts": [
+"Ghana",
+"Egypt",
+"Nigeria",
+"South Africa"
+],
+"ans": 2,
+"explanation": "Nigeria is historically the largest producer of oil in Africa, significantly impacting its economy."
+},
+{
+"q": "Which of the following is a landlocked country in West Africa?",
+"opts": [
+"Senegal",
+"Mali",
+"Liberia",
+"Nigeria"
+],
+"ans": 1,
+"explanation": "Mali is surrounded by land and has no direct access to the sea."
+},
+{
+"q": "The 'Great Barrier Reef' is located off the coast of _____.",
+"opts": [
+"Africa",
+"Australia",
+"South America",
+"Asia"
+],
+"ans": 1,
+"explanation": "The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea off the coast of Queensland, Australia."
+},
+{
+"q": "A plateau that is surrounded by mountains is called a/an _____.",
+"opts": [
+"Intermontane plateau",
+"Volcanic plateau",
+"Piedmont plateau",
+"Continental plateau"
+],
+"ans": 0,
+"explanation": "Intermontane plateaus are the highest and most extensive plateaus in the world, enclosed by fold mountains."
+},
+{
+"q": "The process by which plants release water vapor into the atmosphere is _____.",
+"opts": [
+"Evaporation",
+"Condensation",
+"Transpiration",
+"Precipitation"
+],
+"ans": 2,
+"explanation": "Transpiration is the biological process where water is taken up by roots and released as vapor through leaves."
+},
+{
+"q": "Which of the following cloud types is associated with thunderstorms?",
+"opts": [
+"Cirrus",
+"Stratus",
+"Cumulonimbus",
+"Altocumulus"
+],
+"ans": 2,
+"explanation": "Cumulonimbus clouds are dense, towering vertical clouds associated with heavy rain, lightning, and thunder."
+},
+{
+"q": "The 'Dead Sea' is famous because _____.",
+"opts": [
+"it has no salt",
+"it is the lowest point on the earth's surface",
+"it is the deepest ocean",
+"it has many fish"
+],
+"ans": 1,
+"explanation": "The shore of the Dead Sea is the lowest land point on Earth, and it is highly saline."
+},
+{
+"q": "The main cause of the tides in the ocean is the _____.",
+"opts": [
+"Wind",
+"Earth's rotation",
+"Gravitational pull of the moon and sun",
+"Earthquakes"
+],
+"ans": 2,
+"explanation": "Tides are the periodic rise and fall of sea levels caused by the gravitational forces exerted by the Moon and the Sun."
+},
+{
+"q": "Which of the following is a renewable energy source?",
+"opts": [
+"Coal",
+"Petroleum",
+"Geothermal energy",
+"Nuclear energy"
+],
+"ans": 2,
+"explanation": "Geothermal energy is heat from the earth's interior and is considered a sustainable and renewable resource."
+},
+{
+"q": "The 'Great Rift Valley' is located in _____.",
+"opts": [
+"West Africa",
+"East Africa",
+"North Africa",
+"Southern Africa"
+],
+"ans": 1,
+"explanation": "The Great Rift Valley is a continuous geographic trench running through Ethiopia, Kenya, Tanzania, and beyond."
+},
+{
+"q": "The mapping of the ocean floor is called _____.",
+"opts": [
+"Topography",
+"Bathymetry",
+"Cartography",
+"Demography"
+],
+"ans": 1,
+"explanation": "Bathymetry is the study and mapping of the underwater depths of lake or ocean floors."
+},
+{
+"q": "Which of the following is a primary factor in soil formation?",
+"opts": [
+"Parent material",
+"Traffic",
+"Irrigation",
+"Crop rotation"
+],
+"ans": 0,
+"explanation": "Parent material (rocks) provides the mineral base for soil formation through the process of weathering."
+},
+{
+"q": "The imaginary line that divides the earth into Northern and Southern hemispheres is the _____.",
+"opts": [
+"Prime Meridian",
+"Tropic of Cancer",
+"Equator",
+"Arctic Circle"
+],
+"ans": 2,
+"explanation": "The Equator is the zero-degree latitude line that bisects the Earth into North and South."
+},
+{
+"q": "The study of human population statistics is known as _____.",
+"opts": [
+"Demography",
+"Geography",
+"Sociology",
+"Statistics"
+],
+"ans": 0,
+"explanation": "Demography involves the statistical study of populations, including births, deaths, and migration."
+},
+{
+"q": "Which of the following is a major challenge for the ECOWAS sub-region?",
+"opts": [
+"Too much gold",
+"Political instability and insecurity",
+"Lack of land",
+"Extremely cold weather"
+],
+"ans": 1,
+"explanation": "Conflicts, coups, and terrorism are major hurdles to economic integration in West Africa."
+},
+{
+"q": "The most important crop in the 'Rice-Wheat' belt of the world is _____.",
+"opts": [
+"Rubber",
+"Cereal",
+"Tobacco",
+"Cotton"
+],
+"ans": 1,
+"explanation": "Cereals (Rice and Wheat) are the staple foods for the majority of the world's population."
+},
+{
+"q": "The process by which solar energy reaches the earth is _____.",
+"opts": [
+"Conduction",
+"Convection",
+"Radiation",
+"Advection"
+],
+"ans": 2,
+"explanation": "Heat from the sun travels through the vacuum of space to the Earth via electromagnetic waves (radiation)."
+},
+{
+"q": "The layer of the earth upon which the crust 'floats' is the _____.",
+"opts": [
+"Inner core",
+"Asthenosphere",
+"Lithosphere",
+"Exosphere"
+],
+"ans": 1,
+"explanation": "The asthenosphere is the highly viscous, mechanically weak, and ductile region of the upper mantle of the Earth."
+},
+{
+"q": "The 'Greenhouse Effect' is primarily caused by an increase in _____.",
+"opts": [
+"Oxygen",
+"Nitrogen",
+"Carbon dioxide",
+"Argon"
+],
+"ans": 2,
+"explanation": "Increased 
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+ levels trap more outgoing longwave radiation, leading to an increase in global temperatures."
+},
+{
+"q": "The most common type of rainfall in the tropics is _____.",
+"opts": [
+"Orographic",
+"Cyclonic",
+"Convectional",
+"Frontal"
+],
+"ans": 2,
+"explanation": "Convectional rainfall occurs when the intense sun heats the ground, causing air to rise, cool, and condense into heavy rain, often in the afternoon."
+},
+{
+"q": "The 'Primacy' of a city refers to _____.",
+"opts": [
+"its age",
+"its dominance in size and influence over other cities in the country",
+"its location at the center of the map",
+"its proximity to a river"
+],
+"ans": 1,
+"explanation": "A primate city is much larger than any other city in the country and dominates the economic and political life of the nation (e.g., Lagos in Nigeria)."
+},
+{
+"q": "Which of the following is a characteristic of a youthful river stage?",
+"opts": [
+"Meanders",
+"Ox-bow lakes",
+"V-shaped valleys",
+"Deltas"
+],
+"ans": 2,
+"explanation": "In its upper course, a river has high energy and primarily performs vertical erosion, creating steep-sided V-shaped valleys."
+}
+]
