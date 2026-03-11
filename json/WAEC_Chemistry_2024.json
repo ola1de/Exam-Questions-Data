@@ -1,1 +1,3234 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "Which of the following separation techniques is best suited for obtaining pure water from sea water?",
+"opts": [
+"Filtration",
+"Decantation",
+"Distillation",
+"Evaporation to dryness"
+],
+"ans": 2,
+"explanation": "Distillation involves boiling the sea water to create steam (leaving salts behind) and then condensing the steam back into liquid pure water. Evaporation would leave the salt but not recover the water."
+},
+{
+"q": "An element 
+𝑋
+X
+ has an atomic number of 12 and a mass number of 24. How many neutrons are in the nucleus of its atom?",
+"opts": [
+"12",
+"24",
+"36",
+"10"
+],
+"ans": 0,
+"explanation": "The number of neutrons is calculated by subtracting the atomic number (protons) from the mass number. 
+24
+−
+12
+=
+12
+24−12=12
+."
+},
+{
+"q": "The periodic table is arranged according to increasing _____.",
+"opts": [
+"Mass number",
+"Atomic number",
+"Relative atomic mass",
+"Number of neutrons"
+],
+"ans": 1,
+"explanation": "The Modern Periodic Law states that the properties of elements are a periodic function of their atomic numbers."
+},
+{
+"q": "Which of the following types of bonding is formed by the transfer of electrons from a metal to a non-metal?",
+"opts": [
+"Covalent bonding",
+"Dative bonding",
+"Electrovalent bonding",
+"Metallic bonding"
+],
+"ans": 2,
+"explanation": "Electrovalent (ionic) bonding occurs when electrons are transferred from a metallic atom (becoming a cation) to a non-metallic atom (becoming an anion)."
+},
+{
+"q": "What is the oxidation number of manganese in 
+𝐾
+𝑀
+𝑛
+𝑂
+4
+KMnO
+4
+	​
+
+?",
+"opts": [
+"+2",
+"+4",
+"+6",
+"+7"
+],
+"ans": 3,
+"explanation": "In 
+𝐾
+𝑀
+𝑛
+𝑂
+4
+KMnO
+4
+	​
+
+, 
+𝐾
+K
+ is +1, 
+𝑂
+O
+ is -2. Let 
+𝑀
+𝑛
+=
+𝑥
+Mn=x
+. 
+1
++
+𝑥
++
+4
+(
+−
+2
+)
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+1
++
+𝑥
+−
+8
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
++
+7
+1+x+4(−2)=0
+Rightarrow1+x−8=0
+Rightarrowx=+7
+."
+},
+{
+"q": "The volume of a gas at 
+ is 
+200
+𝑐
+𝑚
+3
+200cm
+3
+. Calculate its volume at 
+ if pressure remains constant.",
+"opts": [
+"
+150
+𝑐
+𝑚
+3
+150cm
+3
+",
+"
+266.7
+𝑐
+𝑚
+3
+266.7cm
+3
+",
+"
+300
+𝑐
+𝑚
+3
+300cm
+3
+",
+"
+400
+𝑐
+𝑚
+3
+400cm
+3
+"
+],
+"ans": 1,
+"explanation": "Using Charles' Law: 
+𝑉
+1
+/
+𝑇
+1
+=
+𝑉
+2
+/
+𝑇
+2
+V
+1
+	​
+
+/T
+1
+	​
+
+=V
+2
+	​
+
+/T
+2
+	​
+
+. Temperatures must be in Kelvin (
+𝑇
+1
+=
+300
+𝐾
+,
+𝑇
+2
+=
+400
+𝐾
+T
+1
+	​
+
+=300K,T
+2
+	​
+
+=400K
+). 
+200
+/
+300
+=
+𝑉
+2
+/
+400
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑉
+2
+=
+(
+200
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+400
+)
+/
+300
+=
+266.67
+𝑐
+𝑚
+3
+200/300=V
+2
+	​
+
+/400
+RightarrowV
+2
+	​
+
+=(200
+times400)/300=266.67cm
+3
+."
+},
+{
+"q": "Which of the following is an example of a physical change?",
+"opts": [
+"Burning of wood",
+"Souring of milk",
+"Melting of ice",
+"Rusting of iron"
+],
+"ans": 2,
+"explanation": "Melting of ice is a change of state (solid to liquid) and is easily reversible, which characterizes a physical change."
+},
+{
+"q": "How many moles of 
+𝐻
+2
+𝑆
+𝑂
+4
+H
+2
+	​
+
+SO
+4
+	​
+
+ are contained in 
+250
+𝑐
+𝑚
+3
+250cm
+3
+ of a 
+0.10
+𝑚
+𝑜
+𝑙
+/
+𝑑
+𝑚
+3
+0.10mol/dm
+3
+ solution?",
+"opts": [
+"0.025 moles",
+"0.250 moles",
+"0.010 moles",
+"2.500 moles"
+],
+"ans": 0,
+"explanation": "
+𝑀
+𝑜
+𝑙
+𝑒
+𝑠
+=
+𝑀
+𝑜
+𝑙
+𝑎
+𝑟
+𝑖
+𝑡
+𝑦
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑉
+𝑜
+𝑙
+𝑢
+𝑚
+𝑒
+(
+𝑖
+𝑛
+𝑑
+𝑚
+3
+)
+=
+0.10
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+(
+250
+/
+1000
+)
+=
+0.10
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+0.25
+=
+0.025
+Moles=Molarity
+timesVolume(indm
+3
+)=0.10
+times(250/1000)=0.10
+times0.25=0.025
+ moles."
+},
+{
+"q": "Which of the following indicators is most suitable for the titration of a strong acid against a weak base?",
+"opts": [
+"Phenolphthalein",
+"Methyl orange",
+"Litmus",
+"Bromothymol blue"
+],
+"ans": 1,
+"explanation": "Methyl orange is suitable because it changes color in the acidic pH range (
+3.1
+−
+4.4
+3.1−4.4
+), which matches the equivalence point of a strong acid-weak base titration."
+},
+{
+"q": "The process by which vegetable oil is converted to margarine is called _____.",
+"opts": [
+"Saponification",
+"Esterification",
+"Hydrogenation",
+"Hydrolysis"
+],
+"ans": 2,
+"explanation": "Hydrogenation is the addition of hydrogen across the double bonds of unsaturated oils in the presence of a Nickel catalyst to produce saturated fats (margarine)."
+},
+{
+"q": "Which of the following gases will turn lime water milky?",
+"opts": [
+"
+𝑂
+2
+O
+2
+	​
+
+",
+"
+𝑁
+𝐻
+3
+NH
+3
+	​
+
+",
+"
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+",
+"
+𝐶
+𝑙
+2
+Cl
+2
+	​
+
+"
+],
+"ans": 2,
+"explanation": "
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+ reacts with lime water (
+𝐶
+𝑎
+(
+𝑂
+𝐻
+)
+2
+Ca(OH)
+2
+	​
+
+) to form an insoluble precipitate of calcium carbonate (
+𝐶
+𝑎
+𝐶
+𝑂
+3
+CaCO
+3
+	​
+
+), which makes the solution cloudy."
+},
+{
+"q": "The IUPAC name for 
+𝐶
+𝐻
+3
+𝐶
+𝐻
+2
+𝐶
+𝐻
+(
+𝐶
+𝐻
+3
+)
+𝐶
+𝐻
+2
+𝐶
+𝐻
+3
+CH
+3
+	​
+
+CH
+2
+	​
+
+CH(CH
+3
+	​
+
+)CH
+2
+	​
+
+CH
+3
+	​
+
+ is _____.",
+"opts": [
+"2-methylpentane",
+"3-methylpentane",
+"2-ethylbutane",
+"Hexane"
+],
+"ans": 1,
+"explanation": "The longest carbon chain has 5 carbons (pentane). Counting from either side, the methyl group is on the third carbon."
+},
+{
+"q": "Which of the following is an allotrope of carbon that is used as a lubricant?",
+"opts": [
+"Diamond",
+"Graphite",
+"Lampblack",
+"Coke"
+],
+"ans": 1,
+"explanation": "Graphite has a layered structure with weak van der Waals forces between layers, allowing them to slide over each other."
+},
+{
+"q": "The general formula for the Alkyne homologous series is _____.",
+"opts": [
+"
+𝐶
+𝑛
+𝐻
+2
+𝑛
++
+2
+C
+n
+	​
+
+H
+2n+2
+	​
+
+",
+"
+𝐶
+𝑛
+𝐻
+2
+𝑛
+C
+n
+	​
+
+H
+2n
+	​
+
+",
+"
+𝐶
+𝑛
+𝐻
+2
+𝑛
+−
+2
+C
+n
+	​
+
+H
+2n−2
+	​
+
+",
+"
+𝐶
+𝑛
+𝐻
+2
+𝑛
+−
+1
+C
+n
+	​
+
+H
+2n−1
+	​
+
+"
+],
+"ans": 2,
+"explanation": "Alkynes are unsaturated hydrocarbons characterized by at least one carbon-carbon triple bond, following the formula 
+𝐶
+𝑛
+𝐻
+2
+𝑛
+−
+2
+C
+n
+	​
+
+H
+2n−2
+	​
+
+."
+},
+{
+"q": "Which of the following methods can be used to remove temporary hardness of water?",
+"opts": [
+"Addition of washing soda",
+"Boiling",
+"Addition of alum",
+"Filtration"
+],
+"ans": 1,
+"explanation": "Temporary hardness is caused by dissolved 
+𝐶
+𝑎
+(
+𝐻
+𝐶
+𝑂
+3
+)
+2
+Ca(HCO
+3
+	​
+
+)
+2
+	​
+
+ or 
+𝑀
+𝑔
+(
+𝐻
+𝐶
+𝑂
+3
+)
+2
+Mg(HCO
+3
+	​
+
+)
+2
+	​
+
+. Boiling decomposes these into insoluble carbonates."
+},
+{
+"q": "The catalyst used in the Haber process for the manufacture of ammonia is _____.",
+"opts": [
+"Vanadium (V) oxide",
+"Finely divided iron",
+"Platinum",
+"Manganese (IV) oxide"
+],
+"ans": 1,
+"explanation": "Finely divided iron (with molybdenum as a promoter) is used to speed up the reaction between 
+𝑁
+2
+N
+2
+	​
+
+ and 
+𝐻
+2
+H
+2
+	​
+
+ in the Haber process."
+},
+{
+"q": "According to Graham's law of diffusion, the rate of diffusion of a gas is inversely proportional to the square root of its _____.",
+"opts": [
+"Pressure",
+"Temperature",
+"Vapour density",
+"Volume"
+],
+"ans": 2,
+"explanation": "Graham's Law: 
+𝑅
+𝑎
+𝑡
+𝑒
+𝑝
+𝑟
+𝑜
+𝑝
+𝑡
+𝑜
+1
+/
+𝑠
+𝑞
+𝑟
+𝑡
+𝑀
+Rate
+propto1/
+sqrtM
+ or 
+𝑅
+𝑎
+𝑡
+𝑒
+𝑝
+𝑟
+𝑜
+𝑝
+𝑡
+𝑜
+1
+/
+𝑠
+𝑞
+𝑟
+𝑡
+𝐷
+Rate
+propto1/
+sqrtD
+, where 
+𝑀
+M
+ is molar mass and 
+𝐷
+D
+ is vapour density."
+},
+{
+"q": "Which of the following is the most electronegative element?",
+"opts": [
+"Chlorine",
+"Fluorine",
+"Oxygen",
+"Nitrogen"
+],
+"ans": 1,
+"explanation": "Fluorine is the most electronegative element on the periodic table because of its small atomic radius and high nuclear charge."
+},
+{
+"q": "A solution with a pH of 2 is _____.",
+"opts": [
+"Strongly acidic",
+"Weakly acidic",
+"Neutral",
+"Strongly alkaline"
+],
+"ans": 0,
+"explanation": "The pH scale ranges from 0-14. Values much lower than 7 (like 2) indicate a high concentration of 
+𝐻
++
+H
++
+ ions, making it strongly acidic."
+},
+{
+"q": "What is the relative molecular mass of 
+𝐶
+𝑎
+𝐶
+𝑂
+3
+CaCO
+3
+	​
+
+? (
+𝐶
+𝑎
+=
+40
+,
+𝐶
+=
+12
+,
+𝑂
+=
+16
+Ca=40,C=12,O=16
+)",
+"opts": [
+"68",
+"84",
+"100",
+"120"
+],
+"ans": 2,
+"explanation": "
+40
++
+12
++
+(
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+16
+)
+=
+40
++
+12
++
+48
+=
+100
+40+12+(3
+times16)=40+12+48=100
+."
+},
+{
+"q": "The functional group represented by 
+−
+𝐶
+𝑂
+𝑂
+𝑅
+−COOR
+ is the _____.",
+"opts": [
+"Alkanol",
+"Alkanoic acid",
+"Alkanoate",
+"Alkanal"
+],
+"ans": 2,
+"explanation": "
+−
+𝐶
+𝑂
+𝑂
+𝑅
+−COOR
+ is the functional group for esters (alkanoates), formed by the reaction of an alkanol and an alkanoic acid."
+},
+{
+"q": "Which of the following metals is extracted by the electrolysis of its molten ore?",
+"opts": [
+"Iron",
+"Copper",
+"Aluminium",
+"Zinc"
+],
+"ans": 2,
+"explanation": "Aluminium is highly reactive and cannot be reduced by carbon; it is extracted from molten bauxite using the Hall-Héroult process."
+},
+{
+"q": "The random motion of particles in a suspension is called _____.",
+"opts": [
+"Diffusion",
+"Osmosis",
+"Brownian motion",
+"Tyndall effect"
+],
+"ans": 2,
+"explanation": "Brownian motion describes the random, zigzag movement of particles resulting from collisions with molecules of the surrounding medium."
+},
+{
+"q": "Calculate the percentage by mass of Nitrogen in 
+𝑁
+𝐻
+4
+𝑁
+𝑂
+3
+NH
+4
+	​
+
+NO
+3
+	​
+
+. (
+𝑁
+=
+14
+,
+𝐻
+=
+1
+,
+𝑂
+=
+16
+N=14,H=1,O=16
+)",
+"opts": [
+"17.5%",
+"35.0%",
+"28.0%",
+"20.0%"
+],
+"ans": 1,
+"explanation": "Molar mass of 
+𝑁
+𝐻
+4
+𝑁
+𝑂
+3
+=
+14
++
+(
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+1
+)
++
+14
++
+(
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+16
+)
+=
+80
+NH
+4
+	​
+
+NO
+3
+	​
+
+=14+(4
+times1)+14+(3
+times16)=80
+. Mass of 
+𝑁
+=
+28
+N=28
+. 
+%
+𝑁
+=
+(
+28
+/
+80
+)
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+100
+=
+35
+%N=(28/80)
+times100=35
+."
+},
+{
+"q": "Which of the following salts is deliquescent?",
+"opts": [
+"
+𝑁
+𝑎
+𝐶
+𝑙
+NaCl
+",
+"
+𝐶
+𝑎
+𝐶
+𝑙
+2
+CaCl
+2
+	​
+
+",
+"
+𝐶
+𝑢
+𝑆
+𝑂
+4
+.5
+𝐻
+2
+𝑂
+CuSO
+4
+	​
+
+.5H
+2
+	​
+
+O
+",
+"
+𝑁
+𝑎
+2
+𝐶
+𝑂
+3
+.10
+𝐻
+2
+𝑂
+Na
+2
+	​
+
+CO
+3
+	​
+
+.10H
+2
+	​
+
+O
+"
+],
+"ans": 1,
+"explanation": "Deliquescent substances, like anhydrous 
+𝐶
+𝑎
+𝐶
+𝑙
+2
+CaCl
+2
+	​
+
+, absorb enough water from the atmosphere to dissolve and form a solution."
+},
+{
+"q": "The enthalpy change for an endothermic reaction is always _____.",
+"opts": [
+"Negative",
+"Positive",
+"Zero",
+"Constant"
+],
+"ans": 1,
+"explanation": "In an endothermic reaction, heat is absorbed from the surroundings, meaning the enthalpy of the products is greater than the reactants (
+𝐷
+𝑒
+𝑙
+𝑡
+𝑎
+𝐻
+>
+0
+DeltaH>0
+)."
+},
+{
+"q": "Which of the following is used as a refrigerant in refrigerators?",
+"opts": [
+"
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+",
+"Liquid 
+𝑁
+𝐻
+3
+NH
+3
+	​
+
+",
+"
+𝑆
+𝑂
+2
+SO
+2
+	​
+
+",
+"
+𝐶
+𝑙
+2
+Cl
+2
+	​
+
+"
+],
+"ans": 1,
+"explanation": "Ammonia is used as a refrigerant gas because it is easily liquefied under pressure and has a high latent heat of vaporization."
+},
+{
+"q": "The monomer of natural rubber is _____.",
+"opts": [
+"Isoprene",
+"Ethene",
+"Propene",
+"Styrene"
+],
+"ans": 0,
+"explanation": "Natural rubber is a polymer made of repeated units of isoprene (2-methyl-1,3-butadiene)."
+},
+{
+"q": "In the reaction 
+𝐻
+2
++
+𝐶
+𝑙
+2
+𝑟
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+𝐻
+𝐶
+𝑙
+H
+2
+	​
+
++Cl
+2
+	​
+
+rightarrow2HCl
+, which substance is the reducing agent?",
+"opts": [
+"
+𝐻
+2
+H
+2
+	​
+
+",
+"
+𝐶
+𝑙
+2
+Cl
+2
+	​
+
+",
+"
+𝐻
+𝐶
+𝑙
+HCl
+",
+"None"
+],
+"ans": 0,
+"explanation": "Hydrogen's oxidation state increases from 0 to +1. Since it undergoes oxidation, it acts as the reducing agent."
+},
+{
+"q": "Which of the following is a neutral oxide?",
+"opts": [
+"
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+",
+"
+𝑁
+𝑂
+NO
+",
+"
+𝑆
+𝑂
+2
+SO
+2
+	​
+
+",
+"
+𝑀
+𝑔
+𝑂
+MgO
+"
+],
+"ans": 1,
+"explanation": "Neutral oxides like 
+𝑁
+𝑂
+NO
+, 
+𝐶
+𝑂
+CO
+, and 
+𝑁
+2
+𝑂
+N
+2
+	​
+
+O
+ do not react with either acids or bases to form salts."
+},
+{
+"q": "The shape of a water molecule is _____.",
+"opts": [
+"Linear",
+"Trigonal planar",
+"Bent (V-shaped)",
+"Tetrahedral"
+],
+"ans": 2,
+"explanation": "Water has two bonding pairs and two lone pairs of electrons on the oxygen atom, resulting in a bent shape due to lone pair-lone pair repulsion."
+},
+{
+"q": "Which of the following is a greenhouse gas?",
+"opts": [
+"
+𝑁
+2
+N
+2
+	​
+
+",
+"
+𝑂
+2
+O
+2
+	​
+
+",
+"
+𝐶
+𝐻
+4
+CH
+4
+	​
+
+",
+"
+𝐴
+𝑟
+Ar
+"
+],
+"ans": 2,
+"explanation": "Methane (
+𝐶
+𝐻
+4
+CH
+4
+	​
+
+), along with 
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+ and water vapor, traps heat in the atmosphere, contributing to the greenhouse effect."
+},
+{
+"q": "The solubility of most solids in water _____ with an increase in temperature.",
+"opts": [
+"Decreases",
+"Increases",
+"Remains constant",
+"Becomes zero"
+],
+"ans": 1,
+"explanation": "Increasing temperature usually provides more energy to break the lattice structure of the solid, thus increasing solubility."
+},
+{
+"q": "What is the concentration in 
+𝑔
+/
+𝑑
+𝑚
+3
+g/dm
+3
+ of a 
+0.5
+𝑚
+𝑜
+𝑙
+/
+𝑑
+𝑚
+3
+0.5mol/dm
+3
+ solution of 
+𝐾
+𝑂
+𝐻
+KOH
+? (
+𝐾
+=
+39
+,
+𝑂
+=
+16
+,
+𝐻
+=
+1
+K=39,O=16,H=1
+)",
+"opts": [
+"28 
+𝑔
+/
+𝑑
+𝑚
+3
+g/dm
+3
+",
+"56 
+𝑔
+/
+𝑑
+𝑚
+3
+g/dm
+3
+",
+"14 
+𝑔
+/
+𝑑
+𝑚
+3
+g/dm
+3
+",
+"40 
+𝑔
+/
+𝑑
+𝑚
+3
+g/dm
+3
+"
+],
+"ans": 0,
+"explanation": "Molar mass of 
+𝐾
+𝑂
+𝐻
+=
+39
++
+16
++
+1
+=
+56
+𝑔
+/
+𝑚
+𝑜
+𝑙
+KOH=39+16+1=56g/mol
+. Concentration (
+𝑔
+/
+𝑑
+𝑚
+3
+g/dm
+3
+) 
+=
+𝑀
+𝑜
+𝑙
+𝑎
+𝑟
+𝑖
+𝑡
+𝑦
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑀
+𝑜
+𝑙
+𝑎
+𝑟
+𝑚
+𝑎
+𝑠
+𝑠
+=
+0.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+56
+=
+28
+𝑔
+/
+𝑑
+𝑚
+3
+=Molarity
+timesMolarmass=0.5
+times56=28g/dm
+3
+."
+},
+{
+"q": "Which of the following is the most reactive halogen?",
+"opts": [
+"Iodine",
+"Bromine",
+"Chlorine",
+"Fluorine"
+],
+"ans": 3,
+"explanation": "Reactivity of halogens decreases down the group. Fluorine is at the top and is the most reactive due to its high electron affinity."
+},
+{
+"q": "The product of the reaction between an alkanoic acid and an alkanol is called an _____.",
+"opts": [
+"Ether",
+"Ester",
+"Alkanal",
+"Amide"
+],
+"ans": 1,
+"explanation": "This reaction is known as esterification, where an alkanoic acid and alkanol react (in the presence of an acid catalyst) to produce an ester and water."
+},
+{
+"q": "The radioactive decay of an atom that results in the emission of an alpha particle reduces the mass number by _____.",
+"opts": [
+"1",
+"2",
+"4",
+"0"
+],
+"ans": 2,
+"explanation": "An alpha particle is a helium nucleus (
+2
+4
+𝐻
+𝑒
+2
+4
+	​
+
+He
+). Emission reduces the mass number by 4 and the atomic number by 2."
+},
+{
+"q": "Which of the following is used in the bleaching of wood pulp?",
+"opts": [
+"
+𝐻
+2
+𝑆
+H
+2
+	​
+
+S
+",
+"
+𝑆
+𝑂
+2
+SO
+2
+	​
+
+",
+"
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+",
+"
+𝑁
+𝐻
+3
+NH
+3
+	​
+
+"
+],
+"ans": 1,
+"explanation": "Sulphur (IV) oxide (
+𝑆
+𝑂
+2
+SO
+2
+	​
+
+) is a bleaching agent, particularly for delicate materials like wood pulp, wool, and silk, through reduction."
+},
+{
+"q": "What volume of oxygen is required for the complete combustion of 
+10
+𝑐
+𝑚
+3
+10cm
+3
+ of ethene (
+𝐶
+2
+𝐻
+4
+C
+2
+	​
+
+H
+4
+	​
+
+)?",
+"opts": [
+"
+10
+𝑐
+𝑚
+3
+10cm
+3
+",
+"
+20
+𝑐
+𝑚
+3
+20cm
+3
+",
+"
+30
+𝑐
+𝑚
+3
+30cm
+3
+",
+"
+40
+𝑐
+𝑚
+3
+40cm
+3
+"
+],
+"ans": 2,
+"explanation": "Equation: 
+𝐶
+2
+𝐻
+4
++
+3
+𝑂
+2
+𝑟
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+𝐶
+𝑂
+2
++
+2
+𝐻
+2
+𝑂
+C
+2
+	​
+
+H
+4
+	​
+
++3O
+2
+	​
+
+rightarrow2CO
+2
+	​
+
++2H
+2
+	​
+
+O
+. From Gay-Lussac's law, 1 volume of ethene requires 3 volumes of oxygen. 
+10
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+=
+30
+𝑐
+𝑚
+3
+10
+times3=30cm
+3
+."
+},
+{
+"q": "The hardest known substance is _____.",
+"opts": [
+"Graphite",
+"Quartz",
+"Diamond",
+"Iron"
+],
+"ans": 2,
+"explanation": "Diamond is an allotrope of carbon where each atom is tetrahedrally bonded to four others by strong covalent bonds, making it extremely hard."
+},
+{
+"q": "Which of the following is a primary cell?",
+"opts": [
+"Lead-acid accumulator",
+"Leclanché cell",
+"Nickel-iron cell",
+"Lithium-ion battery"
+],
+"ans": 1,
+"explanation": "A primary cell is one that cannot be recharged once the chemicals are exhausted. The dry Leclanché cell is a common example."
+},
+{
+"q": "The electronic configuration of an element is 
+2
+,
+8
+,
+6
+2,8,6
+. This element belongs to group _____.",
+"opts": [
+"2",
+"4",
+"6",
+"8"
+],
+"ans": 2,
+"explanation": "The number of electrons in the outermost shell determines the group number in the periodic table (for main group elements)."
+},
+{
+"q": "Which of the following is a common property of acids?",
+"opts": [
+"They have a bitter taste",
+"They feel soapy",
+"They turn red litmus paper blue",
+"They react with carbonates to liberate 
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+"
+],
+"ans": 3,
+"explanation": "Acids react with carbonates and hydrogen carbonates to produce a salt, water, and carbon (IV) oxide gas."
+},
+{
+"q": "The main constituent of natural gas is _____.",
+"opts": [
+"Ethane",
+"Methane",
+"Propane",
+"Butane"
+],
+"ans": 1,
+"explanation": "Natural gas consists primarily of methane (usually over 90%), with smaller amounts of other hydrocarbons."
+},
+{
+"q": "The maximum number of electrons that can occupy the third shell (
+𝑀
+M
+ shell) of an atom is _____.",
+"opts": [
+"2",
+"8",
+"18",
+"32"
+],
+"ans": 2,
+"explanation": "Using the 
+2
+𝑛
+2
+2n
+2
+ rule, for the 3rd shell (
+𝑛
+=
+3
+n=3
+), max electrons 
+=
+2
+(
+3
+2
+)
+=
+18
+=2(3
+2
+)=18
+."
+},
+{
+"q": "Which of the following processes is used to separate a mixture of iodine and sand?",
+"opts": [
+"Filtration",
+"Evaporation",
+"Sublimation",
+"Crystallization"
+],
+"ans": 2,
+"explanation": "Iodine sublimes (changes from solid to gas) when heated, while sand does not. The iodine vapor can be collected and cooled."
+},
+{
+"q": "The partial pressure of a gas in a mixture is equal to its _____.",
+"opts": [
+"Mole fraction 
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+times
+ Total pressure",
+"Mass fraction 
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+times
+ Total pressure",
+"Density 
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+times
+ Total pressure",
+"Volume 
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+times
+ Total pressure"
+],
+"ans": 0,
+"explanation": "Dalton's Law of Partial Pressures states that the pressure of an individual gas in a mixture is the product of its mole fraction and the total pressure."
+},
+{
+"q": "Which of the following compounds is a saturated hydrocarbon?",
+"opts": [
+"
+𝐶
+2
+𝐻
+2
+C
+2
+	​
+
+H
+2
+	​
+
+",
+"
+𝐶
+2
+𝐻
+4
+C
+2
+	​
+
+H
+4
+	​
+
+",
+"
+𝐶
+3
+𝐻
+8
+C
+3
+	​
+
+H
+8
+	​
+
+",
+"
+𝐶
+6
+𝐻
+6
+C
+6
+	​
+
+H
+6
+	​
+
+"
+],
+"ans": 2,
+"explanation": "Saturated hydrocarbons (alkanes) follow the formula 
+𝐶
+𝑛
+𝐻
+2
+𝑛
++
+2
+C
+n
+	​
+
+H
+2n+2
+	​
+
+. 
+𝐶
+3
+𝐻
+8
+C
+3
+	​
+
+H
+8
+	​
+
+ (Propane) fits this formula (
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
++
+2
+=
+8
+2
+times3+2=8
+)."
+},
+{
+"q": "The oxidation of ethanol with acidified 
+𝐾
+2
+𝐶
+𝑟
+2
+𝑂
+7
+K
+2
+	​
+
+Cr
+2
+	​
+
+O
+7
+	​
+
+ produces _____.",
+"opts": [
+"Ethane",
+"Ethanal",
+"Ethanoic acid",
+"Ethene"
+],
+"ans": 2,
+"explanation": "Ethanol is first oxidized to ethanal and then further to ethanoic acid when using a strong oxidizing agent like acidified potassium dichromate."
+},
+{
+"q": "Which of the following is a strong electrolyte?",
+"opts": [
+"Distilled water",
+"Ethanoic acid",
+"Sodium hydroxide solution",
+"Ammonia solution"
+],
+"ans": 2,
+"explanation": "
+𝑁
+𝑎
+𝑂
+𝐻
+NaOH
+ is a strong base that dissociates completely in water, providing a high concentration of ions to conduct electricity."
+},
+{
+"q": "The heat of neutralization of a strong acid and a strong base is approximately _____.",
+"opts": [
+"
+−
+13.7
+𝑘
+𝐽
+/
+𝑚
+𝑜
+𝑙
+−13.7kJ/mol
+",
+"
+−
+57.3
+𝑘
+𝐽
+/
+𝑚
+𝑜
+𝑙
+−57.3kJ/mol
+",
+"
+−
+100
+𝑘
+𝐽
+/
+𝑚
+𝑜
+𝑙
+−100kJ/mol
+",
+"
++
+57.3
+𝑘
+𝐽
+/
+𝑚
+𝑜
+𝑙
++57.3kJ/mol
+"
+],
+"ans": 1,
+"explanation": "For any strong acid and strong base, the reaction is essentially 
+𝐻
++
++
+𝑂
+𝐻
+−
+𝑟
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝐻
+2
+𝑂
+H
++
++OH
+−
+rightarrowH
+2
+	​
+
+O
+, which has a constant enthalpy change of 
+−
+57.3
+𝑘
+𝐽
+/
+𝑚
+𝑜
+𝑙
+−57.3kJ/mol
+."
+},
+{
+"q": "Which of the following is used as a food preservative?",
+"opts": [
+"Sodium chloride",
+"Ethanoic acid",
+"Sulphur (IV) oxide",
+"All of the above"
+],
+"ans": 3,
+"explanation": "Salt (
+𝑁
+𝑎
+𝐶
+𝑙
+NaCl
+), Vinegar (Ethanoic acid), and 
+𝑆
+𝑂
+2
+SO
+2
+	​
+
+ are all used to prevent microbial growth in food."
+},
+{
+"q": "The transition elements are characterized by _____.",
+"opts": [
+"Constant oxidation states",
+"Formation of white compounds only",
+"Variable oxidation states",
+"Having only one electron in the outer shell"
+],
+"ans": 2,
+"explanation": "Transition elements have partially filled d-orbitals, allowing them to lose different numbers of electrons and exhibit variable oxidation states (e.g., 
+𝐹
+𝑒
+2
++
+Fe
+2+
+ and 
+𝐹
+𝑒
+3
++
+Fe
+3+
+)."
+},
+{
+"q": "Which of the following gases is obtained by the action of dilute 
+𝐻
+𝐶
+𝑙
+HCl
+ on 
+𝑍
+𝑛
+Zn
+?",
+"opts": [
+"
+𝐶
+𝑙
+2
+Cl
+2
+	​
+
+",
+"
+𝐻
+2
+H
+2
+	​
+
+",
+"
+𝑂
+2
+O
+2
+	​
+
+",
+"
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+"
+],
+"ans": 1,
+"explanation": "Metals above hydrogen in the reactivity series displace hydrogen from dilute acids. 
+𝑍
+𝑛
++
+2
+𝐻
+𝐶
+𝑙
+𝑟
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑍
+𝑛
+𝐶
+𝑙
+2
++
+𝐻
+2
+Zn+2HCl
+rightarrowZnCl
+2
+	​
+
++H
+2
+	​
+
+."
+},
+{
+"q": "The formula of the precipitate formed when 
+𝐵
+𝑎
+𝐶
+𝑙
+2
+BaCl
+2
+	​
+
+ solution reacts with 
+𝑁
+𝑎
+2
+𝑆
+𝑂
+4
+Na
+2
+	​
+
+SO
+4
+	​
+
+ is _____.",
+"opts": [
+"
+𝐵
+𝑎
+𝑆
+𝑂
+4
+BaSO
+4
+	​
+
+",
+"
+𝑁
+𝑎
+𝐶
+𝑙
+NaCl
+",
+"
+𝐵
+𝑎
+𝑆
+𝑂
+3
+BaSO
+3
+	​
+
+",
+"
+𝑁
+𝑎
+2
+𝐶
+𝑙
+Na
+2
+	​
+
+Cl
+"
+],
+"ans": 0,
+"explanation": "This is a double decomposition reaction. Barium sulphate is insoluble and forms a white precipitate."
+},
+{
+"q": "Which of the following is a greenhouse gas that is also a product of incomplete combustion?",
+"opts": [
+"
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+",
+"
+𝐶
+𝑂
+CO
+",
+"
+𝑁
+𝑂
+2
+NO
+2
+	​
+
+",
+"
+𝑂
+3
+O
+3
+	​
+
+"
+],
+"ans": 1,
+"explanation": "Carbon (II) oxide (
+𝐶
+𝑂
+CO
+) is produced during incomplete combustion. While 
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+ is the primary greenhouse gas, 
+𝐶
+𝑂
+CO
+ is a toxic gas that can indirectly affect atmospheric chemistry."
+},
+{
+"q": "What is the concentration of 
+𝐻
++
+H
++
+ ions in a solution with a pH of 4?",
+"opts": [
+"
+10
+−
+4
+𝑚
+𝑜
+𝑙
+/
+𝑑
+𝑚
+3
+10
+−4
+mol/dm
+3
+",
+"
+4.0
+𝑚
+𝑜
+𝑙
+/
+𝑑
+𝑚
+3
+4.0mol/dm
+3
+",
+"
+10
+4
+𝑚
+𝑜
+𝑙
+/
+𝑑
+𝑚
+3
+10
+4
+mol/dm
+3
+",
+"
+0.4
+𝑚
+𝑜
+𝑙
+/
+𝑑
+𝑚
+3
+0.4mol/dm
+3
+"
+],
+"ans": 0,
+"explanation": "The pH is the negative log of the hydrogen ion concentration. 
+[
+𝐻
++
+]
+=
+10
+−
+𝑝
+𝐻
+=
+10
+−
+4
+[H
++
+]=10
+−pH
+=10
+−4
+."
+},
+{
+"q": "Which of the following is an example of an amphoteric oxide?",
+"opts": [
+"
+𝑁
+𝑎
+2
+𝑂
+Na
+2
+	​
+
+O
+",
+"
+𝑆
+𝑂
+3
+SO
+3
+	​
+
+",
+"
+𝐴
+𝑙
+2
+𝑂
+3
+Al
+2
+	​
+
+O
+3
+	​
+
+",
+"
+𝐶
+𝑎
+𝑂
+CaO
+"
+],
+"ans": 2,
+"explanation": "Amphoteric oxides like 
+𝐴
+𝑙
+2
+𝑂
+3
+Al
+2
+	​
+
+O
+3
+	​
+
+, 
+𝑍
+𝑛
+𝑂
+ZnO
+, and 
+𝑃
+𝑏
+𝑂
+PbO
+ can react with both acids and bases to form salts."
+},
+{
+"q": "The separation of a mixture of liquid oxygen and liquid nitrogen is based on the difference in their _____.",
+"opts": [
+"Densities",
+"Solubilities",
+"Boiling points",
+"Vapour pressures"
+],
+"ans": 2,
+"explanation": "Fractional distillation of liquid air works because Nitrogen boils at 
+ and Oxygen boils at 
+."
+},
+{
+"q": "Which of the following substances is used in the laboratory to dry ammonia gas?",
+"opts": [
+"Concentrated 
+𝐻
+2
+𝑆
+𝑂
+4
+H
+2
+	​
+
+SO
+4
+	​
+
+",
+"Anhydrous 
+𝐶
+𝑎
+𝐶
+𝑙
+2
+CaCl
+2
+	​
+
+",
+"Calcium oxide (Quicklime)",
+"
+𝑃
+2
+𝑂
+5
+P
+2
+	​
+
+O
+5
+	​
+
+"
+],
+"ans": 2,
+"explanation": "Ammonia is basic. 
+𝐻
+2
+𝑆
+𝑂
+4
+H
+2
+	​
+
+SO
+4
+	​
+
+, 
+𝐶
+𝑎
+𝐶
+𝑙
+2
+CaCl
+2
+	​
+
+, and 
+𝑃
+2
+𝑂
+5
+P
+2
+	​
+
+O
+5
+	​
+
+ would react with it. Calcium oxide is also basic and will not react with ammonia."
+},
+{
+"q": "A catalyst increases the rate of a chemical reaction by _____.",
+"opts": [
+"Increasing the temperature",
+"Lowering the activation energy",
+"Increasing the concentration of reactants",
+"Increasing the enthalpy change"
+],
+"ans": 1,
+"explanation": "A catalyst provides an alternative reaction pathway with a lower activation energy, allowing more reactant particles to have enough energy to react."
+},
+{
+"q": "Which of the following is a natural source of carbon?",
+"opts": [
+"Coal",
+"Diamond",
+"Graphite",
+"All of the above"
+],
+"ans": 3,
+"explanation": "Carbon occurs naturally in various forms including coal (impure), diamond, and graphite (allotropes)."
+},
+{
+"q": "The general formula for the Alkanol homologous series is _____.",
+"opts": [
+"
+𝐶
+𝑛
+𝐻
+2
+𝑛
++
+1
+𝐶
+𝐻
+𝑂
+C
+n
+	​
+
+H
+2n+1
+	​
+
+CHO
+",
+"
+𝐶
+𝑛
+𝐻
+2
+𝑛
++
+1
+𝑂
+𝐻
+C
+n
+	​
+
+H
+2n+1
+	​
+
+OH
+",
+"
+𝐶
+𝑛
+𝐻
+2
+𝑛
++
+1
+𝐶
+𝑂
+𝑂
+𝐻
+C
+n
+	​
+
+H
+2n+1
+	​
+
+COOH
+",
+"
+𝐶
+𝑛
+𝐻
+2
+𝑛
++
+2
+C
+n
+	​
+
+H
+2n+2
+	​
+
+"
+],
+"ans": 1,
+"explanation": "Alkanols consist of an alkyl group (
+𝐶
+𝑛
+𝐻
+2
+𝑛
++
+1
+C
+n
+	​
+
+H
+2n+1
+	​
+
+) attached to a hydroxyl (
+−
+𝑂
+𝐻
+−OH
+) functional group."
+},
+{
+"q": "Which of the following equations represents a redox reaction?",
+"opts": [
+"
+𝑁
+𝑎
+𝑂
+𝐻
++
+𝐻
+𝐶
+𝑙
+𝑟
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑁
+𝑎
+𝐶
+𝑙
++
+𝐻
+2
+𝑂
+NaOH+HCl
+rightarrowNaCl+H
+2
+	​
+
+O
+",
+"
+𝐵
+𝑎
+𝐶
+𝑙
+2
++
+𝐻
+2
+𝑆
+𝑂
+4
+𝑟
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝐵
+𝑎
+𝑆
+𝑂
+4
++
+2
+𝐻
+𝐶
+𝑙
+BaCl
+2
+	​
+
++H
+2
+	​
+
+SO
+4
+	​
+
+rightarrowBaSO
+4
+	​
+
++2HCl
+",
+"
+𝑍
+𝑛
++
+𝐶
+𝑢
+𝑆
+𝑂
+4
+𝑟
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑍
+𝑛
+𝑆
+𝑂
+4
++
+𝐶
+𝑢
+Zn+CuSO
+4
+	​
+
+rightarrowZnSO
+4
+	​
+
++Cu
+",
+"
+𝐶
+𝑎
+𝐶
+𝑂
+3
+𝑟
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝐶
+𝑎
+𝑂
++
+𝐶
+𝑂
+2
+CaCO
+3
+	​
+
+rightarrowCaO+CO
+2
+	​
+
+"
+],
+"ans": 2,
+"explanation": "In this displacement reaction, 
+𝑍
+𝑛
+Zn
+ is oxidized (0 to +2) and 
+𝐶
+𝑢
+Cu
+ is reduced (+2 to 0). The others are neutralization, precipitation, and decomposition reactions."
+},
+{
+"q": "The primary cause of the depletion of the ozone layer is the emission of _____.",
+"opts": [
+"
+𝐶
+𝑂
+2
+CO
+2
+	​
+
+",
+"Chlorofluorocarbons (CFCs)",
+"
+𝑆
+𝑂
+2
+SO
+2
+	​
+
+",
+"
+𝐶
+𝐻
+4
+CH
+4
+	​
+
+"
+],
+"ans": 1,
+"explanation": "CFCs release chlorine atoms when exposed to UV radiation in the stratosphere, which then catalyze the breakdown of ozone (
+𝑂
+3
+O
+3
+	​
+
+) into oxygen (
+𝑂
+2
+O
+2
+	​
+
+)."
+},
+{
+"q": "Which of the following is an addition polymer?",
+"opts": [
+"Nylon",
+"Terylene",
+"Polyethene",
+"Protein"
+],
+"ans": 2,
+"explanation": "Polyethene is formed by the addition of ethene monomers without the elimination of any small molecules."
+},
+{
+"q": "What is the volume of 
+2.0
+𝑔
+2.0g
+ of 
+𝐻
+2
+H
+2
+	​
+
+ at s.t.p.? (
+𝐻
+=
+1
+H=1
+, Molar volume at s.t.p. 
+=
+22.4
+𝑑
+𝑚
+3
+=22.4dm
+3
+)",
+"opts": [
+"
+11.2
+𝑑
+𝑚
+3
+11.2dm
+3
+",
+"
+22.4
+𝑑
+𝑚
+3
+22.4dm
+3
+",
+"
+44.8
+𝑑
+𝑚
+3
+44.8dm
+3
+",
+"
+2.24
+𝑑
+𝑚
+3
+2.24dm
+3
+"
+],
+"ans": 1,
+"explanation": "Molar mass of 
+𝐻
+2
+=
+2
+𝑔
+/
+𝑚
+𝑜
+𝑙
+H
+2
+	​
+
+=2g/mol
+. 
+2.0
+𝑔
+2.0g
+ is exactly 1 mole. 1 mole of any gas at s.t.p. occupies 
+22.4
+𝑑
+𝑚
+3
+22.4dm
+3
+."
+},
+{
+"q": "Which of the following is used in the vulcanization of rubber?",
+"opts": [
+"Sulphur",
+"Carbon",
+"Nitrogen",
+"Chlorine"
+],
+"ans": 0,
+"explanation": "Vulcanization involves heating raw rubber with sulphur to create cross-links between polymer chains, making it tougher and more elastic."
+},
+{
+"q": "The solubility of a salt is 
+0.5
+𝑚
+𝑜
+𝑙
+/
+𝑑
+𝑚
+3
+0.5mol/dm
+3
+ at 
+. Calculate the mass of the salt in 
+100
+𝑐
+𝑚
+3
+100cm
+3
+ of a saturated solution. (Molar mass of salt 
+=
+100
+𝑔
+/
+𝑚
+𝑜
+𝑙
+=100g/mol
+)",
+"opts": [
+"5.0 g",
+"50.0 g",
+"0.5 g",
+"10.0 g"
+],
+"ans": 0,
+"explanation": "
+𝑀
+𝑜
+𝑙
+𝑒
+𝑠
+=
+𝐶
+𝑜
+𝑛
+𝑐
+𝑒
+𝑛
+𝑡
+𝑟
+𝑎
+𝑡
+𝑖
+𝑜
+𝑛
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑉
+𝑜
+𝑙
+𝑢
+𝑚
+𝑒
+=
+0.5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+(
+100
+/
+1000
+)
+=
+0.05
+Moles=Concentration
+timesVolume=0.5
+times(100/1000)=0.05
+ moles. 
+𝑀
+𝑎
+𝑠
+𝑠
+=
+0.05
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+100
+=
+5.0
+𝑔
+Mass=0.05
+times100=5.0g
+."
+},
+{
+"q": "Which of the following is the most suitable method for collecting a gas that is denser than air and soluble in water?",
+"opts": [
+"Upward delivery",
+"Downward delivery",
+"Over water",
+"Downward displacement of water"
+],
+"ans": 1,
+"explanation": "Since the gas is soluble in water, it cannot be collected over water. Since it is denser than air, it will sink and displace air upwards, making downward delivery appropriate."
+}
+]
