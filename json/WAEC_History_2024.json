@@ -1,1 +1,422 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+{
+"q": "The Nok culture, discovered in central Nigeria, is famous for its early mastery of _____.",
+"opts": ["bronze casting", "iron smelting", "weaving", "gold mining"],
+"ans": 1,
+"explanation": "Nok culture is globally recognized for being one of the earliest West African societies to develop iron-smelting technology and terracotta sculptures around 1000 BC."
+},
+{
+"q": "In the pre-colonial Oyo Empire, the council of seven kingmakers was known as the _____.",
+"opts": ["Uzama", "Oyomesi", "Ogboni", "Ilari"],
+"ans": 1,
+"explanation": "The Oyomesi was a powerful council of seven chiefs led by the Bashorun, responsible for selecting the Alaafin and checking his powers."
+},
+{
+"q": "Which of the following was the primary commodity of the Trans-Saharan trade in the Sudanic region?",
+"opts": ["Pepper", "Salt", "Ivory", "Rubber"],
+"ans": 1,
+"explanation": "Salt was a crucial commodity brought from the Sahara (like Bilma and Taodeni) to the Sudan in exchange for gold."
+},
+{
+"q": "The leader of the 1804 Jihad in Hausaland was _____.",
+"opts": ["Shehu El-Kanemi", "Usman dan Fodio", "Nana Asma'u", "Sultan Bello"],
+"ans": 1,
+"explanation": "Usman dan Fodio, a Fulani scholar, launched the Jihad in 1804 to reform Islamic practice and overthrow the corrupt Hausa kings."
+},
+{
+"q": "The Benin Empire became world-famous for its artistic works made of _____.",
+"opts": ["Marble", "Terra-cotta", "Bronze", "Wood"],
+"ans": 2,
+"explanation": "The Benin bronzes (actually brass) were created using the 'lost-wax' casting method and represent high levels of pre-colonial craftsmanship."
+},
+{
+"q": "The first European power to establish a permanent presence on the Nigerian coast was _____.",
+"opts": ["Britain", "France", "The Netherlands", "Portugal"],
+"ans": 3,
+"explanation": "The Portuguese were the first Europeans to reach the Bights of Benin and Biafra in the late 15th century, establishing trade in ivory and slaves."
+},
+{
+"q": "The city of Timbuktu became a major center of Islamic learning under the _____ Empire.",
+"opts": ["Ghana", "Mali", "Asante", "Dahomey"],
+"ans": 1,
+"explanation": "During the reign of Mansa Musa in the Mali Empire, Timbuktu flourished as a center of scholarship, attracting students from across the Muslim world."
+},
+{
+"q": "The main reason for the British annexation of Lagos in 1861 was to _____.",
+"opts": ["promote Christianity", "establish a colony for freed slaves", "suppress the slave trade and protect palm oil trade", "fight the French"],
+"ans": 2,
+"explanation": "Britain annexed Lagos to effectively stop the trans-atlantic slave trade and secure the route for 'legitimate commerce' like palm oil."
+},
+{
+"q": "The Jukun kingdom of Kwararafa was most noted for its frequent military raids against _____.",
+"opts": ["The Oyo Empire", "The Hausa States", "Benin", "The Igbo"],
+"ans": 1,
+"explanation": "In the 16th and 17th centuries, the Kwararafa kingdom (Jukun) was a formidable power that frequently raided Hausa states like Kano and Katsina."
+},
+{
+"q": "The 'Long Juju' of Arochukwu served as _____ in the pre-colonial Eastern Nigeria.",
+"opts": ["a military fort", "a supreme judicial oracle", "a market square", "a training school for chiefs"],
+"ans": 1,
+"explanation": "The Long Juju (Ibini Ukpabi) oracle allowed the Aro people to dominate trade and settle disputes across Igboland and beyond."
+},
+{
+"q": "The Berlin Conference of 1884-1885 was significant because it _____.",
+"opts": ["ended the slave trade", "formally partitioned Africa among European powers", "declared war on Ethiopia", "granted independence to Liberia"],
+"ans": 1,
+"explanation": "The Berlin Conference, hosted by Bismarck, established the 'effective occupation' principle for the European scramble and partition of Africa."
+},
+{
+"q": "The Amalgamation of Northern and Southern Nigeria in 1914 was performed by _____.",
+"opts": ["Sir Hugh Clifford", "Lord Frederick Lugard", "Sir Arthur Richards", "John Macpherson"],
+"ans": 1,
+"explanation": "Lord Lugard merged the two protectorates into a single entity primarily for administrative convenience and financial reasons."
+},
+{
+"q": "The strategy of 'Indirect Rule' was most successful in the _____ of Nigeria.",
+"opts": ["Western Region", "Eastern Region", "Northern Region", "Delta Region"],
+"ans": 2,
+"explanation": "Indirect Rule worked best in the North because of the existing centralized political structure of the Sokoto Caliphate and the Emirate system."
+},
+{
+"q": "The first Nigerian political party, the NNDP, was founded in 1923 by _____.",
+"opts": ["Herbert Macaulay", "Nnamdi Azikiwe", "Obafemi Awolowo", "Ahmadu Bello"],
+"ans": 0,
+"explanation": "Herbert Macaulay, often called the 'Father of Nigerian Nationalism,' founded the Nigerian National Democratic Party to contest elections in Lagos."
+},
+{
+"q": "The 1929 Aba Women’s Riot was primarily caused by the _____.",
+"opts": ["arrest of King Jaja", "introduction of direct taxation on women", "abolition of slavery", "lack of schools"],
+"ans": 1,
+"explanation": "The riot (Ogu Umunwanyi) was a protest by Igbo women against the rumor that the colonial government intended to tax women."
+},
+{
+"q": "The Clifford Constitution of 1922 was notable for introducing the _____ in Nigeria.",
+"opts": ["federal system", "elective principle", "ministerial system", "unicameral legislature"],
+"ans": 1,
+"explanation": "For the first time in British West Africa, the Clifford Constitution allowed for the election of representatives into the Legislative Council."
+},
+{
+"q": "The Richards Constitution of 1946 was criticized by nationalists because it _____.",
+"opts": ["gave too much power to Azikiwe", "divided Nigeria into three regions without consultation", "abolished the office of the Governor", "moved the capital to Abuja"],
+"ans": 1,
+"explanation": "Nationalists felt the constitution was 'arbitrary' as it was drafted without consulting Nigerian leaders, although it introduced regionalism."
+},
+{
+"q": "The primary cause of the collapse of the Old Oyo Empire was _____.",
+"opts": ["the lack of a standing army", "internal power struggles and the revolt of Afonja", "the invasion by the British", "the lack of trade routes"],
+"ans": 1,
+"explanation": "Internal friction between the Alafin and the Oyomesi, coupled with the rebellion of Afonja in Ilorin, weakened the empire and led to its fall."
+},
+{
+"q": "King Jaja of Opobo was exiled to the West Indies in 1887 because he _____.",
+"opts": ["refused to pay taxes", "interfered with British trade in the hinterland", "murdered a British consul", "was a slave trader"],
+"ans": 1,
+"explanation": "Jaja was a threat to British economic interests in the Niger Delta as he insisted on his right to trade directly with European firms without middlemen."
+},
+{
+"q": "The Macpherson Constitution of 1951 is often described as _____.",
+"opts": ["unitary", "quasi-federal", "republican", "military-led"],
+"ans": 1,
+"explanation": "It was called quasi-federal because it provided for a central legislature and regional houses, but the center still held significant power over the regions."
+},
+{
+"q": "Nigeria became a Republic in the year _____.",
+"opts": ["1960", "1963", "1966", "1970"],
+"ans": 1,
+"explanation": "While independence was gained in 1960, Nigeria became a Federal Republic in 1963, replacing the Queen as Head of State with a President."
+},
+{
+"q": "The first military coup d'état in Nigeria occurred on _____.",
+"opts": ["January 15, 1966", "July 29, 1966", "July 29, 1975", "December 31, 1983"],
+"ans": 0,
+"explanation": "The January 1966 coup, led by Major Nzeogwu and others, ended the First Republic and resulted in the deaths of several top politicians."
+},
+{
+"q": "Which of the following bodies was formed in 1975 to promote economic integration in West Africa?",
+"opts": ["OAU", "ECOWAS", "NEPAD", "SADC"],
+"ans": 1,
+"explanation": "The Economic Community of West African States (ECOWAS) was established via the Treaty of Lagos to foster economic cooperation among member nations."
+},
+{
+"q": "The 'Warrant Chief' system was introduced by the British in _____.",
+"opts": ["The North", "The South-West", "The South-East", "Lagos Colony"],
+"ans": 2,
+"explanation": "Since the Igbo had an acephalous (decentralized) society, the British created 'Warrant Chiefs' to facilitate indirect rule, which led to significant local resentment."
+},
+{
+"q": "The legendary founder of the Kanem-Borno Empire was _____.",
+"opts": ["Idris Alooma", "Mai Dunama", "Sayf ibn Dhi Yazan", "El-Kanemi"],
+"ans": 2,
+"explanation": "Historical traditions attribute the founding of the Sefuwa dynasty in Kanem-Borno to the Yemeni hero Sayf ibn Dhi Yazan."
+},
+{
+"q": "Idris Alooma of Borno is remembered for his military reforms, which included the use of _____.",
+"opts": ["chariots", "Turkish musketeers", "war elephants", "naval ships"],
+"ans": 1,
+"explanation": "Idris Alooma imported firearms and trained musketeers from the Ottoman Empire, giving his army a superior advantage in the 16th century."
+},
+{
+"q": "The Sagrenti War of 1874 was fought between the British and the _____.",
+"opts": ["Oyo Empire", "Asante Kingdom", "Sokoto Caliphate", "Zulu Kingdom"],
+"ans": 1,
+"explanation": "The Sagrenti War (named after Garnet Wolseley) was one of the Anglo-Asante wars in present-day Ghana, resulting in the burning of Kumasi."
+},
+{
+"q": "The first indigenous Governor-General of Nigeria was _____.",
+"opts": ["Ahmadu Bello", "Nnamdi Azikiwe", "Obafemi Awolowo", "Abubakar Tafawa Balewa"],
+"ans": 1,
+"explanation": "Dr. Nnamdi Azikiwe took over from Sir James Robertson in 1960 as Governor-General, representing the Queen."
+},
+{
+"q": "Which conference finalizes the path to Nigeria's independence?",
+"opts": ["The Berlin Conference", "The London Constitutional Conferences", "The Casablanca Conference", "The Bandung Conference"],
+"ans": 1,
+"explanation": "The London conferences (1953, 1957, 1958) settled the issues of regionalism, the minority question, and the date for independence."
+},
+{
+"q": "The primary role of the 'Ogboni' society in many Yoruba kingdoms was _____.",
+"opts": ["military training", "trading and commerce", "checking the powers of the Alaafin and Oyomesi", "farming"],
+"ans": 2,
+"explanation": "The Ogboni was a secret cult of elders that played a judicial role and balanced the power between the Alafin and the executive chiefs."
+},
+{
+"q": "The 'Manila' was a form of _____ used in pre-colonial West African trade.",
+"opts": ["clothing", "currency", "weapon", "food"],
+"ans": 1,
+"explanation": "Manillas were C-shaped metal bracelets (usually copper or brass) that served as a dominant currency in the Bight of Benin and Biafra."
+},
+{
+"q": "The most significant consequence of the abolition of the Trans-Atlantic Slave Trade was the _____.",
+"opts": ["industrial revolution", "rise of 'legitimate' trade in palm oil", "end of wars in Africa", "colonization of Ethiopia"],
+"ans": 1,
+"explanation": "As the slave trade ended, West African economies shifted to exporting raw materials like palm oil, cocoa, and groundnuts to meet European industrial needs."
+},
+{
+"q": "The leader of the National Congress of British West Africa (NCBWA) was _____.",
+"opts": ["Casely Hayford", "Herbert Macaulay", "Blaise Diagne", "Edward Blyden"],
+"ans": 0,
+"explanation": "Casely Hayford of Ghana led the NCBWA, which pushed for reforms and greater participation of educated Africans in colonial government."
+},
+{
+"q": "The Lyttleton Constitution of 1954 is significant because it _____.",
+"opts": ["introduced the first prime minister", "formally established a federal system of government", "annexed Lagos to the West", "abolished the regions"],
+"ans": 1,
+"explanation": "The Lyttleton Constitution is regarded as the 'Federal Constitution' because it gave substantial autonomy to the regions and created a federal structure."
+},
+{
+"q": "The Royal Niger Company was granted a charter in 1886 to _____.",
+"opts": ["spread Christianity", "administer and trade in the Niger territories", "build railways", "stop the French in Dahomey"],
+"ans": 1,
+"explanation": "The charter gave George Goldie’s company the power to govern the Niger basin on behalf of Britain until it was revoked in 1900."
+},
+{
+"q": "The main objective of the 19th-century Christian missions in Nigeria was _____.",
+"opts": ["to support British military", "to evangelize and introduce 'civilization' through education", "to hunt for gold", "to build factories"],
+"ans": 1,
+"explanation": "Missionaries like the CMS and Hope Waddell aimed to convert Africans and promote western education as part of the 'Bible and Plough' policy."
+},
+{
+"q": "Who was the 'Black Prophet' that led the Sokoto Jihad against the Hausa rulers?",
+"opts": ["Usman dan Fodio", "Mohammed Bello", "Abdullahi dan Fodio", "Nana Asma'u"],
+"ans": 0,
+"explanation": "Usman dan Fodio is the central figure of the 1804 Jihad, though he was a scholar/reformer rather than a 'prophet' in the Islamic sense."
+},
+{
+"q": "The ancient city-state of Kano became the leading commercial center in Hausaland because of its _____.",
+"opts": ["gold mines", "leather and textile industries", "naval power", "ivory trade"],
+"ans": 1,
+"explanation": "Kano was famous for its 'Kano Cloth' and leather works, making it the 'metropolis of the Sudan' in the Trans-Saharan trade."
+},
+{
+"q": "The Fulani Empire was divided into two administrative sectors with headquarters at _____.",
+"opts": ["Kano and Katsina", "Sokoto and Gwandu", "Zaria and Bauchi", "Ilorin and Bida"],
+"ans": 1,
+"explanation": "Usman dan Fodio divided the administration between his son Mohammed Bello (Sokoto) and his brother Abdullahi (Gwandu)."
+},
+{
+"q": "The first Nigerian to be appointed a Bishop of the Anglican Church was _____.",
+"opts": ["Samuel Ajayi Crowther", "Henry Townsend", "Hope Waddell", "Thomas Bowen"],
+"ans": 0,
+"explanation": "Crowther, a former slave, was consecrated in 1864 as the first African Bishop of the Niger Territory."
+},
+{
+"q": "The major reason for the 'Scramble for Africa' by European powers was _____.",
+"opts": ["overpopulation in Europe", "economic need for markets and raw materials", "the desire to end tribal wars", "curiosity about African geography"],
+"ans": 1,
+"explanation": "The Industrial Revolution in Europe created a desperate need for secure sources of raw materials and markets for finished goods."
+},
+{
+"q": "The Indirect Rule system failed in Southeastern Nigeria primarily because _____.",
+"opts": ["the Igbo were too rebellious", "there were no centralized traditional rulers like Emirs", "the people were Christians", "the soil was poor"],
+"ans": 1,
+"explanation": "The decentralized nature of Igbo society (acephalous) meant that the British creation of 'Warrant Chiefs' was artificial and lacked traditional legitimacy."
+},
+{
+"q": "The 'Satiru Rebellion' of 1906 was a challenge against _____.",
+"opts": ["The Sokoto Caliphate", "British colonial rule in Northern Nigeria", "The French in Niger", "Usman dan Fodio"],
+"ans": 1,
+"explanation": "The Satiru uprising near Sokoto was a Mahdist-inspired revolt against the British occupation and their Fulani allies."
+},
+{
+"q": "The 'Willink Commission' of 1957 was set up to _____.",
+"opts": ["investigate the cause of the Aba riot", "address the fears of minority groups in Nigeria", "draft the independence constitution", "split the Northern region"],
+"ans": 1,
+"explanation": "The commission concluded that while minorities had genuine fears of domination by the majority tribes, new states should not be created before independence."
+},
+{
+"q": "Nigeria's first Prime Minister was _____.",
+"opts": ["Nnamdi Azikiwe", "Ahmadu Bello", "Abubakar Tafawa Balewa", "Obafemi Awolowo"],
+"ans": 2,
+"explanation": "Balewa, from the NPC, led the government at the center from 1957 until the 1966 coup."
+},
+{
+"q": "The 'Operation Wetie' in Western Nigeria (1965) was a period of _____.",
+"opts": ["agricultural boom", "political violence and arson", "massive rainfall", "religious revival"],
+"ans": 1,
+"explanation": "Following the rigged Western Region elections of 1965, widespread violence broke out where political opponents were doused in petrol and set ablaze."
+},
+{
+"q": "The Nigerian Civil War (1967–1970) was triggered by _____.",
+"opts": ["the discovery of oil", "the secession of the Eastern Region as 'Biafra'", "a religious dispute", "the invasion by Cameroon"],
+"ans": 1,
+"explanation": "General Odumegwu Ojukwu declared the Republic of Biafra in May 1967 following massacres of Igbos in the North and political instability."
+},
+{
+"q": "The OAU (Organization of African Unity) was founded in 1963 in _____.",
+"opts": ["Lagos", "Accra", "Addis Ababa", "Cairo"],
+"ans": 2,
+"explanation": "Ethiopia's capital became the permanent home of the OAU, which aimed to promote unity and end colonialism in Africa."
+},
+{
+"q": "The 'Apartheid' system in South Africa was officially dismantled in _____.",
+"opts": ["1960", "1976", "1990-1994", "2000"],
+"ans": 2,
+"explanation": "Following the release of Nelson Mandela and negotiations, the first multi-racial elections were held in 1994."
+},
+{
+"q": "The Trans-Saharan trade route connected West Africa primarily with _____.",
+"opts": ["North Africa and the Mediterranean", "The Americas", "India", "Western Europe"],
+"ans": 0,
+"explanation": "The routes across the desert linked West African kingdoms with North African cities like Fez, Tunis, and Cairo."
+},
+{
+"q": "The 'Golden Stool' is a sacred symbol of the _____.",
+"opts": ["Benin Empire", "Asante Kingdom", "Wolof Empire", "Oyo Empire"],
+"ans": 1,
+"explanation": "Legend says the Stool descended from the sky into the lap of Osei Tutu, symbolizing the unity and soul of the Asante nation."
+},
+{
+"q": "The principal architect of the Asante Empire was _____.",
+"opts": ["Osei Tutu", "Opoku Ware", "Prempeh I", "Yaa Asantewaa"],
+"ans": 0,
+"explanation": "Supported by the priest Okomfo Anokye, Osei Tutu unified the Asante clans into a powerful empire."
+},
+{
+"q": "The kingdom of Dahomey was known for its unique military unit of _____.",
+"opts": ["heavy cavalry", "female warriors (Amazons)", "mercenaries from Europe", "camels"],
+"ans": 1,
+"explanation": "Dahomey’s 'Mino' (our mothers) were an elite female military regiment that played a major role in its 18th and 19th-century wars."
+},
+{
+"q": "The 1851 bombardment of Lagos was carried out by the British to remove _____.",
+"opts": ["King Jaja", "Oba Kosoko", "Oba Akintoye", "Oba Overami"],
+"ans": 1,
+"explanation": "Kosoko supported the slave trade; the British ousted him and installed the pro-British Akintoye."
+},
+{
+"q": "The 'Nationalism' in Nigeria after World War II was intensified by _____.",
+"opts": ["the return of educated veterans and the Atlantic Charter", "the fall of the Berlin Wall", "the spread of Communism", "the discovery of iron ore"],
+"ans": 0,
+"explanation": "West African soldiers returned with global awareness, and the Atlantic Charter's promise of self-determination inspired the push for independence."
+},
+{
+"q": "The 'Aro' people dominated the slave trade in Eastern Nigeria by using the _____.",
+"opts": ["Royal Niger Company", "Ekpe Society and the Long Juju", "Hausa cavalry", "steamships"],
+"ans": 1,
+"explanation": "The Aro network leveraged their oracle and secret societies to control trade routes and supply slaves to the coast."
+},
+{
+"q": "The head of the government in the 1963 Constitution was the _____.",
+"opts": ["President", "Prime Minister", "Queen", "Supreme Court Justice"],
+"ans": 1,
+"explanation": "Although Nigeria became a republic, it retained the Westminster system where the President (Azikiwe) was a ceremonial head and the PM (Balewa) held executive power."
+},
+{
+"q": "The first capital of Nigeria was _____.",
+"opts": ["Abuja", "Calabar", "Lagos", "Lokoja"],
+"ans": 2,
+"explanation": "Lagos served as the seat of government from the colonial era until the capital was moved to Abuja in 1991."
+},
+{
+"q": "The 'Zikist Movement' was an auxiliary of the _____ party.",
+"opts": ["NPC", "AG", "NCNC", "NEPU"],
+"ans": 2,
+"explanation": "The Zikist Movement was the radical youth wing of the NCNC, advocating for 'militant' nationalism and the ideals of Nnamdi Azikiwe."
+},
+{
+"q": "Which empire was destroyed by the British Punitive Expedition of 1897?",
+"opts": ["Sokoto", "Benin", "Oyo", "Kanem-Borno"],
+"ans": 1,
+"explanation": "The expedition led to the capture of Oba Ovonramwen and the looting of the famous Benin Bronzes."
+},
+{
+"q": "The 'Bula Matari' (Breaker of Rocks) was the nickname given to _____.",
+"opts": ["Frederick Lugard", "Henry Morton Stanley", "Cecil Rhodes", "George Goldie"],
+"ans": 1,
+"explanation": "Stanley earned this name in the Congo for his use of force and road-building techniques during colonial exploration."
+},
+{
+"q": "The Jukun people established their capital at _____.",
+"opts": ["Wukari", "Ngazargamu", "Ile-Ife", "Kumbi Saleh"],
+"ans": 0,
+"explanation": "Wukari remains the spiritual and traditional headquarters of the Jukun (Kwararafa) kingdom."
+},
+{
+"q": "The 'Dahomey Gap' is a geographical feature that influenced _____.",
+"opts": ["the spread of Islam", "the isolation of the forest kingdoms", "the ease of movement for savannah armies", "the flow of the Nile"],
+"ans": 2,
+"explanation": "The gap in the West African forest allowed savannah states like Oyo to use cavalry closer to the coast than in other regions."
+},
+{
+"q": "The 19th-century Yoruba Civil Wars were largely caused by _____.",
+"opts": ["the collapse of Old Oyo and the struggle for power", "the invasion by the Portuguese", "the fight against Christianity", "boundary disputes with Benin"],
+"ans": 0,
+"explanation": "Following the fall of Oyo, city-states like Ibadan, Abeokuta, and Ijaye fought for over 50 years for dominance (e.g., the Kiriji War)."
+},
+{
+"q": "The Nigerian leader who introduced the 'Indigenization Decree' (1972) was _____.",
+"opts": ["Murtala Muhammed", "Yakubu Gowon", "Olusegun Obasanjo", "Shehu Shagari"],
+"ans": 1,
+"explanation": "General Gowon's decree aimed to give Nigerians greater control of the economy by restricting certain businesses to indigenous owners."
+},
+{
+"q": "Which country was the first in Sub-Saharan Africa to gain independence from colonial rule?",
+"opts": ["Nigeria", "Ghana", "Kenya", "Senegal"],
+"ans": 1,
+"explanation": "Under Kwame Nkrumah, Ghana (formerly the Gold Coast) gained independence from Britain in 1957."
+},
+{
+"q": "The 'Mancala' game and the decimal system in West Africa are often cited as evidence of _____.",
+"opts": ["European influence", "Indigenous mathematical and social complexity", "Arab conquest", "Alien intervention"],
+"ans": 1,
+"explanation": "Such cultural developments demonstrate that African societies had advanced social and mathematical systems long before outside contact."
+},
+{
+"q": "The first University College in Nigeria was established in 1948 at _____.",
+"opts": ["Lagos", "Nsukka", "Ibadan", "Zaria"],
+"ans": 2,
+"explanation": "The University College, Ibadan (initially affiliated with the University of London) was the premier higher education institution in Nigeria."
+},
+{
+"q": "The policy of 'Assimilation' was used in Africa by _____.",
+"opts": ["Britain", "France", "Portugal", "Germany"],
+"ans": 1,
+"explanation": "France initially sought to turn their African subjects into 'Black Frenchmen' by teaching them French language, culture, and law."
+},
+{
+"q": "The 'Treaty of Union' (1961) involving Nigeria, Ghana, and Guinea was an early attempt at _____.",
+"opts": ["Pan-Africanism", "Colonial defense", "Economic slavery", "Religious alliance"],
+"ans": 0,
+"explanation": "Leaders like Nkrumah and Azikiwe were strong proponents of Pan-Africanism, seeking to unite newly independent African states."
+}
+]
