@@ -5,18 +5,18 @@
 𝑟
 𝑎
 𝑐
-0.0028
+0.0032
 𝑡
 𝑖
 𝑚
 𝑒
 𝑠
-0.0084
-0.024
-frac0.0028times0.00840.024
+0.0081
+0.0024
+frac0.0032times0.00810.0024
  and express the answer in standard form.",
 "opts": ["
-9.8
+1.08
 𝑡
 𝑖
 𝑚
@@ -24,38 +24,12 @@ frac0.0028times0.00840.024
 𝑠
 10
 −
-4
-9.8
+2
+1.08
 times10
-−4
+−2
 ", "
-9.8
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-5
-9.8
-times10
-−5
-", "
-9.8
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-6
-9.8
-times10
-−6
-", "
-9.8
+1.08
 𝑡
 𝑖
 𝑚
@@ -64,30 +38,11 @@ times10
 10
 −
 3
-9.8
+1.08
 times10
 −3
-"],
-"ans": 0,
-"explanation": "First, multiply 
-0.0028
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-0.0084
-=
-0.00002352
-0.0028
-times0.0084=0.00002352
-. Then divide by 
-0.024
-=
-0.00098
-0.024=0.00098
-. In standard form, this is 
-9.8
+", "
+1.08
 𝑡
 𝑖
 𝑚
@@ -96,65 +51,475 @@ times0.0084=0.00002352
 10
 −
 4
-9.8
+1.08
 times10
 −4
+", "
+1.08
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+1
+1.08
+times10
+−1
+"],
+"ans": 0,
+"explanation": "Multiplying the numerators: 
+0.0032
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+0.0081
+=
+0.00002592
+0.0032
+times0.0081=0.00002592
+. Dividing this by 
+0.0024
+0.0024
+ gives 
+0.0108
+0.0108
+. In standard form, we move the decimal two places to the right, which gives 
+1.08
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+2
+1.08
+times10
+−2
 ."
 },
 {
 "q": "If 
-23
+1011
+2
++
 𝑥
+2
 =
-15
-10
-23
-x
+11101
+2
+1011
+2
 	​
 
-=15
-10
++x
+2
+	​
+
+=11101
+2
 	​
 
 , find the value of 
 𝑥
 x
 .",
-"opts": ["4", "5", "6", "7"],
-"ans": 2,
-"explanation": "Expanding 
-23
-𝑥
-23
-x
+"opts": ["
+10010
+2
+10010
+2
 	​
 
- in base 10: 
+", "
+10110
 2
-(
+10110
+2
+	​
+
+", "
+11010
+2
+11010
+2
+	​
+
+", "
+10001
+2
+10001
+2
+	​
+
+"],
+"ans": 0,
+"explanation": "To find 
 𝑥
-1
+x
+, subtract 
+1011
+2
+1011
+2
+	​
+
+ from 
+11101
+2
+11101
+2
+	​
+
+. 
+11101
+−
+1011
+=
+10010
+11101−1011=10010
+. Therefore, 
+𝑥
+=
+10010
+2
+x=10010
+2
+	​
+
+."
+},
+{
+"q": "Simplify 
+(
+𝑓
+𝑟
+𝑎
+𝑐
+1681
 )
-+
+−
 3
+/
+4
 (
-𝑥
-0
+frac1681)
+−3/4
+.",
+"opts": ["
+𝑓
+𝑟
+𝑎
+𝑐
+827
+frac827
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+278
+frac278
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+32
+frac32
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+23
+frac23
+"],
+"ans": 1,
+"explanation": "First, find the 4th root of 
+16
+/
+81
+16/81
+, which is 
+2
+/
+3
+2/3
+. Then cube it to get 
+8
+/
+27
+8/27
+. Finally, the negative exponent requires the reciprocal: 
+27
+/
+8
+27/8
+."
+},
+{
+"q": "Given that 
+𝑙
+𝑜
+𝑔
+10
+2
+=
+0.3010
+log
+10
+	​
+
+2=0.3010
+ and 
+𝑙
+𝑜
+𝑔
+10
+3
+=
+0.4771
+log
+10
+	​
+
+3=0.4771
+, evaluate 
+𝑙
+𝑜
+𝑔
+10
+18
+log
+10
+	​
+
+18
+.",
+"opts": ["1.2552", "0.7781", "1.0791", "1.1010"],
+"ans": 0,
+"explanation": "
+𝑙
+𝑜
+𝑔
+10
+18
+=
+𝑙
+𝑜
+𝑔
+10
+(
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+2
 )
 =
-15
-2(x
+𝑙
+𝑜
+𝑔
+10
+2
++
+2
+𝑙
+𝑜
+𝑔
+10
+3
+=
+0.3010
++
+2
+(
+0.4771
+)
+=
+0.3010
++
+0.9542
+=
+1.2552
+log
+10
+	​
+
+18=
+log
+10
+	​
+
+(2
+times3
+2
+)=
+log
+10
+	​
+
+2+2
+log
+10
+	​
+
+3=0.3010+2(0.4771)=0.3010+0.9542=1.2552
+."
+},
+{
+"q": "Solve for 
+𝑥
+x
+ if 
+3
+2
+𝑥
+−
 1
-)+3(x
-0
-)=15
+=
+27
+3
+2x−1
+=27
+.",
+"opts": ["1", "2", "3", "4"],
+"ans": 1,
+"explanation": "
+27
+=
+3
+3
+27=3
+3
 . So, 
+3
 2
+𝑥
+−
+1
+=
+3
+3
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+𝑥
+−
+1
+=
+3
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+𝑥
+=
+4
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+2
+3
+2x−1
+=3
+3
+Rightarrow2x−1=3
+Rightarrow2x=4
+Rightarrowx=2
+."
+},
+{
+"q": "Find the values of 
+𝑥
+x
+ for which 
+2
+𝑥
+2
+−
+5
 𝑥
 +
 3
 =
-15
+0
+2x
+2
+−5x+3=0
+.",
+"opts": ["
+1
+,
+1.5
+1,1.5
+", "
+−
+1
+,
+1.5
+−1,1.5
+", "
+1
+,
+−
+1.5
+1,−1.5
+", "
+−
+1
+,
+−
+1.5
+−1,−1.5
+"],
+"ans": 0,
+"explanation": "Using factorization: 
+2
+𝑥
+2
+−
+2
+𝑥
+−
+3
+𝑥
++
+3
+=
+0
 𝑅
 𝑖
 𝑔
@@ -167,8 +532,20 @@ x
 𝑤
 2
 𝑥
+(
+𝑥
+−
+1
+)
+−
+3
+(
+𝑥
+−
+1
+)
 =
-12
+0
 𝑅
 𝑖
 𝑔
@@ -179,12 +556,510 @@ x
 𝑟
 𝑜
 𝑤
+(
+2
+𝑥
+−
+3
+)
+(
+𝑥
+−
+1
+)
+=
+0
+2x
+2
+−2x−3x+3=0
+Rightarrow2x(x−1)−3(x−1)=0
+Rightarrow(2x−3)(x−1)=0
+. Roots are 
 𝑥
 =
+1.5
+x=1.5
+ or 
+𝑥
+=
+1
+x=1
+."
+},
+{
+"q": "If 
+𝑃
+=
+𝑥
+:
+1
+𝑙
+𝑒
+𝑞
+𝑥
+𝑙
+𝑒
+𝑞
+10
+,
+𝑥
+𝑖
+𝑛
+𝑡
+𝑒
+𝑥
+𝑡
+𝑖
+𝑛
+𝑡
+𝑒
+𝑔
+𝑒
+𝑟
+𝑠
+P=
+x:1leqxleq10,xintextintegers
+ and 
+𝑄
+=
+𝑥
+:
+𝑥
+𝑡
+𝑒
+𝑥
+𝑡
+𝑖
+𝑠
+𝑎
+𝑝
+𝑟
+𝑖
+𝑚
+𝑒
+𝑛
+𝑢
+𝑚
+𝑏
+𝑒
+𝑟
+Q=
+x:xtextisaprimenumber
+, find 
+𝑃
+𝑐
+𝑎
+𝑝
+𝑄
+P
+capQ
+.",
+"opts": ["
+2
+,
+3
+,
+5
+,
+7
+,
+9
+2,3,5,7,9
+", "
+1
+,
+2
+,
+3
+,
+5
+,
+7
+1,2,3,5,7
+", "
+2
+,
+3
+,
+5
+,
+7
+2,3,5,7
+", "
+3
+,
+5
+,
+7
+3,5,7
+"],
+"ans": 2,
+"explanation": "
+𝑃
+=
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
 6
-2x+3=15
-Rightarrow2x=12
-Rightarrowx=6
+,
+7
+,
+8
+,
+9
+,
+10
+P=
+1,2,3,4,5,6,7,8,9,10
+. Prime numbers in this set are 
+2
+,
+3
+,
+5
+,
+7
+2,3,5,7
+. Intersection is 
+2
+,
+3
+,
+5
+,
+7
+2,3,5,7
+."
+},
+{
+"q": "The sum of the interior angles of a regular polygon is 
+. Find the number of sides.",
+"opts": ["8", "10", "12", "14"],
+"ans": 1,
+"explanation": "
+(
+𝑛
+−
+2
+)
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+180
+=
+1440
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑛
+−
+2
+=
+1440
+/
+180
+=
+8
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑛
+=
+10
+(n−2)
+times180=1440
+Rightarrown−2=1440/180=8
+Rightarrown=10
+."
+},
+{
+"q": "A sector of a circle with radius 
+21
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+21
+textcm
+ has an angle of 
+. Calculate its arc length. [
+𝑝
+𝑖
+=
+22
+/
+7
+pi=22/7
+]",
+"opts": ["22 cm", "44 cm", "66 cm", "88 cm"],
+"ans": 1,
+"explanation": "
+𝐿
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+360
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+𝑝
+𝑖
+𝑟
+=
+𝑓
+𝑟
+𝑎
+𝑐
+120360
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑓
+𝑟
+𝑎
+𝑐
+227
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+21
+=
+𝑓
+𝑟
+𝑎
+𝑐
+13
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+44
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+=
+44
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+L=
+fractheta360
+times2
+pir=
+frac120360
+times2
+times
+frac227
+times21=
+frac13
+times44
+times3=44
+textcm
+."
+},
+{
+"q": "Calculate the simple interest on 
+#
+60
+,
+000
+#60,000
+ for 3 years at 
+8
+8
+ per annum.",
+"opts": ["
+", "
+", "
+", "
+"],
+"ans": 0,
+"explanation": "
+𝐼
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑃
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑅
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑇
+100
+=
+𝑓
+𝑟
+𝑎
+𝑐
+60000
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+8
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+100
+=
+600
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+24
+=
+14400
+I=
+fracPtimesRtimesT100=
+frac60000times8times3100=600
+times24=14400
+."
+},
+{
+"q": "If 
+𝑦
+y
+ varies inversely as 
+𝑥
+x
+ and 
+𝑦
+=
+5
+y=5
+ when 
+𝑥
+=
+4
+x=4
+, find 
+𝑦
+y
+ when 
+𝑥
+=
+10
+x=10
+.",
+"opts": ["2", "12.5", "20", "2.5"],
+"ans": 0,
+"explanation": "
+𝑦
+=
+𝑘
+/
+𝑥
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+5
+=
+𝑘
+/
+4
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑘
+=
+20
+y=k/x
+Rightarrow5=k/4
+Rightarrowk=20
+. When 
+𝑥
+=
+10
+,
+𝑦
+=
+20
+/
+10
+=
+2
+x=10,y=20/10=2
 ."
 },
 {
@@ -249,51 +1124,6 @@ sqrt3
 "],
 "ans": 0,
 "explanation": "
-𝑠
-𝑞
-𝑟
-𝑡
-75
-=
-5
-𝑠
-𝑞
-𝑟
-𝑡
-3
-sqrt75=5
-sqrt3
-, 
-𝑠
-𝑞
-𝑟
-𝑡
-12
-=
-2
-𝑠
-𝑞
-𝑟
-𝑡
-3
-sqrt12=2
-sqrt3
-, and 
-𝑠
-𝑞
-𝑟
-𝑡
-48
-=
-4
-𝑠
-𝑞
-𝑟
-𝑡
-3
-sqrt48=4
-sqrt3
-. Therefore, 
 5
 𝑠
 𝑞
@@ -329,709 +1159,91 @@ sqrt3
 ."
 },
 {
-"q": "Find the value of 
-𝑥
-x
- for which 
-(
-𝑓
-𝑟
-𝑎
-𝑐
-14
-)
-𝑥
-+
-1
-=
-64
-(
-frac14)
-x+1
-=64
-.",
-"opts": ["2", "-2", "4", "-4"],
-"ans": 3,
-"explanation": "Express both sides in base 4: 
-4
-−
-(
-𝑥
-+
-1
-)
-=
-4
-3
-4
-−(x+1)
-=4
-3
-. Equating exponents: 
-−
-𝑥
-−
-1
-=
-3
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-−
-𝑥
-=
-4
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑥
-=
-−
-4
-−x−1=3
-Rightarrow−x=4
-Rightarrowx=−4
-."
-},
-{
-"q": "Solve for 
-𝑥
-x
-: 
-𝑙
-𝑜
-𝑔
-𝑥
-0.0625
-=
-4
-log
-x
-	​
-
-0.0625=4
-.",
-"opts": ["0.5", "2", "4", "0.25"],
-"ans": 0,
-"explanation": "By definition, 
-𝑥
-4
-=
-0.0625
-x
-4
-=0.0625
-. Since 
-0.0625
-=
-(
-0.5
-)
-4
-0.0625=(0.5)
-4
-, then 
-𝑥
-=
-0.5
-x=0.5
-."
-},
-{
-"q": "Given that 
-𝑈
-=
-1
-,
-2
-,
-3
-,
-4
-,
-5
-,
-6
-,
-7
-,
-8
-,
-9
-,
-10
-U=
-1,2,3,4,5,6,7,8,9,10
-, 
-𝐴
-=
-2
-,
-4
-,
-6
-,
-8
-A=
-2,4,6,8
- and 
-𝐵
-=
-1
-,
-2
-,
-3
-,
-4
-,
-5
-B=
-1,2,3,4,5
-. Find 
-(
-𝐴
-𝑐
-𝑢
-𝑝
-𝐵
-)
-′
-(A
-cupB)
-′
-.",
-"opts": ["
-7
-,
-9
-,
-10
-7,9,10
-", "
-6
-,
-7
-,
-8
-,
-9
-,
-10
-6,7,8,9,10
-", "
-2
-,
-4
-2,4
-", "
-1
-,
-3
-,
-5
-1,3,5
-"],
-"ans": 0,
-"explanation": "
-𝐴
-𝑐
-𝑢
-𝑝
-𝐵
-=
-1
-,
-2
-,
-3
-,
-4
-,
-5
-,
-6
-,
-8
-A
-cupB=
-1,2,3,4,5,6,8
-. The complement 
-(
-𝐴
-𝑐
-𝑢
-𝑝
-𝐵
-)
-′
-(A
-cupB)
-′
- contains elements in 
-𝑈
-U
- not in 
-𝐴
-𝑐
-𝑢
-𝑝
-𝐵
-A
-cupB
-, which are 
-7
-,
-9
-,
-10
-7,9,10
-."
-},
-{
-"q": "Find the 
-𝑛
-𝑡
-ℎ
-n
-th
- term of the sequence 
-5
-,
-8
-,
-11
-,
-14
-,
-𝑑
-𝑜
-𝑡
-𝑠
-5,8,11,14,
-dots
-.",
-"opts": ["
-3
-𝑛
-+
-2
-3n+2
-", "
-3
-𝑛
-−
-2
-3n−2
-", "
-2
-𝑛
-+
-3
-2n+3
-", "
-5
-𝑛
-−
-2
-5n−2
-"],
-"ans": 0,
-"explanation": "This is an Arithmetic Progression with 
-𝑎
-=
-5
-a=5
- and 
-𝑑
-=
-3
-d=3
-. 
-𝑇
-𝑛
-=
-𝑎
-+
-(
-𝑛
-−
-1
-)
-𝑑
-=
-5
-+
-(
-𝑛
-−
-1
-)
-3
-=
-5
-+
-3
-𝑛
-−
-3
-=
-3
-𝑛
-+
-2
-T
-n
-	​
-
-=a+(n−1)d=5+(n−1)3=5+3n−3=3n+2
-."
-},
-{
-"q": "The sum of the interior angles of a regular polygon is 
-. Find the number of sides.",
-"opts": ["8", "10", "12", "14"],
-"ans": 1,
-"explanation": "Sum 
-. 
-1440
-=
-(
-𝑛
-−
-2
-)
-180
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-8
-=
-𝑛
-−
-2
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑛
-=
-10
-1440=(n−2)180
-Rightarrow8=n−2
-Rightarrown=10
-."
-},
-{
-"q": "If 
-𝑦
-y
- varies inversely as the square of 
-𝑥
-x
- and 
-𝑦
-=
-4
-y=4
- when 
-𝑥
-=
-3
-x=3
-, find 
-𝑦
-y
- when 
-𝑥
-=
-2
-x=2
-.",
-"opts": ["6", "9", "12", "15"],
-"ans": 1,
-"explanation": "
-𝑦
-=
-𝑘
-/
-𝑥
-2
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-4
-=
-𝑘
-/
-3
-2
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑘
-=
-36
-y=k/x
-2
-Rightarrow4=k/3
-2
-Rightarrowk=36
-. When 
-𝑥
-=
-2
-,
-𝑦
-=
-36
-/
-2
-2
-=
-36
-/
-4
-=
-9
-x=2,y=36/2
-2
-=36/4=9
-."
-},
-{
 "q": "Solve the inequality: 
-2
+3
 (
 𝑥
 −
-3
+2
 )
-𝑙
-𝑒
-𝑞
-4
-(
+<
+2
 𝑥
 +
-1
-)
-2(x−3)
-leq4(x+1)
+5
+3(x−2)<2x+5
 .",
 "opts": ["
 𝑥
-𝑔
-𝑒
-𝑞
-−
-5
-x
-geq−5
+<
+11
+x<11
 ", "
 𝑥
-𝑙
-𝑒
-𝑞
-−
-5
-x
-leq−5
+>
+11
+x>11
 ", "
 𝑥
-𝑔
-𝑒
-𝑞
-5
-x
-geq5
+<
+7
+x<7
 ", "
 𝑥
-𝑙
-𝑒
-𝑞
-5
-x
-leq5
+>
+7
+x>7
 "],
 "ans": 0,
 "explanation": "
-2
-𝑥
-−
-6
-𝑙
-𝑒
-𝑞
-4
-𝑥
-+
-4
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-−
-6
-−
-4
-𝑙
-𝑒
-𝑞
-4
-𝑥
-−
-2
-𝑥
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-−
-10
-𝑙
-𝑒
-𝑞
-2
-𝑥
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-−
-5
-𝑙
-𝑒
-𝑞
-𝑥
-2x−6
-leq4x+4
-Rightarrow−6−4
-leq4x−2x
-Rightarrow−10
-leq2x
-Rightarrow−5
-leqx
- or 
-𝑥
-𝑔
-𝑒
-𝑞
-−
-5
-x
-geq−5
-."
-},
-{
-"q": "Find the determinant of the matrix 
-.",
-"opts": ["14", "26", "22", "18"],
-"ans": 1,
-"explanation": "Det 
-(
-𝑀
-)
-=
-(
-4
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-5
-)
-−
-(
-−
-2
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
 3
-)
-=
-20
-−
-(
+𝑥
 −
 6
-)
-=
-20
+<
+2
+𝑥
++
+5
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+3
+𝑥
+−
+2
+𝑥
+<
+5
 +
 6
-=
-26
-(M)=(4
-times5)−(−2
-times3)=20−(−6)=20+6=26
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+<
+11
+3x−6<2x+5
+Rightarrow3x−2x<5+6
+Rightarrowx<11
 ."
 },
 {
-"q": "Factorize 
+"q": "Factorize completely: 
 3
 𝑥
 2
@@ -1043,7 +1255,7 @@ times3)=20−(−6)=20+6=26
 3x
 2
 −11x+6
- completely.",
+.",
 "opts": ["
 (
 3
@@ -1143,164 +1355,484 @@ times3)=20−(−6)=20+6=26
 ."
 },
 {
-"q": "Calculate the area of a sector of a circle with radius 
-7
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
+"q": "The gradient of the line passing through points 
+𝐴
+(
+2
+,
+3
+)
+A(2,3)
+ and 
+𝐵
+(
+5
+,
+9
+)
+B(5,9)
+ is _____.",
+"opts": ["2", "1.5", "3", "0.5"],
+"ans": 0,
+"explanation": "
 𝑚
-7
-textcm
- and angle 
-. [Take 
-𝑝
-𝑖
 =
 𝑓
 𝑟
 𝑎
 𝑐
-227
-pi=
-frac227
-]",
-"opts": ["
-25.67
-𝑡
-𝑒
+𝑦
+2
+−
+𝑦
+1
 𝑥
-𝑡
-𝑐
-𝑚
 2
-25.67
-textcm
-2
-", "
-22.33
-𝑡
-𝑒
+−
 𝑥
-𝑡
-𝑐
-𝑚
-2
-22.33
-textcm
-2
-", "
-12.83
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-2
-12.83
-textcm
-2
-", "
-51.33
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-2
-51.33
-textcm
-2
-"],
-"ans": 2,
-"explanation": "Area 
+1
 =
 𝑓
 𝑟
 𝑎
 𝑐
+9
+−
+3
+5
+−
+2
+=
+𝑓
+𝑟
+𝑎
+𝑐
+63
+=
+2
+m=
+fracy
+2
+	​
+
+−y
+1
+	​
+
+x
+2
+	​
+
+−x
+1
+	​
+
+=
+frac9−35−2=
+frac63=2
+."
+},
+{
+"q": "Find the 
+10
 𝑡
 ℎ
-𝑒
+10
+th
+ term of the Arithmetic Progression (A.P): 
+2
+,
+5
+,
+8
+,
+11
+,
+𝑑
+𝑜
 𝑡
+𝑠
+2,5,8,11,
+dots
+.",
+"opts": ["27", "29", "31", "33"],
+"ans": 1,
+"explanation": "
 𝑎
-360
+=
+2
+,
+𝑑
+=
+3.
+𝑇
+10
+=
+𝑎
++
+(
+𝑛
+−
+1
+)
+𝑑
+=
+2
++
+9
+(
+3
+)
+=
+29
+a=2,d=3.T
+10
+	​
+
+=a+(n−1)d=2+9(3)=29
+."
+},
+{
+"q": "Find the determinant of the matrix 
+.",
+"opts": ["10", "14", "11", "7"],
+"ans": 0,
+"explanation": "
+(
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+4
+)
+−
+(
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+1
+)
+=
+12
+−
+2
+=
+10
+(3
+times4)−(2
+times1)=12−2=10
+."
+},
+{
+"q": "What is the probability of picking a prime number from the set 
+1
+,
+2
+,
+3
+,
+𝑑
+𝑜
+𝑡
+𝑠
+,
+10
+1,2,3,dots,10
+?",
+"opts": ["0.4", "0.5", "0.3", "0.2"],
+"ans": 0,
+"explanation": "Primes are 
+2
+,
+3
+,
+5
+,
+7
+2,3,5,7
+. Probability 
+=
+4
+/
+10
+=
+0.4
+=4/10=0.4
+."
+},
+{
+"q": "Make 
+ℎ
+h
+ the subject of the formula: 
+𝑉
+=
+𝑓
+𝑟
+𝑎
+𝑐
+13
 𝑝
 𝑖
 𝑟
 2
-=
-𝑓
-𝑟
-𝑎
-𝑐
-60360
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑓
-𝑟
-𝑎
-𝑐
-227
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-7
-2
-=
-𝑓
-𝑟
-𝑎
-𝑐
-16
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-154
-=
-25.67
-/
-2
-=
-12.83
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-2
-=
-fractheta360
+ℎ
+V=
+frac13
 pir
 2
+h
+.",
+"opts": ["
+ℎ
 =
-frac60360
-times
-frac227
-times7
+𝑓
+𝑟
+𝑎
+𝑐
+𝑉
+3
+𝑝
+𝑖
+𝑟
 2
+h=
+fracV3pir
+2
+", "
+ℎ
 =
-frac16
-times154=25.67/2=12.83
-textcm
+𝑓
+𝑟
+𝑎
+𝑐
+3
+𝑉
+𝑝
+𝑖
+𝑟
+2
+h=
+frac3Vpir
+2
+", "
+ℎ
+=
+𝑠
+𝑞
+𝑟
+𝑡
+𝑓
+𝑟
+𝑎
+𝑐
+3
+𝑉
+𝑝
+𝑖
+𝑟
+h=
+sqrtfrac3Vpir
+", "
+ℎ
+=
+3
+𝑉
+𝑝
+𝑖
+𝑟
+2
+h=3V
+pir
+2
+"],
+"ans": 1,
+"explanation": "
+3
+𝑉
+=
+𝑝
+𝑖
+𝑟
+2
+ℎ
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+ℎ
+=
+𝑓
+𝑟
+𝑎
+𝑐
+3
+𝑉
+𝑝
+𝑖
+𝑟
+2
+3V=
+pir
+2
+h
+Rightarrowh=
+frac3Vpir
 2
 ."
 },
 {
-"q": "If 
-𝑡
+"q": "Rationalize the denominator: 
+𝑓
+𝑟
 𝑎
+𝑐
+2
+𝑠
+𝑞
+𝑟
+𝑡
+5
+−
+𝑠
+𝑞
+𝑟
+𝑡
+3
+frac2sqrt5−sqrt3
+.",
+"opts": ["
+𝑠
+𝑞
+𝑟
+𝑡
+5
++
+𝑠
+𝑞
+𝑟
+𝑡
+3
+sqrt5+
+sqrt3
+", "
+𝑠
+𝑞
+𝑟
+𝑡
+5
+−
+𝑠
+𝑞
+𝑟
+𝑡
+3
+sqrt5−
+sqrt3
+", "
+2
+(
+𝑠
+𝑞
+𝑟
+𝑡
+5
++
+𝑠
+𝑞
+𝑟
+𝑡
+3
+)
+2(
+sqrt5+
+sqrt3)
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+𝑠
+𝑞
+𝑟
+𝑡
+5
++
+𝑠
+𝑞
+𝑟
+𝑡
+3
+2
+fracsqrt5+sqrt32
+"],
+"ans": 0,
+"explanation": "Multiply by 
+𝑠
+𝑞
+𝑟
+𝑡
+5
++
+𝑠
+𝑞
+𝑟
+𝑡
+3
+sqrt5+
+sqrt3
+ over 
+𝑠
+𝑞
+𝑟
+𝑡
+5
++
+𝑠
+𝑞
+𝑟
+𝑡
+3
+sqrt5+
+sqrt3
+. Denominator becomes 
+5
+−
+3
+=
+2
+5−3=2
+. The 2s cancel out, leaving 
+𝑠
+𝑞
+𝑟
+𝑡
+5
++
+𝑠
+𝑞
+𝑟
+𝑡
+3
+sqrt5+
+sqrt3
+."
+},
+{
+"q": "If 
+𝑠
+𝑖
 𝑛
 𝑡
 ℎ
@@ -1312,10 +1844,10 @@ textcm
 𝑟
 𝑎
 𝑐
-512
-tan
+35
+sin
 theta=
-frac512
+frac35
  and 
 𝑡
 ℎ
@@ -1324,1046 +1856,230 @@ frac512
 𝑎
 theta
  is acute, find 
-𝑠
-𝑖
+𝑡
+𝑎
 𝑛
 𝑡
 ℎ
 𝑒
 𝑡
 𝑎
-sin
+tan
 theta
 .",
-"opts": ["
-𝑓
-𝑟
-𝑎
-𝑐
-513
-frac513
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-1213
-frac1213
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-135
-frac135
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-125
-frac125
-"],
-"ans": 0,
-"explanation": "Using Pythagoras: 
+"opts": ["0.8", "0.75", "1.33", "1.25"],
+"ans": 1,
+"explanation": "
 𝑂
 𝑝
 𝑝
 =
-5
+3
 ,
+𝐻
+𝑦
+𝑝
+=
+5
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
 𝐴
 𝑑
 𝑗
 =
-12
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝐻
-𝑦
-𝑝
-=
 𝑠
 𝑞
 𝑟
 𝑡
 5
 2
-+
-12
+−
+3
 2
 =
-13
-Opp=5,Adj=12
-RightarrowHyp=
+4.
+𝑡
+𝑎
+𝑛
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+3
+/
+4
+=
+0.75
+Opp=3,Hyp=5
+RightarrowAdj=
 sqrt5
 2
-+12
-2
-=13
-. 
-𝑠
-𝑖
-𝑛
-𝑡
-ℎ
-𝑒
-𝑡
-𝑎
-=
-𝑂
-𝑝
-𝑝
-/
-𝐻
-𝑦
-𝑝
-=
-5
-/
-13
-sin
-theta=Opp/Hyp=5/13
-."
-},
-{
-"q": "What is the mean of 2, 5, 8, 10, 12, 15, and 18?",
-"opts": ["10", "11", "12", "13"],
-"ans": 1,
-"explanation": "Sum 
-=
-2
-+
-5
-+
-8
-+
-10
-+
-12
-+
-15
-+
-18
-=
-80
-=2+5+8+10+12+15+18=80
-. Mean 
-=
-80
-/
-7
-𝑎
-𝑝
-𝑝
-𝑟
-𝑜
-𝑥
-11.4
-=80/7
-approx11.4
- (Correction: Sum is 80, 
-80
-/
-7
-=
-11.42
-80/7=11.42
-. Let's use 11 as nearest integer or recalculate sum: 
-70
-+
-10
-=
-80
-70+10=80
-.)"
-},
-{
-"q": "The probability that an event 
-𝐸
-E
- occurs is 
-0.15
-0.15
-. What is the probability that 
-𝐸
-E
- does not occur?",
-"opts": ["0.85", "0.75", "0.15", "0.25"],
-"ans": 0,
-"explanation": "
-𝑃
-(
-𝐸
-′
-)
-=
-1
-−
-𝑃
-(
-𝐸
-)
-=
-1
-−
-0.15
-=
-0.85
-P(E
-′
-)=1−P(E)=1−0.15=0.85
-."
-},
-{
-"q": "Make 
-𝑔
-g
- the subject of the formula 
-𝑇
-=
-2
-𝑝
-𝑖
-𝑠
-𝑞
-𝑟
-𝑡
-𝑓
-𝑟
-𝑎
-𝑐
-𝑙
-𝑔
-T=2
-pi
-sqrtfraclg
-.",
-"opts": ["
-𝑔
-=
-𝑓
-𝑟
-𝑎
-𝑐
-4
-𝑝
-𝑖
-2
-𝑙
-𝑇
-2
-g=
-frac4pi
-2
-lT
-2
-", "
-𝑔
-=
-𝑓
-𝑟
-𝑎
-𝑐
-𝑇
-2
-4
-𝑝
-𝑖
-2
-𝑙
-g=
-fracT
-2
-4pi
-2
-l
-", "
-𝑔
-=
-𝑠
-𝑞
-𝑟
-𝑡
-𝑓
-𝑟
-𝑎
-𝑐
-2
-𝑝
-𝑖
-𝑙
-𝑇
-g=
-sqrtfrac2pilT
-", "
-𝑔
-=
-4
-𝑝
-𝑖
-2
-𝑙
-𝑇
-2
-g=4
-pi
-2
-lT
-2
-"],
-"ans": 0,
-"explanation": "
-𝑇
-2
-=
-4
-𝑝
-𝑖
-2
-(
-𝑙
-/
-𝑔
-)
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑔
-𝑇
-2
-=
-4
-𝑝
-𝑖
-2
-𝑙
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑔
-=
-𝑓
-𝑟
-𝑎
-𝑐
-4
-𝑝
-𝑖
-2
-𝑙
-𝑇
-2
-T
-2
-=4
-pi
-2
-(l/g)
-RightarrowgT
-2
-=4
-pi
-2
-l
-Rightarrowg=
-frac4pi
-2
-lT
-2
-."
-},
-{
-"q": "Evaluate 
-𝑖
-𝑛
-𝑡
-1
-3
-(
-3
-𝑥
-2
-−
-2
-𝑥
-)
-𝑑
-𝑥
-int
-1
-3
-	​
-
-(3x
-2
-−2x)dx
-.",
-"opts": ["18", "20", "22", "24"],
-"ans": 0,
-"explanation": "Integration: 
-[
-𝑥
-3
-−
-𝑥
-2
-]
-1
-3
-=
-(
-3
-3
-−
-3
-2
-)
-−
-(
-1
-3
-−
-1
-2
-)
-=
-(
-27
-−
-9
-)
-−
-0
-=
-18
-[x
-3
-−x
-2
-]
-1
-3
-	​
-
-=(3
-3
 −3
 2
-)−(1
-3
-−1
-2
-)=(27−9)−0=18
+=4.
+tan
+theta=3/4=0.75
 ."
 },
 {
-"q": "The gradient of the line 
-2
-𝑦
-−
-4
-𝑥
-=
-7
-2y−4x=7
- is _____.",
-"opts": ["-2", "2", "4", "0.5"],
-"ans": 1,
-"explanation": "Rewrite as 
-2
-𝑦
-=
-4
-𝑥
-+
-7
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑦
-=
-2
-𝑥
-+
-3.5
-2y=4x+7
-Rightarrowy=2x+3.5
-. The coefficient of 
-𝑥
-x
- is 2."
-},
-{
-"q": "Find the sum of the first 20 terms of the progression: 
-3
-,
-6
-,
-9
-,
-12
-,
-𝑑
-𝑜
-𝑡
-𝑠
-3,6,9,12,
-dots
-.",
-"opts": ["600", "630", "660", "690"],
-"ans": 1,
-"explanation": "
-𝑆
-𝑛
-=
-𝑓
-𝑟
-𝑎
-𝑐
-𝑛
-2
-[
-2
-𝑎
-+
+"q": "Find the mid-point of the line joining 
+𝑃
 (
-𝑛
-−
 1
-)
-𝑑
-]
-=
-𝑓
-𝑟
-𝑎
-𝑐
-202
-[
+,
+−
 2
-(
-3
 )
-+
-19
-(
-3
-)
-]
-=
-10
-[
-6
-+
-57
-]
-=
-630
-S
-n
-	​
-
-=
-fracn2[2a+(n−1)d]=
-frac202[2(3)+19(3)]=10[6+57]=630
-."
-},
-{
-"q": "If 
-𝑙
-𝑜
-𝑔
-10
-2
-=
-0.3010
-log
-10
-	​
-
-2=0.3010
+P(1,−2)
  and 
-𝑙
-𝑜
-𝑔
-10
-3
-=
-0.4771
-log
-10
-	​
-
-3=0.4771
-, evaluate 
-𝑙
-𝑜
-𝑔
-10
-6
-log
-10
-	​
-
-6
-.",
-"opts": ["0.1761", "0.7781", "1.0791", "0.6020"],
-"ans": 1,
-"explanation": "
-𝑙
-𝑜
-𝑔
-6
-=
-𝑙
-𝑜
-𝑔
+𝑄
 (
-2
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-3
-)
-=
-𝑙
-𝑜
-𝑔
-2
-+
-𝑙
-𝑜
-𝑔
-3
-=
-0.3010
-+
-0.4771
-=
-0.7781
-log6=
-log(2
-times3)=
-log2+
-log3=0.3010+0.4771=0.7781
-."
-},
-{
-"q": "A fair die is rolled once. What is the probability of obtaining a number greater than 2?",
-"opts": ["
-𝑓
-𝑟
-𝑎
-𝑐
-13
-frac13
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-12
-frac12
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-23
-frac23
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-56
-frac56
-"],
-"ans": 2,
-"explanation": "Numbers greater than 2 are 
-3
-,
-4
-,
 5
 ,
 6
-3,4,5,6
-. Total outcomes 
-=
-6
-=6
-. Probability 
-=
-4
-/
-6
-=
-2
-/
+)
+Q(5,6)
+.",
+"opts": ["
+(
 3
-=4/6=2/3
-."
-},
-{
-"q": "In a class of 40 students, 25 offer Physics and 20 offer Chemistry. If 10 offer both, how many students offer neither?",
-"opts": ["5", "10", "15", "2"],
+,
+2
+)
+(3,2)
+", "
+(
+3
+,
+4
+)
+(3,4)
+", "
+(
+2
+,
+3
+)
+(2,3)
+", "
+(
+4
+,
+2
+)
+(4,2)
+"],
 "ans": 0,
 "explanation": "
-𝑛
 (
-𝑃
-𝑐
-𝑢
-𝑝
-𝐶
-)
-=
-𝑛
-(
-𝑃
-)
-+
-𝑛
-(
-𝐶
-)
-−
-𝑛
-(
-𝑃
-𝑐
-𝑎
-𝑝
-𝐶
-)
-=
-25
-+
-20
-−
-10
-=
-35
-n(P
-cupC)=n(P)+n(C)−n(P
-capC)=25+20−10=35
-. Neither 
-=
-40
-−
-35
-=
-5
-=40−35=5
-."
-},
-{
-"q": "Simplify 
 𝑓
 𝑟
 𝑎
 𝑐
-𝑥
-2
-−
-9
-2
-𝑥
-2
+1
 +
-𝑥
-−
-15
-fracx
+5
 2
-−92x
-2
-+x−15
-.",
-"opts": ["
+,
 𝑓
 𝑟
 𝑎
 𝑐
-𝑥
 −
-3
 2
-𝑥
-−
-5
-fracx−32x−5
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-𝑥
 +
-3
-2
-𝑥
-+
-5
-fracx+32x+5
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-𝑥
-−
-3
-2
-𝑥
-+
-5
-fracx−32x+5
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-𝑥
-+
-3
-2
-𝑥
-−
-5
-fracx+32x−5
-"],
-"ans": 2,
-"explanation": "Numerator: 
-(
-𝑥
-−
-3
-)
-(
-𝑥
-+
-3
-)
-(x−3)(x+3)
-. Denominator: 
-(
-2
-𝑥
-+
-5
-)
-(
-𝑥
-−
-3
-)
-(2x+5)(x−3)
-. Cancelling 
-(
-𝑥
-−
-3
-)
-(x−3)
- gives 
-𝑓
-𝑟
-𝑎
-𝑐
-𝑥
-+
-3
-2
-𝑥
-+
-5
-fracx+32x+5
- (Wait, check: 
-2
-𝑥
-2
-−
 6
-𝑥
-+
-5
-𝑥
-−
-15
-=
 2
-𝑥
-2
-−
-𝑥
-−
-15
-2x
-2
-−6x+5x−15=2x
-2
-−x−15
-. Actual denominator 
-2
-𝑥
-2
-+
-𝑥
-−
-15
+)
 =
 (
+3
+,
 2
-𝑥
-−
-5
 )
 (
-𝑥
-+
-3
-)
-2x
-2
-+x−15=(2x−5)(x+3)
-. Dividing gives 
-𝑓
-𝑟
-𝑎
-𝑐
-𝑥
-−
-3
-2
-𝑥
-−
-5
-fracx−32x−5
+frac1+52,
+frac−2+62)=(3,2)
 ."
 },
 {
-"q": "The bearing of 
-𝑋
-X
- from 
-𝑌
-Y
- is 
-. What is the bearing of 
-𝑌
-Y
- from 
-𝑋
-X
-?",
-"opts": ["
-", "
-", "
-", "
-"],
-"ans": 1,
-"explanation": "Back bearing 
-."
-},
-{
-"q": "The volume of a sphere is 
-38808
+"q": "Calculate the volume of a sphere of radius 
+7
 𝑡
 𝑒
 𝑥
 𝑡
 𝑐
 𝑚
-3
-38808
+7
 textcm
-3
-. Find its radius. [Take 
+. [
 𝑝
 𝑖
 =
-𝑓
-𝑟
-𝑎
-𝑐
-227
-pi=
-frac227
+22
+/
+7
+pi=22/7
 ]",
 "opts": ["
-21
+1437.33
 𝑡
 𝑒
 𝑥
 𝑡
 𝑐
 𝑚
-21
+3
+1437.33
 textcm
+3
 ", "
-14
+616
 𝑡
 𝑒
 𝑥
 𝑡
 𝑐
 𝑚
-14
+3
+616
 textcm
+3
 ", "
-7
+154
 𝑡
 𝑒
 𝑥
 𝑡
 𝑐
 𝑚
-7
+3
+154
 textcm
+3
 ", "
-28
+1078.00
 𝑡
 𝑒
 𝑥
 𝑡
 𝑐
 𝑚
-28
+3
+1078.00
 textcm
+3
 "],
 "ans": 0,
 "explanation": "
@@ -2378,12 +2094,6 @@ textcm
 𝑖
 𝑟
 3
-V=
-frac43
-pir
-3
-. 
-38808
 =
 𝑓
 𝑟
@@ -2405,489 +2115,32 @@ pir
 𝑚
 𝑒
 𝑠
-𝑟
-3
-𝑅
-𝑖
-𝑔
-ℎ
+7
 𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-38808
+𝑖
+𝑚
+𝑒
+𝑠
+7
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+7
 =
-𝑓
-𝑟
-𝑎
-𝑐
-8821
-𝑟
-3
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑟
+1437.33
+V=
+frac43
+pir
 3
 =
-9261
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑟
-=
-21
-38808=
 frac43
 times
 frac227
-timesr
-3
-Rightarrow38808=
-frac8821r
-3
-Rightarrowr
-3
-=9261
-Rightarrowr=21
-."
-},
-{
-"q": "Find the range of the distribution: 12, 17, 25, 11, 8, 30, 21.",
-"opts": ["22", "19", "25", "11"],
-"ans": 0,
-"explanation": "Range 
-=
-𝑡
-𝑒
-𝑥
-𝑡
-𝑀
-𝑎
-𝑥
-−
-𝑡
-𝑒
-𝑥
-𝑡
-𝑀
-𝑖
-𝑛
-=
-30
-−
-8
-=
-22
-=
-textMax−
-textMin=30−8=22
-."
-},
-{
-"q": "Calculate the simple interest on 
-#
-50
-,
-000
-#50,000
- for 4 years at 
-2
-𝑓
-𝑟
-𝑎
-𝑐
-12
-2
-frac12
- per annum.",
-"opts": ["
-", "
-", "
-", "
-"],
-"ans": 0,
-"explanation": "
-𝐼
-=
-𝑓
-𝑟
-𝑎
-𝑐
-𝑃
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑅
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑇
-100
-=
-𝑓
-𝑟
-𝑎
-𝑐
-50000
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-2.5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-4
-100
-=
-500
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-=
-5000
-I=
-fracPtimesRtimesT100=
-frac50000times2.5times4100=500
-times10=5000
-."
-},
-{
-"q": "If 
-𝑠
-𝑞
-𝑟
-𝑡
-𝑥
-2
-−
-16
-=
-3
-sqrtx
-2
-−16=3
-, find the positive value of 
-𝑥
-x
-.",
-"opts": ["5", "7", "25", "9"],
-"ans": 0,
-"explanation": "Squaring both sides: 
-𝑥
-2
-−
-16
-=
-9
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑥
-2
-=
-25
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑥
-=
-5
-x
-2
-−16=9
-Rightarrowx
-2
-=25
-Rightarrowx=5
-."
-},
-{
-"q": "A bag contains 6 red, 4 blue, and 2 green balls. If a ball is selected at random, what is the probability that it is blue or green?",
-"opts": ["
-𝑓
-𝑟
-𝑎
-𝑐
-12
-frac12
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-13
-frac13
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-16
-frac16
-", "
-𝑓
-𝑟
-𝑎
-𝑐
-23
-frac23
-"],
-"ans": 0,
-"explanation": "Total balls 
-=
-12
-=12
-. Blue 
-+
-+
- Green 
-=
-4
-+
-2
-=
-6
-=4+2=6
-. Probability 
-=
-6
-/
-12
-=
-1
-/
-2
-=6/12=1/2
-."
-},
-{
-"q": "The derivative of 
-𝑦
-=
-3
-𝑥
-4
-−
-5
-𝑥
-+
-2
-y=3x
-4
-−5x+2
- with respect to 
-𝑥
-x
- is _____.",
-"opts": ["
-12
-𝑥
-3
-−
-5
-12x
-3
-−5
-", "
-12
-𝑥
-3
-+
-2
-12x
-3
-+2
-", "
-12
-𝑥
-4
-−
-5
-12x
-4
-−5
-", "
-7
-𝑥
-3
-−
-5
-7x
-3
-−5
-"],
-"ans": 0,
-"explanation": "Using power rule: 
-𝑓
-𝑟
-𝑎
-𝑐
-𝑑
-𝑦
-𝑑
-𝑥
-=
-4
-(
-3
-)
-𝑥
-4
-−
-1
-−
-1
-(
-5
-)
-𝑥
-1
-−
-1
-+
-0
-=
-12
-𝑥
-3
-−
-5
-fracdydx=4(3)x
-4−1
-−1(5)x
-1−1
-+0=12x
-3
-−5
-."
-},
-{
-"q": "Find the third angle of a triangle if the other two are 
- and 
-.",
-"opts": ["
-", "
-", "
-", "
-"],
-"ans": 1,
-"explanation": "Sum of angles in a triangle 
-. 
-."
-},
-{
-"q": "Express 
-0.0000407
-0.0000407
- in standard form.",
-"opts": ["
-4.07
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-5
-4.07
-times10
-−5
-", "
-4.07
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-4
-4.07
-times10
-−4
-", "
-4.07
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-6
-4.07
-times10
-−6
-", "
-4.07
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-5
-4.07
-times10
-5
-"],
-"ans": 0,
-"explanation": "Move the decimal point 5 places to the right to get 4.07. Thus 
-4.07
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-5
-4.07
-times10
-−5
+times7
+times7
+times7=1437.33
 ."
 },
 {
@@ -2906,44 +2159,36 @@ times10
 x+y=10,x−y=2
 .",
 "opts": ["
-𝑥
-=
+(
 6
 ,
-𝑦
-=
 4
-x=6,y=4
+)
+(6,4)
 ", "
-𝑥
-=
+(
+4
+,
+6
+)
+(4,6)
+", "
+(
 5
 ,
-𝑦
-=
 5
-x=5,y=5
+)
+(5,5)
 ", "
-𝑥
-=
+(
 7
 ,
-𝑦
-=
 3
-x=7,y=3
-", "
-𝑥
-=
-8
-,
-𝑦
-=
-2
-x=8,y=2
+)
+(7,3)
 "],
 "ans": 0,
-"explanation": "Adding: 
+"explanation": "Adding both: 
 2
 𝑥
 =
@@ -2963,11 +2208,12 @@ x=8,y=2
 6
 2x=12
 Rightarrowx=6
-. Subtracting: 
-2
+. Then 
+6
++
 𝑦
 =
-8
+10
 𝑅
 𝑖
 𝑔
@@ -2981,2204 +2227,322 @@ Rightarrowx=6
 𝑦
 =
 4
-2y=8
+6+y=10
 Rightarrowy=4
 ."
 },
 {
-"q": "The exterior angle of a regular polygon is 
-. Find the number of sides.",
-"opts": ["6", "9", "12", "15"],
+"q": "The mean of five numbers is 12. If four of the numbers are 10, 15, 8, and 12, find the fifth number.",
+"opts": ["10", "15", "12", "18"],
 "ans": 1,
 "explanation": "
-𝑛
-=
-360
-/
-𝑡
-𝑒
-𝑥
-𝑡
-𝐸
-𝑥
-𝑡
-𝑒
-𝑟
-𝑖
-𝑜
-𝑟
-𝑎
-𝑛
-𝑔
-𝑙
-𝑒
-=
-360
-/
-40
-=
-9
-n=360/
-textExteriorangle=360/40=9
-."
-},
-{
-"q": "Calculate the mean deviation of 3, 5, 8, 12.",
-"opts": ["2.5", "3.0", "3.5", "4.0"],
-"ans": 1,
-"explanation": "Mean 
-=
-28
-/
-4
-=
-7
-=28/4=7
-. Deviations: 
-∣
-3
-−
-7
-∣
-=
-4
-,
-∣
 5
-−
-7
-∣
-=
-2
-,
-∣
-8
-−
-7
-∣
-=
-1
-,
-∣
-12
-−
-7
-∣
-=
-5
-∣3−7∣=4,∣5−7∣=2,∣8−7∣=1,∣12−7∣=5
-. Sum 
-=
-12
-=12
-. Mean Dev 
-=
-12
-/
-4
-=
-3
-=12/4=3
-."
-},
-{
-"q": "A trader bought an item for 
-#
-800
-#800
- and sold it for 
-#
-1
-,
-000
-#1,000
-. Calculate the percentage profit.",
-"opts": ["
-20
-20
-", "
-25
-25
-", "
-15
-15
-", "
-30
-30
-"],
-"ans": 1,
-"explanation": "Profit 
-=
-200
-=200
-. 
-%
-%
- Profit 
-=
-(
-200
-/
-800
-)
 𝑡
 𝑖
 𝑚
 𝑒
 𝑠
-100
-=
-25
-=(200/800)
-times100=25
-."
-},
-{
-"q": "Find the equation of the line passing through 
-(
-2
-,
-3
-)
-(2,3)
- with gradient 4.",
-"opts": ["
-𝑦
-=
-4
-𝑥
-−
-5
-y=4x−5
-", "
-𝑦
-=
-4
-𝑥
-+
-5
-y=4x+5
-", "
-𝑦
-=
-4
-𝑥
-+
-3
-y=4x+3
-", "
-𝑦
-=
-4
-𝑥
-−
-2
-y=4x−2
-"],
-"ans": 0,
-"explanation": "
-𝑦
-−
-3
-=
-4
-(
-𝑥
-−
-2
-)
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑦
-−
-3
-=
-4
-𝑥
-−
-8
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑦
-=
-4
-𝑥
-−
-5
-y−3=4(x−2)
-Rightarrowy−3=4x−8
-Rightarrowy=4x−5
-."
-},
-{
-"q": "A sector of a circle with radius 
 12
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-12
-textcm
- has an arc length of 
-4
-𝑝
-𝑖
-4
-pi
-. Find the angle of the sector.",
-"opts": ["
-", "
-", "
-", "
-"],
-"ans": 2,
-"explanation": "Arc length 
-𝐿
 =
-𝑓
-𝑟
-𝑎
-𝑐
-𝑡
-ℎ
-𝑒
-𝑡
-𝑎
-3602
-𝑝
-𝑖
-𝑟
-L=
-fractheta3602
-pir
-. 
-."
-},
-{
-"q": "If 
-𝑓
-(
-𝑥
-)
-=
-𝑥
-2
-−
-3
-𝑥
-+
-4
-f(x)=x
-2
-−3x+4
-, find 
-𝑓
-(
-−
-2
-)
-f(−2)
-.",
-"opts": ["6", "14", "10", "2"],
-"ans": 1,
-"explanation": "
-(
-−
-2
-)
-2
-−
-3
-(
-−
-2
-)
-+
-4
-=
-4
-+
-6
-+
-4
-=
-14
-(−2)
-2
-−3(−2)+4=4+6+4=14
-."
-},
-{
-"q": "What is the mode of the numbers 4, 7, 4, 8, 9, 4, 10, 7?",
-"opts": ["4", "7", "8", "9"],
-"ans": 0,
-"explanation": "The number 4 appears three times, more than any other number."
-},
-{
-"q": "Convert 
-10111
-2
-10111
-2
-	​
-
- to base 10.",
-"opts": ["21", "23", "25", "27"],
-"ans": 1,
-"explanation": "
-1
-(
-2
-4
-)
-+
-0
-(
-2
-3
-)
-+
-1
-(
-2
-2
-)
-+
-1
-(
-2
-1
-)
-+
-1
-(
-2
-0
-)
-=
-16
-+
-0
-+
-4
-+
-2
-+
-1
-=
-23
-1(2
-4
-)+0(2
-3
-)+1(2
-2
-)+1(2
-1
-)+1(2
-0
-)=16+0+4+2+1=23
-."
-},
-{
-"q": "If 
-𝑐
-𝑜
-𝑠
-𝑡
-ℎ
-𝑒
-𝑡
-𝑎
-=
-0.8
-cos
-theta=0.8
-, find 
-𝑠
-𝑖
-𝑛
-𝑡
-ℎ
-𝑒
-𝑡
-𝑎
-sin
-theta
-.",
-"opts": ["0.2", "0.6", "0.5", "0.4"],
-"ans": 1,
-"explanation": "
-𝑠
-𝑖
-𝑛
-2
-𝑡
-ℎ
-𝑒
-𝑡
-𝑎
-+
-𝑐
-𝑜
-𝑠
-2
-𝑡
-ℎ
-𝑒
-𝑡
-𝑎
-=
-1
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑠
-𝑖
-𝑛
-2
-𝑡
-ℎ
-𝑒
-𝑡
-𝑎
-=
-1
-−
-0.64
-=
-0.36
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑠
-𝑖
-𝑛
-𝑡
-ℎ
-𝑒
-𝑡
-𝑎
-=
-0.6
-sin
-2
-theta+
-cos
-2
-theta=1
-Rightarrow
-sin
-2
-theta=1−0.64=0.36
-Rightarrow
-sin
-theta=0.6
-."
-},
-{
-"q": "Simplify 
-(
-𝑥
-3
-)
-2
-𝑑
-𝑖
-𝑣
-𝑥
-4
-(x
-3
-)
-2
-divx
-4
-.",
-"opts": ["
-𝑥
-x
-", "
-𝑥
-2
-x
-2
-", "
-𝑥
-10
-x
-10
-", "
-𝑥
+60
 5
-x
-5
-"],
-"ans": 1,
-"explanation": "
-𝑥
-6
-𝑑
-𝑖
-𝑣
-𝑥
-4
+times12=60
+. Sum of 4 numbers 
 =
-𝑥
-6
+45.60
 −
-4
-=
-𝑥
-2
-x
-6
-divx
-4
-=x
-6−4
-=x
-2
-."
-},
-{
-"q": "The midpoint of the line joining 
-𝐴
-(
-1
-,
-2
-)
-A(1,2)
- and 
-𝐵
-(
-5
-,
-8
-)
-B(5,8)
- is _____.",
-"opts": ["
-(
-3
-,
-5
-)
-(3,5)
-", "
-(
-2
-,
-4
-)
-(2,4)
-", "
-(
-3
-,
-4
-)
-(3,4)
-", "
-(
-4
-,
-6
-)
-(4,6)
-"],
-"ans": 0,
-"explanation": "
-𝑀
-=
-(
-𝑓
-𝑟
-𝑎
-𝑐
-1
-+
-5
-2
-,
-𝑓
-𝑟
-𝑎
-𝑐
-2
-+
-8
-2
-)
-=
-(
-3
-,
-5
-)
-M=(
-frac1+52,
-frac2+82)=(3,5)
-."
-},
-{
-"q": "A sum of money doubles itself in 10 years at simple interest. Find the rate.",
-"opts": ["
-5
-5
-", "
-10
-10
-", "
-15
-15
-", "
-20
-20
-"],
-"ans": 1,
-"explanation": "
-𝐼
-=
-𝑃
-I=P
-. 
-𝑃
-=
-𝑓
-𝑟
-𝑎
-𝑐
-𝑃
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑅
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-100
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-1
-=
-𝑓
-𝑟
-𝑎
-𝑐
-10
-𝑅
-100
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑅
-=
-10
-P=
-fracPtimesRtimes10100
-Rightarrow1=
-frac10R100
-RightarrowR=10
-."
-},
-{
-"q": "If 
-𝑝
-p
- varies directly as 
-𝑞
-q
- and 
-𝑝
-=
-10
-p=10
- when 
-𝑞
-=
-2
-q=2
-, find 
-𝑝
-p
- when 
-𝑞
-=
-5
-q=5
-.",
-"opts": ["15", "20", "25", "30"],
-"ans": 2,
-"explanation": "
-𝑝
-=
-𝑘
-𝑞
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-10
-=
-𝑘
-(
-2
-)
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑘
-=
-5
-p=kq
-Rightarrow10=k(2)
-Rightarrowk=5
-. When 
-𝑞
-=
-5
-,
-𝑝
-=
-5
-(
-5
-)
-=
-25
-q=5,p=5(5)=25
-."
-},
-{
-"q": "Factorize 
-𝑥
-2
-−
-5
-𝑥
-−
-6
-x
-2
-−5x−6
- completely.",
-"opts": ["
-(
-𝑥
-−
-6
-)
-(
-𝑥
-+
-1
-)
-(x−6)(x+1)
-", "
-(
-𝑥
-+
-6
-)
-(
-𝑥
-−
-1
-)
-(x+6)(x−1)
-", "
-(
-𝑥
-−
-3
-)
-(
-𝑥
-−
-2
-)
-(x−3)(x−2)
-", "
-(
-𝑥
-−
-2
-)
-(
-𝑥
-−
-3
-)
-(x−2)(x−3)
-"],
-"ans": 0,
-"explanation": "Roots sum to 
-−
-5
-−5
- and product to 
-−
-6
-−6
-: 
-−
-6
-−6
- and 
-+
-1
-+1
- works. 
-(
-𝑥
-−
-6
-)
-(
-𝑥
-+
-1
-)
-(x−6)(x+1)
-."
-},
-{
-"q": "The sum of the first 
-𝑛
-n
- terms of a GP is given by 
-𝑆
-𝑛
-=
-3
-(
-2
-𝑛
-−
-1
-)
-S
-n
-	​
-
-=3(2
-n
-−1)
-. Find the 
-4
-𝑡
-ℎ
-4
-th
- term.",
-"opts": ["24", "45", "21", "12"],
-"ans": 0,
-"explanation": "
-𝑇
-4
-=
-𝑆
-4
-−
-𝑆
-3
-=
-3
-(
-2
-4
-−
-1
-)
-−
-3
-(
-2
-3
-−
-1
-)
-=
-3
-(
-15
-)
-−
-3
-(
-7
-)
-=
 45
-−
-21
 =
-24
-T
-4
-	​
-
-=S
-4
-	​
-
-−S
-3
-	​
-
-=3(2
-4
-−1)−3(2
-3
-−1)=3(15)−3(7)=45−21=24
-."
-},
-{
-"q": "Calculate the length of a diagonal of a square with area 
-50
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-2
-50
-textcm
-2
-.",
-"opts": ["
-5
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-5
-textcm
-", "
-10
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-10
-textcm
-", "
 15
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-15
-textcm
-", "
-20
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-20
-textcm
-"],
-"ans": 1,
-"explanation": "
-𝑠
-2
-=
-50
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑠
-=
-𝑠
-𝑞
-𝑟
-𝑡
-50
-s
-2
-=50
-Rightarrows=
-sqrt50
-. Diagonal 
-𝑑
-=
-𝑠
-𝑠
-𝑞
-𝑟
-𝑡
-2
-=
-𝑠
-𝑞
-𝑟
-𝑡
-50
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑠
-𝑞
-𝑟
-𝑡
-2
-=
-𝑠
-𝑞
-𝑟
-𝑡
-100
-=
-10
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-d=s
-sqrt2=
-sqrt50
-times
-sqrt2=
-sqrt100=10
-textcm
+=45.60−45=15
 ."
 },
 {
-"q": "Rationalize the denominator of 
-𝑓
-𝑟
-𝑎
-𝑐
-2
-𝑠
-𝑞
-𝑟
-𝑡
-3
-−
-1
-frac2sqrt3−1
+"q": "Find the bearing of 
+𝑃
+P
+ from 
+𝑄
+Q
+ if the bearing of 
+𝑄
+Q
+ from 
+𝑃
+P
+ is 
 .",
 "opts": ["
-𝑠
-𝑞
-𝑟
-𝑡
-3
-−
-1
-sqrt3−1
 ", "
-𝑠
-𝑞
-𝑟
-𝑡
-3
-+
-1
-sqrt3+1
 ", "
-2
-(
-𝑠
-𝑞
-𝑟
-𝑡
-3
-+
-1
-)
-2(
-sqrt3+1)
 ", "
-2
-(
-𝑠
-𝑞
-𝑟
-𝑡
-3
-−
-1
-)
-2(
-sqrt3−1)
 "],
-"ans": 1,
-"explanation": "Multiply by 
-𝑓
-𝑟
-𝑎
-𝑐
-𝑠
-𝑞
-𝑟
-𝑡
-3
-+
-1
-𝑠
-𝑞
-𝑟
-𝑡
-3
-+
-1
-fracsqrt3+1sqrt3+1
-: 
-𝑓
-𝑟
-𝑎
-𝑐
-2
-(
-𝑠
-𝑞
-𝑟
-𝑡
-3
-+
-1
-)
-3
-−
-1
-=
-𝑓
-𝑟
-𝑎
-𝑐
-2
-(
-𝑠
-𝑞
-𝑟
-𝑡
-3
-+
-1
-)
-2
-=
-𝑠
-𝑞
-𝑟
-𝑡
-3
-+
-1
-frac2(sqrt3+1)3−1=
-frac2(sqrt3+1)2=
-sqrt3+1
-."
-},
-{
-"q": "Find the median of 2, 8, 3, 9, 4, 11, 6.",
-"opts": ["4", "6", "8", "9"],
-"ans": 1,
-"explanation": "Ordered: 2, 3, 4, 6, 8, 9, 11. Middle term is 6."
-},
-{
-"q": "Find the value of 
-𝑥
-x
- if 
-𝑓
-𝑟
-𝑎
-𝑐
-𝑥
-3
-+
-𝑓
-𝑟
-𝑎
-𝑐
-12
-=
-𝑓
-𝑟
-𝑎
-𝑐
-56
-fracx3+
-frac12=
-frac56
-.",
-"opts": ["1", "2", "3", "4"],
-"ans": 0,
-"explanation": "Multiply by 6: 
-2
-𝑥
-+
-3
-=
-5
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-2
-𝑥
-=
-2
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑥
-=
-1
-2x+3=5
-Rightarrow2x=2
-Rightarrowx=1
-."
-},
-{
-"q": "The curved surface area of a cylinder is 
-440
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-2
-440
-textcm
-2
-. If the height is 
-10
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-10
-textcm
-, find the radius. [
-𝑝
-𝑖
-=
-𝑓
-𝑟
-𝑎
-𝑐
-227
-pi=
-frac227
-]",
-"opts": ["
-14
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-14
-textcm
-", "
-7
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-7
-textcm
-", "
-3.5
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-3.5
-textcm
-", "
-21
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-21
-textcm
-"],
-"ans": 1,
-"explanation": "
-2
-𝑝
-𝑖
-𝑟
-ℎ
-=
-440
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-2
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑓
-𝑟
-𝑎
-𝑐
-227
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑟
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-=
-440
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑓
-𝑟
-𝑎
-𝑐
-4407
-𝑟
-=
-440
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑟
-=
-7
-2
-pirh=440
-Rightarrow2
-times
-frac227
-timesr
-times10=440
-Rightarrow
-frac4407r=440
-Rightarrowr=7
-."
-},
-{
-"q": "Find the gradient of the curve 
-𝑦
-=
-𝑥
-2
-−
-3
-𝑥
-+
-1
-y=x
-2
-−3x+1
- at 
-𝑥
-=
-4
-x=4
-.",
-"opts": ["5", "3", "1", "4"],
-"ans": 0,
-"explanation": "
-𝑓
-𝑟
-𝑎
-𝑐
-𝑑
-𝑦
-𝑑
-𝑥
-=
-2
-𝑥
-−
-3
-fracdydx=2x−3
-. At 
-𝑥
-=
-4
-x=4
-, 
-2
-(
-4
-)
-−
-3
-=
-5
-2(4)−3=5
-."
-},
-{
-"q": "The sum to infinity of a GP is 8 and the first term is 4. Find the common ratio.",
-"opts": ["
-0.5
-0.5
-", "
-0.25
-0.25
-", "
-0.75
-0.75
-", "
-2
-2
-"],
-"ans": 0,
-"explanation": "
-."
-},
-{
-"q": "If 
-𝑥
-x
- is an integer such that 
-3
-<
-𝑥
-𝑙
-𝑒
-𝑞
-7
-3<x
-leq7
-, find the sum of the possible values of 
-𝑥
-x
-.",
-"opts": ["22", "18", "25", "15"],
-"ans": 0,
-"explanation": "
-𝑥
-=
-4
-,
-5
-,
-6
-,
-7
-x=
-4,5,6,7
-. Sum 
-=
-4
-+
-5
-+
-6
-+
-7
-=
-22
-=4+5+6+7=22
-."
-},
-{
-"q": "Calculate the distance between points 
-(
-1
-,
-2
-)
-(1,2)
- and 
-(
-4
-,
-6
-)
-(4,6)
-.",
-"opts": ["3", "4", "5", "6"],
 "ans": 2,
-"explanation": "
-𝑑
-=
-𝑠
-𝑞
-𝑟
-𝑡
-(
-4
-−
-1
-)
-2
-+
-(
-6
-−
-2
-)
-2
-=
-𝑠
-𝑞
-𝑟
-𝑡
-3
-2
-+
-4
-2
-=
-𝑠
-𝑞
-𝑟
-𝑡
-25
-=
-5
-d=
-sqrt(4−1)
-2
-+(6−2)
-2
-=
-sqrt3
-2
-+4
-2
-=
-sqrt25=5
-."
-},
-{
-"q": "What is the size of each interior angle of a regular hexagon?",
-"opts": ["
-", "
-", "
-", "
-"],
-"ans": 1,
-"explanation": "Hexagon has 6 sides. Interior angle 
+"explanation": "Back bearing 
 ."
 },
 {
 "q": "Evaluate 
-𝑙
-𝑜
-𝑔
+𝑖
+𝑛
+𝑡
+1
 2
-32
-−
-𝑙
-𝑜
-𝑔
-2
-4
-log
-2
-	​
-
-32−
-log
-2
-	​
-
-4
-.",
-"opts": ["3", "5", "8", "2"],
-"ans": 0,
-"explanation": "
-𝑙
-𝑜
-𝑔
-2
-32
-=
-5
-log
-2
-	​
-
-32=5
- and 
-𝑙
-𝑜
-𝑔
-2
-4
-=
-2
-log
-2
-	​
-
-4=2
-. 
-5
-−
-2
-=
+(
 3
-5−2=3
+𝑥
+2
++
+2
+)
+𝑑
+𝑥
+int
+1
+2
+	​
+
+(3x
+2
++2)dx
+.",
+"opts": ["7", "8", "10", "9"],
+"ans": 3,
+"explanation": "
+[
+𝑥
+3
++
+2
+𝑥
+]
+1
+2
+=
+(
+8
++
+4
+)
+−
+(
+1
++
+2
+)
+=
+12
+−
+3
+=
+9
+[x
+3
++2x]
+1
+2
+	​
+
+=(8+4)−(1+2)=12−3=9
 ."
 },
 {
-"q": "Find the volume of a cone with radius 
-3
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-3
-textcm
- and height 
-7
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-7
-textcm
-. [
-𝑝
-𝑖
+"q": "The derivative of 
+𝑦
 =
-𝑓
-𝑟
-𝑎
-𝑐
-227
-pi=
-frac227
-]",
+4
+𝑥
+3
+−
+2
+𝑥
++
+5
+y=4x
+3
+−2x+5
+ with respect to 
+𝑥
+x
+ is _____.",
 "opts": ["
-66
-𝑡
-𝑒
+12
 𝑥
-𝑡
-𝑐
-𝑚
-3
-66
-textcm
-3
+2
+−
+2
+12x
+2
+−2
 ", "
-22
-𝑡
-𝑒
+12
 𝑥
-𝑡
-𝑐
-𝑚
-3
-22
-textcm
-3
+2
++
+5
+12x
+2
++5
 ", "
-198
-𝑡
-𝑒
+7
 𝑥
-𝑡
-𝑐
-𝑚
-3
-198
-textcm
-3
+2
+−
+2
+7x
+2
+−2
 ", "
-44
-𝑡
-𝑒
+4
 𝑥
-𝑡
-𝑐
-𝑚
-3
-44
-textcm
-3
+2
+−
+2
+4x
+2
+−2
 "],
 "ans": 0,
 "explanation": "
-𝑉
+𝑑
+𝑦
+/
+𝑑
+𝑥
 =
-𝑓
-𝑟
-𝑎
-𝑐
-13
-𝑝
-𝑖
-𝑟
-2
-ℎ
-=
-𝑓
-𝑟
-𝑎
-𝑐
-13
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑓
-𝑟
-𝑎
-𝑐
-227
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
 3
+(
+4
+)
+𝑥
 2
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-7
+−
+2
+(
+1
+)
 =
-22
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-3
-=
-66
-V=
-frac13
-pir
+12
+𝑥
 2
-h=
-frac13
-times
-frac227
-times3
+−
 2
-times7=22
-times3=66
+dy/dx=3(4)x
+2
+−2(1)=12x
+2
+−2
 ."
 },
 {
-"q": "If 
+"q": "Find the median of the distribution: 4, 7, 8, 11, 15, 10, 6.",
+"opts": ["7", "8", "9", "10"],
+"ans": 1,
+"explanation": "Sorted: 4, 6, 7, 8, 10, 11, 15. The middle value is 8."
+},
+{
+"q": "Expand 
+(
 2
-𝑛
-=
-128
-2
-n
-=128
-, find 
-𝑛
-n
+𝑥
+−
+3
+)
+(
+𝑥
++
+4
+)
+(2x−3)(x+4)
 .",
-"opts": ["5", "6", "7", "8"],
-"ans": 2,
+"opts": ["
+2
+𝑥
+2
++
+5
+𝑥
+−
+12
+2x
+2
++5x−12
+", "
+2
+𝑥
+2
+−
+5
+𝑥
+−
+12
+2x
+2
+−5x−12
+", "
+2
+𝑥
+2
++
+11
+𝑥
+−
+12
+2x
+2
++11x−12
+", "
+2
+𝑥
+2
+−
+12
+2x
+2
+−12
+"],
+"ans": 0,
 "explanation": "
 2
-7
-=
-128
+𝑥
 2
-7
-=128
-, so 
-𝑛
++
+8
+𝑥
+−
+3
+𝑥
+−
+12
 =
-7
-n=7
+2
+𝑥
+2
++
+5
+𝑥
+−
+12
+2x
+2
++8x−3x−12=2x
+2
++5x−12
 ."
 },
 {
-"q": "Find the value of 
-𝑘
-k
- if 
+"q": "Calculate the area of a circle whose diameter is 
+14
+𝑡
+𝑒
 𝑥
-+
-2
-x+2
- is a factor of 
-𝑥
-3
-+
-𝑘
-𝑥
-2
-−
-𝑥
-+
-6
-x
-3
-+kx
-2
-−x+6
+𝑡
+𝑐
+𝑚
+14
+textcm
 .",
-"opts": ["1", "2", "-2", "-1"],
-"ans": 2,
-"explanation": "
-𝑃
-(
-−
-2
-)
-=
-0
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-(
-−
-2
-)
-3
-+
-𝑘
-(
-−
-2
-)
-2
-−
-(
-−
-2
-)
-+
-6
-=
-0
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-−
-8
-+
-4
-𝑘
-+
-2
-+
-6
-=
-0
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-4
-𝑘
-=
-0
-P(−2)=0
-Rightarrow(−2)
-3
-+k(−2)
-2
-−(−2)+6=0
-Rightarrow−8+4k+2+6=0
-Rightarrow4k=0
- (Correction: 
-−
-8
-+
-2
-+
-6
-=
-0
-−8+2+6=0
-, so 
-4
-𝑘
-=
-0
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑘
-=
-0
-4k=0
-Rightarrowk=0
-. Let's re-eval: 
-(
-−
-2
-)
-3
-+
-𝑘
-(
-−
-2
-)
-2
-−
-(
-−
-2
-)
-+
-6
-=
-−
-8
-+
-4
-𝑘
-+
-2
-+
-6
-=
-4
-𝑘
-(−2)
-3
-+k(−2)
-2
-−(−2)+6=−8+4k+2+6=4k
-. If 
-4
-𝑘
-=
-0
-,
-𝑘
-=
-0
-4k=0,k=0
-. But if 
-𝑘
-=
-−
-2
-k=−2
- in 
-𝑥
-3
-−
-2
-𝑥
-2
-−
-𝑥
-+
-6
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-−
-8
-−
-8
-+
-2
-+
-6
-=
-−
-8
-x
-3
-−2x
-2
-−x+6
-Rightarrow−8−8+2+6=−8
-. Correct 
-𝑘
-=
-−
-2
-k=−2
-.)"
-},
-{
-"q": "Find the area of a circle whose circumference is 
+"opts": ["
 44
 𝑡
 𝑒
@@ -5186,21 +2550,11 @@ k=−2
 𝑡
 𝑐
 𝑚
+2
 44
 textcm
-. [
-𝑝
-𝑖
-=
-𝑓
-𝑟
-𝑎
-𝑐
-227
-pi=
-frac227
-]",
-"opts": ["
+2
+", "
 154
 𝑡
 𝑒
@@ -5225,7 +2579,7 @@ textcm
 textcm
 2
 ", "
-44
+77
 𝑡
 𝑒
 𝑥
@@ -5233,47 +2587,19 @@ textcm
 𝑐
 𝑚
 2
-44
-textcm
-2
-", "
-196
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
-2
-196
+77
 textcm
 2
 "],
-"ans": 0,
+"ans": 1,
 "explanation": "
-2
-𝑝
-𝑖
 𝑟
 =
-44
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
+7.
+𝐴
+𝑟
+𝑒
 𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑟
-=
-7
-2
-pir=44
-Rightarrowr=7
-. Area 
 =
 𝑝
 𝑖
@@ -5293,7 +2619,7 @@ Rightarrowr=7
 49
 =
 154
-=
+r=7.Area=
 pir
 2
 =
@@ -5302,34 +2628,482 @@ times49=154
 ."
 },
 {
-"q": "In how many ways can the letters of the word 'BOOK' be arranged?",
-"opts": ["24", "12", "6", "4"],
+"q": "The 
+𝑛
+𝑡
+ℎ
+n
+th
+ term of a sequence is 
+𝑈
+𝑛
+=
+3
+𝑛
+−
+1
+U
+n
+	​
+
+=3n−1
+. Find the sum of the first three terms.",
+"opts": ["12", "15", "18", "21"],
 "ans": 1,
-"explanation": "Total letters 
+"explanation": "
+𝑈
+1
 =
-4
-=4
-, with 'O' repeating twice. Arrangements 
-=
-𝑓
-𝑟
-𝑎
-𝑐
-4
-!
 2
-!
+,
+𝑈
+2
 =
-𝑓
-𝑟
+5
+,
+𝑈
+3
+=
+8.2
++
+5
++
+8
+=
+15
+U
+1
+	​
+
+=2,U
+2
+	​
+
+=5,U
+3
+	​
+
+=8.2+5+8=15
+."
+},
+{
+"q": "If 
+4
+𝑥
+=
+0.25
+4
+x
+=0.25
+, find 
+𝑥
+x
+.",
+"opts": ["1", "0", "-1", "-2"],
+"ans": 2,
+"explanation": "
+4
+𝑥
+=
+1
+/
+4
+=
+4
+−
+1
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
 𝑎
-𝑐
-242
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+−
+1
+4
+x
+=1/4=4
+−1
+Rightarrowx=−1
+."
+},
+{
+"q": "A bag contains 5 red balls and 3 blue balls. If two balls are picked without replacement, find the probability that both are red.",
+"opts": ["
+5
+/
+14
+5/14
+", "
+25
+/
+64
+25/64
+", "
+5
+/
+28
+5/28
+", "0.25"],
+"ans": 0,
+"explanation": "
+𝑃
+(
+𝑅
+1
+)
+=
+5
+/
+8.
+𝑃
+(
+𝑅
+2
+)
+=
+4
+/
+7.5
+/
+8
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+4
+/
+7
+=
+20
+/
+56
+=
+5
+/
+14
+P(R
+1
+	​
+
+)=5/8.P(R
+2
+	​
+
+)=4/7.5/8
+times4/7=20/56=5/14
+."
+},
+{
+"q": "Express 
+0.0000457
+0.0000457
+ in standard form.",
+"opts": ["
+4.57
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+4
+4.57
+times10
+−4
+", "
+4.57
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+5
+4.57
+times10
+−5
+", "
+45.7
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+6
+45.7
+times10
+−6
+", "
+4.57
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+5
+4.57
+times10
+5
+"],
+"ans": 1,
+"explanation": "Move decimal 5 places to the right: 
+4.57
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+5
+4.57
+times10
+−5
+."
+},
+{
+"q": "The range of 12, 15, 8, 20, 10 is _____.",
+"opts": ["8", "12", "15", "20"],
+"ans": 1,
+"explanation": "
+20
+−
+8
 =
 12
+20−8=12
+."
+},
+{
+"q": "Calculate the value of 
+(
+0.01
+)
+−
+1
+/
+2
+(0.01)
+−1/2
+.",
+"opts": ["0.1", "10", "100", "1"],
+"ans": 1,
+"explanation": "
+(
+1
+/
+100
+)
+−
+1
+/
+2
 =
-frac4!2!=
-frac242=12
+(
+100
+)
+1
+/
+2
+=
+10
+(1/100)
+−1/2
+=(100)
+1/2
+=10
+."
+},
+{
+"q": "Find the sum of the first 20 even numbers.",
+"opts": ["400", "420", "440", "380"],
+"ans": 1,
+"explanation": "
+𝑎
+=
+2
+,
+𝑑
+=
+2
+,
+𝑛
+=
+20.
+𝑆
+20
+=
+𝑓
+𝑟
+𝑎
+𝑐
+202
+[
+2
+(
+2
+)
++
+19
+(
+2
+)
+]
+=
+10
+[
+4
++
+38
+]
+=
+420
+a=2,d=2,n=20.S
+20
+	​
+
+=
+frac202[2(2)+19(2)]=10[4+38]=420
+."
+},
+{
+"q": "A sector of a circle with radius 
+6
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+6
+textcm
+ has an angle of 
+. Find the area of the sector.",
+"opts": ["
+2
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+2
+pi
+textcm
+2
+", "
+6
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+6
+pi
+textcm
+2
+", "
+3
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+3
+pi
+textcm
+2
+", "
+12
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+12
+pi
+textcm
+2
+"],
+"ans": 1,
+"explanation": "Area 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+60360
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑝
+𝑖
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+6
+2
+=
+𝑓
+𝑟
+𝑎
+𝑐
+16
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+36
+𝑝
+𝑖
+=
+6
+𝑝
+𝑖
+=
+frac60360
+times
+pi
+times6
+2
+=
+frac16
+times36
+pi=6
+pi
 ."
 },
 {
@@ -5337,259 +3111,635 @@ frac242=12
 𝑥
 x
 : 
-𝑥
-2
-=
-𝑥
-x
-2
-=x
-.",
-"opts": ["
-𝑥
-=
-0
-,
-1
-x=0,1
-", "
-𝑥
-=
-1
-x=1
-", "
-𝑥
-=
-0
-x=0
-", "
-𝑥
-=
-−
-1
-,
-1
-x=−1,1
-"],
-"ans": 0,
-"explanation": "
-𝑥
-2
-−
-𝑥
-=
-0
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
+𝑓
+𝑟
 𝑎
-𝑟
-𝑟
-𝑜
-𝑤
+𝑐
 𝑥
-(
-𝑥
-−
-1
-)
-=
-0
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
+2
++
+𝑓
+𝑟
 𝑎
-𝑟
-𝑟
-𝑜
-𝑤
+𝑐
 𝑥
-=
-0
-x
-2
-−x=0
-Rightarrowx(x−1)=0
-Rightarrowx=0
- or 
-𝑥
-=
-1
-x=1
-."
-},
-{
-"q": "Find the variance of the numbers 2, 4, 6.",
-"opts": ["2.67", "3.0", "4.0", "1.5"],
-"ans": 0,
-"explanation": "Mean 
-=
-4
-=4
-. Deviations: 
-−
-2
-,
-0
-,
-2
-−2,0,2
-. Squared: 
-4
-,
-0
-,
-4
-4,0,4
-. Sum 
-=
-8
-=8
-. Variance 
-=
-8
-/
 3
+=
+5
+fracx2+
+fracx3=5
+.",
+"opts": ["1", "5", "6", "30"],
+"ans": 2,
+"explanation": "LCM is 6: 
+3
+𝑥
++
+2
+𝑥
+=
+30
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
 𝑎
-𝑝
-𝑝
+𝑟
 𝑟
 𝑜
+𝑤
+5
 𝑥
-2.67
-=8/3
-approx2.67
+=
+30
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+6
+3x+2x=30
+Rightarrow5x=30
+Rightarrowx=6
 ."
 },
 {
-"q": "What is the value of 
-?",
-"opts": ["
-0.5
-0.5
-", "
-1.0
-1.0
-", "
+"q": "What is the mode of 4, 3, 2, 4, 5, 4, 3, 2, 1?",
+"opts": ["2", "3", "4", "5"],
+"ans": 2,
+"explanation": "4 occurs three times, which is more than any other number."
+},
+{
+"q": "Evaluate 
+.",
+"opts": ["0", "1", "0.5", "
 𝑠
 𝑞
 𝑟
 𝑡
 3
-sqrt3
-", "
-2.0
-2.0
+/
+2
+sqrt3/2
 "],
 "ans": 1,
 "explanation": "
-𝑠
-𝑖
-𝑛
-30
-=
-0.5
-sin30=0.5
-, 
-𝑐
-𝑜
-𝑠
-60
-=
-0.5
-cos60=0.5
-. 
 0.5
 +
 0.5
 =
-1.0
-0.5+0.5=1.0
+1
+0.5+0.5=1
 ."
 },
 {
-"q": "If the scale of a map is 
+"q": "Find the sum to infinity of the G.P: 
+1
+,
+1
+/
+2
+,
+1
+/
+4
+,
+𝑑
+𝑜
+𝑡
+𝑠
+1,1/2,1/4,
+dots
+.",
+"opts": ["1.5", "2", "3", "Infinity"],
+"ans": 1,
+"explanation": "
+𝑎
+=
+1
+,
+𝑟
+=
+0.5.
+𝑆
+𝑖
+𝑛
+𝑓
+𝑡
+𝑦
+=
+1
+/
+(
+1
+−
+0.5
+)
+=
+2
+a=1,r=0.5.S
+infty
+	​
+
+=1/(1−0.5)=2
+."
+},
+{
+"q": "The distance between 
+𝐴
+(
+1
+,
+2
+)
+A(1,2)
+ and 
+𝐵
+(
+4
+,
+6
+)
+B(4,6)
+ is _____.",
+"opts": ["3", "4", "5", "7"],
+"ans": 2,
+"explanation": "
+𝑠
+𝑞
+𝑟
+𝑡
+(
+4
+−
+1
+)
+2
++
+(
+6
+−
+2
+)
+2
+=
+𝑠
+𝑞
+𝑟
+𝑡
+9
++
+16
+=
+5
+sqrt(4−1)
+2
++(6−2)
+2
+=
+sqrt9+16=5
+."
+},
+{
+"q": "If 
+𝑙
+𝑜
+𝑔
+𝑥
+64
+=
+3
+log
+x
+	​
+
+64=3
+, find 
+𝑥
+x
+.",
+"opts": ["2", "4", "8", "16"],
+"ans": 1,
+"explanation": "
+𝑥
+3
+=
+64
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+4
+x
+3
+=64
+Rightarrowx=4
+."
+},
+{
+"q": "Find the value of 
+𝑘
+k
+ if 
+𝑦
+=
+2
+𝑥
++
+3
+y=2x+3
+ and 
+𝑦
+=
+𝑘
+𝑥
+−
+5
+y=kx−5
+ are parallel.",
+"opts": ["3", "-5", "2", "-2"],
+"ans": 2,
+"explanation": "Parallel lines have equal gradients. 
+𝑘
+=
+2
+k=2
+."
+},
+{
+"q": "What is the value of 
+5
+!
+5!
+?",
+"opts": ["20", "60", "120", "150"],
+"ans": 2,
+"explanation": "
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+1
+=
+120
+5
+times4
+times3
+times2
+times1=120
+."
+},
+{
+"q": "Calculate the curved surface area of a sphere of radius 
+3.5
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3.5
+textcm
+.",
+"opts": ["
+154
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+154
+textcm
+2
+", "
+38.5
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+38.5
+textcm
+2
+", "
+77
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+77
+textcm
+2
+", "
+308
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+308
+textcm
+2
+"],
+"ans": 0,
+"explanation": "
+4
+𝑝
+𝑖
+𝑟
+2
+=
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑓
+𝑟
+𝑎
+𝑐
+227
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3.5
+2
+=
+154
+4
+pir
+2
+=4
+times
+frac227
+times3.5
+2
+=154
+."
+},
+{
+"q": "A man buys a shirt for 
+#
+5
+,
+000
+#5,000
+ and sells it for 
+#
+6
+,
+000
+#6,000
+. Find the percentage profit.",
+"opts": ["
+10
+10
+", "
+20
+20
+", "
+25
+25
+", "
+15
+15
+"],
+"ans": 1,
+"explanation": "
+(
+1000
+/
+5000
+)
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+100
+=
+20
+(1000/5000)
+times100=20
+."
+},
+{
+"q": "If 
+𝑥
++
+𝑦
+=
+5
+x+y=5
+ and 
+𝑥
+−
+𝑦
+=
+1
+x−y=1
+, find 
+𝑥
+𝑦
+xy
+.",
+"opts": ["4", "6", "5", "2"],
+"ans": 1,
+"explanation": "
+2
+𝑥
+=
+6
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+3
+;
+3
++
+𝑦
+=
+5
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑦
+=
+2.3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+=
+6
+2x=6
+Rightarrowx=3;3+y=5
+Rightarrowy=2.3
+times2=6
+."
+},
+{
+"q": "Simplify 
+2
+𝑙
+𝑜
+𝑔
+5
++
+𝑙
+𝑜
+𝑔
+4
+2
+log5+
+log4
+.",
+"opts": ["
+𝑙
+𝑜
+𝑔
+14
+log14
+", "2", "1", "
+𝑙
+𝑜
+𝑔
+40
+log40
+"],
+"ans": 1,
+"explanation": "
+𝑙
+𝑜
+𝑔
+25
++
+𝑙
+𝑜
+𝑔
+4
+=
+𝑙
+𝑜
+𝑔
+100
+=
+2
+log25+
+log4=
+log100=2
+."
+},
+{
+"q": "Find the third angle of a triangle if the other two are 
+ and 
+.",
+"opts": ["
+", "
+", "
+", "
+"],
+"ans": 2,
+"explanation": "
+."
+},
+{
+"q": "The scale of a map is 
 1
 :
 50
 ,
 000
 1:50,000
-, what is the actual distance for 
-2
+. If the distance between two towns is 
+4
 𝑡
 𝑒
 𝑥
 𝑡
 𝑐
 𝑚
-2
+4
 textcm
- on the map?",
-"opts": ["
-10
-𝑡
-𝑒
-𝑥
-𝑡
-𝑘
-𝑚
-10
-textkm
-", "
-1
-𝑡
-𝑒
-𝑥
-𝑡
-𝑘
-𝑚
-1
-textkm
-", "
-5
-𝑡
-𝑒
-𝑥
-𝑡
-𝑘
-𝑚
-5
-textkm
-", "
-0.5
-𝑡
-𝑒
-𝑥
-𝑡
-𝑘
-𝑚
-0.5
-textkm
-"],
-"ans": 1,
+ on the map, find the actual distance in km.",
+"opts": ["2 km", "20 km", "200 km", "0.2 km"],
+"ans": 0,
 "explanation": "
-2
-𝑡
-𝑒
-𝑥
-𝑡
-𝑐
-𝑚
+4
 𝑡
 𝑖
 𝑚
 𝑒
 𝑠
-50
-,
-000
+50000
 =
-100
+200
 ,
 000
 𝑡
@@ -5599,28 +3749,806 @@ textkm
 𝑐
 𝑚
 =
-1
-,
-000
-𝑡
-𝑒
-𝑥
-𝑡
-𝑚
-=
-1
+2
 𝑡
 𝑒
 𝑥
 𝑡
 𝑘
 𝑚
-2
-textcm
-times50,000=100,000
-textcm=1,000
-textm=1
+4
+times50000=200,000
+textcm=2
 textkm
+."
+},
+{
+"q": "Find the number of ways of arranging the letters of the word 'BOY'.",
+"opts": ["3", "6", "9", "12"],
+"ans": 1,
+"explanation": "
+3
+!
+=
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+1
+=
+6
+3!=3
+times2
+times1=6
+."
+},
+{
+"q": "What is the value of 
+𝑙
+𝑜
+𝑔
+5
+1
+log
+5
+	​
+
+1
+?",
+"opts": ["5", "1", "0", "Undefined"],
+"ans": 2,
+"explanation": "Log of 1 to any base is 0."
+},
+{
+"q": "Simplify 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑥
+2
+−
+4
+𝑥
+−
+2
+fracx
+2
+−4x−2
+.",
+"opts": ["
+𝑥
+−
+2
+x−2
+", "
+𝑥
++
+2
+x+2
+", "
+𝑥
+2
++
+2
+x
+2
++2
+", "
+𝑥
+−
+4
+x−4
+"],
+"ans": 1,
+"explanation": "Factorize numerator: 
+(
+𝑥
+−
+2
+)
+(
+𝑥
++
+2
+)
+/
+(
+𝑥
+−
+2
+)
+=
+𝑥
++
+2
+(x−2)(x+2)/(x−2)=x+2
+."
+},
+{
+"q": "Find the LCM of 12, 15, and 18.",
+"opts": ["60", "90", "180", "360"],
+"ans": 2,
+"explanation": "
+12
+=
+2
+2
+𝑐
+𝑑
+𝑜
+𝑡
+3
+,
+15
+=
+3
+𝑐
+𝑑
+𝑜
+𝑡
+5
+,
+18
+=
+2
+𝑐
+𝑑
+𝑜
+𝑡
+3
+2
+.
+𝐿
+𝐶
+𝑀
+=
+2
+2
+𝑐
+𝑑
+𝑜
+𝑡
+3
+2
+𝑐
+𝑑
+𝑜
+𝑡
+5
+=
+180
+12=2
+2
+cdot3,15=3
+cdot5,18=2
+cdot3
+2
+.LCM=2
+2
+cdot3
+2
+cdot5=180
+."
+},
+{
+"q": "Solve for 
+𝑥
+x
+: 
+5
+𝑥
+−
+1
+=
+1
+5
+x−1
+=1
+.",
+"opts": ["0", "1", "5", "-1"],
+"ans": 1,
+"explanation": "
+𝑥
+−
+1
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+1
+x−1=0
+Rightarrowx=1
+."
+},
+{
+"q": "If the exterior angle of a regular polygon is 
+, find the number of sides.",
+"opts": ["5", "8", "10", "12"],
+"ans": 2,
+"explanation": "
+360
+/
+36
+=
+10
+360/36=10
+."
+},
+{
+"q": "Calculate the mean deviation of 2, 4, 6.",
+"opts": ["0", "1.33", "2", "1.5"],
+"ans": 1,
+"explanation": "Mean 
+=
+4.
+(
+∣
+2
+−
+4
+∣
++
+∣
+4
+−
+4
+∣
++
+∣
+6
+−
+4
+∣
+)
+/
+3
+=
+4
+/
+3
+=
+1.33
+=4.(∣2−4∣+∣4−4∣+∣6−4∣)/3=4/3=1.33
+."
+},
+{
+"q": "The volume of a cylinder is 
+154
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+154
+textcm
+3
+. If the radius is 
+7
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+7
+textcm
+, find its height.",
+"opts": ["1 cm", "2 cm", "3 cm", "0.5 cm"],
+"ans": 0,
+"explanation": "
+154
+=
+(
+22
+/
+7
+)
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+49
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+ℎ
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+154
+=
+154
+ℎ
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+ℎ
+=
+1
+154=(22/7)
+times49
+timesh
+Rightarrow154=154h
+Rightarrowh=1
+."
+},
+{
+"q": "If 
+𝑃
+(
+𝑥
+)
+=
+𝑥
+2
+−
+3
+𝑥
++
+2
+P(x)=x
+2
+−3x+2
+, find 
+𝑃
+(
+2
+)
+P(2)
+.",
+"opts": ["0", "2", "4", "-2"],
+"ans": 0,
+"explanation": "
+2
+2
+−
+3
+(
+2
+)
++
+2
+=
+4
+−
+6
++
+2
+=
+0
+2
+2
+−3(2)+2=4−6+2=0
+."
+},
+{
+"q": "The angle of elevation of the top of a tower from a point 
+20
+𝑡
+𝑒
+𝑥
+𝑡
+𝑚
+20
+textm
+ away is 
+. Find the height.",
+"opts": ["
+20
+𝑠
+𝑞
+𝑟
+𝑡
+3
+𝑡
+𝑒
+𝑥
+𝑡
+𝑚
+20
+sqrt3
+textm
+", "
+20
+/
+𝑠
+𝑞
+𝑟
+𝑡
+3
+𝑡
+𝑒
+𝑥
+𝑡
+𝑚
+20/
+sqrt3
+textm
+", "10 m", "20 m"],
+"ans": 1,
+"explanation": "
+ℎ
+=
+20
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑡
+𝑎
+𝑛
+30
+=
+20
+/
+𝑠
+𝑞
+𝑟
+𝑡
+3
+h=20
+times
+tan30=20/
+sqrt3
+."
+},
+{
+"q": "A cube has a side of 
+4
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+4
+textcm
+. Find its total surface area.",
+"opts": ["
+64
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+64
+textcm
+2
+", "
+16
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+16
+textcm
+2
+", "
+96
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+96
+textcm
+2
+", "
+48
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+48
+textcm
+2
+"],
+"ans": 2,
+"explanation": "
+6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+4
+2
+=
+96
+6
+times4
+2
+=96
+."
+},
+{
+"q": "If 
+𝑠
+𝑞
+𝑟
+𝑡
+𝑥
+2
++
+9
+=
+5
+sqrtx
+2
++9=5
+, find 
+𝑥
+x
+.",
+"opts": ["2", "3", "4", "16"],
+"ans": 2,
+"explanation": "
+𝑥
+2
++
+9
+=
+25
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+2
+=
+16
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+4
+x
+2
++9=25
+Rightarrowx
+2
+=16
+Rightarrowx=4
+."
+},
+{
+"q": "In a class of 40 students, 25 speak Hausa and 15 speak Yoruba. If 5 speak both, how many speak neither?",
+"opts": ["0", "5", "10", "15"],
+"ans": 1,
+"explanation": "
+𝑛
+(
+𝐻
+𝑐
+𝑢
+𝑝
+𝑌
+)
+=
+25
++
+15
+−
+5
+=
+35.40
+−
+35
+=
+5
+n(H
+cupY)=25+15−5=35.40−35=5
+."
+},
+{
+"q": "What is the value of 
+?",
+"opts": ["0.5", "0.25", "1", "0.75"],
+"ans": 2,
+"explanation": "Trigonometric identity: 
+𝑠
+𝑖
+𝑛
+2
+𝐴
++
+𝑐
+𝑜
+𝑠
+2
+𝐴
+=
+1
+sin
+2
+A+
+cos
+2
+A=1
+."
+},
+{
+"q": "Find the length of the diagonal of a square with side 
+5
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+5
+textcm
+.",
+"opts": ["10 cm", "
+5
+𝑠
+𝑞
+𝑟
+𝑡
+2
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+5
+sqrt2
+textcm
+", "25 cm", "5.5 cm"],
+"ans": 1,
+"explanation": "
+𝑑
+2
+=
+5
+2
++
+5
+2
+=
+50
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑑
+=
+5
+𝑠
+𝑞
+𝑟
+𝑡
+2
+d
+2
+=5
+2
++5
+2
+=50
+Rightarrowd=5
+sqrt2
+."
+},
+{
+"q": "If 
+𝑥
+x
+ is inversely proportional to 
+𝑦
+y
+ and 
+𝑥
+=
+4
+x=4
+ when 
+𝑦
+=
+3
+y=3
+, find 
+𝑥
+x
+ when 
+𝑦
+=
+6
+y=6
+.",
+"opts": ["2", "8", "12", "1.5"],
+"ans": 0,
+"explanation": "
+𝑘
+=
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+=
+12.
+𝑥
+=
+12
+/
+6
+=
+2
+k=4
+times3=12.x=12/6=2
 ."
 },
 {
@@ -5634,40 +4562,40 @@ C
 	​
 
 .",
-"opts": ["10", "20", "60", "5"],
+"opts": ["10", "20", "60", "120"],
 "ans": 0,
 "explanation": "
 5
-𝐶
+!
+/
+(
 2
+!
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+!
+)
 =
-𝑓
-𝑟
-𝑎
-𝑐
-5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-4
+120
+/
+(
 2
 𝑡
 𝑖
 𝑚
 𝑒
 𝑠
-1
+6
+)
 =
 10
-5
-C
-2
-	​
-
-=
-frac5times42times1=10
+5!/(2!
+times3!)=120/(2
+times6)=10
 ."
 }
 ]
