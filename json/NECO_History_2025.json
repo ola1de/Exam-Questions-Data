@@ -1,62 +1,434 @@
 [
-  {"type": "std", "q": "Amalgamation of Nigeria:", "opts": ["1914", "1900", "1960", "1963"], "ans": 0},
-  {"type": "std", "q": "First Prime Minister:", "opts": ["Tafawa Balewa", "Azikiwe", "Awolowo", "Bello"], "ans": 0},
-  {"type": "std", "q": "Nigeria Independence:", "opts": ["1960", "1963", "1957", "1959"], "ans": 0},
-  {"type": "std", "q": "Nigeria Republic:", "opts": ["1963", "1960", "1979", "1999"], "ans": 0},
-  {"type": "std", "q": "Sokoto Caliphate founder:", "opts": ["Usman Dan Fodio", "El-Kanemi", "Queen Amina", "Bayajidda"], "ans": 0},
-  {"type": "std", "q": "Benin Kingdom famous for:", "opts": ["Bronze", "Gold", "Iron", "Clay"], "ans": 0},
-  {"type": "std", "q": "Nok Culture:", "opts": ["Terracotta", "Bronze", "Wood", "Ivory"], "ans": 0},
-  {"type": "std", "q": "Kanem-Borno location:", "opts": ["Lake Chad", "Niger Delta", "West", "East"], "ans": 0},
-  {"type": "std", "q": "Oyo Empire Head:", "opts": ["Alaafin", "Ooni", "Oba", "Emir"], "ans": 0},
-  {"type": "std", "q": "Mali Empire Founder:", "opts": ["Sundiata", "Mansa Musa", "Askia", "Sonni Ali"], "ans": 0},
-  {"type": "std", "q": "Songhai Capital:", "opts": ["Gao", "Timbuktu", "Niani", "Kano"], "ans": 0},
-  {"type": "std", "q": "Ghana Empire product:", "opts": ["Gold", "Oil", "Cocoa", "Slave"], "ans": 0},
-  {"type": "std", "q": "Jaja of Opobo:", "opts": ["Merchant King", "Slave", "Governor", "Priest"], "ans": 0},
-  {"type": "std", "q": "Nana of Itsekiri:", "opts": ["Resisted British", "Helped British", "Was British", "Portuguese"], "ans": 0},
-  {"type": "std", "q": "Royal Niger Company Charter:", "opts": ["1886", "1900", "1914", "1861"], "ans": 0},
-  {"type": "std", "q": "Lagos Annexation:", "opts": ["1861", "1851", "1900", "1914"], "ans": 0},
-  {"type": "std", "q": "Aba Women's Riot:", "opts": ["1929", "1945", "1922", "1953"], "ans": 0},
-  {"type": "std", "q": "Indirect Rule failure:", "opts": ["East", "North", "West", "Lagos"], "ans": 0},
-  {"type": "std", "q": "Clifford Constitution:", "opts": ["1922", "1946", "1951", "1954"], "ans": 0},
-  {"type": "std", "q": "Richards Constitution:", "opts": ["1946", "1922", "1951", "1954"], "ans": 0},
-  {"type": "std", "q": "Macpherson Constitution:", "opts": ["1951", "1946", "1954", "1922"], "ans": 0},
-  {"type": "std", "q": "Lyttelton Constitution:", "opts": ["1954", "1951", "1960", "1946"], "ans": 0},
-  {"type": "std", "q": "First Military Coup:", "opts": ["Jan 1966", "July 1966", "1975", "1983"], "ans": 0},
-  {"type": "std", "q": "Civil War dates:", "opts": ["1967-1970", "1966-1969", "1960-1963", "1975-1978"], "ans": 0},
-  {"type": "std", "q": "Gowon created states:", "opts": ["12", "19", "21", "36"], "ans": 0},
-  {"type": "std", "q": "Murtala assassinated:", "opts": ["1976", "1966", "1985", "1993"], "ans": 0},
-  {"type": "std", "q": "June 12 1993 winner:", "opts": ["Abiola", "Tofa", "Obasanjo", "Shagari"], "ans": 0},
-  {"type": "std", "q": "Capital moved to Abuja:", "opts": ["1991", "1980", "1960", "2000"], "ans": 0},
-  {"type": "std", "q": "Longest military ruler:", "opts": ["Gowon", "Babangida", "Abacha", "Buhari"], "ans": 0},
-  {"type": "std", "q": "ECOWAS founded:", "opts": ["1975", "1963", "1980", "1990"], "ans": 0},
-  {"type": "std", "q": "OAU founded:", "opts": ["1963", "1960", "1975", "1980"], "ans": 0},
-  {"type": "std", "q": "Berlin Conference:", "opts": ["1884-85", "1900", "1800", "1914"], "ans": 0},
-  {"type": "std", "q": "Trans-Saharan Trade:", "opts": ["North-West Africa", "East-South", "Europe-Africa", "Asia-Africa"], "ans": 0},
-  {"type": "std", "q": "Mary Slessor:", "opts": ["Stopped twin killing", "Built railway", "Fought war", "Sold slaves"], "ans": 0},
-  {"type": "std", "q": "Crowther:", "opts": ["First African Bishop", "Governor", "King", "Soldier"], "ans": 0},
-  {"type": "std", "q": "Assimilation Policy:", "opts": ["French", "British", "German", "Portuguese"], "ans": 0},
-  {"type": "std", "q": "Samory Toure:", "opts": ["Mandinka resistance", "Sokoto", "Benin", "Dahomey"], "ans": 0},
-  {"type": "std", "q": "Herbert Macaulay:", "opts": ["Father of Nationalism", "Zik", "Sardauna", "Awo"], "ans": 0},
-  {"type": "std", "q": "Zik of Africa:", "opts": ["Azikiwe", "Nkrumah", "Mandela", "Kenyatta"], "ans": 0},
-  {"type": "std", "q": "Kwame Nkrumah:", "opts": ["Ghana leader", "Nigeria", "Kenya", "Togo"], "ans": 0},
-  {"type": "std", "q": "Apartheid:", "opts": ["South Africa", "Nigeria", "Ghana", "Kenya"], "ans": 0},
-  {"type": "std", "q": "Mandela Prison:", "opts": ["27 years", "10 years", "5 years", "Life"], "ans": 0},
-  {"type": "std", "q": "Oyo Mesi head:", "opts": ["Bashorun", "Are Ona Kakanfo", "Ogboni", "Ifa"], "ans": 0},
-  {"type": "std", "q": "1979 Constitution:", "opts": ["Presidential", "Parliamentary", "Unitary", "Confederal"], "ans": 0},
-  {"type": "std", "q": "Interim Govt Head:", "opts": ["Shonekan", "Abacha", "Babangida", "Obasanjo"], "ans": 0},
-  {"type": "std", "q": "Fourth Republic:", "opts": ["1999", "1979", "1993", "1960"], "ans": 0},
-  {"type": "std", "q": "Oloibiri Oil:", "opts": ["1956", "1960", "1970", "1950"], "ans": 0},
-  {"type": "std", "q": "Census Crisis:", "opts": ["1962/63", "1950", "1990", "2000"], "ans": 0},
-  {"type": "std", "q": "FESTAC 77:", "opts": ["Lagos", "Abuja", "Kano", "Enugu"], "ans": 0},
-  {"type": "std", "q": "Naira Introduction:", "opts": ["1973", "1960", "1980", "1990"], "ans": 0},
-  {"type": "std", "q": "Biafra Leader:", "opts": ["Ojukwu", "Gowon", "Ironsi", "Effiong"], "ans": 0},
-  {"type": "std", "q": "Aro Confederacy:", "opts": ["Igbo trading network", "Yoruba", "Hausa", "Efik"], "ans": 0},
-  {"type": "std", "q": "Fall of Oyo:", "opts": ["Afonja/Alimi", "British", "Dahomey", "Benin"], "ans": 0},
-  {"type": "std", "q": "WNTV First TV:", "opts": ["1959", "1960", "1957", "1963"], "ans": 0},
-  {"type": "std", "q": "Ghana Capital:", "opts": ["Kumbi Saleh", "Niani", "Gao", "Walata"], "ans": 0},
-  {"type": "std", "q": "Lion of Mali:", "opts": ["Sundiata", "Mansa Musa", "Askia", "Sonni Ali"], "ans": 0},
-  {"type": "std", "q": "Maitatsine Riots:", "opts": ["1980s Kano", "1960s", "1990s", "2000s"], "ans": 0},
-  {"type": "std", "q": "Association Policy:", "opts": ["French", "British", "Portuguese", "German"], "ans": 0},
-  {"type": "std", "q": "First Census:", "opts": ["1952/53", "1963", "1973", "1991"], "ans": 0},
-  {"type": "std", "q": "ECOMOG:", "opts": ["Peacekeeping", "Trading", "Farming", "Banking"], "ans": 0}
+{
+"q": "The Nok culture is unique in West African history because it represents the earliest known evidence of _____.",
+"opts": ["terracotta and iron smelting", "written language", "stone architecture", "gold mining"],
+"ans": 0,
+"explanation": "Dating back to 1000 BC, the Nok culture is the oldest known civilization in Nigeria to produce terracotta sculptures and utilize iron-smelting technology."
+},
+{
+"q": "In the pre-colonial Oyo Empire, the Bashorun was the leader of the _____.",
+"opts": ["Ogboni", "Oyomesi", "Esho", "Ilari"],
+"ans": 1,
+"explanation": "The Oyomesi was a council of seven kingmakers led by the Bashorun, who acted as a powerful check on the Alaafin's authority."
+},
+{
+"q": "The legend of Bayajidda is traditionally used to explain the origin of the _____.",
+"opts": ["Yoruba people", "Igbo people", "Hausa states", "Kanuri people"],
+"ans": 2,
+"explanation": "The Bayajidda legend describes a hero from Baghdad who arrived in Daura, killed a sacred snake, and founded the Hausa Bakwai (seven original states)."
+},
+{
+"q": "Which of the following pre-colonial systems was described as 'headless' or decentralized?",
+"opts": ["Oyo", "Benin", "Igbo", "Sokoto"],
+"ans": 2,
+"explanation": "The Igbo political system was 'acephalous' (headless), meaning power was decentralized and distributed among village assemblies and age grades."
+},
+{
+"q": "The Kanem-Borno Empire achieved its highest level of military and administrative efficiency under _____.",
+"opts": ["Idris Alooma", "Mai Dunama", "El-Kanemi", "Sayf ibn Dhi Yazan"],
+"ans": 0,
+"explanation": "Mai Idris Alooma introduced firearms and Turkish musketeers, and established Islam as the state religion, marking the empire's golden age."
+},
+{
+"q": "The 'Long Juju' of Arochukwu facilitated the dominance of the _____ in the slave trade.",
+"opts": ["British", "Portuguese", "Aro", "Fante"],
+"ans": 2,
+"explanation": "The Aro people leveraged the judicial and spiritual authority of the Ibini Ukpabi (Long Juju) oracle to control trade routes and supply slaves to the coast."
+},
+{
+"q": "Which commodity was most significant in the Trans-Saharan trade from West Africa to the Mediterranean?",
+"opts": ["Salt", "Gold", "Petroleum", "Silk"],
+"ans": 1,
+"explanation": "West African gold was the primary attraction for North African and European traders across the Sahara."
+},
+{
+"q": "The 1804 Jihad led by Usman dan Fodio began in which Hausa state?",
+"opts": ["Kano", "Katsina", "Gobir", "Zaria"],
+"ans": 2,
+"explanation": "The conflict began in Gobir after tensions between the reformist Fulani scholar Usman dan Fodio and the local king, Yunfa."
+},
+{
+"q": "The primary motive for the British annexation of Lagos in 1861 was to _____.",
+"opts": ["promote Christianity", "abolish the slave trade and protect palm oil trade", "build a new airport", "educate the citizens"],
+"ans": 1,
+"explanation": "Britain annexed Lagos to effectively enforce the anti-slave trade treaties and secure legitimate commerce, particularly in palm oil."
+},
+{
+"q": "The 1884-1885 Berlin Conference was hosted by _____.",
+"opts": ["Queen Victoria", "Napoleon Bonaparte", "Otto von Bismarck", "King Leopold II"],
+"ans": 2,
+"explanation": "The German Chancellor Otto von Bismarck convened the conference to regulate European colonization and trade in Africa."
+},
+{
+"q": "The 'Manilla' was a dominant form of _____ in the pre-colonial Niger Delta.",
+"opts": ["weapon", "currency", "religious idol", "clothing"],
+"ans": 1,
+"explanation": "Manillas were C-shaped metal bracelets (brass or copper) used as money for several centuries in West African trade."
+},
+{
+"q": "The Amalgamation of Northern and Southern Nigeria in 1914 was performed by _____.",
+"opts": ["Sir Hugh Clifford", "Lord Frederick Lugard", "Sir John Macpherson", "Sir Arthur Richards"],
+"ans": 1,
+"explanation": "Lord Lugard merged the two protectorates into one political unit to facilitate administrative convenience and share revenue."
+},
+{
+"q": "The first formal political party in Nigeria was the _____.",
+"opts": ["Action Group", "NCNC", "NNDP", "NPC"],
+"ans": 2,
+"explanation": "Herbert Macaulay founded the Nigerian National Democratic Party (NNDP) in 1923 to contest elections in Lagos."
+},
+{
+"q": "The Richards Constitution of 1946 was noted for dividing Nigeria into _____.",
+"opts": ["States", "Divisions", "Regions", "Prefectures"],
+"ans": 2,
+"explanation": "The constitution created the Northern, Western, and Eastern regions, establishing the path toward regionalism."
+},
+{
+"q": "The 1929 Aba Women's Riot was primarily sparked by the _____.",
+"opts": ["killing of a chief", "introduction of direct taxation on women", "burning of a market", "fall of the price of oil"],
+"ans": 1,
+"explanation": "Igbo and Ibibio women revolted because they feared the colonial census would lead to the direct taxation of women."
+},
+{
+"type": "passage",
+"content": ""The history of our country is a history of unity in diversity. From the ancient bronzes of Benin to the Jihad of the North, we have been a people of character. Our task today is to build a nation where no man is oppressed."",
+"questions": [
+{
+"q": "The quote above reflects the nationalist ideology of _____.",
+"opts": ["Nnamdi Azikiwe", "Murtala Muhammed", "Sani Abacha", "Odumegwu Ojukwu"],
+"ans": 0,
+"explanation": "Dr. Nnamdi Azikiwe (Zik) was a pioneer nationalist known for his emphasis on unity, pan-Africanism, and ending oppression."
+},
+{
+"q": "The 'ancient bronzes' mentioned in the passage were mostly looted during the _____.",
+"opts": ["Aba Riot", "British Punitive Expedition of 1897", "Amalgamation", "1966 Coup"],
+"ans": 1,
+"explanation": "British forces looted the famous Benin Bronzes (brass plaques) after destroying the city of Benin in 1897."
+}
+]
+},
+{
+"q": "The system of Indirect Rule failed in Southeastern Nigeria because _____.",
+"opts": ["the Igbo were too poor", "it lacked traditional centralized authorities (Kings)", "the climate was too harsh", "the British were afraid"],
+"ans": 1,
+"explanation": "Indirect Rule relied on kings; because the Igbo had village-based democracy, the British creation of 'Warrant Chiefs' was seen as illegitimate."
+},
+{
+"q": "The Macpherson Constitution of 1951 was criticized for being a _____ constitution.",
+"opts": ["Unitary", "Military", "Compromise", "Strictly Federal"],
+"ans": 2,
+"explanation": "It was described as a compromise because it attempted to balance the centralist and regionalist demands of different Nigerian groups."
+},
+{
+"q": "Nigeria's independence in 1960 was granted under the _____ Constitution.",
+"opts": ["Independence", "Republican", "Clifford", "Lyttleton"],
+"ans": 0,
+"explanation": "The 1960 Independence Constitution made Nigeria a sovereign state but retained the British Queen as the ceremonial Head of State."
+},
+{
+"q": "The first indigenous Governor-General of Nigeria was _____.",
+"opts": ["Ahmadu Bello", "Nnamdi Azikiwe", "Abubakar Tafawa Balewa", "Obafemi Awolowo"],
+"ans": 1,
+"explanation": "Zik took over from Sir James Robertson in 1960 as the representative of the Crown before becoming President in 1963."
+},
+{
+"q": "The first military coup d'état in Nigeria occurred on _____.",
+"opts": ["July 29, 1966", "January 15, 1966", "December 31, 1983", "January 15, 1970"],
+"ans": 1,
+"explanation": "Led by Major Chukwuma Nzeogwu and others, the January 1966 coup ended the First Republic."
+},
+{
+"q": "The Nigerian Civil War (1967-1970) began when _____ declared the secession of the Eastern Region.",
+"opts": ["Yakubu Gowon", "Murtala Muhammed", "Odumegwu Ojukwu", "Aguiyi Ironsi"],
+"ans": 2,
+"explanation": "Lt. Col. Chukwuemeka Odumegwu Ojukwu declared the sovereign Republic of Biafra in May 1967."
+},
+{
+"q": "The policy of 'No Victor, No Vanquished' was used to promote _____ after the Civil War.",
+"opts": ["Reconciliation", "Retribution", "Capitalism", "Regionalism"],
+"ans": 0,
+"explanation": "General Gowon implemented this policy to heal the wounds of the war and reintegrate the former secessionists into Nigeria."
+},
+{
+"q": "The Economic Community of West African States (ECOWAS) was founded in _____.",
+"opts": ["1960", "1963", "1975", "1980"],
+"ans": 2,
+"explanation": "Nigeria and Togo led the effort to create ECOWAS in Lagos on May 28, 1975."
+},
+{
+"q": "The Lyttleton Constitution of 1954 is significant because it formally established _____ in Nigeria.",
+"opts": ["Unitary government", "Independence", "Federalism", "Diarchy"],
+"ans": 2,
+"explanation": "It provided for regional autonomy and shared power between the center and the regions, marking the start of a true federal system."
+},
+{
+"q": "King Jaja of Opobo was exiled by the British to _____.",
+"opts": ["London", "The West Indies", "Ghana", "Sierra Leone"],
+"ans": 1,
+"explanation": "British officials exiled him to St. Vincent in the West Indies in 1887 to stop him from controlling the palm oil trade."
+},
+{
+"q": "The Sardauna of Sokoto, Sir Ahmadu Bello, was the leader of which party?",
+"opts": ["NCNC", "AG", "NPC", "NEPU"],
+"ans": 2,
+"explanation": "Ahmadu Bello led the Northern People's Congress (NPC), which dominated Northern politics in the First Republic."
+},
+{
+"q": "The 'Golden Stool' is a sacred symbol of the _____ people.",
+"opts": ["Yoruba", "Asante", "Ewe", "Fante"],
+"ans": 1,
+"explanation": "In present-day Ghana, the Golden Stool represents the soul and unity of the Asante nation."
+},
+{
+"q": "The legendary priest who summoned the Golden Stool from heaven was _____.",
+"opts": ["Okomfo Anokye", "Osei Tutu", "Yaa Asantewaa", "Prempeh I"],
+"ans": 0,
+"explanation": "Okomfo Anokye was the chief priest and co-founder of the Asante Empire alongside Osei Tutu."
+},
+{
+"q": "Which of the following was the capital of Nigeria from 1914 to 1991?",
+"opts": ["Calabar", "Abuja", "Lagos", "Lokoja"],
+"ans": 2,
+"explanation": "Lagos was the seat of government from the amalgamation until the capital was officially moved to Abuja on Dec 12, 1991."
+},
+{
+"q": "The Sagrenti War of 1874 was an expedition against _____.",
+"opts": ["The Zulu", "The Asante", "The Benin Empire", "The Sokoto Caliphate"],
+"ans": 1,
+"explanation": "The British expedition led by Garnet Wolseley (Sagrenti) resulted in the burning of Kumasi."
+},
+{
+"q": "The 'Apartheid' system was a policy of institutionalized racial segregation in _____.",
+"opts": ["Kenya", "Zimbabwe", "South Africa", "Angola"],
+"ans": 2,
+"explanation": "Apartheid was enforced by the National Party in South Africa from 1948 until the early 1990s."
+},
+{
+"q": "The primary aim of the Organization of African Unity (OAU) formed in 1963 was to _____.",
+"opts": ["start a new currency", "eradicate all forms of colonialism from Africa", "fight the USA", "build a continental highway"],
+"ans": 1,
+"explanation": "The OAU aimed to promote unity and help African territories still under European rule to achieve independence."
+},
+{
+"q": "The first Nigerian Prime Minister was _____.",
+"opts": ["Nnamdi Azikiwe", "Ahmadu Bello", "Abubakar Tafawa Balewa", "Obafemi Awolowo"],
+"ans": 2,
+"explanation": "Sir Abubakar Tafawa Balewa led the federal government from 1957 until the 1966 coup."
+},
+{
+"q": "The African Union (AU) replaced the OAU in _____.",
+"opts": ["1994", "2000", "2002", "2010"],
+"ans": 2,
+"explanation": "The AU was launched in Durban, South Africa, in 2002 to better address economic and social challenges."
+},
+{
+"q": "The pre-colonial Dahomey kingdom was famous for its elite female military unit known as the _____.",
+"opts": ["Esho", "Amazons", "Mino", "Ilari"],
+"ans": 2,
+"explanation": "The 'Mino' (Our Mothers), often called the Dahomey Amazons by Europeans, were a unique female-only regiment."
+},
+{
+"q": "Who was the 'Black Prophet' of the Niger Delta who declared the 'Niger Delta Volunteer Force' in 1966?",
+"opts": ["Isaac Adaka Boro", "Ken Saro-Wiwa", "Jaja of Opobo", "Nana Olomu"],
+"ans": 0,
+"explanation": "Isaac Boro led the 'Twelve Day Revolution' to declare a Niger Delta Republic, citing the marginalization of the Ijaw."
+},
+{
+"q": "The 1957 Willink Commission was set up to _____.",
+"opts": ["fix the price of cocoa", "address the fears of minority groups in Nigeria", "draft the criminal code", "conduct a census"],
+"ans": 1,
+"explanation": "Minority groups feared domination by the majority tribes (Igbo, Yoruba, Hausa) as independence approached."
+},
+{
+"q": "The 'Sefuwa Dynasty' is associated with the history of _____.",
+"opts": ["Sokoto", "Benin", "Kanem-Borno", "Oyo"],
+"ans": 2,
+"explanation": "The Sefuwa (or Sayfawa) dynasty ruled Kanem-Borno for over a millennium, making it one of the longest in world history."
+},
+{
+"q": "Idris Alooma introduced the use of _____ from the Ottoman Empire to expand Borno.",
+"opts": ["Turkish musketeers", "war elephants", "ships", "submarines"],
+"ans": 0,
+"explanation": "He brought in muskets and trained marksmen from Turkey, giving him a huge advantage over rivals."
+},
+{
+"q": "The first indigenous Bishop of the Anglican Church in West Africa was _____.",
+"opts": ["Samuel Ajayi Crowther", "Henry Townsend", "Hope Waddell", "Thomas Freeman"],
+"ans": 0,
+"explanation": "A former slave from Osoogun, Crowther was consecrated as Bishop of the Niger Territory in 1864."
+},
+{
+"q": "The 'Scramble for Africa' began in earnest following the _____.",
+"opts": ["Industrial Revolution", "Discovery of Oil", "French Revolution", "Berlin Conference"],
+"ans": 3,
+"explanation": "While the Industrial Revolution provided the motive, the Berlin Conference provided the 'legal' framework for the partition."
+},
+{
+"q": "Which empire was destroyed by the British during the 'Punitive Expedition' of 1897?",
+"opts": ["Sokoto", "Benin", "Oyo", "Mali"],
+"ans": 1,
+"explanation": "The British destroyed Benin City and looted its palace in retaliation for the killing of a British delegation."
+},
+{
+"q": "The first capital of Northern Nigeria under British rule was _____.",
+"opts": ["Kaduna", "Kano", "Lokoja", "Zungeru"],
+"ans": 2,
+"explanation": "Lokoja served as the early headquarters of the Royal Niger Company and the early administration before moving to Zungeru and then Kaduna."
+},
+{
+"q": "The 'Warrant Chief' system was an artificial creation in _____.",
+"opts": ["The North", "The West", "The East", "Lagos"],
+"ans": 2,
+"explanation": "In Igboland, the British appointed chiefs to collect taxes and run courts, a role that had no traditional basis in their society."
+},
+{
+"q": "The return of educated veterans after World War II fueled the growth of _____.",
+"opts": ["Tribalism", "Nationalism", "Communism", "Fascism"],
+"ans": 1,
+"explanation": "Soldiers returned with a new perspective on world affairs and a refusal to remain subjects of a colonial empire."
+},
+{
+"q": "The first University in Nigeria, established in 1948, was an affiliate of the University of _____.",
+"opts": ["Oxford", "Cambridge", "London", "Harvard"],
+"ans": 2,
+"explanation": "The University College, Ibadan was an affiliate of the University of London until 1962."
+},
+{
+"q": "The policy of 'Assimilation' was used by which colonial power in Africa?",
+"opts": ["Britain", "France", "Portugal", "Germany"],
+"ans": 1,
+"explanation": "France aimed to turn Africans into 'Black Frenchmen' by making them adopt French language, laws, and culture."
+},
+{
+"q": "The 'National Youth Service Corps' (NYSC) was established in 1973 by _____.",
+"opts": ["Murtala Muhammed", "Yakubu Gowon", "Shehu Shagari", "Olusegun Obasanjo"],
+"ans": 1,
+"explanation": "General Gowon established the scheme to promote national integration after the Civil War."
+},
+{
+"q": "The headquarters of the African Union (AU) is in _____.",
+"opts": ["Lagos", "Accra", "Addis Ababa", "Cairo"],
+"ans": 2,
+"explanation": "Addis Ababa, Ethiopia, serves as the diplomatic and administrative hub for the AU."
+},
+{
+"q": "Which Nigerian leader was killed in the July 1966 'Counter-Coup'?",
+"opts": ["Aguiyi Ironsi", "Tafawa Balewa", "Ahmadu Bello", "Samuel Akintola"],
+"ans": 0,
+"explanation": "Major General Johnson Aguiyi-Ironsi, the first military Head of State, was killed during a revolt by Northern officers."
+},
+{
+"q": "The Second Republic (1979-1983) was led by President _____.",
+"opts": ["Nnamdi Azikiwe", "Olusegun Obasanjo", "Shehu Shagari", "Ibrahim Babangida"],
+"ans": 2,
+"explanation": "Alhaji Shehu Shagari of the NPN was the first executive President under the American-style presidential system."
+},
+{
+"q": "The 'Indigenization Decree' of 1972 aimed at _____.",
+"opts": ["nationalizing all farms", "giving Nigerians ownership of the economy", "banning all imports", "abolishing the Naira"],
+"ans": 1,
+"explanation": "The decree sought to transfer control of key sectors from foreign firms to indigenous Nigerian entrepreneurs."
+},
+{
+"q": "The leader of the 'Zikist Movement' was _____.",
+"opts": ["Nnamdi Azikiwe", "M.C.K. Ajuluchukwu", "Obafemi Awolowo", "Herbert Macaulay"],
+"ans": 1,
+"explanation": "While named after Azikiwe, the militant youth wing was led by radicals like M.C.K. Ajuluchukwu and Raji Abdallah."
+},
+{
+"q": "The 'Clifford Constitution' of 1922 was significant because it introduced the _____.",
+"opts": ["Regions", "Elective Principle", "Presidency", "Supreme Court"],
+"ans": 1,
+"explanation": "It allowed for the first time in British West Africa the election of representatives into the Legislative Council."
+},
+{
+"q": "The legendary founder of Ile-Ife and the Yoruba race is _____.",
+"opts": ["Oduduwa", "Oranmiyan", "Sango", "Ogun"],
+"ans": 0,
+"explanation": "In Yoruba mythology, Oduduwa is the progenitor of the people and the ancestor of all crowned Yoruba kings."
+},
+{
+"q": "The historical city-state of Kano became the leading commercial center in Hausaland because of its _____.",
+"opts": ["gold mines", "leather and textile industries", "naval power", "coal mines"],
+"ans": 1,
+"explanation": "Kano was famous for its indigo pits and the manufacture of high-quality leather and woven cloth."
+},
+{
+"q": "The 'Royal Niger Company' was granted a charter in 1886 to _____.",
+"opts": ["preach the Gospel", "administer and trade in the Niger basin", "build schools", "fight the French in Dahomey"],
+"ans": 1,
+"explanation": "The charter gave George Goldie’s company the power to act as a government on behalf of Britain in the Niger territories."
+},
+{
+"q": "The 1953 'Kano Riot' was triggered by the visit of _____ to the North.",
+"opts": ["Azikiwe", "Akintola", "Awo", "Enahoro"],
+"ans": 1,
+"explanation": "Action Group leaders visited Kano to campaign for self-government, leading to clashes with Northern NPC supporters."
+},
+{
+"q": "The 19th-century Yoruba Civil Wars were largely a result of the collapse of the _____.",
+"opts": ["Benin Empire", "Old Oyo Empire", "Sokoto Caliphate", "Asante Empire"],
+"ans": 1,
+"explanation": "The fall of Oyo created a power vacuum, leading to decades of war between Ibadan, Abeokuta, Ijaye, and others."
+},
+{
+"q": "The 'Bula Matari' (Breaker of Rocks) was the nickname given to _____.",
+"opts": ["Lord Lugard", "Henry Morton Stanley", "Cecil Rhodes", "King Leopold"],
+"ans": 1,
+"explanation": "Stanley earned this name in the Congo for his use of force and his road-building projects during exploration."
+},
+{
+"q": "The Jukun kingdom of Kwararafa was most noted for its frequent military raids against _____.",
+"opts": ["The Oyo Empire", "The Hausa States", "Benin", "The Igbo"],
+"ans": 1,
+"explanation": "Kwararafa was a formidable power that frequently attacked Kano, Katsina, and Zaria in the 17th century."
+},
+{
+"q": "The 'Unity Fountain' and the shift of the capital to Abuja occurred during the regime of _____.",
+"opts": ["Buhari", "Babangida", "Abacha", "Abdulsalami"],
+"ans": 1,
+"explanation": "General Ibrahim Babangida moved the capital from Lagos to Abuja on December 12, 1991."
+},
+{
+"q": "The 'Apartheid' system in South Africa was officially dismantled following the first multi-racial elections in _____.",
+"opts": ["1990", "1992", "1994", "1996"],
+"ans": 2,
+"explanation": "In 1994, Nelson Mandela was elected as the first Black president, ending decades of institutionalized racism."
+},
+{
+"q": "The Trans-Saharan trade route connected West Africa primarily with _____.",
+"opts": ["North Africa and Europe", "The Americas", "India", "China"],
+"ans": 0,
+"explanation": "The routes linked the Western Sudan with North African cities like Fez and Tunis, and through them, to the Mediterranean."
+},
+{
+"q": "The principal architect of the Fulani Empire was _____.",
+"opts": ["Usman dan Fodio", "Mohammed Bello", "Abdullahi dan Fodio", "Sultan Abubakar"],
+"ans": 0,
+"explanation": "Usman dan Fodio led the religious and political movement that replaced Hausa kings with Fulani Emirs."
+},
+{
+"q": "The first Nigerian to be appointed a judge of the International Court of Justice was _____.",
+"opts": ["Taslim Elias", "Justice Udo Udoma", "Fatai Williams", "Charles Onyeama"],
+"ans": 3,
+"explanation": "Justice Charles Onyeama was elected to the ICJ in 1967. (Note: Taslim Elias later became President of the ICJ)."
+},
+{
+"q": "The Sagrenti War ended with the signing of the Treaty of _____.",
+"opts": ["Kumasi", "Fomena", "Accra", "Lagos"],
+"ans": 1,
+"explanation": "After the defeat of the Asante in 1874, they signed the Treaty of Fomena with the British."
+},
+{
+"q": "The 'Egba Uprising' of 1918 was a protest against _____.",
+"opts": ["Christianity", "Warrant Chiefs and taxes", "The King of Dahomey", "Slave trade"],
+"ans": 1,
+"explanation": "Also known as the Adubi War, it was caused by the introduction of direct taxation and administrative reforms in Egbaland."
+},
+{
+"q": "Which of the following describes the 'Legitimate Commerce' that replaced the slave trade?",
+"opts": ["Trade in gold and ivory", "Trade in vegetable oils and raw materials", "Trade in guns and rum", "Trade in cars"],
+"ans": 1,
+"explanation": "Legitimate commerce refers to the export of palm oil, cotton, and groundnuts which replaced the trade in human beings."
+}
 ]
