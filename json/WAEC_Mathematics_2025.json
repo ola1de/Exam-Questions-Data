@@ -1,62 +1,6196 @@
 [
-  {"type": "std", "q": "Evaluate $$ \\int_0^1 (3x^2 + 2x) dx $$", "opts": ["1", "2", "3", "4"], "ans": 1},
-  {"type": "std", "q": "If $$ A = \\{1, 3, 5\\} $$ and $$ B = \\{2, 3, 4\\} $$, find $$ A \\cup B $$.", "opts": ["{3}", "{1, 2, 3, 4, 5}", "{1, 5}", "{2, 4}"], "ans": 1},
-  {"type": "std", "q": "Solve for x: $$ 2^{x+1} = 32 $$", "opts": ["3", "4", "5", "6"], "ans": 1},
-  {"type": "std", "q": "Simplify $$ \\sqrt{12} + \\sqrt{27} - \\sqrt{75} $$", "opts": ["0", "$$ \\sqrt{3} $$", "$$ 2\\sqrt{3} $$", "$$ 3\\sqrt{3} $$"], "ans": 0},
-  {"type": "std", "q": "Find the gradient of the line joining (2, 3) and (4, 7).", "opts": ["1", "2", "3", "4"], "ans": 1},
-  {"type": "std", "q": "The sum of interior angles of a regular pentagon is:", "opts": ["$$ 360^\\circ $$", "$$ 540^\\circ $$", "$$ 720^\\circ $$", "$$ 180^\\circ $$"], "ans": 1},
-  {"type": "std", "q": "If $$ \\tan \\theta = 3/4 $$, find $$ \\cos \\theta $$.", "opts": ["3/5", "4/5", "5/4", "5/3"], "ans": 1},
-  {"type": "std", "q": "Solve $$ x^2 - 5x + 6 = 0 $$.", "opts": ["2, 3", "-2, -3", "1, 6", "-1, -6"], "ans": 0},
-  {"type": "std", "q": "Calculate the mean of 2, 4, 6, 8, 10.", "opts": ["5", "6", "7", "8"], "ans": 1},
-  {"type": "std", "q": "If $$ y = x^2 + 3x $$, find $$ dy/dx $$.", "opts": ["$$ 2x + 3 $$", "$$ 2x $$", "$$ x + 3 $$", "$$ 2x - 3 $$"], "ans": 0},
-  {"type": "std", "q": "Convert $$ 1101_2 $$ to base 10.", "opts": ["11", "13", "15", "10"], "ans": 1},
-  {"type": "std", "q": "If $$ \\log_{10} x = 2 $$, find x.", "opts": ["20", "100", "10", "200"], "ans": 1},
-  {"type": "std", "q": "A binary operation is defined as $$ a * b = a + b + ab $$. Find $$ 2 * 3 $$.", "opts": ["5", "6", "11", "10"], "ans": 2},
-  {"type": "std", "q": "Find the determinant of $$ \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$.", "opts": ["5", "11", "-5", "8"], "ans": 0},
-  {"type": "std", "q": "The radius of a circle with Area $$ 154cm^2 $$ is ($$ \\pi=22/7 $$):", "opts": ["7cm", "14cm", "3.5cm", "21cm"], "ans": 0},
-  {"type": "std", "q": "Solve $$ 3x - 4 < 8 $$.", "opts": ["$$ x < 4 $$", "$$ x > 4 $$", "$$ x < 2 $$", "$$ x > 2 $$"], "ans": 0},
-  {"type": "std", "q": "Find the 10th term of the A.P: 2, 4, 6...", "opts": ["18", "20", "22", "24"], "ans": 1},
-  {"type": "std", "q": "Rationalize $$ \\frac{1}{\\sqrt{2}} $$.", "opts": ["$$ \\sqrt{2} $$", "$$ \\frac{\\sqrt{2}}{2} $$", "$$ 2 $$", "$$ 1 $$"], "ans": 1},
-  {"type": "std", "q": "Standard deviation is the square root of:", "opts": ["Mean", "Median", "Variance", "Mode"], "ans": 2},
-  {"type": "std", "q": "Probability of throwing a 6 with a die.", "opts": ["1/2", "1/6", "1/3", "1"], "ans": 1},
-  {"type": "std", "q": "Make T the subject: $$ V = k T $$", "opts": ["$$ T = V/k $$", "$$ T = Vk $$", "$$ T = k/V $$", "$$ T = V+k $$"], "ans": 0},
-  {"type": "std", "q": "Simplify $$ 2^3 \\times 2^2 $$.", "opts": ["$$ 2^5 $$", "$$ 2^6 $$", "$$ 2^1 $$", "$$ 4^5 $$"], "ans": 0},
-  {"type": "std", "q": "Evaluate $$ {}^5P_2 $$", "opts": ["10", "20", "60", "5"], "ans": 1},
-  {"type": "std", "q": "Volume of a cylinder formula:", "opts": ["$$ \\pi r^2 h $$", "$$ 2\\pi r h $$", "$$ \\pi r^2 $$", "$$ \\frac{1}{3}\\pi r^2 h $$"], "ans": 0},
-  {"type": "std", "q": "Find the mode of 1, 2, 2, 3, 4.", "opts": ["1", "2", "3", "4"], "ans": 1},
-  {"type": "std", "q": "If $$ \\sin x = 0.5 $$, $$ x $$ is:", "opts": ["$$ 30^\\circ $$", "$$ 60^\\circ $$", "$$ 45^\\circ $$", "$$ 90^\\circ $$"], "ans": 0},
-  {"type": "std", "q": "Distance between (0,0) and (3,4).", "opts": ["5", "7", "3", "4"], "ans": 0},
-  {"type": "std", "q": "Find the median of 2, 5, 1, 6, 3.", "opts": ["2", "3", "5", "1"], "ans": 1},
-  {"type": "std", "q": "If $$ f(x) = 2x - 1 $$, find $$ f^{-1}(x) $$.", "opts": ["$$ (x+1)/2 $$", "$$ (x-1)/2 $$", "$$ 2x+1 $$", "$$ x/2 $$"], "ans": 0},
-  {"type": "std", "q": "Simple Interest formula:", "opts": ["$$ PRT/100 $$", "$$ P(1+R)^T $$", "$$ P+I $$", "$$ PT/R $$"], "ans": 0},
-  {"type": "std", "q": "Expand $$ (x+2)^2 $$.", "opts": ["$$ x^2 + 4 $$", "$$ x^2 + 4x + 4 $$", "$$ x^2 + 2x + 4 $$", "$$ x^2 + 4x + 2 $$"], "ans": 1},
-  {"type": "std", "q": "Calculate $$ 10\\% $$ of 500.", "opts": ["50", "10", "100", "5"], "ans": 0},
-  {"type": "std", "q": "Matrix $$ A $$ is singular if determinant is:", "opts": ["1", "0", "-1", "Infinite"], "ans": 1},
-  {"type": "std", "q": "Solve $$ |x| = 3 $$.", "opts": ["3", "-3", "$$ \\pm 3 $$", "9"], "ans": 2},
-  {"type": "std", "q": "Derivative of $$ \\cos x $$ is:", "opts": ["$$ \\sin x $$", "$$ -\\sin x $$", "$$ \\cos x $$", "$$ -\\cos x $$"], "ans": 1},
-  {"type": "std", "q": "Midpoint of (2,4) and (4,8).", "opts": ["(3,6)", "(2,4)", "(6,12)", "(3,4)"], "ans": 0},
-  {"type": "std", "q": "Perimeter of rectangle 4cm by 3cm.", "opts": ["14cm", "12cm", "7cm", "10cm"], "ans": 0},
-  {"type": "std", "q": "Integral of $$ x^2 $$ is:", "opts": ["$$ x^3/3 + c $$", "$$ 2x + c $$", "$$ x^3 + c $$", "$$ x $$"], "ans": 0},
-  {"type": "std", "q": "Evaluate $$ \\log_2 8 $$.", "opts": ["2", "3", "4", "8"], "ans": 1},
-  {"type": "std", "q": "Sum of roots of $$ x^2 - 4x + 3 = 0 $$ is:", "opts": ["4", "-4", "3", "-3"], "ans": 0},
-  {"type": "std", "q": "Find $$ x $$ if $$ 3^x = 27 $$.", "opts": ["2", "3", "4", "9"], "ans": 1},
-  {"type": "std", "q": "Total angle in a pie chart:", "opts": ["$$ 180^\\circ $$", "$$ 360^\\circ $$", "$$ 90^\\circ $$", "$$ 270^\\circ $$"], "ans": 1},
-  {"type": "std", "q": "Gradient of horizontal line:", "opts": ["0", "1", "Undefined", "-1"], "ans": 0},
-  {"type": "std", "q": "Number of subsets of set {a, b}.", "opts": ["2", "4", "3", "1"], "ans": 1},
-  {"type": "std", "q": "Evaluate $$ {}^4C_2 $$.", "opts": ["6", "12", "4", "2"], "ans": 0},
-  {"type": "std", "q": "Quadratic formula term $$ b^2 - 4ac $$ is:", "opts": ["Determinant", "Discriminant", "Root", "Factor"], "ans": 1},
-  {"type": "std", "q": "Factorize $$ x^2 - 9 $$.", "opts": ["$$ (x-3)^2 $$", "$$ (x+3)(x-3) $$", "$$ (x+3)^2 $$", "$$ x(x-9) $$"], "ans": 1},
-  {"type": "std", "q": "Locus of points equidistant from a point:", "opts": ["Circle", "Line", "Square", "Ellipse"], "ans": 0},
-  {"type": "std", "q": "Find $$ y $$ if $$ y \\propto x $$ and $$ y=2, x=1 $$. Constant $$ k $$ is:", "opts": ["1", "2", "0.5", "3"], "ans": 1},
-  {"type": "std", "q": "Area of triangle base 10, height 5.", "opts": ["50", "25", "15", "100"], "ans": 1},
-  {"type": "std", "q": "Simplify $$ \\frac{x^2-1}{x+1} $$.", "opts": ["$$ x-1 $$", "$$ x+1 $$", "$$ x $$", "$$ 1 $$"], "ans": 0},
-  {"type": "std", "q": "Value of $$ \\cos 60^\\circ $$.", "opts": ["0.5", "0.866", "1", "0"], "ans": 0},
-  {"type": "std", "q": "Length of arc angle $$ 60^\\circ $$, radius 7.", "opts": ["$$ 7.33 $$", "$$ 14.66 $$", "$$ 3.5 $$", "$$ 22 $$"], "ans": 0},
-  {"type": "std", "q": "Solve $$ \\frac{x}{2} = 5 $$.", "opts": ["5", "10", "2.5", "20"], "ans": 1},
-  {"type": "std", "q": "Derivative of $$ e^x $$ is:", "opts": ["$$ e^x $$", "$$ xe^x $$", "$$ 1 $$", "$$ 0 $$"], "ans": 0},
-  {"type": "std", "q": "Range of probability:", "opts": ["0 to 1", "-1 to 1", "0 to 100", "1 to 10"], "ans": 0},
-  {"type": "std", "q": "Find $$ x $$ if $$ x^2 = 36 $$.", "opts": ["6", "$$ \\pm 6 $$", "36", "12"], "ans": 1},
-  {"type": "std", "q": "Order of matrix $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.", "opts": ["$$ 2 \\times 1 $$", "$$ 1 \\times 2 $$", "$$ 2 \\times 2 $$", "$$ 1 \\times 1 $$"], "ans": 0},
-  {"type": "std", "q": "Sum of first n terms of AP:", "opts": ["$$ n/2(2a + (n-1)d) $$", "$$ a + (n-1)d $$", "$$ ar^{n-1} $$", "$$ a/1-r $$"], "ans": 0},
-  {"type": "std", "q": "Value of $$ 3! $$", "opts": ["3", "6", "9", "1"], "ans": 1}
+{
+"q": "Convert 
+11011
+2
+11011
+2
+	​
+
+ to base 10.",
+"opts": ["23", "25", "27", "29"],
+"ans": 2,
+"explanation": "Expand using powers of 2: 
+1
+(
+2
+4
+)
++
+1
+(
+2
+3
+)
++
+0
+(
+2
+2
+)
++
+1
+(
+2
+1
+)
++
+1
+(
+2
+0
+)
+=
+16
++
+8
++
+0
++
+2
++
+1
+=
+27
+1(2
+4
+)+1(2
+3
+)+0(2
+2
+)+1(2
+1
+)+1(2
+0
+)=16+8+0+2+1=27
+."
+},
+{
+"q": "Solve for 
+𝑥
+x
+ if 
+45
+𝑥
+=
+37
+10
+45
+x
+	​
+
+=37
+10
+	​
+
+.",
+"opts":["6", "7", "8", "9"],
+"ans": 2,
+"explanation": "Convert the left side to base 10: 
+4
+(
+𝑥
+1
+)
++
+5
+(
+𝑥
+0
+)
+=
+37
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+4
+𝑥
++
+5
+=
+37
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+4
+𝑥
+=
+32
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+8
+4(x
+1
+)+5(x
+0
+)=37
+Rightarrow4x+5=37
+Rightarrow4x=32
+Rightarrowx=8
+."
+},
+{
+"q": "Evaluate 
+234
+5
++
+142
+5
+234
+5
+	​
+
++142
+5
+	​
+
+.",
+"opts":["
+421
+5
+421
+5
+	​
+
+", "
+431
+5
+431
+5
+	​
+
+", "
+1031
+5
+1031
+5
+	​
+
+", "
+441
+5
+441
+5
+	​
+
+"],
+"ans": 1,
+"explanation": "Add in base 5: 
+4
++
+2
+=
+6
+=
+11
+5
+4+2=6=11
+5
+	​
+
+ (write 1, carry 1), 
+3
++
+4
++
+1
+=
+8
+=
+13
+5
+3+4+1=8=13
+5
+	​
+
+ (write 3, carry 1), 
+2
++
+1
++
+1
+=
+4
+5
+2+1+1=4
+5
+	​
+
+. The result is 
+431
+5
+431
+5
+	​
+
+."
+},
+{
+"q": "Simplify 
+𝑓
+𝑟
+𝑎
+𝑐
+23
++
+𝑓
+𝑟
+𝑎
+𝑐
+14
+−
+𝑓
+𝑟
+𝑎
+𝑐
+12
+frac23+
+frac14−
+frac12
+.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+512
+frac512
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+712
+frac712
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+13
+frac13
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+14
+frac14
+"],
+"ans": 0,
+"explanation": "The lowest common multiple of 3, 4, and 2 is 12. 
+𝑓
+𝑟
+𝑎
+𝑐
+812
++
+𝑓
+𝑟
+𝑎
+𝑐
+312
+−
+𝑓
+𝑟
+𝑎
+𝑐
+612
+=
+𝑓
+𝑟
+𝑎
+𝑐
+11
+−
+6
+12
+=
+𝑓
+𝑟
+𝑎
+𝑐
+512
+frac812+
+frac312−
+frac612=
+frac11−612=
+frac512
+."
+},
+{
+"q": "Evaluate 
+𝑓
+𝑟
+𝑎
+𝑐
+0.0024
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+0.0005
+0.0012
+frac0.0024times0.00050.0012
+ and leave in standard form.",
+"opts":["
+1.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+4
+1.0
+times10
+−4
+", "
+1.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+3
+1.0
+times10
+−3
+", "
+1.2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+3
+1.2
+times10
+−3
+", "
+2.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+4
+2.0
+times10
+−4
+"],
+"ans": 1,
+"explanation": "Rewrite using powers of 10: 
+𝑓
+𝑟
+𝑎
+𝑐
+(
+24
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+4
+)
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+(
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+4
+)
+12
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+4
+=
+𝑓
+𝑟
+𝑎
+𝑐
+120
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+8
+12
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+4
+=
+10
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+4
+=
+1.0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+3
+frac(24times10
+−4
+)times(5times10
+−4
+)12times10
+−4
+=
+frac120times10
+−8
+12times10
+−4
+=10
+times10
+−4
+=1.0
+times10
+−3
+."
+},
+{
+"q": "Approximate 
+0.034567
+0.034567
+ to 3 significant figures.",
+"opts":["
+0.034
+0.034
+", "
+0.0345
+0.0345
+", "
+0.0346
+0.0346
+", "
+0.035
+0.035
+"],
+"ans": 2,
+"explanation": "The first significant figure is 3. The third is 5. The next digit is 6, which is 5 or greater, so round up the 5 to 6. The result is 
+0.0346
+0.0346
+."
+},
+{
+"q": "Simplify 
+𝑎
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑎
+4
+𝑑
+𝑖
+𝑣
+𝑎
+2
+a
+3
+timesa
+4
+diva
+2
+.",
+"opts":["
+𝑎
+4
+a
+4
+", "
+𝑎
+5
+a
+5
+", "
+𝑎
+6
+a
+6
+", "
+𝑎
+9
+a
+9
+"],
+"ans": 1,
+"explanation": "Using laws of indices: 
+𝑎
+(
+3
++
+4
+−
+2
+)
+=
+𝑎
+7
+−
+2
+=
+𝑎
+5
+a
+(3+4−2)
+=a
+7−2
+=a
+5
+."
+},
+{
+"q": "Solve for 
+𝑥
+x
+ in the equation 
+8
+𝑥
+=
+32
+8
+x
+=32
+.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+35
+frac35
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+53
+frac53
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+43
+frac43
+", "
+2
+2
+"],
+"ans": 1,
+"explanation": "Express both numbers with base 2: 
+(
+2
+3
+)
+𝑥
+=
+2
+5
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+3
+𝑥
+=
+2
+5
+(2
+3
+)
+x
+=2
+5
+Rightarrow2
+3x
+=2
+5
+. Equate exponents: 
+3
+𝑥
+=
+5
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+𝑓
+𝑟
+𝑎
+𝑐
+53
+3x=5
+Rightarrowx=
+frac53
+."
+},
+{
+"q": "Simplify 
+𝑓
+𝑟
+𝑎
+𝑐
+2
+𝑛
++
+1
+−
+2
+𝑛
+2
+𝑛
+frac2
+n+1
+−2
+n
+2
+n
+.",
+"opts": ["
+1
+1
+", "
+2
+2
+", "
+2
+𝑛
+2
+n
+", "
+𝑛
+n
+"],
+"ans": 0,
+"explanation": "Factor out 
+2
+𝑛
+2
+n
+ in the numerator: 
+𝑓
+𝑟
+𝑎
+𝑐
+2
+𝑛
+(
+2
+1
+−
+1
+)
+2
+𝑛
+=
+2
+1
+−
+1
+=
+1
+frac2
+n
+(2
+1
+−1)2
+n
+=2
+1
+−1=1
+."
+},
+{
+"q": "Evaluate 
+𝑙
+𝑜
+𝑔
+2
+64
+log
+2
+	​
+
+64
+.",
+"opts": ["
+4
+4
+", "
+5
+5
+", "
+6
+6
+", "
+8
+8
+"],
+"ans": 2,
+"explanation": "Let 
+𝑙
+𝑜
+𝑔
+2
+64
+=
+𝑥
+log
+2
+	​
+
+64=x
+. Then 
+2
+𝑥
+=
+64
+2
+x
+=64
+. Since 
+2
+6
+=
+64
+2
+6
+=64
+, 
+𝑥
+=
+6
+x=6
+."
+},
+{
+"q": "Solve for 
+𝑥
+x
+: 
+𝑙
+𝑜
+𝑔
+10
+𝑥
++
+𝑙
+𝑜
+𝑔
+10
+2
+=
+1
+log
+10
+	​
+
+x+
+log
+10
+	​
+
+2=1
+.",
+"opts":["
+2
+2
+", "
+5
+5
+", "
+8
+8
+", "
+10
+10
+"],
+"ans": 1,
+"explanation": "Using the product law: 
+𝑙
+𝑜
+𝑔
+10
+(
+2
+𝑥
+)
+=
+1
+log
+10
+	​
+
+(2x)=1
+. Converting to index form: 
+2
+𝑥
+=
+10
+1
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+𝑥
+=
+10
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+5
+2x=10
+1
+Rightarrow2x=10
+Rightarrowx=5
+."
+},
+{
+"q": "Simplify 
+𝑓
+𝑟
+𝑎
+𝑐
+12
+𝑙
+𝑜
+𝑔
+3
+81
+−
+𝑙
+𝑜
+𝑔
+3
+3
+frac12
+log
+3
+	​
+
+81−
+log
+3
+	​
+
+3
+.",
+"opts":["
+0
+0
+", "
+1
+1
+", "
+2
+2
+", "
+3
+3
+"],
+"ans": 1,
+"explanation": "Since 
+3
+4
+=
+81
+3
+4
+=81
+, 
+𝑙
+𝑜
+𝑔
+3
+81
+=
+4
+log
+3
+	​
+
+81=4
+. So, 
+𝑓
+𝑟
+𝑎
+𝑐
+12
+(
+4
+)
+=
+2
+frac12(4)=2
+. Also 
+𝑙
+𝑜
+𝑔
+3
+3
+=
+1
+log
+3
+	​
+
+3=1
+. Then, 
+2
+−
+1
+=
+1
+2−1=1
+."
+},
+{
+"q": "Simplify 
+𝑠
+𝑞
+𝑟
+𝑡
+50
+sqrt50
+.",
+"opts":["
+2
+𝑠
+𝑞
+𝑟
+𝑡
+5
+2
+sqrt5
+", "
+5
+𝑠
+𝑞
+𝑟
+𝑡
+2
+5
+sqrt2
+", "
+25
+𝑠
+𝑞
+𝑟
+𝑡
+2
+25
+sqrt2
+", "
+10
+10
+"],
+"ans": 1,
+"explanation": "Find the largest perfect square factor of 50, which is 25. 
+𝑠
+𝑞
+𝑟
+𝑡
+50
+=
+𝑠
+𝑞
+𝑟
+𝑡
+25
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+=
+𝑠
+𝑞
+𝑟
+𝑡
+25
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑠
+𝑞
+𝑟
+𝑡
+2
+=
+5
+𝑠
+𝑞
+𝑟
+𝑡
+2
+sqrt50=
+sqrt25times2=
+sqrt25
+times
+sqrt2=5
+sqrt2
+."
+},
+{
+"q": "Expand and simplify 
+(
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+−
+1
+)
+2
+(2
+sqrt3−1)
+2
+.",
+"opts":["
+11
+−
+4
+𝑠
+𝑞
+𝑟
+𝑡
+3
+11−4
+sqrt3
+", "
+13
+−
+4
+𝑠
+𝑞
+𝑟
+𝑡
+3
+13−4
+sqrt3
+", "
+12
+−
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+12−2
+sqrt3
+", "
+11
++
+4
+𝑠
+𝑞
+𝑟
+𝑡
+3
+11+4
+sqrt3
+"],
+"ans": 1,
+"explanation": "Using 
+(
+𝑎
+−
+𝑏
+)
+2
+=
+𝑎
+2
+−
+2
+𝑎
+𝑏
++
+𝑏
+2
+(a−b)
+2
+=a
+2
+−2ab+b
+2
+: 
+(
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+)
+2
+−
+2
+(
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+)
+(
+1
+)
++
+(
+1
+)
+2
+=
+12
+−
+4
+𝑠
+𝑞
+𝑟
+𝑡
+3
++
+1
+=
+13
+−
+4
+𝑠
+𝑞
+𝑟
+𝑡
+3
+(2
+sqrt3)
+2
+−2(2
+sqrt3)(1)+(1)
+2
+=12−4
+sqrt3+1=13−4
+sqrt3
+."
+},
+{
+"q": "Rationalize the denominator of 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑠
+𝑞
+𝑟
+𝑡
+2
+𝑠
+𝑞
+𝑟
+𝑡
+5
+−
+𝑠
+𝑞
+𝑟
+𝑡
+3
+fracsqrt2sqrt5−sqrt3
+.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+𝑠
+𝑞
+𝑟
+𝑡
+10
+−
+𝑠
+𝑞
+𝑟
+𝑡
+6
+2
+fracsqrt10−sqrt62
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+𝑠
+𝑞
+𝑟
+𝑡
+10
++
+𝑠
+𝑞
+𝑟
+𝑡
+6
+2
+fracsqrt10+sqrt62
+", "
+𝑠
+𝑞
+𝑟
+𝑡
+10
++
+𝑠
+𝑞
+𝑟
+𝑡
+6
+sqrt10+
+sqrt6
+", "
+𝑠
+𝑞
+𝑟
+𝑡
+5
++
+𝑠
+𝑞
+𝑟
+𝑡
+3
+sqrt5+
+sqrt3
+"],
+"ans": 1,
+"explanation": "Multiply numerator and denominator by the conjugate 
+(
+𝑠
+𝑞
+𝑟
+𝑡
+5
++
+𝑠
+𝑞
+𝑟
+𝑡
+3
+)
+(
+sqrt5+
+sqrt3)
+. Denominator becomes 
+(
+𝑠
+𝑞
+𝑟
+𝑡
+5
+)
+2
+−
+(
+𝑠
+𝑞
+𝑟
+𝑡
+3
+)
+2
+=
+5
+−
+3
+=
+2
+(
+sqrt5)
+2
+−(
+sqrt3)
+2
+=5−3=2
+. Numerator becomes 
+𝑠
+𝑞
+𝑟
+𝑡
+2
+(
+𝑠
+𝑞
+𝑟
+𝑡
+5
++
+𝑠
+𝑞
+𝑟
+𝑡
+3
+)
+=
+𝑠
+𝑞
+𝑟
+𝑡
+10
++
+𝑠
+𝑞
+𝑟
+𝑡
+6
+sqrt2(
+sqrt5+
+sqrt3)=
+sqrt10+
+sqrt6
+. Result: 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑠
+𝑞
+𝑟
+𝑡
+10
++
+𝑠
+𝑞
+𝑟
+𝑡
+6
+2
+fracsqrt10+sqrt62
+."
+},
+{
+"q": "If 
+𝐴
+=
+1
+,
+2
+,
+3
+A=
+1,2,3
+ and 
+𝐵
+=
+2
+,
+3
+,
+4
+B=
+2,3,4
+, find 
+𝐴
+𝑐
+𝑢
+𝑝
+𝐵
+A
+cupB
+.",
+"opts":["
+2
+,
+3
+2,3
+", "
+1
+,
+4
+1,4
+", "
+1
+,
+2
+,
+3
+,
+4
+1,2,3,4
+", "
+1
+,
+2
+,
+3
+,
+4
+,
+5
+1,2,3,4,5
+"],
+"ans": 2,
+"explanation": "The union of two sets is the set of all elements present in either A or B, without repeating elements: 
+1
+,
+2
+,
+3
+,
+4
+1,2,3,4
+."
+},
+{
+"q": "In a class of 30 students, 20 like Mathematics, 15 like English, and 5 like neither. How many students like both subjects?",
+"opts":["
+5
+5
+", "
+10
+10
+", "
+15
+15
+", "
+20
+20
+"],
+"ans": 1,
+"explanation": "Using the formula 
+𝑛
+(
+𝑈
+)
+=
+𝑛
+(
+𝑀
+)
++
+𝑛
+(
+𝐸
+)
+−
+𝑛
+(
+𝑀
+𝑐
+𝑎
+𝑝
+𝐸
+)
++
+𝑛
+(
+𝑁
+𝑒
+𝑖
+𝑡
+ℎ
+𝑒
+𝑟
+)
+n(U)=n(M)+n(E)−n(M
+capE)+n(Neither)
+. 
+30
+=
+20
++
+15
+−
+𝑥
++
+5
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+30
+=
+40
+−
+𝑥
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+10
+30=20+15−x+5
+Rightarrow30=40−x
+Rightarrowx=10
+."
+},
+{
+"q": "How many subsets can be formed from the set 
+𝑆
+=
+𝑥
+,
+𝑦
+,
+𝑧
+S=
+x,y,z
+?",
+"opts": ["
+6
+6
+", "
+7
+7
+", "
+8
+8
+", "
+9
+9
+"],
+"ans": 2,
+"explanation": "A set with 
+𝑛
+n
+ elements has 
+2
+𝑛
+2
+n
+ subsets. For 
+𝑛
+=
+3
+n=3
+, there are 
+2
+3
+=
+8
+2
+3
+=8
+ subsets."
+},
+{
+"q": "If 
+𝑦
+y
+ varies directly as 
+𝑥
+x
+, and 
+𝑦
+=
+12
+y=12
+ when 
+𝑥
+=
+3
+x=3
+, find 
+𝑦
+y
+ when 
+𝑥
+=
+5
+x=5
+.",
+"opts":["
+15
+15
+", "
+20
+20
+", "
+24
+24
+", "
+30
+30
+"],
+"ans": 1,
+"explanation": "Equation: 
+𝑦
+=
+𝑘
+𝑥
+y=kx
+. 
+12
+=
+𝑘
+(
+3
+)
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑘
+=
+4
+12=k(3)
+Rightarrowk=4
+. When 
+𝑥
+=
+5
+x=5
+, 
+𝑦
+=
+4
+(
+5
+)
+=
+20
+y=4(5)=20
+."
+},
+{
+"q": "
+𝑃
+P
+ varies inversely as the square root of 
+𝑄
+Q
+. If 
+𝑃
+=
+2
+P=2
+ when 
+𝑄
+=
+9
+Q=9
+, find 
+𝑃
+P
+ when 
+𝑄
+=
+16
+Q=16
+.",
+"opts": ["
+1.2
+1.2
+", "
+1.5
+1.5
+", "
+2.5
+2.5
+", "
+3.0
+3.0
+"],
+"ans": 1,
+"explanation": "
+𝑃
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑘
+𝑠
+𝑞
+𝑟
+𝑡
+𝑄
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑘
+𝑠
+𝑞
+𝑟
+𝑡
+9
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑘
+3
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑘
+=
+6
+P=
+fracksqrtQ
+Rightarrow2=
+fracksqrt9
+Rightarrow2=
+frack3
+Rightarrowk=6
+. When 
+𝑄
+=
+16
+Q=16
+, 
+𝑃
+=
+𝑓
+𝑟
+𝑎
+𝑐
+6
+𝑠
+𝑞
+𝑟
+𝑡
+16
+=
+𝑓
+𝑟
+𝑎
+𝑐
+64
+=
+1.5
+P=
+frac6sqrt16=
+frac64=1.5
+."
+},
+{
+"q": "
+𝑥
+x
+ varies jointly as 
+𝑦
+y
+ and the square of 
+𝑧
+z
+. If 
+𝑥
+=
+12
+x=12
+ when 
+𝑦
+=
+3
+y=3
+ and 
+𝑧
+=
+2
+z=2
+, find 
+𝑥
+x
+ when 
+𝑦
+=
+4
+y=4
+ and 
+𝑧
+=
+3
+z=3
+.",
+"opts":["
+24
+24
+", "
+36
+36
+", "
+48
+48
+", "
+72
+72
+"],
+"ans": 1,
+"explanation": "
+𝑥
+=
+𝑘
+𝑦
+𝑧
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+12
+=
+𝑘
+(
+3
+)
+(
+2
+2
+)
+=
+12
+𝑘
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑘
+=
+1
+x=kyz
+2
+Rightarrow12=k(3)(2
+2
+)=12k
+Rightarrowk=1
+. Then 
+𝑥
+=
+1
+(
+4
+)
+(
+3
+2
+)
+=
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+9
+=
+36
+x=1(4)(3
+2
+)=4
+times9=36
+."
+},
+{
+"q": "Factorize completely: 
+𝑥
+2
+−
+16
+x
+2
+−16
+.",
+"opts":["
+(
+𝑥
+−
+4
+)
+2
+(x−4)
+2
+", "
+(
+𝑥
++
+4
+)
+2
+(x+4)
+2
+", "
+(
+𝑥
+−
+4
+)
+(
+𝑥
++
+4
+)
+(x−4)(x+4)
+", "
+(
+𝑥
+−
+16
+)
+(
+𝑥
++
+1
+)
+(x−16)(x+1)
+"],
+"ans": 2,
+"explanation": "This is a difference of two squares: 
+𝑎
+2
+−
+𝑏
+2
+=
+(
+𝑎
+−
+𝑏
+)
+(
+𝑎
++
+𝑏
+)
+a
+2
+−b
+2
+=(a−b)(a+b)
+. Here, 
+𝑥
+2
+−
+4
+2
+=
+(
+𝑥
+−
+4
+)
+(
+𝑥
++
+4
+)
+x
+2
+−4
+2
+=(x−4)(x+4)
+."
+},
+{
+"q": "Solve the quadratic equation: 
+2
+𝑥
+2
+−
+5
+𝑥
+−
+3
+=
+0
+2x
+2
+−5x−3=0
+.",
+"opts":["
+𝑥
+=
+−
+𝑓
+𝑟
+𝑎
+𝑐
+12
+,
+3
+x=−
+frac12,3
+", "
+𝑥
+=
+𝑓
+𝑟
+𝑎
+𝑐
+12
+,
+−
+3
+x=
+frac12,−3
+", "
+𝑥
+=
+−
+1
+,
+𝑓
+𝑟
+𝑎
+𝑐
+32
+x=−1,
+frac32
+", "
+𝑥
+=
+1
+,
+−
+𝑓
+𝑟
+𝑎
+𝑐
+32
+x=1,−
+frac32
+"],
+"ans": 0,
+"explanation": "Factorize to get 
+(
+2
+𝑥
++
+1
+)
+(
+𝑥
+−
+3
+)
+=
+0
+(2x+1)(x−3)=0
+. So 
+2
+𝑥
++
+1
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+−
+𝑓
+𝑟
+𝑎
+𝑐
+12
+2x+1=0
+Rightarrowx=−
+frac12
+ or 
+𝑥
+−
+3
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+3
+x−3=0
+Rightarrowx=3
+."
+},
+{
+"q": "Solve for 
+𝑥
+x
+ and 
+𝑦
+y
+ simultaneously: 
+𝑥
++
+𝑦
+=
+5
+x+y=5
+ and 
+𝑥
+𝑦
+=
+6
+xy=6
+.",
+"opts":["
+𝑥
+=
+1
+,
+𝑦
+=
+4
+x=1,y=4
+ or 
+𝑥
+=
+4
+,
+𝑦
+=
+1
+x=4,y=1
+", "
+𝑥
+=
+2
+,
+𝑦
+=
+3
+x=2,y=3
+ or 
+𝑥
+=
+3
+,
+𝑦
+=
+2
+x=3,y=2
+", "
+𝑥
+=
+−
+2
+,
+𝑦
+=
+−
+3
+x=−2,y=−3
+ or 
+𝑥
+=
+−
+3
+,
+𝑦
+=
+−
+2
+x=−3,y=−2
+", "
+𝑥
+=
+0
+,
+𝑦
+=
+5
+x=0,y=5
+ or 
+𝑥
+=
+5
+,
+𝑦
+=
+0
+x=5,y=0
+"],
+"ans": 1,
+"explanation": "From the first equation, 
+𝑦
+=
+5
+−
+𝑥
+y=5−x
+. Substitute into the second: 
+𝑥
+(
+5
+−
+𝑥
+)
+=
+6
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+5
+𝑥
+−
+𝑥
+2
+=
+6
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+2
+−
+5
+𝑥
++
+6
+=
+0
+x(5−x)=6
+Rightarrow5x−x
+2
+=6
+Rightarrowx
+2
+−5x+6=0
+. Roots are 
+𝑥
+=
+2
+x=2
+ or 
+𝑥
+=
+3
+x=3
+. Thus, 
+(
+2
+,
+3
+)
+(2,3)
+ or 
+(
+3
+,
+2
+)
+(3,2)
+."
+},
+{
+"q": "Find the common difference of the arithmetic progression: 
+8
+,
+4
+,
+0
+,
+−
+4
+,
+𝑑
+𝑜
+𝑡
+𝑠
+8,4,0,−4,
+dots
+",
+"opts":["
+4
+4
+", "
+−
+4
+−4
+", "
+2
+2
+", "
+−
+2
+−2
+"],
+"ans": 1,
+"explanation": "Common difference 
+𝑑
+=
+𝑇
+2
+−
+𝑇
+1
+=
+4
+−
+8
+=
+−
+4
+d=T
+2
+	​
+
+−T
+1
+	​
+
+=4−8=−4
+."
+},
+{
+"q": "Find the 5th term of the geometric progression: 
+2
+,
+−
+6
+,
+18
+,
+−
+54
+,
+𝑑
+𝑜
+𝑡
+𝑠
+2,−6,18,−54,
+dots
+",
+"opts":["
+−
+162
+−162
+", "
+162
+162
+", "
+−
+486
+−486
+", "
+486
+486
+"],
+"ans": 1,
+"explanation": "
+𝑎
+=
+2
+a=2
+, common ratio 
+𝑟
+=
+𝑓
+𝑟
+𝑎
+𝑐
+−
+6
+2
+=
+−
+3
+r=
+frac−62=−3
+. 5th term 
+𝑇
+5
+=
+𝑎
+𝑟
+4
+=
+2
+(
+−
+3
+)
+4
+=
+2
+(
+81
+)
+=
+162
+T
+5
+	​
+
+=ar
+4
+=2(−3)
+4
+=2(81)=162
+."
+},
+{
+"q": "Calculate the sum to infinity of the geometric series: 
+4
++
+2
++
+1
++
+𝑓
+𝑟
+𝑎
+𝑐
+12
++
+𝑑
+𝑜
+𝑡
+𝑠
+4+2+1+
+frac12+
+dots
+",
+"opts": ["
+6
+6
+", "
+7
+7
+", "
+8
+8
+", "
+10
+10
+"],
+"ans": 2,
+"explanation": "Sum to infinity 
+. Here 
+𝑎
+=
+4
+a=4
+ and 
+𝑟
+=
+𝑓
+𝑟
+𝑎
+𝑐
+12
+r=
+frac12
+. 
+."
+},
+{
+"q": "Find the determinant of the matrix 
+.",
+"opts": ["
+10
+10
+", "
+12
+12
+", "
+14
+14
+", "
+16
+16
+"],
+"ans": 0,
+"explanation": "Determinant 
+=
+(
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+4
+)
+−
+(
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+1
+)
+=
+12
+−
+2
+=
+10
+=(3
+times4)−(2
+times1)=12−2=10
+."
+},
+{
+"q": "If 
+, find 
+2
+𝑀
+2M
+.",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 0,
+"explanation": "Multiply each element of the matrix by the scalar 2. 
+2
+(
+2
+)
+=
+4
+,
+2
+(
+−
+1
+)
+=
+−
+2
+,
+2
+(
+3
+)
+=
+6
+,
+2
+(
+4
+)
+=
+8
+2(2)=4,2(−1)=−2,2(3)=6,2(4)=8
+."
+},
+{
+"q": "Find the inverse of the matrix 
+.",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 0,
+"explanation": "Determinant 
+=
+(
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+1
+)
+−
+(
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+)
+=
+1
+=(5
+times1)−(2
+times2)=1
+. The inverse is 
+."
+},
+{
+"q": "Find the sum of the interior angles of a regular octagon (8 sides).",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 2,
+"explanation": "Sum of interior angles 
+. For an octagon, 
+."
+},
+{
+"q": "In a right-angled triangle, the hypotenuse is 
+13
+13
+ cm and one adjacent side is 
+5
+5
+ cm. Find the length of the other side.",
+"opts":["
+8
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+8
+textcm
+", "
+10
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+10
+textcm
+", "
+12
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+12
+textcm
+", "
+14
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+14
+textcm
+"],
+"ans": 2,
+"explanation": "By Pythagoras' theorem, 
+𝑐
+2
+=
+𝑎
+2
++
+𝑏
+2
+c
+2
+=a
+2
++b
+2
+. 
+13
+2
+=
+5
+2
++
+𝑏
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+169
+=
+25
++
+𝑏
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑏
+2
+=
+144
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑏
+=
+12
+13
+2
+=5
+2
++b
+2
+Rightarrow169=25+b
+2
+Rightarrowb
+2
+=144
+Rightarrowb=12
+ cm."
+},
+{
+"q": "Each interior angle of a regular polygon is 
+. How many sides does the polygon have?",
+"opts":["
+8
+8
+", "
+10
+10
+", "
+12
+12
+", "
+14
+14
+"],
+"ans": 1,
+"explanation": "The exterior angle is 
+. Number of sides 
+."
+},
+{
+"q": "The angle subtended by a semicircle at the circumference is _____.",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 2,
+"explanation": "A standard circle theorem states that the angle in a semicircle is a right angle (
+)."
+},
+{
+"q": "An arc subtends an angle of 
+ at the center of a circle. What angle does it subtend at any point on the remaining part of the circumference?",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 0,
+"explanation": "The angle subtended by an arc at the center is twice the angle subtended at the circumference. 
+."
+},
+{
+"q": "
+𝐴
+𝐵
+𝐶
+𝐷
+ABCD
+ is a cyclic quadrilateral. If 
+ and the opposite 
+, find the value of 
+𝑥
+x
+.",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 2,
+"explanation": "Opposite angles in a cyclic quadrilateral are supplementary. 
+."
+},
+{
+"q": "Find the area of a circle with radius 
+7
+7
+ cm. (Take 
+𝑝
+𝑖
+=
+𝑓
+𝑟
+𝑎
+𝑐
+227
+pi=
+frac227
+)",
+"opts":["
+44
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+44
+textcm
+2
+", "
+154
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+154
+textcm
+2
+", "
+308
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+308
+textcm
+2
+", "
+616
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+616
+textcm
+2
+"],
+"ans": 1,
+"explanation": "Area 
+=
+𝑝
+𝑖
+𝑟
+2
+=
+𝑓
+𝑟
+𝑎
+𝑐
+227
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+7
+2
+=
+𝑓
+𝑟
+𝑎
+𝑐
+227
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+49
+=
+22
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+7
+=
+154
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+=
+pir
+2
+=
+frac227
+times7
+2
+=
+frac227
+times49=22
+times7=154
+textcm
+2
+."
+},
+{
+"q": "Calculate the volume of a rectangular pyramid with base dimensions 
+4
+4
+ cm by 
+5
+5
+ cm and a perpendicular height of 
+9
+9
+ cm.",
+"opts":["
+40
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+40
+textcm
+3
+", "
+60
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+60
+textcm
+3
+", "
+90
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+90
+textcm
+3
+", "
+180
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+180
+textcm
+3
+"],
+"ans": 1,
+"explanation": "Volume 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+13
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑡
+𝑒
+𝑥
+𝑡
+𝑏
+𝑎
+𝑠
+𝑒
+𝑎
+𝑟
+𝑒
+𝑎
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑡
+𝑒
+𝑥
+𝑡
+ℎ
+𝑒
+𝑖
+𝑔
+ℎ
+𝑡
+=
+𝑓
+𝑟
+𝑎
+𝑐
+13
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+(
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+5
+)
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+9
+=
+𝑓
+𝑟
+𝑎
+𝑐
+13
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+20
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+9
+=
+60
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+=
+frac13
+times
+textbasearea
+times
+textheight=
+frac13
+times(4
+times5)
+times9=
+frac13
+times20
+times9=60
+textcm
+3
+."
+},
+{
+"q": "Find the total surface area of a solid cylinder with a base radius of 
+3
+3
+ cm and height 
+4
+4
+ cm. (Leave your answer in terms of 
+𝑝
+𝑖
+pi
+)",
+"opts":["
+33
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+33
+pi
+textcm
+2
+", "
+42
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+42
+pi
+textcm
+2
+", "
+48
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+48
+pi
+textcm
+2
+", "
+54
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+54
+pi
+textcm
+2
+"],
+"ans": 1,
+"explanation": "Total Surface Area 
+=
+2
+𝑝
+𝑖
+𝑟
+2
++
+2
+𝑝
+𝑖
+𝑟
+ℎ
+=
+2
+𝑝
+𝑖
+(
+3
+)
+2
++
+2
+𝑝
+𝑖
+(
+3
+)
+(
+4
+)
+=
+18
+𝑝
+𝑖
++
+24
+𝑝
+𝑖
+=
+42
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+=2
+pir
+2
++2
+pirh=2
+pi(3)
+2
++2
+pi(3)(4)=18
+pi+24
+pi=42
+pi
+textcm
+2
+."
+},
+{
+"q": "What is the exact value of 
+?",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+14
+frac14
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+12
+frac12
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+𝑠
+𝑞
+𝑟
+𝑡
+3
+2
+fracsqrt32
+", "
+1
+1
+"],
+"ans": 1,
+"explanation": "Based on trigonometric ratios of special angles, 
+ is exactly 
+𝑓
+𝑟
+𝑎
+𝑐
+12
+frac12
+."
+},
+{
+"q": "If 
+𝑡
+𝑎
+𝑛
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+𝑓
+𝑟
+𝑎
+𝑐
+34
+tan
+theta=
+frac34
+ and 
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+theta
+ is acute, find 
+𝑐
+𝑜
+𝑠
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+cos
+theta
+.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+35
+frac35
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+45
+frac45
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+53
+frac53
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+54
+frac54
+"],
+"ans": 1,
+"explanation": "Using a right-angled triangle, opposite 
+=
+3
+=3
+, adjacent 
+=
+4
+=4
+. Hypotenuse 
+=
+𝑠
+𝑞
+𝑟
+𝑡
+3
+2
++
+4
+2
+=
+5
+=
+sqrt3
+2
++4
+2
+=5
+. 
+𝑐
+𝑜
+𝑠
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑡
+𝑒
+𝑥
+𝑡
+𝑎
+𝑑
+𝑗
+𝑎
+𝑐
+𝑒
+𝑛
+𝑡
+𝑡
+𝑒
+𝑥
+𝑡
+ℎ
+𝑦
+𝑝
+𝑜
+𝑡
+𝑒
+𝑛
+𝑢
+𝑠
+𝑒
+=
+𝑓
+𝑟
+𝑎
+𝑐
+45
+cos
+theta=
+fractextadjacenttexthypotenuse=
+frac45
+."
+},
+{
+"q": "In 
+𝑡
+𝑟
+𝑖
+𝑎
+𝑛
+𝑔
+𝑙
+𝑒
+𝐴
+𝐵
+𝐶
+triangleABC
+, 
+𝑎
+=
+6
+a=6
+ cm, 
+𝑠
+𝑖
+𝑛
+𝐴
+=
+0.5
+sinA=0.5
+, and 
+𝑠
+𝑖
+𝑛
+𝐵
+=
+0.75
+sinB=0.75
+. Find the length of side 
+𝑏
+b
+.",
+"opts":["
+8
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+8
+textcm
+", "
+9
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+9
+textcm
+", "
+10
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+10
+textcm
+", "
+12
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+12
+textcm
+"],
+"ans": 1,
+"explanation": "Using the sine rule: 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑎
+𝑠
+𝑖
+𝑛
+𝐴
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑏
+𝑠
+𝑖
+𝑛
+𝐵
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑓
+𝑟
+𝑎
+𝑐
+60.5
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑏
+0.75
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+12
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑏
+0.75
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑏
+=
+12
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+0.75
+=
+9
+fracasinA=
+fracbsinB
+Rightarrow
+frac60.5=
+fracb0.75
+Rightarrow12=
+fracb0.75
+Rightarrowb=12
+times0.75=9
+ cm."
+},
+{
+"q": "The true bearing equivalent to the compass direction South-West (SW) is _____.",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 2,
+"explanation": "South is 
+. South-West is exactly half-way between South and West (
+), so it is 
+."
+},
+{
+"q": "If the bearing of town 
+𝐴
+A
+ from town 
+𝐵
+B
+ is 
+, what is the bearing of 
+𝐵
+B
+ from 
+𝐴
+A
+?",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 2,
+"explanation": "To find the back bearing, add 
+ to the given bearing (if less than 
+). 
+."
+},
+{
+"q": "A man walks 
+3
+3
+ km North, then 
+4
+4
+ km East. Find the bearing of his final position from his starting point to the nearest degree.",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 1,
+"explanation": "He forms a right triangle with North(adjacent)=3, East(opposite)=4. Angle 
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+theta
+ from North is 
+𝑡
+𝑎
+𝑛
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+𝑓
+𝑟
+𝑎
+𝑐
+43
+𝑎
+𝑝
+𝑝
+𝑟
+𝑜
+𝑥
+1.333
+tan
+theta=
+frac43
+approx1.333
+. 
+. The bearing is 
+."
+},
+{
+"q": "Find the mean of the numbers 
+4
+,
+6
+,
+8
+,
+10
+,
+12
+4,6,8,10,12
+.",
+"opts":["
+6
+6
+", "
+8
+8
+", "
+10
+10
+", "
+12
+12
+"],
+"ans": 1,
+"explanation": "Mean 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑡
+𝑒
+𝑥
+𝑡
+𝑆
+𝑢
+𝑚
+𝑡
+𝑒
+𝑥
+𝑡
+𝐶
+𝑜
+𝑢
+𝑛
+𝑡
+=
+𝑓
+𝑟
+𝑎
+𝑐
+4
++
+6
++
+8
++
+10
++
+12
+5
+=
+𝑓
+𝑟
+𝑎
+𝑐
+405
+=
+8
+=
+fractextSumtextCount=
+frac4+6+8+10+125=
+frac405=8
+."
+},
+{
+"q": "Find the median of the data set: 
+7
+,
+2
+,
+9
+,
+4
+,
+8
+,
+3
+7,2,9,4,8,3
+.",
+"opts":["
+4.5
+4.5
+", "
+5.0
+5.0
+", "
+5.5
+5.5
+", "
+6.0
+6.0
+"],
+"ans": 2,
+"explanation": "Arrange in ascending order: 
+2
+,
+3
+,
+4
+,
+7
+,
+8
+,
+9
+2,3,4,7,8,9
+. The two middle numbers are 4 and 7. Median 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+4
++
+7
+2
+=
+5.5
+=
+frac4+72=5.5
+."
+},
+{
+"q": "The mean of four numbers is 
+5
+5
+. When a fifth number is added, the new mean becomes 
+6
+6
+. What is the fifth number?",
+"opts":["
+8
+8
+", "
+9
+9
+", "
+10
+10
+", "
+11
+11
+"],
+"ans": 2,
+"explanation": "Sum of first 4 numbers 
+=
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+5
+=
+20
+=4
+times5=20
+. Sum of all 5 numbers 
+=
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+6
+=
+30
+=5
+times6=30
+. The fifth number is 
+30
+−
+20
+=
+10
+30−20=10
+."
+},
+{
+"q": "What is the mode of the distribution: 
+2
+,
+3
+,
+3
+,
+4
+,
+5
+,
+3
+,
+2
+,
+4
+2,3,3,4,5,3,2,4
+?",
+"opts":["
+2
+2
+", "
+3
+3
+", "
+4
+4
+", "
+5
+5
+"],
+"ans": 1,
+"explanation": "The mode is the number that appears most frequently. In this dataset, 
+3
+3
+ appears three times, which is more than any other number."
+},
+{
+"q": "Calculate the range of the values: 
+−
+2
+,
+5
+,
+8
+,
+−
+4
+,
+10
+−2,5,8,−4,10
+.",
+"opts":["
+6
+6
+", "
+10
+10
+", "
+12
+12
+", "
+14
+14
+"],
+"ans": 3,
+"explanation": "Range 
+=
+𝑡
+𝑒
+𝑥
+𝑡
+𝐻
+𝑖
+𝑔
+ℎ
+𝑒
+𝑠
+𝑡
+𝑣
+𝑎
+𝑙
+𝑢
+𝑒
+−
+𝑡
+𝑒
+𝑥
+𝑡
+𝐿
+𝑜
+𝑤
+𝑒
+𝑠
+𝑡
+𝑣
+𝑎
+𝑙
+𝑢
+𝑒
+=
+10
+−
+(
+−
+4
+)
+=
+10
++
+4
+=
+14
+=
+textHighestvalue−
+textLowestvalue=10−(−4)=10+4=14
+."
+},
+{
+"q": "Calculate the variance of the numbers 
+2
+,
+4
+,
+6
+2,4,6
+.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+43
+frac43
+", "
+2
+2
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+83
+frac83
+", "
+4
+4
+"],
+"ans": 2,
+"explanation": "Mean 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+123
+=
+4
+=
+frac123=4
+. Squared deviations: 
+(
+2
+−
+4
+)
+2
+=
+4
+,
+(
+4
+−
+4
+)
+2
+=
+0
+,
+(
+6
+−
+4
+)
+2
+=
+4
+(2−4)
+2
+=4,(4−4)
+2
+=0,(6−4)
+2
+=4
+. Sum of squares 
+=
+8
+=8
+. Variance 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+83
+=
+frac83
+."
+},
+{
+"q": "What is the probability of getting a Head when a fair coin is tossed once?",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+14
+frac14
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+13
+frac13
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+12
+frac12
+", "
+1
+1
+"],
+"ans": 2,
+"explanation": "A coin has two possible outcomes (Head or Tail). The probability of getting a Head is 1 out of 2, or 
+𝑓
+𝑟
+𝑎
+𝑐
+12
+frac12
+."
+},
+{
+"q": "Two fair dice are rolled. What is the probability of obtaining a sum of 7?",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+112
+frac112
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+16
+frac16
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+14
+frac14
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+736
+frac736
+"],
+"ans": 1,
+"explanation": "Total outcomes 
+=
+36
+=36
+. Favorable outcomes summing to 7: 
+(
+1
+,
+6
+)
+,
+(
+2
+,
+5
+)
+,
+(
+3
+,
+4
+)
+,
+(
+4
+,
+3
+)
+,
+(
+5
+,
+2
+)
+,
+(
+6
+,
+1
+)
+(1,6),(2,5),(3,4),(4,3),(5,2),(6,1)
+. That is 
+6
+6
+ outcomes. Probability 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+636
+=
+𝑓
+𝑟
+𝑎
+𝑐
+16
+=
+frac636=
+frac16
+."
+},
+{
+"q": "A bag contains 3 red and 2 blue balls. If two balls are drawn at random without replacement, find the probability that both are red.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+310
+frac310
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+15
+frac15
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+925
+frac925
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+25
+frac25
+"],
+"ans": 0,
+"explanation": "P(First is red) 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+35
+=
+frac35
+. P(Second is red) 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+24
+=
+frac24
+. P(Both) 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+35
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑓
+𝑟
+𝑎
+𝑐
+24
+=
+𝑓
+𝑟
+𝑎
+𝑐
+620
+=
+𝑓
+𝑟
+𝑎
+𝑐
+310
+=
+frac35
+times
+frac24=
+frac620=
+frac310
+."
+},
+{
+"q": "The probability that student A passes an exam is 
+0.6
+0.6
+ and student B passes is 
+0.8
+0.8
+. Find the probability that at least one of them passes.",
+"opts":["
+0.48
+0.48
+", "
+0.80
+0.80
+", "
+0.92
+0.92
+", "
+0.96
+0.96
+"],
+"ans": 2,
+"explanation": "P(A fails) 
+=
+0.4
+=0.4
+, P(B fails) 
+=
+0.2
+=0.2
+. P(both fail) 
+=
+0.4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+0.2
+=
+0.08
+=0.4
+times0.2=0.08
+. P(at least one passes) 
+=
+1
+−
+0.08
+=
+0.92
+=1−0.08=0.92
+."
+},
+{
+"q": "A fair die is rolled. Find the probability of getting a number less than 5.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+12
+frac12
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+23
+frac23
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+56
+frac56
+", "
+1
+1
+"],
+"ans": 1,
+"explanation": "Numbers less than 5 on a die are 1, 2, 3, and 4 (4 outcomes). Total outcomes = 6. Probability 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+46
+=
+𝑓
+𝑟
+𝑎
+𝑐
+23
+=
+frac46=
+frac23
+."
+},
+{
+"q": "A letter is chosen at random from the word "MATHEMATICS". What is the probability that it is a vowel?",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+311
+frac311
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+411
+frac411
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+511
+frac511
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+611
+frac611
+"],
+"ans": 1,
+"explanation": "Total letters = 11. Vowels are A, E, A, I (4 vowels). Probability 
+=
+𝑓
+𝑟
+𝑎
+𝑐
+411
+=
+frac411
+."
+},
+{
+"q": "Find the derivative of 
+𝑦
+=
+5
+𝑥
+2
+−
+3
+𝑥
+y=5x
+2
+−3x
+ with respect to 
+𝑥
+x
+.",
+"opts":["
+10
+𝑥
+−
+3
+10x−3
+", "
+5
+𝑥
+−
+3
+5x−3
+", "
+10
+𝑥
+10x
+", "
+𝑥
+2
+−
+3
+x
+2
+−3
+"],
+"ans": 0,
+"explanation": "Using the power rule, derivative of 
+5
+𝑥
+2
+5x
+2
+ is 
+10
+𝑥
+10x
+, and derivative of 
+−
+3
+𝑥
+−3x
+ is 
+−
+3
+−3
+. So, 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑑
+𝑦
+𝑑
+𝑥
+=
+10
+𝑥
+−
+3
+fracdydx=10x−3
+."
+},
+{
+"q": "Differentiate 
+𝑦
+=
+𝑠
+𝑖
+𝑛
+(
+3
+𝑥
+)
+y=
+sin(3x)
+ with respect to 
+𝑥
+x
+.",
+"opts":["
+𝑐
+𝑜
+𝑠
+(
+3
+𝑥
+)
+cos(3x)
+", "
+3
+𝑐
+𝑜
+𝑠
+(
+3
+𝑥
+)
+3
+cos(3x)
+", "
+−
+3
+𝑐
+𝑜
+𝑠
+(
+3
+𝑥
+)
+−3
+cos(3x)
+", "
+−
+𝑐
+𝑜
+𝑠
+(
+3
+𝑥
+)
+−
+cos(3x)
+"],
+"ans": 1,
+"explanation": "Using the chain rule, differentiate the outer function (
+𝑠
+𝑖
+𝑛
+𝑢
+𝑟
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑐
+𝑜
+𝑠
+𝑢
+sinu
+rightarrow
+cosu
+) and multiply by derivative of the inner function (
+3
+𝑥
+𝑟
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+3
+3x
+rightarrow3
+). Result: 
+3
+𝑐
+𝑜
+𝑠
+(
+3
+𝑥
+)
+3
+cos(3x)
+."
+},
+{
+"q": "Find the value of 
+𝑥
+x
+ for which the function 
+𝑦
+=
+𝑥
+3
+−
+3
+𝑥
+2
+y=x
+3
+−3x
+2
+ has a stationary point.",
+"opts":["
+𝑥
+=
+0
+,
+−
+2
+x=0,−2
+", "
+𝑥
+=
+0
+,
+2
+x=0,2
+", "
+𝑥
+=
+1
+,
+3
+x=1,3
+", "
+𝑥
+=
+−
+1
+,
+2
+x=−1,2
+"],
+"ans": 1,
+"explanation": "For a stationary point, 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑑
+𝑦
+𝑑
+𝑥
+=
+0
+fracdydx=0
+. 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑑
+𝑦
+𝑑
+𝑥
+=
+3
+𝑥
+2
+−
+6
+𝑥
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+3
+𝑥
+(
+𝑥
+−
+2
+)
+=
+0
+fracdydx=3x
+2
+−6x=0
+Rightarrow3x(x−2)=0
+. Therefore, 
+𝑥
+=
+0
+x=0
+ or 
+𝑥
+=
+2
+x=2
+."
+},
+{
+"q": "Differentiate 
+𝑦
+=
+(
+𝑥
++
+2
+)
+(
+𝑥
+−
+3
+)
+y=(x+2)(x−3)
+.",
+"opts":["
+2
+𝑥
++
+1
+2x+1
+", "
+2
+𝑥
+−
+1
+2x−1
+", "
+𝑥
+2
+−
+1
+x
+2
+−1
+", "
+2
+𝑥
+−
+6
+2x−6
+"],
+"ans": 1,
+"explanation": "First expand the expression: 
+𝑦
+=
+𝑥
+2
+−
+𝑥
+−
+6
+y=x
+2
+−x−6
+. Then differentiate: 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑑
+𝑦
+𝑑
+𝑥
+=
+2
+𝑥
+−
+1
+fracdydx=2x−1
+."
+},
+{
+"q": "Find the second derivative 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑑
+2
+𝑦
+𝑑
+𝑥
+2
+fracd
+2
+ydx
+2
+ of 
+𝑦
+=
+𝑥
+4
+−
+2
+𝑥
+2
+y=x
+4
+−2x
+2
+.",
+"opts":["
+4
+𝑥
+3
+−
+4
+𝑥
+4x
+3
+−4x
+", "
+12
+𝑥
+2
+−
+4
+12x
+2
+−4
+", "
+12
+𝑥
+2
++
+4
+12x
+2
++4
+", "
+4
+𝑥
+2
+−
+2
+4x
+2
+−2
+"],
+"ans": 1,
+"explanation": "First derivative 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑑
+𝑦
+𝑑
+𝑥
+=
+4
+𝑥
+3
+−
+4
+𝑥
+fracdydx=4x
+3
+−4x
+. Second derivative 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑑
+2
+𝑦
+𝑑
+𝑥
+2
+=
+12
+𝑥
+2
+−
+4
+fracd
+2
+ydx
+2
+=12x
+2
+−4
+."
+},
+{
+"q": "Evaluate the indefinite integral 
+𝑖
+𝑛
+𝑡
+2
+𝑥
+,
+𝑑
+𝑥
+int2x
+,dx
+.",
+"opts":["
+𝑥
+2
++
+𝐶
+x
+2
++C
+", "
+2
+𝑥
+2
++
+𝐶
+2x
+2
++C
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+𝑥
+2
+2
++
+𝐶
+fracx
+2
+2+C
+", "
+2
++
+𝐶
+2+C
+"],
+"ans": 0,
+"explanation": "Using the power rule for integration: 
+𝑖
+𝑛
+𝑡
+2
+𝑥
+1
+,
+𝑑
+𝑥
+=
+2
+(
+𝑓
+𝑟
+𝑎
+𝑐
+𝑥
+2
+2
+)
++
+𝐶
+=
+𝑥
+2
++
+𝐶
+int2x
+1
+,dx=2(
+fracx
+2
+2)+C=x
+2
++C
+."
+},
+{
+"q": "Evaluate the definite integral 
+𝑖
+𝑛
+𝑡
+0
+2
+𝑥
+3
+,
+𝑑
+𝑥
+int
+0
+2
+	​
+
+x
+3
+,dx
+.",
+"opts": ["
+2
+2
+", "
+4
+4
+", "
+6
+6
+", "
+8
+8
+"],
+"ans": 1,
+"explanation": "The integral is 
+[
+𝑓
+𝑟
+𝑎
+𝑐
+𝑥
+4
+4
+]
+0
+2
+[
+fracx
+4
+4]
+0
+2
+	​
+
+. Evaluating at limits gives 
+𝑓
+𝑟
+𝑎
+𝑐
+2
+4
+4
+−
+𝑓
+𝑟
+𝑎
+𝑐
+0
+4
+4
+=
+𝑓
+𝑟
+𝑎
+𝑐
+164
+−
+0
+=
+4
+frac2
+4
+4−
+frac0
+4
+4=
+frac164−0=4
+."
+},
+{
+"q": "Find the area of the region bounded by the curve 
+𝑦
+=
+𝑥
+2
+y=x
+2
+, the x-axis, and the lines 
+𝑥
+=
+1
+x=1
+ and 
+𝑥
+=
+3
+x=3
+.",
+"opts":["
+8
+8
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+263
+frac263
+", "
+9
+9
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+283
+frac283
+"],
+"ans": 1,
+"explanation": "Area 
+=
+𝑖
+𝑛
+𝑡
+1
+3
+𝑥
+2
+,
+𝑑
+𝑥
+=
+[
+𝑓
+𝑟
+𝑎
+𝑐
+𝑥
+3
+3
+]
+1
+3
+=
+𝑓
+𝑟
+𝑎
+𝑐
+3
+3
+3
+−
+𝑓
+𝑟
+𝑎
+𝑐
+1
+3
+3
+=
+𝑓
+𝑟
+𝑎
+𝑐
+273
+−
+𝑓
+𝑟
+𝑎
+𝑐
+13
+=
+𝑓
+𝑟
+𝑎
+𝑐
+263
+=
+int
+1
+3
+	​
+
+x
+2
+,dx=[
+fracx
+3
+3]
+1
+3
+	​
+
+=
+frac3
+3
+3−
+frac1
+3
+3=
+frac273−
+frac13=
+frac263
+."
+},
+{
+"q": "Evaluate 
+𝑖
+𝑛
+𝑡
+(
+3
+𝑥
+2
+−
+4
+𝑥
+)
+,
+𝑑
+𝑥
+int(3x
+2
+−4x)
+,dx
+.",
+"opts":["
+𝑥
+3
+−
+2
+𝑥
+2
++
+𝐶
+x
+3
+−2x
+2
++C
+", "
+3
+𝑥
+3
+−
+4
+𝑥
+2
++
+𝐶
+3x
+3
+−4x
+2
++C
+", "
+𝑥
+3
+−
+4
+𝑥
+2
++
+𝐶
+x
+3
+−4x
+2
++C
+", "
+6
+𝑥
+−
+4
++
+𝐶
+6x−4+C
+"],
+"ans": 0,
+"explanation": "Integrate each term: 
+𝑖
+𝑛
+𝑡
+3
+𝑥
+2
+,
+𝑑
+𝑥
+=
+𝑥
+3
+int3x
+2
+,dx=x
+3
+ and 
+𝑖
+𝑛
+𝑡
+4
+𝑥
+,
+𝑑
+𝑥
+=
+2
+𝑥
+2
+int4x
+,dx=2x
+2
+. Adding the constant 
+𝐶
+C
+ gives 
+𝑥
+3
+−
+2
+𝑥
+2
++
+𝐶
+x
+3
+−2x
+2
++C
+."
+},
+{
+"q": "If 
+𝑓
+𝑟
+𝑎
+𝑐
+𝑑
+𝑦
+𝑑
+𝑥
+=
+4
+𝑥
++
+3
+fracdydx=4x+3
+ and 
+𝑦
+=
+5
+y=5
+ when 
+𝑥
+=
+1
+x=1
+, find the equation for 
+𝑦
+y
+.",
+"opts":["
+𝑦
+=
+2
+𝑥
+2
++
+3
+𝑥
+y=2x
+2
++3x
+", "
+𝑦
+=
+4
+𝑥
+2
++
+3
+𝑥
+−
+2
+y=4x
+2
++3x−2
+", "
+𝑦
+=
+2
+𝑥
+2
++
+3
+𝑥
++
+1
+y=2x
+2
++3x+1
+", "
+𝑦
+=
+𝑥
+2
++
+3
+𝑥
++
+1
+y=x
+2
++3x+1
+"],
+"ans": 0,
+"explanation": "Integrate to get 
+𝑦
+=
+2
+𝑥
+2
++
+3
+𝑥
++
+𝐶
+y=2x
+2
++3x+C
+. Substitute 
+𝑥
+=
+1
+,
+𝑦
+=
+5
+x=1,y=5
+: 
+5
+=
+2
+(
+1
+)
+2
++
+3
+(
+1
+)
++
+𝐶
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+5
+=
+5
++
+𝐶
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝐶
+=
+0
+5=2(1)
+2
++3(1)+C
+Rightarrow5=5+C
+RightarrowC=0
+. Therefore, 
+𝑦
+=
+2
+𝑥
+2
++
+3
+𝑥
+y=2x
+2
++3x
+."
+},
+{
+"q": "Make 
+𝑔
+g
+ the subject of the formula: 
+𝑇
+=
+2
+𝑝
+𝑖
+𝑠
+𝑞
+𝑟
+𝑡
+𝑓
+𝑟
+𝑎
+𝑐
+𝐿
+𝑔
+T=2
+pi
+sqrtfracLg
+.",
+"opts":["
+𝑔
+=
+𝑓
+𝑟
+𝑎
+𝑐
+2
+𝑝
+𝑖
+𝐿
+𝑇
+2
+g=
+frac2piLT
+2
+", "
+𝑔
+=
+𝑓
+𝑟
+𝑎
+𝑐
+4
+𝑝
+𝑖
+2
+𝐿
+𝑇
+2
+g=
+frac4pi
+2
+LT
+2
+", "
+𝑔
+=
+𝑓
+𝑟
+𝑎
+𝑐
+4
+𝑝
+𝑖
+𝐿
+2
+𝑇
+2
+g=
+frac4piL
+2
+T
+2
+", "
+𝑔
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑇
+2
+4
+𝑝
+𝑖
+2
+𝐿
+g=
+fracT
+2
+4pi
+2
+L
+"],
+"ans": 1,
+"explanation": "Square both sides: 
+𝑇
+2
+=
+4
+𝑝
+𝑖
+2
+(
+𝑓
+𝑟
+𝑎
+𝑐
+𝐿
+𝑔
+)
+T
+2
+=4
+pi
+2
+(
+fracLg)
+. Multiply by 
+𝑔
+g
+: 
+𝑔
+𝑇
+2
+=
+4
+𝑝
+𝑖
+2
+𝐿
+gT
+2
+=4
+pi
+2
+L
+. Divide by 
+𝑇
+2
+T
+2
+: 
+𝑔
+=
+𝑓
+𝑟
+𝑎
+𝑐
+4
+𝑝
+𝑖
+2
+𝐿
+𝑇
+2
+g=
+frac4pi
+2
+LT
+2
+."
+},
+{
+"q": "If 
+𝑥
+−
+2
+x−2
+ is a factor of 
+𝑥
+3
+−
+𝑘
+𝑥
++
+4
+x
+3
+−kx+4
+, find the value of 
+𝑘
+k
+.",
+"opts": ["
+4
+4
+", "
+6
+6
+", "
+8
+8
+", "
+12
+12
+"],
+"ans": 1,
+"explanation": "By the Factor Theorem, if 
+(
+𝑥
+−
+2
+)
+(x−2)
+ is a factor, then substituting 
+𝑥
+=
+2
+x=2
+ gives 0. 
+(
+2
+)
+3
+−
+𝑘
+(
+2
+)
++
+4
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+8
+−
+2
+𝑘
++
+4
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+12
+−
+2
+𝑘
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+𝑘
+=
+12
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑘
+=
+6
+(2)
+3
+−k(2)+4=0
+Rightarrow8−2k+4=0
+Rightarrow12−2k=0
+Rightarrow2k=12
+Rightarrowk=6
+."
+},
+{
+"q": "Solve the inequality: 
+2
+𝑥
+2
+−
+5
+𝑥
+−
+3
+<
+0
+2x
+2
+−5x−3<0
+.",
+"opts":["
+𝑥
+<
+−
+𝑓
+𝑟
+𝑎
+𝑐
+12
+𝑡
+𝑒
+𝑥
+𝑡
+𝑜
+𝑟
+𝑥
+>
+3
+x<−
+frac12
+textorx>3
+", "
+−
+𝑓
+𝑟
+𝑎
+𝑐
+12
+<
+𝑥
+<
+3
+−
+frac12<x<3
+", "
+𝑥
+<
+−
+3
+𝑡
+𝑒
+𝑥
+𝑡
+𝑜
+𝑟
+𝑥
+>
+𝑓
+𝑟
+𝑎
+𝑐
+12
+x<−3
+textorx>
+frac12
+", "
+−
+3
+<
+𝑥
+<
+𝑓
+𝑟
+𝑎
+𝑐
+12
+−3<x<
+frac12
+"],
+"ans": 1,
+"explanation": "Factorize to 
+(
+2
+𝑥
++
+1
+)
+(
+𝑥
+−
+3
+)
+<
+0
+(2x+1)(x−3)<0
+. The roots are 
+−
+𝑓
+𝑟
+𝑎
+𝑐
+12
+−
+frac12
+ and 
+3
+3
+. Testing regions shows the inequality holds between the roots: 
+−
+𝑓
+𝑟
+𝑎
+𝑐
+12
+<
+𝑥
+<
+3
+−
+frac12<x<3
+."
+}
 ]
