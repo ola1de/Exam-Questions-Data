@@ -1,421 +1,4764 @@
+[
 {
-    "q": "Convert $1011_2$ to base 10.",
-    "opts":["$9$", "$10$", "$11$", "$12$"],
-    "ans": 2,
-    "explanation": "$1011_2 = (1 \\\\times 2^3) + (0 \\\\times 2^2) + (1 \\\\times 2^1) + (1 \\\\times 2^0) = 8 + 0 + 2 + 1 = 11$."
-  },
-  {
-    "q": "Evaluate $2.5 \\\\times 10^3 + 3.1 \\\\times 10^3$.",
-    "opts":["$5.6 \\\\times 10^6$", "$5.6 \\\\times 10^3$", "$5.6 \\\\times 10^9$", "$7.75 \\\\times 10^6$"],
-    "ans": 1,
-    "explanation": "Since the powers of 10 are the same, add the coefficients: $(2.5 + 3.1) \\\\times 10^3 = 5.6 \\\\times 10^3$."
-  },
-  {
-    "q": "Simplify $16^{\\\\frac{3}{4}}$.",
-    "opts":["$4$", "$8$", "$12$", "$64$"],
-    "ans": 1,
-    "explanation": "$16^{\\\\frac{3}{4}} = (\\\\sqrt[4]{16})^3 = 2^3 = 8$."
-  },
-  {
-    "q": "Solve for x in $\\\\log_2(x) = 3$.",
-    "opts": ["$6$", "$8$", "$9$", "$16$"],
-    "ans": 1,
-    "explanation": "Converting from logarithmic to exponential form: $x = 2^3 = 8$."
-  },
-  {
-    "q": "Evaluate $\\\\sqrt{75} - \\\\sqrt{12}$.",
-    "opts":["$3\\\\sqrt{3}$", "$2\\\\sqrt{3}$", "$5\\\\sqrt{3}$", "$7\\\\sqrt{3}$"],
-    "ans": 0,
-    "explanation": "$\\\\sqrt{75} = \\\\sqrt{25 \\\\times 3} = 5\\\\sqrt{3}$. $\\\\sqrt{12} = \\\\sqrt{4 \\\\times 3} = 2\\\\sqrt{3}$. Difference is $5\\\\sqrt{3} - 2\\\\sqrt{3} = 3\\\\sqrt{3}$."
-  },
-  {
-    "q": "Rationalize $\\\\frac{2}{\\\\sqrt{3}}$.",
-    "opts":["$\\\\frac{\\\\sqrt{3}}{2}$", "$\\\\frac{2\\\\sqrt{3}}{3}$", "$\\\\frac{3\\\\sqrt{3}}{2}$", "$2\\\\sqrt{3}$"],
-    "ans": 1,
-    "explanation": "Multiply numerator and denominator by $\\\\sqrt{3}$ to get $\\\\frac{2\\\\sqrt{3}}{3}$."
-  },
-  {
-    "q": "Correct 0.005678 to two significant figures.",
-    "opts":["$0.01$", "$0.0056$", "$0.0057$", "$0.0060$"],
-    "ans": 2,
-    "explanation": "The first non-zero digit is 5. The next is 6. The third is 7 (which is 5 or greater), so round up the 6 to 7. Result: 0.0057."
-  },
-  {
-    "q": "A trader bought a shirt for N4000 and sold it for N5000. Calculate the percentage profit.",
-    "opts": ["20%", "25%", "30%", "40%"],
-    "ans": 1,
-    "explanation": "Profit = N5000 - N4000 = N1000. Percentage profit = (1000 / 4000) * 100 = 25%."
-  },
-  {
-    "q": "Find the simple interest on N5000 for 3 years at 4% per annum.",
-    "opts":["N400", "N500", "N600", "N800"],
-    "ans": 2,
-    "explanation": "Simple Interest = (Principal * Rate * Time) / 100 = (5000 * 4 * 3) / 100 = N600."
-  },
-  {
-    "q": "Evaluate $\\\\log_3 27 + \\\\log_2 8$.",
-    "opts":["$5$", "$6$", "$8$", "$9$"],
-    "ans": 1,
-    "explanation": "$\\\\log_3(3^3) + \\\\log_2(2^3) = 3 + 3 = 6$."
-  },
-  {
-    "q": "Expand $(2x - 3)(x + 4)$.",
-    "opts":["$2x^2 + 5x - 12$", "$2x^2 + 8x - 12$", "$2x^2 - 5x + 12$", "$2x^2 + 11x - 12$"],
-    "ans": 0,
-    "explanation": "$(2x - 3)(x + 4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$."
-  },
-  {
-    "q": "Factorize completely: $x^2 - 9y^2$.",
-    "opts":["$(x-9y)(x+y)$", "$(x-3y)(x-3y)$", "$(x-3y)(x+3y)$", "$(x+3y)(x+3y)$"],
-    "ans": 2,
-    "explanation": "This is a difference of two squares: $a^2 - b^2 = (a-b)(a+b)$. Here, $a=x$ and $b=3y$, giving $(x-3y)(x+3y)$."
-  },
-  {
-    "q": "Make $u$ the subject of the formula: $v = u + at$.",
-    "opts":["$u = v + at$", "$u = v - at$", "$u = at - v$", "$u = \\\\frac{v}{at}$"],
-    "ans": 1,
-    "explanation": "Subtract $at$ from both sides to isolate $u$. Therefore, $u = v - at$."
-  },
-  {
-    "q": "Solve the inequality: $3x - 4 \\\\leq 5x + 8$.",
-    "opts":["$x \\\\geq -6$", "$x \\\\leq -6$", "$x \\\\geq 6$", "$x \\\\leq 6$"],
-    "ans": 0,
-    "explanation": "$3x - 5x \\\\leq 8 + 4 \\\\Rightarrow -2x \\\\leq 12$. Dividing by -2 flips the inequality sign: $x \\\\geq -6$."
-  },
-  {
-    "q": "Solve for x and y: $x + y = 5$ and $2x - y = 4$.",
-    "opts":["$x=3, y=2$", "$x=2, y=3$", "$x=4, y=1$", "$x=1, y=4$"],
-    "ans": 0,
-    "explanation": "Add the equations: $(x+y) + (2x-y) = 5+4 \\\\Rightarrow 3x = 9 \\\\Rightarrow x=3$. Substitute $x=3$ into first equation: $3+y=5 \\\\Rightarrow y=2$."
-  },
-  {
-    "q": "Find the roots of the equation $x^2 - 5x + 6 = 0$.",
-    "opts":["$-2, -3$", "$2, 3$", "$1, 6$", "$-1, -6$"],
-    "ans": 1,
-    "explanation": "Factorize: $x^2 - 3x - 2x + 6 = 0 \\\\Rightarrow (x-3)(x-2) = 0$. Roots are $x=2$ and $x=3$."
-  },
-  {
-    "q": "If $y$ varies directly as $x$ and $y=15$ when $x=3$, find $y$ when $x=5$.",
-    "opts":["$15$", "$20$", "$25$", "$30$"],
-    "ans": 2,
-    "explanation": "$y = kx \\\\Rightarrow 15 = 3k \\\\Rightarrow k = 5$. When $x=5$, $y = 5(5) = 25$."
-  },
-  {
-    "q": "If $y$ varies inversely as $x^2$, and $y=4$ when $x=3$, find the constant of variation.",
-    "opts":["$12$", "$24$", "$36$", "$48$"],
-    "ans": 2,
-    "explanation": "$y = \\\\frac{k}{x^2} \\\\Rightarrow 4 = \\\\frac{k}{3^2} \\\\Rightarrow 4 = \\\\frac{k}{9} \\\\Rightarrow k = 36$."
-  },
-  {
-    "q": "Find the remainder when $x^3 - 2x^2 + 4x - 5$ is divided by $x - 2$.",
-    "opts": ["$-5$", "$3$", "$5$", "$11$"],
-    "ans": 1,
-    "explanation": "Using the remainder theorem, substitute $x=2$: $(2)^3 - 2(2)^2 + 4(2) - 5 = 8 - 8 + 8 - 5 = 3$."
-  },
-  {
-    "q": "A binary operation * is defined by $a * b = a + b + 2$. Find the identity element.",
-    "opts":["$-2$", "$0$", "$2$", "$4$"],
-    "ans": 0,
-    "explanation": "Let $e$ be the identity. $a * e = a \\\\Rightarrow a + e + 2 = a \\\\Rightarrow e + 2 = 0 \\\\Rightarrow e = -2$."
-  },
-  {
-    "q": "The 4th term of an AP is 14 and the 1st term is 2. Find the common difference.",
-    "opts":["$3$", "$4$", "$5$", "$6$"],
-    "ans": 1,
-    "explanation": "$T_4 = a + 3d = 14$. Since $a=2$, $2 + 3d = 14 \\\\Rightarrow 3d = 12 \\\\Rightarrow d = 4$."
-  },
-  {
-    "q": "Find the sum of the first 10 terms of an AP whose first term is 5 and common difference is 2.",
-    "opts":["$100$", "$120$", "$140$", "$150$"],
-    "ans": 2,
-    "explanation": "$S_n = \\\\frac{n}{2}[2a + (n-1)d]$. $S_{10} = 5[10 + 9(2)] = 5(28) = 140$."
-  },
-  {
-    "q": "Find the sum to infinity of the geometric progression 8, 4, 2, 1, ...",
-    "opts":["$12$", "$15$", "$16$", "$32$"],
-    "ans": 2,
-    "explanation": "$S_\\\\infty = \\\\frac{a}{1 - r}$. Here $a = 8, r = 0.5$. $S_\\\\infty = \\\\frac{8}{1 - 0.5} = \\\\frac{8}{0.5} = 16$."
-  },
-  {
-    "q": "If P = {2, 3, 5, 7} and Q = {1, 3, 5, 7, 9}, find the intersection of P and Q.",
-    "opts":["{3, 5, 7}", "{2, 3, 5, 7, 9}", "{1, 2, 3, 5, 7, 9}", "{1, 9}"],
-    "ans": 0,
-    "explanation": "The intersection contains elements common to both sets: 3, 5, and 7."
-  },
-  {
-    "q": "In a class of 30 students, 18 play football, 15 play basketball, and 5 play neither. How many students play both sports?",
-    "opts":["$5$", "$8$", "$10$", "$12$"],
-    "ans": 1,
-    "explanation": "Let $x$ play both. Total playing = $30 - 5 = 25$. $18 + 15 - x = 25 \\\\Rightarrow 33 - x = 25 \\\\Rightarrow x = 8$."
-  },
-  {
-    "q": "Which of these statements represents the contrapositive of 'If it rains, then the ground is wet'?",
-    "opts":["If the ground is wet, then it rains", "If it does not rain, then the ground is not wet", "If the ground is not wet, then it does not rain", "It rains and the ground is wet"],
-    "ans": 2,
-    "explanation": "The contrapositive of $p \\\\to q$ is $\\\\sim q \\\\to \\\\sim p$."
-  },
-  {
-    "q": "If $P = \\\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\\\end{pmatrix}$ and $Q = \\\\begin{pmatrix} 0 & -1 \\\\ 2 & 1 \\\\end{pmatrix}$, find $P + Q$.",
-    "opts":["$\\\\begin{pmatrix} 1 & 1 \\\\ 5 & 5 \\\\end{pmatrix}$", "$\\\\begin{pmatrix} 1 & 1 \\\\ 1 & 5 \\\\end{pmatrix}$", "$\\\\begin{pmatrix} 1 & 3 \\\\ 5 & 3 \\\\end{pmatrix}$", "$\\\\begin{pmatrix} 0 & -2 \\\\ 6 & 4 \\\\end{pmatrix}$"],
-    "ans": 0,
-    "explanation": "Add corresponding elements: $(1+0)$, $(2-1)$, $(3+2)$, $(4+1)$."
-  },
-  {
-    "q": "Find the determinant of the matrix $\\\\begin{pmatrix} 3 & -2 \\\\ 4 & 5 \\\\end{pmatrix}$.",
-    "opts": ["$7$", "$11$", "$23$", "$25$"],
-    "ans": 2,
-    "explanation": "Determinant = $(3 \\\\times 5) - (-2 \\\\times 4) = 15 - (-8) = 23$."
-  },
-  {
-    "q": "Which of the following matrices has no inverse?",
-    "opts":["$\\\\begin{pmatrix} 2 & 1 \\\\ 4 & 2 \\\\end{pmatrix}$", "$\\\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\\\end{pmatrix}$", "$\\\\begin{pmatrix} 3 & 2 \\\\ 1 & 4 \\\\end{pmatrix}$", "$\\\\begin{pmatrix} -1 & 1 \\\\ 1 & 1 \\\\end{pmatrix}$"],
-    "ans": 0,
-    "explanation": "A matrix has no inverse if its determinant is zero. For the first option: $(2\\\\times 2) - (1\\\\times 4) = 4 - 4 = 0$."
-  },
-  {
-    "q": "The sum of two numbers is 10 and their difference is 4. Find the larger number.",
-    "opts": ["$3$", "$5$", "$7$", "$9$"],
-    "ans": 2,
-    "explanation": "$x + y = 10$, $x - y = 4$. Adding gives $2x = 14 \\\\Rightarrow x = 7$."
-  },
-  {
-    "q": "The sum of the interior angles of a regular polygon is $1080^\\\\circ$. How many sides does it have?",
-    "opts":["$6$", "$7$", "$8$", "$10$"],
-    "ans": 2,
-    "explanation": "$(n-2) \\\\times 180 = 1080 \\\\Rightarrow n-2 = 6 \\\\Rightarrow n = 8$."
-  },
-  {
-    "q": "An exterior angle of a regular polygon is $40^\\\\circ$. Find the number of sides.",
-    "opts":["$7$", "$8$", "$9$", "$10$"],
-    "ans": 2,
-    "explanation": "Number of sides $n = \\\\frac{360}{40} = 9$."
-  },
-  {
-    "q": "A chord subtends an angle of $60^\\\\circ$ at the circumference of a circle. What is the angle subtended at the centre?",
-    "opts":["$30^\\\\circ$", "$60^\\\\circ$", "$90^\\\\circ$", "$120^\\\\circ$"],
-    "ans": 3,
-    "explanation": "Angle at the centre is twice the angle at the circumference: $2 \\\\times 60 = 120^\\\\circ$."
-  },
-  {
-    "q": "Find the area of a triangle with base 8 cm and height 5 cm.",
-    "opts":["$10 \\\\text{ cm}^2$", "$20 \\\\text{ cm}^2$", "$30 \\\\text{ cm}^2$", "$40 \\\\text{ cm}^2$"],
-    "ans": 1,
-    "explanation": "Area = $\\\\frac{1}{2} \\\\times \\\\text{base} \\\\times \\\\text{height} = \\\\frac{1}{2} \\\\times 8 \\\\times 5 = 20 \\\\text{ cm}^2$."
-  },
-  {
-    "q": "Find the area of a trapezium whose parallel sides are 6 cm and 10 cm, and perpendicular height is 4 cm.",
-    "opts":["$24 \\\\text{ cm}^2$", "$32 \\\\text{ cm}^2$", "$48 \\\\text{ cm}^2$", "$64 \\\\text{ cm}^2$"],
-    "ans": 1,
-    "explanation": "Area = $\\\\frac{1}{2}(a+b)h = \\\\frac{1}{2}(6 + 10) \\\\times 4 = \\\\frac{1}{2}(16) \\\\times 4 = 32 \\\\text{ cm}^2$."
-  },
-  {
-    "q": "Calculate the perimeter of a sector of a circle of radius 7 cm which subtends an angle of $90^\\\\circ$ at the centre. (Take $\\\\pi = \\\\frac{22}{7}$)",
-    "opts":["$11 \\\\text{ cm}$", "$18 \\\\text{ cm}$", "$25 \\\\text{ cm}$", "$36 \\\\text{ cm}$"],
-    "ans": 2,
-    "explanation": "Arc length = $\\\\frac{90}{360} \\\\times 2 \\\\times \\\\frac{22}{7} \\\\times 7 = 11$. Perimeter = Arc + $2r = 11 + 14 = 25 \\\\text{ cm}$."
-  },
-  {
-    "q": "Find the volume of a cylinder of base radius 5 cm and height 10 cm. (Leave answer in terms of $\\\\pi$)",
-    "opts":["$50\\\\pi \\\\text{ cm}^3$", "$100\\\\pi \\\\text{ cm}^3$", "$250\\\\pi \\\\text{ cm}^3$", "$500\\\\pi \\\\text{ cm}^3$"],
-    "ans": 2,
-    "explanation": "Volume = $\\\\pi r^2 h = \\\\pi(5^2)(10) = 250\\\\pi \\\\text{ cm}^3$."
-  },
-  {
-    "q": "The base radius of a cone is 3 cm and its slant height is 5 cm. Find its curved surface area.",
-    "opts":["$12\\\\pi \\\\text{ cm}^2$", "$15\\\\pi \\\\text{ cm}^2$", "$24\\\\pi \\\\text{ cm}^2$", "$30\\\\pi \\\\text{ cm}^2$"],
-    "ans": 1,
-    "explanation": "Curved Surface Area = $\\\\pi r l = \\\\pi \\\\times 3 \\\\times 5 = 15\\\\pi \\\\text{ cm}^2$."
-  },
-  {
-    "q": "What is the locus of a point equidistant from two intersecting straight lines?",
-    "opts":["A circle", "The angle bisector of the lines", "A parallel line", "A perpendicular bisector"],
-    "ans": 1,
-    "explanation": "The locus of points equidistant from two intersecting lines is the bisector of the angle between them."
-  },
-  {
-    "q": "A town P is on latitude $60^\\\\circ \\\\text{N}$. Find the radius of its parallel of latitude if the radius of the Earth is R.",
-    "opts":["$R \\\\sin 60^\\\\circ$", "$R \\\\cos 60^\\\\circ$", "$R \\\\tan 60^\\\\circ$", "$R$"],
-    "ans": 1,
-    "explanation": "The radius $r$ of a parallel of latitude $\\\\alpha$ is $R \\\\cos \\\\alpha$. Therefore, $r = R \\\\cos 60^\\\\circ$."
-  },
-  {
-    "q": "In a right-angled triangle, the sides adjacent to the right angle are 5 cm and 12 cm. Find the hypotenuse.",
-    "opts":["$13 \\\\text{ cm}$", "$14 \\\\text{ cm}$", "$15 \\\\text{ cm}$", "$17 \\\\text{ cm}$"],
-    "ans": 0,
-    "explanation": "Using Pythagoras theorem: $h^2 = 5^2 + 12^2 = 25 + 144 = 169 \\\\Rightarrow h = 13$."
-  },
-  {
-    "q": "If $\\\\sin \\\\theta = \\\\frac{3}{5}$ and $\\\\theta$ is acute, find $\\\\cos \\\\theta$.",
-    "opts":["$\\\\frac{2}{5}$", "$\\\\frac{3}{4}$", "$\\\\frac{4}{5}$", "$\\\\frac{5}{3}$"],
-    "ans": 2,
-    "explanation": "Using $\\\\sin^2\\\\theta + \\\\cos^2\\\\theta = 1$, $\\\\cos^2\\\\theta = 1 - (\\\\frac{3}{5})^2 = 1 - \\\\frac{9}{25} = \\\\frac{16}{25}$. Thus $\\\\cos \\\\theta = \\\\frac{4}{5}$."
-  },
-  {
-    "q": "Evaluate $\\\\sin 30^\\\\circ + \\\\cos 60^\\\\circ$.",
-    "opts":["$1$", "$\\\\sqrt{3}$", "$0$", "$\\\\frac{1}{2}$"],
-    "ans": 0,
-    "explanation": "$\\\\sin 30^\\\\circ = 0.5$ and $\\\\cos 60^\\\\circ = 0.5$. Their sum is $0.5 + 0.5 = 1$."
-  },
-  {
-    "q": "Find the angle of elevation of the top of a 10m high tree from a point 10m away from its base.",
-    "opts":["$30^\\\\circ$", "$45^\\\\circ$", "$60^\\\\circ$", "$90^\\\\circ$"],
-    "ans": 1,
-    "explanation": "$\\\\tan \\\\theta = \\\\frac{\\\\text{Opposite}}{\\\\text{Adjacent}} = \\\\frac{10}{10} = 1$. $\\\\theta = \\\\tan^{-1}(1) = 45^\\\\circ$."
-  },
-  {
-    "q": "In triangle ABC, $a=5$, $b=7$, and angle $C = 60^\\\\circ$. Find $c^2$.",
-    "opts": ["$39$", "$74$", "$109$", "$124$"],
-    "ans": 0,
-    "explanation": "By Cosine rule: $c^2 = a^2 + b^2 - 2ab \\\\cos C = 25 + 49 - 2(5)(7)(0.5) = 74 - 35 = 39$."
-  },
-  {
-    "q": "Convert $60^\\\\circ$ to radians.",
-    "opts":["$\\\\frac{\\\\pi}{2}$", "$\\\\frac{\\\\pi}{3}$", "$\\\\frac{\\\\pi}{4}$", "$\\\\frac{\\\\pi}{6}$"],
-    "ans": 1,
-    "explanation": "Multiply by $\\\\frac{\\\\pi}{180^\\\\circ}$: $60 \\\\times \\\\frac{\\\\pi}{180} = \\\\frac{\\\\pi}{3}$."
-  },
-  {
-    "q": "If the bearing of A from B is $040^\\\\circ$, what is the bearing of B from A?",
-    "opts":["$140^\\\\circ$", "$220^\\\\circ$", "$320^\\\\circ$", "$040^\\\\circ$"],
-    "ans": 1,
-    "explanation": "Back bearing = Given bearing + $180^\\\\circ = 040^\\\\circ + 180^\\\\circ = 220^\\\\circ$."
-  },
-  {
-    "q": "Given that $\\\\sin(A - 10)^\\\\circ = \\\\cos(A + 20)^\\\\circ$, find A.",
-    "opts":["$20$", "$30$", "$40$", "$50$"],
-    "ans": 2,
-    "explanation": "Since $\\\\sin \\\\theta = \\\\cos(90 - \\\\theta)$, then $(A - 10) + (A + 20) = 90 \\\\Rightarrow 2A + 10 = 90 \\\\Rightarrow A = 40$."
-  },
-  {
-    "q": "What is the maximum value of $y = 3 \\\\sin x$?",
-    "opts":["$1$", "$2$", "$3$", "$6$"],
-    "ans": 2,
-    "explanation": "The maximum value of $\\\\sin x$ is 1. Therefore, $3(1) = 3$."
-  },
-  {
-    "q": "In which quadrant is both sine and cosine negative?",
-    "opts": ["First", "Second", "Third", "Fourth"],
-    "ans": 2,
-    "explanation": "Using ASTC (All Students Take Calculus): Only Tangent is positive in the 3rd quadrant, meaning sine and cosine are negative."
-  },
-  {
-    "q": "Find the distance between the points P(2, 3) and Q(5, 7).",
-    "opts":["$3$", "$4$", "$5$", "$6$"],
-    "ans": 2,
-    "explanation": "Distance = $\\\\sqrt{(5-2)^2 + (7-3)^2} = \\\\sqrt{3^2 + 4^2} = \\\\sqrt{25} = 5$."
-  },
-  {
-    "q": "Find the midpoint of the line segment joining A(-2, 4) and B(6, 8).",
-    "opts":["$(2, 6)$", "$(4, 12)$", "$(2, 4)$", "$(4, 6)$"],
-    "ans": 0,
-    "explanation": "Midpoint = $(\\\\frac{-2+6}{2}, \\\\frac{4+8}{2}) = (\\\\frac{4}{2}, \\\\frac{12}{2}) = (2, 6)$."
-  },
-  {
-    "q": "Find the gradient of the line passing through (1, -2) and (3, 4).",
-    "opts":["$-3$", "$2$", "$3$", "$6$"],
-    "ans": 2,
-    "explanation": "Gradient $m = \\\\frac{y_2 - y_1}{x_2 - x_1} = \\\\frac{4 - (-2)}{3 - 1} = \\\\frac{6}{2} = 3$."
-  },
-  {
-    "q": "Find the equation of a line with gradient 2 passing through (1, 3).",
-    "opts":["$y = 2x + 1$", "$y = 2x - 1$", "$y = 2x + 3$", "$y = x + 2$"],
-    "ans": 0,
-    "explanation": "Using $y - y_1 = m(x - x_1)$: $y - 3 = 2(x - 1) \\\\Rightarrow y = 2x - 2 + 3 \\\\Rightarrow y = 2x + 1$."
-  },
-  {
-    "q": "If two lines are parallel, what is the relationship between their gradients $m_1$ and $m_2$?",
-    "opts":["$m_1 + m_2 = 0$", "$m_1 \\\\times m_2 = -1$", "$m_1 = m_2$", "$m_1 - m_2 = 1$"],
-    "ans": 2,
-    "explanation": "Parallel lines have the exact same gradient, so $m_1 = m_2$."
-  },
-  {
-    "q": "Evaluate $\\\\lim_{x \\\\to 2} \\\\frac{x^2 - 4}{x - 2}$.",
-    "opts": ["$0$", "$2$", "$4$", "Undefined"],
-    "ans": 2,
-    "explanation": "Factorize numerator: $\\\\lim_{x \\\\to 2} \\\\frac{(x-2)(x+2)}{x-2} = \\\\lim_{x \\\\to 2} (x+2) = 2+2=4$."
-  },
-  {
-    "q": "Find the derivative of $y = 3x^4 - 2x^2 + 5x$.",
-    "opts":["$12x^3 - 4x + 5$", "$12x^3 - 2x + 5$", "$4x^3 - 4x + 5$", "$12x^2 - 4x + 5$"],
-    "ans": 0,
-    "explanation": "Using the power rule: $4(3)x^3 - 2(2)x^1 + 5 = 12x^3 - 4x + 5$."
-  },
-  {
-    "q": "Integrate $\\\\int (2x + 3) \\\\, dx$.",
-    "opts":["$x^2 + 3x + C$", "$2x^2 + 3x + C$", "$x^2 + 3 + C$", "$x^2 - 3x + C$"],
-    "ans": 0,
-    "explanation": "$\\\\int 2x dx + \\\\int 3 dx = \\\\frac{2x^2}{2} + 3x + C = x^2 + 3x + C$."
-  },
-  {
-    "q": "If $f(x) = 2x - 3$ and $g(x) = x^2$, find $f(g(2))$.",
-    "opts":["$1$", "$3$", "$5$", "$7$"],
-    "ans": 2,
-    "explanation": "$g(2) = 2^2 = 4$. Then $f(4) = 2(4) - 3 = 8 - 3 = 5$."
-  },
-  {
-    "q": "Find the inverse of the function $f(x) = \\\\frac{x + 1}{2}$.",
-    "opts":["$2x - 1$", "$2x + 1$", "$\\\\frac{2}{x+1}$", "$\\\\frac{x-1}{2}$"],
-    "ans": 0,
-    "explanation": "Let $y = \\\\frac{x+1}{2} \\\\Rightarrow 2y = x + 1 \\\\Rightarrow x = 2y - 1$. So $f^{-1}(x) = 2x - 1$."
-  },
-  {
-    "q": "Calculate the mean of the numbers 2, 4, 6, 8, 10.",
-    "opts": ["$4$", "$5$", "$6$", "$8$"],
-    "ans": 2,
-    "explanation": "Mean = Sum / Count = $30 / 5 = 6$."
-  },
-  {
-    "q": "Find the median of the set of numbers: 7, 3, 5, 8, 2, 9, 4.",
-    "opts":["$4$", "$5$", "$6$", "$7$"],
-    "ans": 1,
-    "explanation": "Sorted order: 2, 3, 4, 5, 7, 8, 9. The middle number is 5."
-  },
-  {
-    "q": "Find the mode of the distribution: 2, 3, 4, 4, 5, 4, 6, 7.",
-    "opts": ["$3$", "$4$", "$5$", "$6$"],
-    "ans": 1,
-    "explanation": "The mode is the number that appears most frequently. 4 appears three times."
-  },
-  {
-    "q": "Find the range of the data: 15, 21, 13, 27, 9, 30.",
-    "opts": ["$15$", "$18$", "$21$", "$24$"],
-    "ans": 2,
-    "explanation": "Range = Maximum - Minimum = $30 - 9 = 21$."
-  },
-  {
-    "q": "Find the variance of the numbers 1, 2, 3, 4, 5.",
-    "opts":["$1.5$", "$2.0$", "$2.5$", "$3.0$"],
-    "ans": 1,
-    "explanation": "Mean = 3. Squared deviations: $4, 1, 0, 1, 4$. Sum = 10. Variance = $10 / 5 = 2.0$."
-  },
-  {
-    "q": "A fair six-sided die is rolled once. Find the probability of obtaining a prime number.",
-    "opts":["$\\\\frac{1}{6}$", "$\\\\frac{1}{3}$", "$\\\\frac{1}{2}$", "$\\\\frac{2}{3}$"],
-    "ans": 2,
-    "explanation": "Prime numbers on a die are 2, 3, and 5 (3 outcomes). Probability = $3/6 = \\\\frac{1}{2}$."
-  },
-  {
-    "q": "A bag contains 3 red balls and 5 black balls. If a ball is picked at random, what is the probability it is black?",
-    "opts":["$\\\\frac{3}{8}$", "$\\\\frac{1}{5}$", "$\\\\frac{5}{8}$", "$\\\\frac{3}{5}$"],
-    "ans": 2,
-    "explanation": "Total balls = 8. Black balls = 5. Probability = $\\\\frac{5}{8}$."
-  },
-  {
-    "q": "The probability a hunter hits a target is 0.6. If he fires twice, what is the probability he misses both times?",
-    "opts":["$0.16$", "$0.24$", "$0.36$", "$0.40$"],
-    "ans": 0,
-    "explanation": "Probability of missing = $1 - 0.6 = 0.4$. Missing both times = $0.4 \\\\times 0.4 = 0.16$."
-  },
-  {
-    "q": "In how many ways can a committee of 3 be chosen from 5 people?",
-    "opts":["$10$", "$15$", "$20$", "$60$"],
-    "ans": 0,
-    "explanation": "Using combinations: $^5C_3 = \\\\frac{5!}{3!(5-3)!} = \\\\frac{5 \\\\times 4}{2} = 10$."
-  },
-  {
-    "q": "In how many ways can the letters of the word MATHS be arranged?",
-    "opts":["$24$", "$60$", "$120$", "$720$"],
-    "ans": 2,
-    "explanation": "There are 5 unique letters. Number of arrangements = $5! = 5 \\\\times 4 \\\\times 3 \\\\times 2 \\\\times 1 = 120$."
-  }
+"q": "Convert 
+1011
+2
+1011
+2
+	​
+
+ to base 10.",
+"opts":["
+9
+9
+", "
+10
+10
+", "
+11
+11
+", "
+12
+12
+"],
+"ans": 2,
+"explanation": "
+1011
+2
+=
+(
+1
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+3
+)
++
+(
+0
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+2
+)
++
+(
+1
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+1
+)
++
+(
+1
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+0
+)
+=
+8
++
+0
++
+2
++
+1
+=
+11
+1011
+2
+	​
+
+=(1
+times2
+3
+)+(0
+times2
+2
+)+(1
+times2
+1
+)+(1
+times2
+0
+)=8+0+2+1=11
+."
+},
+{
+"q": "Express 
+0.00056
+0.00056
+ in standard form.",
+"opts":["
+5.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+4
+5.6
+times10
+−4
+", "
+5.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+3
+5.6
+times10
+−3
+", "
+5.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+3
+5.6
+times10
+3
+", "
+5.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+4
+5.6
+times10
+4
+"],
+"ans": 0,
+"explanation": "Move the decimal point 4 places to the right to get a number between 1 and 10. The exponent is negative: 
+5.6
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+10
+−
+4
+5.6
+times10
+−4
+."
+},
+{
+"q": "Simplify 
+16
+𝑓
+𝑟
+𝑎
+𝑐
+34
+16
+frac34
+.",
+"opts":["
+4
+4
+", "
+8
+8
+", "
+12
+12
+", "
+64
+64
+"],
+"ans": 1,
+"explanation": "
+16
+𝑓
+𝑟
+𝑎
+𝑐
+34
+=
+(
+𝑠
+𝑞
+𝑟
+𝑡
+[
+4
+]
+16
+)
+3
+=
+2
+3
+=
+8
+16
+frac34
+=(
+sqrt[4]16)
+3
+=2
+3
+=8
+."
+},
+{
+"q": "Evaluate 
+𝑙
+𝑜
+𝑔
+2
+32
++
+𝑙
+𝑜
+𝑔
+3
+27
+log
+2
+	​
+
+32+
+log
+3
+	​
+
+27
+.",
+"opts":["
+5
+5
+", "
+6
+6
+", "
+8
+8
+", "
+9
+9
+"],
+"ans": 2,
+"explanation": "
+𝑙
+𝑜
+𝑔
+2
+(
+2
+5
+)
++
+𝑙
+𝑜
+𝑔
+3
+(
+3
+3
+)
+=
+5
++
+3
+=
+8
+log
+2
+	​
+
+(2
+5
+)+
+log
+3
+	​
+
+(3
+3
+)=5+3=8
+."
+},
+{
+"q": "Simplify 
+𝑠
+𝑞
+𝑟
+𝑡
+75
+−
+𝑠
+𝑞
+𝑟
+𝑡
+12
+sqrt75−
+sqrt12
+.",
+"opts":["
+3
+𝑠
+𝑞
+𝑟
+𝑡
+3
+3
+sqrt3
+", "
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+2
+sqrt3
+", "
+5
+𝑠
+𝑞
+𝑟
+𝑡
+3
+5
+sqrt3
+", "
+7
+𝑠
+𝑞
+𝑟
+𝑡
+3
+7
+sqrt3
+"],
+"ans": 0,
+"explanation": "
+𝑠
+𝑞
+𝑟
+𝑡
+75
+=
+𝑠
+𝑞
+𝑟
+𝑡
+25
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+=
+5
+𝑠
+𝑞
+𝑟
+𝑡
+3
+sqrt75=
+sqrt25times3=5
+sqrt3
+. 
+𝑠
+𝑞
+𝑟
+𝑡
+12
+=
+𝑠
+𝑞
+𝑟
+𝑡
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+=
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+sqrt12=
+sqrt4times3=2
+sqrt3
+. Difference is 
+5
+𝑠
+𝑞
+𝑟
+𝑡
+3
+−
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+=
+3
+𝑠
+𝑞
+𝑟
+𝑡
+3
+5
+sqrt3−2
+sqrt3=3
+sqrt3
+."
+},
+{
+"q": "Rationalize 
+𝑓
+𝑟
+𝑎
+𝑐
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+frac2sqrt3
+.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+𝑠
+𝑞
+𝑟
+𝑡
+3
+2
+fracsqrt32
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+3
+frac2sqrt33
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+3
+𝑠
+𝑞
+𝑟
+𝑡
+3
+2
+frac3sqrt32
+", "
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+2
+sqrt3
+"],
+"ans": 1,
+"explanation": "Multiply numerator and denominator by 
+𝑠
+𝑞
+𝑟
+𝑡
+3
+sqrt3
+ to get 
+𝑓
+𝑟
+𝑎
+𝑐
+2
+𝑠
+𝑞
+𝑟
+𝑡
+3
+3
+frac2sqrt33
+."
+},
+{
+"q": "Correct 
+0.005678
+0.005678
+ to two significant figures.",
+"opts":["
+0.01
+0.01
+", "
+0.0056
+0.0056
+", "
+0.0057
+0.0057
+", "
+0.0060
+0.0060
+"],
+"ans": 2,
+"explanation": "The first non-zero digit is 5. The next is 6. The third is 7 (which is 5 or greater), so round up the 6 to 7. Result: 
+0.0057
+0.0057
+."
+},
+{
+"q": "A trader bought a shirt for N4000 and sold it for N5000. Calculate the percentage profit.",
+"opts":["20%", "25%", "30%", "40%"],
+"ans": 1,
+"explanation": "Profit = 
+5000
+−
+4000
+=
+1000
+5000−4000=1000
+. Percentage profit = 
+(
+1000
+/
+4000
+)
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+100
+=
+25
+(1000/4000)
+times100=25
+."
+},
+{
+"q": "Find the simple interest on N5000 for 3 years at 4% per annum.",
+"opts":["N400", "N500", "N600", "N800"],
+"ans": 2,
+"explanation": "Simple Interest = 
+(
+𝑃
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑅
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑇
+)
+/
+100
+=
+(
+5000
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+)
+/
+100
+=
+600
+(P
+timesR
+timesT)/100=(5000
+times4
+times3)/100=600
+."
+},
+{
+"q": "Calculate the amount if N1000 is invested for 2 years at 10% per annum compound interest.",
+"opts":["N1100", "N1200", "N1210", "N1300"],
+"ans": 2,
+"explanation": "Amount = 
+𝑃
+(
+1
++
+𝑓
+𝑟
+𝑎
+𝑐
+𝑅
+100
+)
+𝑛
+=
+1000
+(
+1.1
+)
+2
+=
+1000
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+1.21
+=
+1210
+P(1+
+fracR100)
+n
+=1000(1.1)
+2
+=1000
+times1.21=1210
+."
+},
+{
+"q": "If P = {2, 3, 5, 7} and Q = {1, 3, 5, 7, 9}, find the intersection of P and Q.",
+"opts":["{3, 5, 7}", "{2, 3, 5, 7, 9}", "{1, 2, 3, 5, 7, 9}", "{1, 9}"],
+"ans": 0,
+"explanation": "The intersection contains elements common to both sets: 
+3
+,
+5
+3,5
+, and 
+7
+7
+."
+},
+{
+"q": "If A = {a, b, c} and B = {c, d, e}, find A union B.",
+"opts":["{a, b, c, d, e}", "{c}", "{a, b}", "{d, e}"],
+"ans": 0,
+"explanation": "The union combines all unique elements from both sets: 
+𝑎
+,
+𝑏
+,
+𝑐
+,
+𝑑
+,
+𝑒
+a,b,c,d,e
+."
+},
+{
+"q": "Expand 
+(
+2
+𝑥
+−
+3
+)
+(
+𝑥
++
+4
+)
+(2x−3)(x+4)
+.",
+"opts":["
+2
+𝑥
+2
++
+5
+𝑥
+−
+12
+2x
+2
++5x−12
+", "
+2
+𝑥
+2
++
+8
+𝑥
+−
+12
+2x
+2
++8x−12
+", "
+2
+𝑥
+2
+−
+5
+𝑥
++
+12
+2x
+2
+−5x+12
+", "
+2
+𝑥
+2
++
+11
+𝑥
+−
+12
+2x
+2
++11x−12
+"],
+"ans": 0,
+"explanation": "
+(
+2
+𝑥
+−
+3
+)
+(
+𝑥
++
+4
+)
+=
+2
+𝑥
+2
++
+8
+𝑥
+−
+3
+𝑥
+−
+12
+=
+2
+𝑥
+2
++
+5
+𝑥
+−
+12
+(2x−3)(x+4)=2x
+2
++8x−3x−12=2x
+2
++5x−12
+."
+},
+{
+"q": "Factorize completely: 
+𝑥
+2
+−
+9
+𝑦
+2
+x
+2
+−9y
+2
+.",
+"opts":["
+(
+𝑥
+−
+9
+𝑦
+)
+(
+𝑥
++
+𝑦
+)
+(x−9y)(x+y)
+", "
+(
+𝑥
+−
+3
+𝑦
+)
+(
+𝑥
+−
+3
+𝑦
+)
+(x−3y)(x−3y)
+", "
+(
+𝑥
+−
+3
+𝑦
+)
+(
+𝑥
++
+3
+𝑦
+)
+(x−3y)(x+3y)
+", "
+(
+𝑥
++
+3
+𝑦
+)
+(
+𝑥
++
+3
+𝑦
+)
+(x+3y)(x+3y)
+"],
+"ans": 2,
+"explanation": "This is a difference of two squares: 
+𝑎
+2
+−
+𝑏
+2
+=
+(
+𝑎
+−
+𝑏
+)
+(
+𝑎
++
+𝑏
+)
+a
+2
+−b
+2
+=(a−b)(a+b)
+. Here, 
+𝑎
+=
+𝑥
+a=x
+ and 
+𝑏
+=
+3
+𝑦
+b=3y
+, giving 
+(
+𝑥
+−
+3
+𝑦
+)
+(
+𝑥
++
+3
+𝑦
+)
+(x−3y)(x+3y)
+."
+},
+{
+"q": "Make 
+𝑢
+u
+ the subject of the formula: 
+𝑣
+=
+𝑢
++
+𝑎
+𝑡
+v=u+at
+.",
+"opts":["
+𝑢
+=
+𝑣
++
+𝑎
+𝑡
+u=v+at
+", "
+𝑢
+=
+𝑣
+−
+𝑎
+𝑡
+u=v−at
+", "
+𝑢
+=
+𝑎
+𝑡
+−
+𝑣
+u=at−v
+", "
+𝑢
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑣
+𝑎
+𝑡
+u=
+fracvat
+"],
+"ans": 1,
+"explanation": "Subtract 
+𝑎
+𝑡
+at
+ from both sides to isolate 
+𝑢
+u
+. Therefore, 
+𝑢
+=
+𝑣
+−
+𝑎
+𝑡
+u=v−at
+."
+},
+{
+"q": "Solve the inequality: 
+3
+𝑥
+−
+4
+𝑙
+𝑒
+𝑞
+5
+𝑥
++
+8
+3x−4
+leq5x+8
+.",
+"opts":["
+𝑥
+𝑔
+𝑒
+𝑞
+−
+6
+x
+geq−6
+", "
+𝑥
+𝑙
+𝑒
+𝑞
+−
+6
+x
+leq−6
+", "
+𝑥
+𝑔
+𝑒
+𝑞
+6
+x
+geq6
+", "
+𝑥
+𝑙
+𝑒
+𝑞
+6
+x
+leq6
+"],
+"ans": 0,
+"explanation": "
+3
+𝑥
+−
+5
+𝑥
+𝑙
+𝑒
+𝑞
+8
++
+4
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+−
+2
+𝑥
+𝑙
+𝑒
+𝑞
+12
+3x−5x
+leq8+4
+Rightarrow−2x
+leq12
+. Dividing by 
+−
+2
+−2
+ flips the inequality sign: 
+𝑥
+𝑔
+𝑒
+𝑞
+−
+6
+x
+geq−6
+."
+},
+{
+"q": "Solve for x and y: 
+𝑥
++
+𝑦
+=
+5
+x+y=5
+ and 
+2
+𝑥
+−
+𝑦
+=
+4
+2x−y=4
+.",
+"opts":["
+𝑥
+=
+3
+,
+𝑦
+=
+2
+x=3,y=2
+", "
+𝑥
+=
+2
+,
+𝑦
+=
+3
+x=2,y=3
+", "
+𝑥
+=
+4
+,
+𝑦
+=
+1
+x=4,y=1
+", "
+𝑥
+=
+1
+,
+𝑦
+=
+4
+x=1,y=4
+"],
+"ans": 0,
+"explanation": "Add the equations: 
+(
+𝑥
++
+𝑦
+)
++
+(
+2
+𝑥
+−
+𝑦
+)
+=
+5
++
+4
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+3
+𝑥
+=
+9
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+3
+(x+y)+(2x−y)=5+4
+Rightarrow3x=9
+Rightarrowx=3
+. Substitute 
+𝑥
+=
+3
+x=3
+ into first equation: 
+3
++
+𝑦
+=
+5
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑦
+=
+2
+3+y=5
+Rightarrowy=2
+."
+},
+{
+"q": "Find the roots of the equation 
+𝑥
+2
+−
+5
+𝑥
++
+6
+=
+0
+x
+2
+−5x+6=0
+.",
+"opts":["
+−
+2
+,
+−
+3
+−2,−3
+", "
+2
+,
+3
+2,3
+", "
+1
+,
+6
+1,6
+", "
+−
+1
+,
+−
+6
+−1,−6
+"],
+"ans": 1,
+"explanation": "Factorize: 
+𝑥
+2
+−
+3
+𝑥
+−
+2
+𝑥
++
+6
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+(
+𝑥
+−
+3
+)
+(
+𝑥
+−
+2
+)
+=
+0
+x
+2
+−3x−2x+6=0
+Rightarrow(x−3)(x−2)=0
+. Roots are 
+𝑥
+=
+2
+x=2
+ and 
+𝑥
+=
+3
+x=3
+."
+},
+{
+"q": "If 
+𝑦
+y
+ varies directly as 
+𝑥
+x
+ and 
+𝑦
+=
+15
+y=15
+ when 
+𝑥
+=
+3
+x=3
+, find 
+𝑦
+y
+ when 
+𝑥
+=
+5
+x=5
+.",
+"opts":["
+15
+15
+", "
+20
+20
+", "
+25
+25
+", "
+30
+30
+"],
+"ans": 2,
+"explanation": "
+𝑦
+=
+𝑘
+𝑥
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+15
+=
+3
+𝑘
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑘
+=
+5
+y=kx
+Rightarrow15=3k
+Rightarrowk=5
+. When 
+𝑥
+=
+5
+x=5
+, 
+𝑦
+=
+5
+(
+5
+)
+=
+25
+y=5(5)=25
+."
+},
+{
+"q": "If 
+𝑦
+y
+ varies inversely as 
+𝑥
+2
+x
+2
+, and 
+𝑦
+=
+4
+y=4
+ when 
+𝑥
+=
+3
+x=3
+, find the constant of variation.",
+"opts":["
+12
+12
+", "
+24
+24
+", "
+36
+36
+", "
+48
+48
+"],
+"ans": 2,
+"explanation": "
+𝑦
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑘
+𝑥
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+4
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑘
+3
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+4
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑘
+9
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑘
+=
+36
+y=
+frackx
+2
+Rightarrow4=
+frack3
+2
+Rightarrow4=
+frack9
+Rightarrowk=36
+."
+},
+{
+"q": "Find the remainder when 
+𝑥
+3
+−
+2
+𝑥
+2
++
+4
+𝑥
+−
+5
+x
+3
+−2x
+2
++4x−5
+ is divided by 
+𝑥
+−
+2
+x−2
+.",
+"opts": ["
+−
+5
+−5
+", "
+3
+3
+", "
+5
+5
+", "
+11
+11
+"],
+"ans": 1,
+"explanation": "Using the remainder theorem, substitute 
+𝑥
+=
+2
+x=2
+: 
+(
+2
+)
+3
+−
+2
+(
+2
+)
+2
++
+4
+(
+2
+)
+−
+5
+=
+8
+−
+8
++
+8
+−
+5
+=
+3
+(2)
+3
+−2(2)
+2
++4(2)−5=8−8+8−5=3
+."
+},
+{
+"q": "A binary operation * is defined by 
+𝑎
+∗
+𝑏
+=
+𝑎
++
+𝑏
++
+2
+a∗b=a+b+2
+. Find the identity element.",
+"opts": ["
+−
+2
+−2
+", "
+0
+0
+", "
+2
+2
+", "
+4
+4
+"],
+"ans": 0,
+"explanation": "Let 
+𝑒
+e
+ be the identity. 
+𝑎
+∗
+𝑒
+=
+𝑎
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑎
++
+𝑒
++
+2
+=
+𝑎
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑒
++
+2
+=
+0
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑒
+=
+−
+2
+a∗e=a
+Rightarrowa+e+2=a
+Rightarrowe+2=0
+Rightarrowe=−2
+."
+},
+{
+"q": "The 4th term of an AP is 14 and the 1st term is 2. Find the common difference.",
+"opts":["
+3
+3
+", "
+4
+4
+", "
+5
+5
+", "
+6
+6
+"],
+"ans": 1,
+"explanation": "
+𝑇
+4
+=
+𝑎
++
+3
+𝑑
+=
+14
+T
+4
+	​
+
+=a+3d=14
+. Since 
+𝑎
+=
+2
+a=2
+, 
+2
++
+3
+𝑑
+=
+14
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+3
+𝑑
+=
+12
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑑
+=
+4
+2+3d=14
+Rightarrow3d=12
+Rightarrowd=4
+."
+},
+{
+"q": "Find the sum of the first 10 terms of an AP whose first term is 5 and common difference is 2.",
+"opts":["
+100
+100
+", "
+120
+120
+", "
+140
+140
+", "
+150
+150
+"],
+"ans": 2,
+"explanation": "
+𝑆
+𝑛
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑛
+2
+[
+2
+𝑎
++
+(
+𝑛
+−
+1
+)
+𝑑
+]
+S
+n
+	​
+
+=
+fracn2[2a+(n−1)d]
+. 
+𝑆
+10
+=
+5
+[
+10
++
+9
+(
+2
+)
+]
+=
+5
+(
+28
+)
+=
+140
+S
+10
+	​
+
+=5[10+9(2)]=5(28)=140
+."
+},
+{
+"q": "Find the sum to infinity of the geometric progression 8, 4, 2, 1, ...",
+"opts":["
+12
+12
+", "
+15
+15
+", "
+16
+16
+", "
+32
+32
+"],
+"ans": 2,
+"explanation": "
+. Here 
+𝑎
+=
+8
+,
+𝑟
+=
+0.5
+a=8,r=0.5
+. 
+."
+},
+{
+"q": "Which of these statements represents the contrapositive of 'If it rains, then the ground is wet'?",
+"opts":["If the ground is wet, then it rains", "If it does not rain, then the ground is not wet", "If the ground is not wet, then it does not rain", "It rains and the ground is wet"],
+"ans": 2,
+"explanation": "The contrapositive of 
+𝑝
+𝑡
+𝑜
+𝑞
+p
+toq
+ is 
+𝑠
+𝑖
+𝑚
+𝑞
+𝑡
+𝑜
+𝑠
+𝑖
+𝑚
+𝑝
+simq
+to
+simp
+."
+},
+{
+"q": "If matrix 
+𝑃
+=
+(
+2
+,
+−
+1
+)
+P=(2,−1)
+ and 
+𝑄
+=
+(
+3
+,
+4
+)
+Q=(3,4)
+, find 
+𝑃
++
+𝑄
+P+Q
+.",
+"opts":["
+(
+5
+,
+3
+)
+(5,3)
+", "
+(
+1
+,
+5
+)
+(1,5)
+", "
+(
+5
+,
+5
+)
+(5,5)
+", "
+(
+−
+1
+,
+3
+)
+(−1,3)
+"],
+"ans": 0,
+"explanation": "
+𝑃
++
+𝑄
+=
+(
+2
++
+3
+,
+−
+1
++
+4
+)
+=
+(
+5
+,
+3
+)
+P+Q=(2+3,−1+4)=(5,3)
+."
+},
+{
+"q": "A matrix is said to be singular if its determinant is:",
+"opts":["
+1
+1
+", "
+−
+1
+−1
+", "
+0
+0
+", "
+10
+10
+"],
+"ans": 2,
+"explanation": "A singular matrix has a determinant of 
+0
+0
+ and therefore has no inverse."
+},
+{
+"q": "If the determinant of the 2x2 matrix with row 1: 
+(
+𝑥
+,
+2
+)
+(x,2)
+ and row 2: 
+(
+3
+,
+4
+)
+(3,4)
+ is 
+10
+10
+, find 
+𝑥
+x
+.",
+"opts":["
+2
+2
+", "
+3
+3
+", "
+4
+4
+", "
+5
+5
+"],
+"ans": 2,
+"explanation": "Determinant = 
+4
+𝑥
+−
+6
+=
+10
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+4
+𝑥
+=
+16
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+4
+4x−6=10
+Rightarrow4x=16
+Rightarrowx=4
+."
+},
+{
+"q": "The sum of two numbers is 10 and their difference is 4. Find the larger number.",
+"opts":["
+3
+3
+", "
+5
+5
+", "
+7
+7
+", "
+9
+9
+"],
+"ans": 2,
+"explanation": "
+𝑥
++
+𝑦
+=
+10
+x+y=10
+, 
+𝑥
+−
+𝑦
+=
+4
+x−y=4
+. Adding gives 
+2
+𝑥
+=
+14
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+7
+2x=14
+Rightarrowx=7
+."
+},
+{
+"q": "The sum of the interior angles of a regular polygon is 
+. How many sides does it have?",
+"opts": ["
+6
+6
+", "
+7
+7
+", "
+8
+8
+", "
+10
+10
+"],
+"ans": 2,
+"explanation": "
+(
+𝑛
+−
+2
+)
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+180
+=
+1080
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑛
+−
+2
+=
+6
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑛
+=
+8
+(n−2)
+times180=1080
+Rightarrown−2=6
+Rightarrown=8
+."
+},
+{
+"q": "An exterior angle of a regular polygon is 
+. Find the number of sides.",
+"opts": ["
+7
+7
+", "
+8
+8
+", "
+9
+9
+", "
+10
+10
+"],
+"ans": 2,
+"explanation": "Number of sides 
+𝑛
+=
+𝑓
+𝑟
+𝑎
+𝑐
+36040
+=
+9
+n=
+frac36040=9
+."
+},
+{
+"q": "A chord subtends an angle of 
+ at the circumference of a circle. What is the angle subtended at the centre?",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 3,
+"explanation": "Angle at the centre is twice the angle at the circumference: 
+."
+},
+{
+"q": "Find the area of a triangle with base 8 cm and height 5 cm.",
+"opts":["
+10
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+10
+textcm
+2
+", "
+20
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+20
+textcm
+2
+", "
+30
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+30
+textcm
+2
+", "
+40
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+40
+textcm
+2
+"],
+"ans": 1,
+"explanation": "Area = 
+𝑓
+𝑟
+𝑎
+𝑐
+12
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑡
+𝑒
+𝑥
+𝑡
+𝑏
+𝑎
+𝑠
+𝑒
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑡
+𝑒
+𝑥
+𝑡
+ℎ
+𝑒
+𝑖
+𝑔
+ℎ
+𝑡
+=
+𝑓
+𝑟
+𝑎
+𝑐
+12
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+8
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+5
+=
+20
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+frac12
+times
+textbase
+times
+textheight=
+frac12
+times8
+times5=20
+textcm
+2
+."
+},
+{
+"q": "Find the area of a trapezium whose parallel sides are 6 cm and 10 cm, and perpendicular height is 4 cm.",
+"opts":["
+24
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+24
+textcm
+2
+", "
+32
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+32
+textcm
+2
+", "
+48
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+48
+textcm
+2
+", "
+64
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+64
+textcm
+2
+"],
+"ans": 1,
+"explanation": "Area = 
+𝑓
+𝑟
+𝑎
+𝑐
+12
+(
+𝑎
++
+𝑏
+)
+ℎ
+=
+𝑓
+𝑟
+𝑎
+𝑐
+12
+(
+6
++
+10
+)
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+4
+=
+𝑓
+𝑟
+𝑎
+𝑐
+12
+(
+16
+)
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+4
+=
+32
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+frac12(a+b)h=
+frac12(6+10)
+times4=
+frac12(16)
+times4=32
+textcm
+2
+."
+},
+{
+"q": "Calculate the perimeter of a sector of a circle of radius 7 cm which subtends an angle of 
+ at the centre. (Take 
+𝑝
+𝑖
+=
+𝑓
+𝑟
+𝑎
+𝑐
+227
+pi=
+frac227
+)",
+"opts":["
+11
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+11
+textcm
+", "
+18
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+18
+textcm
+", "
+25
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+25
+textcm
+", "
+36
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+36
+textcm
+"],
+"ans": 2,
+"explanation": "Arc length = 
+𝑓
+𝑟
+𝑎
+𝑐
+90360
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑓
+𝑟
+𝑎
+𝑐
+227
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+7
+=
+11
+frac90360
+times2
+times
+frac227
+times7=11
+. Perimeter = Arc + 
+2
+𝑟
+=
+11
++
+14
+=
+25
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2r=11+14=25
+textcm
+."
+},
+{
+"q": "Find the volume of a cylinder of base radius 5 cm and height 10 cm. (Leave answer in terms of 
+𝑝
+𝑖
+pi
+)",
+"opts":["
+50
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+50
+pi
+textcm
+3
+", "
+100
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+100
+pi
+textcm
+3
+", "
+250
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+250
+pi
+textcm
+3
+", "
+500
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+500
+pi
+textcm
+3
+"],
+"ans": 2,
+"explanation": "Volume = 
+𝑝
+𝑖
+𝑟
+2
+ℎ
+=
+𝑝
+𝑖
+(
+5
+2
+)
+(
+10
+)
+=
+250
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+3
+pir
+2
+h=
+pi(5
+2
+)(10)=250
+pi
+textcm
+3
+."
+},
+{
+"q": "The base radius of a cone is 3 cm and its slant height is 5 cm. Find its curved surface area.",
+"opts":["
+12
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+12
+pi
+textcm
+2
+", "
+15
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+15
+pi
+textcm
+2
+", "
+24
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+24
+pi
+textcm
+2
+", "
+30
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+30
+pi
+textcm
+2
+"],
+"ans": 1,
+"explanation": "Curved Surface Area = 
+𝑝
+𝑖
+𝑟
+𝑙
+=
+𝑝
+𝑖
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+5
+=
+15
+𝑝
+𝑖
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+2
+pirl=
+pi
+times3
+times5=15
+pi
+textcm
+2
+."
+},
+{
+"q": "What is the locus of a point equidistant from two intersecting straight lines?",
+"opts":["A circle", "The angle bisector of the lines", "A parallel line", "A perpendicular bisector"],
+"ans": 1,
+"explanation": "The locus of points equidistant from two intersecting lines is the bisector of the angle between them."
+},
+{
+"q": "A town P is on latitude 
+. Find the radius of its parallel of latitude if the radius of the Earth is R.",
+"opts":["
+", "
+", "
+", "
+𝑅
+R
+"],
+"ans": 1,
+"explanation": "The radius 
+𝑟
+r
+ of a parallel of latitude 
+𝑎
+𝑙
+𝑝
+ℎ
+𝑎
+alpha
+ is 
+𝑅
+𝑐
+𝑜
+𝑠
+𝑎
+𝑙
+𝑝
+ℎ
+𝑎
+R
+cos
+alpha
+. Therefore, 
+."
+},
+{
+"q": "In a right-angled triangle, the sides adjacent to the right angle are 5 cm and 12 cm. Find the hypotenuse.",
+"opts":["
+13
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+13
+textcm
+", "
+14
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+14
+textcm
+", "
+15
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+15
+textcm
+", "
+17
+𝑡
+𝑒
+𝑥
+𝑡
+𝑐
+𝑚
+17
+textcm
+"],
+"ans": 0,
+"explanation": "Using Pythagoras theorem: 
+ℎ
+2
+=
+5
+2
++
+12
+2
+=
+25
++
+144
+=
+169
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+ℎ
+=
+13
+h
+2
+=5
+2
++12
+2
+=25+144=169
+Rightarrowh=13
+."
+},
+{
+"q": "If 
+𝑠
+𝑖
+𝑛
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+𝑓
+𝑟
+𝑎
+𝑐
+35
+sin
+theta=
+frac35
+ and 
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+theta
+ is acute, find 
+𝑐
+𝑜
+𝑠
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+cos
+theta
+.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+25
+frac25
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+34
+frac34
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+45
+frac45
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+53
+frac53
+"],
+"ans": 2,
+"explanation": "Using 
+𝑠
+𝑖
+𝑛
+2
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
++
+𝑐
+𝑜
+𝑠
+2
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+1
+sin
+2
+theta+
+cos
+2
+theta=1
+, 
+𝑐
+𝑜
+𝑠
+2
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+1
+−
+(
+𝑓
+𝑟
+𝑎
+𝑐
+35
+)
+2
+=
+1
+−
+𝑓
+𝑟
+𝑎
+𝑐
+925
+=
+𝑓
+𝑟
+𝑎
+𝑐
+1625
+cos
+2
+theta=1−(
+frac35)
+2
+=1−
+frac925=
+frac1625
+. Thus 
+𝑐
+𝑜
+𝑠
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+𝑓
+𝑟
+𝑎
+𝑐
+45
+cos
+theta=
+frac45
+."
+},
+{
+"q": "Evaluate 
+.",
+"opts":["
+1
+1
+", "
+𝑠
+𝑞
+𝑟
+𝑡
+3
+sqrt3
+", "
+0
+0
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+12
+frac12
+"],
+"ans": 0,
+"explanation": "
+ and 
+. Their sum is 
+0.5
++
+0.5
+=
+1
+0.5+0.5=1
+."
+},
+{
+"q": "Find the angle of elevation of the top of a 10m high tree from a point 10m away from its base.",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 1,
+"explanation": "
+𝑡
+𝑎
+𝑛
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑡
+𝑒
+𝑥
+𝑡
+𝑂
+𝑝
+𝑝
+𝑜
+𝑠
+𝑖
+𝑡
+𝑒
+𝑡
+𝑒
+𝑥
+𝑡
+𝐴
+𝑑
+𝑗
+𝑎
+𝑐
+𝑒
+𝑛
+𝑡
+=
+𝑓
+𝑟
+𝑎
+𝑐
+1010
+=
+1
+tan
+theta=
+fractextOppositetextAdjacent=
+frac1010=1
+. 
+."
+},
+{
+"q": "In triangle ABC, 
+𝑎
+=
+5
+a=5
+, 
+𝑏
+=
+7
+b=7
+, and angle 
+. Find 
+𝑐
+2
+c
+2
+.",
+"opts":["
+39
+39
+", "
+74
+74
+", "
+109
+109
+", "
+124
+124
+"],
+"ans": 0,
+"explanation": "By Cosine rule: 
+𝑐
+2
+=
+𝑎
+2
++
+𝑏
+2
+−
+2
+𝑎
+𝑏
+𝑐
+𝑜
+𝑠
+𝐶
+=
+25
++
+49
+−
+2
+(
+5
+)
+(
+7
+)
+(
+0.5
+)
+=
+74
+−
+35
+=
+39
+c
+2
+=a
+2
++b
+2
+−2ab
+cosC=25+49−2(5)(7)(0.5)=74−35=39
+."
+},
+{
+"q": "Convert 
+ to radians.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+𝑝
+𝑖
+2
+fracpi2
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+𝑝
+𝑖
+3
+fracpi3
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+𝑝
+𝑖
+4
+fracpi4
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+𝑝
+𝑖
+6
+fracpi6
+"],
+"ans": 1,
+"explanation": "Multiply by 
+: 
+60
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑓
+𝑟
+𝑎
+𝑐
+𝑝
+𝑖
+180
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑝
+𝑖
+3
+60
+times
+fracpi180=
+fracpi3
+."
+},
+{
+"q": "If the bearing of A from B is 
+, what is the bearing of B from A?",
+"opts":["
+", "
+", "
+", "
+"],
+"ans": 1,
+"explanation": "Back bearing = Given bearing + 
+."
+},
+{
+"q": "Given that 
+, find A.",
+"opts": ["
+20
+20
+", "
+30
+30
+", "
+40
+40
+", "
+50
+50
+"],
+"ans": 2,
+"explanation": "Since 
+𝑠
+𝑖
+𝑛
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+=
+𝑐
+𝑜
+𝑠
+(
+90
+−
+𝑡
+ℎ
+𝑒
+𝑡
+𝑎
+)
+sin
+theta=
+cos(90−
+theta)
+, then 
+(
+𝐴
+−
+10
+)
++
+(
+𝐴
++
+20
+)
+=
+90
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+𝐴
++
+10
+=
+90
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝐴
+=
+40
+(A−10)+(A+20)=90
+Rightarrow2A+10=90
+RightarrowA=40
+."
+},
+{
+"q": "What is the maximum value of 
+𝑦
+=
+3
+𝑠
+𝑖
+𝑛
+𝑥
+y=3
+sinx
+?",
+"opts":["
+1
+1
+", "
+2
+2
+", "
+3
+3
+", "
+6
+6
+"],
+"ans": 2,
+"explanation": "The maximum value of 
+𝑠
+𝑖
+𝑛
+𝑥
+sinx
+ is 1. Therefore, 
+3
+(
+1
+)
+=
+3
+3(1)=3
+."
+},
+{
+"q": "In which quadrant is both sine and cosine negative?",
+"opts":["First", "Second", "Third", "Fourth"],
+"ans": 2,
+"explanation": "Using ASTC (All Students Take Calculus): Only Tangent is positive in the 3rd quadrant, meaning sine and cosine are negative."
+},
+{
+"q": "Find the distance between the points P(2, 3) and Q(5, 7).",
+"opts":["
+3
+3
+", "
+4
+4
+", "
+5
+5
+", "
+6
+6
+"],
+"ans": 2,
+"explanation": "Distance = 
+𝑠
+𝑞
+𝑟
+𝑡
+(
+5
+−
+2
+)
+2
++
+(
+7
+−
+3
+)
+2
+=
+𝑠
+𝑞
+𝑟
+𝑡
+3
+2
++
+4
+2
+=
+𝑠
+𝑞
+𝑟
+𝑡
+25
+=
+5
+sqrt(5−2)
+2
++(7−3)
+2
+=
+sqrt3
+2
++4
+2
+=
+sqrt25=5
+."
+},
+{
+"q": "Find the midpoint of the line segment joining A(-2, 4) and B(6, 8).",
+"opts":["
+(
+2
+,
+6
+)
+(2,6)
+", "
+(
+4
+,
+12
+)
+(4,12)
+", "
+(
+2
+,
+4
+)
+(2,4)
+", "
+(
+4
+,
+6
+)
+(4,6)
+"],
+"ans": 0,
+"explanation": "Midpoint = 
+(
+𝑓
+𝑟
+𝑎
+𝑐
+−
+2
++
+6
+2
+,
+𝑓
+𝑟
+𝑎
+𝑐
+4
++
+8
+2
+)
+=
+(
+𝑓
+𝑟
+𝑎
+𝑐
+42
+,
+𝑓
+𝑟
+𝑎
+𝑐
+122
+)
+=
+(
+2
+,
+6
+)
+(
+frac−2+62,
+frac4+82)=(
+frac42,
+frac122)=(2,6)
+."
+},
+{
+"q": "Find the gradient of the line passing through (1, -2) and (3, 4).",
+"opts": ["
+−
+3
+−3
+", "
+2
+2
+", "
+3
+3
+", "
+6
+6
+"],
+"ans": 2,
+"explanation": "Gradient 
+𝑚
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑦
+2
+−
+𝑦
+1
+𝑥
+2
+−
+𝑥
+1
+=
+𝑓
+𝑟
+𝑎
+𝑐
+4
+−
+(
+−
+2
+)
+3
+−
+1
+=
+𝑓
+𝑟
+𝑎
+𝑐
+62
+=
+3
+m=
+fracy
+2
+	​
+
+−y
+1
+	​
+
+x
+2
+	​
+
+−x
+1
+	​
+
+=
+frac4−(−2)3−1=
+frac62=3
+."
+},
+{
+"q": "Find the equation of a line with gradient 2 passing through (1, 3).",
+"opts":["
+𝑦
+=
+2
+𝑥
++
+1
+y=2x+1
+", "
+𝑦
+=
+2
+𝑥
+−
+1
+y=2x−1
+", "
+𝑦
+=
+2
+𝑥
++
+3
+y=2x+3
+", "
+𝑦
+=
+𝑥
++
+2
+y=x+2
+"],
+"ans": 0,
+"explanation": "Using 
+𝑦
+−
+𝑦
+1
+=
+𝑚
+(
+𝑥
+−
+𝑥
+1
+)
+y−y
+1
+	​
+
+=m(x−x
+1
+	​
+
+)
+: 
+𝑦
+−
+3
+=
+2
+(
+𝑥
+−
+1
+)
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑦
+=
+2
+𝑥
+−
+2
++
+3
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑦
+=
+2
+𝑥
++
+1
+y−3=2(x−1)
+Rightarrowy=2x−2+3
+Rightarrowy=2x+1
+."
+},
+{
+"q": "If two lines are parallel, what is the relationship between their gradients 
+𝑚
+1
+m
+1
+	​
+
+ and 
+𝑚
+2
+m
+2
+	​
+
+?",
+"opts":["
+𝑚
+1
++
+𝑚
+2
+=
+0
+m
+1
+	​
+
++m
+2
+	​
+
+=0
+", "
+𝑚
+1
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+𝑚
+2
+=
+−
+1
+m
+1
+	​
+
+timesm
+2
+	​
+
+=−1
+", "
+𝑚
+1
+=
+𝑚
+2
+m
+1
+	​
+
+=m
+2
+	​
+
+", "
+𝑚
+1
+−
+𝑚
+2
+=
+1
+m
+1
+	​
+
+−m
+2
+	​
+
+=1
+"],
+"ans": 2,
+"explanation": "Parallel lines have the exact same gradient, so 
+𝑚
+1
+=
+𝑚
+2
+m
+1
+	​
+
+=m
+2
+	​
+
+."
+},
+{
+"q": "Evaluate 
+𝑙
+𝑖
+𝑚
+𝑥
+𝑡
+𝑜
+2
+𝑓
+𝑟
+𝑎
+𝑐
+𝑥
+2
+−
+4
+𝑥
+−
+2
+lim
+xto2
+	​
+
+fracx
+2
+−4x−2
+.",
+"opts":["
+0
+0
+", "
+2
+2
+", "
+4
+4
+", "Undefined"],
+"ans": 2,
+"explanation": "Factorize numerator: 
+𝑙
+𝑖
+𝑚
+𝑥
+𝑡
+𝑜
+2
+𝑓
+𝑟
+𝑎
+𝑐
+(
+𝑥
+−
+2
+)
+(
+𝑥
++
+2
+)
+𝑥
+−
+2
+=
+𝑙
+𝑖
+𝑚
+𝑥
+𝑡
+𝑜
+2
+(
+𝑥
++
+2
+)
+=
+2
++
+2
+=
+4
+lim
+xto2
+	​
+
+frac(x−2)(x+2)x−2=
+lim
+xto2
+	​
+
+(x+2)=2+2=4
+."
+},
+{
+"q": "Find the derivative of 
+𝑦
+=
+3
+𝑥
+4
+−
+2
+𝑥
+2
++
+5
+𝑥
+y=3x
+4
+−2x
+2
++5x
+.",
+"opts":["
+12
+𝑥
+3
+−
+4
+𝑥
++
+5
+12x
+3
+−4x+5
+", "
+12
+𝑥
+3
+−
+2
+𝑥
++
+5
+12x
+3
+−2x+5
+", "
+4
+𝑥
+3
+−
+4
+𝑥
++
+5
+4x
+3
+−4x+5
+", "
+12
+𝑥
+2
+−
+4
+𝑥
++
+5
+12x
+2
+−4x+5
+"],
+"ans": 0,
+"explanation": "Using the power rule: 
+4
+(
+3
+)
+𝑥
+3
+−
+2
+(
+2
+)
+𝑥
+1
++
+5
+=
+12
+𝑥
+3
+−
+4
+𝑥
++
+5
+4(3)x
+3
+−2(2)x
+1
++5=12x
+3
+−4x+5
+."
+},
+{
+"q": "Integrate 
+𝑖
+𝑛
+𝑡
+(
+2
+𝑥
++
+3
+)
+,
+𝑑
+𝑥
+int(2x+3)
+,dx
+.",
+"opts":["
+𝑥
+2
++
+3
+𝑥
++
+𝐶
+x
+2
++3x+C
+", "
+2
+𝑥
+2
++
+3
+𝑥
++
+𝐶
+2x
+2
++3x+C
+", "
+𝑥
+2
++
+3
++
+𝐶
+x
+2
++3+C
+", "
+𝑥
+2
+−
+3
+𝑥
++
+𝐶
+x
+2
+−3x+C
+"],
+"ans": 0,
+"explanation": "
+𝑖
+𝑛
+𝑡
+2
+𝑥
+𝑑
+𝑥
++
+𝑖
+𝑛
+𝑡
+3
+𝑑
+𝑥
+=
+𝑓
+𝑟
+𝑎
+𝑐
+2
+𝑥
+2
+2
++
+3
+𝑥
++
+𝐶
+=
+𝑥
+2
++
+3
+𝑥
++
+𝐶
+int2xdx+
+int3dx=
+frac2x
+2
+2+3x+C=x
+2
++3x+C
+."
+},
+{
+"q": "If 
+𝑓
+(
+𝑥
+)
+=
+2
+𝑥
+−
+3
+f(x)=2x−3
+ and 
+𝑔
+(
+𝑥
+)
+=
+𝑥
+2
+g(x)=x
+2
+, find 
+𝑓
+(
+𝑔
+(
+2
+)
+)
+f(g(2))
+.",
+"opts":["
+1
+1
+", "
+3
+3
+", "
+5
+5
+", "
+7
+7
+"],
+"ans": 2,
+"explanation": "
+𝑔
+(
+2
+)
+=
+2
+2
+=
+4
+g(2)=2
+2
+=4
+. Then 
+𝑓
+(
+4
+)
+=
+2
+(
+4
+)
+−
+3
+=
+8
+−
+3
+=
+5
+f(4)=2(4)−3=8−3=5
+."
+},
+{
+"q": "Find the inverse of the function 
+𝑓
+(
+𝑥
+)
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑥
++
+1
+2
+f(x)=
+fracx+12
+.",
+"opts":["
+2
+𝑥
+−
+1
+2x−1
+", "
+2
+𝑥
++
+1
+2x+1
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+2
+𝑥
++
+1
+frac2x+1
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+𝑥
+−
+1
+2
+fracx−12
+"],
+"ans": 0,
+"explanation": "Let 
+𝑦
+=
+𝑓
+𝑟
+𝑎
+𝑐
+𝑥
++
+1
+2
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+2
+𝑦
+=
+𝑥
++
+1
+𝑅
+𝑖
+𝑔
+ℎ
+𝑡
+𝑎
+𝑟
+𝑟
+𝑜
+𝑤
+𝑥
+=
+2
+𝑦
+−
+1
+y=
+fracx+12
+Rightarrow2y=x+1
+Rightarrowx=2y−1
+. So 
+𝑓
+−
+1
+(
+𝑥
+)
+=
+2
+𝑥
+−
+1
+f
+−1
+(x)=2x−1
+."
+},
+{
+"q": "Calculate the mean of the numbers 2, 4, 6, 8, 10.",
+"opts": ["
+4
+4
+", "
+5
+5
+", "
+6
+6
+", "
+8
+8
+"],
+"ans": 2,
+"explanation": "Mean = Sum / Count = 
+30
+/
+5
+=
+6
+30/5=6
+."
+},
+{
+"q": "Find the median of the set of numbers: 7, 3, 5, 8, 2, 9, 4.",
+"opts":["
+4
+4
+", "
+5
+5
+", "
+6
+6
+", "
+7
+7
+"],
+"ans": 1,
+"explanation": "Sorted order: 2, 3, 4, 5, 7, 8, 9. The middle number is 5."
+},
+{
+"q": "Find the mode of the distribution: 2, 3, 4, 4, 5, 4, 6, 7.",
+"opts": ["
+3
+3
+", "
+4
+4
+", "
+5
+5
+", "
+6
+6
+"],
+"ans": 1,
+"explanation": "The mode is the number that appears most frequently. 4 appears three times."
+},
+{
+"q": "Find the range of the data: 15, 21, 13, 27, 9, 30.",
+"opts": ["
+15
+15
+", "
+18
+18
+", "
+21
+21
+", "
+24
+24
+"],
+"ans": 2,
+"explanation": "Range = Maximum - Minimum = 
+30
+−
+9
+=
+21
+30−9=21
+."
+},
+{
+"q": "Find the variance of the numbers 1, 2, 3, 4, 5.",
+"opts":["
+1.5
+1.5
+", "
+2.0
+2.0
+", "
+2.5
+2.5
+", "
+3.0
+3.0
+"],
+"ans": 1,
+"explanation": "Mean = 3. Squared deviations: 
+4
+,
+1
+,
+0
+,
+1
+,
+4
+4,1,0,1,4
+. Sum = 10. Variance = 
+10
+/
+5
+=
+2.0
+10/5=2.0
+."
+},
+{
+"q": "A fair six-sided die is rolled once. Find the probability of obtaining a prime number.",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+16
+frac16
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+13
+frac13
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+12
+frac12
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+23
+frac23
+"],
+"ans": 2,
+"explanation": "Prime numbers on a die are 2, 3, and 5 (3 outcomes). Probability = 
+3
+/
+6
+=
+𝑓
+𝑟
+𝑎
+𝑐
+12
+3/6=
+frac12
+."
+},
+{
+"q": "A bag contains 3 red balls and 5 black balls. If a ball is picked at random, what is the probability it is black?",
+"opts":["
+𝑓
+𝑟
+𝑎
+𝑐
+38
+frac38
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+15
+frac15
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+58
+frac58
+", "
+𝑓
+𝑟
+𝑎
+𝑐
+35
+frac35
+"],
+"ans": 2,
+"explanation": "Total balls = 8. Black balls = 5. Probability = 
+𝑓
+𝑟
+𝑎
+𝑐
+58
+frac58
+."
+},
+{
+"q": "The probability a hunter hits a target is 0.6. If he fires twice, what is the probability he misses both times?",
+"opts":["
+0.16
+0.16
+", "
+0.24
+0.24
+", "
+0.36
+0.36
+", "
+0.40
+0.40
+"],
+"ans": 0,
+"explanation": "Probability of missing = 
+1
+−
+0.6
+=
+0.4
+1−0.6=0.4
+. Missing both times = 
+0.4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+0.4
+=
+0.16
+0.4
+times0.4=0.16
+."
+},
+{
+"q": "In how many ways can a committee of 3 be chosen from 5 people?",
+"opts": ["
+10
+10
+", "
+15
+15
+", "
+20
+20
+", "
+60
+60
+"],
+"ans": 0,
+"explanation": "Using combinations: 
+5
+𝐶
+3
+=
+𝑓
+𝑟
+𝑎
+𝑐
+5
+!
+3
+!
+(
+5
+−
+3
+)
+!
+=
+𝑓
+𝑟
+𝑎
+𝑐
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+4
+2
+=
+10
+5
+C
+3
+	​
+
+=
+frac5!3!(5−3)!=
+frac5times42=10
+."
+},
+{
+"q": "In how many ways can the letters of the word MATHS be arranged?",
+"opts":["
+24
+24
+", "
+60
+60
+", "
+120
+120
+", "
+720
+720
+"],
+"ans": 2,
+"explanation": "There are 5 unique letters. Number of arrangements = 
+5
+!
+=
+5
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+4
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+3
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+2
+𝑡
+𝑖
+𝑚
+𝑒
+𝑠
+1
+=
+120
+5!=5
+times4
+times3
+times2
+times1=120
+."
+}
 ]
