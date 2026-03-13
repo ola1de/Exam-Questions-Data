@@ -1,62 +1,421 @@
-[
-  {"type": "std", "q": "Ta ni ó kọ ìwé 'Ó le kú'?", "opts": ["Kọ́lá Akínlàdé", "Akínwùmí Ìṣọ̀lá", "Adébáyọ̀ Fálétí", "Ọlátubọ̀sún Ọládàpọ̀"], "ans": 0},
-  {"type": "std", "q": "Èwo ni fáwẹ̀lì àránmú?", "opts": ["an", "e", "o", "a"], "ans": 0},
-  {"type": "std", "q": "Kí ni orúkọ oyè Ọba Ìlú Ọ̀yọ́?", "opts": ["Aláàfin", "Ọọ̀ni", "Awùjalẹ̀", "Olúbàdàn"], "ans": 0},
-  {"type": "std", "q": "Àmì ohùn mélòó ló wà?", "opts": ["Mẹ́ta", "Méjì", "Mẹ́rin", "Marun"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Noun' ní èdè Yorùbá?", "opts": ["Ọ̀rọ̀ Orúkọ", "Ọ̀rọ̀ Ìṣe", "Ọ̀rọ̀ Àpọ́nlé", "Wúnrẹ̀n"], "ans": 0},
-  {"type": "std", "q": "Ta ni baba ńlá Yorùbá?", "opts": ["Odùduwà", "Lámúrúdú", "Moremi", "Ṣàngó"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Verb' ní èdè Yorùbá?", "opts": ["Ọ̀rọ̀ Ìṣe", "Ọ̀rọ̀ Orúkọ", "Àpèjúwe", "Atọ́kùn"], "ans": 0},
-  {"type": "std", "q": "Ọmọlúàbí ni ẹni tí ó ní:", "opts": ["Ìwà rere", "Owó", "Ilé", "Aṣọ"], "ans": 0},
-  {"type": "std", "q": "Èwo ni oúnjẹ àgbàdo?", "opts": ["Èkọ/Ogi", "Iyán", "Àmàlà", "Fùfú"], "ans": 0},
-  {"type": "std", "q": "Kí ni ìtumọ̀ 'Ẹ kú àárọ̀'?", "opts": ["Good morning", "Good afternoon", "Good evening", "Well done"], "ans": 0},
-  {"type": "std", "q": "Iṣẹ́ Bàtá lílù jẹ́ ti:", "opts": ["Àyàn", "Alágbẹ̀dẹ", "Gbẹ́nàgbẹ́nà", "Ọdẹ"], "ans": 0},
-  {"type": "std", "q": "Èṣù jẹ́ òrìṣà:", "opts": ["Oníwàhálà/Ẹlẹ́gbára", "Omi", "Iná", "Ogun"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Plural'?", "opts": ["Ọ̀pọ̀", "Ẹyọ", "Méjì", "Iye"], "ans": 0},
-  {"type": "std", "q": "Aṣọ ìbílẹ̀ Yorùbá ni:", "opts": ["Aṣọ Òkè", "Bùbá àti Ṣòkòtò", "Agbádá", "Gbogbo ìwọ̀nyí"], "ans": 3},
-  {"type": "std", "q": "Ta ni ó kọ 'Igbo Olódùmarè'?", "opts": ["D.O. Fágúnwà", "Wọlé Ṣóyinká", "Fálétí", "Ìṣọ̀lá"], "ans": 0},
-  {"type": "std", "q": "Kí ni a ń pe ìyàwó nílé ọkọ?", "opts": ["Iyàwó Ilé", "Aya", "Àpèwá", "Gbogbo ìwọ̀nyí"], "ans": 3},
-  {"type": "std", "q": "Iṣẹ́ wo ni a fi 'Ọkọ́' ṣe?", "opts": ["Iṣẹ́ Àgbẹ̀", "Ríran Aṣọ", "Gígẹ Irun", "Kíkọ́ Ilé"], "ans": 0},
-  {"type": "std", "q": "Ògún jẹ́ òrìṣà:", "opts": ["Irin", "Omi", "Afẹ́fẹ́", "Ilẹ̀"], "ans": 0},
-  {"type": "std", "q": "Kí ni ìtumọ̀ 'Ojú ń ro mí'?", "opts": ["Mo ń jìyà/Mo ń ṣiṣẹ́", "Ojú dùn mí", "Inú dùn mí", "Mo fẹ́ sùn"], "ans": 0},
-  {"type": "std", "q": "Iye lẹ́tà nínú áábídì Yorùbá:", "opts": ["Mẹ́ẹ̀ẹ́dọ́gbọ̀n (25)", "Ogún (20)", "Mẹ́rìndínlọ́gbọ̀n (26)", "Méjìlá"], "ans": 0},
-  {"type": "std", "q": "Àmì 'á' jẹ́:", "opts": ["Òkè", "Dò", "Aàrin", "Kò sí"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Pronoun'?", "opts": ["Ọ̀rọ̀ Arọ́pò Orúkọ", "Ọ̀rọ̀ Orúkọ", "Ọ̀rọ̀ Ìṣe", "Àpèjúwe"], "ans": 0},
-  {"type": "std", "q": "Orísun Yorùbá ni:", "opts": ["Ilé-Ifẹ̀", "Ọ̀yọ́", "Èkó", "Ìbàdàn"], "ans": 0},
-  {"type": "std", "q": "Ọba Ilé-Ifẹ̀ ni:", "opts": ["Ọọ̀ni", "Aláàfin", "Olúbàdàn", "Awùjalẹ̀"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Adjective'?", "opts": ["Ọ̀rọ̀ Àpèjúwe", "Ọ̀rọ̀ Orúkọ", "Ọ̀rọ̀ Ìṣe", "Atọ́kùn"], "ans": 0},
-  {"type": "std", "q": "Ọ̀rọ̀ Àsopọ̀ ni:", "opts": ["àti", "fún", "ní", "sí"], "ans": 0},
-  {"type": "std", "q": "Oúnjẹ Ìbejì ni:", "opts": ["Ẹ̀wà", "Iṣu", "Ẹran", "Búrẹ́dì"], "ans": 0},
-  {"type": "std", "q": "Ìdàkejì 'Pupa' ni:", "opts": ["Dúdú", "Funfun", "Àwọ̀", "Gialle"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Synonym'?", "opts": ["Ọ̀rọ̀ tí ìtumọ̀ jọra", "Ọ̀rọ̀ òdì", "Ọ̀rọ̀ orúkọ", "Ọ̀rọ̀ iṣẹ"], "ans": 0},
-  {"type": "std", "q": "Olùwà nínú gbolohun ni:", "opts": ["Subject", "Object", "Verb", "Adjective"], "ans": 0},
-  {"type": "std", "q": "Ìwé ìtàn àròsọ ni:", "opts": ["Ògbójú Ọdẹ", "Ìròyìn", "Ewì", "Gírámà"], "ans": 0},
-  {"type": "std", "q": "Ọba Ìlọrin ni:", "opts": ["Emir", "Ọba", "Obi", "Etsu"], "ans": 0},
-  {"type": "std", "q": "Ààrẹ Ọ̀nà Kakanfò jẹ́:", "opts": ["Balógun ogun", "Ọba", "Bàbáláwo", "Olórin"], "ans": 0},
-  {"type": "std", "q": "Akọni obìnrin Ifẹ̀:", "opts": ["Mọ́remí", "Efudunke", "Tinubu", "Funmilayo"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'School'?", "opts": ["Ilé Ìwé", "Ilé Ìwòsàn", "Ilé Ọjà", "Ilé Ọba"], "ans": 0},
-  {"type": "std", "q": "Iyán ń lọ pẹ̀lú:", "opts": ["Ẹ̀gúsí", "Ẹ̀wà", "Ìrẹsì", "Gàrí"], "ans": 0},
-  {"type": "std", "q": "Ìkíni fún alẹ́:", "opts": ["Ẹ kú alẹ́", "Ẹ kú àárọ̀", "Ẹ kú ọ̀sán", "Ẹ kú iṣẹ́"], "ans": 0},
-  {"type": "std", "q": "Ọ̀rọ̀ fún àgbàlagbà bẹ̀rẹ̀ pẹ̀lú:", "opts": ["Ẹ", "O", "Ìwọ", "Wọn"], "ans": 0},
-  {"type": "std", "q": "Òwe: 'Adìyẹ funfun...'", "opts": ["Kò mọ ara rẹ̀ lágbà", "Kò mọ ilé", "Kò mọ ọ̀nà", "Kò mọ iṣẹ́"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Antonym'?", "opts": ["Ọ̀rọ̀ Òdì", "Ọ̀rọ̀ Ìtumọ̀", "Orúkọ", "Àpèjúwe"], "ans": 0},
-  {"type": "std", "q": "Ṣàngó ń lo:", "opts": ["Iná", "Omi", "Irin", "Igi"], "ans": 0},
-  {"type": "std", "q": "Ìsọmọlórúkọ wà fún:", "opts": ["Sísọ ọmọ lórúkọ", "Ìgbéyàwó", "Ìsìnkú", "Oyè"], "ans": 0},
-  {"type": "std", "q": "Ẹ̀yà ará fún ìríran:", "opts": ["Ojú", "Etí", "Imú", "Ẹnu"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Book'?", "opts": ["Ìwé", "Bíró", "Pátákó", "Tabili"], "ans": 0},
-  {"type": "std", "q": "Ta ni ó kọ 'Rẹ́rẹ́ Kún'?", "opts": ["Oládèjọ Okédìjí", "Fágúnwà", "Ṣóyinká", "Ládipo"], "ans": 0},
-  {"type": "std", "q": "Ọba Ìbàdàn ni:", "opts": ["Olúbàdàn", "Ooni", "Alaafin", "Akarigbo"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Money'?", "opts": ["Owó", "Aṣọ", "Ilé", "Ọmọ"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Father'?", "opts": ["Baba", "Ìyá", "Ẹ̀gbọ́n", "Àbúrò"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Mother'?", "opts": ["Ìyá", "Baba", "Ọkọ", "Aya"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'King'?", "opts": ["Ọba", "Ìjòyè", "Bàbá", "Ọmọ"], "ans": 0},
-  {"type": "std", "q": "Fáwẹ̀lì àìránmú:", "opts": ["a, e, ẹ, i...", "an, ẹn, in", "b, d, f", "1, 2, 3"], "ans": 0},
-  {"type": "std", "q": "Kọ́ńsónáǹtì:", "opts": ["b, d, f, g...", "a, e, i", "an, ẹn", "á, é"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Come'?", "opts": ["Wá", "Lọ", "Sùn", "Jẹ"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Go'?", "opts": ["Lọ", "Wá", "Jókòó", "Dìde"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Sit'?", "opts": ["Jókòó", "Dìde", "Sùn", "Sá"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Stand'?", "opts": ["Dìde", "Jókòó", "Lọ", "Wá"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Eat'?", "opts": ["Jẹ", "Mu", "Sùn", "Wẹ̀"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Drink'?", "opts": ["Mu", "Jẹ", "Rí", "Gbọ́"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'See'?", "opts": ["Rí", "Wò", "Gbọ́", "Mọ̀"], "ans": 0},
-  {"type": "std", "q": "Kí ni 'Sleep'?", "opts": ["Sùn", "Jí", "Rìn", "Sá"], "ans": 0}
+[{
+    "q": "Convert $11011_2$ to base 10.",
+    "opts":["25", "26", "28", "27"],
+    "ans": 3,
+    "explanation": "$11011_2 = (1 \\times 2^4) + (1 \\times 2^3) + (0 \\times 2^2) + (1 \\times 2^1) + (1 \\times 2^0) = 16 + 8 + 0 + 2 + 1 = 27_{10}$."
+  },
+  {
+    "q": "Evaluate $(3 \\times 4) \\pmod 5$.",
+    "opts":["2", "1", "3", "4"],
+    "ans": 0,
+    "explanation": "First multiply: $3 \\times 4 = 12$. Then convert to modulo 5 by finding the remainder when 12 is divided by 5: $12 \\div 5 = 2$ remainder $2$. Thus, it is $2 \\pmod 5$."
+  },
+  {
+    "q": "Simplify $0.0025 \\times 0.04$ and express your answer in standard form.",
+    "opts":["$1.0 \\times 10^{-3}$", "$1.0 \\times 10^{-4}$", "$1.0 \\times 10^{-5}$", "$1.0 \\times 10^4$"],
+    "ans": 1,
+    "explanation": "$0.0025 = 2.5 \\times 10^{-3}$ and $0.04 = 4 \\times 10^{-2}$. Multiplying them: $(2.5 \\times 4) \\times 10^{-3 + -2} = 10 \\times 10^{-5} = 1.0 \\times 10^{-4}$."
+  },
+  {
+    "q": "Simplify $\\sqrt{72} - \\sqrt{32}$.",
+    "opts":["$3\\sqrt{2}$", "$\\sqrt{2}$", "$2\\sqrt{2}$", "$4\\sqrt{2}$"],
+    "ans": 2,
+    "explanation": "Simplify the surds first: $\\sqrt{36 \\times 2} - \\sqrt{16 \\times 2} = 6\\sqrt{2} - 4\\sqrt{2} = 2\\sqrt{2}$."
+  },
+  {
+    "q": "Given $A = \\{1, 2, 3\\}$ and $B = \\{2, 3, 4\\}$, find $A \\cap B$.",
+    "opts":["$\\{1, 4\\}$", "$\\{1, 2\\}$", "$\\{3, 4\\}$", "$\\{2, 3\\}$"],
+    "ans": 3,
+    "explanation": "The intersection of sets A and B ($A \\cap B$) contains elements present in both sets. Both sets contain 2 and 3. Therefore, $A \\cap B = \\{2, 3\\}$."
+  },
+  {
+    "q": "A trader buys an item for $₦4000$ and sells it for $₦5000$. Find the percentage profit.",
+    "opts": ["25%", "20%", "30%", "40%"],
+    "ans": 0,
+    "explanation": "Profit = Selling Price - Cost Price = $₦5000 - ₦4000 = ₦1000$. Percentage Profit = $(\\frac{1000}{4000}) \\times 100 = 25\\%$."
+  },
+  {
+    "q": "Find the simple interest on $₦10,000$ for 2 years at 5% per annum.",
+    "opts":["$₦500$", "$₦1000$", "$₦1500$", "$₦2000$"],
+    "ans": 1,
+    "explanation": "$I = \\frac{PRT}{100} = \\frac{10000 \\times 5 \\times 2}{100} = \\frac{100000}{100} = ₦1000$."
+  },
+  {
+    "q": "Simplify $16^{\\frac{3}{4}}$.",
+    "opts": ["4", "16", "8", "2"],
+    "ans": 2,
+    "explanation": "$16^{\\frac{3}{4}} = (\\sqrt[4]{16})^3$. Since $2^4 = 16$, the 4th root of 16 is 2. Therefore, $2^3 = 8$."
+  },
+  {
+    "q": "Simplify $\\log_{10} 25 + \\log_{10} 4$.",
+    "opts": ["1", "3", "4", "2"],
+    "ans": 3,
+    "explanation": "Addition of logarithms with the same base means multiplying the arguments: $\\log_{10}(25 \\times 4) = \\log_{10}(100) = 2$."
+  },
+  {
+    "q": "If $y \\propto x$ and $y = 10$ when $x = 2$, find $y$ when $x = 5$.",
+    "opts": ["25", "20", "30", "35"],
+    "ans": 0,
+    "explanation": "Since $y = kx$, $10 = k(2)$, so the constant $k = 5$. When $x = 5$, $y = 5 \\times 5 = 25$."
+  },
+  {
+    "q": "Divide 45 in the ratio 2:3.",
+    "opts":["15, 30", "18, 27", "20, 25", "22, 23"],
+    "ans": 1,
+    "explanation": "Total ratio = $2 + 3 = 5$. First share = $\\frac{2}{5} \\times 45 = 18$. Second share = $\\frac{3}{5} \\times 45 = 27$."
+  },
+  {
+    "q": "Find the value of $\\frac{2}{3} + \\frac{1}{4} - \\frac{1}{2}$.",
+    "opts":["$\\frac{1}{12}$", "$\\frac{7}{12}$", "$\\frac{5}{12}$", "$\\frac{11}{12}$"],
+    "ans": 2,
+    "explanation": "The LCM of 3, 4, and 2 is 12. $\\frac{8}{12} + \\frac{3}{12} - \\frac{6}{12} = \\frac{8 + 3 - 6}{12} = \\frac{5}{12}$."
+  },
+  {
+    "q": "Approximate 0.0456 to 2 significant figures.",
+    "opts":["0.050", "0.045", "0.04", "0.046"],
+    "ans": 3,
+    "explanation": "The first significant figure is 4, the second is 5. The next digit is 6, which rounds the 5 up to 6. Hence, 0.046."
+  },
+  {
+    "q": "Evaluate $34_5 + 23_5$.",
+    "opts":["$112_5$", "$121_5$", "$111_5$", "$102_5$"],
+    "ans": 0,
+    "explanation": "Adding in base 5: $4+3=7$ (Write $2$, carry $1$). $3+2+1=6$ (Write $1$, carry $1$). Therefore, the sum is $112_5$."
+  },
+  {
+    "q": "Solve for x: $\\log_2 x = 3$.",
+    "opts": ["4", "8", "6", "9"],
+    "ans": 1,
+    "explanation": "Convert the logarithmic equation to an exponential one: $x = 2^3 = 8$."
+  },
+  {
+    "q": "Factorize completely: $2x^2 - 8$.",
+    "opts":["$(2x-4)(2x+4)$", "$2(x-4)(x+4)$", "$2(x-2)(x+2)$", "$(x-2)(x+2)$"],
+    "ans": 2,
+    "explanation": "First factor out 2: $2(x^2 - 4)$. Then factor the difference of two squares: $2(x-2)(x+2)$."
+  },
+  {
+    "q": "Simplify the algebraic fraction: $\\frac{x^2 - y^2}{x + y}$.",
+    "opts":["$x+y$", "$x^2-y$", "$y-x$", "$x-y$"],
+    "ans": 3,
+    "explanation": "Expand the difference of two squares: $\\frac{(x-y)(x+y)}{x+y}$. Cancel out $(x+y)$ to leave $x-y$."
+  },
+  {
+    "q": "Make $r$ the subject of the formula: $A = \\pi r^2$.",
+    "opts":["$r = \\sqrt{\\frac{A}{\\pi}}$", "$r = \\frac{A}{\\pi}$", "$r = \\frac{\\pi}{A}$", "$r = \\sqrt{\\frac{\\pi}{A}}$"],
+    "ans": 0,
+    "explanation": "Divide both sides by $\\pi$ to get $r^2 = \\frac{A}{\\pi}$. Then take the square root of both sides to get $r = \\sqrt{\\frac{A}{\\pi}}$."
+  },
+  {
+    "q": "Solve the equation: $3(x - 2) = 15$.",
+    "opts":["5", "7", "3", "9"],
+    "ans": 1,
+    "explanation": "Divide both sides by 3: $x - 2 = 5$. Add 2 to both sides: $x = 7$."
+  },
+  {
+    "q": "Solve simultaneously: $x+y=5$ and $x-y=1$.",
+    "opts":["$(2,3)$", "$(4,1)$", "$(3,2)$", "$(1,4)$"],
+    "ans": 2,
+    "explanation": "Adding both equations: $2x = 6 \\implies x = 3$. Substitute $x=3$ into $x+y=5$, giving $3+y=5 \\implies y=2$."
+  },
+  {
+    "q": "Find the roots of the quadratic equation: $x^2 - 5x + 6 = 0$.",
+    "opts":["$-2, -3$", "$-1, -6$", "$1, 6$", "$2, 3$"],
+    "ans": 3,
+    "explanation": "Factorize the quadratic: $(x-2)(x-3) = 0$. Therefore, $x=2$ or $x=3$."
+  },
+  {
+    "q": "Solve the inequality: $2x - 5 < 7$.",
+    "opts":["$x < 6$", "$x > 6$", "$x \\leq 6$", "$x \\geq 6$"],
+    "ans": 0,
+    "explanation": "Add 5 to both sides: $2x < 12$. Divide by 2: $x < 6$."
+  },
+  {
+    "q": "Find the remainder when $x^3 - 2x^2 + x - 5$ is divided by $x-1$.",
+    "opts": ["5", "-5", "-3", "3"],
+    "ans": 1,
+    "explanation": "Using the remainder theorem, substitute $x=1$ into the polynomial: $f(1) = 1^3 - 2(1)^2 + 1 - 5 = 1 - 2 + 1 - 5 = -5$."
+  },
+  {
+    "q": "Find the 5th term of the Arithmetic Progression: 2, 5, 8, ...",
+    "opts": ["11", "17", "14", "20"],
+    "ans": 2,
+    "explanation": "The formula is $u_n = a + (n-1)d$. Here $a=2, d=3, n=5$. $u_5 = 2 + 4(3) = 2 + 12 = 14$."
+  },
+  {
+    "q": "Find the sum to infinity of the Geometric Progression: 4, 2, 1, ...",
+    "opts": ["6", "10", "4", "8"],
+    "ans": 3,
+    "explanation": "Sum to infinity $S = \\frac{a}{1-r}$. Here $a=4, r=0.5$. $S = \\frac{4}{1 - 0.5} = \\frac{4}{0.5} = 8$."
+  },
+  {
+    "q": "Calculate the sum of the first 10 terms of the sequence 1, 3, 5, ...",
+    "opts": ["100", "90", "110", "50"],
+    "ans": 0,
+    "explanation": "Using $S_n = \\frac{n}{2}(2a + (n-1)d)$. $n=10, a=1, d=2$. $S_{10} = 5(2(1) + 9(2)) = 5(2+18) = 5(20) = 100$."
+  },
+  {
+    "q": "Find the determinant of the matrix $\\begin{pmatrix} 3 & 2 \\\\ 4 & 5 \\end{pmatrix}$.",
+    "opts":["-7", "7", "10", "23"],
+    "ans": 1,
+    "explanation": "Determinant = $(3 \\times 5) - (2 \\times 4) = 15 - 8 = 7$."
+  },
+  {
+    "q": "If the determinant of $\\begin{pmatrix} x & 3 \\\\ 2 & x \\end{pmatrix}$ is -5, find the positive value of $x$.",
+    "opts": ["2", "3", "1", "4"],
+    "ans": 2,
+    "explanation": "Determinant = $x^2 - 6$. So, $x^2 - 6 = -5 \\implies x^2 = 1$. The positive value is $x = 1$."
+  },
+  {
+    "q": "Find the sum of the roots of the equation $2x^2 - 5x + 3 = 0$.",
+    "opts":["$-\\frac{5}{2}$", "$\\frac{3}{2}$", "$-\\frac{3}{2}$", "$\\frac{5}{2}$"],
+    "ans": 3,
+    "explanation": "For $ax^2 + bx + c = 0$, the sum of roots $\\alpha + \\beta = -\\frac{b}{a}$. Here, $a=2, b=-5$. Sum = $-(\\frac{-5}{2}) = \\frac{5}{2}$."
+  },
+  {
+    "q": "A binary operation is defined by $x * y = x^2 + y$. Evaluate $3 * 4$.",
+    "opts":["13", "12", "10", "15"],
+    "ans": 0,
+    "explanation": "Substitute $x=3, y=4$ into the operation: $3^2 + 4 = 9 + 4 = 13$."
+  },
+  {
+    "q": "Simplify $(x+2)^2 - x^2$.",
+    "opts":["$4x$", "$4x+4$", "$4x-4$", "$2x+4$"],
+    "ans": 1,
+    "explanation": "Expand the square: $x^2 + 4x + 4 - x^2$. The $x^2$ terms cancel out, leaving $4x + 4$."
+  },
+  {
+    "q": "Which of these shapes is defined by the region $x \\geq 0, y \\geq 0, x+y \\leq 4$?",
+    "opts": ["Rectangle", "Square", "Triangle", "Trapezium"],
+    "ans": 2,
+    "explanation": "The boundaries $x=0$ (y-axis), $y=0$ (x-axis), and the line $x+y=4$ enclose a right-angled triangle in the first quadrant."
+  },
+  {
+    "q": "For what values of $x$ is the fraction $\\frac{x+2}{x^2 - 4}$ undefined?",
+    "opts": ["$2$ only", "$-2$ only", "$4$", "$\\pm 2$"],
+    "ans": 3,
+    "explanation": "A fraction is undefined when its denominator is zero. $x^2 - 4 = 0 \\implies x^2 = 4 \\implies x = \\pm 2$."
+  },
+  {
+    "q": "Solve for x: $\\sqrt{2x + 1} = 3$.",
+    "opts": ["4", "3", "5", "8"],
+    "ans": 0,
+    "explanation": "Square both sides: $2x + 1 = 9$. Subtract 1: $2x = 8$. Divide by 2: $x = 4$."
+  },
+  {
+    "q": "Solve for x: $2^x = \\frac{1}{8}$.",
+    "opts": ["3", "-3", "-2", "2"],
+    "ans": 1,
+    "explanation": "Express $\\frac{1}{8}$ as a power of 2: $\\frac{1}{2^3} = 2^{-3}$. Therefore, $2^x = 2^{-3}$, giving $x = -3$."
+  },
+  {
+    "q": "The angles of a triangle are $3x$, $4x$, and $5x$. Find the largest angle.",
+    "opts":["$45^\\circ$", "$60^\\circ$", "$75^\\circ$", "$90^\\circ$"],
+    "ans": 2,
+    "explanation": "The sum of angles in a triangle is $180^\\circ$. $3x + 4x + 5x = 12x = 180 \\implies x=15$. The largest angle is $5(15) = 75^\\circ$."
+  },
+  {
+    "q": "Find the sum of the interior angles of a regular hexagon.",
+    "opts":["$360^\\circ$", "$540^\\circ$", "$900^\\circ$", "$720^\\circ$"],
+    "ans": 3,
+    "explanation": "Formula: $(n-2) \\times 180^\\circ$. For a hexagon, $n=6$. $(6-2) \\times 180^\\circ = 4 \\times 180^\\circ = 720^\\circ$."
+  },
+  {
+    "q": "If the angle subtended by an arc at the circumference is $40^\\circ$, what is the angle subtended at the center?",
+    "opts":["$80^\\circ$", "$20^\\circ$", "$60^\\circ$", "$40^\\circ$"],
+    "ans": 0,
+    "explanation": "The angle at the center is twice the angle at the circumference. $2 \\times 40^\\circ = 80^\\circ$."
+  },
+  {
+    "q": "If $\\sin \\theta = \\frac{3}{5}$ and $\\theta$ is acute, find $\\cos \\theta$.",
+    "opts":["$\\frac{3}{4}$", "$\\frac{4}{5}$", "$\\frac{5}{4}$", "$\\frac{5}{3}$"],
+    "ans": 1,
+    "explanation": "Using a right-angled triangle, Opp=3, Hyp=5. By Pythagoras, Adj = $\\sqrt{5^2 - 3^2} = 4$. So, $\\cos \\theta = \\frac{Adj}{Hyp} = \\frac{4}{5}$."
+  },
+  {
+    "q": "In triangle ABC, $a=5$, $\\sin A = 0.5$, and $\\sin B = 0.8$. Find $b$.",
+    "opts":["6", "10", "8", "12"],
+    "ans": 2,
+    "explanation": "Using the Sine Rule: $\\frac{a}{\\sin A} = \\frac{b}{\\sin B}$. $\\frac{5}{0.5} = \\frac{b}{0.8} \\implies 10 = \\frac{b}{0.8} \\implies b = 10(0.8) = 8$."
+  },
+  {
+    "q": "Find the distance between the points $(1,2)$ and $(4,6)$.",
+    "opts": ["3", "4", "7", "5"],
+    "ans": 3,
+    "explanation": "Distance formula: $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$."
+  },
+  {
+    "q": "Find the gradient of the line passing through $(2,3)$ and $(4,7)$.",
+    "opts":["2", "$\\frac{1}{2}$", "-2", "$-\\frac{1}{2}$"],
+    "ans": 0,
+    "explanation": "Gradient $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{7-3}{4-2} = \\frac{4}{2} = 2$."
+  },
+  {
+    "q": "What is the gradient of a line parallel to the line $y = 3x + 4$?",
+    "opts":["-3", "3", "$\\frac{1}{3}$", "$-\\frac{1}{3}$"],
+    "ans": 1,
+    "explanation": "Parallel lines have the same gradient. The equation is in $y = mx + c$ form, where $m=3$. Thus, the parallel gradient is 3."
+  },
+  {
+    "q": "If town A is on a bearing of $040^\\circ$ from town B, what is the bearing of B from A?",
+    "opts":["$140^\\circ$", "$040^\\circ$", "$220^\\circ$", "$320^\\circ$"],
+    "ans": 2,
+    "explanation": "Back bearing = Given bearing + $180^\\circ$ (if given $< 180$). $040^\\circ + 180^\\circ = 220^\\circ$."
+  },
+  {
+    "q": "A pole 10m high casts a shadow 10m long. Find the angle of elevation of the sun.",
+    "opts":["$30^\\circ$", "$60^\\circ$", "$90^\\circ$", "$45^\\circ$"],
+    "ans": 3,
+    "explanation": "$\\tan \\theta = \\frac{\\text{Opposite}}{\\text{Adjacent}} = \\frac{10}{10} = 1$. The angle whose tangent is 1 is $45^\\circ$."
+  },
+  {
+    "q": "Simplify $1 - \\sin^2 \\theta$.",
+    "opts":["$\\cos^2 \\theta$", "$\\tan^2 \\theta$", "$\\sec^2 \\theta$", "$\\sin^2 \\theta$"],
+    "ans": 0,
+    "explanation": "From the fundamental trigonometric identity $\\sin^2 \\theta + \\cos^2 \\theta = 1$, we derive $1 - \\sin^2 \\theta = \\cos^2 \\theta$."
+  },
+  {
+    "q": "The angle subtended by a diameter at the circumference of a circle is:",
+    "opts":["$45^\\circ$", "$90^\\circ$", "$60^\\circ$", "$180^\\circ$"],
+    "ans": 1,
+    "explanation": "By circle theorems, the angle in a semicircle (subtended by the diameter) is always a right angle ($90^\\circ$)."
+  },
+  {
+    "q": "The exterior angle of a regular polygon is $36^\\circ$. How many sides does it have?",
+    "opts":["8", "12", "10", "15"],
+    "ans": 2,
+    "explanation": "The sum of exterior angles of any polygon is $360^\\circ$. Number of sides $n = \\frac{360^\\circ}{36^\\circ} = 10$."
+  },
+  {
+    "q": "In a cyclic quadrilateral, one angle is $110^\\circ$. Find the size of the opposite angle.",
+    "opts":["$110^\\circ$", "$90^\\circ$", "$80^\\circ$", "$70^\\circ$"],
+    "ans": 3,
+    "explanation": "Opposite angles of a cyclic quadrilateral are supplementary (they sum to $180^\\circ$). $180^\\circ - 110^\\circ = 70^\\circ$."
+  },
+  {
+    "q": "What is the equation of a line passing through the origin with a gradient of 4?",
+    "opts":["$y = 4x$", "$y = 4$", "$x = 4$", "$y = x + 4$"],
+    "ans": 0,
+    "explanation": "The equation is $y = mx + c$. At the origin $(0,0)$, $c = 0$. Given $m = 4$, the equation is $y = 4x$."
+  },
+  {
+    "q": "Calculate the area of a circle of radius 7cm (Take $\\pi = \\frac{22}{7}$).",
+    "opts":["$44\\text{ cm}^2$", "$154\\text{ cm}^2$", "$308\\text{ cm}^2$", "$616\\text{ cm}^2$"],
+    "ans": 1,
+    "explanation": "Area $A = \\pi r^2 = \\frac{22}{7} \\times 7^2 = \\frac{22}{7} \\times 49 = 154\\text{ cm}^2$."
+  },
+  {
+    "q": "Find the volume of a cylinder of radius 3cm and height 7cm (Take $\\pi = \\frac{22}{7}$).",
+    "opts":["$132\\text{ cm}^3$", "$264\\text{ cm}^3$", "$198\\text{ cm}^3$", "$396\\text{ cm}^3$"],
+    "ans": 2,
+    "explanation": "Volume $V = \\pi r^2 h = \\frac{22}{7} \\times 3^2 \\times 7 = 22 \\times 9 = 198\\text{ cm}^3$."
+  },
+  {
+    "q": "Find the area of a sector of a circle with radius 6cm and angle $60^\\circ$.",
+    "opts":["$3\\pi\\text{ cm}^2$", "$12\\pi\\text{ cm}^2$", "$36\\pi\\text{ cm}^2$", "$6\\pi\\text{ cm}^2$"],
+    "ans": 3,
+    "explanation": "Area = $\\frac{\\theta}{360^\\circ} \\times \\pi r^2 = \\frac{60}{360} \\times \\pi \\times 6^2 = \\frac{1}{6} \\times 36\\pi = 6\\pi\\text{ cm}^2$."
+  },
+  {
+    "q": "Find the difference in longitude between $A(10^\\circ N, 20^\\circ E)$ and $B(10^\\circ N, 40^\\circ W)$.",
+    "opts":["$60^\\circ$", "$20^\\circ$", "$40^\\circ$", "$80^\\circ$"],
+    "ans": 0,
+    "explanation": "Since point A is in the East and point B is in the West, their difference in longitude is the sum of the angles: $20^\\circ + 40^\\circ = 60^\\circ$."
+  },
+  {
+    "q": "Calculate the surface area of a sphere of radius 7cm (Take $\\pi = \\frac{22}{7}$).",
+    "opts":["$154\\text{ cm}^2$", "$616\\text{ cm}^2$", "$308\\text{ cm}^2$", "$88\\text{ cm}^2$"],
+    "ans": 1,
+    "explanation": "Surface Area = $4\\pi r^2 = 4 \\times \\frac{22}{7} \\times 7^2 = 4 \\times 22 \\times 7 = 616\\text{ cm}^2$."
+  },
+  {
+    "q": "Find the derivative of $y = 3x^2 - 2x + 1$ with respect to x.",
+    "opts":["$6x+2$", "$3x-2$", "$6x-2$", "$6x$"],
+    "ans": 2,
+    "explanation": "Using the power rule: $\\frac{dy}{dx} = 2(3)x^{2-1} - 1(2)x^{1-1} + 0 = 6x - 2$."
+  },
+  {
+    "q": "Evaluate the indefinite integral $\\int 2x dx$.",
+    "opts":["$2x^2+c$", "$x+c$", "$2+c$", "$x^2+c$"],
+    "ans": 3,
+    "explanation": "Using the integration power rule: $\\int 2x dx = \\frac{2x^2}{2} + c = x^2 + c$."
+  },
+  {
+    "q": "Find the maximum value of $y = 4x - x^2$.",
+    "opts":["4", "2", "6", "8"],
+    "ans": 0,
+    "explanation": "Differentiate and set to 0 to find the turning point: $\\frac{dy}{dx} = 4 - 2x = 0 \\implies x=2$. Substitute $x=2$ back into $y$: $y = 4(2) - (2)^2 = 8 - 4 = 4$."
+  },
+  {
+    "q": "Calculate the perimeter of a sector of radius 7cm and angle $90^\\circ$ (Take $\\pi = \\frac{22}{7}$).",
+    "opts":["11cm", "25cm", "18cm", "36cm"],
+    "ans": 1,
+    "explanation": "Arc length = $\\frac{90}{360} \\times 2 \\times \\frac{22}{7} \\times 7 = \\frac{1}{4} \\times 44 = 11$. Perimeter = Arc length + 2(radius) = $11 + 7 + 7 = 25\\text{ cm}$."
+  },
+  {
+    "q": "Find the area of a trapezium with parallel sides 4cm and 6cm, and a perpendicular height of 5cm.",
+    "opts":["$20\\text{ cm}^2$", "$30\\text{ cm}^2$", "$25\\text{ cm}^2$", "$50\\text{ cm}^2$"],
+    "ans": 2,
+    "explanation": "Area = $\\frac{1}{2} (a+b)h = \\frac{1}{2}(4+6) \\times 5 = \\frac{1}{2}(10) \\times 5 = 25\\text{ cm}^2$."
+  },
+  {
+    "q": "Find the mean of the numbers: 2, 4, 6, 8, 10.",
+    "opts":["5", "7", "8", "6"],
+    "ans": 3,
+    "explanation": "Mean = $\\frac{\\text{Sum}}{\\text{Count}} = \\frac{2+4+6+8+10}{5} = \\frac{30}{5} = 6$."
+  },
+  {
+    "q": "Find the median of the set: 3, 1, 4, 2, 5.",
+    "opts": ["3", "2", "4", "5"],
+    "ans": 0,
+    "explanation": "First sort the data: 1, 2, 3, 4, 5. The middle value is 3."
+  },
+  {
+    "q": "Determine the mode of this data: 2, 3, 3, 4, 5, 3, 2.",
+    "opts": ["2", "3", "4", "5"],
+    "ans": 1,
+    "explanation": "The mode is the number that appears most frequently. 3 appears three times, more than any other number."
+  },
+  {
+    "q": "A coin is tossed twice. What is the probability of getting exactly one head?",
+    "opts":["$\\frac{1}{4}$", "$\\frac{3}{4}$", "$\\frac{1}{2}$", "1"],
+    "ans": 2,
+    "explanation": "Sample space: {HH, HT, TH, TT}. Outcomes with exactly one head: {HT, TH}. Probability = $\\frac{2}{4} = \\frac{1}{2}$."
+  },
+  {
+    "q": "Two fair dice are thrown. Find the probability of scoring a sum of 7.",
+    "opts":["$\\frac{1}{12}$", "$\\frac{1}{8}$", "$\\frac{1}{4}$", "$\\frac{1}{6}$"],
+    "ans": 3,
+    "explanation": "There are 36 possible outcomes. Pairs summing to 7 are: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). Total = 6 ways. Prob = $\\frac{6}{36} = \\frac{1}{6}$."
+  },
+  {
+    "q": "Find the range of the following set of numbers: 12, 5, 18, 3, 9.",
+    "opts":["15", "12", "13", "14"],
+    "ans": 0,
+    "explanation": "Range = Maximum value - Minimum value = $18 - 3 = 15$."
+  },
+  {
+    "q": "In a pie chart representing 72 students, if 12 students study Physics, what is the sectorial angle for Physics?",
+    "opts":["$30^\\circ$", "$60^\\circ$", "$45^\\circ$", "$90^\\circ$"],
+    "ans": 1,
+    "explanation": "Angle = $(\\frac{\\text{Frequency}}{\\text{Total}}) \\times 360^\\circ = (\\frac{12}{72}) \\times 360^\\circ = \\frac{1}{6} \\times 360^\\circ = 60^\\circ$."
+  },
+  {
+    "q": "A and B are independent events. P(A) = 0.4 and P(B) = 0.5. Find P(A and B).",
+    "opts":["0.9", "0.4", "0.2", "0.5"],
+    "ans": 2,
+    "explanation": "For independent events, $P(A \\text{ and } B) = P(A) \\times P(B) = 0.4 \\times 0.5 = 0.2$."
+  },
+  {
+    "q": "If the variance of a distribution is 16, what is its standard deviation?",
+    "opts": ["8", "256", "2", "4"],
+    "ans": 3,
+    "explanation": "Standard Deviation is the square root of the variance. $\\sqrt{16} = 4$."
+  },
+  {
+    "q": "An urn contains 3 red balls and 2 blue balls. A ball is picked at random. Find the probability it is red.",
+    "opts":["$\\frac{3}{5}$", "$\\frac{2}{5}$", "$\\frac{1}{2}$", "$\\frac{1}{5}$"],
+    "ans": 0,
+    "explanation": "Total balls = 5. Red balls = 3. Probability of picking red = $\\frac{3}{5}$."
+  }
 ]
