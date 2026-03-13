@@ -1,422 +1,422 @@
 [
     {
-    "q": "Convert $1011_2$ to base 10.",
-    "opts":["$11$", "$10$", "$9$", "$12$"],
-    "ans": 0,
-    "explanation": "$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11$."
+    "q": "Convert $11011_2$ to base 10.",
+    "opts":["25", "26", "28", "27"],
+    "ans": 3,
+    "explanation": "$11011_2 = (1 \\times 2^4) + (1 \\times 2^3) + (0 \\times 2^2) + (1 \\times 2^1) + (1 \\times 2^0) = 16 + 8 + 0 + 2 + 1 = 27_{10}$."
   },
   {
-    "q": "Express $0.000045$ in standard form.",
-    "opts":["$4.5 \\times 10^5$", "$4.5 \\times 10^{-5}$", "$4.5 \\times 10^{-4}$", "$4.5 \\times 10^4$"],
+    "q": "Evaluate $(3 \\times 4) \\pmod 5$.",
+    "opts":["2", "1", "3", "4"],
+    "ans": 0,
+    "explanation": "First multiply: $3 \\times 4 = 12$. Then convert to modulo 5 by finding the remainder when 12 is divided by 5: $12 \\div 5 = 2$ remainder $2$. Thus, it is $2 \\pmod 5$."
+  },
+  {
+    "q": "Simplify $0.0025 \\times 0.04$ and express your answer in standard form.",
+    "opts":["$1.0 \\times 10^{-3}$", "$1.0 \\times 10^{-4}$", "$1.0 \\times 10^{-5}$", "$1.0 \\times 10^4$"],
     "ans": 1,
-    "explanation": "Move the decimal point 5 places to the right to get a number between 1 and 10. The power is negative because the number is less than 1."
+    "explanation": "$0.0025 = 2.5 \\times 10^{-3}$ and $0.04 = 4 \\times 10^{-2}$. Multiplying them: $(2.5 \\times 4) \\times 10^{-3 + -2} = 10 \\times 10^{-5} = 1.0 \\times 10^{-4}$."
   },
   {
-    "q": "Solve for $x$ in the equation $2^{x-1} = 16$.",
-    "opts": ["$3$", "$4$", "$5$", "$6$"],
+    "q": "Simplify $\\sqrt{72} - \\sqrt{32}$.",
+    "opts":["$3\\sqrt{2}$", "$\\sqrt{2}$", "$2\\sqrt{2}$", "$4\\sqrt{2}$"],
     "ans": 2,
-    "explanation": "$16$ can be written as $2^4$. So, $2^{x-1} = 2^4 \\implies x - 1 = 4 \\implies x = 5$."
+    "explanation": "Simplify the surds first: $\\sqrt{36 \\times 2} - \\sqrt{16 \\times 2} = 6\\sqrt{2} - 4\\sqrt{2} = 2\\sqrt{2}$."
   },
   {
-    "q": "Evaluate $\\log_3 27$.",
-    "opts": ["$9$", "$12$", "$81$", "$3$"],
+    "q": "Given $A = \\{1, 2, 3\\}$ and $B = \\{2, 3, 4\\}$, find $A \\cap B$.",
+    "opts":["$\\{1, 4\\}$", "$\\{1, 2\\}$", "$\\{3, 4\\}$", "$\\{2, 3\\}$"],
     "ans": 3,
-    "explanation": "Since $27 = 3^3$, we have $\\log_3(3^3) = 3 \\log_3(3) = 3 \\times 1 = 3$."
+    "explanation": "The intersection of sets A and B ($A \\cap B$) contains elements present in both sets. Both sets contain 2 and 3. Therefore, $A \\cap B = \\{2, 3\\}$."
   },
   {
-    "q": "If $n(A)=10$, $n(B)=12$, and $n(A \\cup B)=18$, find $n(A \\cap B)$.",
-    "opts": ["$2$", "$4$", "$6$", "$8$"],
+    "q": "A trader buys an item for $₦4000$ and sells it for $₦5000$. Find the percentage profit.",
+    "opts": ["25%", "20%", "30%", "40%"],
+    "ans": 0,
+    "explanation": "Profit = Selling Price - Cost Price = $₦5000 - ₦4000 = ₦1000$. Percentage Profit = $(\\frac{1000}{4000}) \\times 100 = 25\\%$."
+  },
+  {
+    "q": "Find the simple interest on $₦10,000$ for 2 years at 5% per annum.",
+    "opts":["$₦500$", "$₦1000$", "$₦1500$", "$₦2000$"],
     "ans": 1,
-    "explanation": "Using the set formula: $n(A \\cap B) = n(A) + n(B) - n(A \\cup B) = 10 + 12 - 18 = 4$."
+    "explanation": "$I = \\frac{PRT}{100} = \\frac{10000 \\times 5 \\times 2}{100} = \\frac{100000}{100} = ₦1000$."
   },
   {
-    "q": "Evaluate $17 \\pmod 5$.",
-    "opts":["$1$", "$3$", "$2$", "$4$"],
+    "q": "Simplify $16^{\\frac{3}{4}}$.",
+    "opts": ["4", "16", "8", "2"],
     "ans": 2,
-    "explanation": "When 17 is divided by 5, the quotient is 3 and the remainder is 2. Therefore, $17 \\equiv 2 \\pmod 5$."
+    "explanation": "$16^{\\frac{3}{4}} = (\\sqrt[4]{16})^3$. Since $2^4 = 16$, the 4th root of 16 is 2. Therefore, $2^3 = 8$."
   },
   {
-    "q": "Find the simple interest on ₦20,000 at $5\\%$ per annum for 3 years.",
-    "opts":["₦1,000", "₦2,000", "₦4,000", "₦3,000"],
+    "q": "Simplify $\\log_{10} 25 + \\log_{10} 4$.",
+    "opts": ["1", "3", "4", "2"],
     "ans": 3,
-    "explanation": "$I = \\frac{PRT}{100} = \\frac{20000 \\times 5 \\times 3}{100} = 200 \\times 15 = 3000$."
+    "explanation": "Addition of logarithms with the same base means multiplying the arguments: $\\log_{10}(25 \\times 4) = \\log_{10}(100) = 2$."
   },
   {
-    "q": "If $y \\propto x$ and $y=15$ when $x=3$, find $y$ when $x=4$.",
-    "opts": ["$20$", "$25$", "$30$", "$35$"],
+    "q": "If $y \\propto x$ and $y = 10$ when $x = 2$, find $y$ when $x = 5$.",
+    "opts": ["25", "20", "30", "35"],
     "ans": 0,
-    "explanation": "$y = kx \\implies 15 = 3k \\implies k=5$. When $x=4$, $y = 5(4) = 20$."
+    "explanation": "Since $y = kx$, $10 = k(2)$, so the constant $k = 5$. When $x = 5$, $y = 5 \\times 5 = 25$."
   },
   {
-    "q": "Find the 10th term of the arithmetic progression: $3, 7, 11, \\dots$",
-    "opts":["$35$", "$37$", "$39$", "$41$"],
-    "ans": 2,
-    "explanation": "First term $a=3$, common difference $d=4$. $T_{10} = a + (10-1)d = 3 + 9(4) = 3 + 36 = 39$."
-  },
-  {
-    "q": "Find the sum to infinity of the geometric progression: $1, \\frac{1}{2}, \\frac{1}{4}, \\dots$",
-    "opts": ["$1$", "$1.5$", "$3$", "$2$"],
-    "ans": 3,
-    "explanation": "First term $a=1$, common ratio $r=0.5$. $S_\\infty = \\frac{a}{1-r} = \\frac{1}{1-0.5} = \\frac{1}{0.5} = 2$."
-  },
-  {
-    "q": "Factorize completely: $x^2 - 5x + 6$.",
-    "opts":["$(x-2)(x-3)$", "$(x+2)(x+3)$", "$(x-1)(x-6)$", "$(x+1)(x-6)$"],
-    "ans": 0,
-    "explanation": "We need two numbers that multiply to 6 and add to -5. These are -2 and -3. Thus, $(x-2)(x-3)$."
-  },
-  {
-    "q": "Solve the equation $3x - 4 = 11$.",
-    "opts": ["$4$", "$5$", "$6$", "$7$"],
+    "q": "Divide 45 in the ratio 2:3.",
+    "opts":["15, 30", "18, 27", "20, 25", "22, 23"],
     "ans": 1,
-    "explanation": "Add 4 to both sides: $3x = 15$. Divide by 3: $x = 5$."
+    "explanation": "Total ratio = $2 + 3 = 5$. First share = $\\frac{2}{5} \\times 45 = 18$. Second share = $\\frac{3}{5} \\times 45 = 27$."
   },
   {
-    "q": "Solve the simultaneous equations: $x+y=8$ and $x-y=2$. Find the value of $xy$.",
-    "opts": ["$10$", "$12$", "$14$", "$15$"],
+    "q": "Find the value of $\\frac{2}{3} + \\frac{1}{4} - \\frac{1}{2}$.",
+    "opts":["$\\frac{1}{12}$", "$\\frac{7}{12}$", "$\\frac{5}{12}$", "$\\frac{11}{12}$"],
+    "ans": 2,
+    "explanation": "The LCM of 3, 4, and 2 is 12. $\\frac{8}{12} + \\frac{3}{12} - \\frac{6}{12} = \\frac{8 + 3 - 6}{12} = \\frac{5}{12}$."
+  },
+  {
+    "q": "Approximate 0.0456 to 2 significant figures.",
+    "opts":["0.050", "0.045", "0.04", "0.046"],
     "ans": 3,
-    "explanation": "Adding the equations gives $2x = 10 \\implies x = 5$. Substituting $x=5$ into $x+y=8$ gives $y=3$. Product $xy = 15$."
+    "explanation": "The first significant figure is 4, the second is 5. The next digit is 6, which rounds the 5 up to 6. Hence, 0.046."
   },
   {
-    "q": "Make $r$ the subject of the formula $A = \\pi r^2$.",
-    "opts":["$r = \\sqrt{\\frac{A}{\\pi}}$", "$r = \\frac{A}{\\pi}$", "$r = \\sqrt{\\frac{\\pi}{A}}$", "$r = (\\frac{A}{\\pi})^2$"],
+    "q": "Evaluate $34_5 + 23_5$.",
+    "opts":["$112_5$", "$121_5$", "$111_5$", "$102_5$"],
     "ans": 0,
-    "explanation": "Divide both sides by $\\pi$ to get $r^2 = \\frac{A}{\\pi}$. Then take the square root of both sides."
+    "explanation": "Adding in base 5: $4+3=7$ (Write $2$, carry $1$). $3+2+1=6$ (Write $1$, carry $1$). Therefore, the sum is $112_5$."
   },
   {
-    "q": "Simplify the algebraic fraction $\\frac{2}{x} + \\frac{3}{y}$.",
-    "opts":["$\\frac{5}{x+y}$", "$\\frac{2y+3x}{xy}$", "$\\frac{5}{xy}$", "$\\frac{2x+3y}{xy}$"],
+    "q": "Solve for x: $\\log_2 x = 3$.",
+    "opts": ["4", "8", "6", "9"],
     "ans": 1,
-    "explanation": "The LCM of the denominators is $xy$. The equivalent fraction is $\\frac{2(y) + 3(x)}{xy} = \\frac{2y+3x}{xy}$."
+    "explanation": "Convert the logarithmic equation to an exponential one: $x = 2^3 = 8$."
   },
   {
-    "q": "A binary operation $\\ast$ is defined by $a \\ast b = a + b + ab$. Evaluate $2 \\ast 3$.",
-    "opts":["$9$", "$10$", "$11$", "$12$"],
+    "q": "Factorize completely: $2x^2 - 8$.",
+    "opts":["$(2x-4)(2x+4)$", "$2(x-4)(x+4)$", "$2(x-2)(x+2)$", "$(x-2)(x+2)$"],
     "ans": 2,
-    "explanation": "Substitute $a=2$ and $b=3$: $2 \\ast 3 = 2 + 3 + (2 \\times 3) = 5 + 6 = 11$."
+    "explanation": "First factor out 2: $2(x^2 - 4)$. Then factor the difference of two squares: $2(x-2)(x+2)$."
   },
   {
-    "q": "Find the determinant of a $2 \\times 2$ matrix where row 1 is $(2, 3)$ and row 2 is $(4, 5)$.",
-    "opts": ["$-2$", "$2$", "$10$", "$12$"],
-    "ans": 0,
-    "explanation": "Determinant $= (ad - bc) = (2 \\times 5) - (3 \\times 4) = 10 - 12 = -2$."
-  },
-  {
-    "q": "Find the sum of the roots of the quadratic equation $2x^2 - 6x + 5 = 0$.",
-    "opts":["$-3$", "$\\frac{3}{2}$", "$-\\frac{3}{2}$", "$3$"],
+    "q": "Simplify the algebraic fraction: $\\frac{x^2 - y^2}{x + y}$.",
+    "opts":["$x+y$", "$x^2-y$", "$y-x$", "$x-y$"],
     "ans": 3,
-    "explanation": "For an equation $ax^2 + bx + c = 0$, the sum of roots is $-\\frac{b}{a}$. Here, $-\\frac{-6}{2} = 3$."
+    "explanation": "Expand the difference of two squares: $\\frac{(x-y)(x+y)}{x+y}$. Cancel out $(x+y)$ to leave $x-y$."
   },
   {
-    "q": "Find the remainder when the polynomial $x^3 - 2x + 1$ is divided by $x - 1$.",
-    "opts":["$-1$", "$1$", "$0$", "$2$"],
-    "ans": 2,
-    "explanation": "Using the Remainder Theorem, substitute $x = 1$ into the expression: $1^3 - 2(1) + 1 = 1 - 2 + 1 = 0$."
+    "q": "Make $r$ the subject of the formula: $A = \\pi r^2$.",
+    "opts":["$r = \\sqrt{\\frac{A}{\\pi}}$", "$r = \\frac{A}{\\pi}$", "$r = \\frac{\\pi}{A}$", "$r = \\sqrt{\\frac{\\pi}{A}}$"],
+    "ans": 0,
+    "explanation": "Divide both sides by $\\pi$ to get $r^2 = \\frac{A}{\\pi}$. Then take the square root of both sides to get $r = \\sqrt{\\frac{A}{\\pi}}$."
   },
   {
-    "q": "Solve the inequality $3 - 2x \\ge 7$.",
-    "opts":["$x \\ge -2$", "$x \\le -2$", "$x \\ge 2$", "$x \\le 2$"],
+    "q": "Solve the equation: $3(x - 2) = 15$.",
+    "opts":["5", "7", "3", "9"],
     "ans": 1,
-    "explanation": "Subtract 3 from both sides: $-2x \\ge 4$. Divide by $-2$ and reverse the inequality sign: $x \\le -2$."
+    "explanation": "Divide both sides by 3: $x - 2 = 5$. Add 2 to both sides: $x = 7$."
   },
   {
-    "q": "Find the sum of the interior angles of a regular pentagon.",
-    "opts":["$540^\\circ$", "$360^\\circ$", "$720^\\circ$", "$900^\\circ$"],
-    "ans": 0,
-    "explanation": "Sum of interior angles $= (n-2) \\times 180^\\circ = (5-2) \\times 180^\\circ = 3 \\times 180^\\circ = 540^\\circ$."
-  },
-  {
-    "q": "The angle subtended by a diameter at the circumference of a circle is always:",
-    "opts":["$45^\\circ$", "$60^\\circ$", "$90^\\circ$", "$180^\\circ$"],
+    "q": "Solve simultaneously: $x+y=5$ and $x-y=1$.",
+    "opts":["$(2,3)$", "$(4,1)$", "$(3,2)$", "$(1,4)$"],
     "ans": 2,
-    "explanation": "A fundamental circle theorem states that the angle in a semicircle (subtended by a diameter) is a right angle ($90^\\circ$)."
+    "explanation": "Adding both equations: $2x = 6 \\implies x = 3$. Substitute $x=3$ into $x+y=5$, giving $3+y=5 \\implies y=2$."
   },
   {
-    "q": "Calculate the distance between the points $(0,0)$ and $(6,8)$.",
-    "opts":["$8$", "$10$", "$14$", "$100$"],
+    "q": "Find the roots of the quadratic equation: $x^2 - 5x + 6 = 0$.",
+    "opts":["$-2, -3$", "$-1, -6$", "$1, 6$", "$2, 3$"],
+    "ans": 3,
+    "explanation": "Factorize the quadratic: $(x-2)(x-3) = 0$. Therefore, $x=2$ or $x=3$."
+  },
+  {
+    "q": "Solve the inequality: $2x - 5 < 7$.",
+    "opts":["$x < 6$", "$x > 6$", "$x \\leq 6$", "$x \\geq 6$"],
+    "ans": 0,
+    "explanation": "Add 5 to both sides: $2x < 12$. Divide by 2: $x < 6$."
+  },
+  {
+    "q": "Find the remainder when $x^3 - 2x^2 + x - 5$ is divided by $x-1$.",
+    "opts": ["5", "-5", "-3", "3"],
     "ans": 1,
-    "explanation": "Using the distance formula: $\\sqrt{(6-0)^2 + (8-0)^2} = \\sqrt{36+64} = \\sqrt{100} = 10$."
+    "explanation": "Using the remainder theorem, substitute $x=1$ into the polynomial: $f(1) = 1^3 - 2(1)^2 + 1 - 5 = 1 - 2 + 1 - 5 = -5$."
   },
   {
-    "q": "Find the midpoint of the line segment joining $(2,3)$ and $(4,7)$.",
-    "opts":["$(2, 4)$", "$(6, 10)$", "$(1, 2)$", "$(3, 5)$"],
+    "q": "Find the 5th term of the Arithmetic Progression: 2, 5, 8, ...",
+    "opts": ["11", "17", "14", "20"],
+    "ans": 2,
+    "explanation": "The formula is $u_n = a + (n-1)d$. Here $a=2, d=3, n=5$. $u_5 = 2 + 4(3) = 2 + 12 = 14$."
+  },
+  {
+    "q": "Find the sum to infinity of the Geometric Progression: 4, 2, 1, ...",
+    "opts": ["6", "10", "4", "8"],
     "ans": 3,
-    "explanation": "Midpoint $= (\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}) = (\\frac{2+4}{2}, \\frac{3+7}{2}) = (\\frac{6}{2}, \\frac{10}{2}) = (3, 5)$."
+    "explanation": "Sum to infinity $S = \\frac{a}{1-r}$. Here $a=4, r=0.5$. $S = \\frac{4}{1 - 0.5} = \\frac{4}{0.5} = 8$."
   },
   {
-    "q": "Find the gradient (slope) of the line $2y = 4x + 6$.",
-    "opts":["$4$", "$3$", "$6$", "$2$"],
-    "ans": 3,
-    "explanation": "Rewrite in the form $y = mx + c$ by dividing by 2: $y = 2x + 3$. The gradient $m$ is 2."
+    "q": "Calculate the sum of the first 10 terms of the sequence 1, 3, 5, ...",
+    "opts": ["100", "90", "110", "50"],
+    "ans": 0,
+    "explanation": "Using $S_n = \\frac{n}{2}(2a + (n-1)d)$. $n=10, a=1, d=2$. $S_{10} = 5(2(1) + 9(2)) = 5(2+18) = 5(20) = 100$."
   },
   {
-    "q": "Find the area of a trapezium with parallel sides $5\\text{cm}$ and $7\\text{cm}$, and a perpendicular height of $4\\text{cm}$.",
-    "opts":["$20\\text{cm}^2$", "$24\\text{cm}^2$", "$48\\text{cm}^2$", "$12\\text{cm}^2$"],
+    "q": "Find the determinant of the matrix $\\begin{pmatrix} 3 & 2 \\\\ 4 & 5 \\end{pmatrix}$.",
+    "opts":["-7", "7", "10", "23"],
     "ans": 1,
-    "explanation": "Area $= \\frac{1}{2}(a+b)h = \\frac{1}{2}(5+7) \\times 4 = \\frac{1}{2}(12) \\times 4 = 24\\text{cm}^2$."
+    "explanation": "Determinant = $(3 \\times 5) - (2 \\times 4) = 15 - 8 = 7$."
   },
   {
-    "q": "Calculate the area of a sector of a circle with radius $7\\text{cm}$ and an angle of $90^\\circ$. (Take $\\pi = \\frac{22}{7}$)",
-    "opts":["$77\\text{cm}^2$", "$19.25\\text{cm}^2$", "$38.5\\text{cm}^2$", "$154\\text{cm}^2$"],
+    "q": "If the determinant of $\\begin{pmatrix} x & 3 \\\\ 2 & x \\end{pmatrix}$ is -5, find the positive value of $x$.",
+    "opts": ["2", "3", "1", "4"],
     "ans": 2,
-    "explanation": "Area $= \\frac{\\theta}{360} \\times \\pi r^2 = \\frac{90}{360} \\times \\frac{22}{7} \\times 7^2 = \\frac{1}{4} \\times 154 = 38.5\\text{cm}^2$."
+    "explanation": "Determinant = $x^2 - 6$. So, $x^2 - 6 = -5 \\implies x^2 = 1$. The positive value is $x = 1$."
   },
   {
-    "q": "Find the volume of a cylinder of radius $3\\text{cm}$ and height $7\\text{cm}$. (Take $\\pi = \\frac{22}{7}$)",
-    "opts":["$198\\text{cm}^3$", "$66\\text{cm}^3$", "$132\\text{cm}^3$", "$264\\text{cm}^3$"],
+    "q": "Find the sum of the roots of the equation $2x^2 - 5x + 3 = 0$.",
+    "opts":["$-\\frac{5}{2}$", "$\\frac{3}{2}$", "$-\\frac{3}{2}$", "$\\frac{5}{2}$"],
+    "ans": 3,
+    "explanation": "For $ax^2 + bx + c = 0$, the sum of roots $\\alpha + \\beta = -\\frac{b}{a}$. Here, $a=2, b=-5$. Sum = $-(\\frac{-5}{2}) = \\frac{5}{2}$."
+  },
+  {
+    "q": "A binary operation is defined by $x * y = x^2 + y$. Evaluate $3 * 4$.",
+    "opts":["13", "12", "10", "15"],
     "ans": 0,
-    "explanation": "Volume $= \\pi r^2 h = \\frac{22}{7} \\times 3^2 \\times 7 = 22 \\times 9 = 198\\text{cm}^3$."
+    "explanation": "Substitute $x=3, y=4$ into the operation: $3^2 + 4 = 9 + 4 = 13$."
   },
   {
-    "q": "The total surface area of a solid hemisphere of radius $r$ is given by:",
-    "opts":["$2\\pi r^2$", "$3\\pi r^2$", "$4\\pi r^2$", "$\\frac{4}{3}\\pi r^3$"],
+    "q": "Simplify $(x+2)^2 - x^2$.",
+    "opts":["$4x$", "$4x+4$", "$4x-4$", "$2x+4$"],
     "ans": 1,
-    "explanation": "The curved surface area is $2\\pi r^2$, and the flat circular base is $\\pi r^2$. Total $= 2\\pi r^2 + \\pi r^2 = 3\\pi r^2$."
+    "explanation": "Expand the square: $x^2 + 4x + 4 - x^2$. The $x^2$ terms cancel out, leaving $4x + 4$."
   },
   {
-    "q": "The locus of a point equidistant from two fixed points is:",
-    "opts":["a circle", "an angle bisector", "a perpendicular bisector", "a parallel line"],
+    "q": "Which of these shapes is defined by the region $x \\geq 0, y \\geq 0, x+y \\leq 4$?",
+    "opts": ["Rectangle", "Square", "Triangle", "Trapezium"],
     "ans": 2,
-    "explanation": "By definition, the locus of points equidistant from two given points is the perpendicular bisector of the line segment joining them."
+    "explanation": "The boundaries $x=0$ (y-axis), $y=0$ (x-axis), and the line $x+y=4$ enclose a right-angled triangle in the first quadrant."
   },
   {
-    "q": "A right-angled triangle has sides of length $5\\text{cm}$ and $12\\text{cm}$. Find the length of the hypotenuse.",
-    "opts":["$13\\text{cm}$", "$14\\text{cm}$", "$17\\text{cm}$", "$11\\text{cm}$"],
-    "ans": 0,
-    "explanation": "Using Pythagoras theorem: $\\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13\\text{cm}$."
-  },
-  {
-    "q": "If $\\tan \\theta = \\frac{3}{4}$, find $\\sin \\theta$.",
-    "opts":["$\\frac{4}{5}$", "$\\frac{3}{4}$", "$\\frac{5}{3}$", "$\\frac{3}{5}$"],
+    "q": "For what values of $x$ is the fraction $\\frac{x+2}{x^2 - 4}$ undefined?",
+    "opts": ["$2$ only", "$-2$ only", "$4$", "$\\pm 2$"],
     "ans": 3,
-    "explanation": "Opposite $= 3$, Adjacent $= 4$. Hypotenuse $= \\sqrt{3^2+4^2}=5$. Therefore, $\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}} = \\frac{3}{5}$."
+    "explanation": "A fraction is undefined when its denominator is zero. $x^2 - 4 = 0 \\implies x^2 = 4 \\implies x = \\pm 2$."
   },
   {
-    "q": "A man $10\\text{m}$ from the base of a tree looks up at an angle of elevation of $45^\\circ$. Find the height of the tree.",
-    "opts":["$5\\text{m}$", "$10\\sqrt{2}\\text{m}$", "$10\\text{m}$", "$20\\text{m}$"],
-    "ans": 2,
-    "explanation": "Using $\\tan 45^\\circ = \\frac{\\text{Opposite}}{\\text{Adjacent}} \\implies 1 = \\frac{h}{10} \\implies h = 10\\text{m}$."
-  },
-  {
-    "q": "Evaluate $\\cos 60^\\circ$.",
-    "opts":["$\\frac{1}{2}$", "$\\frac{\\sqrt{3}}{2}$", "$\\frac{\\sqrt{2}}{2}$", "$1$"],
+    "q": "Solve for x: $\\sqrt{2x + 1} = 3$.",
+    "opts": ["4", "3", "5", "8"],
     "ans": 0,
-    "explanation": "From the trigonometric ratios of special angles, $\\cos 60^\\circ$ is equal to $\\frac{1}{2}$."
+    "explanation": "Square both sides: $2x + 1 = 9$. Subtract 1: $2x = 8$. Divide by 2: $x = 4$."
   },
   {
-    "q": "Simplify the trigonometric identity: $\\sin^2 x + \\cos^2 x$.",
-    "opts": ["$0$", "$2$", "$-1$", "$1$"],
-    "ans": 3,
-    "explanation": "According to the Pythagorean trigonometric identity, the sum of the squares of sine and cosine for any angle is always 1."
-  },
-  {
-    "q": "Convert the compass bearing $N30^\\circ E$ to a three-figure true bearing.",
-    "opts":["$330^\\circ$", "$030^\\circ$", "$210^\\circ$", "$150^\\circ$"],
+    "q": "Solve for x: $2^x = \\frac{1}{8}$.",
+    "opts": ["3", "-3", "-2", "2"],
     "ans": 1,
-    "explanation": "True bearings are measured clockwise from the North. $N30^\\circ E$ is $30^\\circ$ clockwise from North, written as $030^\\circ$."
+    "explanation": "Express $\\frac{1}{8}$ as a power of 2: $\\frac{1}{2^3} = 2^{-3}$. Therefore, $2^x = 2^{-3}$, giving $x = -3$."
   },
   {
-    "q": "In triangle ABC, side $a=5$, $\\sin A=0.5$, and $\\sin B=0.8$. Find the length of side $b$.",
-    "opts":["$8$", "$7$", "$6$", "$9$"],
-    "ans": 0,
-    "explanation": "Using the Sine Rule: $\\frac{a}{\\sin A} = \\frac{b}{\\sin B} \\implies \\frac{5}{0.5} = \\frac{b}{0.8} \\implies 10 = \\frac{b}{0.8} \\implies b = 8$."
+    "q": "The angles of a triangle are $3x$, $4x$, and $5x$. Find the largest angle.",
+    "opts":["$45^\\circ$", "$60^\\circ$", "$75^\\circ$", "$90^\\circ$"],
+    "ans": 2,
+    "explanation": "The sum of angles in a triangle is $180^\\circ$. $3x + 4x + 5x = 12x = 180 \\implies x=15$. The largest angle is $5(15) = 75^\\circ$."
   },
   {
-    "q": "In a cyclic quadrilateral, one interior angle is $85^\\circ$. Find the measure of the opposite interior angle.",
-    "opts":["$85^\\circ$", "$105^\\circ$", "$115^\\circ$", "$95^\\circ$"],
+    "q": "Find the sum of the interior angles of a regular hexagon.",
+    "opts":["$360^\\circ$", "$540^\\circ$", "$900^\\circ$", "$720^\\circ$"],
     "ans": 3,
-    "explanation": "The opposite angles of a cyclic quadrilateral are supplementary (they sum to $180^\\circ$). $180^\\circ - 85^\\circ = 95^\\circ$."
+    "explanation": "Formula: $(n-2) \\times 180^\\circ$. For a hexagon, $n=6$. $(6-2) \\times 180^\\circ = 4 \\times 180^\\circ = 720^\\circ$."
   },
   {
-    "q": "How many diagonals does a regular hexagon have?",
-    "opts": ["$6$", "$9$", "$8$", "$12$"],
+    "q": "If the angle subtended by an arc at the circumference is $40^\\circ$, what is the angle subtended at the center?",
+    "opts":["$80^\\circ$", "$20^\\circ$", "$60^\\circ$", "$40^\\circ$"],
+    "ans": 0,
+    "explanation": "The angle at the center is twice the angle at the circumference. $2 \\times 40^\\circ = 80^\\circ$."
+  },
+  {
+    "q": "If $\\sin \\theta = \\frac{3}{5}$ and $\\theta$ is acute, find $\\cos \\theta$.",
+    "opts":["$\\frac{3}{4}$", "$\\frac{4}{5}$", "$\\frac{5}{4}$", "$\\frac{5}{3}$"],
     "ans": 1,
-    "explanation": "The number of diagonals is $\\frac{n(n-3)}{2}$. For a hexagon ($n=6$), $\\frac{6(3)}{2} = \\frac{18}{2} = 9$."
+    "explanation": "Using a right-angled triangle, Opp=3, Hyp=5. By Pythagoras, Adj = $\\sqrt{5^2 - 3^2} = 4$. So, $\\cos \\theta = \\frac{Adj}{Hyp} = \\frac{4}{5}$."
   },
   {
-    "q": "The ratio of the sides of two similar triangles is $2:3$. What is the ratio of their areas?",
-    "opts":["$2:3$", "$8:27$", "$4:9$", "$16:81$"],
+    "q": "In triangle ABC, $a=5$, $\\sin A = 0.5$, and $\\sin B = 0.8$. Find $b$.",
+    "opts":["6", "10", "8", "12"],
     "ans": 2,
-    "explanation": "The ratio of the areas of similar figures is the square of the ratio of their corresponding sides: $2^2 : 3^2 = 4:9$."
+    "explanation": "Using the Sine Rule: $\\frac{a}{\\sin A} = \\frac{b}{\\sin B}$. $\\frac{5}{0.5} = \\frac{b}{0.8} \\implies 10 = \\frac{b}{0.8} \\implies b = 10(0.8) = 8$."
   },
   {
-    "q": "The mean of the numbers $2, 4, x, 8$ is $5$. Find the value of $x$.",
-    "opts":["$5$", "$7$", "$8$", "$6$"],
+    "q": "Find the distance between the points $(1,2)$ and $(4,6)$.",
+    "opts": ["3", "4", "7", "5"],
     "ans": 3,
-    "explanation": "$\\frac{2+4+x+8}{4} = 5 \\implies \\frac{14+x}{4} = 5 \\implies 14+x = 20 \\implies x=6$."
+    "explanation": "Distance formula: $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$."
   },
   {
-    "q": "Find the median of the following set of numbers: $5, 1, 3, 7, 9$.",
-    "opts": ["$3$", "$5$", "$7$", "$9$"],
+    "q": "Find the gradient of the line passing through $(2,3)$ and $(4,7)$.",
+    "opts":["2", "$\\frac{1}{2}$", "-2", "$-\\frac{1}{2}$"],
+    "ans": 0,
+    "explanation": "Gradient $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{7-3}{4-2} = \\frac{4}{2} = 2$."
+  },
+  {
+    "q": "What is the gradient of a line parallel to the line $y = 3x + 4$?",
+    "opts":["-3", "3", "$\\frac{1}{3}$", "$-\\frac{1}{3}$"],
     "ans": 1,
-    "explanation": "First, arrange in ascending order: 1, 3, 5, 7, 9. The number exactly in the middle is 5."
+    "explanation": "Parallel lines have the same gradient. The equation is in $y = mx + c$ form, where $m=3$. Thus, the parallel gradient is 3."
   },
   {
-    "q": "Find the mode of the dataset: $2, 2, 3, 4, 4, 4, 5$.",
-    "opts":["$4$", "$2$", "$3$", "$5$"],
-    "ans": 0,
-    "explanation": "The mode is the number that appears most frequently. In this dataset, 4 appears three times, which is the highest frequency."
-  },
-  {
-    "q": "In a pie chart, a category representing $20\\%$ of the total will correspond to an angle of:",
-    "opts":["$36^\\circ$", "$144^\\circ$", "$72^\\circ$", "$108^\\circ$"],
+    "q": "If town A is on a bearing of $040^\\circ$ from town B, what is the bearing of B from A?",
+    "opts":["$140^\\circ$", "$040^\\circ$", "$220^\\circ$", "$320^\\circ$"],
     "ans": 2,
-    "explanation": "Angle $= \\frac{Percentage}{100} \\times 360^\\circ = \\frac{20}{100} \\times 360^\\circ = 72^\\circ$."
+    "explanation": "Back bearing = Given bearing + $180^\\circ$ (if given $< 180$). $040^\\circ + 180^\\circ = 220^\\circ$."
   },
   {
-    "q": "A fair six-sided die is rolled. Find the probability of getting an even number.",
-    "opts":["$\\frac{1}{3}$", "$\\frac{1}{2}$", "$\\frac{1}{4}$", "$\\frac{2}{3}$"],
+    "q": "A pole 10m high casts a shadow 10m long. Find the angle of elevation of the sun.",
+    "opts":["$30^\\circ$", "$60^\\circ$", "$90^\\circ$", "$45^\\circ$"],
+    "ans": 3,
+    "explanation": "$\\tan \\theta = \\frac{\\text{Opposite}}{\\text{Adjacent}} = \\frac{10}{10} = 1$. The angle whose tangent is 1 is $45^\\circ$."
+  },
+  {
+    "q": "Simplify $1 - \\sin^2 \\theta$.",
+    "opts":["$\\cos^2 \\theta$", "$\\tan^2 \\theta$", "$\\sec^2 \\theta$", "$\\sin^2 \\theta$"],
+    "ans": 0,
+    "explanation": "From the fundamental trigonometric identity $\\sin^2 \\theta + \\cos^2 \\theta = 1$, we derive $1 - \\sin^2 \\theta = \\cos^2 \\theta$."
+  },
+  {
+    "q": "The angle subtended by a diameter at the circumference of a circle is:",
+    "opts":["$45^\\circ$", "$90^\\circ$", "$60^\\circ$", "$180^\\circ$"],
     "ans": 1,
-    "explanation": "The even numbers on a die are 2, 4, and 6 (3 outcomes). Probability $= \\frac{3}{6} = \\frac{1}{2}$."
+    "explanation": "By circle theorems, the angle in a semicircle (subtended by the diameter) is always a right angle ($90^\\circ$)."
   },
   {
-    "q": "Two fair coins are tossed. Find the probability of getting exactly two heads.",
-    "opts":["$\\frac{1}{4}$", "$\\frac{1}{2}$", "$\\frac{3}{4}$", "$1$"],
-    "ans": 0,
-    "explanation": "The sample space is HH, HT, TH, TT. Exactly two heads (HH) occurs 1 out of 4 times. Probability $= 1/4$."
-  },
-  {
-    "q": "A bag contains 3 red and 5 blue balls. If a ball is picked at random, find the probability that it is red.",
-    "opts":["$\\frac{5}{8}$", "$\\frac{1}{8}$", "$\\frac{3}{8}$", "$\\frac{8}{3}$"],
+    "q": "The exterior angle of a regular polygon is $36^\\circ$. How many sides does it have?",
+    "opts":["8", "12", "10", "15"],
     "ans": 2,
-    "explanation": "Total number of balls $= 3 + 5 = 8$. Number of red balls $= 3$. Probability $= 3/8$."
+    "explanation": "The sum of exterior angles of any polygon is $360^\\circ$. Number of sides $n = \\frac{360^\\circ}{36^\\circ} = 10$."
   },
   {
-    "q": "Find the range of the dataset: $10, 2, 8, 15, 1$.",
-    "opts":["$15$", "$13$", "$10$", "$14$"],
+    "q": "In a cyclic quadrilateral, one angle is $110^\\circ$. Find the size of the opposite angle.",
+    "opts":["$110^\\circ$", "$90^\\circ$", "$80^\\circ$", "$70^\\circ$"],
     "ans": 3,
-    "explanation": "Range $= \\text{Highest value} - \\text{Lowest value} = 15 - 1 = 14$."
+    "explanation": "Opposite angles of a cyclic quadrilateral are supplementary (they sum to $180^\\circ$). $180^\\circ - 110^\\circ = 70^\\circ$."
   },
   {
-    "q": "If A and B are mutually exclusive events, $P(A)=0.3$ and $P(B)=0.4$, find $P(A \\cup B)$.",
-    "opts":["$0.7$", "$0.12$", "$0.1$", "$0.8$"],
+    "q": "What is the equation of a line passing through the origin with a gradient of 4?",
+    "opts":["$y = 4x$", "$y = 4$", "$x = 4$", "$y = x + 4$"],
     "ans": 0,
-    "explanation": "For mutually exclusive events, the probability of either occurring is the sum of their individual probabilities: $P(A \\cup B) = 0.3 + 0.4 = 0.7$."
+    "explanation": "The equation is $y = mx + c$. At the origin $(0,0)$, $c = 0$. Given $m = 4$, the equation is $y = 4x$."
   },
   {
-    "q": "If A and B are independent events with $P(A)=0.2$ and $P(B)=0.5$, find $P(A \\cap B)$.",
-    "opts":["$0.7$", "$0.3$", "$0.1$", "$0.6$"],
+    "q": "Calculate the area of a circle of radius 7cm (Take $\\pi = \\frac{22}{7}$).",
+    "opts":["$44\\text{ cm}^2$", "$154\\text{ cm}^2$", "$308\\text{ cm}^2$", "$616\\text{ cm}^2$"],
+    "ans": 1,
+    "explanation": "Area $A = \\pi r^2 = \\frac{22}{7} \\times 7^2 = \\frac{22}{7} \\times 49 = 154\\text{ cm}^2$."
+  },
+  {
+    "q": "Find the volume of a cylinder of radius 3cm and height 7cm (Take $\\pi = \\frac{22}{7}$).",
+    "opts":["$132\\text{ cm}^3$", "$264\\text{ cm}^3$", "$198\\text{ cm}^3$", "$396\\text{ cm}^3$"],
     "ans": 2,
-    "explanation": "For independent events, the probability of both occurring is the product: $P(A \\cap B) = 0.2 \\times 0.5 = 0.1$."
+    "explanation": "Volume $V = \\pi r^2 h = \\frac{22}{7} \\times 3^2 \\times 7 = 22 \\times 9 = 198\\text{ cm}^3$."
   },
   {
-    "q": "Find the derivative of $y = x^3 - 2x$ with respect to $x$.",
-    "opts":["$x^2 - 2$", "$3x^2 + 2$", "$3x - 2$", "$3x^2 - 2$"],
+    "q": "Find the area of a sector of a circle with radius 6cm and angle $60^\\circ$.",
+    "opts":["$3\\pi\\text{ cm}^2$", "$12\\pi\\text{ cm}^2$", "$36\\pi\\text{ cm}^2$", "$6\\pi\\text{ cm}^2$"],
     "ans": 3,
-    "explanation": "Using the power rule for differentiation: $\\frac{dy}{dx} = 3x^{3-1} - 2(1)x^{1-1} = 3x^2 - 2$."
+    "explanation": "Area = $\\frac{\\theta}{360^\\circ} \\times \\pi r^2 = \\frac{60}{360} \\times \\pi \\times 6^2 = \\frac{1}{6} \\times 36\\pi = 6\\pi\\text{ cm}^2$."
+  },
+  {
+    "q": "Find the difference in longitude between $A(10^\\circ N, 20^\\circ E)$ and $B(10^\\circ N, 40^\\circ W)$.",
+    "opts":["$60^\\circ$", "$20^\\circ$", "$40^\\circ$", "$80^\\circ$"],
+    "ans": 0,
+    "explanation": "Since point A is in the East and point B is in the West, their difference in longitude is the sum of the angles: $20^\\circ + 40^\\circ = 60^\\circ$."
+  },
+  {
+    "q": "Calculate the surface area of a sphere of radius 7cm (Take $\\pi = \\frac{22}{7}$).",
+    "opts":["$154\\text{ cm}^2$", "$616\\text{ cm}^2$", "$308\\text{ cm}^2$", "$88\\text{ cm}^2$"],
+    "ans": 1,
+    "explanation": "Surface Area = $4\\pi r^2 = 4 \\times \\frac{22}{7} \\times 7^2 = 4 \\times 22 \\times 7 = 616\\text{ cm}^2$."
+  },
+  {
+    "q": "Find the derivative of $y = 3x^2 - 2x + 1$ with respect to x.",
+    "opts":["$6x+2$", "$3x-2$", "$6x-2$", "$6x$"],
+    "ans": 2,
+    "explanation": "Using the power rule: $\\frac{dy}{dx} = 2(3)x^{2-1} - 1(2)x^{1-1} + 0 = 6x - 2$."
   },
   {
     "q": "Evaluate the indefinite integral $\\int 2x dx$.",
-    "opts":["$2x^2 + c$", "$x^2 + c$", "$x + c$", "$\\frac{x^2}{2} + c$"],
-    "ans": 1,
-    "explanation": "$\\int 2x dx = \\frac{2x^2}{2} + c = x^2 + c$."
-  },
-  {
-    "q": "Find the $x$-coordinate of the turning point of the curve $y = x^2 - 4x$.",
-    "opts":["$0$", "$-2$", "$2$", "$4$"],
-    "ans": 2,
-    "explanation": "A turning point occurs where the derivative is zero. $\\frac{dy}{dx} = 2x - 4 = 0 \\implies 2x = 4 \\implies x = 2$."
-  },
-  {
-    "q": "Evaluate the definite integral $\\int_{0}^{1} 3x^2 dx$.",
-    "opts": ["$3$", "$2$", "$0$", "$1$"],
+    "opts":["$2x^2+c$", "$x+c$", "$2+c$", "$x^2+c$"],
     "ans": 3,
-    "explanation": "The integral of $3x^2$ is $x^3$. Evaluating from 0 to 1 gives $(1)^3 - (0)^3 = 1 - 0 = 1$."
+    "explanation": "Using the integration power rule: $\\int 2x dx = \\frac{2x^2}{2} + c = x^2 + c$."
   },
   {
-    "q": "Find the compound interest on ₦1,000 for 2 years at $10\\%$ per annum.",
-    "opts":["₦210", "₦200", "₦1,210", "₦220"],
+    "q": "Find the maximum value of $y = 4x - x^2$.",
+    "opts":["4", "2", "6", "8"],
     "ans": 0,
-    "explanation": "Amount $= P(1 + \\frac{R}{100})^T = 1000(1.1)^2 = 1000(1.21) = 1210$. Compound Interest $= 1210 - 1000 = 210$."
+    "explanation": "Differentiate and set to 0 to find the turning point: $\\frac{dy}{dx} = 4 - 2x = 0 \\implies x=2$. Substitute $x=2$ back into $y$: $y = 4(2) - (2)^2 = 8 - 4 = 4$."
   },
   {
-    "q": "Find the sum of the first 10 terms of the arithmetic progression: $1, 2, 3, 4, \\dots$",
-    "opts": ["$50$", "$55$", "$60$", "$45$"],
+    "q": "Calculate the perimeter of a sector of radius 7cm and angle $90^\\circ$ (Take $\\pi = \\frac{22}{7}$).",
+    "opts":["11cm", "25cm", "18cm", "36cm"],
     "ans": 1,
-    "explanation": "Using the sum formula $S_n = \\frac{n}{2}(a+l)$, we get $S_{10} = \\frac{10}{2}(1+10) = 5 \\times 11 = 55$."
+    "explanation": "Arc length = $\\frac{90}{360} \\times 2 \\times \\frac{22}{7} \\times 7 = \\frac{1}{4} \\times 44 = 11$. Perimeter = Arc length + 2(radius) = $11 + 7 + 7 = 25\\text{ cm}$."
   },
   {
-    "q": "The contrapositive of the statement \"If P, then Q\" is:",
-    "opts":["If Q, then P", "If not P, then not Q", "If P, then not Q", "If not Q, then not P"],
+    "q": "Find the area of a trapezium with parallel sides 4cm and 6cm, and a perpendicular height of 5cm.",
+    "opts":["$20\\text{ cm}^2$", "$30\\text{ cm}^2$", "$25\\text{ cm}^2$", "$50\\text{ cm}^2$"],
+    "ans": 2,
+    "explanation": "Area = $\\frac{1}{2} (a+b)h = \\frac{1}{2}(4+6) \\times 5 = \\frac{1}{2}(10) \\times 5 = 25\\text{ cm}^2$."
+  },
+  {
+    "q": "Find the mean of the numbers: 2, 4, 6, 8, 10.",
+    "opts":["5", "7", "8", "6"],
     "ans": 3,
-    "explanation": "The contrapositive reverses the direction and negates both conditions: \"If not Q, then not P\"."
+    "explanation": "Mean = $\\frac{\\text{Sum}}{\\text{Count}} = \\frac{2+4+6+8+10}{5} = \\frac{30}{5} = 6$."
   },
   {
-    "q": "Pipe A fills a tank in 3 hours and Pipe B fills it in 6 hours. How long will it take if both work together?",
-    "opts":["$9\\text{ hours}$", "$2\\text{ hours}$", "$4.5\\text{ hours}$", "$3\\text{ hours}$"],
+    "q": "Find the median of the set: 3, 1, 4, 2, 5.",
+    "opts": ["3", "2", "4", "5"],
+    "ans": 0,
+    "explanation": "First sort the data: 1, 2, 3, 4, 5. The middle value is 3."
+  },
+  {
+    "q": "Determine the mode of this data: 2, 3, 3, 4, 5, 3, 2.",
+    "opts": ["2", "3", "4", "5"],
     "ans": 1,
-    "explanation": "Combined rate $= \\frac{1}{3} + \\frac{1}{6} = \\frac{2}{6} + \\frac{1}{6} = \\frac{3}{6} = \\frac{1}{2}$ tank per hour. Time taken $= 2$ hours."
+    "explanation": "The mode is the number that appears most frequently. 3 appears three times, more than any other number."
   },
   {
-    "q": "If $y$ varies directly as $x$ and inversely as the square of $z$, which equation represents this relationship?",
-    "opts":["$y = kxz^2$", "$y = \\frac{k}{xz^2}$", "$y = \\frac{kx}{z^2}$", "$y = \\frac{kz^2}{x}$"],
+    "q": "A coin is tossed twice. What is the probability of getting exactly one head?",
+    "opts":["$\\frac{1}{4}$", "$\\frac{3}{4}$", "$\\frac{1}{2}$", "1"],
     "ans": 2,
-    "explanation": "Direct variation puts $x$ in the numerator, inverse variation puts $z^2$ in the denominator, resulting in $y = \\frac{kx}{z^2}$."
+    "explanation": "Sample space: {HH, HT, TH, TT}. Outcomes with exactly one head: {HT, TH}. Probability = $\\frac{2}{4} = \\frac{1}{2}$."
   },
   {
-    "q": "How many subsets can be formed from a set containing 4 distinct elements?",
-    "opts":["$16$", "$8$", "$12$", "$32$"],
-    "ans": 0,
-    "explanation": "The number of subsets for a set with $n$ elements is $2^n$. Here, $2^4 = 16$."
-  },
-  {
-    "q": "Factorize the expression $ax - ay + bx - by$.",
-    "opts":["$(a-b)(x+y)$", "$(a+b)(x-y)$", "$(a+b)(x+y)$", "$(a-b)(x-y)$"],
-    "ans": 1,
-    "explanation": "Group terms: $a(x-y) + b(x-y)$. Factor out $(x-y)$ to get $(a+b)(x-y)$."
-  },
-  {
-    "q": "Find the equation of the line passing through the origin with a gradient of $2$.",
-    "opts":["$y = 2x$", "$y = x + 2$", "$y = 2x + 1$", "$y = \\frac{x}{2}$"],
-    "ans": 0,
-    "explanation": "Using the equation of a line $y = mx + c$. At the origin $(0,0)$, $c=0$. With $m=2$, the equation is $y = 2x$."
-  },
-  {
-    "q": "Simplify the surd expression: $\\sqrt{50} - \\sqrt{18}$.",
-    "opts":["$\\sqrt{32}$", "$8\\sqrt{2}$", "$4\\sqrt{2}$", "$2\\sqrt{2}$"],
+    "q": "Two fair dice are thrown. Find the probability of scoring a sum of 7.",
+    "opts":["$\\frac{1}{12}$", "$\\frac{1}{8}$", "$\\frac{1}{4}$", "$\\frac{1}{6}$"],
     "ans": 3,
-    "explanation": "$\\sqrt{50} = \\sqrt{25 \\times 2} = 5\\sqrt{2}$. $\\sqrt{18} = \\sqrt{9 \\times 2} = 3\\sqrt{2}$. Then $5\\sqrt{2} - 3\\sqrt{2} = 2\\sqrt{2}$."
+    "explanation": "There are 36 possible outcomes. Pairs summing to 7 are: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). Total = 6 ways. Prob = $\\frac{6}{36} = \\frac{1}{6}$."
   },
   {
-    "q": "Evaluate $\\log_2 8 + \\log_2 4$.",
-    "opts":["$32$", "$6$", "$5$", "$12$"],
-    "ans": 2,
-    "explanation": "$\\log_2 8 = 3$ because $2^3 = 8$. $\\log_2 4 = 2$ because $2^2 = 4$. Their sum is $3 + 2 = 5$."
-  },
-  {
-    "q": "The sum of the interior angles of a regular polygon is $1080^\\circ$. How many sides does it have?",
-    "opts": ["$8$", "$6$", "$7$", "$9$"],
+    "q": "Find the range of the following set of numbers: 12, 5, 18, 3, 9.",
+    "opts":["15", "12", "13", "14"],
     "ans": 0,
-    "explanation": "Formula: $(n-2) \\times 180^\\circ = 1080^\\circ \\implies n-2 = 6 \\implies n = 8$."
+    "explanation": "Range = Maximum value - Minimum value = $18 - 3 = 15$."
   },
   {
-    "q": "Calculate the area of a rhombus whose diagonals are $10\\text{cm}$ and $8\\text{cm}$.",
-    "opts":["$80\\text{cm}^2$", "$36\\text{cm}^2$", "$40\\text{cm}^2$", "$18\\text{cm}^2$"],
-    "ans": 2,
-    "explanation": "Area of a rhombus $= \\frac{1}{2} \\times d_1 \\times d_2 = \\frac{1}{2}(10)(8) = 40\\text{cm}^2$."
-  },
-  {
-    "q": "Find the volume of a cylinder with base radius $5\\text{cm}$ and height $10\\text{cm}$.",
-    "opts":["$50\\pi\\text{ cm}^3$", "$250\\pi\\text{ cm}^3$", "$100\\pi\\text{ cm}^3$", "$500\\pi\\text{ cm}^3$"],
+    "q": "In a pie chart representing 72 students, if 12 students study Physics, what is the sectorial angle for Physics?",
+    "opts":["$30^\\circ$", "$60^\\circ$", "$45^\\circ$", "$90^\\circ$"],
     "ans": 1,
-    "explanation": "Volume $= \\pi r^2 h = \\pi(5^2)(10) = \\pi(25)(10) = 250\\pi\\text{ cm}^3$."
+    "explanation": "Angle = $(\\frac{\\text{Frequency}}{\\text{Total}}) \\times 360^\\circ = (\\frac{12}{72}) \\times 360^\\circ = \\frac{1}{6} \\times 360^\\circ = 60^\\circ$."
   },
   {
-    "q": "Express $0.0032 \\times 10^{-4}$ in standard form.",
-    "opts":["$3.2 \\times 10^{-6}$", "$3.2 \\times 10^{-8}$", "$32 \\times 10^{-8}$", "$3.2 \\times 10^{-7}$"],
-    "ans": 3,
-    "explanation": "$0.0032 = 3.2 \\times 10^{-3}$. Multiply by $10^{-4}$ to get $3.2 \\times 10^{-3-4} = 3.2 \\times 10^{-7}$."
-  },
-  {
-    "q": "Make $L$ the subject of the formula $T = 2\\pi \\sqrt{\\frac{L}{g}}$.",
-    "opts":["$L = \\frac{gT^2}{2\\pi}$", "$L = \\frac{4\\pi^2 g}{T^2}$", "$L = \\frac{gT^2}{4\\pi^2}$", "$L = \\frac{gT}{2\\pi}$"],
+    "q": "A and B are independent events. P(A) = 0.4 and P(B) = 0.5. Find P(A and B).",
+    "opts":["0.9", "0.4", "0.2", "0.5"],
     "ans": 2,
-    "explanation": "Square both sides: $T^2 = 4\\pi^2 \\frac{L}{g}$. Multiply by $g$: $gT^2 = 4\\pi^2 L$. Divide by $4\\pi^2$ to get $L = \\frac{gT^2}{4\\pi^2}$."
+    "explanation": "For independent events, $P(A \\text{ and } B) = P(A) \\times P(B) = 0.4 \\times 0.5 = 0.2$."
   },
   {
-    "q": "Find $x$ if the determinant of a $2 \\times 2$ matrix with row 1 as $(x, 2)$ and row 2 as $(3, 4)$ is $10$.",
-    "opts":["$4$", "$2$", "$3$", "$5$"],
+    "q": "If the variance of a distribution is 16, what is its standard deviation?",
+    "opts": ["8", "256", "2", "4"],
+    "ans": 3,
+    "explanation": "Standard Deviation is the square root of the variance. $\\sqrt{16} = 4$."
+  },
+  {
+    "q": "An urn contains 3 red balls and 2 blue balls. A ball is picked at random. Find the probability it is red.",
+    "opts":["$\\frac{3}{5}$", "$\\frac{2}{5}$", "$\\frac{1}{2}$", "$\\frac{1}{5}$"],
     "ans": 0,
-    "explanation": "Determinant $= (x \\times 4) - (2 \\times 3) = 10 \\implies 4x - 6 = 10 \\implies 4x = 16 \\implies x = 4$."
+    "explanation": "Total balls = 5. Red balls = 3. Probability of picking red = $\\frac{3}{5}$."
   }
 ]
