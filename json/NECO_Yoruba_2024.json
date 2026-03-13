@@ -1,446 +1,62 @@
 [
-{
-"q": "Àmì ohùn mélòó ni ó wà nínú èdè Yorùbá?",
-"opts": ["Méjì", "Mẹ́ta", "Mẹ́rin", "Márùn-ún"],
-"ans": 1,
-"explanation": "Àmì ohùn mẹ́ta ni ó wà nínú èdè Yorùbá: Àmì-òkè (´), Àmì-àárín (tí a kì í kọ sílẹ̀), àti Àmì-ìsàlẹ̀ (`)."
-},
-{
-"q": "Fáwẹ́lì mélòó ni ó wà nínú èdè Yorùbá àjùmọ̀lò?",
-"opts": ["Meje", "Mẹ́sàn-án", "Mẹ́tàlá", "Mẹ́fà"],
-"ans": 2,
-"explanation": "Fáwẹ́lì Yorùbá jẹ́ mẹ́tàlá: Fáwẹ́lì ẹyọ (oral) méje (a, e, ẹ, i, o, ọ, u) àti fáwẹ́lì àránmú (nasal) márùn-ún (an, ẹn, in, ọn, un). Nínú àwọn ìwé kan, 'ọn' kì í ṣe fáwẹ́lì ọ̀tọ̀, ṣùgbọ́n lápapọ̀, mẹ́tàlá ni wọ́n."
-},
-{
-"q": "Èwo ni kì í ṣe kọ́nṣónáǹtì nínú àwọn wọ̀nyí?",
-"opts": ["gb", "p", "c", "ṣ"],
-"ans": 2,
-"explanation": "Háraàfì 'c' kò sí nínú álífábẹ́ẹ̀tì (Abidì) Yorùbá."
-},
-{
-"q": "Sílẹ́bù mélòó ni ó wà nínú ọ̀rọ̀ yìí: 'Ìtàn-àròsọ'?",
-"opts": ["Mẹ́ta", "Mẹ́rin", "Márùn-ún", "Mẹ́fà"],
-"ans": 1,
-"explanation": "Ì-tàn-à-rò-sọ ní sílẹ́bù márùn-ún (Ì, tàn, à, rò, sọ). Ohùn kọ̀ọ̀kan ni ó ń sọ sílẹ́bù dají."
-},
-{
-"q": "Báwo ni a ṣe ń kọ 'spirit' pẹ̀lú àmì ohùn tí ó tọ́?",
-"opts": ["Ẹmi", "Ẹ̀mí", "Èmi", "Emí"],
-"ans": 1,
-"explanation": "'Ẹ̀mí' (low-high) ni ọ̀rọ̀ tí ó dúró fún spirit tàbí soul. 'Èmi' jẹ́ asojú-orúkọ (I)."
-},
-{
-"q": "Kí ni iṣẹ́ 'Èmi' nínú gbólóhùn yìí: 'Èmi ni mo ra ìwé náà'?",
-"opts": ["Olùwà", "Àbọ̀", "Atẹnumọ́", "Ọ̀rọ̀-ìṣe"],
-"ans": 2,
-"explanation": "'Èmi' nínú gbólóhùn yìí jẹ́ asojú-orúkọ adáńdúró tí a lò fún 'itẹnumọ́' (emphasis)."
-},
-{
-"q": "Èwo nínú àwọn wọ̀nyí ni ó jẹ́ fáwẹ́lì àránmú?",
-"opts": ["a", "i", "un", "o"],
-"ans": 2,
-"explanation": "'un' jẹ́ fáwẹ́lì àránmú nítorí pé afẹ́fẹ́ ń jáde láti inú imú àti ẹnu papọ̀ nígbà tí a bá ń pè é."
-},
-{
-"q": "Kí ni Yorùbá ń pè ní 'Noun'?",
-"opts": ["Ọ̀rọ̀-orúkọ", "Ọ̀rọ̀-ìṣe", "Ọ̀rọ̀-àpèjúwe", "Ọ̀rọ̀-asopọ̀"],
-"ans": 0,
-"explanation": "Ọ̀rọ̀-orúkọ ni ọ̀rọ̀ tí a ń lò láti dárúkọ ènìyàn, ẹranko, ibi, tàbí nǹkan."
-},
-{
-"q": "Àpólà wo ni ó wà nínú: 'Ṣọlá rẹ nẹ́'?",
-"opts": ["Àpólà-orúkọ", "Àpólà-ìṣe", "Àpólà-atọ́ka", "Àpólà-àpèjúwe"],
-"ans": 1,
-"explanation": "'Rẹ nẹ́' (is laughing) jẹ́ àpólà-ìṣe nítorí pé ọ̀rọ̀-ìṣe ni ó jẹ́ olórí rẹ̀."
-},
-{
-"q": "Èwo ni àmì-ìsàlẹ̀ nínú àwọn wọ̀nyí?",
-"opts": ["/", "\", "-", "v"],
-"ans": 1,
-"explanation": "Àmì-ìsàlẹ̀ (grave accent) ni a ń pè ní 'dò', ó sì rẹ̀ sí ọwọ́ òsì (\)."
-},
-{
-"type": "passage",
-"content": "Ìwà rere lẹ̀ṣìn ènìyàn. Yorùbá gbàgbọ́ pé bí ènìyàn bá lówó lọ́wọ́ tí kò ní ìwà, owó náà asán ni. Ìwà ni ẹwà ènìyàn. Ohun tí ó bá jẹ́ kí ènìyàn gbadùn ayé rẹ̀, tí orúkọ rẹ̀ kò sì ní bàjẹ́ lẹ́yìn ikú rẹ̀ ni ìwà rere. Olódùmarè fẹ́ràn ẹni tí ó bá ní ìwà tútù àti sùúrù. Bí ènìyàn bá ní gbogbo nǹkan àmúyẹ ayé, tí kò ní ìwà, kò sí nǹkan tí ó ní.",
-"questions": [
-{
-"q": "Gẹ́gẹ́ bí passage yìí, kí ni ẹwà ènìyàn?",
-"opts": ["Owó", "Aṣọ", "Ìwà", "Ilé"],
-"ans": 2,
-"explanation": "Passage yìí sọ kedere pé 'Ìwà ni ẹwà ènìyàn'."
-},
-{
-"q": "Ta ni ó fẹ́ràn ẹni tí ó bá ní ìwà tútù?",
-"opts": ["Ọba", "Olódùmarè", "Ìyá", "Òrìṣà"],
-"ans": 1,
-"explanation": "Passage sọ pé 'Olódùmarè fẹ́ràn ẹni tí ó bá ní ìwà tútù'."
-},
-{
-"q": "Kí ni ó ń ṣẹlẹ̀ sí orúkọ ẹni tí ó ní ìwà rere lẹ́yìn ikú?",
-"opts": ["Ó ń bàjẹ́", "Kì í bàjẹ́", "A ń gbàgbé rẹ̀", "Kò sí ohun tó ń ṣẹlẹ̀"],
-"ans": 1,
-"explanation": "Passage sọ pé orúkọ rẹ̀ kì í bàjẹ́ lẹ́yìn ikú."
-},
-{
-"q": "Kí ni ìtumọ̀ 'Ìwà lẹ̀ṣìn ènìyàn'?",
-"opts": ["Ìwà ṣe pàtàkì fún ìrìn-àjò ènìyàn", "Ènìyàn gbọ́dọ̀ gun ẹṣin", "Ẹṣin kò ní ìwà", "Ìwà dàbí ẹran"],
-"ans": 0,
-"explanation": "Lẹ̀ṣìn túmọ̀ sí pé ohun tí ó ń gbé ènìyàn ró ni ìwà jẹ́."
-},
-{
-"q": "Kí ni àmì-ohùn orí 'i' nínú ọ̀rọ̀ 'ikú'?",
-"opts": ["Àmì-òkè", "Àmì-ìsàlẹ̀", "Àmì-àárín", "Kò sí àmì"],
-"ans": 2,
-"explanation": "Nínú 'ikú', 'i' kò ní àmì (mid tone), 'ú' sì ní àmì-òkè."
-}
-]
-},
-{
-"q": "Mélòó ni fáwẹ́lì ẹyọ (oral vowels) nínú èdè Yorùbá?",
-"opts": ["Márùn-ún", "Mẹ́fà", "Meje", "Mẹ́sàn-án"],
-"ans": 2,
-"explanation": "Fáwẹ́lì ẹyọ Yorùbá jẹ́ méje: a, e, ẹ, i, o, ọ, u."
-},
-{
-"q": "Kí ni orúkọ kọ́nṣónáǹtì 'gb'?",
-"opts": ["Kọ́nṣónáǹtì ẹyọ", "Kọ́nṣónáǹtì àpòpọ̀", "Fáwẹ́lì", "Àmì-ohùn"],
-"ans": 1,
-"explanation": "'gb' jẹ́ kọ́nṣónáǹtì àpòpọ̀ (digraph) nítorí pé lẹ́tà méjì ni a lò fún ìró kan."
-},
-{
-"q": "Èwo nínú àwọn wọ̀nyí ni ó jẹ́ 'Pronoun'?",
-"opts": ["Ra", "Sùgbọ́n", "Àwa", "Lọ"],
-"ans": 2,
-"explanation": "'Àwa' (We) jẹ́ asojú-orúkọ ẹni púpọ̀."
-},
-{
-"q": "Kí ni a ń pè ní 'Syllable' ní èdè Yorùbá?",
-"opts": ["Mọ́fíìmù", "Sílẹ́bù", "Ìpín", "Gírámà"],
-"ans": 1,
-"explanation": "Sílẹ́bù ni ìpín ọ̀rọ̀ tí a le pè ní ẹmí kan."
-},
-{
-"q": "Ọ̀rọ̀ wo ni ó ní àmì-ohùn 'dò-re'?",
-"opts": ["Bàbá", "Ìyá", "Ọjà", "Èmi"],
-"ans": 3,
-"explanation": "È-mi ní àmì 'dò' (low) lórí È àti 're' (mid) lórí i."
-},
-{
-"q": "Kí ni ìtumọ̀ 'Ìsọmọlórúkọ'?",
-"opts": ["Marriage ceremony", "Naming ceremony", "Funeral ceremony", "Installation ceremony"],
-"ans": 1,
-"explanation": "Ìsọmọlórúkọ ni àsà Yorùbá fún sísọ ọmọ tuntun ní orúkọ."
-},
-{
-"q": "Mélòó ni ọjọ́ orúkọ fún ọmọbìnrin nínú àsà Yorùbá àtijọ́?",
-"opts": ["Meje", "Mẹ́sàn-án", "Mẹ́jọ", "Mẹ́fà"],
-"ans": 0,
-"explanation": "Gẹ́gẹ́ bí àsà, ọjọ́ keje ni a ń sọ ọmọbìnrin ní orúkọ, ọjọ́ kẹsàn-án ni ti ọmọkùnrin."
-},
-{
-"q": "Èwo nínú nǹkan wọ̀nyí ni a kì í lò níbi ìsọmọlórúkọ?",
-"opts": ["Oyin", "Atare", "Irin", "Omi"],
-"ans": 2,
-"explanation": "Oyin, atare, omi, obì, iyọ̀, àti epo ni a ń lò. Irin kò sí nínú wọn."
-},
-{
-"q": "Kí ni iyọ̀ ń dúró fún nínú ìsọmọlórúkọ?",
-"opts": ["Ìtura", "Adùn ayé", "Agbára", "Ikú"],
-"ans": 1,
-"explanation": "Iyọ̀ jẹ́ àmì fún adùn àti pé kí ayé ọmọ náà má ṣe dárà (seasoning/joy)."
-},
-{
-"q": "Ta ni a mọ̀ sí 'Orí-inú'?",
-"opts": ["Ara", "Ẹ̀mí", "Àyànmọ́", "Iṣẹ́"],
-"ans": 2,
-"explanation": "Orí-inú ni nǹkan tẹ̀mí tí ó ń darí àyànmọ́ (destiny) ènìyàn."
-},
-{
-"q": "Parí òwe yìí: 'Iṣẹ́ ni oògùn _____'?",
-"opts": ["Owó", "Ìyà", "Arùn", "Ìrora"],
-"ans": 1,
-"explanation": "Iṣẹ́ ni oògùn ìyà (Work is the antidote to poverty)."
-},
-{
-"q": "Báwo ni a ṣe ń kí àgbẹ̀ tó ń ṣiṣẹ́ lóko?",
-"opts": ["Arokò", "Arókọye", "Ẹ kú iṣẹ́", "Àrìnàkò"],
-"ans": 1,
-"explanation": "'Arókọye' ni ìkíni tí ó bá iṣẹ́ àgbẹ̀ mu gẹ́lẹ́."
-},
-{
-"q": "Kí ni iṣẹ́ Ọbàtálá nínú ìmọ̀-ìṣẹ̀dá Yorùbá?",
-"opts": ["Láti mọ ara ènìyàn", "Láti fún ènìyàn ní ẹ̀mí", "Láti dá ayé", "Láti jẹ ọba"],
-"ans": 0,
-"explanation": "Ọbàtálá ni Òrìṣà tí ó ń mọ ara ènìyàn látara amọ̀."
-},
-{
-"q": "Èwo ni orúkọ àmúmọ̀-wáyé fún ọmọ tí ó rọ̀ sílẹ̀ nípò ẹsẹ̀?",
-"opts": ["Ìgè", "Àìná", "Dàda", "Táyé"],
-"ans": 0,
-"explanation": "Ìgè Adùbí ni ọmọ tí ó rọ̀ sílẹ̀ nípò ẹsẹ̀."
-},
-{
-"q": "Ìgbà mélòó ni a ń ṣe ìsìnkú ọba?",
-"opts": ["Lẹ́sẹ̀kẹsẹ̀", "Lẹ́yìn ọdún kan", "Wọ́n kì í sìnkú ọba", "Ní kọ̀rọ̀"],
-"ans": 3,
-"explanation": "Ìsìnkú ọba jẹ́ àṣírí (ní kọ̀rọ̀), a kì í ṣe é lójú ayé."
-},
-{
-"type": "passage",
-"content": "Ìgbéyàwó ní ilẹ̀ Yorùbá jẹ́ àjọṣepọ̀ láàárín eṣíndínlógún méjì. Kì í ṣe ọ̀rọ̀ ọkùnrin àti obìnrin nìkan. Ó bẹ̀rẹ̀ láti orí ìfojúsọ́nà, ìmọ̀-ìdí, ìdána, kí ó tó di ọjọ́ ìgbéyàwó gangan. Níbi ìdána, ẹbí ọkùnrin yóò mú ẹrù ìdána wá fún ẹbí obìnrin gẹ́gẹ́ bí àdéhùn. Obì, ẹja gbígbẹ, epo, àti owó orí ìyàwó ṣe pàtàkì nínú ẹrù yìí.",
-"questions": [
-{
-"q": "Kí ni ìgbéyàwó túmọ̀ sí gẹ́gẹ́ bí passage yìí?",
-"opts": ["Àjọṣepọ̀ ọkùnrin àti obìnrin", "Àjọṣepọ̀ ẹbí méjì", "Sísan owó", "Jíjẹ nǹkan"],
-"ans": 1,
-"explanation": "Passage sọ pé 'àjọṣepọ̀ láàárín eṣíndínlógún (ẹbí) méjì' ni."
-},
-{
-"q": "Èwo ni kì í ṣe ọ̀kan nínú ìgbésẹ̀ ìgbéyàwó?",
-"opts": ["Ìfojúsọ́nà", "Ìmọ̀-ìdí", "Ìdána", "Ìsìnkú"],
-"ans": 3,
-"explanation": "Ìsìnkú kò sí nínú ìgbésẹ̀ ìgbéyàwó."
-},
-{
-"q": "Èwo nínú àwọn nǹkan wọ̀nyí ni ó ṣe pàtàkì nínú ẹrù ìdána?",
-"opts": ["Ẹja gbígbẹ", "Irin", "Ilé", "Mọ́tò"],
-"ans": 0,
-"explanation": "Passage dárúkọ 'ẹja gbígbẹ' gẹ́gẹ́ bí nǹkan pàtàkì."
-},
-{
-"q": "Kí ni owó orí ìyàwó fún?",
-"opts": ["Láti ra ìyàwó", "Láti fi idi àjọṣepọ̀ múlẹ̀", "Láti fi fún ọba", "Láti kọ́ ilé"],
-"ans": 1,
-"explanation": "Ní àsà Yorùbá, owó orí ìyàwó jẹ́ àmì àdéhùn àti ọ̀wọ̀."
-},
-{
-"q": "Sílẹ́bù mélòó ni ó wà nínú ọ̀rọ̀ 'Ìdána'?",
-"opts": ["Kan", "Méjì", "Mẹ́ta", "Mẹ́rin"],
-"ans": 2,
-"explanation": "Ì-dá-na ní sílẹ́bù mẹ́ta."
-}
-]
-},
-{
-"q": "Ta ni ó kọ ìwé 'Ẹfúnsetán Aníwúrà'?",
-"opts": ["Akinwunmi Isola", "D.O. Fagunwa", "J.F. Odunjo", "Adebayọ Faleti"],
-"ans": 0,
-"explanation": "Ọ̀jọ̀gbọ́n Akinwunmi Isola ni ó kọ eré-oníṣe 'Ẹfúnsetán Aníwúrà'."
-},
-{
-"q": "Kí ni iṣẹ́-oògùn 'Àlọ̀' nínú àsà Yorùbá?",
-"opts": ["Láti kọ́ni ní ìwà rere", "Láti fa ìjà", "Láti pa ènìyàn", "Láti bọ Òrìṣà"],
-"ans": 0,
-"explanation": "Àlọ̀ jẹ́ ọ̀nà tí a ń gbà kọ́ àwọn ọmọdé ní ìwà rere àti ọgbọ́n ayé."
-},
-{
-"q": "Ta ni akọni nínú ìwé 'Ògbójú Ọdẹ nínú Igbó Irúnmalẹ̀'?",
-"opts": ["Àkàrà-oògùn", "Kákò", "Ọmọ-òdú", "Ìrìnkèrindò"],
-"ans": 0,
-"explanation": "Àkàrà-oògùn ni ó jẹ́ akọni (protagonist) nínú ìwé Fagunwa yìí."
-},
-{
-"q": "Kí ni 'Àlọ̀ Àpagbe'?",
-"opts": ["Àlọ̀ tí ó ní orin", "Àlọ̀ tí kò ní orin", "Àlọ̀ nípa ọba", "Àlọ̀ nípa ikú"],
-"ans": 0,
-"explanation": "Àlọ̀ àpagbe ni àlọ̀ tí olùpa-àlọ̀ yóò ti kọrin tí àwọn olùgbọ́ yóò sì gbè é."
-},
-{
-"q": "Èwo nínú àwọn wọ̀nyí ni 'Figure of Speech' fún 'Simile'?",
-"opts": ["Ìfiwé tààrà", "Ìfiwé lọ́wọ́lọ́wọ́", "Àmójúbà", "Ìfọ̀rọ̀dárà"],
-"ans": 0,
-"explanation": "Ìfiwé tààrà ni a ń lò nígbà tí a bá lo ọ̀rọ̀ 'bí' tàbí 'dàbí' láti fi nǹkan méjì wéra."
-},
-{
-"q": "Kí ni 'Ewì Ìyìn'?",
-"opts": ["Àlọ̀", "Orìkì", "Ìtàn", "Eré oníṣe"],
-"ans": 1,
-"explanation": "Orìkì jẹ́ ewì tí a ń lò láti yin ènìyàn tàbí orílẹ̀-èdè rẹ̀."
-},
-{
-"q": "Èwo ni fáwẹ́lì nasal nínú èdè Yorùbá?",
-"opts": ["a", "e", "in", "u"],
-"ans": 2,
-"explanation": "'in' jẹ́ fáwẹ́lì àránmú nítorí pé ó ní 'n' lẹ́yìn rẹ̀ tí ó ń fihàn pé imú ni a gbé ohùn rẹ̀ jáde láti wa."
-},
-{
-"q": "Kí ni a ń pè ní 'Subject' ní gírámà Yorùbá?",
-"opts": ["Olùwà", "Àbọ̀", "Ọ̀rọ̀-ìṣe", "Ẹyọ"],
-"ans": 0,
-"explanation": "Olùwà ni ẹni tàbí nǹkan tí ó ń ṣe iṣẹ́ nínú gbólóhùn."
-},
-{
-"q": "Kí ni a ń pè ní 'Object' ní gírámà Yorùbá?",
-"opts": ["Olùwà", "Àbọ̀", "Àpólà", "Ìpọ́"],
-"ans": 1,
-"explanation": "Àbọ̀ ni ẹni tàbí nǹkan tí iṣẹ́ olùwà bà lé."
-},
-{
-"q": "Èwo nínú lẹ́tà wọ̀nyí ni 'Voiced Consonant'?",
-"opts": ["f", "s", "b", "k"],
-"ans": 2,
-"explanation": "'b' jẹ́ kọ́nṣónáǹtì fìpè-fagbe (voiced) nítorí pé tan-an-na ń mì nígbà tí a bá ń pè é."
-},
-{
-"q": "Báwo ni a ṣe ń kí ènìyàn ní ìrọ̀lẹ́?",
-"opts": ["Ẹ kú àárọ̀", "Ẹ kú ọ̀sán", "Ẹ kú ìrọ̀lẹ́", "Ẹ kú alẹ́"],
-"ans": 2,
-"explanation": "Láti ago mẹ́rin sí ago méje ìrọ̀lẹ́, 'Ẹ kú ìrọ̀lẹ́' ni ìkíni tí ó tọ́."
-},
-{
-"q": "Kí ni ohun èlò tí a ń lò fún 'Destiny' nínú ìgbàgbọ́ Yorùbá?",
-"opts": ["Owó", "Àyànmọ́", "Ara", "Iṣẹ́"],
-"ans": 1,
-"explanation": "Àyànmọ́ ni ìpín tí ènìyàn yàn ní ọ̀dọ̀ Àjàlá mọpin ní ọ̀run."
-},
-{
-"q": "Ta ni Olúwa 'Irin'?",
-"opts": ["Sàngó", "Ògún", "Ọ̀bàtálá", "Èṣù"],
-"ans": 1,
-"explanation": "Ògún ni Òrìṣà irin, ọdẹ, àti gbogbo àwọn tí ń lo irin."
-},
-{
-"q": "Kí ni 'Eré-oníṣe'?",
-"opts": ["Poetry", "Drama", "Prose", "History"],
-"ans": 1,
-"explanation": "Eré-oníṣe (Drama) ni lítíréṣọ̀ tí a ń gbé jáde nípa iṣẹ́ (acting)."
-},
-{
-"q": "Kọ́nṣónáǹtì Yorùbá mélòó ni wọ́n jẹ́ 'A-mí-sí-nu' (Nasal)?",
-"opts": ["Kan", "Méjì", "Mẹ́ta", "Mẹ́rin"],
-"ans": 1,
-"explanation": "Kọ́nṣónáǹtì àránmú (nasal) Yorùbá jẹ́ méjì: 'm' àti 'n'."
-},
-{
-"q": "Èwo ni fáwẹ́lì iwájú, kéré-díẹ̀ (Half-close front)?",
-"opts": ["a", "e", "i", "o"],
-"ans": 1,
-"explanation": "'e' jẹ́ fáwẹ́lì iwájú, kéré-díẹ̀."
-},
-{
-"q": "Àmì-ohùn wo ni a kò ní kọ sí orí 'o' nínú 'owo' (money)?",
-"opts": ["Àmì-òkè", "Àmì-ìsàlẹ̀", "Àmì-àárín", "Gbogbo rẹ̀ tọ́"],
-"ans": 2,
-"explanation": "Nínú ọ̀rọ̀ 'owo', ohùn àárín (re) ni ó wà lórí rẹ̀, a kì í sì í kọ àmì ohùn àárín sílẹ̀."
-},
-{
-"q": "Kí ni 'Ìbá-ìṣe' nínú gírámà?",
-"opts": ["Tense", "Aspect", "Noun", "Verb"],
-"ans": 1,
-"explanation": "Aspect (nature of action) ni a ń pè ní Ìbá-ìṣe, bí i 'ń' fún ìbá-ìṣe awọ́mọ́jú (progressive)."
-},
-{
-"q": "Báwo ni a ṣe ń pè 'Alphabet' ní Yorùbá?",
-"opts": ["Gírámà", "Abidì", "Sílẹ́bù", "Ìhun"],
-"ans": 1,
-"explanation": "Abidì ni orúkọ tí a fún álífábẹ́ẹ̀tì Yorùbá."
-},
-{
-"q": "Kí ni ọmọ tí a bí lẹ́yìn ìbejì ń jẹ́?",
-"opts": ["Ìdòwú", "Àlàaba", "Dàda", "Táyé"],
-"ans": 0,
-"explanation": "Ìdòwú ni orúkọ tí a ń fún ọmọ tí a bí tẹ̀lé ìbejì."
-},
-{
-"q": "Èwo nínú àwọn wọ̀nyí ni orúkọ-àbíkú?",
-"opts": ["Bánjókòó", "Ọmọ́tọ́yọ̀", "Adéyẹmí", "Ọládipupọ̀"],
-"ans": 0,
-"explanation": "Orúkọ bí i 'Bánjókòó', 'Dúrójaye', 'Málọmọ́' jẹ́ orúkọ àbíkú láti bẹ̀ wọ́n kí wọ́n má kú."
-},
-{
-"q": "Kí ni 'Oriki'?",
-"opts": ["Folktale", "Praise poetry", "History", "Song"],
-"ans": 1,
-"explanation": "Orìkì jẹ́ ewì ìyìn tí a ń lò láti bọ́lá fún ènìyàn tàbí ìdílé."
-},
-{
-"q": "Ta ni a mọ̀ sí 'Igbá-kejì Òrìṣà'?",
-"opts": ["Ìjòyè", "Ọba", "Bàbáláwo", "Olùkọ́"],
-"ans": 1,
-"explanation": "Ọba ni a ń pè ní igbá-kejì òrìṣà nítorí ọlá àti agbára rẹ̀ lórí ilẹ̀."
-},
-{
-"q": "Mélòó ni kọ́nṣónáǹtì nínú 'Alubọ́sà'?",
-"opts": ["Mẹ́ta", "Mẹ́rin", "Márùn-ún", "Mẹ́fà"],
-"ans": 0,
-"explanation": "Kọ́nṣónáǹtì mẹ́ta ni ó wà nínú rẹ̀ (l, b, s)."
-},
-{
-"q": "Èwo ni fáwẹ́lì ẹ̀yìn, fún-pọ̀ (Close back)?",
-"opts": ["a", "i", "u", "o"],
-"ans": 2,
-"explanation": "'u' jẹ́ fáwẹ́lì ẹ̀yìn, fún-pọ̀ (high back vowel)."
-},
-{
-"q": "Kí ni iṣẹ́ asọpọ̀ 'nítorí'?",
-"opts": ["Láti fihàn ibi", "Láti fihàn ìdí", "Láti fihàn àsìkò", "Láti fihàn ènìyàn"],
-"ans": 1,
-"explanation": "'Nítorí' (because) jẹ́ asọpọ̀ tí ó ń fihàn ìdí (reason) nǹkan."
-},
-{
-"q": "Báwo ni a ṣe ń kí ènìyàn tó ń bọ̀ láti ìrìn-àjò?",
-"opts": ["Ẹ kú ọjọ́ méjì", "Ẹ kú àbọ̀", "Ẹ kú ìtura", "Ẹ kú ìjókòó"],
-"ans": 1,
-"explanation": "'Ẹ kú àbọ̀' ni ìkíni fún ẹni tí ó padà dé láti ìrìn-àjò."
-},
-{
-"q": "Kí ni Yorùbá ń pè ní 'Antonym'?",
-"opts": ["Ọ̀rọ̀-ìyàtọ̀", "Ọ̀rọ̀-idàkejì", "Ọ̀rọ̀-atẹnumọ́", "Ọ̀rọ̀-asopọ̀"],
-"ans": 1,
-"explanation": "Ọ̀rọ̀-idàkejì ni ọ̀rọ̀ tí ó lódì sí nǹkan (opposite)."
-},
-{
-"q": "Ta ni 'Bàbá-ìsọmọ'?",
-"opts": ["Ẹni tí ó ń bọ òrìṣà", "Ẹni tí ó ń sọ ọmọ ní orúkọ", "Ọba", "Ìjòyè"],
-"ans": 1,
-"explanation": "Bàbá-ìsọmọ ni ẹni tí a yàn nínú ẹbí láti sọ ọmọ tuntun ní orúkọ (agbebi/elder)."
-},
-{
-"q": "Parí òwe yìí: 'Àjẹ́ kò pa mọ́, _____ nù'?",
-"opts": ["Eré", "Ọmọ", "Ewé", "Owó"],
-"ans": 1,
-"explanation": "Àjẹ́ kò pa mọ́, ọmọ nù (The witch didn't kill it, the child is just missing - often used for irony)."
-},
-{
-"q": "Kí ni Yorùbá ń pè ní 'Metaphor'?",
-"opts": ["Ìfiwé tààrà", "Ìfiwé fírẹ́fírẹ́", "Ìfiwé lọ́wọ́lọ́wọ́", "Ìfọ̀rọ̀dárà"],
-"ans": 2,
-"explanation": "Ìfiwé lọ́wọ́lọ́wọ́ (Metaphor) ni ìfiwé nǹkan méjì láì lo bí tàbí dàbí."
-},
-{
-"q": "Èwo ni kì í ṣe ọ̀nà ìpè kọ́nṣónáǹtì?",
-"opts": ["Afàfétán", "Ayanmú", "Àránmú", "Atẹnu"],
-"ans": 0,
-"explanation": "'Afàfétán' kò sí nínú àwọn ọ̀nà ìpè (place/manner) kọ́nṣónáǹtì Yorùbá."
-},
-{
-"q": "Sílẹ́bù mélòó ni ó wà nínú 'Ìyá'?",
-"opts": ["Kan", "Méjì", "Mẹ́ta", "Mẹ́rin"],
-"ans": 1,
-"explanation": "Ì-yá ní sílẹ́bù méjì."
-},
-{
-"q": "Kí ni Yorùbá ń pè ní 'Culture'?",
-"opts": ["Èdè", "Àṣà", "Ìtàn", "Lítíréṣọ̀"],
-"ans": 1,
-"explanation": "Àṣà ni àpapọ̀ ọ̀nà ìgbésí ayé àwọn èèyàn kan."
-},
-{
-"q": "Ta ni a mọ̀ sí 'Gẹlẹdẹ'?",
-"opts": ["Òrìṣà", "Eré oníṣe/Eré àsà", "Iṣẹ́-onà", "Oúnjẹ"],
-"ans": 1,
-"explanation": "Gẹlẹdẹ jẹ́ ọ̀kan lára àwọn eré àṣà tàbí ọdún tí a ń ṣe láti bọlá fún àwọn obìnrin (awọn ìyá wa)."
-},
-{
-"q": "Báwo ni a ṣe ń kọ 'I will' ní kúkúrú?",
-"opts": ["Má a", "N ó ò", "N ó", "Mo máa"],
-"ans": 2,
-"explanation": "'N ó' ni ọ̀nà ìkọ̀-kúkúrú fún asojú-orúkọ ẹni kìn-ín-ní pẹ̀lú ọ̀rọ̀-ìṣe aràn-an-ni (future marker)."
-},
-{
-"q": "Kí ni àmì-ohùn orí 'ẹ' nínú 'ẹran'?",
-"opts": ["Àmì-òkè", "Àmì-ìsàlẹ̀", "Àmì-àárín", "Kò sí àmì"],
-"ans": 2,
-"explanation": "'ẹ' nínú 'ẹran' ní ohùn àárín (re), a kì í sì í kọ àmì rẹ̀."
-}
+  {"type": "std", "q": "Ta ni ó kọ ìwé 'Ó le kú'?", "opts": ["Kọ́lá Akínlàdé", "Akínwùmí Ìṣọ̀lá", "Adébáyọ̀ Fálétí", "Ọlátubọ̀sún Ọládàpọ̀"], "ans": 0},
+  {"type": "std", "q": "Èwo ni fáwẹ̀lì àránmú?", "opts": ["an", "e", "o", "a"], "ans": 0},
+  {"type": "std", "q": "Kí ni orúkọ oyè Ọba Ìlú Ọ̀yọ́?", "opts": ["Aláàfin", "Ọọ̀ni", "Awùjalẹ̀", "Olúbàdàn"], "ans": 0},
+  {"type": "std", "q": "Àmì ohùn mélòó ló wà?", "opts": ["Mẹ́ta", "Méjì", "Mẹ́rin", "Marun"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Noun' ní èdè Yorùbá?", "opts": ["Ọ̀rọ̀ Orúkọ", "Ọ̀rọ̀ Ìṣe", "Ọ̀rọ̀ Àpọ́nlé", "Wúnrẹ̀n"], "ans": 0},
+  {"type": "std", "q": "Ta ni baba ńlá Yorùbá?", "opts": ["Odùduwà", "Lámúrúdú", "Moremi", "Ṣàngó"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Verb' ní èdè Yorùbá?", "opts": ["Ọ̀rọ̀ Ìṣe", "Ọ̀rọ̀ Orúkọ", "Àpèjúwe", "Atọ́kùn"], "ans": 0},
+  {"type": "std", "q": "Ọmọlúàbí ni ẹni tí ó ní:", "opts": ["Ìwà rere", "Owó", "Ilé", "Aṣọ"], "ans": 0},
+  {"type": "std", "q": "Èwo ni oúnjẹ àgbàdo?", "opts": ["Èkọ/Ogi", "Iyán", "Àmàlà", "Fùfú"], "ans": 0},
+  {"type": "std", "q": "Kí ni ìtumọ̀ 'Ẹ kú àárọ̀'?", "opts": ["Good morning", "Good afternoon", "Good evening", "Well done"], "ans": 0},
+  {"type": "std", "q": "Iṣẹ́ Bàtá lílù jẹ́ ti:", "opts": ["Àyàn", "Alágbẹ̀dẹ", "Gbẹ́nàgbẹ́nà", "Ọdẹ"], "ans": 0},
+  {"type": "std", "q": "Èṣù jẹ́ òrìṣà:", "opts": ["Oníwàhálà/Ẹlẹ́gbára", "Omi", "Iná", "Ogun"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Plural'?", "opts": ["Ọ̀pọ̀", "Ẹyọ", "Méjì", "Iye"], "ans": 0},
+  {"type": "std", "q": "Aṣọ ìbílẹ̀ Yorùbá ni:", "opts": ["Aṣọ Òkè", "Bùbá àti Ṣòkòtò", "Agbádá", "Gbogbo ìwọ̀nyí"], "ans": 3},
+  {"type": "std", "q": "Ta ni ó kọ 'Igbo Olódùmarè'?", "opts": ["D.O. Fágúnwà", "Wọlé Ṣóyinká", "Fálétí", "Ìṣọ̀lá"], "ans": 0},
+  {"type": "std", "q": "Kí ni a ń pe ìyàwó nílé ọkọ?", "opts": ["Iyàwó Ilé", "Aya", "Àpèwá", "Gbogbo ìwọ̀nyí"], "ans": 3},
+  {"type": "std", "q": "Iṣẹ́ wo ni a fi 'Ọkọ́' ṣe?", "opts": ["Iṣẹ́ Àgbẹ̀", "Ríran Aṣọ", "Gígẹ Irun", "Kíkọ́ Ilé"], "ans": 0},
+  {"type": "std", "q": "Ògún jẹ́ òrìṣà:", "opts": ["Irin", "Omi", "Afẹ́fẹ́", "Ilẹ̀"], "ans": 0},
+  {"type": "std", "q": "Kí ni ìtumọ̀ 'Ojú ń ro mí'?", "opts": ["Mo ń jìyà/Mo ń ṣiṣẹ́", "Ojú dùn mí", "Inú dùn mí", "Mo fẹ́ sùn"], "ans": 0},
+  {"type": "std", "q": "Iye lẹ́tà nínú áábídì Yorùbá:", "opts": ["Mẹ́ẹ̀ẹ́dọ́gbọ̀n (25)", "Ogún (20)", "Mẹ́rìndínlọ́gbọ̀n (26)", "Méjìlá"], "ans": 0},
+  {"type": "std", "q": "Àmì 'á' jẹ́:", "opts": ["Òkè", "Dò", "Aàrin", "Kò sí"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Pronoun'?", "opts": ["Ọ̀rọ̀ Arọ́pò Orúkọ", "Ọ̀rọ̀ Orúkọ", "Ọ̀rọ̀ Ìṣe", "Àpèjúwe"], "ans": 0},
+  {"type": "std", "q": "Orísun Yorùbá ni:", "opts": ["Ilé-Ifẹ̀", "Ọ̀yọ́", "Èkó", "Ìbàdàn"], "ans": 0},
+  {"type": "std", "q": "Ọba Ilé-Ifẹ̀ ni:", "opts": ["Ọọ̀ni", "Aláàfin", "Olúbàdàn", "Awùjalẹ̀"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Adjective'?", "opts": ["Ọ̀rọ̀ Àpèjúwe", "Ọ̀rọ̀ Orúkọ", "Ọ̀rọ̀ Ìṣe", "Atọ́kùn"], "ans": 0},
+  {"type": "std", "q": "Ọ̀rọ̀ Àsopọ̀ ni:", "opts": ["àti", "fún", "ní", "sí"], "ans": 0},
+  {"type": "std", "q": "Oúnjẹ Ìbejì ni:", "opts": ["Ẹ̀wà", "Iṣu", "Ẹran", "Búrẹ́dì"], "ans": 0},
+  {"type": "std", "q": "Ìdàkejì 'Pupa' ni:", "opts": ["Dúdú", "Funfun", "Àwọ̀", "Gialle"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Synonym'?", "opts": ["Ọ̀rọ̀ tí ìtumọ̀ jọra", "Ọ̀rọ̀ òdì", "Ọ̀rọ̀ orúkọ", "Ọ̀rọ̀ iṣẹ"], "ans": 0},
+  {"type": "std", "q": "Olùwà nínú gbolohun ni:", "opts": ["Subject", "Object", "Verb", "Adjective"], "ans": 0},
+  {"type": "std", "q": "Ìwé ìtàn àròsọ ni:", "opts": ["Ògbójú Ọdẹ", "Ìròyìn", "Ewì", "Gírámà"], "ans": 0},
+  {"type": "std", "q": "Ọba Ìlọrin ni:", "opts": ["Emir", "Ọba", "Obi", "Etsu"], "ans": 0},
+  {"type": "std", "q": "Ààrẹ Ọ̀nà Kakanfò jẹ́:", "opts": ["Balógun ogun", "Ọba", "Bàbáláwo", "Olórin"], "ans": 0},
+  {"type": "std", "q": "Akọni obìnrin Ifẹ̀:", "opts": ["Mọ́remí", "Efudunke", "Tinubu", "Funmilayo"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'School'?", "opts": ["Ilé Ìwé", "Ilé Ìwòsàn", "Ilé Ọjà", "Ilé Ọba"], "ans": 0},
+  {"type": "std", "q": "Iyán ń lọ pẹ̀lú:", "opts": ["Ẹ̀gúsí", "Ẹ̀wà", "Ìrẹsì", "Gàrí"], "ans": 0},
+  {"type": "std", "q": "Ìkíni fún alẹ́:", "opts": ["Ẹ kú alẹ́", "Ẹ kú àárọ̀", "Ẹ kú ọ̀sán", "Ẹ kú iṣẹ́"], "ans": 0},
+  {"type": "std", "q": "Ọ̀rọ̀ fún àgbàlagbà bẹ̀rẹ̀ pẹ̀lú:", "opts": ["Ẹ", "O", "Ìwọ", "Wọn"], "ans": 0},
+  {"type": "std", "q": "Òwe: 'Adìyẹ funfun...'", "opts": ["Kò mọ ara rẹ̀ lágbà", "Kò mọ ilé", "Kò mọ ọ̀nà", "Kò mọ iṣẹ́"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Antonym'?", "opts": ["Ọ̀rọ̀ Òdì", "Ọ̀rọ̀ Ìtumọ̀", "Orúkọ", "Àpèjúwe"], "ans": 0},
+  {"type": "std", "q": "Ṣàngó ń lo:", "opts": ["Iná", "Omi", "Irin", "Igi"], "ans": 0},
+  {"type": "std", "q": "Ìsọmọlórúkọ wà fún:", "opts": ["Sísọ ọmọ lórúkọ", "Ìgbéyàwó", "Ìsìnkú", "Oyè"], "ans": 0},
+  {"type": "std", "q": "Ẹ̀yà ará fún ìríran:", "opts": ["Ojú", "Etí", "Imú", "Ẹnu"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Book'?", "opts": ["Ìwé", "Bíró", "Pátákó", "Tabili"], "ans": 0},
+  {"type": "std", "q": "Ta ni ó kọ 'Rẹ́rẹ́ Kún'?", "opts": ["Oládèjọ Okédìjí", "Fágúnwà", "Ṣóyinká", "Ládipo"], "ans": 0},
+  {"type": "std", "q": "Ọba Ìbàdàn ni:", "opts": ["Olúbàdàn", "Ooni", "Alaafin", "Akarigbo"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Money'?", "opts": ["Owó", "Aṣọ", "Ilé", "Ọmọ"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Father'?", "opts": ["Baba", "Ìyá", "Ẹ̀gbọ́n", "Àbúrò"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Mother'?", "opts": ["Ìyá", "Baba", "Ọkọ", "Aya"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'King'?", "opts": ["Ọba", "Ìjòyè", "Bàbá", "Ọmọ"], "ans": 0},
+  {"type": "std", "q": "Fáwẹ̀lì àìránmú:", "opts": ["a, e, ẹ, i...", "an, ẹn, in", "b, d, f", "1, 2, 3"], "ans": 0},
+  {"type": "std", "q": "Kọ́ńsónáǹtì:", "opts": ["b, d, f, g...", "a, e, i", "an, ẹn", "á, é"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Come'?", "opts": ["Wá", "Lọ", "Sùn", "Jẹ"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Go'?", "opts": ["Lọ", "Wá", "Jókòó", "Dìde"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Sit'?", "opts": ["Jókòó", "Dìde", "Sùn", "Sá"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Stand'?", "opts": ["Dìde", "Jókòó", "Lọ", "Wá"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Eat'?", "opts": ["Jẹ", "Mu", "Sùn", "Wẹ̀"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Drink'?", "opts": ["Mu", "Jẹ", "Rí", "Gbọ́"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'See'?", "opts": ["Rí", "Wò", "Gbọ́", "Mọ̀"], "ans": 0},
+  {"type": "std", "q": "Kí ni 'Sleep'?", "opts": ["Sùn", "Jí", "Rìn", "Sá"], "ans": 0}
 ]
