@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Find the potential energy of a 10 kg body at a height of 2 m above the ground. [Take g = 10 m/s²]",
+    "opts": [
+      "20 J",
+      "200 J",
+      "100 J",
+      "250 J"
+    ],
+    "ans": 1,
+    "explanation": "PE = mgh = 10 × 10 × 2 = 200 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The SI unit of frequency is the",
+    "opts": [
+      "Metre",
+      "Decibel",
+      "Second",
+      "Hertz"
+    ],
+    "ans": 3,
+    "explanation": "Frequency is measured in hertz (Hz).",
+    "topic": "Waves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Waves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the pressure exerted by a force of 200 N on an area of 10 m².",
+    "opts": [
+      "10 Pa",
+      "2000 Pa",
+      "25 Pa",
+      "20 Pa"
+    ],
+    "ans": 3,
+    "explanation": "P = F/A = 200/10 = 20 Pa.",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The force that opposes motion between two surfaces in contact is",
+    "opts": [
+      "Tension",
+      "Gravity",
+      "Friction",
+      "Upthrust"
+    ],
+    "ans": 2,
+    "explanation": "Friction opposes relative motion between surfaces.",
+    "topic": "Friction",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Friction | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the heat required to raise 2 kg of water by 10°C. [Specific heat capacity of water = 4200 J/kg·K]",
+    "opts": [
+      "84000 J",
+      "42000 J",
+      "20 J",
+      "85000 J"
+    ],
+    "ans": 0,
+    "explanation": "Q = mcΔT = 2 × 4200 × 10 = 84000 J.",
+    "topic": "Heat: specific heat capacity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Heat: specific heat capacity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Frequency is the reciprocal of the",
+    "opts": [
+      "Wavelength",
+      "Period",
+      "Amplitude",
+      "Velocity"
+    ],
+    "ans": 1,
+    "explanation": "f = 1/T.",
+    "topic": "Waves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Waves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the kinetic energy of a 2 kg body moving at 10 m/s.",
+    "opts": [
+      "20 J",
+      "90 J",
+      "100 J",
+      "110 J"
+    ],
+    "ans": 2,
+    "explanation": "KE = ½mv² = ½ × 2 × 10² = 100 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the potential difference across a 10 Ω resistor carrying 4 A.",
+    "opts": [
+      "10 V",
+      "40 V",
+      "42 V",
+      "14 V"
+    ],
+    "ans": 1,
+    "explanation": "V = IR = 4 × 10 = 40 V.",
+    "topic": "Current electricity: Ohm's law",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Current electricity: Ohm's law | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main energy source of the Sun is",
+    "opts": [
+      "Nuclear fusion",
+      "Nuclear fission",
+      "Gravitational collapse",
+      "Chemical burning"
+    ],
+    "ans": 0,
+    "explanation": "The Sun's energy comes from hydrogen fusion.",
+    "topic": "Atomic and nuclear physics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Atomic and nuclear physics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the force needed to accelerate a mass of 4 kg at 4 m/s².",
+    "opts": [
+      "21 N",
+      "11 N",
+      "8 N",
+      "16 N"
+    ],
+    "ans": 3,
+    "explanation": "F = ma = 4 × 4 = 16 N.",
+    "topic": "Motion: Newton's laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Motion: Newton's laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the potential energy of a 5 kg body at a height of 10 m above the ground. [Take g = 10 m/s²]",
+    "opts": [
+      "None of the above",
+      "550 J",
+      "50 J",
+      "500 J"
+    ],
+    "ans": 3,
+    "explanation": "PE = mgh = 5 × 10 × 10 = 500 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the weight of a 2 kg mass. [Take g = 10 m/s²]",
+    "opts": [
+      "20 N",
+      "2 N",
+      "10 N",
+      "30 N"
+    ],
+    "ans": 0,
+    "explanation": "W = mg = 2 × 10 = 20 N.",
+    "topic": "Mass and weight",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Mass and weight | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An electric motor converts",
+    "opts": [
+      "Mechanical energy to electrical energy",
+      "Light to electrical energy",
+      "Chemical energy to heat",
+      "Electrical energy to mechanical energy"
+    ],
+    "ans": 3,
+    "explanation": "A motor converts electrical energy into motion.",
+    "topic": "Electromagnetism",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Electromagnetism | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the heat required to raise 2 kg of water by 20°C. [Specific heat capacity of water = 4200 J/kg·K]",
+    "opts": [
+      "40 J",
+      "169000 J",
+      "84000 J",
+      "168000 J"
+    ],
+    "ans": 3,
+    "explanation": "Q = mcΔT = 2 × 4200 × 20 = 168000 J.",
+    "topic": "Heat: specific heat capacity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Heat: specific heat capacity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Sound travels fastest in",
+    "opts": [
+      "Gases",
+      "Vacuum",
+      "Solids",
+      "Liquids"
+    ],
+    "ans": 2,
+    "explanation": "Particles are closest in solids, so sound travels fastest there.",
+    "topic": "Waves: sound",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Waves: sound | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the density of a body of mass 20 kg and volume 10 m³.",
+    "opts": [
+      "2 kg/m³",
+      "3 kg/m³",
+      "30 kg/m³",
+      "200 kg/m³"
+    ],
+    "ans": 0,
+    "explanation": "ρ = m/V = 20/10 = 2 kg/m³.",
+    "topic": "Matter: density",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matter: density | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the potential difference across a 10 Ω resistor carrying 5 A.",
+    "opts": [
+      "48 V",
+      "10 V",
+      "15 V",
+      "50 V"
+    ],
+    "ans": 3,
+    "explanation": "V = IR = 5 × 10 = 50 V.",
+    "topic": "Current electricity: Ohm's law",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Current electricity: Ohm's law | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The period of a simple pendulum depends on its",
+    "opts": [
+      "Amplitude",
+      "Length",
+      "Mass of the bob",
+      "Material of the bob"
+    ],
+    "ans": 1,
+    "explanation": "T = 2π√(l/g); period depends on length and g, not mass.",
+    "topic": "Simple harmonic motion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Simple harmonic motion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Hooke's law states that extension is proportional to the",
+    "opts": [
+      "Temperature",
+      "Applied force",
+      "Mass of the spring",
+      "Length of the spring"
+    ],
+    "ans": 1,
+    "explanation": "F = kx: extension is proportional to force within the elastic limit.",
+    "topic": "Elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the density of a body of mass 40 kg and volume 20 m³.",
+    "opts": [
+      "800 kg/m³",
+      "2 kg/m³",
+      "60 kg/m³",
+      "3 kg/m³"
+    ],
+    "ans": 1,
+    "explanation": "ρ = m/V = 40/20 = 2 kg/m³.",
+    "topic": "Matter: density",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matter: density | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the potential difference across a 5 Ω resistor carrying 2 A.",
+    "opts": [
+      "7 V",
+      "5 V",
+      "10 V",
+      "8 V"
+    ],
+    "ans": 2,
+    "explanation": "V = IR = 2 × 5 = 10 V.",
+    "topic": "Current electricity: Ohm's law",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Current electricity: Ohm's law | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the momentum of a 7 kg body moving at 4 m/s.",
+    "opts": [
+      "30 kg m/s",
+      "11 kg m/s",
+      "28 kg m/s",
+      "26 kg m/s"
+    ],
+    "ans": 2,
+    "explanation": "p = mv = 7 × 4 = 28 kg m/s.",
+    "topic": "Motion: momentum",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Motion: momentum | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An appliance rated 200 W is connected to a 200 V supply. Find the current it draws.",
+    "opts": [
+      "20 A",
+      "2 A",
+      "1 A",
+      "200 A"
+    ],
+    "ans": 2,
+    "explanation": "I = P/V = 200/200 = 1 A.",
+    "topic": "Current electricity: power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Current electricity: power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the work done when a force of 50 N moves a body 2 m in the direction of the force.",
+    "opts": [
+      "110 J",
+      "52 J",
+      "90 J",
+      "100 J"
+    ],
+    "ans": 3,
+    "explanation": "W = Fd = 50 × 2 = 100 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the weight of a 17 kg mass. [Take g = 10 m/s²]",
+    "opts": [
+      "170 N",
+      "17 N",
+      "85 N",
+      "180 N"
+    ],
+    "ans": 0,
+    "explanation": "W = mg = 17 × 10 = 170 N.",
+    "topic": "Mass and weight",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Mass and weight | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "One kilowatt-hour is equal to",
+    "opts": [
+      "1000 J",
+      "3.6 × 10⁶ J",
+      "3.6 × 10³ J",
+      "360 J"
+    ],
+    "ans": 1,
+    "explanation": "1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J.",
+    "topic": "Current electricity: power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Current electricity: power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the work done when a force of 25 N moves a body 10 m in the direction of the force.",
+    "opts": [
+      "260 J",
+      "35 J",
+      "240 J",
+      "250 J"
+    ],
+    "ans": 3,
+    "explanation": "W = Fd = 25 × 10 = 250 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The angle of incidence equals the angle of reflection. This is the law of",
+    "opts": [
+      "Reflection",
+      "Diffraction",
+      "Refraction",
+      "Dispersion"
+    ],
+    "ans": 0,
+    "explanation": "The first law of reflection states the angles are equal.",
+    "topic": "Light: reflection",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Light: reflection | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the density of a body of mass 40 kg and volume 10 m³.",
+    "opts": [
+      "5 kg/m³",
+      "4 kg/m³",
+      "400 kg/m³",
+      "50 kg/m³"
+    ],
+    "ans": 1,
+    "explanation": "ρ = m/V = 40/10 = 4 kg/m³.",
+    "topic": "Matter: density",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matter: density | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the force needed to accelerate a mass of 5 kg at 3 m/s².",
+    "opts": [
+      "8 N",
+      "20 N",
+      "15 N",
+      "10 N"
+    ],
+    "ans": 2,
+    "explanation": "F = ma = 5 × 3 = 15 N.",
+    "topic": "Motion: Newton's laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Motion: Newton's laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A wave travels at 30 m/s with wavelength 10 m. Find its frequency.",
+    "opts": [
+      "30 Hz",
+      "3 Hz",
+      "4 Hz",
+      "5 Hz"
+    ],
+    "ans": 1,
+    "explanation": "v = fλ, so f = v/λ = 30/10 = 3 Hz.",
+    "topic": "Waves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Waves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Momentum is defined as",
+    "opts": [
+      "Mass × velocity",
+      "Mass × acceleration",
+      "Force × time",
+      "Mass ÷ velocity"
+    ],
+    "ans": 0,
+    "explanation": "Momentum p = mv.",
+    "topic": "Motion: momentum",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Motion: momentum | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the density of a body of mass 20 kg and volume 20 m³.",
+    "opts": [
+      "1 kg/m³",
+      "2 kg/m³",
+      "400 kg/m³",
+      "40 kg/m³"
+    ],
+    "ans": 0,
+    "explanation": "ρ = m/V = 20/20 = 1 kg/m³.",
+    "topic": "Matter: density",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matter: density | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the momentum of a 6 kg body moving at 10 m/s.",
+    "opts": [
+      "16 kg m/s",
+      "58 kg m/s",
+      "60 kg m/s",
+      "62 kg m/s"
+    ],
+    "ans": 2,
+    "explanation": "p = mv = 6 × 10 = 60 kg m/s.",
+    "topic": "Motion: momentum",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Motion: momentum | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The principle of moments states that for a body in equilibrium, the sum of clockwise moments equals the",
+    "opts": [
+      "Total weight",
+      "Sum of anticlockwise moments",
+      "Total force",
+      "Sum of masses"
+    ],
+    "ans": 1,
+    "explanation": "Clockwise moments = anticlockwise moments in equilibrium.",
+    "topic": "Moments",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Moments | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the potential difference across a 3 Ω resistor carrying 5 A.",
+    "opts": [
+      "17 V",
+      "13 V",
+      "15 V",
+      "8 V"
+    ],
+    "ans": 2,
+    "explanation": "V = IR = 5 × 3 = 15 V.",
+    "topic": "Current electricity: Ohm's law",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Current electricity: Ohm's law | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the heat required to raise 5 kg of water by 10°C. [Specific heat capacity of water = 4200 J/kg·K]",
+    "opts": [
+      "210000 J",
+      "50 J",
+      "105000 J",
+      "211000 J"
+    ],
+    "ans": 0,
+    "explanation": "Q = mcΔT = 5 × 4200 × 10 = 210000 J.",
+    "topic": "Heat: specific heat capacity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Heat: specific heat capacity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pitch of a sound depends on its",
+    "opts": [
+      "Wavelength",
+      "Frequency",
+      "Speed",
+      "Amplitude"
+    ],
+    "ans": 1,
+    "explanation": "Higher frequency gives higher pitch.",
+    "topic": "Waves: sound",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Waves: sound | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the potential energy of a 2 kg body at a height of 2 m above the ground. [Take g = 10 m/s²]",
+    "opts": [
+      "20 J",
+      "90 J",
+      "4 J",
+      "40 J"
+    ],
+    "ans": 3,
+    "explanation": "PE = mgh = 2 × 10 × 2 = 40 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the force needed to accelerate a mass of 14 kg at 5 m/s².",
+    "opts": [
+      "75 N",
+      "19 N",
+      "70 N",
+      "65 N"
+    ],
+    "ans": 2,
+    "explanation": "F = ma = 14 × 5 = 70 N.",
+    "topic": "Motion: Newton's laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Motion: Newton's laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A spring of force constant 50 N/m is extended by 5 cm. Find the force applied. [Use x in metres: 5 cm = 0.05 m]",
+    "opts": [
+      "25.0 N",
+      "250 N",
+      "55 N",
+      "2.5 N"
+    ],
+    "ans": 3,
+    "explanation": "F = kx = 50 × 0.05 = 2.5 N.",
+    "topic": "Elasticity: Hooke's law",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Elasticity: Hooke's law | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the potential difference across a 3 Ω resistor carrying 4 A.",
+    "opts": [
+      "14 V",
+      "10 V",
+      "7 V",
+      "12 V"
+    ],
+    "ans": 3,
+    "explanation": "V = IR = 4 × 3 = 12 V.",
+    "topic": "Current electricity: Ohm's law",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Current electricity: Ohm's law | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Short sight (myopia) is corrected with a",
+    "opts": [
+      "Convex lens",
+      "Plane lens",
+      "Bifocal lens",
+      "Concave lens"
+    ],
+    "ans": 3,
+    "explanation": "A concave lens diverges light so the image forms on the retina.",
+    "topic": "Light: the eye",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Light: the eye | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the momentum of a 7 kg body moving at 3 m/s.",
+    "opts": [
+      "19 kg m/s",
+      "10 kg m/s",
+      "21 kg m/s",
+      "23 kg m/s"
+    ],
+    "ans": 2,
+    "explanation": "p = mv = 7 × 3 = 21 kg m/s.",
+    "topic": "Motion: momentum",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Motion: momentum | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Heat is transferred through a vacuum by",
+    "opts": [
+      "Radiation",
+      "Convection",
+      "Evaporation",
+      "Conduction"
+    ],
+    "ans": 0,
+    "explanation": "Radiation needs no medium.",
+    "topic": "Heat transfer",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Heat transfer | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the kinetic energy of a 5 kg body moving at 4 m/s.",
+    "opts": [
+      "20 J",
+      "30 J",
+      "40 J",
+      "80 J"
+    ],
+    "ans": 2,
+    "explanation": "KE = ½mv² = ½ × 5 × 4² = 40 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the work done when a force of 50 N moves a body 10 m in the direction of the force.",
+    "opts": [
+      "500 J",
+      "60 J",
+      "490 J",
+      "510 J"
+    ],
+    "ans": 0,
+    "explanation": "W = Fd = 50 × 10 = 500 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the pressure exerted by a force of 100 N on an area of 2 m².",
+    "opts": [
+      "50 Pa",
+      "2 Pa",
+      "55 Pa",
+      "200 Pa"
+    ],
+    "ans": 0,
+    "explanation": "P = F/A = 100/2 = 50 Pa.",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The distance between two successive crests of a wave is its",
+    "opts": [
+      "Period",
+      "Wavelength",
+      "Frequency",
+      "Amplitude"
+    ],
+    "ans": 1,
+    "explanation": "Wavelength is the distance between identical points on successive waves.",
+    "topic": "Waves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Waves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the potential energy of a 2 kg body at a height of 10 m above the ground. [Take g = 10 m/s²]",
+    "opts": [
+      "200 J",
+      "None of the above",
+      "20 J",
+      "250 J"
+    ],
+    "ans": 0,
+    "explanation": "PE = mgh = 2 × 10 × 10 = 200 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

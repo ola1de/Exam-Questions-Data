@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Simplify √9.",
+    "opts": [
+      "4",
+      "3",
+      "8",
+      "7"
+    ],
+    "ans": 1,
+    "explanation": "√9 = 3 since 3 × 3 = 9.",
+    "topic": "Number and numeration: surds",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Number and numeration: surds | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 60, n(A) = 19, n(B) = 25 and n(A ∪ B) = 31, find n(A ∩ B).",
+    "opts": [
+      "43",
+      "15",
+      "28",
+      "13"
+    ],
+    "ans": 3,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 31 = 19 + 25 - n(A ∩ B); n(A ∩ B) = 13.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² + 9x + 18 = 0.",
+    "opts": [
+      "x = 6 or x = -3",
+      "x = -6 or x = -3",
+      "x = 6 or x = 3",
+      "x = -6 or x = 3"
+    ],
+    "ans": 1,
+    "explanation": "Factorising: (x - -6)(x - -3) = 0, so x = -6 or x = -3.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 48, n(A) = 27, n(B) = 15 and n(A ∪ B) = 29, find n(A ∩ B).",
+    "opts": [
+      "11",
+      "19",
+      "13",
+      "33"
+    ],
+    "ans": 2,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 29 = 27 + 15 - n(A ∩ B); n(A ∩ B) = 13.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve for x: log125 = 3 (base 5).",
+    "opts": [
+      "133",
+      "165",
+      "127",
+      "125"
+    ],
+    "ans": 3,
+    "explanation": "x = 5^3 = 125.",
+    "topic": "Algebra: logarithms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: logarithms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 1x - 12 = 0.",
+    "opts": [
+      "x = -3 or x = 4",
+      "x = -3 or x = -4",
+      "x = 3 or x = -4",
+      "x = 3 or x = 4"
+    ],
+    "ans": 0,
+    "explanation": "Factorising: (x - -3)(x - 4) = 0, so x = -3 or x = 4.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 50° and 36°. Find the third angle.",
+    "opts": [
+      "54",
+      "84",
+      "91",
+      "94°"
+    ],
+    "ans": 3,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 50 - 36 = 94°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If x + y = 9 and x - y = -1, find the value of x.",
+    "opts": [
+      "6",
+      "0",
+      "14",
+      "4"
+    ],
+    "ans": 3,
+    "explanation": "Adding: 2x = 8, so x = 4.",
+    "topic": "Algebra: simultaneous equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: simultaneous equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 10 when x = 1, find y when x = 4.",
+    "opts": [
+      "165",
+      "150",
+      "163",
+      "160"
+    ],
+    "ans": 3,
+    "explanation": "y = 10x², so when x = 4, y = 10 × 4² = 160.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 2x + 28 and y = 44, find x.",
+    "opts": [
+      "8",
+      "13",
+      "4",
+      "7"
+    ],
+    "ans": 0,
+    "explanation": "2x = 44 - 28 = 16, so x = 8.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 3x + 12 and y = 18, find x.",
+    "opts": [
+      "12",
+      "22",
+      "2",
+      "4"
+    ],
+    "ans": 2,
+    "explanation": "3x = 18 - 12 = 6, so x = 2.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² + 5x + 4 = 0.",
+    "opts": [
+      "x = 4 or x = -1",
+      "x = -4 or x = -1",
+      "x = 4 or x = 1",
+      "x = -4 or x = 1"
+    ],
+    "ans": 1,
+    "explanation": "Factorising: (x - -4)(x - -1) = 0, so x = -4 or x = -1.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 51° and 40°. Find the third angle.",
+    "opts": [
+      "79",
+      "85",
+      "89°",
+      "93"
+    ],
+    "ans": 2,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 51 - 40 = 89°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve for x: log4 = 2 (base 2).",
+    "opts": [
+      "4",
+      "0",
+      "44",
+      "5"
+    ],
+    "ans": 0,
+    "explanation": "x = 2^2 = 4.",
+    "topic": "Algebra: logarithms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: logarithms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 33° and 52°. Find the third angle.",
+    "opts": [
+      "100",
+      "94",
+      "96",
+      "95°"
+    ],
+    "ans": 3,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 33 - 52 = 95°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If x + y = 9 and x - y = -7, find the value of x.",
+    "opts": [
+      "6",
+      "3",
+      "1",
+      "5"
+    ],
+    "ans": 2,
+    "explanation": "Adding: 2x = 2, so x = 1.",
+    "topic": "Algebra: simultaneous equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: simultaneous equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 50, n(A) = 21, n(B) = 19 and n(A ∪ B) = 30, find n(A ∩ B).",
+    "opts": [
+      "13",
+      "15",
+      "6",
+      "10"
+    ],
+    "ans": 3,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 30 = 21 + 19 - n(A ∩ B); n(A ∩ B) = 10.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Share ₦400 in the ratio 5:3. Find the smaller share.",
+    "opts": [
+      "₦300",
+      "₦50",
+      "₦150",
+      "₦250"
+    ],
+    "ans": 2,
+    "explanation": "Total parts = 8; each part = ₦50.",
+    "topic": "Ratio, proportion and rate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Ratio, proportion and rate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 48, n(A) = 16, n(B) = 28 and n(A ∪ B) = 37, find n(A ∩ B).",
+    "opts": [
+      "12",
+      "1",
+      "27",
+      "7"
+    ],
+    "ans": 3,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 37 = 16 + 28 - n(A ∩ B); n(A ∩ B) = 7.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 48, n(A) = 23, n(B) = 29 and n(A ∪ B) = 32, find n(A ∩ B).",
+    "opts": [
+      "0",
+      "22",
+      "20",
+      "25"
+    ],
+    "ans": 2,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 32 = 23 + 29 - n(A ∩ B); n(A ∩ B) = 20.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 3x + 2 = 0.",
+    "opts": [
+      "x = -1 or x = -2",
+      "x = -1 or x = 2",
+      "x = 1 or x = 2",
+      "x = 1 or x = -2"
+    ],
+    "ans": 2,
+    "explanation": "Factorising: (x - 1)(x - 2) = 0, so x = 1 or x = 2.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 1x - 20 = 0.",
+    "opts": [
+      "x = 4 or x = 5",
+      "x = 4 or x = -5",
+      "x = -4 or x = -5",
+      "x = -4 or x = 5"
+    ],
+    "ans": 3,
+    "explanation": "Factorising: (x - -4)(x - 5) = 0, so x = -4 or x = 5.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 50, n(A) = 22, n(B) = 19 and n(A ∪ B) = 30, find n(A ∩ B).",
+    "opts": [
+      "11",
+      "8",
+      "13",
+      "41"
+    ],
+    "ans": 0,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 30 = 22 + 19 - n(A ∩ B); n(A ∩ B) = 11.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Share ₦400 in the ratio 4:6. Find the larger share.",
+    "opts": [
+      "₦240",
+      "₦210",
+      "₦160",
+      "₦200"
+    ],
+    "ans": 0,
+    "explanation": "Total parts = 10; each part = ₦40.",
+    "topic": "Ratio, proportion and rate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Ratio, proportion and rate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 48, n(A) = 24, n(B) = 27 and n(A ∪ B) = 36, find n(A ∩ B).",
+    "opts": [
+      "9",
+      "15",
+      "5",
+      "30"
+    ],
+    "ans": 1,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 36 = 24 + 27 - n(A ∩ B); n(A ∩ B) = 15.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 4x + 38 and y = 70, find x.",
+    "opts": [
+      "10",
+      "18",
+      "8",
+      "13"
+    ],
+    "ans": 2,
+    "explanation": "4x = 70 - 38 = 32, so x = 8.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 5x + 25 and y = 50, find x.",
+    "opts": [
+      "5",
+      "4",
+      "0",
+      "7"
+    ],
+    "ans": 0,
+    "explanation": "5x = 50 - 25 = 25, so x = 5.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 68° and 51°. Find the third angle.",
+    "opts": [
+      "55",
+      "61°",
+      "59",
+      "46"
+    ],
+    "ans": 1,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 68 - 51 = 61°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a pie chart, a sector represents 1/10 of the whole. Find the angle of the sector.",
+    "opts": [
+      "36°",
+      "26",
+      "21",
+      "46"
+    ],
+    "ans": 0,
+    "explanation": "Angle = (1/10) × 360° = 36°.",
+    "topic": "Statistics: pie charts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Statistics: pie charts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 2x - 15 = 0.",
+    "opts": [
+      "x = 3 or x = 5",
+      "x = -3 or x = 5",
+      "x = 3 or x = -5",
+      "x = -3 or x = -5"
+    ],
+    "ans": 1,
+    "explanation": "Factorising: (x - -3)(x - 5) = 0, so x = -3 or x = 5.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If x + y = 9 and x - y = 3, find the value of x.",
+    "opts": [
+      "26",
+      "1",
+      "6",
+      "5"
+    ],
+    "ans": 2,
+    "explanation": "Adding: 2x = 12, so x = 6.",
+    "topic": "Algebra: simultaneous equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: simultaneous equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 3x - 18 = 0.",
+    "opts": [
+      "x = -3 or x = 6",
+      "x = -3 or x = -6",
+      "x = 3 or x = -6",
+      "x = 3 or x = 6"
+    ],
+    "ans": 0,
+    "explanation": "Factorising: (x - -3)(x - 6) = 0, so x = -3 or x = 6.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 2x + 22 and y = 30, find x.",
+    "opts": [
+      "4",
+      "0",
+      "8",
+      "24"
+    ],
+    "ans": 0,
+    "explanation": "2x = 30 - 22 = 8, so x = 4.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 60, n(A) = 24, n(B) = 17 and n(A ∪ B) = 33, find n(A ∩ B).",
+    "opts": [
+      "8",
+      "2",
+      "9",
+      "23"
+    ],
+    "ans": 0,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 33 = 24 + 17 - n(A ∩ B); n(A ∩ B) = 8.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 2x + 27 and y = 33, find x.",
+    "opts": [
+      "4",
+      "3",
+      "2",
+      "13"
+    ],
+    "ans": 1,
+    "explanation": "2x = 33 - 27 = 6, so x = 3.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 50, n(A) = 20, n(B) = 24 and n(A ∪ B) = 35, find n(A ∩ B).",
+    "opts": [
+      "11",
+      "7",
+      "9",
+      "14"
+    ],
+    "ans": 2,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 35 = 20 + 24 - n(A ∩ B); n(A ∩ B) = 9.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 48, n(A) = 27, n(B) = 30 and n(A ∪ B) = 40, find n(A ∩ B).",
+    "opts": [
+      "17",
+      "23",
+      "16",
+      "2"
+    ],
+    "ans": 0,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 40 = 27 + 30 - n(A ∩ B); n(A ∩ B) = 17.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 44° and 49°. Find the third angle.",
+    "opts": [
+      "47",
+      "87°",
+      "79",
+      "92"
+    ],
+    "ans": 1,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 44 - 49 = 87°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 4x + 13 and y = 41, find x.",
+    "opts": [
+      "9",
+      "7",
+      "5",
+      "12"
+    ],
+    "ans": 1,
+    "explanation": "4x = 41 - 13 = 28, so x = 7.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Simplify √49.",
+    "opts": [
+      "17",
+      "7",
+      "9",
+      "5"
+    ],
+    "ans": 1,
+    "explanation": "√49 = 7 since 7 × 7 = 49.",
+    "topic": "Number and numeration: surds",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Number and numeration: surds | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 60, n(A) = 17, n(B) = 16 and n(A ∪ B) = 21, find n(A ∩ B).",
+    "opts": [
+      "22",
+      "12",
+      "6",
+      "18"
+    ],
+    "ans": 1,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 21 = 17 + 16 - n(A ∩ B); n(A ∩ B) = 12.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 50, n(A) = 19, n(B) = 16 and n(A ∪ B) = 21, find n(A ∩ B).",
+    "opts": [
+      "10",
+      "19",
+      "14",
+      "15"
+    ],
+    "ans": 2,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 21 = 19 + 16 - n(A ∩ B); n(A ∩ B) = 14.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Share ₦400 in the ratio 6:2. Find the smaller share.",
+    "opts": [
+      "₦200",
+      "₦100",
+      "₦350",
+      "₦50"
+    ],
+    "ans": 1,
+    "explanation": "Total parts = 8; each part = ₦50.",
+    "topic": "Ratio, proportion and rate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Ratio, proportion and rate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 5x + 38 and y = 48, find x.",
+    "opts": [
+      "6",
+      "0",
+      "7",
+      "2"
+    ],
+    "ans": 3,
+    "explanation": "5x = 48 - 38 = 10, so x = 2.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 79° and 37°. Find the third angle.",
+    "opts": [
+      "64°",
+      "74",
+      "114",
+      "89"
+    ],
+    "ans": 0,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 79 - 37 = 64°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 4x + 36 and y = 60, find x.",
+    "opts": [
+      "8",
+      "1",
+      "6",
+      "5"
+    ],
+    "ans": 2,
+    "explanation": "4x = 60 - 36 = 24, so x = 6.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 5 when x = 1, find y when x = 6.",
+    "opts": [
+      "184",
+      "176",
+      "183",
+      "180"
+    ],
+    "ans": 3,
+    "explanation": "y = 5x², so when x = 6, y = 5 × 6² = 180.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 4x + 37 and y = 65, find x.",
+    "opts": [
+      "5",
+      "7",
+      "17",
+      "27"
+    ],
+    "ans": 1,
+    "explanation": "4x = 65 - 37 = 28, so x = 7.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 36° and 32°. Find the third angle.",
+    "opts": [
+      "114",
+      "109",
+      "112°",
+      "82"
+    ],
+    "ans": 2,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 36 - 32 = 112°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 6x + 36 and y = 90, find x.",
+    "opts": [
+      "11",
+      "10",
+      "19",
+      "9"
+    ],
+    "ans": 3,
+    "explanation": "6x = 90 - 36 = 54, so x = 9.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

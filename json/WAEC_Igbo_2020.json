@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Gịnị ka 'ehi' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "white",
+      "goat",
+      "lion",
+      "cow"
+    ],
+    "ans": 3,
+    "explanation": "'ehi' na nufin 'cow' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'noun' n'asụsụ Igbo?",
+    "opts": [
+      "Aha",
+      "Nkọwa",
+      "Ngwaa",
+      "Nnọchiaha"
+    ],
+    "ans": 0,
+    "explanation": "'Aha' pụtara noun n'asụsụ Igbo.",
+    "topic": "Grammar",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Grammar | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'anwụ' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "elephant",
+      "horse",
+      "sun",
+      "woman"
+    ],
+    "ans": 2,
+    "explanation": "'anwụ' na nufin 'sun' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'eleven' n'asụsụ Igbo?",
+    "opts": [
+      "iri na otu",
+      "asatọ",
+      "ise",
+      "iri na abụọ"
+    ],
+    "ans": 0,
+    "explanation": "'eleven' n'asụsụ Igbo bụ 'iri na otu'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'book' n'asụsụ Igbo?",
+    "opts": [
+      "Oche",
+      "Akwụkwọ",
+      "Tebulu",
+      "Mkpịsị odee"
+    ],
+    "ans": 1,
+    "explanation": "'Akwụkwọ' pụtara book n'asụsụ Igbo.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ònye dere akwụkwọ 'Omenuko'?",
+    "opts": [
+      "Chinua Achebe",
+      "F. C. Ogbalu",
+      "Pita Nwana",
+      "Tony Ubesie"
+    ],
+    "ans": 2,
+    "explanation": "'Omenuko' bụ akwụkwọ Pita Nwana dere.",
+    "topic": "Written literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Written literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'yam' n'asụsụ Igbo?",
+    "opts": [
+      "Ji",
+      "Ọka",
+      "Akwụ",
+      "Ede"
+    ],
+    "ans": 0,
+    "explanation": "'Ji' pụtara yam n'asụsụ Igbo.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'seven' n'asụsụ Igbo?",
+    "opts": [
+      "anọ",
+      "iteghete",
+      "asaa",
+      "iri"
+    ],
+    "ans": 2,
+    "explanation": "'seven' n'asụsụ Igbo bụ 'asaa'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Emume Iri Ji bụ emume",
+    "opts": [
+      "Olili ozu",
+      "Alụmdi na nwunye",
+      "Ọmụmụ nwa",
+      "Iri ji ọhụrụ"
+    ],
+    "ans": 3,
+    "explanation": "Emume Iri Ji bụ emume iri ji ọhụrụ.",
+    "topic": "Customs (Omenala)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Customs (Omenala) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'nwoke' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "hen",
+      "nose",
+      "boy",
+      "green"
+    ],
+    "ans": 2,
+    "explanation": "'nwoke' na nufin 'boy' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'head' n'asụsụ Igbo?",
+    "opts": [
+      "isi",
+      "nwoke",
+      "anya",
+      "ehi"
+    ],
+    "ans": 0,
+    "explanation": "'isi' ita ce kalmar Igbo ta 'head'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'kola nut' n'asụsụ Igbo?",
+    "opts": [
+      "Ọjị",
+      "Akwụ",
+      "Ọka",
+      "Ji"
+    ],
+    "ans": 0,
+    "explanation": "'Ọjị' pụtara kola nut n'asụsụ Igbo.",
+    "topic": "Customs (Omenala)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Customs (Omenala) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ilu Igbo 'Onye ajụrụ aju anaghị aju onwe ya' pụtara na",
+    "opts": [
+      "Onye a jụrụ ekwesịghị ịjụ onwe ya",
+      "Onye a jụrụ ga-anwụ",
+      "Onye a jụrụ enweghị uru",
+      "Onye a jụrụ bụ onye ọjọọ"
+    ],
+    "ans": 0,
+    "explanation": "Ilu ahụ na-akụzi na onye a jụrụ ekwesịghị ịjụ onwe ya.",
+    "topic": "Oral literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Oral literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'twelve' n'asụsụ Igbo?",
+    "opts": [
+      "atọ",
+      "abụọ",
+      "isii",
+      "iri na abụọ"
+    ],
+    "ans": 3,
+    "explanation": "'twelve' n'asụsụ Igbo bụ 'iri na abụọ'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'ọkụkọ' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "hen",
+      "mother",
+      "dog",
+      "leg"
+    ],
+    "ans": 0,
+    "explanation": "'ọkụkọ' na nufin 'hen' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'enyi' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "dog",
+      "elephant",
+      "water",
+      "eye"
+    ],
+    "ans": 1,
+    "explanation": "'enyi' na nufin 'elephant' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'ọcha' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "woman",
+      "white",
+      "water",
+      "mother"
+    ],
+    "ans": 1,
+    "explanation": "'ọcha' na nufin 'white' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'mother' n'asụsụ Igbo?",
+    "opts": [
+      "ịnyịnya",
+      "nne",
+      "nwanyị",
+      "ehi"
+    ],
+    "ans": 1,
+    "explanation": "'nne' ita ce kalmar Igbo ta 'mother'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'akwụkwọ ndụ' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "girl",
+      "hand",
+      "goat",
+      "green"
+    ],
+    "ans": 3,
+    "explanation": "'akwụkwọ ndụ' na nufin 'green' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'one' n'asụsụ Igbo?",
+    "opts": [
+      "otu",
+      "ise",
+      "atọ",
+      "asaa"
+    ],
+    "ans": 0,
+    "explanation": "'one' n'asụsụ Igbo bụ 'otu'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'eye' n'asụsụ Igbo?",
+    "opts": [
+      "ịnyịnya",
+      "anya",
+      "ọnụ",
+      "ụkwụ"
+    ],
+    "ans": 1,
+    "explanation": "'anya' ita ce kalmar Igbo ta 'eye'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'aka' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "girl",
+      "hand",
+      "eye",
+      "green"
+    ],
+    "ans": 1,
+    "explanation": "'aka' na nufin 'hand' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'green' n'asụsụ Igbo?",
+    "opts": [
+      "ehi",
+      "mmiri",
+      "nkịta",
+      "akwụkwọ ndụ"
+    ],
+    "ans": 3,
+    "explanation": "'akwụkwọ ndụ' ita ce kalmar Igbo ta 'green'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'four' n'asụsụ Igbo?",
+    "opts": [
+      "otu",
+      "asatọ",
+      "anọ",
+      "ise"
+    ],
+    "ans": 2,
+    "explanation": "'four' n'asụsụ Igbo bụ 'anọ'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'two' n'asụsụ Igbo?",
+    "opts": [
+      "asatọ",
+      "iri na abụọ",
+      "abụọ",
+      "iri"
+    ],
+    "ans": 2,
+    "explanation": "'two' n'asụsụ Igbo bụ 'abụọ'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'ọdụm' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "white",
+      "horse",
+      "lion",
+      "black"
+    ],
+    "ans": 2,
+    "explanation": "'ọdụm' na nufin 'lion' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'water' n'asụsụ Igbo?",
+    "opts": [
+      "anwụ",
+      "mmiri",
+      "ọcha",
+      "isi"
+    ],
+    "ans": 1,
+    "explanation": "'mmiri' ita ce kalmar Igbo ta 'water'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'uhie' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "father",
+      "eye",
+      "red",
+      "man"
+    ],
+    "ans": 2,
+    "explanation": "'uhie' na nufin 'red' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'nwamba' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "black",
+      "red",
+      "cow",
+      "cat"
+    ],
+    "ans": 3,
+    "explanation": "'nwamba' na nufin 'cat' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'nna' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "hen",
+      "yellow",
+      "father",
+      "black"
+    ],
+    "ans": 2,
+    "explanation": "'nna' na nufin 'father' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ ekele ehihie n'asụsụ Igbo?",
+    "opts": [
+      "Mgbede ọma",
+      "Ka ọ mesịa",
+      "Ụtụtụ ọma",
+      "Ehihie ọma"
+    ],
+    "ans": 3,
+    "explanation": "'Ehihie ọma' bụ ekele ehihie n'asụsụ Igbo.",
+    "topic": "Greeting",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Greeting | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'horse' n'asụsụ Igbo?",
+    "opts": [
+      "ọcha",
+      "nwamba",
+      "anya",
+      "ịnyịnya"
+    ],
+    "ans": 3,
+    "explanation": "'ịnyịnya' ita ce kalmar Igbo ta 'horse'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'mmiri' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "water",
+      "mouth",
+      "cat",
+      "father"
+    ],
+    "ans": 0,
+    "explanation": "'mmiri' na nufin 'water' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'cat' n'asụsụ Igbo?",
+    "opts": [
+      "aka",
+      "nwamba",
+      "ọkụkọ",
+      "nna"
+    ],
+    "ans": 1,
+    "explanation": "'nwamba' ita ce kalmar Igbo ta 'cat'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'anya' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "girl",
+      "eye",
+      "horse",
+      "black"
+    ],
+    "ans": 1,
+    "explanation": "'anya' na nufin 'eye' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'house' n'asụsụ Igbo?",
+    "opts": [
+      "Ụlọ akwụkwọ",
+      "Ụlọ",
+      "Ụlọ ahịa",
+      "Ụlọ ọgwụ"
+    ],
+    "ans": 1,
+    "explanation": "'Ụlọ' pụtara house n'asụsụ Igbo.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ònye dere akwụkwọ 'Things Fall Apart'?",
+    "opts": [
+      "Chinua Achebe",
+      "Wole Soyinka",
+      "Ngugi wa Thiong'o",
+      "Pita Nwana"
+    ],
+    "ans": 0,
+    "explanation": "'Things Fall Apart' bụ akwụkwọ Chinua Achebe dere.",
+    "topic": "Written literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Written literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'eight' n'asụsụ Igbo?",
+    "opts": [
+      "asatọ",
+      "iri na otu",
+      "ogwu",
+      "anọ"
+    ],
+    "ans": 0,
+    "explanation": "'eight' n'asụsụ Igbo bụ 'asatọ'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'nkịta' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "dog",
+      "nose",
+      "man",
+      "head"
+    ],
+    "ans": 0,
+    "explanation": "'nkịta' na nufin 'dog' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'ojii' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "girl",
+      "black",
+      "leg",
+      "red"
+    ],
+    "ans": 1,
+    "explanation": "'ojii' na nufin 'black' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'Monday' n'asụsụ Igbo?",
+    "opts": [
+      "Sọnde",
+      "Wednesde",
+      "Tuzde",
+      "Mọnde"
+    ],
+    "ans": 3,
+    "explanation": "'Mọnde' bụ Monday n'asụsụ Igbo.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ilu Igbo 'Egbe bere ugo bere' pụtara na",
+    "opts": [
+      "Egbe na-eri ugo",
+      "Ugo ka egbe ike",
+      "Onye ọ bụla nwere ikike ịdị ndụ",
+      "Nnụnụ na-efe efe"
+    ],
+    "ans": 2,
+    "explanation": "Ilu ahụ pụtara na onye ọ bụla nwere ikike ịdị ndụ.",
+    "topic": "Oral literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Oral literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'nine' n'asụsụ Igbo?",
+    "opts": [
+      "isii",
+      "iri",
+      "iri na abụọ",
+      "iteghete"
+    ],
+    "ans": 3,
+    "explanation": "'nine' n'asụsụ Igbo bụ 'iteghete'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'elephant' n'asụsụ Igbo?",
+    "opts": [
+      "nwanyị",
+      "ọnụ",
+      "None of the above",
+      "enyi"
+    ],
+    "ans": 3,
+    "explanation": "'enyi' ita ce kalmar Igbo ta 'elephant'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'dog' n'asụsụ Igbo?",
+    "opts": [
+      "ojii",
+      "nkịta",
+      "nwanyị",
+      "anwụ"
+    ],
+    "ans": 1,
+    "explanation": "'nkịta' ita ce kalmar Igbo ta 'dog'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'hen' n'asụsụ Igbo?",
+    "opts": [
+      "ọnụ",
+      "ọkụkọ",
+      "ewu",
+      "edo"
+    ],
+    "ans": 1,
+    "explanation": "'ọkụkọ' ita ce kalmar Igbo ta 'hen'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ ekele ụtụtụ n'asụsụ Igbo?",
+    "opts": [
+      "Ehihie ọma",
+      "Mgbede ọma",
+      "Ka ọ mesịa",
+      "Ụtụtụ ọma"
+    ],
+    "ans": 3,
+    "explanation": "'Ụtụtụ ọma' bụ ekele ụtụtụ n'asụsụ Igbo.",
+    "topic": "Greeting",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Greeting | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị ka 'edo' pụtara n'asụsụ Bekee?",
+    "opts": [
+      "sun",
+      "eye",
+      "yellow",
+      "lion"
+    ],
+    "ans": 2,
+    "explanation": "'edo' na nufin 'yellow' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'leg' n'asụsụ Igbo?",
+    "opts": [
+      "ọnụ",
+      "anya",
+      "ụkwụ",
+      "nwoke"
+    ],
+    "ans": 2,
+    "explanation": "'ụkwụ' ita ce kalmar Igbo ta 'leg'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gịnị bụ 'nose' n'asụsụ Igbo?",
+    "opts": [
+      "ehi",
+      "akwụkwọ ndụ",
+      "isi",
+      "imi"
+    ],
+    "ans": 3,
+    "explanation": "'imi' ita ce kalmar Igbo ta 'nose'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

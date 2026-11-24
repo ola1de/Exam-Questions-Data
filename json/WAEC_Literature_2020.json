@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "A play that ends in disaster for the hero is a",
+    "opts": [
+      "Farce",
+      "Tragedy",
+      "Comedy",
+      "Tragicomedy"
+    ],
+    "ans": 1,
+    "explanation": "Tragedy ends in disaster.",
+    "topic": "Drama",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "'The Merchant of Venice' was written by",
+    "opts": [
+      "William Shakespeare",
+      "Ben Jonson",
+      "Christopher Marlowe",
+      "John Webster"
+    ],
+    "ans": 0,
+    "explanation": "'The Merchant of Venice' is by Shakespeare.",
+    "topic": "English literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: English literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The part of a play that comes before the main action is the",
+    "opts": [
+      "Prologue",
+      "Aside",
+      "Epilogue",
+      "Interlude"
+    ],
+    "ans": 0,
+    "explanation": "A prologue introduces the play.",
+    "topic": "Drama",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The use of words to create a picture in the reader's mind is",
+    "opts": [
+      "Symbolism",
+      "Diction",
+      "Syntax",
+      "Imagery"
+    ],
+    "ans": 3,
+    "explanation": "Imagery appeals to the senses.",
+    "topic": "Literary terms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary terms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The combination of two opposite words, e.g. 'bitter sweet', is an",
+    "opts": [
+      "Paradox",
+      "Euphemism",
+      "Pun",
+      "Oxymoron"
+    ],
+    "ans": 3,
+    "explanation": "An oxymoron joins contradictory terms.",
+    "topic": "Literary devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A poem that tells a story in song form is a",
+    "opts": [
+      "Sonnet",
+      "Elegy",
+      "Ballad",
+      "Ode"
+    ],
+    "ans": 2,
+    "explanation": "A ballad tells a story.",
+    "topic": "Poetry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Poetry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A short play that is broadly humorous is a",
+    "opts": [
+      "Farce",
+      "Tragedy",
+      "Melodrama",
+      "Satire"
+    ],
+    "ans": 0,
+    "explanation": "Farce is broad, exaggerated comedy.",
+    "topic": "Drama",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pattern of rhyme at the end of lines is the",
+    "opts": [
+      "Metre",
+      "Rhyme scheme",
+      "Stanza",
+      "Rhythm"
+    ],
+    "ans": 1,
+    "explanation": "Rhyme scheme is the pattern of end rhymes.",
+    "topic": "Poetry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Poetry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When the audience knows what a character does not know, it is",
+    "opts": [
+      "Situational irony",
+      "Dramatic irony",
+      "Verbal irony",
+      "Sarcasm"
+    ],
+    "ans": 1,
+    "explanation": "Dramatic irony is knowledge the audience has but the character lacks.",
+    "topic": "Literary devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A mild word used in place of a harsh one is a",
+    "opts": [
+      "Pun",
+      "Dysphemism",
+      "Euphemism",
+      "Oxymoron"
+    ],
+    "ans": 2,
+    "explanation": "A euphemism softens harsh language.",
+    "topic": "Literary devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The repetition of the same consonant sound at the beginning of words is",
+    "opts": [
+      "Onomatopoeia",
+      "Alliteration",
+      "Assonance",
+      "Rhyme"
+    ],
+    "ans": 1,
+    "explanation": "Alliteration repeats initial consonant sounds.",
+    "topic": "Literary devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The part of a play that comes after the main action is the",
+    "opts": [
+      "Epilogue",
+      "Prologue",
+      "Interlude",
+      "Aside"
+    ],
+    "ans": 0,
+    "explanation": "An epilogue concludes the play.",
+    "topic": "Drama",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A poem of fourteen lines is a",
+    "opts": [
+      "Elegy",
+      "Ballad",
+      "Ode",
+      "Sonnet"
+    ],
+    "ans": 3,
+    "explanation": "A sonnet has fourteen lines.",
+    "topic": "Poetry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Poetry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The group that comments on the action in a Greek play is the",
+    "opts": [
+      "Cast",
+      "Chorus",
+      "Orchestra",
+      "Audience"
+    ],
+    "ans": 1,
+    "explanation": "The chorus comments on the action.",
+    "topic": "Drama",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A story in which characters and events stand for deeper meanings is an",
+    "opts": [
+      "Parable",
+      "Fable",
+      "Allegory",
+      "Myth"
+    ],
+    "ans": 2,
+    "explanation": "An allegory carries a second meaning.",
+    "topic": "Literary terms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary terms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A narrator who knows the thoughts of all characters is",
+    "opts": [
+      "Unreliable",
+      "First-person",
+      "Limited",
+      "Omniscient"
+    ],
+    "ans": 3,
+    "explanation": "An omniscient narrator knows all.",
+    "topic": "Prose",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Prose | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "'The Beautiful Ones Are Not Yet Born' was written by",
+    "opts": [
+      "Chinua Achebe",
+      "Wole Soyinka",
+      "Ngugi wa Thiong'o",
+      "Ayi Kwei Armah"
+    ],
+    "ans": 3,
+    "explanation": "It is by Ayi Kwei Armah.",
+    "topic": "African literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: African literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A play that uses humour to criticise society is a",
+    "opts": [
+      "Satire",
+      "Tragedy",
+      "Farce",
+      "Melodrama"
+    ],
+    "ans": 0,
+    "explanation": "Satire criticises through humour.",
+    "topic": "Drama",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "'The Joys of Motherhood' was written by",
+    "opts": [
+      "Ama Ata Aidoo",
+      "Flora Nwapa",
+      "Chimamanda Adichie",
+      "Buchi Emecheta"
+    ],
+    "ans": 3,
+    "explanation": "'The Joys of Motherhood' is by Buchi Emecheta.",
+    "topic": "African literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: African literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A play that mixes tragedy and comedy is a",
+    "opts": [
+      "Farce",
+      "Satire",
+      "Tragicomedy",
+      "Melodrama"
+    ],
+    "ans": 2,
+    "explanation": "Tragicomedy mixes tragic and comic elements.",
+    "topic": "Drama",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A brief remark by a character to the audience, unheard by others on stage, is an",
+    "opts": [
+      "Dialogue",
+      "Monologue",
+      "Aside",
+      "Soliloquy"
+    ],
+    "ans": 2,
+    "explanation": "An aside is spoken to the audience.",
+    "topic": "Drama",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A conversation between two or more characters is a",
+    "opts": [
+      "Soliloquy",
+      "Dialogue",
+      "Aside",
+      "Monologue"
+    ],
+    "ans": 1,
+    "explanation": "Dialogue is conversation.",
+    "topic": "Drama",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A statement that seems contradictory but may be true is a",
+    "opts": [
+      "Paradox",
+      "Irony",
+      "Hyperbole",
+      "Oxymoron"
+    ],
+    "ans": 0,
+    "explanation": "A paradox is a seemingly contradictory statement.",
+    "topic": "Literary devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The end of a story where conflicts are resolved is the",
+    "opts": [
+      "Exposition",
+      "Climax",
+      "Resolution (denouement)",
+      "Rising action"
+    ],
+    "ans": 2,
+    "explanation": "Resolution ends the conflicts.",
+    "topic": "Drama and prose",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama and prose | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A contrast between what is expected and what happens is",
+    "opts": [
+      "Verbal irony",
+      "Irony of situation",
+      "Dramatic irony",
+      "Sarcasm"
+    ],
+    "ans": 1,
+    "explanation": "Situational irony is an unexpected outcome.",
+    "topic": "Literary devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "'Animal Farm' was written by",
+    "opts": [
+      "George Orwell",
+      "Graham Greene",
+      "William Golding",
+      "Aldous Huxley"
+    ],
+    "ans": 0,
+    "explanation": "'Animal Farm' is by George Orwell.",
+    "topic": "English literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: English literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The character who opposes the main character is the",
+    "opts": [
+      "Foil",
+      "Hero",
+      "Protagonist",
+      "Antagonist"
+    ],
+    "ans": 3,
+    "explanation": "The antagonist opposes the protagonist.",
+    "topic": "Drama and prose",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama and prose | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A long speech by one character is a",
+    "opts": [
+      "Chorus",
+      "Aside",
+      "Monologue",
+      "Dialogue"
+    ],
+    "ans": 2,
+    "explanation": "A monologue is a long speech by one character.",
+    "topic": "Drama",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The repetition of the same word at the start of successive clauses is",
+    "opts": [
+      "Epistrophe",
+      "Alliteration",
+      "Assonance",
+      "Anaphora"
+    ],
+    "ans": 3,
+    "explanation": "Anaphora repeats words at clause beginnings.",
+    "topic": "Literary devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The turning point of highest tension in a story is the",
+    "opts": [
+      "Denouement",
+      "Exposition",
+      "Resolution",
+      "Climax"
+    ],
+    "ans": 3,
+    "explanation": "The climax is the peak of tension.",
+    "topic": "Drama and prose",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama and prose | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The author's choice of words is called",
+    "opts": [
+      "Diction",
+      "Tone",
+      "Imagery",
+      "Syntax"
+    ],
+    "ans": 0,
+    "explanation": "Diction is word choice.",
+    "topic": "Literary terms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary terms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "'Things Fall Apart' was written by",
+    "opts": [
+      "Wole Soyinka",
+      "Chinua Achebe",
+      "Chimamanda Adichie",
+      "Ngugi wa Thiong'o"
+    ],
+    "ans": 1,
+    "explanation": "'Things Fall Apart' (1958) is by Chinua Achebe.",
+    "topic": "African literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: African literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "'Romeo and Juliet' was written by",
+    "opts": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "John Milton",
+      "Geoffrey Chaucer"
+    ],
+    "ans": 0,
+    "explanation": "'Romeo and Juliet' is by Shakespeare.",
+    "topic": "English literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: English literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A three-line Japanese poem is a",
+    "opts": [
+      "Haiku",
+      "Tanka",
+      "Limerick",
+      "Sonnet"
+    ],
+    "ans": 0,
+    "explanation": "A haiku has three lines (5-7-5 syllables).",
+    "topic": "Poetry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Poetry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main character of a play or novel is the",
+    "opts": [
+      "Antagonist",
+      "Foil",
+      "Protagonist",
+      "Narrator"
+    ],
+    "ans": 2,
+    "explanation": "The protagonist is the central character.",
+    "topic": "Drama and prose",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama and prose | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main female character in 'The Lion and the Jewel' is",
+    "opts": [
+      "Sidi",
+      "Sadiku",
+      "Mama",
+      "Ailatu"
+    ],
+    "ans": 0,
+    "explanation": "Sidi is the village belle.",
+    "topic": "African literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: African literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main character of 'Things Fall Apart' is",
+    "opts": [
+      "Nwoye",
+      "Obierika",
+      "Unoka",
+      "Okonkwo"
+    ],
+    "ans": 3,
+    "explanation": "Okonkwo is the hero of 'Things Fall Apart'.",
+    "topic": "African literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: African literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A long narrative poem is an",
+    "opts": [
+      "Ode",
+      "Sonnet",
+      "Ballad",
+      "Epic"
+    ],
+    "ans": 3,
+    "explanation": "An epic is a long narrative poem.",
+    "topic": "Poetry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Poetry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The regular pattern of stressed and unstressed syllables is the",
+    "opts": [
+      "Rhyme",
+      "Metre",
+      "Tone",
+      "Stanza"
+    ],
+    "ans": 1,
+    "explanation": "Metre is the rhythmic pattern.",
+    "topic": "Poetry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Poetry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A story told by a character inside the story uses",
+    "opts": [
+      "Dramatic narration",
+      "First-person narration",
+      "Omniscient narration",
+      "Third-person narration"
+    ],
+    "ans": 1,
+    "explanation": "First-person narration uses 'I'.",
+    "topic": "Prose",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Prose | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The sequence of events in a story is its",
+    "opts": [
+      "Setting",
+      "Theme",
+      "Style",
+      "Plot"
+    ],
+    "ans": 3,
+    "explanation": "Plot is the sequence of events.",
+    "topic": "Literary terms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary terms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The repetition of vowel sounds in words is",
+    "opts": [
+      "Consonance",
+      "Rhyme",
+      "Assonance",
+      "Alliteration"
+    ],
+    "ans": 2,
+    "explanation": "Assonance repeats vowel sounds.",
+    "topic": "Literary devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The part of a story that introduces the setting and characters is the",
+    "opts": [
+      "Falling action",
+      "Climax",
+      "Resolution",
+      "Exposition"
+    ],
+    "ans": 3,
+    "explanation": "Exposition introduces the story.",
+    "topic": "Drama and prose",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Drama and prose | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A poem of praise is an",
+    "opts": [
+      "Ode",
+      "Elegy",
+      "Ballad",
+      "Sonnet"
+    ],
+    "ans": 0,
+    "explanation": "An ode praises its subject.",
+    "topic": "Poetry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Poetry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An object that stands for something else is a",
+    "opts": [
+      "Allegory",
+      "Symbol",
+      "Image",
+      "Metaphor"
+    ],
+    "ans": 1,
+    "explanation": "A symbol represents something else.",
+    "topic": "Literary terms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary terms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A direct comparison without 'like' or 'as' is a",
+    "opts": [
+      "Simile",
+      "Personification",
+      "Metaphor",
+      "Irony"
+    ],
+    "ans": 2,
+    "explanation": "A metaphor states one thing is another.",
+    "topic": "Literary devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main character of 'Macbeth' who murders King Duncan is",
+    "opts": [
+      "Malcolm",
+      "Macbeth",
+      "Macduff",
+      "Banquo"
+    ],
+    "ans": 1,
+    "explanation": "Macbeth murders Duncan.",
+    "topic": "English literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: English literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Poetry without a regular metre or rhyme is",
+    "opts": [
+      "Ballad",
+      "Blank verse",
+      "Free verse",
+      "Sonnet"
+    ],
+    "ans": 2,
+    "explanation": "Free verse has no regular pattern.",
+    "topic": "Poetry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Poetry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A question asked for effect, not to be answered, is a",
+    "opts": [
+      "Irony",
+      "Hyperbole",
+      "Rhetorical question",
+      "Paradox"
+    ],
+    "ans": 2,
+    "explanation": "A rhetorical question needs no answer.",
+    "topic": "Literary devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The atmosphere or feeling created by a literary work is its",
+    "opts": [
+      "Mood",
+      "Plot",
+      "Tone",
+      "Theme"
+    ],
+    "ans": 0,
+    "explanation": "Mood is the feeling a work creates.",
+    "topic": "Literary terms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Literary terms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

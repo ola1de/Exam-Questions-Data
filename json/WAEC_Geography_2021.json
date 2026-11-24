@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The main agent of erosion in a desert is",
+    "opts": [
+      "Sea waves",
+      "Wind",
+      "Ice",
+      "Water"
+    ],
+    "ans": 1,
+    "explanation": "Wind is the main agent in deserts.",
+    "topic": "Elements of physical geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elements of physical geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The layer of the atmosphere in which weather occurs is the",
+    "opts": [
+      "Stratosphere",
+      "Troposphere",
+      "Thermosphere",
+      "Mesosphere"
+    ],
+    "ans": 1,
+    "explanation": "Weather occurs in the troposphere.",
+    "topic": "Weather and climate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Weather and climate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Day and night are caused by the Earth's",
+    "opts": [
+      "Tilt only",
+      "Revolution",
+      "Orbit",
+      "Rotation"
+    ],
+    "ans": 3,
+    "explanation": "Rotation brings day and night.",
+    "topic": "The earth and the solar system",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The earth and the solar system | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The scale of a map shows the relationship between distance on the map and distance on the",
+    "opts": [
+      "Paper",
+      "Compass",
+      "Globe",
+      "Ground"
+    ],
+    "ans": 3,
+    "explanation": "Scale relates map distance to ground distance.",
+    "topic": "Map work",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Map work | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Prime Meridian passes through",
+    "opts": [
+      "Lagos",
+      "Paris",
+      "Cairo",
+      "Greenwich"
+    ],
+    "ans": 3,
+    "explanation": "The Prime Meridian (0° longitude) passes through Greenwich, London.",
+    "topic": "Map work",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Map work | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The imaginary line round the middle of the Earth is the",
+    "opts": [
+      "Tropic of Capricorn",
+      "Equator",
+      "Prime Meridian",
+      "Tropic of Cancer"
+    ],
+    "ans": 1,
+    "explanation": "The Equator is 0° latitude.",
+    "topic": "The earth and the solar system",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The earth and the solar system | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The capital of Nigeria is",
+    "opts": [
+      "Abuja",
+      "Lagos",
+      "Ibadan",
+      "Kano"
+    ],
+    "ans": 0,
+    "explanation": "Abuja is the federal capital of Nigeria.",
+    "topic": "Regional geography of Nigeria",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Regional geography of Nigeria | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The instrument used to measure humidity is the",
+    "opts": [
+      "Rain gauge",
+      "Barometer",
+      "Thermometer",
+      "Hygrometer"
+    ],
+    "ans": 3,
+    "explanation": "A hygrometer measures humidity.",
+    "topic": "Weather and climate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Weather and climate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The River Niger and River Benue meet at",
+    "opts": [
+      "Lokoja",
+      "Abuja",
+      "Makurdi",
+      "Onitsha"
+    ],
+    "ans": 0,
+    "explanation": "The Niger and Benue meet at Lokoja.",
+    "topic": "Physical geography of Nigeria",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Physical geography of Nigeria | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The instrument used to measure temperature is the",
+    "opts": [
+      "Hygrometer",
+      "Barometer",
+      "Thermometer",
+      "Anemometer"
+    ],
+    "ans": 2,
+    "explanation": "A thermometer measures temperature.",
+    "topic": "Weather and climate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Weather and climate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main export crop of Ghana is",
+    "opts": [
+      "Groundnut",
+      "Cocoa",
+      "Tea",
+      "Coffee"
+    ],
+    "ans": 1,
+    "explanation": "Cocoa is Ghana's main export crop.",
+    "topic": "Economic geography of Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Economic geography of Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major cause of rural-urban migration in Nigeria is the",
+    "opts": [
+      "Low cost of living",
+      "Search for jobs",
+      "Good roads in villages",
+      "Abundance of land"
+    ],
+    "ans": 1,
+    "explanation": "People move to towns seeking employment.",
+    "topic": "Human geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Nigeria is ahead of GMT by",
+    "opts": [
+      "Zero hours",
+      "Three hours",
+      "One hour",
+      "Two hours"
+    ],
+    "ans": 2,
+    "explanation": "Nigeria uses West Africa Time, GMT+1.",
+    "topic": "Map work",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Map work | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of an igneous rock is",
+    "opts": [
+      "Marble",
+      "Slate",
+      "Granite",
+      "Sandstone"
+    ],
+    "ans": 2,
+    "explanation": "Granite is an igneous rock.",
+    "topic": "Elements of physical geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elements of physical geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following planets is closest to the Sun?",
+    "opts": [
+      "Mars",
+      "Earth",
+      "Mercury",
+      "Venus"
+    ],
+    "ans": 2,
+    "explanation": "Mercury is the first planet from the Sun.",
+    "topic": "The earth and the solar system",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The earth and the solar system | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The molten rock below the Earth's crust is called",
+    "opts": [
+      "Basalt",
+      "Magma",
+      "Lava",
+      "Granite"
+    ],
+    "ans": 1,
+    "explanation": "Magma is molten rock beneath the surface; lava is magma on the surface.",
+    "topic": "Elements of physical geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elements of physical geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The capital of South Africa's seat of government is",
+    "opts": [
+      "Cape Town",
+      "Pretoria",
+      "Durban",
+      "Johannesburg"
+    ],
+    "ans": 1,
+    "explanation": "Pretoria is the administrative capital of South Africa.",
+    "topic": "Regional geography of Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Regional geography of Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The capital of Ghana is",
+    "opts": [
+      "Lagos",
+      "Abidjan",
+      "Kumasi",
+      "Accra"
+    ],
+    "ans": 3,
+    "explanation": "Accra is the capital of Ghana.",
+    "topic": "Regional geography of Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Regional geography of Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main occupation in a rural settlement is usually",
+    "opts": [
+      "Farming",
+      "Banking",
+      "Trading",
+      "Manufacturing"
+    ],
+    "ans": 0,
+    "explanation": "Rural settlements are mainly farming communities.",
+    "topic": "Human geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A bearing is measured in a clockwise direction from",
+    "opts": [
+      "North",
+      "West",
+      "East",
+      "South"
+    ],
+    "ans": 0,
+    "explanation": "Bearings are measured clockwise from north.",
+    "topic": "Map work",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Map work | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The movement of the Earth round the Sun is called",
+    "opts": [
+      "Revolution",
+      "Rotation",
+      "Tilt",
+      "Precession"
+    ],
+    "ans": 0,
+    "explanation": "Revolution is the Earth's orbit round the Sun.",
+    "topic": "The earth and the solar system",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The earth and the solar system | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The wet wind that brings rain to southern Nigeria is the",
+    "opts": [
+      "South-west monsoon",
+      "North-east trade wind",
+      "Harmattan",
+      "Land breeze"
+    ],
+    "ans": 0,
+    "explanation": "The south-west monsoon brings rain.",
+    "topic": "Climate of Nigeria",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Climate of Nigeria | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The time difference between two places is caused by differences in",
+    "opts": [
+      "Longitude",
+      "Altitude",
+      "Latitude",
+      "Climate"
+    ],
+    "ans": 0,
+    "explanation": "Time zones follow longitude.",
+    "topic": "Map work",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Map work | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Great Rift Valley is found in",
+    "opts": [
+      "West Africa",
+      "Southern Africa",
+      "North Africa",
+      "East Africa"
+    ],
+    "ans": 3,
+    "explanation": "The Great Rift Valley runs through East Africa.",
+    "topic": "Regional geography of Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Regional geography of Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The largest lake in Nigeria is",
+    "opts": [
+      "Kainji Lake",
+      "Lake Chad",
+      "Oguta Lake",
+      "Lake Bosumtwi"
+    ],
+    "ans": 1,
+    "explanation": "Lake Chad is the largest lake in the region.",
+    "topic": "Physical geography of Nigeria",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Physical geography of Nigeria | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Desertification in northern Nigeria is mainly caused by",
+    "opts": [
+      "Irrigation",
+      "Flooding",
+      "Overgrazing and deforestation",
+      "Too much rainfall"
+    ],
+    "ans": 2,
+    "explanation": "Overgrazing and tree loss expose soil to desert spread.",
+    "topic": "Environmental geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Environmental geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Lines of longitude are also called",
+    "opts": [
+      "Parallels",
+      "Isobars",
+      "Meridians",
+      "Contours"
+    ],
+    "ans": 2,
+    "explanation": "Longitudes are meridians.",
+    "topic": "Map work",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Map work | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The ozone layer is found in the",
+    "opts": [
+      "Troposphere",
+      "Mesosphere",
+      "Stratosphere",
+      "Thermosphere"
+    ],
+    "ans": 2,
+    "explanation": "Ozone is concentrated in the stratosphere.",
+    "topic": "Weather and climate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Weather and climate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The lines on a map joining places of equal rainfall are",
+    "opts": [
+      "Isobars",
+      "Contours",
+      "Isohyets",
+      "Isotherms"
+    ],
+    "ans": 2,
+    "explanation": "Isohyets join places of equal rainfall.",
+    "topic": "Weather and climate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Weather and climate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The climate of northern Nigeria is mainly",
+    "opts": [
+      "Mediterranean",
+      "Rainforest",
+      "Desert",
+      "Tropical savanna"
+    ],
+    "ans": 3,
+    "explanation": "Northern Nigeria has a savanna climate with a long dry season.",
+    "topic": "Climate of Nigeria",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Climate of Nigeria | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The longest river in Africa is the",
+    "opts": [
+      "Congo",
+      "Zambezi",
+      "Nile",
+      "Niger"
+    ],
+    "ans": 2,
+    "explanation": "The Nile is the longest river in Africa.",
+    "topic": "Regional geography of Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Regional geography of Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The movement of people from rural areas to towns is called",
+    "opts": [
+      "Immigration",
+      "Urban-rural migration",
+      "Emigration",
+      "Rural-urban migration"
+    ],
+    "ans": 3,
+    "explanation": "Rural-urban migration moves people to towns.",
+    "topic": "Human geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gas mainly responsible for global warming is",
+    "opts": [
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen",
+      "Oxygen"
+    ],
+    "ans": 0,
+    "explanation": "CO2 is the main greenhouse gas from human activity.",
+    "topic": "Environmental geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Environmental geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The rusting of iron-rich rocks is an example of",
+    "opts": [
+      "Biological weathering",
+      "Erosion",
+      "Physical weathering",
+      "Chemical weathering"
+    ],
+    "ans": 3,
+    "explanation": "Rusting (oxidation) is chemical weathering.",
+    "topic": "Elements of physical geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elements of physical geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The innermost layer of the Earth is the",
+    "opts": [
+      "Crust",
+      "Mantle",
+      "Core",
+      "Asthenosphere"
+    ],
+    "ans": 2,
+    "explanation": "The core is the innermost layer.",
+    "topic": "Elements of physical geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elements of physical geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Earth takes about 24 hours to complete one",
+    "opts": [
+      "Revolution",
+      "Season",
+      "Rotation",
+      "Orbit"
+    ],
+    "ans": 2,
+    "explanation": "One rotation takes about 24 hours and causes day and night.",
+    "topic": "The earth and the solar system",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The earth and the solar system | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The currency of South Africa is the",
+    "opts": [
+      "Rand",
+      "Kwacha",
+      "Cedi",
+      "Naira"
+    ],
+    "ans": 0,
+    "explanation": "South Africa's currency is the rand.",
+    "topic": "Regional geography of Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Regional geography of Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Crude oil in Nigeria is found mainly in the",
+    "opts": [
+      "Sokoto Basin",
+      "Jos Plateau",
+      "Chad Basin",
+      "Niger Delta"
+    ],
+    "ans": 3,
+    "explanation": "Oil is produced in the Niger Delta.",
+    "topic": "Economic geography of Nigeria",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Economic geography of Nigeria | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Greenwich Mean Time (GMT) is the time at",
+    "opts": [
+      "180° longitude",
+      "0° longitude",
+      "90°E",
+      "0° latitude"
+    ],
+    "ans": 1,
+    "explanation": "GMT is the time at the Prime Meridian.",
+    "topic": "Map work",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Map work | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The largest country in Africa by land area is",
+    "opts": [
+      "Libya",
+      "Nigeria",
+      "Sudan",
+      "Algeria"
+    ],
+    "ans": 3,
+    "explanation": "Algeria is Africa's largest country by area.",
+    "topic": "Regional geography of Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Regional geography of Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The wearing away of the coast by sea waves is called",
+    "opts": [
+      "Coastal erosion",
+      "Glaciation",
+      "Wind erosion",
+      "River erosion"
+    ],
+    "ans": 0,
+    "explanation": "Sea waves erode the coast.",
+    "topic": "Elements of physical geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elements of physical geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The longest river in Nigeria is the",
+    "opts": [
+      "River Cross",
+      "River Benue",
+      "River Niger",
+      "River Ogun"
+    ],
+    "ans": 2,
+    "explanation": "The Niger is Nigeria's longest river.",
+    "topic": "Physical geography of Nigeria",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Physical geography of Nigeria | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Victoria Falls is on the River",
+    "opts": [
+      "Niger",
+      "Zambezi",
+      "Nile",
+      "Congo"
+    ],
+    "ans": 1,
+    "explanation": "Victoria Falls is on the Zambezi.",
+    "topic": "Regional geography of Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Regional geography of Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Lines joining places of equal height above sea level are",
+    "opts": [
+      "Contours",
+      "Meridians",
+      "Isotherms",
+      "Isobars"
+    ],
+    "ans": 0,
+    "explanation": "Contours join places of equal height.",
+    "topic": "Map work",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Map work | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The currency of Ghana is the",
+    "opts": [
+      "Cedi",
+      "Naira",
+      "Rand",
+      "Franc"
+    ],
+    "ans": 0,
+    "explanation": "Ghana's currency is the cedi.",
+    "topic": "Regional geography of Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Regional geography of Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A settlement that is arranged along a road is a",
+    "opts": [
+      "Circular settlement",
+      "Dispersed settlement",
+      "Nucleated settlement",
+      "Linear settlement"
+    ],
+    "ans": 3,
+    "explanation": "Linear settlements stretch along a road or river.",
+    "topic": "Human geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A V-shaped valley is formed by",
+    "opts": [
+      "Sea erosion",
+      "River erosion",
+      "Glaciation",
+      "Wind erosion"
+    ],
+    "ans": 1,
+    "explanation": "Rivers cut V-shaped valleys.",
+    "topic": "Elements of physical geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elements of physical geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A spit is a coastal feature formed by",
+    "opts": [
+      "Deposition",
+      "Weathering",
+      "Folding",
+      "Erosion only"
+    ],
+    "ans": 0,
+    "explanation": "Spits are formed by deposition of sand by longshore drift.",
+    "topic": "Elements of physical geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elements of physical geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A settlement clustered round a central point is a",
+    "opts": [
+      "Linear settlement",
+      "Nucleated settlement",
+      "Dispersed settlement",
+      "Isolated settlement"
+    ],
+    "ans": 1,
+    "explanation": "Nucleated settlements cluster round a centre.",
+    "topic": "Human geography",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human geography | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The highest mountain in Nigeria is",
+    "opts": [
+      "Jos Plateau",
+      "Mambilla Plateau",
+      "Chappal Waddi",
+      "Mount Cameroon"
+    ],
+    "ans": 2,
+    "explanation": "Chappal Waddi (2,419 m) is Nigeria's highest peak.",
+    "topic": "Physical geography of Nigeria",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Physical geography of Nigeria | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

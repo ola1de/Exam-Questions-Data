@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The Nigerian federal legislature is called the",
+    "opts": [
+      "State Assembly",
+      "House of Chiefs",
+      "Supreme Court",
+      "National Assembly"
+    ],
+    "ans": 3,
+    "explanation": "The National Assembly is the federal legislature.",
+    "topic": "Organs of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Organs of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A confederation is a union of",
+    "opts": [
+      "Local governments",
+      "Towns",
+      "Independent states",
+      "Villages"
+    ],
+    "ans": 2,
+    "explanation": "A confederation joins sovereign states.",
+    "topic": "State structure and characteristics of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: State structure and characteristics of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The President of Nigeria is elected for a term of",
+    "opts": [
+      "Four years",
+      "Seven years",
+      "Five years",
+      "Six years"
+    ],
+    "ans": 0,
+    "explanation": "The presidential term is four years.",
+    "topic": "Organs of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Organs of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pre-colonial political system of the Hausa/Fulani was the",
+    "opts": [
+      "Age-grade system",
+      "Oba system",
+      "Republican system",
+      "Emirate system"
+    ],
+    "ans": 3,
+    "explanation": "The Hausa/Fulani had emirates.",
+    "topic": "Pre-colonial political systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Pre-colonial political systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Public opinion is the",
+    "opts": [
+      "Views of the people on public issues",
+      "Opinion of the government",
+      "Opinion of the press only",
+      "Opinion of the rich"
+    ],
+    "ans": 0,
+    "explanation": "Public opinion is what the public thinks.",
+    "topic": "Political parties",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Political parties | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Authority is the",
+    "opts": [
+      "Use of force",
+      "Wealth",
+      "Military power",
+      "Legal right to rule"
+    ],
+    "ans": 3,
+    "explanation": "Authority is the recognised right to exercise power.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Richards Constitution was introduced in",
+    "opts": [
+      "1946",
+      "1951",
+      "1954",
+      "1922"
+    ],
+    "ans": 0,
+    "explanation": "The Richards Constitution was 1946.",
+    "topic": "Constitutional development",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Constitutional development | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A state is distinguished from a nation by its",
+    "opts": [
+      "Culture",
+      "Sovereignty",
+      "Population",
+      "Language"
+    ],
+    "ans": 1,
+    "explanation": "A state has sovereignty; a nation is a people with shared identity.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Commonwealth is an association of countries that were formerly",
+    "opts": [
+      "Spanish colonies",
+      "Portuguese colonies",
+      "British colonies",
+      "French colonies"
+    ],
+    "ans": 2,
+    "explanation": "The Commonwealth links former British territories.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The principle of federal character in Nigeria aims to ensure",
+    "opts": [
+      "Rule by one group",
+      "Fair representation of all groups",
+      "One-party rule",
+      "Military rule"
+    ],
+    "ans": 1,
+    "explanation": "Federal character ensures fair representation.",
+    "topic": "Constitutional development",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Constitutional development | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Communism advocates the ownership of the means of production by the",
+    "opts": [
+      "Individuals",
+      "Military",
+      "Church",
+      "Community"
+    ],
+    "ans": 3,
+    "explanation": "Communism advocates communal ownership.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The arm of government that interprets laws is the",
+    "opts": [
+      "Executive",
+      "Judiciary",
+      "Legislature",
+      "Police"
+    ],
+    "ans": 1,
+    "explanation": "The judiciary interprets laws.",
+    "topic": "Organs of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Organs of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Government as an institution is defined as the",
+    "opts": [
+      "Body that makes and enforces laws",
+      "Religious body",
+      "Military force",
+      "Group of rich people"
+    ],
+    "ans": 0,
+    "explanation": "Government is the institution that rules a state.",
+    "topic": "Meaning and scope of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Meaning and scope of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A rigid constitution is one that",
+    "opts": [
+      "Cannot be easily amended",
+      "Can be easily amended",
+      "Has no laws",
+      "Is unwritten"
+    ],
+    "ans": 0,
+    "explanation": "A rigid constitution needs a special process to amend.",
+    "topic": "Constitutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Constitutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Nigeria operates a",
+    "opts": [
+      "Monarchical system",
+      "Federal system of government",
+      "Unitary system",
+      "Confederal system"
+    ],
+    "ans": 1,
+    "explanation": "Nigeria is a federation.",
+    "topic": "State structure and characteristics of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: State structure and characteristics of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The principle that the three arms of government should be separate is the",
+    "opts": [
+      "Checks and balances",
+      "Federalism",
+      "Rule of law",
+      "Separation of powers"
+    ],
+    "ans": 3,
+    "explanation": "Separation of powers divides functions among arms.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A two-party system is a system in which",
+    "opts": [
+      "One party rules",
+      "No parties exist",
+      "Many parties rule",
+      "Two major parties dominate"
+    ],
+    "ans": 3,
+    "explanation": "Two-party systems have two dominant parties.",
+    "topic": "Political parties",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Political parties | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The process of depriving a person of citizenship is known as",
+    "opts": [
+      "Expatriation",
+      "Deportation",
+      "Denaturalisation",
+      "Disenfranchisement"
+    ],
+    "ans": 2,
+    "explanation": "Denaturalisation deprives a person of citizenship.",
+    "topic": "Citizenship",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Citizenship | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main aim of the United Nations is to maintain",
+    "opts": [
+      "Power",
+      "Trade",
+      "International peace and security",
+      "Wealth"
+    ],
+    "ans": 2,
+    "explanation": "The UN maintains peace and security.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main source of revenue for local governments is the",
+    "opts": [
+      "Customs duties",
+      "Personal income tax only",
+      "Company tax",
+      "Federation Account"
+    ],
+    "ans": 3,
+    "explanation": "Local governments receive allocations from the Federation Account.",
+    "topic": "Local government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Local government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The leader of Biafra during the civil war was",
+    "opts": [
+      "Yakubu Gowon",
+      "Obafemi Awolowo",
+      "Odumegwu Ojukwu",
+      "Nnamdi Azikiwe"
+    ],
+    "ans": 2,
+    "explanation": "Ojukwu led Biafra.",
+    "topic": "Constitutional development",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Constitutional development | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A pressure group is a group that seeks to",
+    "opts": [
+      "Win elections",
+      "Form a government",
+      "Make laws",
+      "Influence government policy"
+    ],
+    "ans": 3,
+    "explanation": "Pressure groups influence policy without seeking power.",
+    "topic": "Political parties",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Political parties | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The lower house of the National Assembly is the",
+    "opts": [
+      "House of Representatives",
+      "State Assembly",
+      "Senate",
+      "House of Chiefs"
+    ],
+    "ans": 0,
+    "explanation": "The House of Representatives is the lower house.",
+    "topic": "Organs of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Organs of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Capitalism is based on",
+    "opts": [
+      "Private ownership",
+      "State ownership",
+      "Church ownership",
+      "Communal ownership"
+    ],
+    "ans": 0,
+    "explanation": "Capitalism rests on private ownership.",
+    "topic": "Types and basic features of economic systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Types and basic features of economic systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The President of Nigeria can serve a maximum of",
+    "opts": [
+      "Three terms",
+      "One term",
+      "Two terms",
+      "Four terms"
+    ],
+    "ans": 2,
+    "explanation": "The President is limited to two terms.",
+    "topic": "Organs of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Organs of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Nigeria's foreign policy is guided by the principle of",
+    "opts": [
+      "Alignment with the East",
+      "Non-alignment",
+      "Isolation",
+      "Alignment with the West"
+    ],
+    "ans": 1,
+    "explanation": "Nigeria follows non-alignment.",
+    "topic": "Foreign policy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Foreign policy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The headquarters of ECOWAS is in",
+    "opts": [
+      "Dakar",
+      "Abuja",
+      "Accra",
+      "Lagos"
+    ],
+    "ans": 1,
+    "explanation": "ECOWAS headquarters is in Abuja.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The social contract theory is associated with",
+    "opts": [
+      "Aristotle",
+      "John Locke",
+      "Machiavelli",
+      "Karl Marx"
+    ],
+    "ans": 1,
+    "explanation": "Locke developed social contract theory.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The age for voting in Nigeria is",
+    "opts": [
+      "25 years",
+      "16 years",
+      "18 years",
+      "21 years"
+    ],
+    "ans": 2,
+    "explanation": "Voting age is 18.",
+    "topic": "Citizenship",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Citizenship | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The author of 'The Spirit of the Laws' is",
+    "opts": [
+      "Locke",
+      "Hobbes",
+      "Dicey",
+      "Montesquieu"
+    ],
+    "ans": 3,
+    "explanation": "Montesquieu wrote 'The Spirit of the Laws'.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The rule of law was popularised by",
+    "opts": [
+      "Thomas Hobbes",
+      "John Locke",
+      "A. V. Dicey",
+      "Karl Marx"
+    ],
+    "ans": 2,
+    "explanation": "Dicey expounded the rule of law.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The head of a local government in Nigeria is the",
+    "opts": [
+      "President",
+      "Chairman",
+      "Oba",
+      "Governor"
+    ],
+    "ans": 1,
+    "explanation": "A local government is headed by a chairman.",
+    "topic": "Local government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Local government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The current number of states in Nigeria is",
+    "opts": [
+      "30",
+      "19",
+      "32",
+      "36"
+    ],
+    "ans": 3,
+    "explanation": "Nigeria has 36 states.",
+    "topic": "Constitutional development",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Constitutional development | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The separation of powers theory was developed by",
+    "opts": [
+      "Rousseau",
+      "Hobbes",
+      "Locke",
+      "Montesquieu"
+    ],
+    "ans": 3,
+    "explanation": "Montesquieu proposed separation of powers.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A written constitution is one that is",
+    "opts": [
+      "Documented in a single document",
+      "Based on customs only",
+      "Verbal",
+      "Unwritten"
+    ],
+    "ans": 0,
+    "explanation": "A written constitution is contained in a document.",
+    "topic": "Constitutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Constitutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The arm of government that makes laws is the",
+    "opts": [
+      "Executive",
+      "Legislature",
+      "Civil service",
+      "Judiciary"
+    ],
+    "ans": 1,
+    "explanation": "The legislature makes laws.",
+    "topic": "Organs of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Organs of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Sovereignty is the",
+    "opts": [
+      "Supreme power of a state",
+      "Power of the church",
+      "Power of the army",
+      "Power of the rich"
+    ],
+    "ans": 0,
+    "explanation": "Sovereignty is supreme authority within a territory.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The United Nations was founded in",
+    "opts": [
+      "1960",
+      "1945",
+      "1948",
+      "1919"
+    ],
+    "ans": 1,
+    "explanation": "The UN was founded in 1945.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The local government is the",
+    "opts": [
+      "First tier",
+      "Fourth tier",
+      "Third tier of government",
+      "Second tier"
+    ],
+    "ans": 2,
+    "explanation": "Local government is the third tier.",
+    "topic": "Local government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Local government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The political ideology that supports gradual reform is",
+    "opts": [
+      "Social democracy",
+      "Revolution",
+      "Fascism",
+      "Anarchism"
+    ],
+    "ans": 0,
+    "explanation": "Social democracy favours gradual reform.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Fascism is a system in which the state has",
+    "opts": [
+      "No control",
+      "Total control",
+      "Limited control",
+      "Shared control"
+    ],
+    "ans": 1,
+    "explanation": "Fascism gives the state total control.",
+    "topic": "Basic concepts of government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Basic concepts of government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A multi-party system is a system in which",
+    "opts": [
+      "One party rules",
+      "Two parties dominate",
+      "Many parties compete",
+      "No party exists"
+    ],
+    "ans": 2,
+    "explanation": "Multi-party systems have many competing parties.",
+    "topic": "Political parties",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Political parties | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A person who owes allegiance to a state is a",
+    "opts": [
+      "Immigrant",
+      "Foreigner",
+      "Refugee",
+      "Citizen"
+    ],
+    "ans": 3,
+    "explanation": "A citizen owes allegiance to the state.",
+    "topic": "Citizenship",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Citizenship | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A one-party system is a system in which",
+    "opts": [
+      "Two parties compete",
+      "No party exists",
+      "Many parties compete",
+      "Only one party is allowed"
+    ],
+    "ans": 3,
+    "explanation": "A one-party system allows only one party.",
+    "topic": "Political parties",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Political parties | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The headquarters of the African Union is in",
+    "opts": [
+      "Pretoria",
+      "Addis Ababa",
+      "Nairobi",
+      "Cairo"
+    ],
+    "ans": 1,
+    "explanation": "The AU headquarters is in Addis Ababa.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The head of the old Oyo Empire was the",
+    "opts": [
+      "Obi",
+      "Alaafin",
+      "Oba of Benin",
+      "Emir"
+    ],
+    "ans": 1,
+    "explanation": "The Alaafin ruled Oyo.",
+    "topic": "Pre-colonial political systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Pre-colonial political systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The policy of creating states in Nigeria began with the creation of 12 states in",
+    "opts": [
+      "1987",
+      "1976",
+      "1967",
+      "1960"
+    ],
+    "ans": 2,
+    "explanation": "Twelve states were created in 1967.",
+    "topic": "Constitutional development",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Constitutional development | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The head of the Benin Kingdom was the",
+    "opts": [
+      "Oba",
+      "Eze",
+      "Alaafin",
+      "Emir"
+    ],
+    "ans": 0,
+    "explanation": "The Oba ruled Benin.",
+    "topic": "Pre-colonial political systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Pre-colonial political systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The British policy of ruling through traditional rulers was",
+    "opts": [
+      "Assimilation",
+      "Direct rule",
+      "Indirect rule",
+      "Association"
+    ],
+    "ans": 2,
+    "explanation": "Indirect rule used traditional rulers.",
+    "topic": "Colonial administration",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Colonial administration | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A referendum is a",
+    "opts": [
+      "Direct vote by the people on an issue",
+      "Court decision",
+      "Vote by the legislature",
+      "Election of a president"
+    ],
+    "ans": 0,
+    "explanation": "A referendum is a direct popular vote.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

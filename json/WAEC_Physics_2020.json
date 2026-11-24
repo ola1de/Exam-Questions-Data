@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Which of the following is a luminous body?",
+    "opts": [
+      "A book",
+      "The Moon",
+      "A mirror",
+      "The Sun"
+    ],
+    "ans": 3,
+    "explanation": "The Sun produces its own light; the Moon only reflects it.",
+    "topic": "Light",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Light | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following waves is electromagnetic?",
+    "opts": [
+      "X-rays",
+      "Water waves",
+      "Sound waves",
+      "Seismic waves"
+    ],
+    "ans": 0,
+    "explanation": "X-rays are electromagnetic waves; sound and water waves are mechanical.",
+    "topic": "Waves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Waves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is an insulator?",
+    "opts": [
+      "Copper",
+      "Rubber",
+      "Iron",
+      "Aluminium"
+    ],
+    "ans": 1,
+    "explanation": "Rubber does not conduct electricity.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The centre of gravity of a uniform rod is at its",
+    "opts": [
+      "Quarter point",
+      "End",
+      "Midpoint",
+      "Centre of mass only if loaded"
+    ],
+    "ans": 2,
+    "explanation": "For a uniform rod the centre of gravity is at its midpoint.",
+    "topic": "Equilibrium",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Equilibrium | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The SI unit of pressure is the",
+    "opts": [
+      "Pascal",
+      "Newton",
+      "Watt",
+      "Joule"
+    ],
+    "ans": 0,
+    "explanation": "Pressure is measured in pascals (Pa).",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Potential energy of a body depends on its",
+    "opts": [
+      "Speed",
+      "Volume",
+      "Temperature",
+      "Height above a reference level"
+    ],
+    "ans": 3,
+    "explanation": "PE = mgh depends on height.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A body starts with velocity 5 m/s and accelerates at 2 m/s² for 5 s. Find the distance covered.",
+    "opts": [
+      "50 m",
+      "55 m",
+      "45 m",
+      "10 m"
+    ],
+    "ans": 0,
+    "explanation": "s = ut + ½at² = 5×5 + ½×2×5² = 50 m.",
+    "topic": "Motion: equations of motion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Motion: equations of motion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which mirror is used as a driving mirror in vehicles?",
+    "opts": [
+      "Parabolic mirror",
+      "Concave mirror",
+      "Plane mirror",
+      "Convex mirror"
+    ],
+    "ans": 3,
+    "explanation": "A convex mirror gives a wide field of view and diminished images.",
+    "topic": "Light: reflection",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Light: reflection | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of these is a magnetic material?",
+    "opts": [
+      "Aluminium",
+      "Copper",
+      "Iron",
+      "Wood"
+    ],
+    "ans": 2,
+    "explanation": "Iron is ferromagnetic.",
+    "topic": "Magnetism",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Magnetism | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The image formed by a plane mirror is",
+    "opts": [
+      "Real, inverted and magnified",
+      "Real, erect and same size",
+      "Virtual, erect and same size",
+      "Virtual, inverted and diminished"
+    ],
+    "ans": 2,
+    "explanation": "A plane mirror forms a virtual, erect image the same size as the object.",
+    "topic": "Light: reflection",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Light: reflection | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ohm's law states that current is",
+    "opts": [
+      "Directly proportional to voltage",
+      "Independent of voltage",
+      "Inversely proportional to voltage",
+      "Equal to voltage"
+    ],
+    "ans": 0,
+    "explanation": "V = IR, so at constant resistance current is directly proportional to voltage.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The fixed points on the Celsius scale are",
+    "opts": [
+      "32°C and 212°C",
+      "-273°C and 0°C",
+      "0°C and 100°C",
+      "0°C and 50°C"
+    ],
+    "ans": 2,
+    "explanation": "Ice point is 0°C and steam point is 100°C.",
+    "topic": "Heat: thermometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Heat: thermometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 3 Ω and 2 Ω are connected in series. Find the total resistance.",
+    "opts": [
+      "5 Ω",
+      "1 Ω",
+      "6 Ω",
+      "None of the above"
+    ],
+    "ans": 0,
+    "explanation": "In series R = R1 + R2 = 3 + 2 = 5 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The SI unit of electric charge is the",
+    "opts": [
+      "Ampere",
+      "Ohm",
+      "Volt",
+      "Coulomb"
+    ],
+    "ans": 3,
+    "explanation": "Charge is measured in coulombs (C).",
+    "topic": "Electrostatics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Electrostatics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 6 Ω and 12 Ω are connected in parallel. Find the total resistance.",
+    "opts": [
+      "18 Ω",
+      "4 Ω",
+      "12 Ω",
+      "72 Ω"
+    ],
+    "ans": 1,
+    "explanation": "1/R = 1/6 + 1/12, so R = 4 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The SI unit of energy is the",
+    "opts": [
+      "Newton",
+      "Watt",
+      "Volt",
+      "Joule"
+    ],
+    "ans": 3,
+    "explanation": "Energy and work are measured in joules (J).",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a fundamental quantity?",
+    "opts": [
+      "Length",
+      "Power",
+      "Velocity",
+      "Force"
+    ],
+    "ans": 0,
+    "explanation": "Length is one of the seven fundamental quantities in the SI system.",
+    "topic": "Fundamental and derived quantities",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Fundamental and derived quantities | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The time taken for one complete oscillation is called the",
+    "opts": [
+      "Amplitude",
+      "Frequency",
+      "Period",
+      "Wavelength"
+    ],
+    "ans": 2,
+    "explanation": "Period is the time for one complete cycle.",
+    "topic": "Simple harmonic motion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Simple harmonic motion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The SI unit of magnetic flux density is the",
+    "opts": [
+      "Weber",
+      "Tesla",
+      "Henry",
+      "Ampere"
+    ],
+    "ans": 1,
+    "explanation": "Magnetic flux density is measured in tesla (T).",
+    "topic": "Magnetism",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Magnetism | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 6 Ω and 4 Ω are connected in parallel. Find the total resistance.",
+    "opts": [
+      "10 Ω",
+      "6 Ω",
+      "24 Ω",
+      "12/5 Ω"
+    ],
+    "ans": 3,
+    "explanation": "1/R = 1/6 + 1/4, so R = 12/5 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The phenomenon of light bending as it passes from one medium to another is",
+    "opts": [
+      "Refraction",
+      "Reflection",
+      "Dispersion",
+      "Diffraction"
+    ],
+    "ans": 0,
+    "explanation": "Refraction is the bending of light at a boundary between media.",
+    "topic": "Light: refraction",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Light: refraction | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 4 Ω and 12 Ω are connected in parallel. Find the total resistance.",
+    "opts": [
+      "3 Ω",
+      "12 Ω",
+      "48 Ω",
+      "16 Ω"
+    ],
+    "ans": 0,
+    "explanation": "1/R = 1/4 + 1/12, so R = 3 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The speed of a wave is the product of its frequency and its",
+    "opts": [
+      "Period",
+      "Energy",
+      "Wavelength",
+      "Amplitude"
+    ],
+    "ans": 2,
+    "explanation": "v = fλ.",
+    "topic": "Waves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Waves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 2 Ω and 3 Ω are connected in series. Find the total resistance.",
+    "opts": [
+      "1 Ω",
+      "5 Ω",
+      "6 Ω",
+      "None of the above"
+    ],
+    "ans": 1,
+    "explanation": "In series R = R1 + R2 = 2 + 3 = 5 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a scalar quantity?",
+    "opts": [
+      "Speed",
+      "Acceleration",
+      "Force",
+      "Velocity"
+    ],
+    "ans": 0,
+    "explanation": "Speed has magnitude only, so it is a scalar.",
+    "topic": "Scalars and vectors",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Scalars and vectors | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 4 Ω and 6 Ω are connected in parallel. Find the total resistance.",
+    "opts": [
+      "10 Ω",
+      "12/5 Ω",
+      "24 Ω",
+      "6 Ω"
+    ],
+    "ans": 1,
+    "explanation": "1/R = 1/4 + 1/6, so R = 12/5 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The colour of light with the shortest wavelength in the visible spectrum is",
+    "opts": [
+      "Violet",
+      "Red",
+      "Yellow",
+      "Green"
+    ],
+    "ans": 0,
+    "explanation": "Violet has the shortest visible wavelength.",
+    "topic": "Waves: light",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Waves: light | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 3 Ω and 4 Ω are connected in series. Find the total resistance.",
+    "opts": [
+      "1 Ω",
+      "12 Ω",
+      "8 Ω",
+      "7 Ω"
+    ],
+    "ans": 3,
+    "explanation": "In series R = R1 + R2 = 3 + 4 = 7 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The resistance of a wire increases when its",
+    "opts": [
+      "Length decreases",
+      "Cross-sectional area increases",
+      "Length increases",
+      "Temperature decreases"
+    ],
+    "ans": 2,
+    "explanation": "R = ρl/A: longer wire means more resistance.",
+    "topic": "Current electricity: resistance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity: resistance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a derived unit?",
+    "opts": [
+      "Newton",
+      "Kilogram",
+      "Second",
+      "Metre"
+    ],
+    "ans": 0,
+    "explanation": "The newton is derived from kg·m/s².",
+    "topic": "Fundamental and derived quantities",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Fundamental and derived quantities | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a good conductor of electricity?",
+    "opts": [
+      "Rubber",
+      "Wood",
+      "Glass",
+      "Copper"
+    ],
+    "ans": 3,
+    "explanation": "Copper has free electrons and conducts electricity well.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The process of a solid changing directly to gas is",
+    "opts": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Melting"
+    ],
+    "ans": 2,
+    "explanation": "Sublimation is solid to gas without melting.",
+    "topic": "Heat: change of state",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Heat: change of state | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Total internal reflection occurs when light travels from a",
+    "opts": [
+      "Less dense to a denser medium",
+      "Denser to a less dense medium",
+      "Vacuum to air",
+      "Glass to water only"
+    ],
+    "ans": 1,
+    "explanation": "Total internal reflection needs denser to rarer medium beyond the critical angle.",
+    "topic": "Light: refraction",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Light: refraction | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main function of a fuse in a circuit is to",
+    "opts": [
+      "Store charge",
+      "Protect the circuit from excess current",
+      "Reduce resistance",
+      "Increase the voltage"
+    ],
+    "ans": 1,
+    "explanation": "A fuse melts and breaks the circuit when current exceeds its rating.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 5 Ω and 5 Ω are connected in series. Find the total resistance.",
+    "opts": [
+      "11 Ω",
+      "0 Ω",
+      "25 Ω",
+      "10 Ω"
+    ],
+    "ans": 3,
+    "explanation": "In series R = R1 + R2 = 5 + 5 = 10 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The process by which a liquid changes to vapour at any temperature is",
+    "opts": [
+      "Sublimation",
+      "Evaporation",
+      "Fusion",
+      "Condensation"
+    ],
+    "ans": 1,
+    "explanation": "Evaporation is the change from liquid to vapour at the surface, at any temperature.",
+    "topic": "Heat: change of state",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Heat: change of state | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The image formed in a pinhole camera is",
+    "opts": [
+      "Magnified only",
+      "Inverted",
+      "Erect",
+      "Virtual"
+    ],
+    "ans": 1,
+    "explanation": "A pinhole camera forms a real inverted image.",
+    "topic": "Light",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Light | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The instrument used to measure potential difference is the",
+    "opts": [
+      "Ammeter",
+      "Ohmmeter",
+      "Voltmeter",
+      "Barometer"
+    ],
+    "ans": 2,
+    "explanation": "A voltmeter measures potential difference in volts.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 4 Ω and 5 Ω are connected in series. Find the total resistance.",
+    "opts": [
+      "10 Ω",
+      "1 Ω",
+      "20 Ω",
+      "9 Ω"
+    ],
+    "ans": 3,
+    "explanation": "In series R = R1 + R2 = 4 + 5 = 9 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Sound is an example of a",
+    "opts": [
+      "Electromagnetic wave",
+      "Surface wave",
+      "Longitudinal wave",
+      "Transverse wave"
+    ],
+    "ans": 2,
+    "explanation": "Sound travels as a longitudinal wave.",
+    "topic": "Waves: sound",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Waves: sound | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The device used to step up or step down alternating voltage is the",
+    "opts": [
+      "Capacitor",
+      "Transformer",
+      "Inductor",
+      "Rectifier"
+    ],
+    "ans": 1,
+    "explanation": "A transformer changes AC voltage levels.",
+    "topic": "Electromagnetic induction",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Electromagnetic induction | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The north pole of a magnet repels the",
+    "opts": [
+      "South pole of another magnet",
+      "North pole of another magnet",
+      "Earth's north pole",
+      "Iron filings"
+    ],
+    "ans": 1,
+    "explanation": "Like poles repel.",
+    "topic": "Magnetism",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Magnetism | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The density of a substance is defined as its",
+    "opts": [
+      "Mass per unit area",
+      "Mass per unit volume",
+      "Volume per unit mass",
+      "Weight per unit volume"
+    ],
+    "ans": 1,
+    "explanation": "Density = mass/volume.",
+    "topic": "Matter: density",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Matter: density | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The speed of sound in air at room temperature is about",
+    "opts": [
+      "150 m/s",
+      "1500 m/s",
+      "3000 m/s",
+      "340 m/s"
+    ],
+    "ans": 3,
+    "explanation": "Sound travels at about 340 m/s in air.",
+    "topic": "Waves: sound",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Waves: sound | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The boiling point of pure water at standard atmospheric pressure is",
+    "opts": [
+      "100°C",
+      "80°C",
+      "90°C",
+      "120°C"
+    ],
+    "ans": 0,
+    "explanation": "Pure water boils at 100°C at standard atmospheric pressure.",
+    "topic": "Heat",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Heat | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The centre of gravity of a body is the point where",
+    "opts": [
+      "Its mass is zero",
+      "Friction acts",
+      "It balances on a knife edge only",
+      "Its whole weight acts"
+    ],
+    "ans": 3,
+    "explanation": "Weight is taken to act at the centre of gravity.",
+    "topic": "Equilibrium",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Equilibrium | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The nucleus of an atom contains",
+    "opts": [
+      "Electrons and protons",
+      "Electrons only",
+      "Protons and neutrons",
+      "Protons only"
+    ],
+    "ans": 2,
+    "explanation": "The nucleus contains protons and neutrons.",
+    "topic": "Atomic structure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Atomic structure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The temperature at which a gas has zero volume in Charles' law is",
+    "opts": [
+      "-100°C",
+      "Absolute zero (-273°C)",
+      "100°C",
+      "0°C"
+    ],
+    "ans": 1,
+    "explanation": "Absolute zero is -273°C (0 K).",
+    "topic": "Gas laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Gas laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Nuclear fusion is the joining of",
+    "opts": [
+      "Electrons and protons",
+      "Heavy nuclei",
+      "Light nuclei",
+      "Atoms and molecules"
+    ],
+    "ans": 2,
+    "explanation": "Fusion joins light nuclei, as in the Sun.",
+    "topic": "Atomic and nuclear physics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Atomic and nuclear physics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The unit of moment of a force is the",
+    "opts": [
+      "Newton-metre",
+      "Kilogram-metre",
+      "Newton per metre",
+      "Joule per second"
+    ],
+    "ans": 0,
+    "explanation": "Moment = force × distance, in N·m.",
+    "topic": "Moments",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Moments | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

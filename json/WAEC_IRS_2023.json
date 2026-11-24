@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The noon prayer is called",
+    "opts": [
+      "Asr",
+      "Dhuhr",
+      "Fajr",
+      "Maghrib"
+    ],
+    "ans": 1,
+    "explanation": "Dhuhr is the noon prayer.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The night on which the Qur'an was first revealed is",
+    "opts": [
+      "Laylat al-Jumu'ah",
+      "Laylat al-Miraj",
+      "Laylat al-Qadr",
+      "Laylat al-Bara'ah"
+    ],
+    "ans": 2,
+    "explanation": "Laylat al-Qadr is the Night of Power.",
+    "topic": "Revelation of the Qur'an",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Revelation of the Qur'an | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Tajwid is the science of the",
+    "opts": [
+      "Translation of the Qur'an",
+      "Writing of the Qur'an",
+      "Correct recitation of the Qur'an",
+      "History of the Qur'an"
+    ],
+    "ans": 2,
+    "explanation": "Tajwid governs correct recitation.",
+    "topic": "Introduction to Tajwid",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Introduction to Tajwid | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Caliph who standardised the Qur'an text was",
+    "opts": [
+      "Ali",
+      "Umar",
+      "Abu Bakr",
+      "Uthman"
+    ],
+    "ans": 3,
+    "explanation": "Uthman standardised the text.",
+    "topic": "Preservation of the Qur'an",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Preservation of the Qur'an | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Prophet is buried in",
+    "opts": [
+      "Ta'if",
+      "Madinah",
+      "Jerusalem",
+      "Makkah"
+    ],
+    "ans": 1,
+    "explanation": "The Prophet is buried in Madinah.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Prophet Muhammad (SAW) died in",
+    "opts": [
+      "622 CE",
+      "570 CE",
+      "632 CE",
+      "610 CE"
+    ],
+    "ans": 2,
+    "explanation": "The Prophet died in 632 CE.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The articles of faith in Islam are",
+    "opts": [
+      "Four",
+      "Five",
+      "Seven",
+      "Six"
+    ],
+    "ans": 3,
+    "explanation": "There are six articles of faith.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The first month of the Islamic calendar is",
+    "opts": [
+      "Shawwal",
+      "Ramadan",
+      "Muharram",
+      "Dhul-Hijjah"
+    ],
+    "ans": 2,
+    "explanation": "Muharram is the first month.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Hajj is performed in the city of",
+    "opts": [
+      "Madinah",
+      "Cairo",
+      "Jerusalem",
+      "Makkah"
+    ],
+    "ans": 3,
+    "explanation": "Hajj is performed in Makkah.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Prophet Muhammad (SAW) was born in the year",
+    "opts": [
+      "622 CE",
+      "570 CE",
+      "632 CE",
+      "570 BCE"
+    ],
+    "ans": 1,
+    "explanation": "The Prophet was born in 570 CE, the Year of the Elephant.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The prophet who received the Tawrat is",
+    "opts": [
+      "Ibrahim",
+      "Isa",
+      "Dawud",
+      "Musa"
+    ],
+    "ans": 3,
+    "explanation": "Musa received the Tawrat.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Ka'bah is located in",
+    "opts": [
+      "Baghdad",
+      "Makkah",
+      "Jerusalem",
+      "Madinah"
+    ],
+    "ans": 1,
+    "explanation": "The Ka'bah is in Makkah.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The night prayer is called",
+    "opts": [
+      "Fajr",
+      "Dhuhr",
+      "Maghrib",
+      "Isha"
+    ],
+    "ans": 3,
+    "explanation": "Isha is the night prayer.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Prophet received the first revelation at the age of",
+    "opts": [
+      "25",
+      "33",
+      "40",
+      "63"
+    ],
+    "ans": 2,
+    "explanation": "The Prophet was 40 at the first revelation.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Qur'an was revealed to Prophet Muhammad (SAW) over a period of approximately",
+    "opts": [
+      "40 years",
+      "23 years",
+      "10 years",
+      "13 years"
+    ],
+    "ans": 1,
+    "explanation": "The revelation lasted 23 years.",
+    "topic": "Revelation of the Qur'an",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Revelation of the Qur'an | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The famous Islamic scholar of Timbuktu was",
+    "opts": [
+      "Muhammed Bello",
+      "Ahmed Baba",
+      "Usman dan Fodio",
+      "El-Kanemi"
+    ],
+    "ans": 1,
+    "explanation": "Ahmed Baba was a scholar of Timbuktu.",
+    "topic": "Islam in West Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Islam in West Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The third pillar of Islam is",
+    "opts": [
+      "Zakat",
+      "Hajj",
+      "Salat",
+      "Sawm"
+    ],
+    "ans": 0,
+    "explanation": "Zakat is almsgiving.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Qur'anic school for children is called the",
+    "opts": [
+      "Madrasah",
+      "University",
+      "Library",
+      "Mosque only"
+    ],
+    "ans": 0,
+    "explanation": "A madrasah is a Qur'anic school.",
+    "topic": "Islam in West Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Islam in West Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The first word revealed to the Prophet was",
+    "opts": [
+      "'Give'",
+      "'Pray'",
+      "'Iqra' (Read)",
+      "'Fast'"
+    ],
+    "ans": 2,
+    "explanation": "The first revealed word was 'Iqra' (Read).",
+    "topic": "Revelation of the Qur'an",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Revelation of the Qur'an | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The prophet who was thrown into the fire is",
+    "opts": [
+      "Musa",
+      "Yusuf",
+      "Nuh",
+      "Ibrahim"
+    ],
+    "ans": 3,
+    "explanation": "Ibrahim was thrown into the fire.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The first mosque built in Islam was",
+    "opts": [
+      "Al-Aqsa",
+      "Quba Mosque",
+      "Ka'bah",
+      "Prophet's Mosque"
+    ],
+    "ans": 1,
+    "explanation": "Quba Mosque was the first mosque.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Islamic law is called the",
+    "opts": [
+      "Sunnah",
+      "Shari'ah",
+      "Hadith",
+      "Fiqh only"
+    ],
+    "ans": 1,
+    "explanation": "Shari'ah is Islamic law.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Hijrah (migration) to Madinah took place in",
+    "opts": [
+      "622 CE",
+      "632 CE",
+      "570 CE",
+      "610 CE"
+    ],
+    "ans": 0,
+    "explanation": "The Hijrah was in 622 CE.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Prophet's first wife was",
+    "opts": [
+      "Hafsah",
+      "Aisha",
+      "Khadijah",
+      "Sawdah"
+    ],
+    "ans": 2,
+    "explanation": "Khadijah was the Prophet's first wife.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The battle of Badr took place in",
+    "opts": [
+      "624 CE",
+      "625 CE",
+      "627 CE",
+      "622 CE"
+    ],
+    "ans": 0,
+    "explanation": "Badr was fought in 624 CE.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The first revelation to Prophet Muhammad (SAW) was in the cave of",
+    "opts": [
+      "Quba",
+      "Hira",
+      "Thawr",
+      "Uhud"
+    ],
+    "ans": 1,
+    "explanation": "The first revelation came in Cave Hira.",
+    "topic": "Revelation of the Qur'an",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Revelation of the Qur'an | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The second Caliph was",
+    "opts": [
+      "Umar ibn al-Khattab",
+      "Ali",
+      "Abu Bakr",
+      "Uthman"
+    ],
+    "ans": 0,
+    "explanation": "Umar was the second Caliph.",
+    "topic": "The Khulafa'ur-Rashidin",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The Khulafa'ur-Rashidin | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The sunset prayer is called",
+    "opts": [
+      "Fajr",
+      "Asr",
+      "Isha",
+      "Maghrib"
+    ],
+    "ans": 3,
+    "explanation": "Maghrib is the sunset prayer.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The month of fasting is the",
+    "opts": [
+      "Twelfth month",
+      "First month",
+      "Tenth month",
+      "Ninth month of the Islamic calendar"
+    ],
+    "ans": 3,
+    "explanation": "Ramadan is the ninth month.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Sadaqah is",
+    "opts": [
+      "Prayer",
+      "Voluntary charity",
+      "Fasting",
+      "Compulsory alms"
+    ],
+    "ans": 1,
+    "explanation": "Sadaqah is voluntary giving.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Zakat is paid on wealth at the rate of",
+    "opts": [
+      "2.5%",
+      "1%",
+      "5%",
+      "10%"
+    ],
+    "ans": 0,
+    "explanation": "Zakat is 2.5% of qualifying wealth.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The festival that marks the end of Ramadan is",
+    "opts": [
+      "Eid al-Adha",
+      "Mawlid",
+      "Ashura",
+      "Eid al-Fitr"
+    ],
+    "ans": 3,
+    "explanation": "Eid al-Fitr ends Ramadan.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Qur'an has",
+    "opts": [
+      "110 Surahs",
+      "114 Surahs",
+      "116 Surahs",
+      "99 Surahs"
+    ],
+    "ans": 1,
+    "explanation": "The Qur'an has 114 Surahs.",
+    "topic": "Revelation of the Qur'an",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Revelation of the Qur'an | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Muslims pray",
+    "opts": [
+      "Five times a day",
+      "Three times a day",
+      "Once a day",
+      "Seven times a day"
+    ],
+    "ans": 0,
+    "explanation": "There are five daily prayers.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The festival during Hajj is",
+    "opts": [
+      "Ashura",
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Mawlid"
+    ],
+    "ans": 2,
+    "explanation": "Eid al-Adha is the festival of sacrifice.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Muslims fast in the month of",
+    "opts": [
+      "Ramadan",
+      "Dhul-Hijjah",
+      "Shawwal",
+      "Muharram"
+    ],
+    "ans": 0,
+    "explanation": "Fasting is in Ramadan.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The angel who brought revelation to the Prophet was",
+    "opts": [
+      "Jibril",
+      "Malik",
+      "Israfil",
+      "Mikail"
+    ],
+    "ans": 0,
+    "explanation": "Jibril brought the revelation.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The second pillar of Islam is",
+    "opts": [
+      "Sawm",
+      "Zakat",
+      "Hajj",
+      "Salat"
+    ],
+    "ans": 3,
+    "explanation": "Salat is the daily prayer.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Islamic calendar begins with the",
+    "opts": [
+      "Death of the Prophet",
+      "Birth of the Prophet",
+      "Hijrah",
+      "First revelation"
+    ],
+    "ans": 2,
+    "explanation": "The Islamic calendar starts from the Hijrah.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The oneness of Allah is called",
+    "opts": [
+      "Tawhid",
+      "Shirk",
+      "Fiqh",
+      "Iman"
+    ],
+    "ans": 0,
+    "explanation": "Tawhid is the oneness of Allah.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The farewell sermon of the Prophet was delivered on",
+    "opts": [
+      "Mount Uhud",
+      "Mount Hira",
+      "Mount Thawr",
+      "Mount Arafat"
+    ],
+    "ans": 3,
+    "explanation": "The farewell sermon was on Mount Arafat.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The first pillar of Islam is the",
+    "opts": [
+      "Sawm",
+      "Zakat",
+      "Shahadah",
+      "Salat"
+    ],
+    "ans": 2,
+    "explanation": "Shahadah is the declaration of faith.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Islam was introduced to West Africa mainly through",
+    "opts": [
+      "Colonisation",
+      "Missionaries",
+      "War only",
+      "Trade"
+    ],
+    "ans": 3,
+    "explanation": "Islam spread through trans-Saharan trade.",
+    "topic": "Islam in West Africa",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Islam in West Africa | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The call to prayer is called the",
+    "opts": [
+      "Khutbah",
+      "Dhikr",
+      "Iqamah",
+      "Adhan"
+    ],
+    "ans": 3,
+    "explanation": "The Adhan is the call to prayer.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Friday congregational prayer is called",
+    "opts": [
+      "Taraweeh",
+      "Eid",
+      "Jumu'ah",
+      "Tahajjud"
+    ],
+    "ans": 2,
+    "explanation": "Jumu'ah is the Friday prayer.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Tayammum is performed when",
+    "opts": [
+      "Water is not available",
+      "One is fasting",
+      "One is travelling only",
+      "One is sick only"
+    ],
+    "ans": 0,
+    "explanation": "Tayammum uses clean earth when water is unavailable.",
+    "topic": "Tawhid and Fiqh",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Tawhid and Fiqh | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The third Caliph was",
+    "opts": [
+      "Abu Bakr",
+      "Ali",
+      "Uthman ibn Affan",
+      "Umar"
+    ],
+    "ans": 2,
+    "explanation": "Uthman was the third Caliph.",
+    "topic": "The Khulafa'ur-Rashidin",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The Khulafa'ur-Rashidin | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Prophet Muhammad (SAW) was born in",
+    "opts": [
+      "Makkah",
+      "Madinah",
+      "Ta'if",
+      "Jerusalem"
+    ],
+    "ans": 0,
+    "explanation": "The Prophet was born in Makkah.",
+    "topic": "The life of Prophet Muhammad (SAW)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: The life of Prophet Muhammad (SAW) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The first Surah revealed was",
+    "opts": [
+      "Al-Baqarah",
+      "Al-'Alaq",
+      "Al-Nas",
+      "Al-Fatihah"
+    ],
+    "ans": 1,
+    "explanation": "Surat Al-'Alaq was the first revealed Surah.",
+    "topic": "Revelation of the Qur'an",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Revelation of the Qur'an | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Surah known as the heart of the Qur'an is",
+    "opts": [
+      "Al-Ikhlas",
+      "Ya-Sin",
+      "Al-Fatihah",
+      "Al-Baqarah"
+    ],
+    "ans": 1,
+    "explanation": "Ya-Sin is called the heart of the Qur'an.",
+    "topic": "Revelation of the Qur'an",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Revelation of the Qur'an | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

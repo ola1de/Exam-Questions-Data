@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Kí ni ìtumọ̀ 'ọmọbìnrin' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "nose",
+      "eye",
+      "girl",
+      "water"
+    ],
+    "ans": 2,
+    "explanation": "'ọmọbìnrin' na nufin 'girl' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'leg' ní èdè Yorùbá?",
+    "opts": [
+      "ẹsẹ̀",
+      "pupa",
+      "ẹnu",
+      "fúnfun"
+    ],
+    "ans": 0,
+    "explanation": "'ẹsẹ̀' ita ce kalmar Yoruba ta 'leg'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ta ni ó kọ ìwé 'The Lion and the Jewel'?",
+    "opts": [
+      "D. O. Fagunwa",
+      "Chinua Achebe",
+      "Wole Soyinka",
+      "Ola Rotimi"
+    ],
+    "ans": 2,
+    "explanation": "'The Lion and the Jewel' was written by Wole Soyinka.",
+    "topic": "Written literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Written literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Òwe Yorùbá 'Òwe l'ẹ̀ṣin ọ̀rọ̀' túmọ̀ sí pé",
+    "opts": [
+      "Òwe kò ṣe pàtàkì",
+      "Òwe ni ẹ̀ṣin ọ̀rọ̀",
+      "Ọ̀rọ̀ ni ẹ̀ṣin òwe",
+      "Ọ̀rọ̀ kò ní òwe"
+    ],
+    "ans": 1,
+    "explanation": "The proverb means 'a proverb is the horse of speech'.",
+    "topic": "Oral literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Oral literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'ẹsẹ̀' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "leg",
+      "elephant",
+      "white",
+      "boy"
+    ],
+    "ans": 0,
+    "explanation": "'ẹsẹ̀' na nufin 'leg' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'hand' ní èdè Yorùbá?",
+    "opts": [
+      "ọkùnrin",
+      "ológbo",
+      "búlù",
+      "ọwọ́"
+    ],
+    "ans": 3,
+    "explanation": "'ọwọ́' ita ce kalmar Yoruba ta 'hand'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'yam' ní èdè Yorùbá?",
+    "opts": [
+      "Ẹ̀gẹ́",
+      "Àgbàdo",
+      "Ọ̀gẹ̀dẹ̀",
+      "Iṣu"
+    ],
+    "ans": 3,
+    "explanation": "'Iṣu' means yam in Yoruba.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'nose' ní èdè Yorùbá?",
+    "opts": [
+      "màmá",
+      "fúnfun",
+      "imú",
+      "pupa"
+    ],
+    "ans": 2,
+    "explanation": "'imú' ita ce kalmar Yoruba ta 'nose'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'white' ní èdè Yorùbá?",
+    "opts": [
+      "fúnfun",
+      "pupa",
+      "obìnrin",
+      "erin"
+    ],
+    "ans": 0,
+    "explanation": "'fúnfun' ita ce kalmar Yoruba ta 'white'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'ẹnu' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "mouth",
+      "goat",
+      "hen",
+      "hand"
+    ],
+    "ans": 0,
+    "explanation": "'ẹnu' na nufin 'mouth' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'green' ní èdè Yorùbá?",
+    "opts": [
+      "aláwọ̀ ewé",
+      "kìnìún",
+      "ẹsẹ̀",
+      "ọkùnrin"
+    ],
+    "ans": 0,
+    "explanation": "'aláwọ̀ ewé' ita ce kalmar Yoruba ta 'green'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'girl' ní èdè Yorùbá?",
+    "opts": [
+      "ọmọbìnrin",
+      "ẹṣin",
+      "màlúù",
+      "fúnfun"
+    ],
+    "ans": 0,
+    "explanation": "'ọmọbìnrin' ita ce kalmar Yoruba ta 'girl'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ọ̀rọ̀ wo ni ó jẹ́ 'verb' ní èdè Yorùbá?",
+    "opts": [
+      "Àpèjúwe",
+      "Ọ̀rọ̀-orúkọ",
+      "Ọ̀rọ̀-àsọjú-orúkọ",
+      "Ọ̀rọ̀-ìṣe"
+    ],
+    "ans": 3,
+    "explanation": "'Ọ̀rọ̀-ìṣe' is a verb in Yoruba.",
+    "topic": "Grammar",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Grammar | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìkíni ọ̀sán ní èdè Yorùbá?",
+    "opts": [
+      "Ẹ n lẹ",
+      "Ẹ káàsán",
+      "Ẹ káàrọ̀",
+      "Ẹ kù ìrólẹ̀"
+    ],
+    "ans": 1,
+    "explanation": "'Ẹ káàsán' is the afternoon greeting in Yoruba.",
+    "topic": "Greeting",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Greeting | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ọ̀rọ̀ wo ni ó jẹ́ 'noun' ní èdè Yorùbá?",
+    "opts": [
+      "Ọ̀rọ̀-orúkọ",
+      "Ọ̀rọ̀-ìṣe",
+      "Àpèjúwe",
+      "Ọ̀rọ̀-àsọjú-orúkọ"
+    ],
+    "ans": 0,
+    "explanation": "'Ọ̀rọ̀-orúkọ' is a noun in Yoruba.",
+    "topic": "Grammar",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Grammar | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'lion' ní èdè Yorùbá?",
+    "opts": [
+      "ẹsẹ̀",
+      "bàbá",
+      "kìnìún",
+      "obìnrin"
+    ],
+    "ans": 2,
+    "explanation": "'kìnìún' ita ce kalmar Yoruba ta 'lion'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'man' ní èdè Yorùbá?",
+    "opts": [
+      "aláwọ̀ ewé",
+      "ọkùnrin",
+      "fúnfun",
+      "ewúré"
+    ],
+    "ans": 1,
+    "explanation": "'ọkùnrin' ita ce kalmar Yoruba ta 'man'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ẹ̀yà wo ni Yorùbá pín ènìyàn sí?",
+    "opts": [
+      "Ara, ẹ̀jẹ̀ àti egungun",
+      "Ara àti ẹ̀mí nìkan",
+      "Ara, ẹ̀mí àti orí",
+      "Orí nìkan"
+    ],
+    "ans": 2,
+    "explanation": "Yoruba divides a person into ara (body), ẹ̀mí (soul) and orí (destiny).",
+    "topic": "Customs",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Customs | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'ajá' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "hen",
+      "dog",
+      "woman",
+      "leg"
+    ],
+    "ans": 1,
+    "explanation": "'ajá' na nufin 'dog' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'twelve' ní èdè Yorùbá?",
+    "opts": [
+      "ẹ̀ẹ́sàn",
+      "èèjì",
+      "ogún",
+      "èèjìlá"
+    ],
+    "ans": 3,
+    "explanation": "'twelve' ní èdè Yorùbá ni 'èèjìlá'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'cow' ní èdè Yorùbá?",
+    "opts": [
+      "búlù",
+      "màlúù",
+      "obìnrin",
+      "ewúré"
+    ],
+    "ans": 1,
+    "explanation": "'màlúù' ita ce kalmar Yoruba ta 'cow'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'water' ní èdè Yorùbá?",
+    "opts": [
+      "kìnìún",
+      "omi",
+      "ọwọ́",
+      "pupa"
+    ],
+    "ans": 1,
+    "explanation": "'omi' ita ce kalmar Yoruba ta 'water'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'adìẹ' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "lion",
+      "red",
+      "hen",
+      "mother"
+    ],
+    "ans": 2,
+    "explanation": "'adìẹ' na nufin 'hen' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'màmá' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "lion",
+      "mother",
+      "nose",
+      "sun"
+    ],
+    "ans": 1,
+    "explanation": "'màmá' na nufin 'mother' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'yellow' ní èdè Yorùbá?",
+    "opts": [
+      "òfèéfèé",
+      "omi",
+      "aláwọ̀ ewé",
+      "pupa"
+    ],
+    "ans": 0,
+    "explanation": "'òfèéfèé' ita ce kalmar Yoruba ta 'yellow'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'nine' ní èdè Yorùbá?",
+    "opts": [
+      "ẹ̀ẹ́ta",
+      "ọ̀ọ́kanlá",
+      "àárùn",
+      "ẹ̀ẹ́sàn"
+    ],
+    "ans": 3,
+    "explanation": "'nine' ní èdè Yorùbá ni 'ẹ̀ẹ́sàn'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'mother' ní èdè Yorùbá?",
+    "opts": [
+      "òfèéfèé",
+      "fúnfun",
+      "búlù",
+      "màmá"
+    ],
+    "ans": 3,
+    "explanation": "'màmá' ita ce kalmar Yoruba ta 'mother'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'pupa' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "girl",
+      "red",
+      "cow",
+      "eye"
+    ],
+    "ans": 1,
+    "explanation": "'pupa' na nufin 'red' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'school' ní èdè Yorùbá?",
+    "opts": [
+      "Ilé-ẹ̀kọ́",
+      "Ọjà",
+      "Ilé",
+      "Ilé-ìwòsàn"
+    ],
+    "ans": 0,
+    "explanation": "'Ilé-ẹ̀kọ́' means school in Yoruba.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'aláwọ̀ ewé' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "dog",
+      "father",
+      "green",
+      "goat"
+    ],
+    "ans": 2,
+    "explanation": "'aláwọ̀ ewé' na nufin 'green' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'ojú' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "yellow",
+      "hen",
+      "woman",
+      "eye"
+    ],
+    "ans": 3,
+    "explanation": "'ojú' na nufin 'eye' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'six' ní èdè Yorùbá?",
+    "opts": [
+      "ogún",
+      "èèje",
+      "ẹ̀ẹ́wáà",
+      "ẹ̀ẹ́fà"
+    ],
+    "ans": 3,
+    "explanation": "'six' ní èdè Yorùbá ni 'ẹ̀ẹ́fà'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìkíni ìrọ̀lẹ́ ní èdè Yorùbá?",
+    "opts": [
+      "Ẹ n lẹ",
+      "Ẹ kù ìrólẹ̀",
+      "Ẹ káàsán",
+      "Ẹ káàrọ̀"
+    ],
+    "ans": 1,
+    "explanation": "'Ẹ kù ìrólẹ̀' is the evening greeting in Yoruba.",
+    "topic": "Greeting",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Greeting | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'elephant' ní èdè Yorùbá?",
+    "opts": [
+      "ajá",
+      "erin",
+      "oòrùn",
+      "ọkùnrin"
+    ],
+    "ans": 1,
+    "explanation": "'erin' ita ce kalmar Yoruba ta 'elephant'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'Monday' ní èdè Yorùbá?",
+    "opts": [
+      "Ọjọ́bọ̀",
+      "Ọjọ́ Ajé",
+      "Ọjọ́rú",
+      "Ọjọ́ Ìṣẹ́gun"
+    ],
+    "ans": 1,
+    "explanation": "'Ọjọ́ Ajé' is Monday in Yoruba.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'one' ní èdè Yorùbá?",
+    "opts": [
+      "èèjì",
+      "ẹ̀ẹ́wáà",
+      "èèjìlá",
+      "òòkan"
+    ],
+    "ans": 3,
+    "explanation": "'one' ní èdè Yorùbá ni 'òòkan'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'goat' ní èdè Yorùbá?",
+    "opts": [
+      "ẹsẹ̀",
+      "dúdú",
+      "ewúré",
+      "ojú"
+    ],
+    "ans": 2,
+    "explanation": "'ewúré' ita ce kalmar Yoruba ta 'goat'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'hen' ní èdè Yorùbá?",
+    "opts": [
+      "búlù",
+      "oòrùn",
+      "adìẹ",
+      "bàbá"
+    ],
+    "ans": 2,
+    "explanation": "'adìẹ' ita ce kalmar Yoruba ta 'hen'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'bàbá' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "father",
+      "mouth",
+      "cat",
+      "sun"
+    ],
+    "ans": 0,
+    "explanation": "'bàbá' na nufin 'father' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìkíni òwúrọ̀ ní èdè Yorùbá?",
+    "opts": [
+      "Ẹ káàrọ̀",
+      "Ẹ káàsán",
+      "Ẹ n lẹ",
+      "Ẹ kù ìrólẹ̀"
+    ],
+    "ans": 0,
+    "explanation": "'Ẹ káàrọ̀' is the morning greeting in Yoruba.",
+    "topic": "Greeting",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Greeting | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'sun' ní èdè Yorùbá?",
+    "opts": [
+      "búlù",
+      "oòrùn",
+      "omi",
+      "ajá"
+    ],
+    "ans": 1,
+    "explanation": "'oòrùn' ita ce kalmar Yoruba ta 'sun'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'òfèéfèé' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "leg",
+      "boy",
+      "nose",
+      "yellow"
+    ],
+    "ans": 3,
+    "explanation": "'òfèéfèé' na nufin 'yellow' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'four' ní èdè Yorùbá?",
+    "opts": [
+      "ẹ̀ẹ́ta",
+      "èèje",
+      "òòkan",
+      "ẹ̀ẹ́rin"
+    ],
+    "ans": 3,
+    "explanation": "'four' ní èdè Yorùbá ni 'ẹ̀ẹ́rin'.",
+    "topic": "Numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'ewúré' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "eye",
+      "woman",
+      "goat",
+      "hand"
+    ],
+    "ans": 2,
+    "explanation": "'ewúré' na nufin 'goat' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni ìtumọ̀ 'búlù' ní èdè Gẹ̀ẹ́sì?",
+    "opts": [
+      "nose",
+      "blue",
+      "cat",
+      "sun"
+    ],
+    "ans": 1,
+    "explanation": "'búlù' na nufin 'blue' da Turanci.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'house' ní èdè Yorùbá?",
+    "opts": [
+      "Ilé-ìwòsàn",
+      "Ilé-ẹ̀kọ́",
+      "Ilé",
+      "Ọjà"
+    ],
+    "ans": 2,
+    "explanation": "'Ilé' means house in Yoruba.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Àmì ohun Yorùbá mélòó ni?",
+    "opts": [
+      "Mẹ́ta",
+      "Mẹ́rin",
+      "Márùn-ún",
+      "Méjì"
+    ],
+    "ans": 0,
+    "explanation": "Yoruba has three tones: low, mid and high.",
+    "topic": "Sound system",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Sound system | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'red' ní èdè Yorùbá?",
+    "opts": [
+      "ọwọ́",
+      "ojú",
+      "ológbo",
+      "pupa"
+    ],
+    "ans": 3,
+    "explanation": "'pupa' ita ce kalmar Yoruba ta 'red'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Kí ni 'horse' ní èdè Yorùbá?",
+    "opts": [
+      "fúnfun",
+      "búlù",
+      "ẹṣin",
+      "òfèéfèé"
+    ],
+    "ans": 2,
+    "explanation": "'ẹṣin' ita ce kalmar Yoruba ta 'horse'.",
+    "topic": "Vocabulary",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Vocabulary | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ta ni ó kọ ìwé 'Olèkù'?",
+    "opts": [
+      "Akinwumi Isola",
+      "D. O. Fagunwa",
+      "Wole Soyinka",
+      "Kola Akinlade"
+    ],
+    "ans": 0,
+    "explanation": "'Olèkù' was written by Akinwumi Isola.",
+    "topic": "Written literature",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Written literature | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

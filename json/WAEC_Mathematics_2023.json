@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Simplify √4.",
+    "opts": [
+      "12",
+      "22",
+      "3",
+      "2"
+    ],
+    "ans": 3,
+    "explanation": "√4 = 2 since 2 × 2 = 4.",
+    "topic": "Number and numeration: surds",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Number and numeration: surds | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² + 0x - 25 = 0.",
+    "opts": [
+      "x = -5 or x = 5",
+      "x = 5 or x = -5",
+      "x = 5 or x = 5",
+      "x = -5 or x = -5"
+    ],
+    "ans": 1,
+    "explanation": "Factorising: (x - 5)(x - -5) = 0, so x = 5 or x = -5.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 9x + 20 = 0.",
+    "opts": [
+      "x = 4 or x = -5",
+      "x = 4 or x = 5",
+      "x = -4 or x = 5",
+      "x = -4 or x = -5"
+    ],
+    "ans": 1,
+    "explanation": "Factorising: (x - 4)(x - 5) = 0, so x = 4 or x = 5.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 8 when x = 1, find y when x = 5.",
+    "opts": [
+      "190",
+      "200",
+      "160",
+      "205"
+    ],
+    "ans": 1,
+    "explanation": "y = 8x², so when x = 5, y = 8 × 5² = 200.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 48° and 49°. Find the third angle.",
+    "opts": [
+      "98",
+      "53",
+      "73",
+      "83°"
+    ],
+    "ans": 3,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 48 - 49 = 83°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 10 when x = 1, find y when x = 5.",
+    "opts": [
+      "248",
+      "250",
+      "246",
+      "265"
+    ],
+    "ans": 1,
+    "explanation": "y = 10x², so when x = 5, y = 10 × 5² = 250.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Share ₦600 in the ratio 2:3. Find the larger share.",
+    "opts": [
+      "₦360",
+      "₦300",
+      "₦290",
+      "₦240"
+    ],
+    "ans": 0,
+    "explanation": "Total parts = 5; each part = ₦120.",
+    "topic": "Ratio, proportion and rate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Ratio, proportion and rate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Share ₦500 in the ratio 6:4. Find the smaller share.",
+    "opts": [
+      "₦200",
+      "₦100",
+      "₦300",
+      "₦350"
+    ],
+    "ans": 0,
+    "explanation": "Total parts = 10; each part = ₦50.",
+    "topic": "Ratio, proportion and rate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Ratio, proportion and rate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Share ₦600 in the ratio 6:4. Find the smaller share.",
+    "opts": [
+      "₦240",
+      "₦60",
+      "₦360",
+      "₦300"
+    ],
+    "ans": 0,
+    "explanation": "Total parts = 10; each part = ₦60.",
+    "topic": "Ratio, proportion and rate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Ratio, proportion and rate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² + 0x - 9 = 0.",
+    "opts": [
+      "x = -3 or x = -3",
+      "x = 3 or x = -3",
+      "x = 3 or x = 3",
+      "x = -3 or x = 3"
+    ],
+    "ans": 3,
+    "explanation": "Factorising: (x - -3)(x - 3) = 0, so x = -3 or x = 3.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 60, n(A) = 22, n(B) = 28 and n(A ∪ B) = 42, find n(A ∩ B).",
+    "opts": [
+      "38",
+      "4",
+      "10",
+      "8"
+    ],
+    "ans": 3,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 42 = 22 + 28 - n(A ∩ B); n(A ∩ B) = 8.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve for x: log8 = 3 (base 2).",
+    "opts": [
+      "12",
+      "9",
+      "8",
+      "28"
+    ],
+    "ans": 2,
+    "explanation": "x = 2^3 = 8.",
+    "topic": "Algebra: logarithms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: logarithms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 5 when x = 1, find y when x = 2.",
+    "opts": [
+      "14",
+      "22",
+      "0",
+      "20"
+    ],
+    "ans": 3,
+    "explanation": "y = 5x², so when x = 2, y = 5 × 2² = 20.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 75° and 67°. Find the third angle.",
+    "opts": [
+      "30",
+      "18",
+      "36",
+      "38°"
+    ],
+    "ans": 3,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 75 - 67 = 38°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve for x: log625 = 4 (base 5).",
+    "opts": [
+      "622",
+      "665",
+      "625",
+      "621"
+    ],
+    "ans": 2,
+    "explanation": "x = 5^4 = 625.",
+    "topic": "Algebra: logarithms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: logarithms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Share ₦300 in the ratio 2:4. Find the larger share.",
+    "opts": [
+      "₦50",
+      "₦150",
+      "₦100",
+      "₦200"
+    ],
+    "ans": 3,
+    "explanation": "Total parts = 6; each part = ₦50.",
+    "topic": "Ratio, proportion and rate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Ratio, proportion and rate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Simplify √25.",
+    "opts": [
+      "6",
+      "3",
+      "5",
+      "10"
+    ],
+    "ans": 2,
+    "explanation": "√25 = 5 since 5 × 5 = 25.",
+    "topic": "Number and numeration: surds",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Number and numeration: surds | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 11 when x = 1, find y when x = 3.",
+    "opts": [
+      "79",
+      "114",
+      "99",
+      "98"
+    ],
+    "ans": 2,
+    "explanation": "y = 11x², so when x = 3, y = 11 × 3² = 99.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 60, n(A) = 22, n(B) = 27 and n(A ∪ B) = 36, find n(A ∩ B).",
+    "opts": [
+      "16",
+      "13",
+      "33",
+      "11"
+    ],
+    "ans": 1,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 36 = 22 + 27 - n(A ∩ B); n(A ∩ B) = 13.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 69° and 47°. Find the third angle.",
+    "opts": [
+      "69",
+      "114",
+      "64°",
+      "67"
+    ],
+    "ans": 2,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 69 - 47 = 64°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 30° and 76°. Find the third angle.",
+    "opts": [
+      "76",
+      "74°",
+      "104",
+      "70"
+    ],
+    "ans": 1,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 30 - 76 = 74°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 69° and 48°. Find the third angle.",
+    "opts": [
+      "63°",
+      "60",
+      "67",
+      "66"
+    ],
+    "ans": 0,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 69 - 48 = 63°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 4x - 12 = 0.",
+    "opts": [
+      "x = 2 or x = 6",
+      "x = -2 or x = 6",
+      "x = 2 or x = -6",
+      "x = -2 or x = -6"
+    ],
+    "ans": 1,
+    "explanation": "Factorising: (x - -2)(x - 6) = 0, so x = -2 or x = 6.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 61° and 61°. Find the third angle.",
+    "opts": [
+      "98",
+      "88",
+      "108",
+      "58°"
+    ],
+    "ans": 3,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 61 - 61 = 58°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 6x + 8 = 0.",
+    "opts": [
+      "x = 2 or x = 4",
+      "x = -2 or x = -4",
+      "x = 2 or x = -4",
+      "x = -2 or x = 4"
+    ],
+    "ans": 0,
+    "explanation": "Factorising: (x - 2)(x - 4) = 0, so x = 2 or x = 4.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 7x + 6 = 0.",
+    "opts": [
+      "x = -1 or x = -6",
+      "x = -1 or x = 6",
+      "x = 1 or x = -6",
+      "x = 1 or x = 6"
+    ],
+    "ans": 3,
+    "explanation": "Factorising: (x - 1)(x - 6) = 0, so x = 1 or x = 6.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² + 1x - 2 = 0.",
+    "opts": [
+      "x = -2 or x = 1",
+      "x = 2 or x = -1",
+      "x = 2 or x = 1",
+      "x = -2 or x = -1"
+    ],
+    "ans": 0,
+    "explanation": "Factorising: (x - -2)(x - 1) = 0, so x = -2 or x = 1.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 43° and 42°. Find the third angle.",
+    "opts": [
+      "100",
+      "98",
+      "103",
+      "95°"
+    ],
+    "ans": 3,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 43 - 42 = 95°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 43° and 72°. Find the third angle.",
+    "opts": [
+      "45",
+      "75",
+      "65°",
+      "85"
+    ],
+    "ans": 2,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 43 - 72 = 65°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 12 when x = 1, find y when x = 6.",
+    "opts": [
+      "435",
+      "412",
+      "432",
+      "417"
+    ],
+    "ans": 2,
+    "explanation": "y = 12x², so when x = 6, y = 12 × 6² = 432.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 2x - 24 = 0.",
+    "opts": [
+      "x = 6 or x = -4",
+      "x = -6 or x = -4",
+      "x = -6 or x = 4",
+      "x = 6 or x = 4"
+    ],
+    "ans": 0,
+    "explanation": "Factorising: (x - 6)(x - -4) = 0, so x = 6 or x = -4.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve for x: log25 = 2 (base 5).",
+    "opts": [
+      "24",
+      "25",
+      "28",
+      "29"
+    ],
+    "ans": 1,
+    "explanation": "x = 5^2 = 25.",
+    "topic": "Algebra: logarithms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: logarithms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Share ₦600 in the ratio 2:4. Find the larger share.",
+    "opts": [
+      "₦200",
+      "₦250",
+      "₦400",
+      "₦100"
+    ],
+    "ans": 2,
+    "explanation": "Total parts = 6; each part = ₦100.",
+    "topic": "Ratio, proportion and rate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Ratio, proportion and rate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 4 when x = 1, find y when x = 3.",
+    "opts": [
+      "36",
+      "44",
+      "38",
+      "34"
+    ],
+    "ans": 0,
+    "explanation": "y = 4x², so when x = 3, y = 4 × 3² = 36.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 5x + 6 = 0.",
+    "opts": [
+      "x = -3 or x = 2",
+      "x = -3 or x = -2",
+      "x = 3 or x = -2",
+      "x = 3 or x = 2"
+    ],
+    "ans": 3,
+    "explanation": "Factorising: (x - 3)(x - 2) = 0, so x = 3 or x = 2.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 55° and 31°. Find the third angle.",
+    "opts": [
+      "84",
+      "94°",
+      "114",
+      "74"
+    ],
+    "ans": 1,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 55 - 31 = 94°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve for x: log27 = 3 (base 3).",
+    "opts": [
+      "24",
+      "27",
+      "7",
+      "25"
+    ],
+    "ans": 1,
+    "explanation": "x = 3^3 = 27.",
+    "topic": "Algebra: logarithms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: logarithms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 2 when x = 1, find y when x = 6.",
+    "opts": [
+      "72",
+      "67",
+      "82",
+      "47"
+    ],
+    "ans": 0,
+    "explanation": "y = 2x², so when x = 6, y = 2 × 6² = 72.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 41° and 39°. Find the third angle.",
+    "opts": [
+      "101",
+      "100°",
+      "104",
+      "105"
+    ],
+    "ans": 1,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 41 - 39 = 100°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Solve the equation x² - 4x + 3 = 0.",
+    "opts": [
+      "x = 1 or x = -3",
+      "x = -1 or x = -3",
+      "x = 1 or x = 3",
+      "x = -1 or x = 3"
+    ],
+    "ans": 2,
+    "explanation": "Factorising: (x - 1)(x - 3) = 0, so x = 1 or x = 3.",
+    "topic": "Algebra: quadratic equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: quadratic equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 72° and 77°. Find the third angle.",
+    "opts": [
+      "30",
+      "31°",
+      "29",
+      "27"
+    ],
+    "ans": 1,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 72 - 77 = 31°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 11 when x = 1, find y when x = 5.",
+    "opts": [
+      "275",
+      "300",
+      "279",
+      "225"
+    ],
+    "ans": 0,
+    "explanation": "y = 11x², so when x = 5, y = 11 × 5² = 275.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 50° and 77°. Find the third angle.",
+    "opts": [
+      "13",
+      "48",
+      "53°",
+      "103"
+    ],
+    "ans": 2,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 50 - 77 = 53°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 37° and 30°. Find the third angle.",
+    "opts": [
+      "108",
+      "73",
+      "113°",
+      "98"
+    ],
+    "ans": 2,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 37 - 30 = 113°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 60° and 79°. Find the third angle.",
+    "opts": [
+      "41°",
+      "36",
+      "91",
+      "39"
+    ],
+    "ans": 0,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 60 - 79 = 41°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 35° and 63°. Find the third angle.",
+    "opts": [
+      "92",
+      "82°",
+      "80",
+      "52"
+    ],
+    "ans": 1,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 35 - 63 = 82°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Share ₦900 in the ratio 6:3. Find the smaller share.",
+    "opts": [
+      "₦300",
+      "₦600",
+      "₦200",
+      "₦100"
+    ],
+    "ans": 0,
+    "explanation": "Total parts = 9; each part = ₦100.",
+    "topic": "Ratio, proportion and rate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Ratio, proportion and rate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two angles of a triangle are 78° and 67°. Find the third angle.",
+    "opts": [
+      "35°",
+      "37",
+      "40",
+      "5"
+    ],
+    "ans": 0,
+    "explanation": "Angles in a triangle sum to 180°: 180 - 78 - 67 = 35°.",
+    "topic": "Geometry: angles in a triangle",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Geometry: angles in a triangle | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Share ₦300 in the ratio 3:2. Find the smaller share.",
+    "opts": [
+      "₦230",
+      "₦60",
+      "₦150",
+      "₦120"
+    ],
+    "ans": 3,
+    "explanation": "Total parts = 5; each part = ₦60.",
+    "topic": "Ratio, proportion and rate",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Ratio, proportion and rate | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "y varies directly as the square of x. If y = 5 when x = 1, find y when x = 5.",
+    "opts": [
+      "120",
+      "133",
+      "125",
+      "126"
+    ],
+    "ans": 2,
+    "explanation": "y = 5x², so when x = 5, y = 5 × 5² = 125.",
+    "topic": "Algebra: variation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Algebra: variation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

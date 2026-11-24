@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Find the volume of a cylinder of radius 14 cm and height 15 cm. [Take π = 22/7]",
+    "opts": [
+      "9086 cm³",
+      "9394 cm³",
+      "9240 cm³",
+      "660 cm³"
+    ],
+    "ans": 2,
+    "explanation": "V = πr²h = 22/7 × 14² × 15 = 9240 cm³.",
+    "topic": "Mensuration: volumes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Mensuration: volumes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 2x + 17 = 31, find the value of x.",
+    "opts": [
+      "7",
+      "9",
+      "22",
+      "11"
+    ],
+    "ans": 0,
+    "explanation": "2x = 31 - 17 = 14, so x = 14/2 = 7.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 4x + 9 = 45, find the value of x.",
+    "opts": [
+      "10",
+      "6",
+      "9",
+      "3"
+    ],
+    "ans": 2,
+    "explanation": "4x = 45 - 9 = 36, so x = 36/4 = 9.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If x + y = 8 and x - y = 0, find the value of x.",
+    "opts": [
+      "9",
+      "2",
+      "4",
+      "14"
+    ],
+    "ans": 2,
+    "explanation": "Adding: 2x = 8, so x = 4.",
+    "topic": "Algebra: simultaneous equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: simultaneous equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the range of 6, 8, 15, 23, 28.",
+    "opts": [
+      "2",
+      "22",
+      "24",
+      "25"
+    ],
+    "ans": 1,
+    "explanation": "Range = highest - lowest = 28 - 6 = 22.",
+    "topic": "Statistics: measures of dispersion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Statistics: measures of dispersion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the range of 1, 11, 13, 19, 20.",
+    "opts": [
+      "20",
+      "29",
+      "9",
+      "19"
+    ],
+    "ans": 3,
+    "explanation": "Range = highest - lowest = 20 - 1 = 19.",
+    "topic": "Statistics: measures of dispersion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Statistics: measures of dispersion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 6x + 16 = 88, find the value of x.",
+    "opts": [
+      "12",
+      "22",
+      "6",
+      "14"
+    ],
+    "ans": 0,
+    "explanation": "6x = 88 - 16 = 72, so x = 72/6 = 12.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the range of 6, 12, 19, 23, 24.",
+    "opts": [
+      "18",
+      "16",
+      "17",
+      "8"
+    ],
+    "ans": 0,
+    "explanation": "Range = highest - lowest = 24 - 6 = 18.",
+    "topic": "Statistics: measures of dispersion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Statistics: measures of dispersion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 7x + 4 = 88, find the value of x.",
+    "opts": [
+      "7",
+      "9",
+      "13",
+      "12"
+    ],
+    "ans": 3,
+    "explanation": "7x = 88 - 4 = 84, so x = 84/7 = 12.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 3x + 23 and y = 35, find x.",
+    "opts": [
+      "6",
+      "24",
+      "2",
+      "4"
+    ],
+    "ans": 3,
+    "explanation": "3x = 35 - 23 = 12, so x = 4.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 3x + 14 = 26, find the value of x.",
+    "opts": [
+      "2",
+      "7",
+      "34",
+      "4"
+    ],
+    "ans": 3,
+    "explanation": "3x = 26 - 14 = 12, so x = 12/3 = 4.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the mean of 6, 2, 2, 6, 19.",
+    "opts": [
+      "9",
+      "1",
+      "7",
+      "10"
+    ],
+    "ans": 2,
+    "explanation": "Sum = 35; mean = 35/5 = 7.",
+    "topic": "Statistics: measures of central tendency",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Statistics: measures of central tendency | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 2x + 15 = 39, find the value of x.",
+    "opts": [
+      "16",
+      "12",
+      "42",
+      "6"
+    ],
+    "ans": 1,
+    "explanation": "2x = 39 - 15 = 24, so x = 24/2 = 12.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 5x + 25 and y = 55, find x.",
+    "opts": [
+      "11",
+      "8",
+      "6",
+      "7"
+    ],
+    "ans": 2,
+    "explanation": "5x = 55 - 25 = 30, so x = 6.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 40, n(A) = 27, n(B) = 20 and n(A ∪ B) = 39, find n(A ∩ B).",
+    "opts": [
+      "13",
+      "8",
+      "7",
+      "23"
+    ],
+    "ans": 1,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 39 = 27 + 20 - n(A ∩ B); n(A ∩ B) = 8.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 5x + 6 = 56, find the value of x.",
+    "opts": [
+      "10",
+      "5",
+      "12",
+      "8"
+    ],
+    "ans": 0,
+    "explanation": "5x = 56 - 6 = 50, so x = 50/5 = 10.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 6x + 14 and y = 62, find x.",
+    "opts": [
+      "18",
+      "12",
+      "8",
+      "6"
+    ],
+    "ans": 2,
+    "explanation": "6x = 62 - 14 = 48, so x = 8.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 9x + 6 = 51, find the value of x.",
+    "opts": [
+      "2",
+      "10",
+      "7",
+      "5"
+    ],
+    "ans": 3,
+    "explanation": "9x = 51 - 6 = 45, so x = 45/9 = 5.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 3x + 4 = 16, find the value of x.",
+    "opts": [
+      "4",
+      "7",
+      "10",
+      "0"
+    ],
+    "ans": 0,
+    "explanation": "3x = 16 - 4 = 12, so x = 12/3 = 4.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the range of 2, 4, 6, 12, 24.",
+    "opts": [
+      "22",
+      "18",
+      "17",
+      "16"
+    ],
+    "ans": 0,
+    "explanation": "Range = highest - lowest = 24 - 2 = 22.",
+    "topic": "Statistics: measures of dispersion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Statistics: measures of dispersion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the mean of 4, 9, 2, 10, 10.",
+    "opts": [
+      "7",
+      "9",
+      "22",
+      "11"
+    ],
+    "ans": 0,
+    "explanation": "Sum = 35; mean = 35/5 = 7.",
+    "topic": "Statistics: measures of central tendency",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Statistics: measures of central tendency | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If x + y = 5 and x - y = -1, find the value of x.",
+    "opts": [
+      "0",
+      "2",
+      "1",
+      "22"
+    ],
+    "ans": 1,
+    "explanation": "Adding: 2x = 4, so x = 2.",
+    "topic": "Algebra: simultaneous equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: simultaneous equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the volume of a cylinder of radius 7 cm and height 15 cm. [Take π = 22/7]",
+    "opts": [
+      "2156 cm³",
+      "2310 cm³",
+      "330 cm³",
+      "2464 cm³"
+    ],
+    "ans": 1,
+    "explanation": "V = πr²h = 22/7 × 7² × 15 = 2310 cm³.",
+    "topic": "Mensuration: volumes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Mensuration: volumes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the range of 1, 14, 15, 17, 20.",
+    "opts": [
+      "4",
+      "29",
+      "21",
+      "19"
+    ],
+    "ans": 3,
+    "explanation": "Range = highest - lowest = 20 - 1 = 19.",
+    "topic": "Statistics: measures of dispersion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Statistics: measures of dispersion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 6x + 14 = 32, find the value of x.",
+    "opts": [
+      "3",
+      "1",
+      "18",
+      "5"
+    ],
+    "ans": 0,
+    "explanation": "6x = 32 - 14 = 18, so x = 18/6 = 3.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 6x + 23 and y = 77, find x.",
+    "opts": [
+      "7",
+      "9",
+      "8",
+      "29"
+    ],
+    "ans": 1,
+    "explanation": "6x = 77 - 23 = 54, so x = 9.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 6x + 2 = 26, find the value of x.",
+    "opts": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "ans": 2,
+    "explanation": "6x = 26 - 2 = 24, so x = 24/6 = 4.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the simple interest on ₦10000 at 12% per annum for 4 years.",
+    "opts": [
+      "₦9600",
+      "₦4900",
+      "₦4800",
+      "₦14800"
+    ],
+    "ans": 2,
+    "explanation": "I = PRT/100 = 10000 × 12 × 4/100 = ₦4800.",
+    "topic": "Financial arithmetic: simple interest",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Financial arithmetic: simple interest | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 2x + 13 = 31, find the value of x.",
+    "opts": [
+      "7",
+      "9",
+      "39",
+      "12"
+    ],
+    "ans": 1,
+    "explanation": "2x = 31 - 13 = 18, so x = 18/2 = 9.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 3x + 7 = 37, find the value of x.",
+    "opts": [
+      "10",
+      "5",
+      "30",
+      "20"
+    ],
+    "ans": 0,
+    "explanation": "3x = 37 - 7 = 30, so x = 30/3 = 10.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 48, n(A) = 24, n(B) = 17 and n(A ∪ B) = 31, find n(A ∩ B).",
+    "opts": [
+      "5",
+      "12",
+      "14",
+      "10"
+    ],
+    "ans": 3,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 31 = 24 + 17 - n(A ∩ B); n(A ∩ B) = 10.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 5x + 15 = 30, find the value of x.",
+    "opts": [
+      "7",
+      "13",
+      "6",
+      "3"
+    ],
+    "ans": 3,
+    "explanation": "5x = 30 - 15 = 15, so x = 15/5 = 3.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the range of 4, 6, 13, 15, 27.",
+    "opts": [
+      "33",
+      "25",
+      "29",
+      "23"
+    ],
+    "ans": 3,
+    "explanation": "Range = highest - lowest = 27 - 4 = 23.",
+    "topic": "Statistics: measures of dispersion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Statistics: measures of dispersion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If x + y = 13 and x - y = 1, find the value of x.",
+    "opts": [
+      "8",
+      "7",
+      "2",
+      "17"
+    ],
+    "ans": 1,
+    "explanation": "Adding: 2x = 14, so x = 7.",
+    "topic": "Algebra: simultaneous equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: simultaneous equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If x + y = 16 and x - y = 0, find the value of x.",
+    "opts": [
+      "28",
+      "10",
+      "8",
+      "4"
+    ],
+    "ans": 2,
+    "explanation": "Adding: 2x = 16, so x = 8.",
+    "topic": "Algebra: simultaneous equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: simultaneous equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 7x + 16 = 100, find the value of x.",
+    "opts": [
+      "14",
+      "10",
+      "12",
+      "17"
+    ],
+    "ans": 2,
+    "explanation": "7x = 100 - 16 = 84, so x = 84/7 = 12.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 2x + 20 = 32, find the value of x.",
+    "opts": [
+      "6",
+      "5",
+      "10",
+      "16"
+    ],
+    "ans": 0,
+    "explanation": "2x = 32 - 20 = 12, so x = 12/2 = 6.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the mean of 9, 20, 9, 17, 15.",
+    "opts": [
+      "18",
+      "17",
+      "16",
+      "14"
+    ],
+    "ans": 3,
+    "explanation": "Sum = 70; mean = 70/5 = 14.",
+    "topic": "Statistics: measures of central tendency",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Statistics: measures of central tendency | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the simple interest on ₦5000 at 8% per annum for 3 years.",
+    "opts": [
+      "₦1200",
+      "₦1300",
+      "₦400",
+      "₦6200"
+    ],
+    "ans": 0,
+    "explanation": "I = PRT/100 = 5000 × 8 × 3/100 = ₦1200.",
+    "topic": "Financial arithmetic: simple interest",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Financial arithmetic: simple interest | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the range of 6, 8, 13, 14, 20.",
+    "opts": [
+      "10",
+      "4",
+      "16",
+      "14"
+    ],
+    "ans": 3,
+    "explanation": "Range = highest - lowest = 20 - 6 = 14.",
+    "topic": "Statistics: measures of dispersion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Statistics: measures of dispersion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 60, n(A) = 24, n(B) = 21 and n(A ∪ B) = 37, find n(A ∩ B).",
+    "opts": [
+      "13",
+      "8",
+      "10",
+      "3"
+    ],
+    "ans": 1,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 37 = 24 + 21 - n(A ∩ B); n(A ∩ B) = 8.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 3x + 12 = 36, find the value of x.",
+    "opts": [
+      "11",
+      "8",
+      "13",
+      "18"
+    ],
+    "ans": 1,
+    "explanation": "3x = 36 - 12 = 24, so x = 24/3 = 8.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If x + y = 7 and x - y = 1, find the value of x.",
+    "opts": [
+      "14",
+      "4",
+      "2",
+      "6"
+    ],
+    "ans": 1,
+    "explanation": "Adding: 2x = 8, so x = 4.",
+    "topic": "Algebra: simultaneous equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: simultaneous equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 2x + 32 and y = 36, find x.",
+    "opts": [
+      "2",
+      "7",
+      "1",
+      "0"
+    ],
+    "ans": 0,
+    "explanation": "2x = 36 - 32 = 4, so x = 2.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the simple interest on ₦1000 at 8% per annum for 4 years.",
+    "opts": [
+      "₦1320",
+      "₦640",
+      "₦220",
+      "₦320"
+    ],
+    "ans": 3,
+    "explanation": "I = PRT/100 = 1000 × 8 × 4/100 = ₦320.",
+    "topic": "Financial arithmetic: simple interest",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Financial arithmetic: simple interest | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 4x + 15 and y = 23, find x.",
+    "opts": [
+      "7",
+      "22",
+      "2",
+      "0"
+    ],
+    "ans": 2,
+    "explanation": "4x = 23 - 15 = 8, so x = 2.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 7x + 20 = 69, find the value of x.",
+    "opts": [
+      "4",
+      "9",
+      "37",
+      "7"
+    ],
+    "ans": 3,
+    "explanation": "7x = 69 - 20 = 49, so x = 49/7 = 7.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a universal set with n(U) = 48, n(A) = 16, n(B) = 24 and n(A ∪ B) = 30, find n(A ∩ B).",
+    "opts": [
+      "0",
+      "10",
+      "8",
+      "20"
+    ],
+    "ans": 1,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B), so 30 = 16 + 24 - n(A ∩ B); n(A ∩ B) = 10.",
+    "topic": "Sets",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Sets | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If 8x + 7 = 79, find the value of x.",
+    "opts": [
+      "9",
+      "11",
+      "3",
+      "29"
+    ],
+    "ans": 0,
+    "explanation": "8x = 79 - 7 = 72, so x = 72/8 = 9.",
+    "topic": "Algebra: linear equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: linear equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If y = 4x + 27 and y = 47, find x.",
+    "opts": [
+      "1",
+      "25",
+      "5",
+      "15"
+    ],
+    "ans": 2,
+    "explanation": "4x = 47 - 27 = 20, so x = 5.",
+    "topic": "Algebra: change of subject",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Algebra: change of subject | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Find the force needed to accelerate a mass of 16 kg at 2 m/s².",
+    "opts": [
+      "18 N",
+      "32 N",
+      "37 N",
+      "27 N"
+    ],
+    "ans": 1,
+    "explanation": "F = ma = 16 × 2 = 32 N.",
+    "topic": "Motion: Newton's laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Motion: Newton's laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the density of a body of mass 40 kg and volume 5 m³.",
+    "opts": [
+      "45 kg/m³",
+      "8 kg/m³",
+      "200 kg/m³",
+      "9 kg/m³"
+    ],
+    "ans": 1,
+    "explanation": "ρ = m/V = 40/5 = 8 kg/m³.",
+    "topic": "Matter: density",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Matter: density | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a luminous body?",
+    "opts": [
+      "A mirror",
+      "The Moon",
+      "A book",
+      "The Sun"
+    ],
+    "ans": 3,
+    "explanation": "The Sun produces its own light; the Moon only reflects it.",
+    "topic": "Light",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Light | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is an insulator?",
+    "opts": [
+      "Copper",
+      "Iron",
+      "Aluminium",
+      "Rubber"
+    ],
+    "ans": 3,
+    "explanation": "Rubber does not conduct electricity.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of these is a renewable source of energy?",
+    "opts": [
+      "Petroleum",
+      "Coal",
+      "Solar energy",
+      "Natural gas"
+    ],
+    "ans": 2,
+    "explanation": "Solar energy is replenished naturally, unlike fossil fuels.",
+    "topic": "Energy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Energy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A wave in which particles vibrate parallel to the direction of travel is a",
+    "opts": [
+      "Electromagnetic wave",
+      "Standing wave",
+      "Longitudinal wave",
+      "Transverse wave"
+    ],
+    "ans": 2,
+    "explanation": "In a longitudinal wave, vibration is along the direction of travel.",
+    "topic": "Waves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Waves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which radiation has the least penetrating power?",
+    "opts": [
+      "Beta particles",
+      "Gamma rays",
+      "Alpha particles",
+      "X-rays"
+    ],
+    "ans": 2,
+    "explanation": "Alpha particles are stopped by paper.",
+    "topic": "Atomic and nuclear physics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Atomic and nuclear physics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the work done when a force of 50 N moves a body 4 m in the direction of the force.",
+    "opts": [
+      "54 J",
+      "200 J",
+      "210 J",
+      "190 J"
+    ],
+    "ans": 1,
+    "explanation": "W = Fd = 50 × 4 = 200 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the weight of a 12 kg mass. [Take g = 10 m/s²]",
+    "opts": [
+      "120 N",
+      "130 N",
+      "12 N",
+      "60 N"
+    ],
+    "ans": 0,
+    "explanation": "W = mg = 12 × 10 = 120 N.",
+    "topic": "Mass and weight",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Mass and weight | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the momentum of a 10 kg body moving at 3 m/s.",
+    "opts": [
+      "30 kg m/s",
+      "28 kg m/s",
+      "13 kg m/s",
+      "32 kg m/s"
+    ],
+    "ans": 0,
+    "explanation": "p = mv = 10 × 3 = 30 kg m/s.",
+    "topic": "Motion: momentum",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Motion: momentum | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A voltmeter is connected in a circuit in",
+    "opts": [
+      "Either way",
+      "Across the battery only",
+      "Parallel",
+      "Series"
+    ],
+    "ans": 2,
+    "explanation": "A voltmeter is connected across (in parallel with) a component.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of these is a semiconductor?",
+    "opts": [
+      "Copper",
+      "Iron",
+      "Glass",
+      "Silicon"
+    ],
+    "ans": 3,
+    "explanation": "Silicon is a semiconductor used in electronics.",
+    "topic": "Electronics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Electronics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Isotopes of an element have the same number of",
+    "opts": [
+      "Electrons only",
+      "Neutrons",
+      "Nucleons",
+      "Protons"
+    ],
+    "ans": 3,
+    "explanation": "Isotopes differ in neutron number but have the same protons.",
+    "topic": "Atomic structure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Atomic structure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A 20 V supply drives a current of 2 A through a resistor. Find its resistance.",
+    "opts": [
+      "11 Ω",
+      "10 Ω",
+      "40 Ω",
+      "22 Ω"
+    ],
+    "ans": 1,
+    "explanation": "R = V/I = 20/2 = 10 Ω.",
+    "topic": "Current electricity: Ohm's law",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity: Ohm's law | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A wave travels at 25 m/s with wavelength 5 m. Find its frequency.",
+    "opts": [
+      "6 Hz",
+      "7 Hz",
+      "5 Hz",
+      "25 Hz"
+    ],
+    "ans": 2,
+    "explanation": "v = fλ, so f = v/λ = 25/5 = 5 Hz.",
+    "topic": "Waves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Waves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the work done when a force of 25 N moves a body 5 m in the direction of the force.",
+    "opts": [
+      "135 J",
+      "115 J",
+      "125 J",
+      "30 J"
+    ],
+    "ans": 2,
+    "explanation": "W = Fd = 25 × 5 = 125 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a source of e.m.f.?",
+    "opts": [
+      "A resistor",
+      "A capacitor",
+      "A battery",
+      "A switch"
+    ],
+    "ans": 2,
+    "explanation": "A battery supplies electromotive force.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Beta particles are",
+    "opts": [
+      "Protons",
+      "Fast-moving electrons",
+      "Helium nuclei",
+      "Gamma rays"
+    ],
+    "ans": 1,
+    "explanation": "Beta radiation consists of high-speed electrons.",
+    "topic": "Atomic and nuclear physics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Atomic and nuclear physics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The speed of light in a vacuum is approximately",
+    "opts": [
+      "3.0 × 10⁸ m/s",
+      "3.0 × 10⁷ m/s",
+      "3.0 × 10⁶ m/s",
+      "3.0 × 10⁹ m/s"
+    ],
+    "ans": 0,
+    "explanation": "Light travels at about 3.0 × 10⁸ m/s in a vacuum.",
+    "topic": "Waves: light",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Waves: light | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 6 Ω and 12 Ω are connected in parallel. Find the total resistance.",
+    "opts": [
+      "72 Ω",
+      "12 Ω",
+      "4 Ω",
+      "18 Ω"
+    ],
+    "ans": 2,
+    "explanation": "1/R = 1/6 + 1/12, so R = 4 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which instrument measures atmospheric pressure?",
+    "opts": [
+      "Hygrometer",
+      "Barometer",
+      "Thermometer",
+      "Altimeter"
+    ],
+    "ans": 1,
+    "explanation": "A barometer measures atmospheric pressure.",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The time taken for one complete oscillation is called the",
+    "opts": [
+      "Wavelength",
+      "Frequency",
+      "Amplitude",
+      "Period"
+    ],
+    "ans": 3,
+    "explanation": "Period is the time for one complete cycle.",
+    "topic": "Simple harmonic motion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Simple harmonic motion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 6 Ω and 4 Ω are connected in parallel. Find the total resistance.",
+    "opts": [
+      "24 Ω",
+      "6 Ω",
+      "12/5 Ω",
+      "10 Ω"
+    ],
+    "ans": 2,
+    "explanation": "1/R = 1/6 + 1/4, so R = 12/5 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A machine does 150 J of useful work from 200 J of input energy. Find its efficiency.",
+    "opts": [
+      "75%",
+      "70%",
+      "25%",
+      "80%"
+    ],
+    "ans": 0,
+    "explanation": "Efficiency = (useful output/input) × 100% = 150/200 × 100% = 75%.",
+    "topic": "Machines and efficiency",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Machines and efficiency | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which colour of light has the longest wavelength?",
+    "opts": [
+      "Red",
+      "Green",
+      "Blue",
+      "Violet"
+    ],
+    "ans": 0,
+    "explanation": "Red light has the longest wavelength in the visible spectrum.",
+    "topic": "Waves: light",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Waves: light | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the force needed to accelerate a mass of 13 kg at 6 m/s².",
+    "opts": [
+      "78 N",
+      "83 N",
+      "73 N",
+      "19 N"
+    ],
+    "ans": 0,
+    "explanation": "F = ma = 13 × 6 = 78 N.",
+    "topic": "Motion: Newton's laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Motion: Newton's laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 4 Ω and 12 Ω are connected in parallel. Find the total resistance.",
+    "opts": [
+      "12 Ω",
+      "3 Ω",
+      "48 Ω",
+      "16 Ω"
+    ],
+    "ans": 1,
+    "explanation": "1/R = 1/4 + 1/12, so R = 3 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the kinetic energy of a 4 kg body moving at 10 m/s.",
+    "opts": [
+      "200 J",
+      "40 J",
+      "400 J",
+      "190 J"
+    ],
+    "ans": 0,
+    "explanation": "KE = ½mv² = ½ × 4 × 10² = 200 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 4 Ω and 6 Ω are connected in parallel. Find the total resistance.",
+    "opts": [
+      "12/5 Ω",
+      "6 Ω",
+      "10 Ω",
+      "24 Ω"
+    ],
+    "ans": 0,
+    "explanation": "1/R = 1/4 + 1/6, so R = 12/5 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is used to measure temperature?",
+    "opts": [
+      "Barometer",
+      "Thermometer",
+      "Ammeter",
+      "Hygrometer"
+    ],
+    "ans": 1,
+    "explanation": "A thermometer measures temperature.",
+    "topic": "Heat: thermometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Heat: thermometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the kinetic energy of a 10 kg body moving at 4 m/s.",
+    "opts": [
+      "160 J",
+      "80 J",
+      "70 J",
+      "90 J"
+    ],
+    "ans": 1,
+    "explanation": "KE = ½mv² = ½ × 10 × 4² = 80 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A body starts with velocity 5 m/s and accelerates at 1 m/s² for 5 s. Find the distance covered.",
+    "opts": [
+      "42 m",
+      "5 m",
+      "37 m",
+      "32 m"
+    ],
+    "ans": 2,
+    "explanation": "s = ut + ½at² = 5×5 + ½×1×5² = 37 m.",
+    "topic": "Motion: equations of motion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Motion: equations of motion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the kinetic energy of a 10 kg body moving at 6 m/s.",
+    "opts": [
+      "60 J",
+      "170 J",
+      "180 J",
+      "360 J"
+    ],
+    "ans": 2,
+    "explanation": "KE = ½mv² = ½ × 10 × 6² = 180 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the weight of a 11 kg mass. [Take g = 10 m/s²]",
+    "opts": [
+      "110 N",
+      "120 N",
+      "11 N",
+      "55 N"
+    ],
+    "ans": 0,
+    "explanation": "W = mg = 11 × 10 = 110 N.",
+    "topic": "Mass and weight",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Mass and weight | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The weight of a body is greatest at the",
+    "opts": [
+      "Moon",
+      "Equator",
+      "Centre of the Earth",
+      "Poles of the Earth"
+    ],
+    "ans": 3,
+    "explanation": "g is slightly greater at the poles, so weight is greatest there.",
+    "topic": "Gravitation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Gravitation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A spring of force constant 50 N/m is extended by 5 cm. Find the force applied. [Use x in metres: 5 cm = 0.05 m]",
+    "opts": [
+      "25.0 N",
+      "55 N",
+      "250 N",
+      "2.5 N"
+    ],
+    "ans": 3,
+    "explanation": "F = kx = 50 × 0.05 = 2.5 N.",
+    "topic": "Elasticity: Hooke's law",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elasticity: Hooke's law | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 4 Ω and 3 Ω are connected in series. Find the total resistance.",
+    "opts": [
+      "1 Ω",
+      "12 Ω",
+      "8 Ω",
+      "7 Ω"
+    ],
+    "ans": 3,
+    "explanation": "In series R = R1 + R2 = 4 + 3 = 7 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the weight of a 3 kg mass. [Take g = 10 m/s²]",
+    "opts": [
+      "15 N",
+      "30 N",
+      "3 N",
+      "40 N"
+    ],
+    "ans": 1,
+    "explanation": "W = mg = 3 × 10 = 30 N.",
+    "topic": "Mass and weight",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Mass and weight | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 5 Ω and 5 Ω are connected in series. Find the total resistance.",
+    "opts": [
+      "0 Ω",
+      "10 Ω",
+      "11 Ω",
+      "25 Ω"
+    ],
+    "ans": 1,
+    "explanation": "In series R = R1 + R2 = 5 + 5 = 10 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A car accelerates from 0 m/s at 2 m/s² for 6 s. Find its final velocity.",
+    "opts": [
+      "2 m/s",
+      "14 m/s",
+      "12 m/s",
+      "10 m/s"
+    ],
+    "ans": 2,
+    "explanation": "v = u + at = 0 + 2 × 6 = 12 m/s.",
+    "topic": "Motion: equations of motion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Motion: equations of motion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the force needed to accelerate a mass of 4 kg at 8 m/s².",
+    "opts": [
+      "12 N",
+      "37 N",
+      "27 N",
+      "32 N"
+    ],
+    "ans": 3,
+    "explanation": "F = ma = 4 × 8 = 32 N.",
+    "topic": "Motion: Newton's laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Motion: Newton's laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A spring of force constant 25 N/m is extended by 4 cm. Find the force applied. [Use x in metres: 4 cm = 0.04 m]",
+    "opts": [
+      "29 N",
+      "1.0 N",
+      "100 N",
+      "10.0 N"
+    ],
+    "ans": 1,
+    "explanation": "F = kx = 25 × 0.04 = 1.0 N.",
+    "topic": "Elasticity: Hooke's law",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elasticity: Hooke's law | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A spring of force constant 50 N/m is extended by 2 cm. Find the force applied. [Use x in metres: 2 cm = 0.02 m]",
+    "opts": [
+      "100 N",
+      "10.0 N",
+      "1.0 N",
+      "52 N"
+    ],
+    "ans": 2,
+    "explanation": "F = kx = 50 × 0.02 = 1.0 N.",
+    "topic": "Elasticity: Hooke's law",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elasticity: Hooke's law | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a unit of power?",
+    "opts": [
+      "Watt",
+      "Pascal",
+      "Newton",
+      "Joule"
+    ],
+    "ans": 0,
+    "explanation": "Power is measured in watts (W).",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The speed of sound in air at room temperature is about",
+    "opts": [
+      "150 m/s",
+      "3000 m/s",
+      "1500 m/s",
+      "340 m/s"
+    ],
+    "ans": 3,
+    "explanation": "Sound travels at about 340 m/s in air.",
+    "topic": "Waves: sound",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Waves: sound | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A body starts with velocity 5 m/s and accelerates at 2 m/s² for 5 s. Find the distance covered.",
+    "opts": [
+      "55 m",
+      "10 m",
+      "45 m",
+      "50 m"
+    ],
+    "ans": 3,
+    "explanation": "s = ut + ½at² = 5×5 + ½×2×5² = 50 m.",
+    "topic": "Motion: equations of motion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Motion: equations of motion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The total resistance of resistors in series is",
+    "opts": [
+      "The reciprocal of the sum",
+      "The sum of the resistances",
+      "Less than the smallest resistance",
+      "The product of the resistances"
+    ],
+    "ans": 1,
+    "explanation": "R = R1 + R2 + ... in series.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the kinetic energy of a 2 kg body moving at 4 m/s.",
+    "opts": [
+      "16 J",
+      "32 J",
+      "6 J",
+      "8 J"
+    ],
+    "ans": 0,
+    "explanation": "KE = ½mv² = ½ × 2 × 4² = 16 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 4 Ω and 4 Ω are connected in parallel. Find the total resistance.",
+    "opts": [
+      "2 Ω",
+      "16 Ω",
+      "8 Ω",
+      "4 Ω"
+    ],
+    "ans": 0,
+    "explanation": "1/R = 1/4 + 1/4, so R = 2 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the kinetic energy of a 10 kg body moving at 10 m/s.",
+    "opts": [
+      "1000 J",
+      "100 J",
+      "510 J",
+      "500 J"
+    ],
+    "ans": 3,
+    "explanation": "KE = ½mv² = ½ × 10 × 10² = 500 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

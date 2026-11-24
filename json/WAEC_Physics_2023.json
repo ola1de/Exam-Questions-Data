@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The total resistance of resistors in parallel is",
+    "opts": [
+      "The sum of the resistances",
+      "Equal to the largest resistance",
+      "Less than the smallest resistance",
+      "Greater than the largest resistance"
+    ],
+    "ans": 2,
+    "explanation": "1/R = 1/R1 + 1/R2 + ..., so total is less than the smallest.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a parallel circuit, the quantity that is the same across each branch is the",
+    "opts": [
+      "Power",
+      "Current",
+      "Voltage",
+      "Resistance"
+    ],
+    "ans": 2,
+    "explanation": "In parallel, voltage is the same across branches.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Nuclear fission is the splitting of a",
+    "opts": [
+      "Heavy nucleus",
+      "Atom into electrons",
+      "Light nucleus",
+      "Molecule"
+    ],
+    "ans": 0,
+    "explanation": "Fission splits a heavy nucleus into lighter ones.",
+    "topic": "Atomic and nuclear physics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Atomic and nuclear physics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following has the highest specific heat capacity?",
+    "opts": [
+      "Aluminium",
+      "Copper",
+      "Iron",
+      "Water"
+    ],
+    "ans": 3,
+    "explanation": "Water has a specific heat capacity of about 4200 J/kg·K.",
+    "topic": "Heat",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Heat | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The loudness of a sound depends on its",
+    "opts": [
+      "Speed",
+      "Frequency",
+      "Amplitude",
+      "Wavelength"
+    ],
+    "ans": 2,
+    "explanation": "Greater amplitude gives louder sound.",
+    "topic": "Waves: sound",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Waves: sound | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Light is an example of a",
+    "opts": [
+      "Longitudinal wave",
+      "Sound wave",
+      "Pressure wave",
+      "Transverse wave"
+    ],
+    "ans": 3,
+    "explanation": "Light is a transverse electromagnetic wave.",
+    "topic": "Waves: light",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Waves: light | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gamma rays are",
+    "opts": [
+      "Electromagnetic waves",
+      "Electrons",
+      "Helium nuclei",
+      "Neutrons"
+    ],
+    "ans": 0,
+    "explanation": "Gamma rays are high-energy electromagnetic radiation.",
+    "topic": "Atomic and nuclear physics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Atomic and nuclear physics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The SI unit of capacitance is the",
+    "opts": [
+      "Farad",
+      "Weber",
+      "Tesla",
+      "Henry"
+    ],
+    "ans": 0,
+    "explanation": "Capacitance is measured in farads (F).",
+    "topic": "Capacitance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Capacitance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the power of a machine that does 100 J of work in 5 s.",
+    "opts": [
+      "20 W",
+      "10 W",
+      "25 W",
+      "500 W"
+    ],
+    "ans": 0,
+    "explanation": "P = W/t = 100/5 = 20 W.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the weight of a 9 kg mass. [Take g = 10 m/s²]",
+    "opts": [
+      "100 N",
+      "45 N",
+      "90 N",
+      "9 N"
+    ],
+    "ans": 2,
+    "explanation": "W = mg = 9 × 10 = 90 N.",
+    "topic": "Mass and weight",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Mass and weight | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the work done when a force of 10 N moves a body 4 m in the direction of the force.",
+    "opts": [
+      "40 J",
+      "30 J",
+      "50 J",
+      "14 J"
+    ],
+    "ans": 0,
+    "explanation": "W = Fd = 10 × 4 = 40 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the power of a machine that does 200 J of work in 10 s.",
+    "opts": [
+      "25 W",
+      "20 W",
+      "13 W",
+      "2000 W"
+    ],
+    "ans": 1,
+    "explanation": "P = W/t = 200/10 = 20 W.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the power of a machine that does 100 J of work in 10 s.",
+    "opts": [
+      "6 W",
+      "15 W",
+      "10 W",
+      "1000 W"
+    ],
+    "ans": 2,
+    "explanation": "P = W/t = 100/10 = 10 W.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The sea breeze is caused by",
+    "opts": [
+      "Reflection",
+      "Radiation",
+      "Convection",
+      "Conduction"
+    ],
+    "ans": 2,
+    "explanation": "Unequal heating of land and sea sets up convection currents.",
+    "topic": "Heat transfer",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Heat transfer | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Long sight (hypermetropia) is corrected with a",
+    "opts": [
+      "Cylindrical lens",
+      "Plane lens",
+      "Concave lens",
+      "Convex lens"
+    ],
+    "ans": 3,
+    "explanation": "A convex lens converges light onto the retina.",
+    "topic": "Light: the eye",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Light: the eye | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The phenomenon of echo is due to",
+    "opts": [
+      "Diffraction of sound",
+      "Refraction of sound",
+      "Interference of sound",
+      "Reflection of sound"
+    ],
+    "ans": 3,
+    "explanation": "An echo is a reflected sound wave.",
+    "topic": "Waves: sound",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Waves: sound | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the pressure exerted by a force of 200 N on an area of 4 m².",
+    "opts": [
+      "4 Pa",
+      "800 Pa",
+      "50 Pa",
+      "55 Pa"
+    ],
+    "ans": 2,
+    "explanation": "P = F/A = 200/4 = 50 Pa.",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The principle of conservation of energy states that energy",
+    "opts": [
+      "Is always lost as heat",
+      "Decreases with time",
+      "Cannot be created or destroyed, only transformed",
+      "Can be created in machines"
+    ],
+    "ans": 2,
+    "explanation": "Energy is conserved; it only changes form.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the power of a machine that does 100 J of work in 20 s.",
+    "opts": [
+      "2000 W",
+      "5 W",
+      "10 W",
+      "4 W"
+    ],
+    "ans": 1,
+    "explanation": "P = W/t = 100/20 = 5 W.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the work done when a force of 50 N moves a body 5 m in the direction of the force.",
+    "opts": [
+      "260 J",
+      "250 J",
+      "55 J",
+      "240 J"
+    ],
+    "ans": 1,
+    "explanation": "W = Fd = 50 × 5 = 250 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The instrument used to measure current is the",
+    "opts": [
+      "Ammeter",
+      "Galvanometer",
+      "Voltmeter",
+      "Ohmmeter"
+    ],
+    "ans": 0,
+    "explanation": "An ammeter measures electric current in amperes.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the power of a machine that does 1000 J of work in 5 s.",
+    "opts": [
+      "100 W",
+      "205 W",
+      "5000 W",
+      "200 W"
+    ],
+    "ans": 3,
+    "explanation": "P = W/t = 1000/5 = 200 W.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the pressure exerted by a force of 100 N on an area of 4 m².",
+    "opts": [
+      "4 Pa",
+      "30 Pa",
+      "25 Pa",
+      "400 Pa"
+    ],
+    "ans": 2,
+    "explanation": "P = F/A = 100/4 = 25 Pa.",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the weight of a 15 kg mass. [Take g = 10 m/s²]",
+    "opts": [
+      "75 N",
+      "160 N",
+      "150 N",
+      "15 N"
+    ],
+    "ans": 2,
+    "explanation": "W = mg = 15 × 10 = 150 N.",
+    "topic": "Mass and weight",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Mass and weight | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the pressure exerted by a force of 400 N on an area of 5 m².",
+    "opts": [
+      "5 Pa",
+      "85 Pa",
+      "80 Pa",
+      "2000 Pa"
+    ],
+    "ans": 2,
+    "explanation": "P = F/A = 400/5 = 80 Pa.",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The refractive index of a medium is the ratio of the speed of light in vacuum to its speed in the",
+    "opts": [
+      "Glass",
+      "Medium",
+      "Air",
+      "Water"
+    ],
+    "ans": 1,
+    "explanation": "n = c/v, where v is the speed in the medium.",
+    "topic": "Light: refraction",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Light: refraction | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The atomic number of an element is the number of",
+    "opts": [
+      "Neutrons",
+      "Protons",
+      "Nucleons",
+      "Electrons and neutrons"
+    ],
+    "ans": 1,
+    "explanation": "Atomic number Z equals the number of protons.",
+    "topic": "Atomic structure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Atomic structure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The SI unit of force is the",
+    "opts": [
+      "Newton",
+      "Joule",
+      "Watt",
+      "Pascal"
+    ],
+    "ans": 0,
+    "explanation": "Force is measured in newtons (N).",
+    "topic": "Fundamental and derived quantities",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Fundamental and derived quantities | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The critical angle is the angle of incidence in the denser medium for which the angle of refraction is",
+    "opts": [
+      "0°",
+      "180°",
+      "90°",
+      "45°"
+    ],
+    "ans": 2,
+    "explanation": "At the critical angle the refracted ray grazes the boundary at 90°.",
+    "topic": "Light: refraction",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Light: refraction | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the pressure exerted by a force of 400 N on an area of 4 m².",
+    "opts": [
+      "105 Pa",
+      "4 Pa",
+      "1600 Pa",
+      "100 Pa"
+    ],
+    "ans": 3,
+    "explanation": "P = F/A = 400/4 = 100 Pa.",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 3 Ω and 5 Ω are connected in series. Find the total resistance.",
+    "opts": [
+      "2 Ω",
+      "8 Ω",
+      "9 Ω",
+      "15 Ω"
+    ],
+    "ans": 1,
+    "explanation": "In series R = R1 + R2 = 3 + 5 = 8 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In a series circuit, the same quantity flows through all components: it is the",
+    "opts": [
+      "Voltage",
+      "Power",
+      "Resistance",
+      "Current"
+    ],
+    "ans": 3,
+    "explanation": "In series, current is the same everywhere.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the pressure exerted by a force of 100 N on an area of 10 m².",
+    "opts": [
+      "10 Pa",
+      "15 Pa",
+      "1000 Pa",
+      "None of the above"
+    ],
+    "ans": 0,
+    "explanation": "P = F/A = 100/10 = 10 Pa.",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The acceleration due to gravity on Earth is approximately",
+    "opts": [
+      "5 m/s²",
+      "10 m/s²",
+      "100 m/s²",
+      "1 m/s²"
+    ],
+    "ans": 1,
+    "explanation": "g is approximately 9.8 m/s², taken as 10 m/s² in school calculations.",
+    "topic": "Motion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Motion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the pressure exerted by a force of 200 N on an area of 5 m².",
+    "opts": [
+      "40 Pa",
+      "5 Pa",
+      "45 Pa",
+      "1000 Pa"
+    ],
+    "ans": 0,
+    "explanation": "P = F/A = 200/5 = 40 Pa.",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The splitting of white light into its colours is called",
+    "opts": [
+      "Polarisation",
+      "Diffraction",
+      "Interference",
+      "Dispersion"
+    ],
+    "ans": 3,
+    "explanation": "Dispersion separates white light into its spectrum.",
+    "topic": "Light",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Light | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the weight of a 10 kg mass. [Take g = 10 m/s²]",
+    "opts": [
+      "50 N",
+      "100 N",
+      "10 N",
+      "110 N"
+    ],
+    "ans": 1,
+    "explanation": "W = mg = 10 × 10 = 100 N.",
+    "topic": "Mass and weight",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Mass and weight | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which gas law relates pressure and volume at constant temperature?",
+    "opts": [
+      "Pressure law",
+      "Boyle's law",
+      "Avogadro's law",
+      "Charles' law"
+    ],
+    "ans": 1,
+    "explanation": "Boyle's law: P ∝ 1/V at constant temperature.",
+    "topic": "Gas laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Gas laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the pressure exerted by a force of 400 N on an area of 2 m².",
+    "opts": [
+      "2 Pa",
+      "205 Pa",
+      "800 Pa",
+      "200 Pa"
+    ],
+    "ans": 3,
+    "explanation": "P = F/A = 400/2 = 200 Pa.",
+    "topic": "Fluids at rest: pressure",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Fluids at rest: pressure | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The half-life of a radioactive substance is the time taken for",
+    "opts": [
+      "All atoms to decay",
+      "Half of the atoms to decay",
+      "The mass to double",
+      "The activity to double"
+    ],
+    "ans": 1,
+    "explanation": "Half-life is the time for half the nuclei to decay.",
+    "topic": "Atomic and nuclear physics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Atomic and nuclear physics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Heat is transferred through a metal rod mainly by",
+    "opts": [
+      "Convection",
+      "Evaporation",
+      "Radiation",
+      "Conduction"
+    ],
+    "ans": 3,
+    "explanation": "Conduction transfers heat through solids by particle vibration.",
+    "topic": "Heat transfer",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Heat transfer | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 5 Ω and 3 Ω are connected in series. Find the total resistance.",
+    "opts": [
+      "2 Ω",
+      "8 Ω",
+      "15 Ω",
+      "9 Ω"
+    ],
+    "ans": 1,
+    "explanation": "In series R = R1 + R2 = 5 + 3 = 8 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the weight of a 20 kg mass. [Take g = 10 m/s²]",
+    "opts": [
+      "200 N",
+      "100 N",
+      "210 N",
+      "20 N"
+    ],
+    "ans": 0,
+    "explanation": "W = mg = 20 × 10 = 200 N.",
+    "topic": "Mass and weight",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Mass and weight | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the power of a machine that does 500 J of work in 20 s.",
+    "opts": [
+      "10000 W",
+      "25 W",
+      "20 W",
+      "30 W"
+    ],
+    "ans": 1,
+    "explanation": "P = W/t = 500/20 = 25 W.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The phenomenon where a wave bends around an obstacle is",
+    "opts": [
+      "Refraction",
+      "Diffraction",
+      "Interference",
+      "Reflection"
+    ],
+    "ans": 1,
+    "explanation": "Diffraction is the spreading of waves around obstacles.",
+    "topic": "Waves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Waves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which radiation has the greatest penetrating power?",
+    "opts": [
+      "Gamma rays",
+      "Infrared rays",
+      "Alpha particles",
+      "Beta particles"
+    ],
+    "ans": 0,
+    "explanation": "Gamma rays penetrate furthest.",
+    "topic": "Atomic and nuclear physics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Atomic and nuclear physics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Two resistors of 6 Ω and 6 Ω are connected in parallel. Find the total resistance.",
+    "opts": [
+      "12 Ω",
+      "6 Ω",
+      "36 Ω",
+      "3 Ω"
+    ],
+    "ans": 3,
+    "explanation": "1/R = 1/6 + 1/6, so R = 3 Ω.",
+    "topic": "Current electricity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Current electricity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The photoelectric effect is the emission of electrons when",
+    "opts": [
+      "Light falls on a metal surface",
+      "A metal is heated",
+      "A metal is cooled",
+      "A current flows"
+    ],
+    "ans": 0,
+    "explanation": "Light of sufficient frequency ejects electrons from a metal.",
+    "topic": "Atomic physics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Atomic physics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the potential energy of a 5 kg body at a height of 5 m above the ground. [Take g = 10 m/s²]",
+    "opts": [
+      "300 J",
+      "25 J",
+      "50 J",
+      "250 J"
+    ],
+    "ans": 3,
+    "explanation": "PE = mgh = 5 × 10 × 5 = 250 J.",
+    "topic": "Work, energy and power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Work, energy and power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the weight of a 13 kg mass. [Take g = 10 m/s²]",
+    "opts": [
+      "65 N",
+      "140 N",
+      "13 N",
+      "130 N"
+    ],
+    "ans": 3,
+    "explanation": "W = mg = 13 × 10 = 130 N.",
+    "topic": "Mass and weight",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Mass and weight | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]
