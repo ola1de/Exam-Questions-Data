@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The green colour on the Nigerian flag represents",
+    "opts": [
+      "Peace",
+      "Agriculture",
+      "Unity",
+      "Blood"
+    ],
+    "ans": 1,
+    "explanation": "Green stands for agriculture and the land.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The agency that regulates road safety in Nigeria is the",
+    "opts": [
+      "Customs",
+      "Immigration",
+      "Police",
+      "Federal Road Safety Corps"
+    ],
+    "ans": 3,
+    "explanation": "FRSC regulates road safety.",
+    "topic": "Traffic rules",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Traffic rules | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "EFCC stands for",
+    "opts": [
+      "Economic and Financial Crimes Commission",
+      "Economic and Financial Crimes Committee",
+      "Economic and Financial Criminals Commission",
+      "Economic and Financial Crimes Council"
+    ],
+    "ans": 0,
+    "explanation": "EFCC = Economic and Financial Crimes Commission.",
+    "topic": "Corruption",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Corruption | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The willingness to work together for a common goal is",
+    "opts": [
+      "Competition",
+      "Rivalry",
+      "Cooperation",
+      "Conflict"
+    ],
+    "ans": 2,
+    "explanation": "Cooperation is working together.",
+    "topic": "Values",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Values | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "AIDS stands for",
+    "opts": [
+      "Acquired Immune Deficiency Syndrome",
+      "Acquired Immunity Deficiency Syndrome",
+      "Acute Immune Deficiency Syndrome",
+      "Advanced Immune Deficiency Syndrome"
+    ],
+    "ans": 0,
+    "explanation": "AIDS = Acquired Immune Deficiency Syndrome.",
+    "topic": "HIV/AIDS",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: HIV/AIDS | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major aim of the NYSC is to promote",
+    "opts": [
+      "Tribalism",
+      "National unity",
+      "Separatism",
+      "Regionalism"
+    ],
+    "ans": 1,
+    "explanation": "NYSC fosters unity among graduates.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A core attribute of honesty is",
+    "opts": [
+      "Integrity",
+      "Selfishness",
+      "Deceit",
+      "Cunning"
+    ],
+    "ans": 0,
+    "explanation": "Integrity means being honest with strong moral principles.",
+    "topic": "Values",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Values | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The coat of arms of Nigeria has an eagle which represents",
+    "opts": [
+      "Unity",
+      "Strength",
+      "Peace",
+      "Agriculture"
+    ],
+    "ans": 1,
+    "explanation": "The eagle stands for strength.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Citizenship acquired through marriage or long residence is by",
+    "opts": [
+      "Conquest",
+      "Registration only",
+      "Naturalisation",
+      "Birth"
+    ],
+    "ans": 2,
+    "explanation": "Naturalisation grants citizenship to qualified applicants.",
+    "topic": "Citizenship",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Citizenship | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major cause of environmental pollution is",
+    "opts": [
+      "Recycling",
+      "Conservation",
+      "Industrial waste",
+      "Afforestation"
+    ],
+    "ans": 2,
+    "explanation": "Industrial waste pollutes the environment.",
+    "topic": "Environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major function of the local government is to",
+    "opts": [
+      "Provide basic services to the community",
+      "Conduct foreign policy",
+      "Make national laws",
+      "Print money"
+    ],
+    "ans": 0,
+    "explanation": "Local governments provide grassroots services.",
+    "topic": "Local government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Local government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The best way to manage waste is to",
+    "opts": [
+      "Reduce, reuse and recycle",
+      "Dump it in rivers",
+      "Bury it anywhere",
+      "Burn it always"
+    ],
+    "ans": 0,
+    "explanation": "The 3Rs manage waste sustainably.",
+    "topic": "Environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Environmental protection means",
+    "opts": [
+      "Burning waste",
+      "Destroying forests",
+      "Preserving the natural environment",
+      "Polluting water"
+    ],
+    "ans": 2,
+    "explanation": "Environmental protection preserves nature.",
+    "topic": "Environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The traffic light colour that means stop is",
+    "opts": [
+      "Blue",
+      "Yellow",
+      "Green",
+      "Red"
+    ],
+    "ans": 3,
+    "explanation": "Red means stop.",
+    "topic": "Traffic rules",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Traffic rules | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The totality of the beliefs and ideas that a society considers important is known as",
+    "opts": [
+      "Culture",
+      "Apathy",
+      "Values",
+      "Norms"
+    ],
+    "ans": 2,
+    "explanation": "Values are shared beliefs about what is important.",
+    "topic": "Values",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Values | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Corruption is the",
+    "opts": [
+      "Honest service",
+      "Abuse of public office for private gain",
+      "Proper use of office",
+      "Fair dealing"
+    ],
+    "ans": 1,
+    "explanation": "Corruption abuses office for gain.",
+    "topic": "Corruption",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Corruption | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The arm of government that makes laws is the",
+    "opts": [
+      "Judiciary",
+      "Legislature",
+      "Executive",
+      "Police"
+    ],
+    "ans": 1,
+    "explanation": "The legislature makes laws.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Federal Capital Territory of Nigeria is",
+    "opts": [
+      "Kano",
+      "Abuja",
+      "Lagos",
+      "Ibadan"
+    ],
+    "ans": 1,
+    "explanation": "Abuja is the FCT.",
+    "topic": "Constitution",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Constitution | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The voters' register is used to",
+    "opts": [
+      "Pay officials",
+      "Count votes only",
+      "Print ballot papers",
+      "Identify eligible voters"
+    ],
+    "ans": 3,
+    "explanation": "The register lists eligible voters.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major right of a citizen is the right to",
+    "opts": [
+      "Break the law",
+      "Avoid taxes",
+      "Life",
+      "Steal"
+    ],
+    "ans": 2,
+    "explanation": "The right to life is fundamental.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The headquarters of the United Nations is in",
+    "opts": [
+      "Paris",
+      "Geneva",
+      "London",
+      "New York"
+    ],
+    "ans": 3,
+    "explanation": "The UN headquarters is in New York.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The head of the executive at the federal level in Nigeria is the",
+    "opts": [
+      "President",
+      "Governor",
+      "Senate President",
+      "Chief Justice"
+    ],
+    "ans": 0,
+    "explanation": "The President heads the executive.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Self-reliance means the ability to",
+    "opts": [
+      "Beg for help",
+      "Avoid work",
+      "Depend on others",
+      "Depend on oneself"
+    ],
+    "ans": 3,
+    "explanation": "Self-reliance is independence.",
+    "topic": "Values",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Values | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A citizen's right to vote is called",
+    "opts": [
+      "Freedom",
+      "Equality",
+      "Justice",
+      "Franchise"
+    ],
+    "ans": 3,
+    "explanation": "Franchise is the right to vote.",
+    "topic": "Citizenship",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Citizenship | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "ECOWAS was founded in",
+    "opts": [
+      "1980",
+      "1960",
+      "1975",
+      "1963"
+    ],
+    "ans": 2,
+    "explanation": "ECOWAS was founded in 1975.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The African Union was formerly known as the",
+    "opts": [
+      "League of Nations",
+      "Organisation of African Unity",
+      "ECOWAS",
+      "Commonwealth"
+    ],
+    "ans": 1,
+    "explanation": "The OAU became the AU in 2002.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The quality of being truthful and sincere is",
+    "opts": [
+      "Honesty",
+      "Corruption",
+      "Dishonesty",
+      "Greed"
+    ],
+    "ans": 0,
+    "explanation": "Honesty is truthfulness.",
+    "topic": "Values",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Values | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "NYSC stands for",
+    "opts": [
+      "National Youth Service Council",
+      "Nigerian Youth Service Corps",
+      "National Youth Social Corps",
+      "National Youth Service Corps"
+    ],
+    "ans": 3,
+    "explanation": "NYSC = National Youth Service Corps.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Nigeria gained independence in",
+    "opts": [
+      "1963",
+      "1966",
+      "1957",
+      "1960"
+    ],
+    "ans": 3,
+    "explanation": "Nigeria became independent on 1 October 1960.",
+    "topic": "Constitution",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Constitution | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Nigerian national anthem was changed in 2024 to",
+    "opts": [
+      "Arise, O Compatriots",
+      "God Bless Nigeria",
+      "Nigeria, We Hail Thee",
+      "Nigeria, Our Pride"
+    ],
+    "ans": 2,
+    "explanation": "In 2024 Nigeria reverted to 'Nigeria, We Hail Thee'.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "ECOWAS stands for",
+    "opts": [
+      "Economic Community of West African States",
+      "Economic Community of West Africa States",
+      "Economic Council of West African States",
+      "Economic Cooperation of West African States"
+    ],
+    "ans": 0,
+    "explanation": "ECOWAS = Economic Community of West African States.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The agency that fights corruption among public officials is the",
+    "opts": [
+      "EFCC only",
+      "Independent Corrupt Practices Commission",
+      "Police",
+      "Customs"
+    ],
+    "ans": 1,
+    "explanation": "ICPC fights corruption in public service.",
+    "topic": "Corruption",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Corruption | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Gender equality means men and women have",
+    "opts": [
+      "Different rights",
+      "No rights",
+      "Unequal opportunities",
+      "Equal rights and opportunities"
+    ],
+    "ans": 3,
+    "explanation": "Gender equality is equal rights and opportunities.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The National Assembly is made up of the Senate and the",
+    "opts": [
+      "Supreme Court",
+      "House of Representatives",
+      "House of Chiefs",
+      "State Assembly"
+    ],
+    "ans": 1,
+    "explanation": "The National Assembly has two chambers.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Universal Declaration of Human Rights was adopted in",
+    "opts": [
+      "1975",
+      "1945",
+      "1948",
+      "1960"
+    ],
+    "ans": 2,
+    "explanation": "The UDHR was adopted in 1948.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A good citizen should",
+    "opts": [
+      "Respect the rights of others",
+      "Avoid taxes",
+      "Disrespect others",
+      "Break laws"
+    ],
+    "ans": 0,
+    "explanation": "Good citizens respect others' rights.",
+    "topic": "Citizenship",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Citizenship | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The illegal act of buying votes is called",
+    "opts": [
+      "Canvassing",
+      "Vote buying",
+      "Rigging only",
+      "Campaigning"
+    ],
+    "ans": 1,
+    "explanation": "Vote buying is an electoral offence.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The separation of powers divides government into the executive, legislature and",
+    "opts": [
+      "Civil service",
+      "Army",
+      "Judiciary",
+      "Police"
+    ],
+    "ans": 2,
+    "explanation": "The three arms are executive, legislature and judiciary.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "INEC stands for",
+    "opts": [
+      "Independent National Electoral Commission",
+      "Independent Nigerian Election Committee",
+      "International National Electoral Commission",
+      "National Electoral Commission"
+    ],
+    "ans": 0,
+    "explanation": "INEC = Independent National Electoral Commission.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The act of putting oneself in another person's position is",
+    "opts": [
+      "Apathy",
+      "Selfishness",
+      "Empathy",
+      "Sympathy only"
+    ],
+    "ans": 2,
+    "explanation": "Empathy is understanding another's feelings.",
+    "topic": "Values",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Values | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The head of a state executive in Nigeria is the",
+    "opts": [
+      "Governor",
+      "Senator",
+      "Chairman",
+      "President"
+    ],
+    "ans": 0,
+    "explanation": "A state is headed by a governor.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The motto on the Nigerian coat of arms is",
+    "opts": [
+      "Faith and Hope",
+      "Strength and Honour",
+      "Peace and Unity",
+      "Unity and Faith, Peace and Progress"
+    ],
+    "ans": 3,
+    "explanation": "The motto is 'Unity and Faith, Peace and Progress'.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The right to freedom of religion is a",
+    "opts": [
+      "Fundamental human right",
+      "Duty",
+      "Privilege",
+      "Custom"
+    ],
+    "ans": 0,
+    "explanation": "Freedom of religion is a fundamental right.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major effect of drug abuse is",
+    "opts": [
+      "Wealth",
+      "Good health",
+      "Success",
+      "Poor health"
+    ],
+    "ans": 3,
+    "explanation": "Drug abuse damages health.",
+    "topic": "Drug abuse",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Drug abuse | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The family is the",
+    "opts": [
+      "Least important agent",
+      "First agent of socialisation",
+      "Only agent of socialisation",
+      "Last agent of socialisation"
+    ],
+    "ans": 1,
+    "explanation": "The family is the primary agent of socialisation.",
+    "topic": "Values",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Values | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The agency that fights drug trafficking in Nigeria is the",
+    "opts": [
+      "Customs",
+      "National Drug Law Enforcement Agency",
+      "Immigration",
+      "Police"
+    ],
+    "ans": 1,
+    "explanation": "NDLEA fights drug trafficking.",
+    "topic": "Drug abuse",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Drug abuse | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Nigerian national pledge is recited to show",
+    "opts": [
+      "Wealth",
+      "Fear",
+      "Loyalty to the country",
+      "Power"
+    ],
+    "ans": 2,
+    "explanation": "The pledge expresses loyalty to Nigeria.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major effect of corruption is",
+    "opts": [
+      "Prosperity",
+      "Development",
+      "Progress",
+      "Underdevelopment"
+    ],
+    "ans": 3,
+    "explanation": "Corruption hinders development.",
+    "topic": "Corruption",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Corruption | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Drug abuse is the",
+    "opts": [
+      "Prescription of drugs",
+      "Harmful use of drugs",
+      "Proper use of drugs",
+      "Sale of drugs"
+    ],
+    "ans": 1,
+    "explanation": "Drug abuse is misuse of drugs.",
+    "topic": "Drug abuse",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Drug abuse | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The best way to prevent HIV infection is to",
+    "opts": [
+      "Abstain or practise safe sex",
+      "Avoid hospitals",
+      "Shake hands",
+      "Share food"
+    ],
+    "ans": 0,
+    "explanation": "Abstinence and safe sex prevent HIV.",
+    "topic": "HIV/AIDS",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: HIV/AIDS | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

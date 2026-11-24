@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The shortcut for pasting copied text is",
+    "opts": [
+      "Ctrl + C",
+      "Ctrl + P",
+      "Ctrl + V",
+      "Ctrl + X"
+    ],
+    "ans": 2,
+    "explanation": "Ctrl + V pastes.",
+    "topic": "Application software",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Application software | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 1001₂ to decimal.",
+    "opts": [
+      "9",
+      "11",
+      "13",
+      "7"
+    ],
+    "ans": 0,
+    "explanation": "1001₂ = 9 in decimal.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 25 to binary.",
+    "opts": [
+      "11010",
+      "11011",
+      "11001",
+      "11000"
+    ],
+    "ans": 2,
+    "explanation": "25 in binary is 11001.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "How many bytes are in 8 kilobytes?",
+    "opts": [
+      "4096",
+      "16384",
+      "8000",
+      "8192"
+    ],
+    "ans": 3,
+    "explanation": "1 KB = 1024 bytes, so 8 KB = 8192 bytes.",
+    "topic": "Data representation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a programming language?",
+    "opts": [
+      "Python",
+      "Windows",
+      "Microsoft Excel",
+      "Google Chrome"
+    ],
+    "ans": 0,
+    "explanation": "Python is a programming language.",
+    "topic": "Programming",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Programming | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 29 to binary.",
+    "opts": [
+      "11101",
+      "11110",
+      "101",
+      "11111"
+    ],
+    "ans": 0,
+    "explanation": "29 in binary is 11101.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The monitor is also called the",
+    "opts": [
+      "Central Processing Unit",
+      "Control Unit",
+      "Visual Display Unit",
+      "Arithmetic Logic Unit"
+    ],
+    "ans": 2,
+    "explanation": "Monitor = Visual Display Unit (VDU).",
+    "topic": "Computing devices: output devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Computing devices: output devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The process of converting data into a secret code is called",
+    "opts": [
+      "Compression",
+      "Formatting",
+      "Decryption",
+      "Encryption"
+    ],
+    "ans": 3,
+    "explanation": "Encryption protects data by coding it.",
+    "topic": "Computer security",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Computer security | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A folder is used to",
+    "opts": [
+      "Run programs",
+      "Connect to the internet",
+      "Organise files",
+      "Print documents"
+    ],
+    "ans": 2,
+    "explanation": "Folders organise files on a computer.",
+    "topic": "Operating systems: file management",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Operating systems: file management | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 26 to binary.",
+    "opts": [
+      "101",
+      "1101",
+      "11011",
+      "11010"
+    ],
+    "ans": 3,
+    "explanation": "26 in binary is 11010.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The file extension for a Microsoft Excel workbook is",
+    "opts": [
+      ".docx",
+      ".xlsx",
+      ".pdf",
+      ".pptx"
+    ],
+    "ans": 1,
+    "explanation": "Excel workbooks use .xlsx.",
+    "topic": "Application software",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Application software | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "How many bytes are in 16 kilobytes?",
+    "opts": [
+      "16000",
+      "8192",
+      "32768",
+      "16384"
+    ],
+    "ans": 3,
+    "explanation": "1 KB = 1024 bytes, so 16 KB = 16384 bytes.",
+    "topic": "Data representation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The full meaning of HTTP is",
+    "opts": [
+      "HighText Transfer Protocol",
+      "Hyperlink Transfer Protocol",
+      "HyperText Transmission Program",
+      "HyperText Transfer Protocol"
+    ],
+    "ans": 3,
+    "explanation": "HTTP = HyperText Transfer Protocol.",
+    "topic": "Internet",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Internet | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 23 to binary.",
+    "opts": [
+      "101",
+      "10110",
+      "10111",
+      "1101"
+    ],
+    "ans": 2,
+    "explanation": "23 in binary is 10111.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The smallest unit of data in a computer is the",
+    "opts": [
+      "Byte",
+      "Word",
+      "Nibble",
+      "Bit"
+    ],
+    "ans": 3,
+    "explanation": "A bit is a single binary digit, 0 or 1.",
+    "topic": "Data representation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 110₂ to decimal.",
+    "opts": [
+      "6",
+      "26",
+      "0",
+      "4"
+    ],
+    "ans": 0,
+    "explanation": "110₂ = 6 in decimal.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "How many bytes are in 2 kilobytes?",
+    "opts": [
+      "2000",
+      "2048",
+      "1024",
+      "4096"
+    ],
+    "ans": 1,
+    "explanation": "1 KB = 1024 bytes, so 2 KB = 2048 bytes.",
+    "topic": "Data representation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An email address must contain the",
+    "opts": [
+      "@ symbol",
+      "$ symbol",
+      "# symbol",
+      "% symbol"
+    ],
+    "ans": 0,
+    "explanation": "Email addresses use @ to separate user and domain.",
+    "topic": "Internet",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Internet | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Deleting a file sends it to the",
+    "opts": [
+      "Recycle Bin",
+      "Control Panel",
+      "Taskbar",
+      "Desktop"
+    ],
+    "ans": 0,
+    "explanation": "Deleted files go to the Recycle Bin.",
+    "topic": "Operating systems: file management",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Operating systems: file management | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a database management system?",
+    "opts": [
+      "Windows",
+      "Python",
+      "MySQL",
+      "Excel only"
+    ],
+    "ans": 2,
+    "explanation": "MySQL is a DBMS.",
+    "topic": "Databases",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Databases | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a search engine?",
+    "opts": [
+      "Linux",
+      "Google",
+      "Windows",
+      "Microsoft Word"
+    ],
+    "ans": 1,
+    "explanation": "Google is a search engine.",
+    "topic": "Internet",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Internet | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 7 to binary.",
+    "opts": [
+      "1001",
+      "1000",
+      "110",
+      "111"
+    ],
+    "ans": 3,
+    "explanation": "7 in binary is 111.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 1100₂ to decimal.",
+    "opts": [
+      "11",
+      "12",
+      "15",
+      "2"
+    ],
+    "ans": 1,
+    "explanation": "1100₂ = 12 in decimal.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The binary number system uses base",
+    "opts": [
+      "10",
+      "16",
+      "2",
+      "8"
+    ],
+    "ans": 2,
+    "explanation": "Binary uses digits 0 and 1, base 2.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A website address is also called a",
+    "opts": [
+      "Email address",
+      "URL",
+      "IP address only",
+      "Username"
+    ],
+    "ans": 1,
+    "explanation": "A website address is its URL.",
+    "topic": "Internet",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Internet | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The full meaning of WWW is",
+    "opts": [
+      "Web World Wide",
+      "World Wide Web",
+      "World Wide Website",
+      "Wide World Web"
+    ],
+    "ans": 1,
+    "explanation": "WWW = World Wide Web.",
+    "topic": "Internet",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Internet | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 24 to binary.",
+    "opts": [
+      "11010",
+      "101",
+      "10111",
+      "11000"
+    ],
+    "ans": 3,
+    "explanation": "24 in binary is 11000.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 12 to binary.",
+    "opts": [
+      "1011",
+      "1100",
+      "1101",
+      "101"
+    ],
+    "ans": 1,
+    "explanation": "12 in binary is 1100.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of these is a social media platform?",
+    "opts": [
+      "Microsoft Word",
+      "Google Chrome",
+      "Facebook",
+      "Linux"
+    ],
+    "ans": 2,
+    "explanation": "Facebook is a social media platform.",
+    "topic": "Internet",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Internet | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 1010₂ to decimal.",
+    "opts": [
+      "6",
+      "20",
+      "10",
+      "5"
+    ],
+    "ans": 2,
+    "explanation": "1010₂ = 10 in decimal.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The process of starting a computer is called",
+    "opts": [
+      "Booting",
+      "Installing",
+      "Formatting",
+      "Debugging"
+    ],
+    "ans": 0,
+    "explanation": "Booting loads the operating system.",
+    "topic": "System software",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: System software | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The control unit of the CPU",
+    "opts": [
+      "Controls the flow of data",
+      "Displays output",
+      "Performs calculations",
+      "Stores data permanently"
+    ],
+    "ans": 0,
+    "explanation": "The control unit directs operations.",
+    "topic": "Overview of computing systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Overview of computing systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The software used to manage a database is called a",
+    "opts": [
+      "DML",
+      "DBMS",
+      "CPU",
+      "SQL only"
+    ],
+    "ans": 1,
+    "explanation": "DBMS = Database Management System.",
+    "topic": "Databases",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Databases | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 27 to binary.",
+    "opts": [
+      "101",
+      "11011",
+      "11100",
+      "11101"
+    ],
+    "ans": 1,
+    "explanation": "27 in binary is 11011.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The full meaning of HTML is",
+    "opts": [
+      "Hyperlink Text Markup Language",
+      "HighText Markup Language",
+      "HyperText Markup Language",
+      "HyperText Mark Language"
+    ],
+    "ans": 2,
+    "explanation": "HTML = HyperText Markup Language.",
+    "topic": "Internet",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Internet | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The shortcut for undoing an action is",
+    "opts": [
+      "Ctrl + U",
+      "Ctrl + Y",
+      "Ctrl + Z",
+      "Ctrl + S"
+    ],
+    "ans": 2,
+    "explanation": "Ctrl + Z undoes.",
+    "topic": "Application software",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Application software | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The device that connects a computer to the internet through a telephone line is the",
+    "opts": [
+      "Scanner",
+      "Router only",
+      "Monitor",
+      "Modem"
+    ],
+    "ans": 3,
+    "explanation": "A modem modulates and demodulates signals.",
+    "topic": "Internet",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Internet | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "RAM is a",
+    "opts": [
+      "Volatile memory",
+      "Permanent memory",
+      "Non-volatile memory",
+      "External memory"
+    ],
+    "ans": 0,
+    "explanation": "RAM loses its contents when power is off.",
+    "topic": "Overview of computing systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Overview of computing systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 1111₂ to decimal.",
+    "opts": [
+      "15",
+      "17",
+      "18",
+      "11"
+    ],
+    "ans": 0,
+    "explanation": "1111₂ = 15 in decimal.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A program that translates high-level language into machine code at once is a",
+    "opts": [
+      "Debugger",
+      "Assembler",
+      "Compiler",
+      "Interpreter"
+    ],
+    "ans": 2,
+    "explanation": "A compiler translates the whole program before execution.",
+    "topic": "Programming",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Programming | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 9 to binary.",
+    "opts": [
+      "1010",
+      "1000",
+      "1011",
+      "1001"
+    ],
+    "ans": 3,
+    "explanation": "9 in binary is 1001.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 4 to binary.",
+    "opts": [
+      "110",
+      "100",
+      "1101",
+      "101"
+    ],
+    "ans": 1,
+    "explanation": "4 in binary is 100.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is an example of application software?",
+    "opts": [
+      "Android",
+      "Windows",
+      "Linux",
+      "Microsoft Word"
+    ],
+    "ans": 3,
+    "explanation": "Microsoft Word is application software.",
+    "topic": "Application software",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Application software | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A scanner is a",
+    "opts": [
+      "Processing device",
+      "Input device",
+      "Output device",
+      "Storage device"
+    ],
+    "ans": 1,
+    "explanation": "A scanner captures images into the computer.",
+    "topic": "Computing devices: input devices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Computing devices: input devices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 10101₂ to decimal.",
+    "opts": [
+      "21",
+      "17",
+      "18",
+      "51"
+    ],
+    "ans": 0,
+    "explanation": "10101₂ = 21 in decimal.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "How many bytes are in 4 kilobytes?",
+    "opts": [
+      "8192",
+      "4096",
+      "4000",
+      "2048"
+    ],
+    "ans": 1,
+    "explanation": "1 KB = 1024 bytes, so 4 KB = 4096 bytes.",
+    "topic": "Data representation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "One byte is equal to",
+    "opts": [
+      "16 bits",
+      "8 bits",
+      "2 bits",
+      "4 bits"
+    ],
+    "ans": 1,
+    "explanation": "1 byte = 8 bits.",
+    "topic": "Data representation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The first page of a website is the",
+    "opts": [
+      "Web page only",
+      "Login page",
+      "Home page",
+      "Search page"
+    ],
+    "ans": 2,
+    "explanation": "The home page is the main entry page.",
+    "topic": "Internet",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Internet | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The full meaning of RAM is",
+    "opts": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Rapid Access Memory",
+      "Remote Access Memory"
+    ],
+    "ans": 0,
+    "explanation": "RAM = Random Access Memory.",
+    "topic": "Overview of computing systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Overview of computing systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Convert 19 to binary.",
+    "opts": [
+      "10010",
+      "1101",
+      "101",
+      "10011"
+    ],
+    "ans": 3,
+    "explanation": "19 in binary is 10011.",
+    "topic": "Data representation: number systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Data representation: number systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

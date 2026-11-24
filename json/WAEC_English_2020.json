@@ -1,1 +1,858 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Choose the word nearest in meaning to 'sweet'.",
+    "opts": [
+      "unhurried",
+      "speedy",
+      "delightful",
+      "weary"
+    ],
+    "ans": 2,
+    "explanation": "'delightful' is the closest synonym of 'sweet'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to bite the dust'.",
+    "opts": [
+      "to be in a difficult situation",
+      "to avoid speaking directly",
+      "to be defeated",
+      "to be very easy"
+    ],
+    "ans": 2,
+    "explanation": "'to bite the dust' means to be defeated.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to be on thin ice'.",
+    "opts": [
+      "to have a complaint to discuss",
+      "not to know what to do or say",
+      "to be in a risky situation",
+      "to suffer for a mistake"
+    ],
+    "ans": 2,
+    "explanation": "'to be on thin ice' means to be in a risky situation.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'There are ___ students in the class.'",
+    "opts": [
+      "much",
+      "little",
+      "many",
+      "a little"
+    ],
+    "ans": 2,
+    "explanation": "'Many' is used with countable nouns like students.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'He was born ___ 2010.'",
+    "opts": [
+      "at",
+      "by",
+      "on",
+      "in"
+    ],
+    "ans": 3,
+    "explanation": "'In' is used with years.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The furniture in the room ___ new.",
+    "opts": [
+      "is",
+      "were",
+      "have",
+      "are"
+    ],
+    "ans": 0,
+    "explanation": "'Furniture' is uncountable and takes a singular verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'I have ___ money left.'",
+    "opts": [
+      "few",
+      "a few",
+      "little",
+      "a little"
+    ],
+    "ans": 2,
+    "explanation": "'Little' is used with uncountable nouns like money.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'hope'.",
+    "opts": [
+      "wrong",
+      "hard",
+      "stingy",
+      "despair"
+    ],
+    "ans": 3,
+    "explanation": "'despair' is the opposite of 'hope'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ten kilometres ___ a long distance.",
+    "opts": [
+      "were",
+      "is",
+      "have",
+      "are"
+    ],
+    "ans": 1,
+    "explanation": "A distance takes a singular verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'wide'.",
+    "opts": [
+      "narrow",
+      "slavery",
+      "modern",
+      "cowardice"
+    ],
+    "ans": 0,
+    "explanation": "'narrow' is the opposite of 'wide'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to face the music'.",
+    "opts": [
+      "to have a complaint to discuss",
+      "to do something cheaply or quickly, skipping steps",
+      "to be very easy",
+      "to accept the consequences of one's actions"
+    ],
+    "ans": 3,
+    "explanation": "'to face the music' means to accept the consequences of one's actions.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to be in the limelight'.",
+    "opts": [
+      "to make peace after a quarrel",
+      "to be in trouble",
+      "to be the centre of public attention",
+      "to feel slightly ill"
+    ],
+    "ans": 2,
+    "explanation": "'to be in the limelight' means to be the centre of public attention.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'wise'.",
+    "opts": [
+      "sagacious",
+      "spotless",
+      "impolite",
+      "benevolent"
+    ],
+    "ans": 0,
+    "explanation": "'sagacious' is the closest synonym of 'wise'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to have a bone to pick'.",
+    "opts": [
+      "to have a complaint to discuss",
+      "something good that seemed bad at first",
+      "to be very easy",
+      "not to know what to do or say"
+    ],
+    "ans": 0,
+    "explanation": "'to have a bone to pick' means to have a complaint to discuss.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'permanent'.",
+    "opts": [
+      "temporary",
+      "weak",
+      "hate",
+      "late"
+    ],
+    "ans": 0,
+    "explanation": "'temporary' is the opposite of 'permanent'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'end'.",
+    "opts": [
+      "unhurried",
+      "feeble",
+      "wealthy",
+      "conclude"
+    ],
+    "ans": 3,
+    "explanation": "'conclude' is the closest synonym of 'end'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'By this time tomorrow, I ___ finished.'",
+    "opts": [
+      "would have",
+      "will",
+      "shall",
+      "will have"
+    ],
+    "ans": 3,
+    "explanation": "The future perfect 'will have finished' is used.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'begin'.",
+    "opts": [
+      "radiant",
+      "adore",
+      "hazardous",
+      "commence"
+    ],
+    "ans": 3,
+    "explanation": "'commence' is the closest synonym of 'begin'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'calm'.",
+    "opts": [
+      "merciless",
+      "serene",
+      "radiant",
+      "silly"
+    ],
+    "ans": 1,
+    "explanation": "'serene' is the closest synonym of 'calm'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'poor'.",
+    "opts": [
+      "adore",
+      "unsightly",
+      "needy",
+      "assist"
+    ],
+    "ans": 2,
+    "explanation": "'needy' is the closest synonym of 'poor'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'The children ___ playing in the garden now.'",
+    "opts": [
+      "has",
+      "were",
+      "are",
+      "is"
+    ],
+    "ans": 2,
+    "explanation": "'Children' is plural, so the verb is 'are'.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The word 'but' in 'rich but unhappy' is a",
+    "opts": [
+      "Conjunction",
+      "Preposition",
+      "Adverb",
+      "Interjection"
+    ],
+    "ans": 0,
+    "explanation": "'But' joins contrasting ideas, so it is a conjunction.",
+    "topic": "Lexis and structure: word classes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: word classes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The word 'in' in 'in the house' is a",
+    "opts": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "ans": 2,
+    "explanation": "'In' shows the relationship of place, so it is a preposition.",
+    "topic": "Lexis and structure: word classes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: word classes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The news ___ good.",
+    "opts": [
+      "are",
+      "were",
+      "have",
+      "is"
+    ],
+    "ans": 3,
+    "explanation": "'News' is uncountable and takes a singular verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The word 'wow' is an",
+    "opts": [
+      "Adverb",
+      "Conjunction",
+      "Preposition",
+      "Interjection"
+    ],
+    "ans": 3,
+    "explanation": "'Wow' expresses sudden feeling, so it is an interjection.",
+    "topic": "Lexis and structure: word classes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: word classes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct question tag: 'You like rice, ___?'",
+    "opts": [
+      "do you",
+      "don't you",
+      "aren't you",
+      "isn't it"
+    ],
+    "ans": 1,
+    "explanation": "The tag for a positive statement is negative: 'don't you'.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'beautiful'.",
+    "opts": [
+      "loyal",
+      "lovely",
+      "dull",
+      "simple"
+    ],
+    "ans": 1,
+    "explanation": "'lovely' is the closest synonym of 'beautiful'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'honest'.",
+    "opts": [
+      "weary",
+      "courageous",
+      "unsightly",
+      "truthful"
+    ],
+    "ans": 3,
+    "explanation": "'truthful' is the closest synonym of 'honest'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'freedom'.",
+    "opts": [
+      "slavery",
+      "stingy",
+      "shallow",
+      "despair"
+    ],
+    "ans": 0,
+    "explanation": "'slavery' is the opposite of 'freedom'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'rich'.",
+    "opts": [
+      "slavery",
+      "poor",
+      "false",
+      "dirty"
+    ],
+    "ans": 1,
+    "explanation": "'poor' is the opposite of 'rich'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'dangerous'.",
+    "opts": [
+      "hazardous",
+      "lovely",
+      "modest",
+      "serene"
+    ],
+    "ans": 0,
+    "explanation": "'hazardous' is the closest synonym of 'dangerous'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The word 'they' is a",
+    "opts": [
+      "Verb",
+      "Pronoun",
+      "Adjective",
+      "Noun"
+    ],
+    "ans": 1,
+    "explanation": "'They' stands in place of a noun, so it is a pronoun.",
+    "topic": "Lexis and structure: word classes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: word classes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'quick'.",
+    "opts": [
+      "speedy",
+      "courageous",
+      "silly",
+      "simple"
+    ],
+    "ans": 0,
+    "explanation": "'speedy' is the closest synonym of 'quick'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'humble'.",
+    "opts": [
+      "modest",
+      "unhurried",
+      "delightful",
+      "courageous"
+    ],
+    "ans": 0,
+    "explanation": "'modest' is the closest synonym of 'humble'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The police ___ investigating the case.",
+    "opts": [
+      "are",
+      "has",
+      "was",
+      "is"
+    ],
+    "ans": 0,
+    "explanation": "'Police' takes a plural verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'friend'.",
+    "opts": [
+      "slavery",
+      "enemy",
+      "old",
+      "failure"
+    ],
+    "ans": 1,
+    "explanation": "'enemy' is the opposite of 'friend'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to hit the nail on the head'.",
+    "opts": [
+      "to be in trouble",
+      "to say exactly the right thing",
+      "to suffer for a mistake",
+      "to be defeated"
+    ],
+    "ans": 1,
+    "explanation": "'to hit the nail on the head' means to say exactly the right thing.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The word 'quickly' in 'She ran quickly' is an",
+    "opts": [
+      "Adjective",
+      "Noun",
+      "Adverb",
+      "Verb"
+    ],
+    "ans": 2,
+    "explanation": "An adverb modifies a verb; 'quickly' modifies 'ran'.",
+    "topic": "Lexis and structure: word classes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: word classes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'sharp'.",
+    "opts": [
+      "false",
+      "blunt",
+      "innocent",
+      "darkness"
+    ],
+    "ans": 1,
+    "explanation": "'blunt' is the opposite of 'sharp'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Mathematics ___ my favourite subject.",
+    "opts": [
+      "have",
+      "were",
+      "are",
+      "is"
+    ],
+    "ans": 3,
+    "explanation": "'Mathematics' takes a singular verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Neither of the answers ___ correct.",
+    "opts": [
+      "are",
+      "were",
+      "have",
+      "is"
+    ],
+    "ans": 3,
+    "explanation": "'Neither' is singular.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'peace'.",
+    "opts": [
+      "narrow",
+      "defeat",
+      "cowardly",
+      "war"
+    ],
+    "ans": 3,
+    "explanation": "'war' is the opposite of 'peace'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The word 'or' in 'tea or coffee' is a",
+    "opts": [
+      "Article",
+      "Preposition",
+      "Interjection",
+      "Conjunction"
+    ],
+    "ans": 3,
+    "explanation": "'Or' joins alternatives, so it is a conjunction.",
+    "topic": "Lexis and structure: word classes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: word classes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'courage'.",
+    "opts": [
+      "contract",
+      "cowardice",
+      "false",
+      "enemy"
+    ],
+    "ans": 1,
+    "explanation": "'cowardice' is the opposite of 'courage'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'famous'.",
+    "opts": [
+      "renowned",
+      "unsightly",
+      "idle",
+      "arrogant"
+    ],
+    "ans": 0,
+    "explanation": "'renowned' is the closest synonym of 'famous'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The word 'the' is an",
+    "opts": [
+      "Pronoun",
+      "Preposition",
+      "Conjunction",
+      "Article"
+    ],
+    "ans": 3,
+    "explanation": "'The' is a definite article.",
+    "topic": "Lexis and structure: word classes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: word classes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'strong'.",
+    "opts": [
+      "despair",
+      "weak",
+      "narrow",
+      "forget"
+    ],
+    "ans": 1,
+    "explanation": "'weak' is the opposite of 'strong'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'young'.",
+    "opts": [
+      "late",
+      "old",
+      "bitter",
+      "weak"
+    ],
+    "ans": 1,
+    "explanation": "'old' is the opposite of 'young'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'generous'.",
+    "opts": [
+      "stingy",
+      "hate",
+      "weak",
+      "war"
+    ],
+    "ans": 0,
+    "explanation": "'stingy' is the opposite of 'generous'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Some of the water ___ spilled.",
+    "opts": [
+      "have",
+      "are",
+      "was",
+      "were"
+    ],
+    "ans": 2,
+    "explanation": "'Water' is uncountable, so the verb is singular.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "type": "passage",
+    "content": "<b>The Honest Trader</b><br><br>Alhaji Musa was a trader in the central market of Kano. He sold grains, and his customers trusted him because he never cheated them. One day, a woman bought a bag of rice from him and paid with a large sum of money. When she left, Musa discovered that she had overpaid by five thousand naira. His assistant advised him to keep the money, saying the woman would never know. But Musa shook his head. He closed his shop early, found the woman's house, and returned the money to her. The woman was surprised and grateful. She told her neighbours about Musa's honesty, and from that day, more people came to buy from him. His business grew, not because he was clever with money, but because he was honest.",
+    "questions": [
+      {
+        "q": "Why did Musa's customers trust him?",
+        "opts": [
+          "Because he was rich",
+          "Because his prices were low",
+          "Because he sold many goods",
+          "Because he never cheated them"
+        ],
+        "ans": 3,
+        "explanation": "The passage says customers trusted him because he never cheated them.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "How much had the woman overpaid?",
+        "opts": [
+          "One thousand naira",
+          "Five thousand naira",
+          "Ten thousand naira",
+          "Five hundred naira"
+        ],
+        "ans": 1,
+        "explanation": "The passage states she overpaid by five thousand naira.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "What did Musa's assistant advise him to do?",
+        "opts": [
+          "To close the shop",
+          "To find the woman",
+          "To keep the extra money",
+          "To return the money"
+        ],
+        "ans": 2,
+        "explanation": "The assistant advised him to keep the money.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "What did Musa do with the extra money?",
+        "opts": [
+          "He returned it to the woman",
+          "He used it to buy more rice",
+          "He gave it to his assistant",
+          "He kept it in his shop"
+        ],
+        "ans": 0,
+        "explanation": "Musa found the woman's house and returned the money.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "According to the passage, Musa's business grew because of his",
+        "opts": [
+          "Cleverness with money",
+          "Large shop",
+          "Honesty",
+          "Low prices"
+        ],
+        "ans": 2,
+        "explanation": "The passage says his business grew because he was honest.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      }
+    ],
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Original passage written for this practice set; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng)"
+  },
+  {
+    "type": "passage",
+    "content": "<b>The Village School</b><br><br>When Amina was a little girl, there was no school in her village. The nearest school was in a town six kilometres away, and many children could not walk that far every day. Amina's father was a farmer, and he wanted his daughter to learn to read and write. Every morning, he woke her before dawn, and they walked together to the town. Sometimes the road was muddy, and sometimes the sun was very hot, but Amina never complained. She loved her lessons, especially reading. Years later, Amina became a teacher. She returned to her village and, with the help of the community, built a small school. Today, the children of the village no longer walk six kilometres to learn. They study in their own village, and Amina is their teacher.",
+    "questions": [
+      {
+        "q": "Why did many children in Amina's village not go to school?",
+        "opts": [
+          "There were no teachers",
+          "Their parents refused",
+          "The nearest school was six kilometres away",
+          "The school was closed"
+        ],
+        "ans": 2,
+        "explanation": "The nearest school was six kilometres away.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "Who walked with Amina to school every morning?",
+        "opts": [
+          "Her mother",
+          "Her father",
+          "Her brother",
+          "Her teacher"
+        ],
+        "ans": 1,
+        "explanation": "Her father walked with her.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "What was Amina's favourite lesson?",
+        "opts": [
+          "Writing",
+          "Reading",
+          "Drawing",
+          "Arithmetic"
+        ],
+        "ans": 1,
+        "explanation": "She loved her lessons, especially reading.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "What did Amina become when she grew up?",
+        "opts": [
+          "A farmer",
+          "A doctor",
+          "A teacher",
+          "A trader"
+        ],
+        "ans": 2,
+        "explanation": "Amina became a teacher.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "What did Amina do for her village?",
+        "opts": [
+          "She helped to build a school there",
+          "She built a road",
+          "She became the village head",
+          "She opened a shop"
+        ],
+        "ans": 0,
+        "explanation": "She returned and helped build a small school.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      }
+    ],
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Comprehension | Original passage written for this practice set; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng)"
+  }
+]

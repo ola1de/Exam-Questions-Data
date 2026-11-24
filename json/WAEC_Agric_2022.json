@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "An example of a legume crop is",
+    "opts": [
+      "Yam",
+      "Cassava",
+      "Maize",
+      "Groundnut"
+    ],
+    "ans": 3,
+    "explanation": "Groundnut is a legume.",
+    "topic": "Crop production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Yam is propagated by",
+    "opts": [
+      "Stem cuttings",
+      "Leaves",
+      "Seeds",
+      "Seed yam (setts)"
+    ],
+    "ans": 3,
+    "explanation": "Yam is planted from setts.",
+    "topic": "Crop production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Cassava is propagated by",
+    "opts": [
+      "Stem cuttings",
+      "Seeds",
+      "Roots",
+      "Leaves"
+    ],
+    "ans": 0,
+    "explanation": "Cassava is planted from stem cuttings.",
+    "topic": "Crop production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of a phosphatic fertiliser is",
+    "opts": [
+      "Urea",
+      "Muriate of potash",
+      "Superphosphate",
+      "Ammonium sulphate"
+    ],
+    "ans": 2,
+    "explanation": "Superphosphate supplies phosphorus.",
+    "topic": "Soil science",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Soil science | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Liming is done to",
+    "opts": [
+      "Reduce soil acidity",
+      "Kill weeds",
+      "Add nitrogen",
+      "Increase soil acidity"
+    ],
+    "ans": 0,
+    "explanation": "Lime raises soil pH.",
+    "topic": "Soil science",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Soil science | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A crop rotation that includes a legume helps the soil by",
+    "opts": [
+      "Adding acid",
+      "Removing nitrogen",
+      "Removing water",
+      "Adding nitrogen"
+    ],
+    "ans": 3,
+    "explanation": "Legumes fix nitrogen in the soil.",
+    "topic": "Cropping systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Cropping systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The cutting back of plant branches to improve growth is",
+    "opts": [
+      "Weeding",
+      "Pruning",
+      "Thinning",
+      "Grafting"
+    ],
+    "ans": 1,
+    "explanation": "Pruning shapes plants and improves yield.",
+    "topic": "Farm practices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farm practices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A chemical used to kill weeds is a",
+    "opts": [
+      "Insecticide",
+      "Nematicide",
+      "Herbicide",
+      "Fungicide"
+    ],
+    "ans": 2,
+    "explanation": "Herbicides kill weeds.",
+    "topic": "Crop protection",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop protection | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The storage of grains in silos protects them from",
+    "opts": [
+      "Sunlight only",
+      "Cold only",
+      "Wind only",
+      "Pests and moisture"
+    ],
+    "ans": 3,
+    "explanation": "Silos keep grains dry and pest-free.",
+    "topic": "Crop production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Irrigation is the",
+    "opts": [
+      "Removal of water from crops",
+      "Draining of land",
+      "Flooding of farms",
+      "Artificial supply of water to crops"
+    ],
+    "ans": 3,
+    "explanation": "Irrigation waters crops artificially.",
+    "topic": "Farm practices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farm practices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gestation period of a ewe (sheep) is about",
+    "opts": [
+      "114 days",
+      "283 days",
+      "150 days",
+      "365 days"
+    ],
+    "ans": 2,
+    "explanation": "A ewe's gestation is about 150 days.",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A tractor is a source of",
+    "opts": [
+      "Human power",
+      "Solar power",
+      "Animal power",
+      "Mechanical power"
+    ],
+    "ans": 3,
+    "explanation": "A tractor provides mechanical power.",
+    "topic": "Farm power",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farm power | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The best soil for most crops is",
+    "opts": [
+      "Gravel",
+      "Loamy soil",
+      "Sandy soil",
+      "Clay soil"
+    ],
+    "ans": 1,
+    "explanation": "Loam has a good balance of sand, silt and clay.",
+    "topic": "Soil science",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Soil science | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of a root crop is",
+    "opts": [
+      "Maize",
+      "Rice",
+      "Millet",
+      "Yam"
+    ],
+    "ans": 3,
+    "explanation": "Yam is a root/tuber crop.",
+    "topic": "Crop production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The process of breaking up soil to prepare a seedbed is",
+    "opts": [
+      "Harvesting",
+      "Weeding",
+      "Tillage",
+      "Mulching"
+    ],
+    "ans": 2,
+    "explanation": "Tillage prepares the soil for planting.",
+    "topic": "Farm practices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farm practices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The young of a sheep is a",
+    "opts": [
+      "Piglet",
+      "Lamb",
+      "Kid",
+      "Calf"
+    ],
+    "ans": 1,
+    "explanation": "A young sheep is a lamb.",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Subsistence agriculture is farming mainly for",
+    "opts": [
+      "Export",
+      "Industrial use",
+      "Family consumption",
+      "Sale in markets"
+    ],
+    "ans": 2,
+    "explanation": "Subsistence farmers grow food mainly for their families.",
+    "topic": "Meaning and differences between subsistence and commercial agriculture",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Meaning and differences between subsistence and commercial agriculture | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of a cereal crop is",
+    "opts": [
+      "Cocoyam",
+      "Cassava",
+      "Maize",
+      "Yam"
+    ],
+    "ans": 2,
+    "explanation": "Maize is a cereal (grain) crop.",
+    "topic": "Crop production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of a ruminant animal is the",
+    "opts": [
+      "Pig",
+      "Chicken",
+      "Cow",
+      "Horse"
+    ],
+    "ans": 2,
+    "explanation": "Cows are ruminants with four stomach compartments.",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The practice of growing two or more crops on the same land at the same time is",
+    "opts": [
+      "Mono-cropping",
+      "Pastoral farming",
+      "Crop rotation",
+      "Mixed cropping"
+    ],
+    "ans": 3,
+    "explanation": "Mixed cropping grows several crops together.",
+    "topic": "Cropping systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Cropping systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The young of a cow is a",
+    "opts": [
+      "Kid",
+      "Piglet",
+      "Lamb",
+      "Calf"
+    ],
+    "ans": 3,
+    "explanation": "A young cow is a calf.",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The farm record that shows daily cash received and spent is the",
+    "opts": [
+      "Yield record",
+      "Inventory",
+      "Cash book",
+      "Balance sheet"
+    ],
+    "ans": 2,
+    "explanation": "A cash book records cash transactions.",
+    "topic": "Farm records",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farm records | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The disease of cassava that causes mosaic patterns on leaves is",
+    "opts": [
+      "Cassava wilt",
+      "Cassava rot",
+      "Cassava mosaic disease",
+      "Cassava blight"
+    ],
+    "ans": 2,
+    "explanation": "Cassava mosaic is a viral disease.",
+    "topic": "Crop protection",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop protection | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Agriculture is important mainly because it provides",
+    "opts": [
+      "Cars and machines",
+      "Houses only",
+      "Roads",
+      "Food and raw materials"
+    ],
+    "ans": 3,
+    "explanation": "Agriculture supplies food and industrial raw materials.",
+    "topic": "Meaning and importance of agriculture",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Meaning and importance of agriculture | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The feed given to animals to supply energy is mainly",
+    "opts": [
+      "Carbohydrate",
+      "Vitamin",
+      "Mineral",
+      "Protein"
+    ],
+    "ans": 0,
+    "explanation": "Energy feeds are rich in carbohydrates.",
+    "topic": "Animal nutrition",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal nutrition | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The farming system in which animals are moved from place to place in search of pasture is",
+    "opts": [
+      "Dairy farming",
+      "Ranching",
+      "Nomadic herding",
+      "Mixed farming"
+    ],
+    "ans": 2,
+    "explanation": "Nomadic herders move with their animals.",
+    "topic": "Farming systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farming systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main cash crop of south-western Nigeria is",
+    "opts": [
+      "Rubber",
+      "Cocoa",
+      "Palm oil",
+      "Groundnut"
+    ],
+    "ans": 1,
+    "explanation": "Cocoa is the main cash crop of the south-west.",
+    "topic": "Crop production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The practice of keeping farm animals is called",
+    "opts": [
+      "Animal husbandry",
+      "Horticulture",
+      "Crop farming",
+      "Forestry"
+    ],
+    "ans": 0,
+    "explanation": "Animal husbandry is the care and breeding of farm animals.",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The machine used to harvest grains is the",
+    "opts": [
+      "Harrow",
+      "Combine harvester",
+      "Tractor",
+      "Plough"
+    ],
+    "ans": 1,
+    "explanation": "A combine harvester cuts and threshes grain.",
+    "topic": "Farm machinery",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farm machinery | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of a non-ruminant animal is the",
+    "opts": [
+      "Goat",
+      "Pig",
+      "Sheep",
+      "Cow"
+    ],
+    "ans": 1,
+    "explanation": "Pigs are monogastric (non-ruminant).",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The government agency that provides loans to farmers in Nigeria is the",
+    "opts": [
+      "Bank of Agriculture",
+      "First Bank",
+      "Central Bank only",
+      "World Bank"
+    ],
+    "ans": 0,
+    "explanation": "The Bank of Agriculture lends to farmers.",
+    "topic": "Roles of government in agricultural development",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Roles of government in agricultural development | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gestation period of a cow is about",
+    "opts": [
+      "283 days",
+      "150 days",
+      "365 days",
+      "114 days"
+    ],
+    "ans": 0,
+    "explanation": "A cow's gestation is about 283 days.",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The removal of unwanted plants from a farm is",
+    "opts": [
+      "Thinning",
+      "Weeding",
+      "Pruning",
+      "Harvesting"
+    ],
+    "ans": 1,
+    "explanation": "Weeding removes weeds that compete with crops.",
+    "topic": "Farm practices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farm practices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A farm tool used for cutting grass is the",
+    "opts": [
+      "Spade",
+      "Hoe",
+      "Cutlass",
+      "Rake"
+    ],
+    "ans": 2,
+    "explanation": "A cutlass cuts grass and bushes.",
+    "topic": "Farm tools and implements",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farm tools and implements | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The practice of planting trees to prevent soil erosion is",
+    "opts": [
+      "Overgrazing",
+      "Bush burning",
+      "Afforestation",
+      "Deforestation"
+    ],
+    "ans": 2,
+    "explanation": "Afforestation plants trees to protect soil.",
+    "topic": "Soil conservation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Soil conservation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The farming system in which crops and animals are raised together is",
+    "opts": [
+      "Mixed farming",
+      "Pastoral farming",
+      "Shifting cultivation",
+      "Mono-cropping"
+    ],
+    "ans": 0,
+    "explanation": "Mixed farming combines crops and livestock.",
+    "topic": "Farming systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farming systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The part of the cassava plant that is eaten is the",
+    "opts": [
+      "Stem",
+      "Tuber",
+      "Flower",
+      "Leaf only"
+    ],
+    "ans": 1,
+    "explanation": "Cassava tubers are eaten.",
+    "topic": "Crop production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The most common pest of stored grains is the",
+    "opts": [
+      "Termite",
+      "Weevil",
+      "Aphid",
+      "Grasshopper"
+    ],
+    "ans": 1,
+    "explanation": "Weevils attack stored grains.",
+    "topic": "Crop protection",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop protection | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The best time to harvest maize for grain is when the",
+    "opts": [
+      "Grains are hard and dry",
+      "Plants are flowering",
+      "Cobs are soft",
+      "Leaves are green"
+    ],
+    "ans": 0,
+    "explanation": "Maize is harvested when grains are mature and dry.",
+    "topic": "Crop production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Crop production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The removal of the testicles of a male farm animal is",
+    "opts": [
+      "Dehorning",
+      "Castration",
+      "Docking",
+      "Deworming"
+    ],
+    "ans": 1,
+    "explanation": "Castration removes the testicles.",
+    "topic": "Animal health",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal health | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The loss of the top soil by wind or water is",
+    "opts": [
+      "Erosion",
+      "Leaching",
+      "Irrigation",
+      "Weathering"
+    ],
+    "ans": 0,
+    "explanation": "Erosion removes topsoil.",
+    "topic": "Soil conservation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Soil conservation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The young of a goat is a",
+    "opts": [
+      "Piglet",
+      "Lamb",
+      "Calf",
+      "Kid"
+    ],
+    "ans": 3,
+    "explanation": "A young goat is a kid.",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The housing system in which birds are kept on the floor with litter is the",
+    "opts": [
+      "Deep litter system",
+      "Fold unit",
+      "Battery cage system",
+      "Free range"
+    ],
+    "ans": 0,
+    "explanation": "Deep litter keeps birds on litter-covered floors.",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The practice of growing the same crop on the same land year after year is",
+    "opts": [
+      "Mixed cropping",
+      "Mono-cropping",
+      "Shifting cultivation",
+      "Crop rotation"
+    ],
+    "ans": 1,
+    "explanation": "Mono-cropping grows one crop repeatedly on the same land.",
+    "topic": "Cropping systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Cropping systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chicken kept for meat production is a",
+    "opts": [
+      "Broiler",
+      "Cockerel",
+      "Hen",
+      "Layer"
+    ],
+    "ans": 0,
+    "explanation": "Broilers are raised for meat.",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The soil that drains water fastest is",
+    "opts": [
+      "Sandy soil",
+      "Silt",
+      "Loamy soil",
+      "Clay soil"
+    ],
+    "ans": 0,
+    "explanation": "Sand has large particles and drains quickly.",
+    "topic": "Soil science",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Soil science | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The milk produced by a cow just after giving birth is",
+    "opts": [
+      "Cheese",
+      "Whey",
+      "Butter",
+      "Colostrum"
+    ],
+    "ans": 3,
+    "explanation": "Colostrum is the first milk, rich in antibodies.",
+    "topic": "Animal production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The feed given to animals to build body tissues is mainly",
+    "opts": [
+      "Fat",
+      "Water",
+      "Protein",
+      "Carbohydrate"
+    ],
+    "ans": 2,
+    "explanation": "Protein builds and repairs body tissues.",
+    "topic": "Animal nutrition",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Animal nutrition | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Covering the soil with leaves or straw to conserve moisture is",
+    "opts": [
+      "Weeding",
+      "Mulching",
+      "Tillage",
+      "Harvesting"
+    ],
+    "ans": 1,
+    "explanation": "Mulch conserves moisture and controls weeds.",
+    "topic": "Farm practices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farm practices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A farm tool used for weeding is the",
+    "opts": [
+      "Hoe",
+      "Cutlass",
+      "Spade",
+      "Axe"
+    ],
+    "ans": 0,
+    "explanation": "A hoe is used for weeding and making ridges.",
+    "topic": "Farm tools and implements",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Farm tools and implements | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

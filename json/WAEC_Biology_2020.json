@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The vector of cholera is",
+    "opts": [
+      "Mosquito",
+      "Housefly",
+      "Contaminated water",
+      "Tsetse fly"
+    ],
+    "ans": 2,
+    "explanation": "Cholera spreads through contaminated water and food.",
+    "topic": "Diseases",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Diseases | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The male part of a flower is the",
+    "opts": [
+      "Sepal",
+      "Pistil",
+      "Stamen",
+      "Petal"
+    ],
+    "ans": 2,
+    "explanation": "The stamen is the male reproductive part.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A red blood cell placed in a concentrated salt solution will",
+    "opts": [
+      "Divide",
+      "Shrink",
+      "Remain the same",
+      "Swell and burst"
+    ],
+    "ans": 1,
+    "explanation": "Water leaves the cell by osmosis, so it shrinks (crenation).",
+    "topic": "The cell and its environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: The cell and its environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chamber of the heart that pumps blood to the whole body is the",
+    "opts": [
+      "Right ventricle",
+      "Left ventricle",
+      "Left atrium",
+      "Right atrium"
+    ],
+    "ans": 1,
+    "explanation": "The left ventricle has the thickest wall and pumps blood round the body.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The part of the plant that absorbs water from the soil is the",
+    "opts": [
+      "Stem",
+      "Leaf",
+      "Flower",
+      "Root"
+    ],
+    "ans": 3,
+    "explanation": "Roots absorb water and minerals.",
+    "topic": "Organisation of life",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Organisation of life | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The waste product of respiration is",
+    "opts": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Glucose",
+      "Nitrogen"
+    ],
+    "ans": 0,
+    "explanation": "Respiration releases carbon dioxide and water.",
+    "topic": "Respiration",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Respiration | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The deficiency disease caused by lack of iron is",
+    "opts": [
+      "Kwashiorkor",
+      "Goitre",
+      "Anaemia",
+      "Beriberi"
+    ],
+    "ans": 2,
+    "explanation": "Iron is needed to make haemoglobin; lack causes anaemia.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The developing baby is nourished in the uterus through the",
+    "opts": [
+      "Ovary",
+      "Placenta",
+      "Umbilical cord only",
+      "Amnion"
+    ],
+    "ans": 1,
+    "explanation": "The placenta allows exchange between mother and foetus.",
+    "topic": "Reproduction",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Reproduction | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Digested food is absorbed mainly in the",
+    "opts": [
+      "Small intestine",
+      "Stomach",
+      "Oesophagus",
+      "Large intestine"
+    ],
+    "ans": 0,
+    "explanation": "Absorption occurs through villi in the small intestine.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The part of the flower that produces pollen is the",
+    "opts": [
+      "Anther",
+      "Stigma",
+      "Ovary",
+      "Style"
+    ],
+    "ans": 0,
+    "explanation": "The anther produces pollen grains.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of a dicotyledonous plant is",
+    "opts": [
+      "Rice",
+      "Beans",
+      "Maize",
+      "Guinea corn"
+    ],
+    "ans": 1,
+    "explanation": "Beans are dicots with two seed leaves.",
+    "topic": "Classification",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Classification | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The process by which a seed develops into a seedling is",
+    "opts": [
+      "Germination",
+      "Fertilisation",
+      "Pollination",
+      "Photosynthesis"
+    ],
+    "ans": 0,
+    "explanation": "Germination is the growth of a seed into a seedling.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The hormone that prepares the body for emergency is",
+    "opts": [
+      "Oestrogen",
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin"
+    ],
+    "ans": 2,
+    "explanation": "Adrenaline is the 'fight or flight' hormone.",
+    "topic": "Coordination in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Coordination in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The process by which plants lose water through their leaves is",
+    "opts": [
+      "Guttation",
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis"
+    ],
+    "ans": 2,
+    "explanation": "Transpiration is water loss from leaves.",
+    "topic": "Transport in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Transport in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The basic unit of heredity is the",
+    "opts": [
+      "Nucleus",
+      "Gene",
+      "Chromosome",
+      "Allele"
+    ],
+    "ans": 1,
+    "explanation": "A gene is a unit of heredity.",
+    "topic": "Genetics and heredity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Genetics and heredity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The control centre of the cell is the",
+    "opts": [
+      "Cytoplasm",
+      "Nucleus",
+      "Cell wall",
+      "Vacuole"
+    ],
+    "ans": 1,
+    "explanation": "The nucleus contains genetic material and controls cell activities.",
+    "topic": "The cell",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: The cell | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The blood cells that defend the body against disease are the",
+    "opts": [
+      "Red blood cells",
+      "Plasma cells",
+      "Platelets",
+      "White blood cells"
+    ],
+    "ans": 3,
+    "explanation": "White blood cells fight infection.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The male reproductive cell is the",
+    "opts": [
+      "Embryo",
+      "Zygote",
+      "Ovum",
+      "Sperm"
+    ],
+    "ans": 3,
+    "explanation": "The sperm is the male gamete.",
+    "topic": "Reproduction",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Reproduction | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pigment that carries oxygen in human blood is",
+    "opts": [
+      "Haemoglobin",
+      "Myoglobin",
+      "Melanin",
+      "Chlorophyll"
+    ],
+    "ans": 0,
+    "explanation": "Haemoglobin in red blood cells carries oxygen.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Cholera is caused by",
+    "opts": [
+      "Fungus",
+      "Bacteria",
+      "Protozoan",
+      "Virus"
+    ],
+    "ans": 1,
+    "explanation": "Cholera is caused by the bacterium Vibrio cholerae.",
+    "topic": "Diseases",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Diseases | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The order to which man belongs is",
+    "opts": [
+      "Rodentia",
+      "Primates",
+      "Lagomorpha",
+      "Carnivora"
+    ],
+    "ans": 1,
+    "explanation": "Man belongs to the order Primates.",
+    "topic": "Classification",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Classification | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The movement of molecules from a region of higher concentration to a region of lower concentration is",
+    "opts": [
+      "Osmosis",
+      "Plasmolysis",
+      "Diffusion",
+      "Active transport"
+    ],
+    "ans": 2,
+    "explanation": "Diffusion is passive movement down a concentration gradient.",
+    "topic": "The cell and its environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: The cell and its environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organisms that feed on dead organic matter are the",
+    "opts": [
+      "Decomposers",
+      "Herbivores",
+      "Carnivores",
+      "Producers"
+    ],
+    "ans": 0,
+    "explanation": "Decomposers break down dead matter.",
+    "topic": "Ecology",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Ecology | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The female part of a flower is the",
+    "opts": [
+      "Petal",
+      "Sepal",
+      "Stamen",
+      "Pistil"
+    ],
+    "ans": 3,
+    "explanation": "The pistil is the female reproductive part.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organ that produces bile is the",
+    "opts": [
+      "Gall bladder",
+      "Pancreas",
+      "Spleen",
+      "Liver"
+    ],
+    "ans": 3,
+    "explanation": "The liver produces bile, stored in the gall bladder.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The deficiency disease caused by lack of protein is",
+    "opts": [
+      "Beriberi",
+      "Scurvy",
+      "Kwashiorkor",
+      "Marasmus only"
+    ],
+    "ans": 2,
+    "explanation": "Kwashiorkor is caused by protein deficiency.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Blood clotting is helped by the",
+    "opts": [
+      "Red blood cells",
+      "Platelets",
+      "Plasma",
+      "White blood cells"
+    ],
+    "ans": 1,
+    "explanation": "Platelets help blood to clot.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The vitamin that prevents scurvy is vitamin",
+    "opts": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "ans": 0,
+    "explanation": "Lack of vitamin C causes scurvy.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The human heart has",
+    "opts": [
+      "Three chambers",
+      "Five chambers",
+      "Two chambers",
+      "Four chambers"
+    ],
+    "ans": 3,
+    "explanation": "The human heart has two atria and two ventricles.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The vitamin that prevents night blindness is vitamin",
+    "opts": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "ans": 3,
+    "explanation": "Vitamin A is needed for good vision.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The green pigment in plants is",
+    "opts": [
+      "Melanin",
+      "Carotene",
+      "Chlorophyll",
+      "Haemoglobin"
+    ],
+    "ans": 2,
+    "explanation": "Chlorophyll traps sunlight for photosynthesis.",
+    "topic": "Nutrition in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Protein synthesis takes place in the",
+    "opts": [
+      "Lysosome",
+      "Ribosome",
+      "Nucleus",
+      "Golgi body"
+    ],
+    "ans": 1,
+    "explanation": "Ribosomes are the sites of protein synthesis.",
+    "topic": "The cell",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: The cell | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The part of the eye that controls the amount of light entering is the",
+    "opts": [
+      "Retina",
+      "Cornea",
+      "Iris",
+      "Lens"
+    ],
+    "ans": 2,
+    "explanation": "The iris adjusts the size of the pupil.",
+    "topic": "Coordination in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Coordination in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organ that pumps blood round the body is the",
+    "opts": [
+      "Heart",
+      "Liver",
+      "Lungs",
+      "Kidney"
+    ],
+    "ans": 0,
+    "explanation": "The heart pumps blood.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The part of the flower that receives pollen is the",
+    "opts": [
+      "Anther",
+      "Stigma",
+      "Petal",
+      "Ovary"
+    ],
+    "ans": 1,
+    "explanation": "The stigma receives pollen during pollination.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Photosynthesis takes place in the",
+    "opts": [
+      "Mitochondrion",
+      "Vacuole",
+      "Nucleus",
+      "Chloroplast"
+    ],
+    "ans": 3,
+    "explanation": "Chloroplasts contain chlorophyll for photosynthesis.",
+    "topic": "The cell",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: The cell | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The movement of water molecules through a selectively permeable membrane is",
+    "opts": [
+      "Active transport",
+      "Imbibition",
+      "Diffusion",
+      "Osmosis"
+    ],
+    "ans": 3,
+    "explanation": "Osmosis is water movement across a semi-permeable membrane.",
+    "topic": "The cell and its environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: The cell and its environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gas released by plants during photosynthesis is",
+    "opts": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "ans": 2,
+    "explanation": "Plants release oxygen in photosynthesis.",
+    "topic": "Nutrition in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pyramid of numbers in a grassland ecosystem is usually",
+    "opts": [
+      "Inverted",
+      "Horizontal",
+      "Circular",
+      "Upright"
+    ],
+    "ans": 3,
+    "explanation": "Producers outnumber herbivores, which outnumber carnivores.",
+    "topic": "Ecology",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Ecology | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The enzyme in saliva that digests starch is",
+    "opts": [
+      "Pepsin",
+      "Amylase",
+      "Trypsin",
+      "Lipase"
+    ],
+    "ans": 1,
+    "explanation": "Salivary amylase (ptyalin) digests starch.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The hereditary material in a cell is",
+    "opts": [
+      "DNA",
+      "Protein",
+      "ATP",
+      "RNA only"
+    ],
+    "ans": 0,
+    "explanation": "DNA carries genetic information.",
+    "topic": "Genetics and heredity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Genetics and heredity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A person with blood group AB can receive blood from",
+    "opts": [
+      "All blood groups",
+      "Group A only",
+      "Group O only",
+      "Group AB only"
+    ],
+    "ans": 0,
+    "explanation": "Group AB is the universal recipient.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The opening through which gases enter and leave a leaf is the",
+    "opts": [
+      "Stoma",
+      "Hydathode",
+      "Cuticle",
+      "Lenticel"
+    ],
+    "ans": 0,
+    "explanation": "Stomata are pores for gas exchange.",
+    "topic": "The cell and its environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: The cell and its environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The blood vessel that carries blood to the heart is the",
+    "opts": [
+      "Lymph vessel",
+      "Artery",
+      "Capillary",
+      "Vein"
+    ],
+    "ans": 3,
+    "explanation": "Veins return blood to the heart.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main nitrogenous waste in humans is",
+    "opts": [
+      "Urea",
+      "Ammonia",
+      "Uric acid",
+      "Creatinine"
+    ],
+    "ans": 0,
+    "explanation": "Humans excrete nitrogen mainly as urea.",
+    "topic": "Excretion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Excretion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The natural home of an organism is its",
+    "opts": [
+      "Ecosystem",
+      "Community",
+      "Habitat",
+      "Niche"
+    ],
+    "ans": 2,
+    "explanation": "A habitat is where an organism lives.",
+    "topic": "Ecology",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Ecology | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The finger-like projections that increase the surface area for absorption in the small intestine are the",
+    "opts": [
+      "Nephrons",
+      "Cilia",
+      "Alveoli",
+      "Villi"
+    ],
+    "ans": 3,
+    "explanation": "Villi absorb digested food.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The vitamin that prevents rickets is vitamin",
+    "opts": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "ans": 3,
+    "explanation": "Vitamin D is needed for strong bones; deficiency causes rickets.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The sex chromosomes in a human female are",
+    "opts": [
+      "YY",
+      "XO",
+      "XX",
+      "XY"
+    ],
+    "ans": 2,
+    "explanation": "Females have XX sex chromosomes.",
+    "topic": "Genetics and heredity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Genetics and heredity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The conditions needed for germination are water, oxygen and",
+    "opts": [
+      "Suitable temperature",
+      "Soil always",
+      "Light always",
+      "Carbon dioxide"
+    ],
+    "ans": 0,
+    "explanation": "Seeds need water, oxygen and warmth to germinate.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

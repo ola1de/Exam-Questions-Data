@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Given consumption ₦400bn, investment ₦200bn, government spending ₦150bn, exports ₦80bn and imports ₦60bn, calculate GDP.",
+    "opts": [
+      "₦820bn",
+      "₦720bn",
+      "₦750bn",
+      "₦770bn"
+    ],
+    "ans": 3,
+    "explanation": "GDP = C + I + G + (X - M) = 400 + 200 + 150 + (80 - 60) = ₦770bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦10 to ₦8, quantity demanded rises from 200 to 210 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.25",
+      "0.00",
+      "0.75",
+      "1.00"
+    ],
+    "ans": 0,
+    "explanation": "PED = %ΔQ / %ΔP = 5.0% / 20.0% = 0.25.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price is below equilibrium, there is a",
+    "opts": [
+      "Shortage",
+      "Glut",
+      "Equilibrium",
+      "Surplus"
+    ],
+    "ans": 0,
+    "explanation": "Excess demand appears below equilibrium price.",
+    "topic": "Theory of price determination",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Theory of price determination | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An increase in consumers' income will increase demand for a",
+    "opts": [
+      "Giffen good",
+      "Free good",
+      "Inferior good",
+      "Normal good"
+    ],
+    "ans": 3,
+    "explanation": "Demand for normal goods rises with income.",
+    "topic": "Demand",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Demand | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If the price of a basket was ₦100 in the base year and ₦120 in the current year, find the price index.",
+    "opts": [
+      "120",
+      "115",
+      "100",
+      "125"
+    ],
+    "ans": 0,
+    "explanation": "Price index = (current price/base price) × 100 = 120/100 × 100 = 120.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The International Monetary Fund (IMF) mainly provides",
+    "opts": [
+      "Food aid",
+      "Short-term loans to countries with balance of payments problems",
+      "Military aid",
+      "Long-term development loans"
+    ],
+    "ans": 1,
+    "explanation": "The IMF lends to countries facing balance of payments difficulties.",
+    "topic": "International economic organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: International economic organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The demand for labour is a",
+    "opts": [
+      "Derived demand",
+      "Joint demand",
+      "Direct demand",
+      "Composite demand"
+    ],
+    "ans": 0,
+    "explanation": "Labour is demanded because goods are demanded.",
+    "topic": "Population and labour market",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Population and labour market | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main aim of a trade union is to",
+    "opts": [
+      "Protect workers' interests",
+      "Maximise employers' profits",
+      "Close factories",
+      "Reduce wages"
+    ],
+    "ans": 0,
+    "explanation": "Trade unions seek better pay and conditions for members.",
+    "topic": "Population and labour market",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Population and labour market | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If the price of a basket was ₦200 in the base year and ₦250 in the current year, find the price index.",
+    "opts": [
+      "100",
+      "130",
+      "125",
+      "120"
+    ],
+    "ans": 2,
+    "explanation": "Price index = (current price/base price) × 100 = 250/200 × 100 = 125.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦400bn, investment ₦200bn, government spending ₦100bn, exports ₦80bn and imports ₦30bn, calculate GDP.",
+    "opts": [
+      "None of the above",
+      "₦750bn",
+      "₦700bn",
+      "₦800bn"
+    ],
+    "ans": 1,
+    "explanation": "GDP = C + I + G + (X - M) = 400 + 200 + 100 + (80 - 30) = ₦750bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Price rises from ₦200 to ₦250. Calculate the percentage increase.",
+    "opts": [
+      "25%",
+      "30%",
+      "50%",
+      "20%"
+    ],
+    "ans": 0,
+    "explanation": "Increase = 50; % increase = 50/200 × 100% = 25%.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦20 to ₦15, quantity demanded rises from 100 to 120 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.8",
+      "1.3",
+      "0.3",
+      "1.00"
+    ],
+    "ans": 0,
+    "explanation": "PED = %ΔQ / %ΔP = 20.0% / 25.0% = 0.8.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦20 to ₦19, quantity demanded rises from 100 to 120 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "3.5",
+      "0.00",
+      "1.00",
+      "4.0"
+    ],
+    "ans": 3,
+    "explanation": "PED = %ΔQ / %ΔP = 20.0% / 5.0% = 4.0.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦400bn, investment ₦100bn, government spending ₦150bn, exports ₦50bn and imports ₦30bn, calculate GDP.",
+    "opts": [
+      "₦720bn",
+      "₦670bn",
+      "₦650bn",
+      "₦620bn"
+    ],
+    "ans": 1,
+    "explanation": "GDP = C + I + G + (X - M) = 400 + 100 + 150 + (50 - 30) = ₦670bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦400bn, investment ₦200bn, government spending ₦150bn, exports ₦50bn and imports ₦60bn, calculate GDP.",
+    "opts": [
+      "₦690bn",
+      "₦740bn",
+      "₦790bn",
+      "₦750bn"
+    ],
+    "ans": 1,
+    "explanation": "GDP = C + I + G + (X - M) = 400 + 200 + 150 + (50 - 60) = ₦740bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦500bn, investment ₦100bn, government spending ₦150bn, exports ₦50bn and imports ₦60bn, calculate GDP.",
+    "opts": [
+      "₦790bn",
+      "₦740bn",
+      "₦690bn",
+      "₦750bn"
+    ],
+    "ans": 1,
+    "explanation": "GDP = C + I + G + (X - M) = 500 + 100 + 150 + (50 - 60) = ₦740bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The headquarters of ECOWAS is in",
+    "opts": [
+      "Accra, Ghana",
+      "Abuja, Nigeria",
+      "Lagos, Nigeria",
+      "Dakar, Senegal"
+    ],
+    "ans": 1,
+    "explanation": "ECOWAS headquarters is in Abuja.",
+    "topic": "Economic integration",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Economic integration | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦500bn, investment ₦200bn, government spending ₦150bn, exports ₦80bn and imports ₦60bn, calculate GDP.",
+    "opts": [
+      "₦820bn",
+      "₦870bn",
+      "₦920bn",
+      "₦850bn"
+    ],
+    "ans": 1,
+    "explanation": "GDP = C + I + G + (X - M) = 500 + 200 + 150 + (80 - 60) = ₦870bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦400bn, investment ₦100bn, government spending ₦150bn, exports ₦80bn and imports ₦60bn, calculate GDP.",
+    "opts": [
+      "₦620bn",
+      "₦650bn",
+      "₦670bn",
+      "₦720bn"
+    ],
+    "ans": 2,
+    "explanation": "GDP = C + I + G + (X - M) = 400 + 100 + 150 + (80 - 60) = ₦670bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price is above equilibrium, there is a",
+    "opts": [
+      "Surplus",
+      "Deficit",
+      "Shortage",
+      "Equilibrium"
+    ],
+    "ans": 0,
+    "explanation": "Excess supply appears above equilibrium price.",
+    "topic": "Theory of price determination",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Theory of price determination | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦10 to ₦5, quantity demanded rises from 100 to 120 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.25",
+      "0.4",
+      "0.00",
+      "0.9"
+    ],
+    "ans": 1,
+    "explanation": "PED = %ΔQ / %ΔP = 20.0% / 50.0% = 0.4.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Unemployment caused by changes in the structure of the economy is",
+    "opts": [
+      "Voluntary unemployment",
+      "Frictional unemployment",
+      "Structural unemployment",
+      "Cyclical unemployment"
+    ],
+    "ans": 2,
+    "explanation": "Structural unemployment follows shifts in industries and skills.",
+    "topic": "Population and labour market",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Population and labour market | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The total cost of producing a given output is the sum of",
+    "opts": [
+      "Implicit cost only",
+      "Fixed cost and variable cost",
+      "Marginal cost and average cost",
+      "Explicit cost only"
+    ],
+    "ans": 1,
+    "explanation": "TC = FC + VC.",
+    "topic": "Theory of cost and revenue",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Theory of cost and revenue | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The World Bank mainly provides",
+    "opts": [
+      "Short-term balance of payments loans",
+      "Long-term loans for development projects",
+      "Military aid",
+      "Emergency food aid"
+    ],
+    "ans": 1,
+    "explanation": "The World Bank funds development projects.",
+    "topic": "International economic organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: International economic organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Malthusian theory of population states that population grows in",
+    "opts": [
+      "The same rate as food",
+      "Arithmetic progression",
+      "Declining numbers",
+      "Geometric progression while food grows arithmetically"
+    ],
+    "ans": 3,
+    "explanation": "Malthus said population grows geometrically, food arithmetically.",
+    "topic": "Population and labour market",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Population and labour market | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The reward for labour is",
+    "opts": [
+      "Wages",
+      "Interest",
+      "Rent",
+      "Profit"
+    ],
+    "ans": 0,
+    "explanation": "Labour earns wages (or salaries).",
+    "topic": "Factors of production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Factors of production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The middleman between the producer and the retailer is the",
+    "opts": [
+      "Retailer",
+      "Consumer",
+      "Wholesaler",
+      "Agent only"
+    ],
+    "ans": 2,
+    "explanation": "The wholesaler buys in bulk and sells to retailers.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The law of supply states that, other things being equal, as price rises, quantity supplied",
+    "opts": [
+      "Falls",
+      "Stays the same",
+      "Becomes zero",
+      "Rises"
+    ],
+    "ans": 3,
+    "explanation": "Supply curves slope upwards.",
+    "topic": "Supply",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Supply | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦20 to ₦15, quantity demanded rises from 200 to 220 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.00",
+      "1.00",
+      "0.4",
+      "0.25"
+    ],
+    "ans": 2,
+    "explanation": "PED = %ΔQ / %ΔP = 10.0% / 25.0% = 0.4.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦500bn, investment ₦100bn, government spending ₦150bn, exports ₦50bn and imports ₦30bn, calculate GDP.",
+    "opts": [
+      "₦820bn",
+      "₦770bn",
+      "₦720bn",
+      "₦750bn"
+    ],
+    "ans": 1,
+    "explanation": "GDP = C + I + G + (X - M) = 500 + 100 + 150 + (50 - 30) = ₦770bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦10 to ₦9, quantity demanded rises from 200 to 220 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "1.5",
+      "0.00",
+      "1.0",
+      "0.5"
+    ],
+    "ans": 2,
+    "explanation": "PED = %ΔQ / %ΔP = 10.0% / 10.0% = 1.0.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The balance of payments records a country's",
+    "opts": [
+      "Internal trade only",
+      "Bank deposits",
+      "Government spending only",
+      "Transactions with the rest of the world"
+    ],
+    "ans": 3,
+    "explanation": "The balance of payments records international transactions.",
+    "topic": "International trade and balance of payments",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: International trade and balance of payments | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Price rises from ₦100 to ₦120. Calculate the percentage increase.",
+    "opts": [
+      "15%",
+      "40%",
+      "20%",
+      "25%"
+    ],
+    "ans": 2,
+    "explanation": "Increase = 20; % increase = 20/100 × 100% = 20%.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦10 to ₦9, quantity demanded rises from 200 to 210 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.5",
+      "0.25",
+      "0.00",
+      "1.00"
+    ],
+    "ans": 0,
+    "explanation": "PED = %ΔQ / %ΔP = 5.0% / 10.0% = 0.5.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Marginal cost is the",
+    "opts": [
+      "Average cost of production",
+      "Cost of fixed inputs",
+      "Total cost divided by output",
+      "Extra cost of producing one more unit"
+    ],
+    "ans": 3,
+    "explanation": "MC = change in TC / change in output.",
+    "topic": "Theory of cost and revenue",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Theory of cost and revenue | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Economic Community of West African States (ECOWAS) was founded in",
+    "opts": [
+      "1975",
+      "1963",
+      "1960",
+      "1980"
+    ],
+    "ans": 0,
+    "explanation": "ECOWAS was founded by the Treaty of Lagos in 1975.",
+    "topic": "Economic integration",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Economic integration | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An increase in the price of a substitute good will",
+    "opts": [
+      "Decrease demand for the good",
+      "Not affect demand",
+      "Decrease supply",
+      "Increase demand for the good"
+    ],
+    "ans": 3,
+    "explanation": "Consumers switch to the relatively cheaper good.",
+    "topic": "Demand",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Demand | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦20 to ₦19, quantity demanded rises from 200 to 250 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "1.00",
+      "5.5",
+      "5.0",
+      "0.00"
+    ],
+    "ans": 2,
+    "explanation": "PED = %ΔQ / %ΔP = 25.0% / 5.0% = 5.0.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main function of the central bank is to",
+    "opts": [
+      "Sell goods",
+      "Control the money supply",
+      "Accept deposits from the public",
+      "Give loans to individuals"
+    ],
+    "ans": 1,
+    "explanation": "The central bank regulates money and credit.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Costs that do not change with output are",
+    "opts": [
+      "Variable costs",
+      "Average costs",
+      "Fixed costs",
+      "Marginal costs"
+    ],
+    "ans": 2,
+    "explanation": "Fixed costs, e.g. rent, do not vary with output.",
+    "topic": "Theory of cost and revenue",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Theory of cost and revenue | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦400bn, investment ₦100bn, government spending ₦100bn, exports ₦80bn and imports ₦60bn, calculate GDP.",
+    "opts": [
+      "₦570bn",
+      "₦670bn",
+      "₦600bn",
+      "₦620bn"
+    ],
+    "ans": 3,
+    "explanation": "GDP = C + I + G + (X - M) = 400 + 100 + 100 + (80 - 60) = ₦620bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main aim of a sole proprietorship is to",
+    "opts": [
+      "Provide employment only",
+      "Avoid competition",
+      "Pay taxes",
+      "Make profit"
+    ],
+    "ans": 3,
+    "explanation": "A sole trader aims to earn profit.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Nigeria operates a",
+    "opts": [
+      "Command economy only",
+      "Pure socialist economy",
+      "Mixed economy",
+      "Pure capitalist economy"
+    ],
+    "ans": 2,
+    "explanation": "Nigeria combines private and public ownership.",
+    "topic": "Types and basic features of economic systems",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Types and basic features of economic systems | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Value Added Tax (VAT) is an example of an",
+    "opts": [
+      "Progressive tax",
+      "Poll tax",
+      "Direct tax",
+      "Indirect tax"
+    ],
+    "ans": 3,
+    "explanation": "VAT is paid by consumers through sellers.",
+    "topic": "Public finance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Public finance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦400bn, investment ₦100bn, government spending ₦150bn, exports ₦80bn and imports ₦30bn, calculate GDP.",
+    "opts": [
+      "₦700bn",
+      "₦650bn",
+      "None of the above",
+      "₦750bn"
+    ],
+    "ans": 0,
+    "explanation": "GDP = C + I + G + (X - M) = 400 + 100 + 150 + (80 - 30) = ₦700bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The middleman who sells directly to the final consumer is the",
+    "opts": [
+      "Producer",
+      "Wholesaler",
+      "Retailer",
+      "Agent"
+    ],
+    "ans": 2,
+    "explanation": "The retailer sells to final consumers.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦500bn, investment ₦100bn, government spending ₦100bn, exports ₦80bn and imports ₦60bn, calculate GDP.",
+    "opts": [
+      "₦720bn",
+      "₦770bn",
+      "₦670bn",
+      "₦700bn"
+    ],
+    "ans": 0,
+    "explanation": "GDP = C + I + G + (X - M) = 500 + 100 + 100 + (80 - 60) = ₦720bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Personal income tax is an example of a",
+    "opts": [
+      "Excise duty",
+      "Direct tax",
+      "Customs duty",
+      "Indirect tax"
+    ],
+    "ans": 1,
+    "explanation": "Income tax is levied directly on the earner.",
+    "topic": "Public finance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Public finance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In perfect competition, there are",
+    "opts": [
+      "One seller",
+      "One buyer",
+      "Few sellers",
+      "Many buyers and sellers"
+    ],
+    "ans": 3,
+    "explanation": "Perfect competition has many buyers and sellers of identical products.",
+    "topic": "Market structures",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Market structures | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If the price of a basket was ₦200 in the base year and ₦220 in the current year, find the price index.",
+    "opts": [
+      "115",
+      "100",
+      "110",
+      "105"
+    ],
+    "ans": 2,
+    "explanation": "Price index = (current price/base price) × 100 = 220/200 × 100 = 110.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

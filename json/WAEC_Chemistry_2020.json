@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Calculate the percentage by mass of the named element in methane, CH4 (hydrogen).",
+    "opts": [
+      "50%",
+      "10%",
+      "100%",
+      "25%"
+    ],
+    "ans": 3,
+    "explanation": "Percentage by mass = (mass of element/molar mass) × 100% = 25%.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "How many moles are in 32 g of a substance of molar mass 16 g/mol?",
+    "opts": [
+      "12",
+      "2",
+      "4",
+      "7"
+    ],
+    "ans": 1,
+    "explanation": "Moles = mass/molar mass = 32/16 = 2 mol.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ethene is an example of an",
+    "opts": [
+      "Alkene",
+      "Alkyne",
+      "Alkane",
+      "Alcohol"
+    ],
+    "ans": 0,
+    "explanation": "Ethene (C2H4) has a carbon-carbon double bond.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 8 and mass number 15. How many neutrons does it have?",
+    "opts": [
+      "7",
+      "5",
+      "22",
+      "1"
+    ],
+    "ans": 0,
+    "explanation": "Neutrons = mass number - atomic number = 15 - 8 = 7.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The separation of a mixture of liquids with different boiling points is done by",
+    "opts": [
+      "Fractional distillation",
+      "Chromatography",
+      "Filtration",
+      "Sublimation"
+    ],
+    "ans": 0,
+    "explanation": "Fractional distillation separates liquids by boiling point.",
+    "topic": "Separation techniques",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Separation techniques | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The monomer of polythene is",
+    "opts": [
+      "Benzene",
+      "Propene",
+      "Ethane",
+      "Ethene"
+    ],
+    "ans": 3,
+    "explanation": "Polythene is made by polymerising ethene.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a chemical change?",
+    "opts": [
+      "Melting of ice",
+      "Dissolving salt in water",
+      "Boiling of water",
+      "Rusting of iron"
+    ],
+    "ans": 3,
+    "explanation": "Rusting forms a new substance, iron(III) oxide.",
+    "topic": "Introduction to chemistry: physical and chemical changes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Introduction to chemistry: physical and chemical changes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the relative molecular mass of O2. [H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35.5]",
+    "opts": [
+      "27",
+      "31",
+      "32",
+      "28"
+    ],
+    "ans": 2,
+    "explanation": "The relative molecular mass of O2 is 32.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Avogadro's number is approximately",
+    "opts": [
+      "6.02 × 10²⁴",
+      "6.02 × 10²²",
+      "6.02 × 10²³",
+      "6.02 × 10²⁰"
+    ],
+    "ans": 2,
+    "explanation": "One mole contains 6.02 × 10²³ particles.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The first element in the periodic table is",
+    "opts": [
+      "Oxygen",
+      "Hydrogen",
+      "Helium",
+      "Lithium"
+    ],
+    "ans": 1,
+    "explanation": "Hydrogen has atomic number 1.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the relative molecular mass of CH4. [H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35.5]",
+    "opts": [
+      "22",
+      "21",
+      "12",
+      "16"
+    ],
+    "ans": 3,
+    "explanation": "The relative molecular mass of CH4 is 16.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The most reactive metal in the reactivity series is",
+    "opts": [
+      "Sodium",
+      "Zinc",
+      "Potassium",
+      "Calcium"
+    ],
+    "ans": 2,
+    "explanation": "Potassium is the most reactive common metal.",
+    "topic": "Metals and reactivity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Metals and reactivity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Soap is made by the reaction of fats with",
+    "opts": [
+      "Hydrochloric acid",
+      "Sodium hydroxide",
+      "Nitric acid",
+      "Sulphuric acid"
+    ],
+    "ans": 1,
+    "explanation": "Saponification is fat + alkali → soap + glycerol.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The best method of obtaining pure water from sea water is",
+    "opts": [
+      "Decantation",
+      "Evaporation to dryness",
+      "Distillation",
+      "Filtration"
+    ],
+    "ans": 2,
+    "explanation": "Distillation boils off water and condenses the vapour, leaving salts behind.",
+    "topic": "Separation techniques",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Separation techniques | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 7 and mass number 24. How many neutrons does it have?",
+    "opts": [
+      "16",
+      "20",
+      "22",
+      "17"
+    ],
+    "ans": 3,
+    "explanation": "Neutrons = mass number - atomic number = 24 - 7 = 17.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Graphite conducts electricity because it has",
+    "opts": [
+      "Hydrogen bonds",
+      "Metallic bonds",
+      "Delocalised electrons between its layers",
+      "Free ions"
+    ],
+    "ans": 2,
+    "explanation": "Delocalised electrons move between graphite layers.",
+    "topic": "Chemical bonds",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Chemical bonds | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The oxidation number of oxygen in most compounds is",
+    "opts": [
+      "+2",
+      "-2",
+      "-1",
+      "0"
+    ],
+    "ans": 1,
+    "explanation": "Oxygen usually has oxidation number -2.",
+    "topic": "Redox reactions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Redox reactions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 8 and mass number 22. How many neutrons does it have?",
+    "opts": [
+      "14",
+      "10",
+      "24",
+      "17"
+    ],
+    "ans": 0,
+    "explanation": "Neutrons = mass number - atomic number = 22 - 8 = 14.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which metal is extracted by electrolysis of its molten ore?",
+    "opts": [
+      "Zinc",
+      "Iron",
+      "Aluminium",
+      "Copper"
+    ],
+    "ans": 2,
+    "explanation": "Aluminium is extracted by electrolysis of bauxite.",
+    "topic": "Metals and reactivity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Metals and reactivity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical symbol for iron is",
+    "opts": [
+      "Fe",
+      "Ir",
+      "Fn",
+      "I"
+    ],
+    "ans": 0,
+    "explanation": "Iron comes from Latin 'ferrum', symbol Fe.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The sum of protons and neutrons in an atom is its",
+    "opts": [
+      "Mass number",
+      "Charge number",
+      "Atomic number",
+      "Valency"
+    ],
+    "ans": 0,
+    "explanation": "Mass number A = protons + neutrons.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is an example of a mixture?",
+    "opts": [
+      "Water",
+      "Air",
+      "Iron",
+      "Common salt"
+    ],
+    "ans": 1,
+    "explanation": "Air is a mixture of gases.",
+    "topic": "Elements, compounds and mixtures",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Elements, compounds and mixtures | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a reducing agent?",
+    "opts": [
+      "Oxygen",
+      "Concentrated sulphuric acid",
+      "Chlorine",
+      "Carbon monoxide"
+    ],
+    "ans": 3,
+    "explanation": "Carbon monoxide reduces metal oxides, being itself oxidised.",
+    "topic": "Redox reactions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Redox reactions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The functional group of carboxylic acids is",
+    "opts": [
+      "-OH",
+      "-CHO",
+      "-CO-",
+      "-COOH"
+    ],
+    "ans": 3,
+    "explanation": "Carboxylic acids contain -COOH.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The general formula of alkanes is",
+    "opts": [
+      "CnH2n+1",
+      "CnH2n",
+      "CnH2n+2",
+      "CnH2n-2"
+    ],
+    "ans": 2,
+    "explanation": "Alkanes follow CnH2n+2.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the relative molecular mass of N2. [H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35.5]",
+    "opts": [
+      "22",
+      "43",
+      "28",
+      "23"
+    ],
+    "ans": 2,
+    "explanation": "The relative molecular mass of N2 is 28.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is an ionic compound?",
+    "opts": [
+      "Carbon dioxide",
+      "Methane",
+      "Water",
+      "Sodium chloride"
+    ],
+    "ans": 3,
+    "explanation": "NaCl is held by electrostatic attraction between ions.",
+    "topic": "Chemical bonds",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Chemical bonds | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The method used to remove permanent hardness of water is",
+    "opts": [
+      "Boiling",
+      "Distillation",
+      "Adding washing soda",
+      "Filtration"
+    ],
+    "ans": 2,
+    "explanation": "Boiling removes temporary hardness only; washing soda removes permanent hardness.",
+    "topic": "Water",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Water | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Rusting of iron is prevented by",
+    "opts": [
+      "Adding water",
+      "Galvanising",
+      "Heating",
+      "Cooling"
+    ],
+    "ans": 1,
+    "explanation": "Galvanising coats iron with zinc, preventing rust.",
+    "topic": "Metals and reactivity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Metals and reactivity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a transition metal?",
+    "opts": [
+      "Aluminium",
+      "Sodium",
+      "Iron",
+      "Calcium"
+    ],
+    "ans": 2,
+    "explanation": "Iron is a transition metal.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a noble gas?",
+    "opts": [
+      "Chlorine",
+      "Nitrogen",
+      "Oxygen",
+      "Argon"
+    ],
+    "ans": 3,
+    "explanation": "Argon is in Group 0, the noble gases.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical formula of carbon dioxide is",
+    "opts": [
+      "CO3",
+      "CO",
+      "C2O",
+      "CO2"
+    ],
+    "ans": 3,
+    "explanation": "Carbon dioxide is CO2.",
+    "topic": "Chemical formulae",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Chemical formulae | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The best method of separating a mixture of sand and water is",
+    "opts": [
+      "Sublimation",
+      "Distillation",
+      "Evaporation",
+      "Filtration"
+    ],
+    "ans": 3,
+    "explanation": "Sand is insoluble, so filtration separates it from water.",
+    "topic": "Separation techniques",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Separation techniques | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the relative molecular mass of H2O. [H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35.5]",
+    "opts": [
+      "18",
+      "12",
+      "48",
+      "16"
+    ],
+    "ans": 0,
+    "explanation": "The relative molecular mass of H2O is 18.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A gas occupies 4 dm³ at 100 kPa. If the pressure is doubled at constant temperature, what is the new volume?",
+    "opts": [
+      "3 dm³",
+      "2 dm³",
+      "4 dm³",
+      "8 dm³"
+    ],
+    "ans": 1,
+    "explanation": "Boyle's law: P1V1 = P2V2, so V2 = 100×4/200 = 2 dm³.",
+    "topic": "Gas laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Gas laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The functional group of alcohols is",
+    "opts": [
+      "-COOH",
+      "-NH2",
+      "-OH",
+      "-CHO"
+    ],
+    "ans": 2,
+    "explanation": "Alcohols contain the hydroxyl group -OH.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pH of a neutral solution at 25°C is",
+    "opts": [
+      "7",
+      "1",
+      "14",
+      "0"
+    ],
+    "ans": 0,
+    "explanation": "Neutral solutions have pH 7 at 25°C.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the percentage by mass of the named element in water, H2O (oxygen).",
+    "opts": [
+      "10%",
+      "50%",
+      "88.9%",
+      "100%"
+    ],
+    "ans": 2,
+    "explanation": "Percentage by mass = (mass of element/molar mass) × 100% = 88.9%.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following affects the position of equilibrium?",
+    "opts": [
+      "Temperature",
+      "Pressure only for gases",
+      "Catalyst",
+      "Colour of reactants"
+    ],
+    "ans": 0,
+    "explanation": "A catalyst does not change equilibrium position; temperature does.",
+    "topic": "Chemical equilibrium",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Chemical equilibrium | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 6 and mass number 14. How many neutrons does it have?",
+    "opts": [
+      "6",
+      "10",
+      "8",
+      "18"
+    ],
+    "ans": 2,
+    "explanation": "Neutrons = mass number - atomic number = 14 - 6 = 8.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical symbol for sodium is",
+    "opts": [
+      "Na",
+      "N",
+      "Sd",
+      "So"
+    ],
+    "ans": 0,
+    "explanation": "Sodium comes from Latin 'natrium', symbol Na.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the relative molecular mass of HCl. [H = 1, Cl = 35.5]",
+    "opts": [
+      "36",
+      "36.5",
+      "37.5",
+      "35.5"
+    ],
+    "ans": 1,
+    "explanation": "Mr = 1 + 35.5 = 36.5.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The oxidation number of hydrogen in most compounds is",
+    "opts": [
+      "0",
+      "+1",
+      "+2",
+      "-1"
+    ],
+    "ans": 1,
+    "explanation": "Hydrogen usually has oxidation number +1.",
+    "topic": "Redox reactions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Redox reactions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 7 and mass number 18. How many neutrons does it have?",
+    "opts": [
+      "11",
+      "9",
+      "12",
+      "5"
+    ],
+    "ans": 0,
+    "explanation": "Neutrons = mass number - atomic number = 18 - 7 = 11.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gas used in the manufacture of ammonia by the Haber process is",
+    "opts": [
+      "Carbon dioxide and hydrogen",
+      "Nitrogen and hydrogen",
+      "Oxygen and hydrogen",
+      "Nitrogen and oxygen"
+    ],
+    "ans": 1,
+    "explanation": "Ammonia is made from nitrogen and hydrogen.",
+    "topic": "Chemical industries",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Chemical industries | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Diamond is hard because its carbon atoms are",
+    "opts": [
+      "Held by weak van der Waals forces",
+      "Held in a strong three-dimensional covalent network",
+      "Held by metallic bonds",
+      "Arranged in layers"
+    ],
+    "ans": 1,
+    "explanation": "Diamond is held in a giant covalent structure.",
+    "topic": "Chemical bonds",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Chemical bonds | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which gas turns limewater milky?",
+    "opts": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "ans": 1,
+    "explanation": "CO2 reacts with limewater to form white calcium carbonate.",
+    "topic": "Chemical reactions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Chemical reactions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gas responsible for the depletion of the ozone layer is",
+    "opts": [
+      "Chlorofluorocarbon",
+      "Nitrogen",
+      "Methane",
+      "Carbon dioxide"
+    ],
+    "ans": 0,
+    "explanation": "CFCs release chlorine that destroys ozone.",
+    "topic": "Chemistry and the environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Chemistry and the environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The general formula of alkenes is",
+    "opts": [
+      "CnH2n-2",
+      "CnH2n+2",
+      "CnH2n+1",
+      "CnH2n"
+    ],
+    "ans": 3,
+    "explanation": "Alkenes follow CnH2n.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a strong acid?",
+    "opts": [
+      "Carbonic acid",
+      "Hydrochloric acid",
+      "Ethanoic acid",
+      "Citric acid"
+    ],
+    "ans": 1,
+    "explanation": "Hydrochloric acid ionises completely in water.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

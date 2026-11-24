@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Find the determinant of the matrix [[2, 3], [3, 3]].",
+    "opts": [
+      "-3",
+      "17",
+      "-1",
+      "2"
+    ],
+    "ans": 0,
+    "explanation": "det = 2×3 - 3×3 = 6 - 9 = -3.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate lim(x→0) sin 8x / x.",
+    "opts": [
+      "9",
+      "18",
+      "8",
+      "4"
+    ],
+    "ans": 2,
+    "explanation": "lim(x→0) sin 8x / x = 8 (standard limit).",
+    "topic": "Calculus: limits",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: limits | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 2x + 2, find f(1).",
+    "opts": [
+      "5",
+      "25",
+      "3",
+      "15"
+    ],
+    "ans": 0,
+    "explanation": "f(1) = 1 + 2 + 2 = 5.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate log_4 256.",
+    "opts": [
+      "3",
+      "0",
+      "24",
+      "4"
+    ],
+    "ans": 3,
+    "explanation": "log_4 256 = 4 because 4^4 = 256.",
+    "topic": "Algebra: logarithms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: logarithms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate log_4 16.",
+    "opts": [
+      "6",
+      "2",
+      "12",
+      "0"
+    ],
+    "ans": 1,
+    "explanation": "log_4 16 = 2 because 4^2 = 16.",
+    "topic": "Algebra: logarithms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: logarithms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[3, 2], [3, 1]].",
+    "opts": [
+      "17",
+      "-3",
+      "-11",
+      "-6"
+    ],
+    "ans": 1,
+    "explanation": "det = 3×1 - 2×3 = 3 - 6 = -3.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the gradient of the curve y = 2x² at x = 1.",
+    "opts": [
+      "24",
+      "4",
+      "14",
+      "2"
+    ],
+    "ans": 1,
+    "explanation": "dy/dx = 4x; at x = 1, dy/dx = 4 × 1 = 4.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[2, 4], [3, 2]].",
+    "opts": [
+      "0",
+      "-8",
+      "12",
+      "7"
+    ],
+    "ans": 1,
+    "explanation": "det = 2×2 - 4×3 = 4 - 12 = -8.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the sum of the first 3 terms of the geometric progression 4, 8, 16, ...",
+    "opts": [
+      "32",
+      "24",
+      "34",
+      "28"
+    ],
+    "ans": 3,
+    "explanation": "S3 = a(r^n - 1)/(r - 1) = 4(2^3 - 1) = 28.",
+    "topic": "Sequences and series: geometric progression",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sequences and series: geometric progression | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[3, 4], [6, 2]].",
+    "opts": [
+      "-48",
+      "-13",
+      "-8",
+      "-18"
+    ],
+    "ans": 3,
+    "explanation": "det = 3×2 - 4×6 = 6 - 24 = -18.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate lim(x→0) sin 6x / x.",
+    "opts": [
+      "16",
+      "4",
+      "6",
+      "2"
+    ],
+    "ans": 2,
+    "explanation": "lim(x→0) sin 6x / x = 6 (standard limit).",
+    "topic": "Calculus: limits",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: limits | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 3x + 2, find f(1).",
+    "opts": [
+      "16",
+      "6",
+      "36",
+      "12"
+    ],
+    "ans": 1,
+    "explanation": "f(1) = 1 + 3 + 2 = 6.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[1, 6], [1, 5]].",
+    "opts": [
+      "-1",
+      "19",
+      "1",
+      "3"
+    ],
+    "ans": 0,
+    "explanation": "det = 1×5 - 6×1 = 5 - 6 = -1.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 3x + 4, find f(1).",
+    "opts": [
+      "7",
+      "8",
+      "10",
+      "4"
+    ],
+    "ans": 1,
+    "explanation": "f(1) = 1 + 3 + 4 = 8.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 4x + 4, find f(1).",
+    "opts": [
+      "8",
+      "15",
+      "7",
+      "9"
+    ],
+    "ans": 3,
+    "explanation": "f(1) = 1 + 4 + 4 = 9.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[5, 5], [1, 1]].",
+    "opts": [
+      "-15",
+      "10",
+      "-4",
+      "0"
+    ],
+    "ans": 3,
+    "explanation": "det = 5×1 - 5×1 = 5 - 5 = 0.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate log_3 81.",
+    "opts": [
+      "4",
+      "9",
+      "14",
+      "6"
+    ],
+    "ans": 0,
+    "explanation": "log_3 81 = 4 because 3^4 = 81.",
+    "topic": "Algebra: logarithms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: logarithms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate log_2 4.",
+    "opts": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "ans": 0,
+    "explanation": "log_2 4 = 2 because 2^2 = 4.",
+    "topic": "Algebra: logarithms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: logarithms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 6x^4, find f'(1).",
+    "opts": [
+      "24",
+      "19",
+      "16",
+      "34"
+    ],
+    "ans": 0,
+    "explanation": "f'(x) = 24x^3; f'(1) = 24 × 1^3 = 24.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the gradient of the curve y = 3x² at x = 3.",
+    "opts": [
+      "48",
+      "14",
+      "18",
+      "38"
+    ],
+    "ans": 2,
+    "explanation": "dy/dx = 6x; at x = 3, dy/dx = 6 × 3 = 18.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the coefficient of x^2 in the binomial expansion of (1 + x)^6.",
+    "opts": [
+      "20",
+      "13",
+      "15",
+      "17"
+    ],
+    "ans": 2,
+    "explanation": "C(6, 2) = 6!/(2!4!) = 15.",
+    "topic": "Algebra: binomial theorem",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: binomial theorem | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[3, 6], [1, 2]].",
+    "opts": [
+      "0",
+      "-3",
+      "-20",
+      "20"
+    ],
+    "ans": 0,
+    "explanation": "det = 3×2 - 6×1 = 6 - 6 = 0.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[6, 2], [3, 6]].",
+    "opts": [
+      "36",
+      "34",
+      "27",
+      "30"
+    ],
+    "ans": 3,
+    "explanation": "det = 6×6 - 2×3 = 36 - 6 = 30.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[4, 1], [4, 4]].",
+    "opts": [
+      "12",
+      "-8",
+      "15",
+      "11"
+    ],
+    "ans": 0,
+    "explanation": "det = 4×4 - 1×4 = 16 - 4 = 12.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[6, 4], [6, 2]].",
+    "opts": [
+      "28",
+      "-12",
+      "-27",
+      "-8"
+    ],
+    "ans": 1,
+    "explanation": "det = 6×2 - 4×6 = 12 - 24 = -12.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate lim(x→0) sin 9x / x.",
+    "opts": [
+      "7",
+      "29",
+      "9",
+      "11"
+    ],
+    "ans": 2,
+    "explanation": "lim(x→0) sin 9x / x = 9 (standard limit).",
+    "topic": "Calculus: limits",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: limits | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In how many ways can 2 officers be chosen in order from 7 candidates?",
+    "opts": [
+      "42",
+      "62",
+      "46",
+      "38"
+    ],
+    "ans": 0,
+    "explanation": "Permutations: P(7, 2) = 7!/5! = 42.",
+    "topic": "Probability: permutations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Probability: permutations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[5, 5], [3, 4]].",
+    "opts": [
+      "5",
+      "-35",
+      "-15",
+      "15"
+    ],
+    "ans": 0,
+    "explanation": "det = 5×4 - 5×3 = 20 - 15 = 5.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[5, 5], [5, 6]].",
+    "opts": [
+      "25",
+      "5",
+      "-1",
+      "-15"
+    ],
+    "ans": 1,
+    "explanation": "det = 5×6 - 5×5 = 30 - 25 = 5.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate ∫₀¹ 2x^1 dx.",
+    "opts": [
+      "2/3",
+      "2",
+      "3/2",
+      "1"
+    ],
+    "ans": 3,
+    "explanation": "∫ 2x^1 dx = 2x^2/2; from 0 to 1 this is 2/2 = 1.",
+    "topic": "Calculus: integration",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: integration | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[2, 3], [3, 5]].",
+    "opts": [
+      "-4",
+      "9",
+      "1",
+      "-9"
+    ],
+    "ans": 2,
+    "explanation": "det = 2×5 - 3×3 = 10 - 9 = 1.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the sum of the first 5 terms of the geometric progression 3, 6, 12, ...",
+    "opts": [
+      "85",
+      "93",
+      "90",
+      "98"
+    ],
+    "ans": 1,
+    "explanation": "S5 = a(r^n - 1)/(r - 1) = 3(2^5 - 1) = 93.",
+    "topic": "Sequences and series: geometric progression",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sequences and series: geometric progression | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate lim(x→0) sin 2x / x.",
+    "opts": [
+      "12",
+      "4",
+      "0",
+      "2"
+    ],
+    "ans": 3,
+    "explanation": "lim(x→0) sin 2x / x = 2 (standard limit).",
+    "topic": "Calculus: limits",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: limits | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 5x + 4, find f(1).",
+    "opts": [
+      "12",
+      "10",
+      "30",
+      "0"
+    ],
+    "ans": 1,
+    "explanation": "f(1) = 1 + 5 + 4 = 10.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[2, 6], [5, 3]].",
+    "opts": [
+      "-14",
+      "-4",
+      "-24",
+      "-9"
+    ],
+    "ans": 2,
+    "explanation": "det = 2×3 - 6×5 = 6 - 30 = -24.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 3x + 1, find f(1).",
+    "opts": [
+      "3",
+      "5",
+      "4",
+      "25"
+    ],
+    "ans": 1,
+    "explanation": "f(1) = 1 + 3 + 1 = 5.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[5, 1], [5, 1]].",
+    "opts": [
+      "4",
+      "0",
+      "-8",
+      "40"
+    ],
+    "ans": 1,
+    "explanation": "det = 5×1 - 1×5 = 5 - 5 = 0.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 5x + 3, find f(1).",
+    "opts": [
+      "6",
+      "14",
+      "8",
+      "9"
+    ],
+    "ans": 3,
+    "explanation": "f(1) = 1 + 5 + 3 = 9.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the determinant of the matrix [[3, 3], [3, 3]].",
+    "opts": [
+      "20",
+      "4",
+      "0",
+      "-1"
+    ],
+    "ans": 2,
+    "explanation": "det = 3×3 - 3×3 = 9 - 9 = 0.",
+    "topic": "Matrices",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Matrices | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 1x + 1, find f(1).",
+    "opts": [
+      "1",
+      "5",
+      "0",
+      "3"
+    ],
+    "ans": 3,
+    "explanation": "f(1) = 1 + 1 + 1 = 3.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the gradient of the curve y = 2x² at x = 3.",
+    "opts": [
+      "12",
+      "17",
+      "9",
+      "32"
+    ],
+    "ans": 0,
+    "explanation": "dy/dx = 4x; at x = 3, dy/dx = 4 × 3 = 12.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate ∫₀¹ 3x^2 dx.",
+    "opts": [
+      "3",
+      "4/3",
+      "1",
+      "3/4"
+    ],
+    "ans": 2,
+    "explanation": "∫ 3x^2 dx = 3x^3/3; from 0 to 1 this is 3/3 = 1.",
+    "topic": "Calculus: integration",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: integration | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the sum of the first 5 terms of the geometric progression 2, 4, 8, ...",
+    "opts": [
+      "57",
+      "68",
+      "62",
+      "82"
+    ],
+    "ans": 2,
+    "explanation": "S5 = a(r^n - 1)/(r - 1) = 2(2^5 - 1) = 62.",
+    "topic": "Sequences and series: geometric progression",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Sequences and series: geometric progression | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In how many ways can 2 officers be chosen in order from 5 candidates?",
+    "opts": [
+      "30",
+      "26",
+      "20",
+      "25"
+    ],
+    "ans": 2,
+    "explanation": "Permutations: P(5, 2) = 5!/3! = 20.",
+    "topic": "Probability: permutations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Probability: permutations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate ∫₀¹ 4x^2 dx.",
+    "opts": [
+      "4/3",
+      "1",
+      "4",
+      "5/3"
+    ],
+    "ans": 0,
+    "explanation": "∫ 4x^2 dx = 4x^3/3; from 0 to 1 this is 4/3 = 4/3.",
+    "topic": "Calculus: integration",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: integration | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the modulus of 8 + 6i.",
+    "opts": [
+      "25",
+      "12",
+      "10",
+      "0"
+    ],
+    "ans": 2,
+    "explanation": "|8 + 6i| = √(8² + 6²) = √100 = 10.",
+    "topic": "Complex numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Complex numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 6x^4, find f'(3).",
+    "opts": [
+      "652",
+      "640",
+      "608",
+      "648"
+    ],
+    "ans": 3,
+    "explanation": "f'(x) = 24x^3; f'(3) = 24 × 3^3 = 648.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 4x + 2, find f(1).",
+    "opts": [
+      "1",
+      "17",
+      "6",
+      "7"
+    ],
+    "ans": 3,
+    "explanation": "f(1) = 1 + 4 + 2 = 7.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Evaluate ∫₀¹ 2x^2 dx.",
+    "opts": [
+      "1/2",
+      "1",
+      "2/3",
+      "2"
+    ],
+    "ans": 2,
+    "explanation": "∫ 2x^2 dx = 2x^3/3; from 0 to 1 this is 2/3 = 2/3.",
+    "topic": "Calculus: integration",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Calculus: integration | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 3x + 5, find f(1).",
+    "opts": [
+      "7",
+      "9",
+      "11",
+      "19"
+    ],
+    "ans": 1,
+    "explanation": "f(1) = 1 + 3 + 5 = 9.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

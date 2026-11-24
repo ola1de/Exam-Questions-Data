@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The main purpose of a bank reconciliation statement is to",
+    "opts": [
+      "Record cheques",
+      "Reconcile the cash book balance with the bank statement",
+      "Prepare the trial balance",
+      "Calculate profit"
+    ],
+    "ans": 1,
+    "explanation": "It explains differences between the cash book and bank statement.",
+    "topic": "Bank reconciliation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Bank reconciliation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Goods costing ₦80000 are sold at a mark-up of 20%. Find the selling price.",
+    "opts": [
+      "₦88000",
+      "₦96000",
+      "₦80000",
+      "₦101000"
+    ],
+    "ans": 1,
+    "explanation": "Mark-up = 20% of ₦80000 = ₦16000; selling price = ₦96000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Drawings by the owner reduce the",
+    "opts": [
+      "Capital",
+      "Purchases",
+      "Liabilities",
+      "Sales"
+    ],
+    "ans": 0,
+    "explanation": "Drawings reduce the owner's capital.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A machine cost ₦50000 and is depreciated at 20% per annum on a straight-line basis. Find the annual depreciation.",
+    "opts": [
+      "₦40000",
+      "₦5000",
+      "₦10000",
+      "₦20000"
+    ],
+    "ans": 2,
+    "explanation": "Depreciation = 20% × ₦50000 = ₦10000.",
+    "topic": "Provisions and reserves: depreciation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Provisions and reserves: depreciation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If total debits exceed total credits in a trial balance, the difference is a",
+    "opts": [
+      "Credit balance",
+      "Loss",
+      "Profit",
+      "Debit balance"
+    ],
+    "ans": 3,
+    "explanation": "Excess debits give a debit balance.",
+    "topic": "Trial balance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Trial balance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A trader's sales were ₦100000 and cost of goods sold was ₦80000. Find the gross profit.",
+    "opts": [
+      "₦20000",
+      "₦30000",
+      "₦80000",
+      "₦180000"
+    ],
+    "ans": 0,
+    "explanation": "Gross profit = sales - cost of goods sold = ₦100000 - ₦80000 = ₦20000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Bad debts are written off in the",
+    "opts": [
+      "Cash book",
+      "Trading account",
+      "Balance sheet only",
+      "Profit and loss account"
+    ],
+    "ans": 3,
+    "explanation": "Bad debts are an expense in the profit and loss account.",
+    "topic": "Provisions and reserves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Provisions and reserves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Opening stock ₦20000, purchases ₦40000 and closing stock ₦15000. Find the cost of goods sold.",
+    "opts": [
+      "₦25000",
+      "₦60000",
+      "₦45000",
+      "₦75000"
+    ],
+    "ans": 2,
+    "explanation": "Cost of goods sold = 20000 + 40000 - 15000 = ₦45000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The source document issued for cash received is the",
+    "opts": [
+      "Credit note",
+      "Receipt",
+      "Invoice",
+      "Debit note"
+    ],
+    "ans": 1,
+    "explanation": "A receipt acknowledges cash received.",
+    "topic": "Source documents",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Source documents | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A machine cost ₦10000 and is depreciated at 10% per annum on a straight-line basis. Find the annual depreciation.",
+    "opts": [
+      "₦500",
+      "₦1000",
+      "₦2000",
+      "₦9000"
+    ],
+    "ans": 1,
+    "explanation": "Depreciation = 10% × ₦10000 = ₦1000.",
+    "topic": "Provisions and reserves: depreciation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Provisions and reserves: depreciation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An increase in assets is recorded on the",
+    "opts": [
+      "Balance sheet only",
+      "Trial balance only",
+      "Credit side",
+      "Debit side"
+    ],
+    "ans": 3,
+    "explanation": "Assets increase on the debit side.",
+    "topic": "The accounting equation and double entry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: The accounting equation and double entry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Returns inwards are also called",
+    "opts": [
+      "Purchases returns",
+      "Sales returns",
+      "Discount received",
+      "Discount allowed"
+    ],
+    "ans": 1,
+    "explanation": "Goods returned by customers are sales returns.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The manufacturing account is prepared to find the",
+    "opts": [
+      "Net profit",
+      "Selling price",
+      "Cost of production",
+      "Gross profit"
+    ],
+    "ans": 2,
+    "explanation": "It calculates the cost of goods manufactured.",
+    "topic": "Manufacturing accounts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Manufacturing accounts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Opening stock ₦10000, purchases ₦60000 and closing stock ₦5000. Find the cost of goods sold.",
+    "opts": [
+      "₦55000",
+      "₦70000",
+      "₦75000",
+      "₦65000"
+    ],
+    "ans": 3,
+    "explanation": "Cost of goods sold = 10000 + 60000 - 5000 = ₦65000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A salesman earns 10% commission on sales of ₦100000. Find his commission.",
+    "opts": [
+      "₦90000",
+      "₦5000",
+      "₦20000",
+      "₦10000"
+    ],
+    "ans": 3,
+    "explanation": "Commission = 10% × ₦100000 = ₦10000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Current assets are ₦90000 and current liabilities are ₦30000. Find the working capital.",
+    "opts": [
+      "₦120000",
+      "₦30000",
+      "₦70000",
+      "₦60000"
+    ],
+    "ans": 3,
+    "explanation": "Working capital = 90000 - 30000 = ₦60000.",
+    "topic": "Final accounts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Current assets are ₦120000 and current liabilities are ₦30000. Find the working capital.",
+    "opts": [
+      "₦30000",
+      "₦100000",
+      "₦90000",
+      "₦150000"
+    ],
+    "ans": 2,
+    "explanation": "Working capital = 120000 - 30000 = ₦90000.",
+    "topic": "Final accounts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A trader's sales were ₦50000 and cost of goods sold was ₦30000. Find the gross profit.",
+    "opts": [
+      "₦20000",
+      "₦80000",
+      "₦30000",
+      "None of the above"
+    ],
+    "ans": 0,
+    "explanation": "Gross profit = sales - cost of goods sold = ₦50000 - ₦30000 = ₦20000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A business that sells goods on credit is extending",
+    "opts": [
+      "Trade credit",
+      "An overdraft",
+      "A discount",
+      "A loan"
+    ],
+    "ans": 0,
+    "explanation": "Credit sales are trade credit to customers.",
+    "topic": "Final accounts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Ordinary shares carry",
+    "opts": [
+      "Fixed dividends only",
+      "No voting rights",
+      "Guaranteed interest",
+      "Voting rights and variable dividends"
+    ],
+    "ans": 3,
+    "explanation": "Ordinary shareholders vote and receive variable dividends.",
+    "topic": "Company accounts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Company accounts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A salesman earns 10% commission on sales of ₦200000. Find his commission.",
+    "opts": [
+      "₦40000",
+      "₦10000",
+      "₦180000",
+      "₦20000"
+    ],
+    "ans": 3,
+    "explanation": "Commission = 10% × ₦200000 = ₦20000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A machine cost ₦100000 and is depreciated at 25% per annum on a straight-line basis. Find the annual depreciation.",
+    "opts": [
+      "₦50000",
+      "₦25000",
+      "₦75000",
+      "₦12500"
+    ],
+    "ans": 1,
+    "explanation": "Depreciation = 25% × ₦100000 = ₦25000.",
+    "topic": "Provisions and reserves: depreciation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Provisions and reserves: depreciation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a non-current asset?",
+    "opts": [
+      "Cash at bank",
+      "Stock",
+      "Motor vehicles",
+      "Debtors"
+    ],
+    "ans": 2,
+    "explanation": "Motor vehicles are non-current assets.",
+    "topic": "Final accounts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A machine cost ₦100000 and is depreciated at 20% per annum on a straight-line basis. Find the annual depreciation.",
+    "opts": [
+      "₦40000",
+      "₦20000",
+      "₦10000",
+      "₦80000"
+    ],
+    "ans": 1,
+    "explanation": "Depreciation = 20% × ₦100000 = ₦20000.",
+    "topic": "Provisions and reserves: depreciation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Provisions and reserves: depreciation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Current assets ₦80000 (including stock of ₦40000) and current liabilities ₦20000. Find the acid test ratio.",
+    "opts": [
+      "3:1",
+      "1:1",
+      "2:1",
+      "None of the above"
+    ],
+    "ans": 2,
+    "explanation": "Acid test = (80000 - 40000)/20000 = 2:1.",
+    "topic": "Ratio analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Ratio analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Current assets ₦100000 (including stock of ₦20000) and current liabilities ₦20000. Find the acid test ratio.",
+    "opts": [
+      "1:1",
+      "2:1",
+      "4:1",
+      "5:1"
+    ],
+    "ans": 2,
+    "explanation": "Acid test = (100000 - 20000)/20000 = 4:1.",
+    "topic": "Ratio analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Ratio analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The account used to correct errors in the ledger is the",
+    "opts": [
+      "Drawings account",
+      "Control account",
+      "Suspense account",
+      "Capital account"
+    ],
+    "ans": 2,
+    "explanation": "A suspense account holds differences pending correction.",
+    "topic": "Correction of errors",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Correction of errors | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A trader's sales were ₦80000 and cost of goods sold was ₦56000. Find the gross profit.",
+    "opts": [
+      "₦34000",
+      "₦136000",
+      "₦56000",
+      "₦24000"
+    ],
+    "ans": 3,
+    "explanation": "Gross profit = sales - cost of goods sold = ₦80000 - ₦56000 = ₦24000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Current assets ₦80000 (including stock of ₦20000) and current liabilities ₦20000. Find the acid test ratio.",
+    "opts": [
+      "3:1",
+      "2:1",
+      "4:1",
+      "1:1"
+    ],
+    "ans": 0,
+    "explanation": "Acid test = (80000 - 20000)/20000 = 3:1.",
+    "topic": "Ratio analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Ratio analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The acid test ratio excludes",
+    "opts": [
+      "Bank",
+      "Stock",
+      "Debtors",
+      "Cash"
+    ],
+    "ans": 1,
+    "explanation": "Acid test = (current assets - stock) / current liabilities.",
+    "topic": "Ratio analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Ratio analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A trader's sales were ₦50000 and cost of goods sold was ₦40000. Find the gross profit.",
+    "opts": [
+      "₦90000",
+      "₦20000",
+      "₦40000",
+      "₦10000"
+    ],
+    "ans": 3,
+    "explanation": "Gross profit = sales - cost of goods sold = ₦50000 - ₦40000 = ₦10000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A salesman earns 10% commission on sales of ₦500000. Find his commission.",
+    "opts": [
+      "₦50000",
+      "₦100000",
+      "₦25000",
+      "₦450000"
+    ],
+    "ans": 0,
+    "explanation": "Commission = 10% × ₦500000 = ₦50000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A machine cost ₦50000 and is depreciated at 10% per annum on a straight-line basis. Find the annual depreciation.",
+    "opts": [
+      "₦2500",
+      "₦45000",
+      "₦5000",
+      "₦10000"
+    ],
+    "ans": 2,
+    "explanation": "Depreciation = 10% × ₦50000 = ₦5000.",
+    "topic": "Provisions and reserves: depreciation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Provisions and reserves: depreciation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A trader's sales were ₦80000 and cost of goods sold was ₦64000. Find the gross profit.",
+    "opts": [
+      "₦144000",
+      "₦16000",
+      "₦26000",
+      "₦64000"
+    ],
+    "ans": 1,
+    "explanation": "Gross profit = sales - cost of goods sold = ₦80000 - ₦64000 = ₦16000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The straight-line method of depreciation charges",
+    "opts": [
+      "A decreasing amount each year",
+      "A fixed amount each year",
+      "Depreciation only on disposal",
+      "An increasing amount each year"
+    ],
+    "ans": 1,
+    "explanation": "Straight-line depreciation is a fixed annual charge.",
+    "topic": "Provisions and reserves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Provisions and reserves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Discount allowed is",
+    "opts": [
+      "An asset",
+      "Income",
+      "A liability",
+      "An expense"
+    ],
+    "ans": 3,
+    "explanation": "Discount allowed to customers is an expense.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A business has current assets of ₦100000 and current liabilities of ₦50000. Find the current ratio.",
+    "opts": [
+      "None of the above",
+      "1:1",
+      "2:1",
+      "3:1"
+    ],
+    "ans": 2,
+    "explanation": "Current ratio = 100000/50000 = 2:1.",
+    "topic": "Ratio analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Ratio analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The reducing-balance method of depreciation charges",
+    "opts": [
+      "A fixed percentage of the diminishing value",
+      "Depreciation on cost only",
+      "No depreciation after year one",
+      "A fixed amount each year"
+    ],
+    "ans": 0,
+    "explanation": "Reducing balance applies a fixed rate to the book value.",
+    "topic": "Provisions and reserves",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Provisions and reserves | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A sales ledger control account is also called the",
+    "opts": [
+      "Debtors control account",
+      "Creditors control account",
+      "Cash control account",
+      "General ledger"
+    ],
+    "ans": 0,
+    "explanation": "It controls the debtors (sales) ledger.",
+    "topic": "Control accounts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Control accounts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Current assets ₦80000 (including stock of ₦40000) and current liabilities ₦40000. Find the acid test ratio.",
+    "opts": [
+      "1:1",
+      "2:1",
+      "All of the above",
+      "None of the above"
+    ],
+    "ans": 0,
+    "explanation": "Acid test = (80000 - 40000)/40000 = 1:1.",
+    "topic": "Ratio analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Ratio analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A machine cost ₦50000 and is depreciated at 25% per annum on a straight-line basis. Find the annual depreciation.",
+    "opts": [
+      "₦12500",
+      "₦37500",
+      "₦25000",
+      "₦6250"
+    ],
+    "ans": 0,
+    "explanation": "Depreciation = 25% × ₦50000 = ₦12500.",
+    "topic": "Provisions and reserves: depreciation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Provisions and reserves: depreciation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The cash book is a book of original entry and also a",
+    "opts": [
+      "Ledger",
+      "Journal",
+      "Trial balance",
+      "Balance sheet"
+    ],
+    "ans": 0,
+    "explanation": "The cash book serves as both a book of original entry and a ledger.",
+    "topic": "Books of original entry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Books of original entry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Opening stock ₦20000, purchases ₦60000 and closing stock ₦5000. Find the cost of goods sold.",
+    "opts": [
+      "₦85000",
+      "₦55000",
+      "₦75000",
+      "₦80000"
+    ],
+    "ans": 2,
+    "explanation": "Cost of goods sold = 20000 + 60000 - 5000 = ₦75000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Goods costing ₦40000 are sold at a mark-up of 20%. Find the selling price.",
+    "opts": [
+      "₦48000",
+      "₦53000",
+      "₦40000",
+      "₦44000"
+    ],
+    "ans": 0,
+    "explanation": "Mark-up = 20% of ₦40000 = ₦8000; selling price = ₦48000.",
+    "topic": "Final accounts of a sole trader",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts of a sole trader | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a current asset?",
+    "opts": [
+      "Land and buildings",
+      "Stock",
+      "Motor vehicles",
+      "Plant and machinery"
+    ],
+    "ans": 1,
+    "explanation": "Stock is a current asset.",
+    "topic": "Final accounts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An unpresented cheque in a bank reconciliation is",
+    "opts": [
+      "Added to the bank statement balance",
+      "Deducted from the cash book",
+      "Ignored",
+      "Added to the cash book"
+    ],
+    "ans": 0,
+    "explanation": "Unpresented cheques have been recorded in the cash book but not yet by the bank.",
+    "topic": "Bank reconciliation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Bank reconciliation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A business has current assets of ₦80000 and current liabilities of ₦20000. Find the current ratio.",
+    "opts": [
+      "1:1",
+      "5:1",
+      "4:1",
+      "2:1"
+    ],
+    "ans": 2,
+    "explanation": "Current ratio = 80000/20000 = 4:1.",
+    "topic": "Ratio analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Ratio analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A partnership is a business owned by",
+    "opts": [
+      "Shareholders only",
+      "Two or more persons",
+      "One person",
+      "The government"
+    ],
+    "ans": 1,
+    "explanation": "A partnership has two or more owners.",
+    "topic": "Partnership accounts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Partnership accounts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Current assets are ₦120000 and current liabilities are ₦50000. Find the working capital.",
+    "opts": [
+      "₦50000",
+      "₦80000",
+      "₦170000",
+      "₦70000"
+    ],
+    "ans": 3,
+    "explanation": "Working capital = 120000 - 50000 = ₦70000.",
+    "topic": "Final accounts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Final accounts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The book of original entry for credit sales is the",
+    "opts": [
+      "Cash book",
+      "General journal",
+      "Sales day book",
+      "Purchases day book"
+    ],
+    "ans": 2,
+    "explanation": "Credit sales are first recorded in the sales day book.",
+    "topic": "Books of original entry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Books of original entry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The body that regulates trade in Nigeria is the",
+    "opts": [
+      "Nigeria Customs only",
+      "Central Bank only",
+      "Federal Ministry of Trade and Investment",
+      "Stock Exchange"
+    ],
+    "ans": 2,
+    "explanation": "Trade is regulated by the Federal Ministry of Trade and Investment.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main purpose of advertising is to",
+    "opts": [
+      "Reduce prices",
+      "Produce goods",
+      "Inform and persuade consumers",
+      "Store goods"
+    ],
+    "ans": 2,
+    "explanation": "Advertising informs and persuades.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Nigerian Stock Exchange is a market for",
+    "opts": [
+      "Shares and stocks",
+      "Raw materials",
+      "Food items",
+      "Foreign goods"
+    ],
+    "ans": 0,
+    "explanation": "The stock exchange trades securities.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Mail order business sells goods through the",
+    "opts": [
+      "Market",
+      "Street",
+      "Post",
+      "Shop"
+    ],
+    "ans": 2,
+    "explanation": "Mail order uses the post.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organisation that controls imports and exports at the borders is the",
+    "opts": [
+      "Federal Inland Revenue Service",
+      "Nigeria Customs Service",
+      "Immigration Service",
+      "Nigeria Police"
+    ],
+    "ans": 1,
+    "explanation": "Customs controls goods crossing borders.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main function of a bank is to",
+    "opts": [
+      "Sell goods",
+      "Produce goods",
+      "Accept deposits and give loans",
+      "Insure goods"
+    ],
+    "ans": 2,
+    "explanation": "Banks take deposits and lend.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The fastest means of transport is by",
+    "opts": [
+      "Rail",
+      "Air",
+      "Road",
+      "Water"
+    ],
+    "ans": 1,
+    "explanation": "Air transport is the fastest.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A cheque that is not dated is",
+    "opts": [
+      "Valid",
+      "Invalid",
+      "Post-dated",
+      "Stale"
+    ],
+    "ans": 1,
+    "explanation": "An undated cheque is not valid.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The person who writes a cheque is the",
+    "opts": [
+      "Drawer",
+      "Payee",
+      "Drawee",
+      "Endorsee"
+    ],
+    "ans": 0,
+    "explanation": "The drawer writes the cheque.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main advantage of hire purchase to the buyer is that goods can be used while",
+    "opts": [
+      "Saving money",
+      "Waiting for delivery",
+      "Paying in instalments",
+      "Paying cash"
+    ],
+    "ans": 2,
+    "explanation": "Hire purchase allows use before full payment.",
+    "topic": "Methods of payment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Methods of payment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The principle that the insured should not profit from a loss is",
+    "opts": [
+      "Utmost good faith",
+      "Subrogation",
+      "Indemnity",
+      "Proximate cause"
+    ],
+    "ans": 2,
+    "explanation": "Indemnity restores the insured to the pre-loss position.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The person who takes out an insurance policy is the",
+    "opts": [
+      "Insurer",
+      "Agent",
+      "Broker",
+      "Insured"
+    ],
+    "ans": 3,
+    "explanation": "The insured is the policy holder.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The audit of a company's accounts is done by the",
+    "opts": [
+      "Director",
+      "Shareholder",
+      "Manager",
+      "Auditor"
+    ],
+    "ans": 3,
+    "explanation": "An auditor examines the accounts.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A cooperative society is formed to",
+    "opts": [
+      "Make maximum profit",
+      "Serve the interests of its members",
+      "Avoid tax",
+      "Employ workers"
+    ],
+    "ans": 1,
+    "explanation": "Cooperatives serve members.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A cheque is an instruction to a bank to",
+    "opts": [
+      "Pay money from an account",
+      "Lend money",
+      "Close an account",
+      "Open an account"
+    ],
+    "ans": 0,
+    "explanation": "A cheque orders the bank to pay.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A common medium of advertising is the",
+    "opts": [
+      "Post office",
+      "Television",
+      "Bank",
+      "Warehouse"
+    ],
+    "ans": 1,
+    "explanation": "Television is an advertising medium.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Trade is the",
+    "opts": [
+      "Buying and selling of goods and services",
+      "Production of goods",
+      "Storage of goods",
+      "Transportation of goods"
+    ],
+    "ans": 0,
+    "explanation": "Trade is buying and selling.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Home trade is trade carried on",
+    "opts": [
+      "Across the seas",
+      "Between countries",
+      "Between continents",
+      "Within a country"
+    ],
+    "ans": 3,
+    "explanation": "Home trade is internal trade.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A person who sells goods directly to the final consumer is a",
+    "opts": [
+      "Retailer",
+      "Agent",
+      "Wholesaler",
+      "Producer"
+    ],
+    "ans": 0,
+    "explanation": "The retailer sells to final consumers.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Foreign trade is trade carried on",
+    "opts": [
+      "Between countries",
+      "Within a village",
+      "Within a town",
+      "Within a state"
+    ],
+    "ans": 0,
+    "explanation": "Foreign trade is international trade.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The certificate that allows a company to start business is the",
+    "opts": [
+      "Articles",
+      "Memorandum",
+      "Prospectus",
+      "Certificate of incorporation"
+    ],
+    "ans": 3,
+    "explanation": "Incorporation gives the company legal existence.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The transport of goods by rail is suitable for",
+    "opts": [
+      "Short distances",
+      "Perishable goods only",
+      "Heavy goods over long distances",
+      "Air freight"
+    ],
+    "ans": 2,
+    "explanation": "Rail carries heavy goods over land.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The memorandum of association of a company states its",
+    "opts": [
+      "Directors' salaries",
+      "Internal rules",
+      "Objects and powers",
+      "Share prices"
+    ],
+    "ans": 2,
+    "explanation": "The memorandum defines the company's objects.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The market where goods are sold in small quantities to consumers is the",
+    "opts": [
+      "Stock market",
+      "Commodity market",
+      "Wholesale market",
+      "Retail market"
+    ],
+    "ans": 3,
+    "explanation": "Retail markets sell to consumers.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Hire purchase is a method of buying goods by",
+    "opts": [
+      "Credit card only",
+      "Barter",
+      "Instalments",
+      "Cash only"
+    ],
+    "ans": 2,
+    "explanation": "Hire purchase spreads payment over time.",
+    "topic": "Methods of payment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Methods of payment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A fixed deposit account pays",
+    "opts": [
+      "Interest only on withdrawal",
+      "Higher interest than a savings account",
+      "Lower interest than a savings account",
+      "No interest"
+    ],
+    "ans": 1,
+    "explanation": "Fixed deposits earn higher interest.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The document that shows payment has been received is the",
+    "opts": [
+      "Credit note",
+      "Order",
+      "Receipt",
+      "Invoice"
+    ],
+    "ans": 2,
+    "explanation": "A receipt acknowledges payment.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Fire insurance covers loss by",
+    "opts": [
+      "Fire",
+      "Theft",
+      "Flood",
+      "Accident"
+    ],
+    "ans": 0,
+    "explanation": "Fire insurance covers fire damage.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The body that standardises products in Nigeria is the",
+    "opts": [
+      "Stock Exchange",
+      "Customs Service",
+      "Central Bank",
+      "Standards Organisation of Nigeria"
+    ],
+    "ans": 3,
+    "explanation": "SON sets product standards.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A limited liability company is one in which the liability of shareholders is limited to",
+    "opts": [
+      "Their unpaid shares",
+      "Their personal property",
+      "The company's debts",
+      "Nothing"
+    ],
+    "ans": 0,
+    "explanation": "Liability is limited to unpaid share capital.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The principle of insurance that requires the insured to disclose all material facts is",
+    "opts": [
+      "Utmost good faith",
+      "Subrogation",
+      "Contribution",
+      "Indemnity"
+    ],
+    "ans": 0,
+    "explanation": "Utmost good faith requires full disclosure.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A claim is a demand for",
+    "opts": [
+      "Compensation after a loss",
+      "A new policy",
+      "A loan",
+      "A premium refund"
+    ],
+    "ans": 0,
+    "explanation": "A claim asks the insurer to pay for a loss.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The articles of association of a company contain its",
+    "opts": [
+      "Share capital",
+      "Registered office",
+      "Objects",
+      "Internal rules"
+    ],
+    "ans": 3,
+    "explanation": "The articles govern internal management.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A favourable balance of trade means exports are",
+    "opts": [
+      "Zero",
+      "Less than imports",
+      "Equal to imports",
+      "Greater than imports"
+    ],
+    "ans": 3,
+    "explanation": "A favourable balance means exports exceed imports.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The bank on which a cheque is drawn is the",
+    "opts": [
+      "Bearer",
+      "Drawer",
+      "Drawee",
+      "Payee"
+    ],
+    "ans": 2,
+    "explanation": "The drawee is the bank that pays.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A bill of lading is a document used in",
+    "opts": [
+      "Rail transport",
+      "Sea transport",
+      "Air transport",
+      "Road transport"
+    ],
+    "ans": 1,
+    "explanation": "A bill of lading is issued for goods shipped by sea.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The document used to request goods from a supplier is the",
+    "opts": [
+      "Receipt",
+      "Order",
+      "Invoice",
+      "Cheque"
+    ],
+    "ans": 1,
+    "explanation": "An order requests goods.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A crossed cheque can only be paid",
+    "opts": [
+      "To anyone",
+      "In cash over the counter",
+      "Through a bank account",
+      "To the bearer"
+    ],
+    "ans": 2,
+    "explanation": "A crossed cheque must be paid into an account.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A current account is used mainly for",
+    "opts": [
+      "Fixed deposits",
+      "Loans only",
+      "Frequent withdrawals by cheque",
+      "Long-term savings"
+    ],
+    "ans": 2,
+    "explanation": "Current accounts allow cheque payments.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of an extractive occupation is",
+    "opts": [
+      "Fishing",
+      "Plumbing",
+      "Banking",
+      "Bricklaying"
+    ],
+    "ans": 0,
+    "explanation": "Extractive occupations take raw materials from nature.",
+    "topic": "Occupations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Occupations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A consignment note is used in",
+    "opts": [
+      "Air transport",
+      "Road transport",
+      "Pipeline transport",
+      "Sea transport"
+    ],
+    "ans": 1,
+    "explanation": "A consignment note accompanies goods by road.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A trade discount is given to",
+    "opts": [
+      "Increase prices",
+      "Encourage bulk buying",
+      "Avoid tax",
+      "Reduce profit"
+    ],
+    "ans": 1,
+    "explanation": "Trade discounts reward bulk purchases.",
+    "topic": "Methods of payment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Methods of payment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A share is a unit of",
+    "opts": [
+      "Loan",
+      "Ownership in a company",
+      "Deposit",
+      "Debt"
+    ],
+    "ans": 1,
+    "explanation": "A share represents part-ownership of a company.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The transport of goods by road is suitable for",
+    "opts": [
+      "Short distances",
+      "Heavy bulk goods",
+      "Long distances only",
+      "Overseas trade"
+    ],
+    "ans": 0,
+    "explanation": "Road transport is best for short distances.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A person who buys goods in bulk and sells in smaller quantities to retailers is a",
+    "opts": [
+      "Retailer",
+      "Consumer",
+      "Producer",
+      "Wholesaler"
+    ],
+    "ans": 3,
+    "explanation": "The wholesaler buys in bulk and sells to retailers.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of a commercial occupation is",
+    "opts": [
+      "Fishing",
+      "Banking",
+      "Mining",
+      "Farming"
+    ],
+    "ans": 1,
+    "explanation": "Banking is a commercial service occupation.",
+    "topic": "Occupations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Occupations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The middleman who buys and sells on behalf of others for a commission is an",
+    "opts": [
+      "Agent",
+      "Consumer",
+      "Wholesaler",
+      "Retailer"
+    ],
+    "ans": 0,
+    "explanation": "An agent acts for a principal for commission.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The document sent by a seller to a buyer showing goods sold and their prices is the",
+    "opts": [
+      "Cheque",
+      "Order",
+      "Receipt",
+      "Invoice"
+    ],
+    "ans": 3,
+    "explanation": "An invoice states what was sold and the price.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A tax on goods produced within a country is called",
+    "opts": [
+      "Import duty",
+      "Export duty",
+      "Value Added Tax",
+      "Excise duty"
+    ],
+    "ans": 3,
+    "explanation": "Excise duty is levied on locally produced goods.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of a manufacturing occupation is",
+    "opts": [
+      "Fishing",
+      "Farming",
+      "Mining",
+      "Baking"
+    ],
+    "ans": 3,
+    "explanation": "Manufacturing turns raw materials into finished goods.",
+    "topic": "Occupations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Occupations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

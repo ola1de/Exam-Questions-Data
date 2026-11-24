@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "When price falls from ₦10 to ₦5, quantity demanded rises from 200 to 210 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "1.00",
+      "0.6",
+      "0.25",
+      "0.1"
+    ],
+    "ans": 3,
+    "explanation": "PED = %ΔQ / %ΔP = 5.0% / 50.0% = 0.1.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Deflation is a",
+    "opts": [
+      "General fall in the price level",
+      "Fall in unemployment",
+      "Rise in the price level",
+      "Rise in money supply"
+    ],
+    "ans": 0,
+    "explanation": "Deflation is a sustained fall in general prices.",
+    "topic": "Money and inflation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Money and inflation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A firm sells 200 units at ₦20 each. Find its total revenue.",
+    "opts": [
+      "₦4000",
+      "₦220",
+      "₦4100",
+      "₦3900"
+    ],
+    "ans": 0,
+    "explanation": "Total revenue = price × quantity = ₦20 × 200 = ₦4000.",
+    "topic": "Theory of cost and revenue",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Theory of cost and revenue | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦10 to ₦9, quantity demanded rises from 100 to 150 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "1.00",
+      "5.0",
+      "4.5",
+      "0.00"
+    ],
+    "ans": 1,
+    "explanation": "PED = %ΔQ / %ΔP = 50.0% / 10.0% = 5.0.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The cost of the next best alternative forgone is called",
+    "opts": [
+      "Marginal cost",
+      "Money cost",
+      "Fixed cost",
+      "Opportunity cost"
+    ],
+    "ans": 3,
+    "explanation": "Opportunity cost is the alternative given up.",
+    "topic": "Definition and scope of economics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Definition and scope of economics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The International Monetary Fund (IMF) mainly provides",
+    "opts": [
+      "Long-term development loans",
+      "Food aid",
+      "Military aid",
+      "Short-term loans to countries with balance of payments problems"
+    ],
+    "ans": 3,
+    "explanation": "The IMF lends to countries facing balance of payments difficulties.",
+    "topic": "International economic organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: International economic organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Unemployment in which people are out of work between jobs is",
+    "opts": [
+      "Frictional unemployment",
+      "Cyclical unemployment",
+      "Structural unemployment",
+      "Seasonal unemployment"
+    ],
+    "ans": 0,
+    "explanation": "Frictional unemployment is short-term, between jobs.",
+    "topic": "Population and labour market",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Population and labour market | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The point where demand equals supply is the",
+    "opts": [
+      "Equilibrium point",
+      "Minimum point",
+      "Break-even point",
+      "Maximum point"
+    ],
+    "ans": 0,
+    "explanation": "At equilibrium, quantity demanded equals quantity supplied.",
+    "topic": "Theory of price determination",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Theory of price determination | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main aim of a trade union is to",
+    "opts": [
+      "Reduce wages",
+      "Maximise employers' profits",
+      "Close factories",
+      "Protect workers' interests"
+    ],
+    "ans": 3,
+    "explanation": "Trade unions seek better pay and conditions for members.",
+    "topic": "Population and labour market",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Population and labour market | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦20 to ₦19, quantity demanded rises from 100 to 150 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "10.5",
+      "1.00",
+      "10.0",
+      "0.00"
+    ],
+    "ans": 2,
+    "explanation": "PED = %ΔQ / %ΔP = 50.0% / 5.0% = 10.0.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A firm sells 100 units at ₦25 each. Find its total revenue.",
+    "opts": [
+      "₦2400",
+      "₦2600",
+      "₦125",
+      "₦2500"
+    ],
+    "ans": 3,
+    "explanation": "Total revenue = price × quantity = ₦25 × 100 = ₦2500.",
+    "topic": "Theory of cost and revenue",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Theory of cost and revenue | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Price rises from ₦200 to ₦250. Calculate the percentage increase.",
+    "opts": [
+      "20%",
+      "25%",
+      "50%",
+      "30%"
+    ],
+    "ans": 1,
+    "explanation": "Increase = 50; % increase = 50/200 × 100% = 25%.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The reward for capital is",
+    "opts": [
+      "Interest",
+      "Rent",
+      "Profit",
+      "Wages"
+    ],
+    "ans": 0,
+    "explanation": "Capital earns interest.",
+    "topic": "Factors of production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Factors of production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Price rises from ₦400 to ₦410. Calculate the percentage increase.",
+    "opts": [
+      "7%",
+      "2%",
+      "4%",
+      "-3%"
+    ],
+    "ans": 1,
+    "explanation": "Increase = 10; % increase = 10/400 × 100% = 2%.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A firm sells 400 units at ₦25 each. Find its total revenue.",
+    "opts": [
+      "₦10100",
+      "₦10000",
+      "₦9900",
+      "₦425"
+    ],
+    "ans": 1,
+    "explanation": "Total revenue = price × quantity = ₦25 × 400 = ₦10000.",
+    "topic": "Theory of cost and revenue",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Theory of cost and revenue | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦20 to ₦15, quantity demanded rises from 100 to 150 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.00",
+      "1.5",
+      "2.5",
+      "2.0"
+    ],
+    "ans": 3,
+    "explanation": "PED = %ΔQ / %ΔP = 50.0% / 25.0% = 2.0.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A tax levied as a percentage of income is a",
+    "opts": [
+      "Proportional tax",
+      "Progressive tax",
+      "Direct tax only",
+      "Regressive tax"
+    ],
+    "ans": 0,
+    "explanation": "A proportional tax takes the same percentage at all income levels.",
+    "topic": "Public finance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Public finance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major disadvantage of a sole proprietorship is",
+    "opts": [
+      "Difficulty in raising capital only",
+      "Lack of privacy",
+      "Limited liability",
+      "Unlimited liability"
+    ],
+    "ans": 3,
+    "explanation": "The owner's personal assets are at risk.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A scale of preference is a list of wants arranged in order of",
+    "opts": [
+      "Time",
+      "Price",
+      "Priority",
+      "Quantity"
+    ],
+    "ans": 2,
+    "explanation": "A scale of preference ranks wants by importance.",
+    "topic": "Definition and scope of economics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Definition and scope of economics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The headquarters of the African Union is in",
+    "opts": [
+      "Addis Ababa, Ethiopia",
+      "Cairo, Egypt",
+      "Nairobi, Kenya",
+      "Pretoria, South Africa"
+    ],
+    "ans": 0,
+    "explanation": "The AU headquarters is in Addis Ababa.",
+    "topic": "International economic organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: International economic organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An increase in consumers' income will decrease demand for an",
+    "opts": [
+      "Luxury good",
+      "Essential good",
+      "Inferior good",
+      "Normal good"
+    ],
+    "ans": 2,
+    "explanation": "Consumers buy less of inferior goods as income rises.",
+    "topic": "Demand",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Costs that change with output are",
+    "opts": [
+      "Variable costs",
+      "Fixed costs",
+      "Opportunity costs",
+      "Sunk costs"
+    ],
+    "ans": 0,
+    "explanation": "Variable costs, e.g. raw materials, vary with output.",
+    "topic": "Theory of cost and revenue",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Theory of cost and revenue | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Price rises from ₦100 to ₦150. Calculate the percentage increase.",
+    "opts": [
+      "55%",
+      "100%",
+      "50%",
+      "45%"
+    ],
+    "ans": 2,
+    "explanation": "Increase = 50; % increase = 50/100 × 100% = 50%.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦10 to ₦5, quantity demanded rises from 100 to 120 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.25",
+      "0.4",
+      "0.9",
+      "0.00"
+    ],
+    "ans": 1,
+    "explanation": "PED = %ΔQ / %ΔP = 20.0% / 50.0% = 0.4.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Commercial banks create money through",
+    "opts": [
+      "Lending",
+      "Paying interest",
+      "Printing notes",
+      "Accepting deposits only"
+    ],
+    "ans": 0,
+    "explanation": "Banks create deposits when they lend.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦500bn, investment ₦100bn, government spending ₦150bn, exports ₦80bn and imports ₦60bn, calculate GDP.",
+    "opts": [
+      "₦750bn",
+      "₦770bn",
+      "₦720bn",
+      "₦820bn"
+    ],
+    "ans": 1,
+    "explanation": "GDP = C + I + G + (X - M) = 500 + 100 + 150 + (80 - 60) = ₦770bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The total cost of producing a given output is the sum of",
+    "opts": [
+      "Marginal cost and average cost",
+      "Implicit cost only",
+      "Fixed cost and variable cost",
+      "Explicit cost only"
+    ],
+    "ans": 2,
+    "explanation": "TC = FC + VC.",
+    "topic": "Theory of cost and revenue",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Theory of cost and revenue | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦10 to ₦8, quantity demanded rises from 200 to 210 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.75",
+      "0.25",
+      "0.00",
+      "1.00"
+    ],
+    "ans": 1,
+    "explanation": "PED = %ΔQ / %ΔP = 5.0% / 20.0% = 0.25.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The reward for land is",
+    "opts": [
+      "Wages",
+      "Interest",
+      "Rent",
+      "Profit"
+    ],
+    "ans": 2,
+    "explanation": "Land earns rent.",
+    "topic": "Factors of production",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Factors of production | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A population pyramid with a wide base shows a",
+    "opts": [
+      "Ageing population",
+      "High birth rate",
+      "Low death rate only",
+      "Low birth rate"
+    ],
+    "ans": 1,
+    "explanation": "A wide base means many young people, i.e. high birth rate.",
+    "topic": "Population and labour market",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Population and labour market | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦500bn, investment ₦100bn, government spending ₦100bn, exports ₦50bn and imports ₦60bn, calculate GDP.",
+    "opts": [
+      "₦640bn",
+      "₦740bn",
+      "₦700bn",
+      "₦690bn"
+    ],
+    "ans": 3,
+    "explanation": "GDP = C + I + G + (X - M) = 500 + 100 + 100 + (50 - 60) = ₦690bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Price rises from ₦200 to ₦210. Calculate the percentage increase.",
+    "opts": [
+      "5%",
+      "0%",
+      "None of the above",
+      "10%"
+    ],
+    "ans": 0,
+    "explanation": "Increase = 10; % increase = 10/200 × 100% = 5%.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The law of supply states that, other things being equal, as price rises, quantity supplied",
+    "opts": [
+      "Falls",
+      "Stays the same",
+      "Rises",
+      "Becomes zero"
+    ],
+    "ans": 2,
+    "explanation": "Supply curves slope upwards.",
+    "topic": "Supply",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Supply | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The law of demand states that, other things being equal, as price rises, quantity demanded",
+    "opts": [
+      "Stays the same",
+      "Falls",
+      "Doubles",
+      "Rises"
+    ],
+    "ans": 1,
+    "explanation": "Demand curves slope downwards.",
+    "topic": "Demand",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A market with a few large sellers is an",
+    "opts": [
+      "Monopoly",
+      "Oligopoly",
+      "Perfect competition",
+      "Monopsony"
+    ],
+    "ans": 1,
+    "explanation": "An oligopoly has a few dominant sellers.",
+    "topic": "Market structures",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Market structures | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦10 to ₦9, quantity demanded rises from 200 to 220 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "1.5",
+      "0.00",
+      "1.0",
+      "0.5"
+    ],
+    "ans": 2,
+    "explanation": "PED = %ΔQ / %ΔP = 10.0% / 10.0% = 1.0.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦400bn, investment ₦100bn, government spending ₦100bn, exports ₦80bn and imports ₦30bn, calculate GDP.",
+    "opts": [
+      "None of the above",
+      "₦700bn",
+      "₦650bn",
+      "₦600bn"
+    ],
+    "ans": 2,
+    "explanation": "GDP = C + I + G + (X - M) = 400 + 100 + 100 + (80 - 30) = ₦650bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦10 to ₦5, quantity demanded rises from 100 to 110 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.7",
+      "0.00",
+      "0.2",
+      "0.25"
+    ],
+    "ans": 2,
+    "explanation": "PED = %ΔQ / %ΔP = 10.0% / 50.0% = 0.2.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦10 to ₦9, quantity demanded rises from 200 to 210 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.00",
+      "0.25",
+      "1.00",
+      "0.5"
+    ],
+    "ans": 3,
+    "explanation": "PED = %ΔQ / %ΔP = 5.0% / 10.0% = 0.5.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Price rises from ₦400 to ₦420. Calculate the percentage increase.",
+    "opts": [
+      "0%",
+      "5%",
+      "10%",
+      "None of the above"
+    ],
+    "ans": 1,
+    "explanation": "Increase = 20; % increase = 20/400 × 100% = 5%.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main source of government revenue in Nigeria is",
+    "opts": [
+      "Customs duties only",
+      "Personal income tax",
+      "Value Added Tax only",
+      "Oil revenue"
+    ],
+    "ans": 3,
+    "explanation": "Petroleum provides the largest share of federal revenue.",
+    "topic": "Public finance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Public finance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Price rises from ₦200 to ₦300. Calculate the percentage increase.",
+    "opts": [
+      "100%",
+      "50%",
+      "55%",
+      "45%"
+    ],
+    "ans": 1,
+    "explanation": "Increase = 100; % increase = 100/200 × 100% = 50%.",
+    "topic": "Basic tools of economic analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Basic tools of economic analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main function of the central bank is to",
+    "opts": [
+      "Control the money supply",
+      "Sell goods",
+      "Accept deposits from the public",
+      "Give loans to individuals"
+    ],
+    "ans": 0,
+    "explanation": "The central bank regulates money and credit.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The largest sector of the Nigerian economy by employment is",
+    "opts": [
+      "Mining",
+      "Services",
+      "Manufacturing",
+      "Agriculture"
+    ],
+    "ans": 3,
+    "explanation": "Agriculture employs the largest share of Nigeria's labour force.",
+    "topic": "Agriculture",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Agriculture | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Given consumption ₦400bn, investment ₦200bn, government spending ₦100bn, exports ₦50bn and imports ₦30bn, calculate GDP.",
+    "opts": [
+      "₦770bn",
+      "₦670bn",
+      "₦700bn",
+      "₦720bn"
+    ],
+    "ans": 3,
+    "explanation": "GDP = C + I + G + (X - M) = 400 + 200 + 100 + (50 - 30) = ₦720bn.",
+    "topic": "National income",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: National income | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major cause of demand-pull inflation is",
+    "opts": [
+      "Fall in money supply",
+      "Fall in demand",
+      "Excess demand over supply",
+      "Increase in productivity"
+    ],
+    "ans": 2,
+    "explanation": "Too much money chasing too few goods causes demand-pull inflation.",
+    "topic": "Money and inflation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Money and inflation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main functions of money are medium of exchange, store of value, unit of account and",
+    "opts": [
+      "Standard of deferred payment",
+      "Means of production",
+      "Measure of inflation",
+      "Source of income"
+    ],
+    "ans": 0,
+    "explanation": "Money is also a standard of deferred payment.",
+    "topic": "Money and inflation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Money and inflation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Value Added Tax (VAT) is an example of an",
+    "opts": [
+      "Indirect tax",
+      "Poll tax",
+      "Progressive tax",
+      "Direct tax"
+    ],
+    "ans": 0,
+    "explanation": "VAT is paid by consumers through sellers.",
+    "topic": "Public finance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Public finance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "When price falls from ₦20 to ₦18, quantity demanded rises from 200 to 250 units. Calculate the price elasticity of demand.",
+    "opts": [
+      "0.00",
+      "1.00",
+      "2.5",
+      "2.0"
+    ],
+    "ans": 2,
+    "explanation": "PED = %ΔQ / %ΔP = 25.0% / 10.0% = 2.5.",
+    "topic": "Demand: elasticity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Demand: elasticity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A tax that takes a larger percentage from higher incomes is a",
+    "opts": [
+      "Proportional tax",
+      "Progressive tax",
+      "Regressive tax",
+      "Indirect tax"
+    ],
+    "ans": 1,
+    "explanation": "Progressive taxes rise as a share of income.",
+    "topic": "Public finance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Public finance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "Calculate the percentage by mass of the named element in methane, CH4 (hydrogen).",
+    "opts": [
+      "50%",
+      "100%",
+      "25%",
+      "10%"
+    ],
+    "ans": 2,
+    "explanation": "Percentage by mass = (mass of element/molar mass) × 100% = 25%.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical formula of common salt is",
+    "opts": [
+      "NaCl",
+      "HCl",
+      "KCl",
+      "NaOH"
+    ],
+    "ans": 0,
+    "explanation": "Common salt is sodium chloride, NaCl.",
+    "topic": "Chemical formulae",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Chemical formulae | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 6 and mass number 17. How many neutrons does it have?",
+    "opts": [
+      "11",
+      "17",
+      "8",
+      "13"
+    ],
+    "ans": 0,
+    "explanation": "Neutrons = mass number - atomic number = 17 - 6 = 11.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 8 and mass number 15. How many neutrons does it have?",
+    "opts": [
+      "7",
+      "22",
+      "5",
+      "1"
+    ],
+    "ans": 0,
+    "explanation": "Neutrons = mass number - atomic number = 15 - 8 = 7.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 17 and mass number 36. How many neutrons does it have?",
+    "opts": [
+      "19",
+      "21",
+      "13",
+      "29"
+    ],
+    "ans": 0,
+    "explanation": "Neutrons = mass number - atomic number = 36 - 17 = 19.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a chemical change?",
+    "opts": [
+      "Rusting of iron",
+      "Melting of ice",
+      "Boiling of water",
+      "Dissolving salt in water"
+    ],
+    "ans": 0,
+    "explanation": "Rusting forms a new substance, iron(III) oxide.",
+    "topic": "Introduction to chemistry: physical and chemical changes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Introduction to chemistry: physical and chemical changes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The salt formed when hydrochloric acid reacts with sodium hydroxide is",
+    "opts": [
+      "Sodium nitrate",
+      "Sodium sulphate",
+      "Sodium chloride",
+      "Sodium carbonate"
+    ],
+    "ans": 2,
+    "explanation": "HCl + NaOH → NaCl + H2O.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Elements in the same group of the periodic table have the same number of",
+    "opts": [
+      "Protons",
+      "Neutrons",
+      "Valence electrons",
+      "Electron shells"
+    ],
+    "ans": 2,
+    "explanation": "Group number reflects the number of outer-shell electrons.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The first element in the periodic table is",
+    "opts": [
+      "Lithium",
+      "Hydrogen",
+      "Helium",
+      "Oxygen"
+    ],
+    "ans": 1,
+    "explanation": "Hydrogen has atomic number 1.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "How many moles are in 88 g of a substance of molar mass 44 g/mol?",
+    "opts": [
+      "0",
+      "1",
+      "12",
+      "2"
+    ],
+    "ans": 3,
+    "explanation": "Moles = mass/molar mass = 88/44 = 2 mol.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 16 and mass number 32. How many neutrons does it have?",
+    "opts": [
+      "20",
+      "19",
+      "16",
+      "18"
+    ],
+    "ans": 2,
+    "explanation": "Neutrons = mass number - atomic number = 32 - 16 = 16.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "20 cm³ of 0.1 mol/dm³ acid neutralises 25 cm³ of alkali of the same concentration ratio (1:1). Find the concentration of the alkali.",
+    "opts": [
+      "0.08 mol/dm³",
+      "0.1 mol/dm³",
+      "0.16 mol/dm³",
+      "0.04 mol/dm³"
+    ],
+    "ans": 0,
+    "explanation": "M1V1 = M2V2, so M2 = 0.1 × 20/25 = 0.08 mol/dm³.",
+    "topic": "Stoichiometry: volumetric analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Stoichiometry: volumetric analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The cathode in an electrolytic cell is the",
+    "opts": [
+      "Salt bridge",
+      "Positive electrode",
+      "Neutral electrode",
+      "Negative electrode"
+    ],
+    "ans": 3,
+    "explanation": "The cathode is negative in electrolysis.",
+    "topic": "Electrolysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Electrolysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 16 and mass number 31. How many neutrons does it have?",
+    "opts": [
+      "21",
+      "15",
+      "11",
+      "14"
+    ],
+    "ans": 1,
+    "explanation": "Neutrons = mass number - atomic number = 31 - 16 = 15.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 7 and mass number 24. How many neutrons does it have?",
+    "opts": [
+      "16",
+      "20",
+      "22",
+      "17"
+    ],
+    "ans": 3,
+    "explanation": "Neutrons = mass number - atomic number = 24 - 7 = 17.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "20 cm³ of 0.2 mol/dm³ acid neutralises 20 cm³ of alkali of the same concentration ratio (1:1). Find the concentration of the alkali.",
+    "opts": [
+      "0.4 mol/dm³",
+      "0.1 mol/dm³",
+      "0.2 mol/dm³",
+      "None of the above"
+    ],
+    "ans": 2,
+    "explanation": "M1V1 = M2V2, so M2 = 0.2 × 20/20 = 0.2 mol/dm³.",
+    "topic": "Stoichiometry: volumetric analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Stoichiometry: volumetric analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The oxidation number of oxygen in most compounds is",
+    "opts": [
+      "-1",
+      "0",
+      "+2",
+      "-2"
+    ],
+    "ans": 3,
+    "explanation": "Oxygen usually has oxidation number -2.",
+    "topic": "Redox reactions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Redox reactions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 8 and mass number 17. How many neutrons does it have?",
+    "opts": [
+      "12",
+      "9",
+      "7",
+      "11"
+    ],
+    "ans": 1,
+    "explanation": "Neutrons = mass number - atomic number = 17 - 8 = 9.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the relative molecular mass of NH3. [H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35.5]",
+    "opts": [
+      "32",
+      "15",
+      "19",
+      "17"
+    ],
+    "ans": 3,
+    "explanation": "The relative molecular mass of NH3 is 17.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical symbol for iron is",
+    "opts": [
+      "Ir",
+      "Fn",
+      "I",
+      "Fe"
+    ],
+    "ans": 3,
+    "explanation": "Iron comes from Latin 'ferrum', symbol Fe.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 6 and mass number 20. How many neutrons does it have?",
+    "opts": [
+      "11",
+      "14",
+      "44",
+      "24"
+    ],
+    "ans": 1,
+    "explanation": "Neutrons = mass number - atomic number = 20 - 6 = 14.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is an example of a mixture?",
+    "opts": [
+      "Iron",
+      "Common salt",
+      "Air",
+      "Water"
+    ],
+    "ans": 2,
+    "explanation": "Air is a mixture of gases.",
+    "topic": "Elements, compounds and mixtures",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Elements, compounds and mixtures | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The common name for sodium carbonate is",
+    "opts": [
+      "Caustic soda",
+      "Quicklime",
+      "Washing soda",
+      "Baking soda"
+    ],
+    "ans": 2,
+    "explanation": "Sodium carbonate is washing soda.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The functional group of carboxylic acids is",
+    "opts": [
+      "-COOH",
+      "-CHO",
+      "-OH",
+      "-CO-"
+    ],
+    "ans": 0,
+    "explanation": "Carboxylic acids contain -COOH.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical formula of sulphuric acid is",
+    "opts": [
+      "H2SO4",
+      "HCl",
+      "HNO3",
+      "H2SO3"
+    ],
+    "ans": 0,
+    "explanation": "Sulphuric acid is H2SO4.",
+    "topic": "Chemical formulae",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Chemical formulae | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is an ionic compound?",
+    "opts": [
+      "Sodium chloride",
+      "Water",
+      "Methane",
+      "Carbon dioxide"
+    ],
+    "ans": 0,
+    "explanation": "NaCl is held by electrostatic attraction between ions.",
+    "topic": "Chemical bonds",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Chemical bonds | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main ore of aluminium is",
+    "opts": [
+      "Galena",
+      "Cassiterite",
+      "Haematite",
+      "Bauxite"
+    ],
+    "ans": 3,
+    "explanation": "Bauxite is the ore of aluminium.",
+    "topic": "Metals and reactivity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Metals and reactivity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 14 and mass number 32. How many neutrons does it have?",
+    "opts": [
+      "20",
+      "23",
+      "16",
+      "18"
+    ],
+    "ans": 3,
+    "explanation": "Neutrons = mass number - atomic number = 32 - 14 = 18.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Rusting of iron is prevented by",
+    "opts": [
+      "Adding water",
+      "Galvanising",
+      "Heating",
+      "Cooling"
+    ],
+    "ans": 1,
+    "explanation": "Galvanising coats iron with zinc, preventing rust.",
+    "topic": "Metals and reactivity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Metals and reactivity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pH of an acidic solution is",
+    "opts": [
+      "Equal to 14",
+      "Equal to 7",
+      "Greater than 7",
+      "Less than 7"
+    ],
+    "ans": 3,
+    "explanation": "Acids have pH below 7.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Atoms of the same element with different mass numbers are called",
+    "opts": [
+      "Isobars",
+      "Isotopes",
+      "Allotropes",
+      "Isomers"
+    ],
+    "ans": 1,
+    "explanation": "Isotopes have the same protons but different neutrons.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical formula of carbon dioxide is",
+    "opts": [
+      "CO",
+      "CO3",
+      "C2O",
+      "CO2"
+    ],
+    "ans": 3,
+    "explanation": "Carbon dioxide is CO2.",
+    "topic": "Chemical formulae",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Chemical formulae | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Elements in the same period have the same number of",
+    "opts": [
+      "Neutrons",
+      "Protons",
+      "Electron shells",
+      "Valence electrons"
+    ],
+    "ans": 2,
+    "explanation": "Period number reflects the number of electron shells.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gas released when dilute hydrochloric acid reacts with calcium carbonate is",
+    "opts": [
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon dioxide",
+      "Oxygen"
+    ],
+    "ans": 2,
+    "explanation": "CaCO3 + 2HCl → CaCl2 + H2O + CO2.",
+    "topic": "Chemical reactions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Chemical reactions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A gas occupies 200 cm³ at 273 K. What volume will it occupy at 546 K at constant pressure?",
+    "opts": [
+      "100 cm³",
+      "200 cm³",
+      "400 cm³",
+      "450 cm³"
+    ],
+    "ans": 2,
+    "explanation": "Charles' law: V1/T1 = V2/T2, so V2 = 200 × 546/273 = 400 cm³.",
+    "topic": "Gas laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Gas laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 7 and mass number 13. How many neutrons does it have?",
+    "opts": [
+      "6",
+      "12",
+      "4",
+      "2"
+    ],
+    "ans": 0,
+    "explanation": "Neutrons = mass number - atomic number = 13 - 7 = 6.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pH of a neutral solution at 25°C is",
+    "opts": [
+      "14",
+      "1",
+      "7",
+      "0"
+    ],
+    "ans": 2,
+    "explanation": "Neutral solutions have pH 7 at 25°C.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the percentage by mass of the named element in water, H2O (oxygen).",
+    "opts": [
+      "100%",
+      "88.9%",
+      "50%",
+      "10%"
+    ],
+    "ans": 1,
+    "explanation": "Percentage by mass = (mass of element/molar mass) × 100% = 88.9%.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 6 and mass number 14. How many neutrons does it have?",
+    "opts": [
+      "8",
+      "6",
+      "18",
+      "10"
+    ],
+    "ans": 0,
+    "explanation": "Neutrons = mass number - atomic number = 14 - 6 = 8.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 6 and mass number 12. How many neutrons does it have?",
+    "opts": [
+      "8",
+      "6",
+      "7",
+      "16"
+    ],
+    "ans": 1,
+    "explanation": "Neutrons = mass number - atomic number = 12 - 6 = 6.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a hydrocarbon?",
+    "opts": [
+      "Ethanol",
+      "Acetic acid",
+      "Glucose",
+      "Methane"
+    ],
+    "ans": 3,
+    "explanation": "Methane (CH4) contains only carbon and hydrogen.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The oxidation number of hydrogen in most compounds is",
+    "opts": [
+      "+2",
+      "-1",
+      "+1",
+      "0"
+    ],
+    "ans": 2,
+    "explanation": "Hydrogen usually has oxidation number +1.",
+    "topic": "Redox reactions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Redox reactions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gas released when dilute hydrochloric acid reacts with zinc is",
+    "opts": [
+      "Oxygen",
+      "Hydrogen",
+      "Chlorine",
+      "Carbon dioxide"
+    ],
+    "ans": 1,
+    "explanation": "Zn + 2HCl → ZnCl2 + H2.",
+    "topic": "Chemical reactions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Chemical reactions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Diamond is hard because its carbon atoms are",
+    "opts": [
+      "Held by metallic bonds",
+      "Arranged in layers",
+      "Held by weak van der Waals forces",
+      "Held in a strong three-dimensional covalent network"
+    ],
+    "ans": 3,
+    "explanation": "Diamond is held in a giant covalent structure.",
+    "topic": "Chemical bonds",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Chemical bonds | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 8 and mass number 27. How many neutrons does it have?",
+    "opts": [
+      "22",
+      "18",
+      "19",
+      "49"
+    ],
+    "ans": 2,
+    "explanation": "Neutrons = mass number - atomic number = 27 - 8 = 19.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pH of a solution with [H+] = 1 × 10⁻³ mol/dm³ is",
+    "opts": [
+      "10",
+      "3",
+      "1",
+      "13"
+    ],
+    "ans": 1,
+    "explanation": "pH = -log[H+] = 3.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gas responsible for the depletion of the ozone layer is",
+    "opts": [
+      "Methane",
+      "Chlorofluorocarbon",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "ans": 1,
+    "explanation": "CFCs release chlorine that destroys ozone.",
+    "topic": "Chemistry and the environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Chemistry and the environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Hard water contains dissolved salts of",
+    "opts": [
+      "Calcium and magnesium",
+      "Iron and zinc",
+      "Sodium and potassium",
+      "Copper and lead"
+    ],
+    "ans": 0,
+    "explanation": "Hardness is caused by Ca2+ and Mg2+ ions.",
+    "topic": "Water",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Water | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a strong acid?",
+    "opts": [
+      "Ethanoic acid",
+      "Hydrochloric acid",
+      "Carbonic acid",
+      "Citric acid"
+    ],
+    "ans": 1,
+    "explanation": "Hydrochloric acid ionises completely in water.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 12 and mass number 31. How many neutrons does it have?",
+    "opts": [
+      "49",
+      "22",
+      "21",
+      "19"
+    ],
+    "ans": 3,
+    "explanation": "Neutrons = mass number - atomic number = 31 - 12 = 19.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The vector of cholera is",
+    "opts": [
+      "Tsetse fly",
+      "Contaminated water",
+      "Housefly",
+      "Mosquito"
+    ],
+    "ans": 1,
+    "explanation": "Cholera spreads through contaminated water and food.",
+    "topic": "Diseases",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Diseases | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The conditions needed for germination are water, oxygen and",
+    "opts": [
+      "Light always",
+      "Soil always",
+      "Carbon dioxide",
+      "Suitable temperature"
+    ],
+    "ans": 3,
+    "explanation": "Seeds need water, oxygen and warmth to germinate.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The normal human blood groups are A, B, AB and",
+    "opts": [
+      "C",
+      "E",
+      "O",
+      "D"
+    ],
+    "ans": 2,
+    "explanation": "The ABO blood groups are A, B, AB and O.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chamber of the heart that pumps blood to the whole body is the",
+    "opts": [
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle",
+      "Right atrium"
+    ],
+    "ans": 2,
+    "explanation": "The left ventricle has the thickest wall and pumps blood round the body.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The number of chromosomes in a normal human body cell is",
+    "opts": [
+      "23",
+      "46",
+      "48",
+      "44"
+    ],
+    "ans": 1,
+    "explanation": "Humans have 46 chromosomes in body cells.",
+    "topic": "Genetics and heredity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Genetics and heredity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The tiny air sacs in the lungs are called",
+    "opts": [
+      "Bronchi",
+      "Alveoli",
+      "Trachea",
+      "Nephrons"
+    ],
+    "ans": 1,
+    "explanation": "Alveoli are the sites of gas exchange.",
+    "topic": "Respiration",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Respiration | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The deficiency disease caused by lack of iron is",
+    "opts": [
+      "Kwashiorkor",
+      "Goitre",
+      "Anaemia",
+      "Beriberi"
+    ],
+    "ans": 2,
+    "explanation": "Iron is needed to make haemoglobin; lack causes anaemia.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organ that filters blood and forms urine in humans is the",
+    "opts": [
+      "Lungs",
+      "Liver",
+      "Kidney",
+      "Spleen"
+    ],
+    "ans": 2,
+    "explanation": "The kidney filters blood and produces urine.",
+    "topic": "Excretion",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Excretion | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A red blood cell placed in distilled water will",
+    "opts": [
+      "Remain the same",
+      "Swell and burst",
+      "Shrink",
+      "Become crenated"
+    ],
+    "ans": 1,
+    "explanation": "Water enters by osmosis and the cell bursts (haemolysis).",
+    "topic": "The cell and its environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The cell and its environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The part of the flower that produces pollen is the",
+    "opts": [
+      "Ovary",
+      "Anther",
+      "Style",
+      "Stigma"
+    ],
+    "ans": 1,
+    "explanation": "The anther produces pollen grains.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The part of the plant that supports the leaves is the",
+    "opts": [
+      "Fruit",
+      "Stem",
+      "Root",
+      "Flower"
+    ],
+    "ans": 1,
+    "explanation": "The stem supports leaves and transports materials.",
+    "topic": "Organisation of life",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Organisation of life | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The raw materials for photosynthesis are carbon dioxide and",
+    "opts": [
+      "Nitrogen",
+      "Glucose",
+      "Oxygen",
+      "Water"
+    ],
+    "ans": 3,
+    "explanation": "Photosynthesis uses CO2 and water to make glucose.",
+    "topic": "Nutrition in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Nutrition in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The hormone that prepares the body for emergency is",
+    "opts": [
+      "Insulin",
+      "Thyroxine",
+      "Oestrogen",
+      "Adrenaline"
+    ],
+    "ans": 3,
+    "explanation": "Adrenaline is the 'fight or flight' hormone.",
+    "topic": "Coordination in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Coordination in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Fossils provide evidence for",
+    "opts": [
+      "Respiration",
+      "Genetics",
+      "Photosynthesis",
+      "Evolution"
+    ],
+    "ans": 3,
+    "explanation": "Fossils show how organisms changed over time.",
+    "topic": "Evolution",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Evolution | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The blood cells that carry oxygen are the",
+    "opts": [
+      "White blood cells",
+      "Platelets",
+      "Red blood cells",
+      "Plasma cells"
+    ],
+    "ans": 2,
+    "explanation": "Red blood cells contain haemoglobin.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The control centre of the cell is the",
+    "opts": [
+      "Cell wall",
+      "Cytoplasm",
+      "Vacuole",
+      "Nucleus"
+    ],
+    "ans": 3,
+    "explanation": "The nucleus contains genetic material and controls cell activities.",
+    "topic": "The cell",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The cell | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organ where gaseous exchange takes place in humans is the",
+    "opts": [
+      "Lungs",
+      "Heart",
+      "Kidney",
+      "Liver"
+    ],
+    "ans": 0,
+    "explanation": "Gas exchange occurs in the alveoli of the lungs.",
+    "topic": "Respiration",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Respiration | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Malaria is spread by the",
+    "opts": [
+      "Female Anopheles mosquito",
+      "Male Anopheles mosquito",
+      "Tsetse fly",
+      "Housefly"
+    ],
+    "ans": 0,
+    "explanation": "Female Anopheles mosquitoes transmit malaria.",
+    "topic": "Diseases",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Diseases | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pigment that carries oxygen in human blood is",
+    "opts": [
+      "Haemoglobin",
+      "Melanin",
+      "Chlorophyll",
+      "Myoglobin"
+    ],
+    "ans": 0,
+    "explanation": "Haemoglobin in red blood cells carries oxygen.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The blood vessel that carries blood away from the heart is the",
+    "opts": [
+      "Lymph vessel",
+      "Capillary",
+      "Vein",
+      "Artery"
+    ],
+    "ans": 3,
+    "explanation": "Arteries carry blood away from the heart.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The sex chromosomes in a human male are",
+    "opts": [
+      "YY",
+      "XX",
+      "XO",
+      "XY"
+    ],
+    "ans": 3,
+    "explanation": "Males have XY sex chromosomes.",
+    "topic": "Genetics and heredity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Genetics and heredity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The movement of molecules from a region of higher concentration to a region of lower concentration is",
+    "opts": [
+      "Plasmolysis",
+      "Osmosis",
+      "Active transport",
+      "Diffusion"
+    ],
+    "ans": 3,
+    "explanation": "Diffusion is passive movement down a concentration gradient.",
+    "topic": "The cell and its environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The cell and its environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The scientific name of man is",
+    "opts": [
+      "Homo erectus",
+      "Gorilla gorilla",
+      "Homo sapiens",
+      "Pan troglodytes"
+    ],
+    "ans": 2,
+    "explanation": "Man is Homo sapiens.",
+    "topic": "Classification",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Classification | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The tissue that transports food in plants is the",
+    "opts": [
+      "Phloem",
+      "Cambium",
+      "Pith",
+      "Xylem"
+    ],
+    "ans": 0,
+    "explanation": "Phloem carries manufactured food around the plant.",
+    "topic": "Transport in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Transport in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organ that produces bile is the",
+    "opts": [
+      "Gall bladder",
+      "Pancreas",
+      "Spleen",
+      "Liver"
+    ],
+    "ans": 3,
+    "explanation": "The liver produces bile, stored in the gall bladder.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Protein digestion begins in the",
+    "opts": [
+      "Mouth",
+      "Small intestine",
+      "Large intestine",
+      "Stomach"
+    ],
+    "ans": 3,
+    "explanation": "Pepsin in the stomach begins protein digestion.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The basic unit of life is the",
+    "opts": [
+      "Cell",
+      "Tissue",
+      "System",
+      "Organ"
+    ],
+    "ans": 0,
+    "explanation": "The cell is the smallest unit of life.",
+    "topic": "Organisation of life",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Organisation of life | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The vitamin that prevents scurvy is vitamin",
+    "opts": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "ans": 0,
+    "explanation": "Lack of vitamin C causes scurvy.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The functional unit of the nervous system is the",
+    "opts": [
+      "Neuron",
+      "Villus",
+      "Alveolus",
+      "Nephron"
+    ],
+    "ans": 0,
+    "explanation": "Neurons transmit nerve impulses.",
+    "topic": "Coordination in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Coordination in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The smallest blood vessels are the",
+    "opts": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Arterioles"
+    ],
+    "ans": 2,
+    "explanation": "Capillaries are thin-walled vessels where exchange occurs.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The green pigment in plants is",
+    "opts": [
+      "Melanin",
+      "Carotene",
+      "Chlorophyll",
+      "Haemoglobin"
+    ],
+    "ans": 2,
+    "explanation": "Chlorophyll traps sunlight for photosynthesis.",
+    "topic": "Nutrition in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Nutrition in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of a monocotyledonous plant is",
+    "opts": [
+      "Groundnut",
+      "Beans",
+      "Maize",
+      "Mango"
+    ],
+    "ans": 2,
+    "explanation": "Maize is a monocot with one seed leaf.",
+    "topic": "Classification",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Classification | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The liquid part of blood is the",
+    "opts": [
+      "Plasma",
+      "Platelet",
+      "Haemoglobin",
+      "Serum only"
+    ],
+    "ans": 0,
+    "explanation": "Plasma is the liquid part of blood.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organ that pumps blood round the body is the",
+    "opts": [
+      "Kidney",
+      "Lungs",
+      "Heart",
+      "Liver"
+    ],
+    "ans": 2,
+    "explanation": "The heart pumps blood.",
+    "topic": "Transport in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Transport in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Pollination is the transfer of pollen from the anther to the",
+    "opts": [
+      "Style",
+      "Filament",
+      "Stigma",
+      "Ovary"
+    ],
+    "ans": 2,
+    "explanation": "Pollination moves pollen to the stigma.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The disease caused by the Plasmodium parasite is",
+    "opts": [
+      "Cholera",
+      "Typhoid",
+      "Tuberculosis",
+      "Malaria"
+    ],
+    "ans": 3,
+    "explanation": "Malaria is caused by Plasmodium, spread by Anopheles mosquitoes.",
+    "topic": "Diseases",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Diseases | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The movement of water molecules through a selectively permeable membrane is",
+    "opts": [
+      "Diffusion",
+      "Osmosis",
+      "Imbibition",
+      "Active transport"
+    ],
+    "ans": 1,
+    "explanation": "Osmosis is water movement across a semi-permeable membrane.",
+    "topic": "The cell and its environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The cell and its environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The deficiency disease caused by lack of iodine is",
+    "opts": [
+      "Goitre",
+      "Anaemia",
+      "Rickets",
+      "Scurvy"
+    ],
+    "ans": 0,
+    "explanation": "Iodine is needed for thyroxine; deficiency causes goitre.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main source of energy in an ecosystem is the",
+    "opts": [
+      "Water",
+      "Soil",
+      "Sun",
+      "Moon"
+    ],
+    "ans": 2,
+    "explanation": "The Sun powers nearly all ecosystems.",
+    "topic": "Ecology",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Ecology | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The enzyme in saliva that digests starch is",
+    "opts": [
+      "Amylase",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
+    ],
+    "ans": 0,
+    "explanation": "Salivary amylase (ptyalin) digests starch.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The male part of a flower is the",
+    "opts": [
+      "Petal",
+      "Stamen",
+      "Pistil",
+      "Sepal"
+    ],
+    "ans": 1,
+    "explanation": "The stamen is the male reproductive part.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A cross between a pure tall plant (TT) and a pure short plant (tt) produces offspring that are all",
+    "opts": [
+      "Half tall",
+      "Tall",
+      "Medium",
+      "Short"
+    ],
+    "ans": 1,
+    "explanation": "Tall (T) is dominant over short (t).",
+    "topic": "Genetics and heredity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Genetics and heredity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The opening through which gases enter and leave a leaf is the",
+    "opts": [
+      "Cuticle",
+      "Hydathode",
+      "Lenticel",
+      "Stoma"
+    ],
+    "ans": 3,
+    "explanation": "Stomata are pores for gas exchange.",
+    "topic": "The cell and its environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The cell and its environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "All the populations of different species living in an area form a",
+    "opts": [
+      "Community",
+      "Biosphere",
+      "Population",
+      "Ecosystem"
+    ],
+    "ans": 0,
+    "explanation": "A community is all populations in an area.",
+    "topic": "Ecology",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Ecology | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organelle known as the powerhouse of the cell is the",
+    "opts": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Chloroplast"
+    ],
+    "ans": 2,
+    "explanation": "The mitochondrion releases energy in aerobic respiration.",
+    "topic": "The cell",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: The cell | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The natural home of an organism is its",
+    "opts": [
+      "Ecosystem",
+      "Habitat",
+      "Community",
+      "Niche"
+    ],
+    "ans": 1,
+    "explanation": "A habitat is where an organism lives.",
+    "topic": "Ecology",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Ecology | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The hormone that lowers blood sugar is",
+    "opts": [
+      "Insulin",
+      "Thyroxine",
+      "Glucagon",
+      "Adrenaline"
+    ],
+    "ans": 0,
+    "explanation": "Insulin lowers blood glucose.",
+    "topic": "Coordination in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Coordination in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Bile is stored in the",
+    "opts": [
+      "Gall bladder",
+      "Stomach",
+      "Liver",
+      "Pancreas"
+    ],
+    "ans": 0,
+    "explanation": "Bile is stored in the gall bladder.",
+    "topic": "Nutrition in animals",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Nutrition in animals | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The sex chromosomes in a human female are",
+    "opts": [
+      "YY",
+      "XX",
+      "XY",
+      "XO"
+    ],
+    "ans": 1,
+    "explanation": "Females have XX sex chromosomes.",
+    "topic": "Genetics and heredity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Genetics and heredity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The female part of a flower is the",
+    "opts": [
+      "Sepal",
+      "Pistil",
+      "Stamen",
+      "Petal"
+    ],
+    "ans": 1,
+    "explanation": "The pistil is the female reproductive part.",
+    "topic": "Reproduction in plants",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Reproduction in plants | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

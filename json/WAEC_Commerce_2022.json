@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The main purpose of advertising is to",
+    "opts": [
+      "Store goods",
+      "Produce goods",
+      "Reduce prices",
+      "Inform and persuade consumers"
+    ],
+    "ans": 3,
+    "explanation": "Advertising informs and persuades.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of an extractive occupation is",
+    "opts": [
+      "Fishing",
+      "Banking",
+      "Plumbing",
+      "Bricklaying"
+    ],
+    "ans": 0,
+    "explanation": "Extractive occupations take raw materials from nature.",
+    "topic": "Occupations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Occupations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A trade discount is given to",
+    "opts": [
+      "Increase prices",
+      "Encourage bulk buying",
+      "Avoid tax",
+      "Reduce profit"
+    ],
+    "ans": 1,
+    "explanation": "Trade discounts reward bulk purchases.",
+    "topic": "Methods of payment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Methods of payment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organisation that controls imports and exports at the borders is the",
+    "opts": [
+      "Nigeria Customs Service",
+      "Immigration Service",
+      "Nigeria Police",
+      "Federal Inland Revenue Service"
+    ],
+    "ans": 0,
+    "explanation": "Customs controls goods crossing borders.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A share is a unit of",
+    "opts": [
+      "Ownership in a company",
+      "Loan",
+      "Debt",
+      "Deposit"
+    ],
+    "ans": 0,
+    "explanation": "A share represents part-ownership of a company.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A person who buys goods in bulk and sells in smaller quantities to retailers is a",
+    "opts": [
+      "Wholesaler",
+      "Retailer",
+      "Consumer",
+      "Producer"
+    ],
+    "ans": 0,
+    "explanation": "The wholesaler buys in bulk and sells to retailers.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A cheque that is not dated is",
+    "opts": [
+      "Stale",
+      "Post-dated",
+      "Valid",
+      "Invalid"
+    ],
+    "ans": 3,
+    "explanation": "An undated cheque is not valid.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An example of a commercial occupation is",
+    "opts": [
+      "Mining",
+      "Farming",
+      "Banking",
+      "Fishing"
+    ],
+    "ans": 2,
+    "explanation": "Banking is a commercial service occupation.",
+    "topic": "Occupations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Occupations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The document sent by a seller to a buyer showing goods sold and their prices is the",
+    "opts": [
+      "Invoice",
+      "Order",
+      "Cheque",
+      "Receipt"
+    ],
+    "ans": 0,
+    "explanation": "An invoice states what was sold and the price.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The principle that the insured should not profit from a loss is",
+    "opts": [
+      "Subrogation",
+      "Utmost good faith",
+      "Indemnity",
+      "Proximate cause"
+    ],
+    "ans": 2,
+    "explanation": "Indemnity restores the insured to the pre-loss position.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A tax on goods produced within a country is called",
+    "opts": [
+      "Export duty",
+      "Import duty",
+      "Value Added Tax",
+      "Excise duty"
+    ],
+    "ans": 3,
+    "explanation": "Excise duty is levied on locally produced goods.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The company that provides insurance cover is the",
+    "opts": [
+      "Insurer",
+      "Insured",
+      "Broker",
+      "Assured"
+    ],
+    "ans": 0,
+    "explanation": "The insurer provides the cover.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A cooperative society is formed to",
+    "opts": [
+      "Avoid tax",
+      "Employ workers",
+      "Serve the interests of its members",
+      "Make maximum profit"
+    ],
+    "ans": 2,
+    "explanation": "Cooperatives serve members.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A tax on imported goods is called",
+    "opts": [
+      "Excise duty",
+      "Income tax",
+      "Export duty",
+      "Import duty"
+    ],
+    "ans": 3,
+    "explanation": "Import duty is levied on imports.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The person to whom a cheque is payable is the",
+    "opts": [
+      "Endorser",
+      "Drawee",
+      "Drawer",
+      "Payee"
+    ],
+    "ans": 3,
+    "explanation": "The payee receives the money.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Trade is the",
+    "opts": [
+      "Transportation of goods",
+      "Buying and selling of goods and services",
+      "Storage of goods",
+      "Production of goods"
+    ],
+    "ans": 1,
+    "explanation": "Trade is buying and selling.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The organisation that promotes exports in Nigeria is the",
+    "opts": [
+      "Stock Exchange",
+      "Central Bank",
+      "Nigerian Export Promotion Council",
+      "Nigeria Customs Service"
+    ],
+    "ans": 2,
+    "explanation": "NEPC promotes Nigerian exports.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A cash discount is given to encourage",
+    "opts": [
+      "Late payment",
+      "Prompt payment",
+      "Bulk buying",
+      "Credit sales"
+    ],
+    "ans": 1,
+    "explanation": "Cash discounts reward early payment.",
+    "topic": "Methods of payment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Methods of payment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Foreign trade is trade carried on",
+    "opts": [
+      "Within a state",
+      "Between countries",
+      "Within a town",
+      "Within a village"
+    ],
+    "ans": 1,
+    "explanation": "Foreign trade is international trade.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A cheque presented more than six months after its date is",
+    "opts": [
+      "Stale",
+      "Open",
+      "Crossed",
+      "Valid"
+    ],
+    "ans": 0,
+    "explanation": "A cheque over six months old is stale.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Marine insurance covers risks on",
+    "opts": [
+      "Air",
+      "Land",
+      "The sea",
+      "Rail"
+    ],
+    "ans": 2,
+    "explanation": "Marine insurance covers sea risks.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The memorandum of association of a company states its",
+    "opts": [
+      "Internal rules",
+      "Objects and powers",
+      "Directors' salaries",
+      "Share prices"
+    ],
+    "ans": 1,
+    "explanation": "The memorandum defines the company's objects.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Consumer protection in Nigeria is handled by the",
+    "opts": [
+      "Customs Service",
+      "Federal Competition and Consumer Protection Commission",
+      "Police",
+      "Central Bank"
+    ],
+    "ans": 1,
+    "explanation": "FCCPC protects consumers.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The trade between a country and the rest of the world is called",
+    "opts": [
+      "Retail trade",
+      "Home trade",
+      "Wholesale trade",
+      "Foreign trade"
+    ],
+    "ans": 3,
+    "explanation": "Foreign trade crosses national borders.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A fixed deposit account pays",
+    "opts": [
+      "Lower interest than a savings account",
+      "Interest only on withdrawal",
+      "Higher interest than a savings account",
+      "No interest"
+    ],
+    "ans": 2,
+    "explanation": "Fixed deposits earn higher interest.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The bank that issues currency in Nigeria is the",
+    "opts": [
+      "Union Bank",
+      "Central Bank of Nigeria",
+      "Access Bank",
+      "First Bank"
+    ],
+    "ans": 1,
+    "explanation": "The CBN issues the naira.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A shareholder receives income in the form of",
+    "opts": [
+      "Wages",
+      "Interest",
+      "Rent",
+      "Dividends"
+    ],
+    "ans": 3,
+    "explanation": "Shareholders receive dividends.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The body that standardises products in Nigeria is the",
+    "opts": [
+      "Central Bank",
+      "Stock Exchange",
+      "Customs Service",
+      "Standards Organisation of Nigeria"
+    ],
+    "ans": 3,
+    "explanation": "SON sets product standards.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The person who manages the day-to-day affairs of a company is the",
+    "opts": [
+      "Managing director",
+      "Shareholder",
+      "Auditor",
+      "Debenture holder"
+    ],
+    "ans": 0,
+    "explanation": "The managing director runs the company.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A broker is an agent who",
+    "opts": [
+      "Transports the goods",
+      "Stores the goods",
+      "Brings buyers and sellers together",
+      "Owns the goods"
+    ],
+    "ans": 2,
+    "explanation": "A broker arranges deals without owning the goods.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A claim is a demand for",
+    "opts": [
+      "A new policy",
+      "Compensation after a loss",
+      "A premium refund",
+      "A loan"
+    ],
+    "ans": 1,
+    "explanation": "A claim asks the insurer to pay for a loss.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Insurance is a contract that protects against",
+    "opts": [
+      "Theft only",
+      "Profit",
+      "Loss of goods only",
+      "Risk"
+    ],
+    "ans": 3,
+    "explanation": "Insurance covers risk.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A savings account is opened mainly to",
+    "opts": [
+      "Pay cheques",
+      "Save money and earn interest",
+      "Trade shares",
+      "Borrow money"
+    ],
+    "ans": 1,
+    "explanation": "Savings accounts earn interest on deposits.",
+    "topic": "Financial institutions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Financial institutions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The bank on which a cheque is drawn is the",
+    "opts": [
+      "Drawer",
+      "Bearer",
+      "Drawee",
+      "Payee"
+    ],
+    "ans": 2,
+    "explanation": "The drawee is the bank that pays.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The difference between a country's exports and imports is its",
+    "opts": [
+      "National income",
+      "Budget",
+      "Balance of trade",
+      "Balance of payments"
+    ],
+    "ans": 2,
+    "explanation": "Balance of trade = exports - imports of goods.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is an aid to trade?",
+    "opts": [
+      "Farming",
+      "Mining",
+      "Fishing",
+      "Banking"
+    ],
+    "ans": 3,
+    "explanation": "Banking aids trade by providing money and credit.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A crossed cheque can only be paid",
+    "opts": [
+      "To the bearer",
+      "Through a bank account",
+      "To anyone",
+      "In cash over the counter"
+    ],
+    "ans": 1,
+    "explanation": "A crossed cheque must be paid into an account.",
+    "topic": "Documents in trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Documents in trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A supermarket is an example of a",
+    "opts": [
+      "Large-scale retailer",
+      "Agent",
+      "Producer",
+      "Wholesaler"
+    ],
+    "ans": 0,
+    "explanation": "Supermarkets are large retailers.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The body that regulates trade in Nigeria is the",
+    "opts": [
+      "Federal Ministry of Trade and Investment",
+      "Stock Exchange",
+      "Nigeria Customs only",
+      "Central Bank only"
+    ],
+    "ans": 0,
+    "explanation": "Trade is regulated by the Federal Ministry of Trade and Investment.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Mail order business sells goods through the",
+    "opts": [
+      "Market",
+      "Post",
+      "Shop",
+      "Street"
+    ],
+    "ans": 1,
+    "explanation": "Mail order uses the post.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The fastest means of transport is by",
+    "opts": [
+      "Rail",
+      "Air",
+      "Water",
+      "Road"
+    ],
+    "ans": 1,
+    "explanation": "Air transport is the fastest.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main advantage of hire purchase to the buyer is that goods can be used while",
+    "opts": [
+      "Waiting for delivery",
+      "Saving money",
+      "Paying cash",
+      "Paying in instalments"
+    ],
+    "ans": 3,
+    "explanation": "Hire purchase allows use before full payment.",
+    "topic": "Methods of payment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Methods of payment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The audit of a company's accounts is done by the",
+    "opts": [
+      "Shareholder",
+      "Director",
+      "Auditor",
+      "Manager"
+    ],
+    "ans": 2,
+    "explanation": "An auditor examines the accounts.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The cheapest means of transporting heavy goods overseas is by",
+    "opts": [
+      "Air",
+      "Rail",
+      "Water",
+      "Road"
+    ],
+    "ans": 2,
+    "explanation": "Water transport is cheapest for bulk goods.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A common medium of advertising is the",
+    "opts": [
+      "Post office",
+      "Warehouse",
+      "Bank",
+      "Television"
+    ],
+    "ans": 3,
+    "explanation": "Television is an advertising medium.",
+    "topic": "Aids to trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Aids to trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Home trade is trade carried on",
+    "opts": [
+      "Between countries",
+      "Between continents",
+      "Across the seas",
+      "Within a country"
+    ],
+    "ans": 3,
+    "explanation": "Home trade is internal trade.",
+    "topic": "Trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The regular payment made for insurance cover is the",
+    "opts": [
+      "Sum assured",
+      "Policy",
+      "Premium",
+      "Claim"
+    ],
+    "ans": 2,
+    "explanation": "The premium is paid for cover.",
+    "topic": "Insurance",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Insurance | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A person who sells goods directly to the final consumer is a",
+    "opts": [
+      "Producer",
+      "Agent",
+      "Retailer",
+      "Wholesaler"
+    ],
+    "ans": 2,
+    "explanation": "The retailer sells to final consumers.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The certificate that allows a company to start business is the",
+    "opts": [
+      "Certificate of incorporation",
+      "Memorandum",
+      "Prospectus",
+      "Articles"
+    ],
+    "ans": 0,
+    "explanation": "Incorporation gives the company legal existence.",
+    "topic": "Business organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Business organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A factor is an agent who",
+    "opts": [
+      "Sells goods and gives credit to buyers",
+      "Buys goods only",
+      "Stores goods only",
+      "Transports goods only"
+    ],
+    "ans": 0,
+    "explanation": "A factor sells goods on credit and may finance the principal.",
+    "topic": "Distributive trade",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Distributive trade | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

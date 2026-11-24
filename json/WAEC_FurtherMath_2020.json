@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "If f(x) = x² + 4x + 5, find f(1).",
+    "opts": [
+      "14",
+      "10",
+      "13",
+      "15"
+    ],
+    "ans": 1,
+    "explanation": "f(1) = 1 + 4 + 5 = 10.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the modulus of 6 + 8i.",
+    "opts": [
+      "13",
+      "20",
+      "10",
+      "7"
+    ],
+    "ans": 2,
+    "explanation": "|6 + 8i| = √(6² + 8²) = √100 = 10.",
+    "topic": "Complex numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Complex numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 2x + 3, find f(1).",
+    "opts": [
+      "7",
+      "1",
+      "6",
+      "16"
+    ],
+    "ans": 2,
+    "explanation": "f(1) = 1 + 2 + 3 = 6.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 2x + 2, find f(1).",
+    "opts": [
+      "25",
+      "5",
+      "15",
+      "3"
+    ],
+    "ans": 1,
+    "explanation": "f(1) = 1 + 2 + 2 = 5.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 1x + 4, find f(1).",
+    "opts": [
+      "1",
+      "16",
+      "6",
+      "5"
+    ],
+    "ans": 2,
+    "explanation": "f(1) = 1 + 1 + 4 = 6.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If α and β are the roots of x² - 8x + 12 = 0, find αβ.",
+    "opts": [
+      "14",
+      "12",
+      "20",
+      "32"
+    ],
+    "ans": 1,
+    "explanation": "For x² - Sx + P = 0, product of roots = P = 12.",
+    "topic": "Algebra: roots of equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: roots of equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 3x^2, find f'(3).",
+    "opts": [
+      "20",
+      "18",
+      "10",
+      "16"
+    ],
+    "ans": 1,
+    "explanation": "f'(x) = 6x^1; f'(3) = 6 × 3^1 = 18.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 3x + 3, find f(1).",
+    "opts": [
+      "3",
+      "37",
+      "17",
+      "7"
+    ],
+    "ans": 3,
+    "explanation": "f(1) = 1 + 3 + 3 = 7.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 2x^3, find f'(3).",
+    "opts": [
+      "51",
+      "50",
+      "84",
+      "54"
+    ],
+    "ans": 3,
+    "explanation": "f'(x) = 6x^2; f'(3) = 6 × 3^2 = 54.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If α and β are the roots of x² - 5x + 6 = 0, find α + β.",
+    "opts": [
+      "10",
+      "5",
+      "20",
+      "9"
+    ],
+    "ans": 1,
+    "explanation": "For x² - Sx + P = 0, sum of roots = S = 5.",
+    "topic": "Algebra: roots of equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: roots of equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "In how many ways can 2 officers be chosen in order from 6 candidates?",
+    "opts": [
+      "80",
+      "60",
+      "30",
+      "40"
+    ],
+    "ans": 2,
+    "explanation": "Permutations: P(6, 2) = 6!/4! = 30.",
+    "topic": "Probability: permutations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Probability: permutations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 3x + 2, find f(1).",
+    "opts": [
+      "16",
+      "36",
+      "12",
+      "6"
+    ],
+    "ans": 3,
+    "explanation": "f(1) = 1 + 3 + 2 = 6.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 4x + 4, find f(1).",
+    "opts": [
+      "8",
+      "15",
+      "7",
+      "9"
+    ],
+    "ans": 3,
+    "explanation": "f(1) = 1 + 4 + 4 = 9.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If α and β are the roots of x² - 10x + 21 = 0, find α + β.",
+    "opts": [
+      "40",
+      "16",
+      "10",
+      "0"
+    ],
+    "ans": 2,
+    "explanation": "For x² - Sx + P = 0, sum of roots = S = 10.",
+    "topic": "Algebra: roots of equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: roots of equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 6x^3, find f'(2).",
+    "opts": [
+      "76",
+      "68",
+      "112",
+      "72"
+    ],
+    "ans": 3,
+    "explanation": "f'(x) = 18x^2; f'(2) = 18 × 2^2 = 72.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 5x^2, find f'(2).",
+    "opts": [
+      "26",
+      "14",
+      "10",
+      "20"
+    ],
+    "ans": 3,
+    "explanation": "f'(x) = 10x^1; f'(2) = 10 × 2^1 = 20.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 4x + 1, find f(1).",
+    "opts": [
+      "6",
+      "8",
+      "10",
+      "1"
+    ],
+    "ans": 0,
+    "explanation": "f(1) = 1 + 4 + 1 = 6.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 6x^2, find f'(3).",
+    "opts": [
+      "36",
+      "44",
+      "16",
+      "28"
+    ],
+    "ans": 0,
+    "explanation": "f'(x) = 12x^1; f'(3) = 12 × 3^1 = 36.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If α and β are the roots of x² - 3x + 2 = 0, find α + β.",
+    "opts": [
+      "7",
+      "3",
+      "13",
+      "2"
+    ],
+    "ans": 1,
+    "explanation": "For x² - Sx + P = 0, sum of roots = S = 3.",
+    "topic": "Algebra: roots of equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: roots of equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the sum of the first 4 terms of the geometric progression 3, 6, 12, ...",
+    "opts": [
+      "43",
+      "55",
+      "46",
+      "45"
+    ],
+    "ans": 3,
+    "explanation": "S4 = a(r^n - 1)/(r - 1) = 3(2^4 - 1) = 45.",
+    "topic": "Sequences and series: geometric progression",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Sequences and series: geometric progression | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the sum of the first 3 terms of the geometric progression 1, 2, 4, ...",
+    "opts": [
+      "3",
+      "9",
+      "7",
+      "12"
+    ],
+    "ans": 2,
+    "explanation": "S3 = a(r^n - 1)/(r - 1) = 1(2^3 - 1) = 7.",
+    "topic": "Sequences and series: geometric progression",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Sequences and series: geometric progression | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the sum of the first 4 terms of the geometric progression 2, 4, 8, ...",
+    "opts": [
+      "55",
+      "45",
+      "30",
+      "5"
+    ],
+    "ans": 2,
+    "explanation": "S4 = a(r^n - 1)/(r - 1) = 2(2^4 - 1) = 30.",
+    "topic": "Sequences and series: geometric progression",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Sequences and series: geometric progression | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 5x^4, find f'(3).",
+    "opts": [
+      "540",
+      "536",
+      "535",
+      "550"
+    ],
+    "ans": 0,
+    "explanation": "f'(x) = 20x^3; f'(3) = 20 × 3^3 = 540.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 2x + 4, find f(1).",
+    "opts": [
+      "37",
+      "7",
+      "5",
+      "9"
+    ],
+    "ans": 1,
+    "explanation": "f(1) = 1 + 2 + 4 = 7.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 3x^4, find f'(2).",
+    "opts": [
+      "90",
+      "106",
+      "92",
+      "96"
+    ],
+    "ans": 3,
+    "explanation": "f'(x) = 12x^3; f'(2) = 12 × 2^3 = 96.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If α and β are the roots of x² - 11x + 30 = 0, find α + β.",
+    "opts": [
+      "6",
+      "13",
+      "11",
+      "26"
+    ],
+    "ans": 2,
+    "explanation": "For x² - Sx + P = 0, sum of roots = S = 11.",
+    "topic": "Algebra: roots of equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: roots of equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the sum of the first 3 terms of the geometric progression 2, 4, 8, ...",
+    "opts": [
+      "14",
+      "4",
+      "17",
+      "11"
+    ],
+    "ans": 0,
+    "explanation": "S3 = a(r^n - 1)/(r - 1) = 2(2^3 - 1) = 14.",
+    "topic": "Sequences and series: geometric progression",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Sequences and series: geometric progression | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If α and β are the roots of x² - 8x + 15 = 0, find α + β.",
+    "opts": [
+      "8",
+      "23",
+      "6",
+      "12"
+    ],
+    "ans": 0,
+    "explanation": "For x² - Sx + P = 0, sum of roots = S = 8.",
+    "topic": "Algebra: roots of equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: roots of equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 2x + 5, find f(1).",
+    "opts": [
+      "23",
+      "13",
+      "38",
+      "8"
+    ],
+    "ans": 3,
+    "explanation": "f(1) = 1 + 2 + 5 = 8.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 2x^4, find f'(3).",
+    "opts": [
+      "212",
+      "246",
+      "216",
+      "214"
+    ],
+    "ans": 2,
+    "explanation": "f'(x) = 8x^3; f'(3) = 8 × 3^3 = 216.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 4x^4, find f'(1).",
+    "opts": [
+      "16",
+      "31",
+      "20",
+      "22"
+    ],
+    "ans": 0,
+    "explanation": "f'(x) = 16x^3; f'(1) = 16 × 1^3 = 16.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 3x^3, find f'(2).",
+    "opts": [
+      "36",
+      "39",
+      "41",
+      "46"
+    ],
+    "ans": 0,
+    "explanation": "f'(x) = 9x^2; f'(2) = 9 × 2^2 = 36.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 5x^3, find f'(1).",
+    "opts": [
+      "15",
+      "25",
+      "55",
+      "12"
+    ],
+    "ans": 0,
+    "explanation": "f'(x) = 15x^2; f'(1) = 15 × 1^2 = 15.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 5x + 2, find f(1).",
+    "opts": [
+      "10",
+      "23",
+      "8",
+      "7"
+    ],
+    "ans": 2,
+    "explanation": "f(1) = 1 + 5 + 2 = 8.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 3x^2, find f'(1).",
+    "opts": [
+      "4",
+      "16",
+      "6",
+      "8"
+    ],
+    "ans": 2,
+    "explanation": "f'(x) = 6x^1; f'(1) = 6 × 1^1 = 6.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 5x^2, find f'(1).",
+    "opts": [
+      "7",
+      "8",
+      "10",
+      "50"
+    ],
+    "ans": 2,
+    "explanation": "f'(x) = 10x^1; f'(1) = 10 × 1^1 = 10.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If α and β are the roots of x² - 12x + 35 = 0, find α + β.",
+    "opts": [
+      "14",
+      "6",
+      "10",
+      "12"
+    ],
+    "ans": 3,
+    "explanation": "For x² - Sx + P = 0, sum of roots = S = 12.",
+    "topic": "Algebra: roots of equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: roots of equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 4x^4, find f'(3).",
+    "opts": [
+      "447",
+      "452",
+      "442",
+      "432"
+    ],
+    "ans": 3,
+    "explanation": "f'(x) = 16x^3; f'(3) = 16 × 3^3 = 432.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 4x^3, find f'(2).",
+    "opts": [
+      "28",
+      "49",
+      "8",
+      "48"
+    ],
+    "ans": 3,
+    "explanation": "f'(x) = 12x^2; f'(2) = 12 × 2^2 = 48.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 5x + 3, find f(1).",
+    "opts": [
+      "9",
+      "14",
+      "6",
+      "8"
+    ],
+    "ans": 0,
+    "explanation": "f(1) = 1 + 5 + 3 = 9.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If α and β are the roots of x² - 7x + 12 = 0, find αβ.",
+    "opts": [
+      "20",
+      "12",
+      "27",
+      "32"
+    ],
+    "ans": 1,
+    "explanation": "For x² - Sx + P = 0, product of roots = P = 12.",
+    "topic": "Algebra: roots of equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: roots of equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = 6x^3, find f'(3).",
+    "opts": [
+      "170",
+      "132",
+      "162",
+      "202"
+    ],
+    "ans": 2,
+    "explanation": "f'(x) = 18x^2; f'(3) = 18 × 3^2 = 162.",
+    "topic": "Calculus: differentiation",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Calculus: differentiation | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the sum of the first 4 terms of the geometric progression 4, 8, 16, ...",
+    "opts": [
+      "75",
+      "60",
+      "56",
+      "50"
+    ],
+    "ans": 1,
+    "explanation": "S4 = a(r^n - 1)/(r - 1) = 4(2^4 - 1) = 60.",
+    "topic": "Sequences and series: geometric progression",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Sequences and series: geometric progression | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If α and β are the roots of x² - 4x + 3 = 0, find α + β.",
+    "opts": [
+      "4",
+      "14",
+      "6",
+      "0"
+    ],
+    "ans": 0,
+    "explanation": "For x² - Sx + P = 0, sum of roots = S = 4.",
+    "topic": "Algebra: roots of equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: roots of equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If α and β are the roots of x² - 5x + 4 = 0, find α + β.",
+    "opts": [
+      "4",
+      "5",
+      "15",
+      "11"
+    ],
+    "ans": 1,
+    "explanation": "For x² - Sx + P = 0, sum of roots = S = 5.",
+    "topic": "Algebra: roots of equations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: roots of equations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the modulus of 5 + 12i.",
+    "opts": [
+      "15",
+      "13",
+      "28",
+      "19"
+    ],
+    "ans": 1,
+    "explanation": "|5 + 12i| = √(5² + 12²) = √169 = 13.",
+    "topic": "Complex numbers",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Complex numbers | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the sum of the first 4 terms of the geometric progression 1, 2, 4, ...",
+    "opts": [
+      "15",
+      "18",
+      "19",
+      "13"
+    ],
+    "ans": 0,
+    "explanation": "S4 = a(r^n - 1)/(r - 1) = 1(2^4 - 1) = 15.",
+    "topic": "Sequences and series: geometric progression",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Sequences and series: geometric progression | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Find the sum of the first 5 terms of the geometric progression 4, 8, 16, ...",
+    "opts": [
+      "134",
+      "124",
+      "126",
+      "114"
+    ],
+    "ans": 1,
+    "explanation": "S5 = a(r^n - 1)/(r - 1) = 4(2^5 - 1) = 124.",
+    "topic": "Sequences and series: geometric progression",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Sequences and series: geometric progression | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 4x + 2, find f(1).",
+    "opts": [
+      "7",
+      "6",
+      "1",
+      "17"
+    ],
+    "ans": 0,
+    "explanation": "f(1) = 1 + 4 + 2 = 7.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "If f(x) = x² + 1x + 2, find f(1).",
+    "opts": [
+      "24",
+      "10",
+      "5",
+      "4"
+    ],
+    "ans": 3,
+    "explanation": "f(1) = 1 + 1 + 2 = 4.",
+    "topic": "Algebra: functions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2020 paper | Topic: Algebra: functions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The process of learning the norms and values of a society is",
+    "opts": [
+      "Education only",
+      "Modernisation",
+      "Urbanisation",
+      "Socialisation"
+    ],
+    "ans": 3,
+    "explanation": "Socialisation teaches societal norms.",
+    "topic": "Values",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Values | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The rule of law means that",
+    "opts": [
+      "The rich are above the law",
+      "Everyone is equal before the law",
+      "Leaders are above the law",
+      "Laws apply only to the poor"
+    ],
+    "ans": 1,
+    "explanation": "The rule of law subjects all to the law.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The agency that regulates road safety in Nigeria is the",
+    "opts": [
+      "Federal Road Safety Corps",
+      "Police",
+      "Customs",
+      "Immigration"
+    ],
+    "ans": 0,
+    "explanation": "FRSC regulates road safety.",
+    "topic": "Traffic rules",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Traffic rules | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Nigerian legislature at the federal level is the",
+    "opts": [
+      "National Assembly",
+      "Supreme Court",
+      "House of Chiefs",
+      "State Assembly"
+    ],
+    "ans": 0,
+    "explanation": "The National Assembly is the federal legislature.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Drug abuse is the",
+    "opts": [
+      "Proper use of drugs",
+      "Prescription of drugs",
+      "Harmful use of drugs",
+      "Sale of drugs"
+    ],
+    "ans": 2,
+    "explanation": "Drug abuse is misuse of drugs.",
+    "topic": "Drug abuse",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Drug abuse | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "AIDS stands for",
+    "opts": [
+      "Acquired Immune Deficiency Syndrome",
+      "Advanced Immune Deficiency Syndrome",
+      "Acute Immune Deficiency Syndrome",
+      "Acquired Immunity Deficiency Syndrome"
+    ],
+    "ans": 0,
+    "explanation": "AIDS = Acquired Immune Deficiency Syndrome.",
+    "topic": "HIV/AIDS",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: HIV/AIDS | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The best way to prevent HIV infection is to",
+    "opts": [
+      "Abstain or practise safe sex",
+      "Shake hands",
+      "Share food",
+      "Avoid hospitals"
+    ],
+    "ans": 0,
+    "explanation": "Abstinence and safe sex prevent HIV.",
+    "topic": "HIV/AIDS",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: HIV/AIDS | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The United Nations was founded in",
+    "opts": [
+      "1945",
+      "1948",
+      "1919",
+      "1960"
+    ],
+    "ans": 0,
+    "explanation": "The UN was founded in 1945.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The coat of arms of Nigeria has an eagle which represents",
+    "opts": [
+      "Unity",
+      "Peace",
+      "Strength",
+      "Agriculture"
+    ],
+    "ans": 2,
+    "explanation": "The eagle stands for strength.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A ballot paper is used by a voter to",
+    "opts": [
+      "Apply for a job",
+      "Cast a vote",
+      "Pay tax",
+      "Register"
+    ],
+    "ans": 1,
+    "explanation": "Voters mark ballot papers.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The traffic light colour that means go is",
+    "opts": [
+      "Blue",
+      "Yellow",
+      "Green",
+      "Red"
+    ],
+    "ans": 2,
+    "explanation": "Green means go.",
+    "topic": "Traffic rules",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Traffic rules | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major function of the local government is to",
+    "opts": [
+      "Print money",
+      "Conduct foreign policy",
+      "Provide basic services to the community",
+      "Make national laws"
+    ],
+    "ans": 2,
+    "explanation": "Local governments provide grassroots services.",
+    "topic": "Local government",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Local government | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The best way to manage waste is to",
+    "opts": [
+      "Dump it in rivers",
+      "Reduce, reuse and recycle",
+      "Burn it always",
+      "Bury it anywhere"
+    ],
+    "ans": 1,
+    "explanation": "The 3Rs manage waste sustainably.",
+    "topic": "Environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The right to fair hearing is a",
+    "opts": [
+      "Duty",
+      "Fundamental human right",
+      "Custom",
+      "Privilege"
+    ],
+    "ans": 1,
+    "explanation": "Fair hearing is guaranteed by the Constitution.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The traffic light colour that means stop is",
+    "opts": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "ans": 0,
+    "explanation": "Red means stop.",
+    "topic": "Traffic rules",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Traffic rules | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "HIV stands for",
+    "opts": [
+      "Human Immunology Virus",
+      "Human Immune Deficiency Virus",
+      "Human Immunodeficiency Virus",
+      "Human Infection Virus"
+    ],
+    "ans": 2,
+    "explanation": "HIV = Human Immunodeficiency Virus.",
+    "topic": "HIV/AIDS",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: HIV/AIDS | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major cause of environmental pollution is",
+    "opts": [
+      "Afforestation",
+      "Recycling",
+      "Industrial waste",
+      "Conservation"
+    ],
+    "ans": 2,
+    "explanation": "Industrial waste pollutes the environment.",
+    "topic": "Environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The arm of government that makes laws is the",
+    "opts": [
+      "Executive",
+      "Legislature",
+      "Police",
+      "Judiciary"
+    ],
+    "ans": 1,
+    "explanation": "The legislature makes laws.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The first executive President of Nigeria was",
+    "opts": [
+      "Tafawa Balewa",
+      "Nnamdi Azikiwe",
+      "Olusegun Obasanjo",
+      "Alhaji Shehu Shagari"
+    ],
+    "ans": 3,
+    "explanation": "Shehu Shagari was the first executive President (1979).",
+    "topic": "Constitution",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Constitution | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Environmental protection means",
+    "opts": [
+      "Burning waste",
+      "Destroying forests",
+      "Preserving the natural environment",
+      "Polluting water"
+    ],
+    "ans": 2,
+    "explanation": "Environmental protection preserves nature.",
+    "topic": "Environment",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Environment | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major right of a citizen is the right to",
+    "opts": [
+      "Break the law",
+      "Life",
+      "Avoid taxes",
+      "Steal"
+    ],
+    "ans": 1,
+    "explanation": "The right to life is fundamental.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The body that protects human rights in Nigeria is the",
+    "opts": [
+      "Army",
+      "Customs",
+      "Police",
+      "National Human Rights Commission"
+    ],
+    "ans": 3,
+    "explanation": "The NHRC protects human rights.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The school is an agent of",
+    "opts": [
+      "Distribution",
+      "Production",
+      "Consumption",
+      "Socialisation"
+    ],
+    "ans": 3,
+    "explanation": "Schools socialise children.",
+    "topic": "Values",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Values | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Self-reliance means the ability to",
+    "opts": [
+      "Depend on oneself",
+      "Beg for help",
+      "Depend on others",
+      "Avoid work"
+    ],
+    "ans": 0,
+    "explanation": "Self-reliance is independence.",
+    "topic": "Values",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Values | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Nigerian national flag was designed by",
+    "opts": [
+      "Nnamdi Azikiwe",
+      "Taiwo Akinkunmi",
+      "Obafemi Awolowo",
+      "Ahmadu Bello"
+    ],
+    "ans": 1,
+    "explanation": "Taiwo Akinkunmi designed the flag in 1959.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The youth organisation that promotes national unity in Nigeria is the",
+    "opts": [
+      "National Youth Service Corps",
+      "Red Cross",
+      "Boys' Scout",
+      "Boys' Brigade"
+    ],
+    "ans": 0,
+    "explanation": "NYSC promotes national unity.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The African Union was formerly known as the",
+    "opts": [
+      "League of Nations",
+      "Organisation of African Unity",
+      "ECOWAS",
+      "Commonwealth"
+    ],
+    "ans": 1,
+    "explanation": "The OAU became the AU in 2002.",
+    "topic": "International organisations",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: International organisations | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The process of choosing leaders by voting is an",
+    "opts": [
+      "Selection",
+      "Nomination",
+      "Appointment",
+      "Election"
+    ],
+    "ans": 3,
+    "explanation": "Elections choose leaders by vote.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The white colour on the Nigerian flag represents",
+    "opts": [
+      "Unity",
+      "Agriculture",
+      "Strength",
+      "Peace"
+    ],
+    "ans": 3,
+    "explanation": "White stands for peace and unity.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Nigeria gained independence in",
+    "opts": [
+      "1963",
+      "1957",
+      "1960",
+      "1966"
+    ],
+    "ans": 2,
+    "explanation": "Nigeria became independent on 1 October 1960.",
+    "topic": "Constitution",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Constitution | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Democracy is government of the people, by the people and for the",
+    "opts": [
+      "Military",
+      "Rich",
+      "Elite",
+      "People"
+    ],
+    "ans": 3,
+    "explanation": "Democracy is rule by the people.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The right to freedom of speech is a",
+    "opts": [
+      "Law",
+      "Privilege",
+      "Duty",
+      "Fundamental human right"
+    ],
+    "ans": 3,
+    "explanation": "Freedom of speech is a fundamental right.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The agency that fights corruption among public officials is the",
+    "opts": [
+      "EFCC only",
+      "Independent Corrupt Practices Commission",
+      "Police",
+      "Customs"
+    ],
+    "ans": 1,
+    "explanation": "ICPC fights corruption in public service.",
+    "topic": "Corruption",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Corruption | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "FRSC stands for",
+    "opts": [
+      "Federal Road Security Corps",
+      "Federal Road Safety Council",
+      "Federal Road Safety Commission",
+      "Federal Road Safety Corps"
+    ],
+    "ans": 3,
+    "explanation": "FRSC = Federal Road Safety Corps.",
+    "topic": "Traffic rules",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Traffic rules | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The feeling of love and loyalty to one's country is",
+    "opts": [
+      "Nepotism",
+      "Patriotism",
+      "Nationalism only",
+      "Tribalism"
+    ],
+    "ans": 1,
+    "explanation": "Patriotism is love for one's country.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Universal Declaration of Human Rights was adopted in",
+    "opts": [
+      "1945",
+      "1948",
+      "1960",
+      "1975"
+    ],
+    "ans": 1,
+    "explanation": "The UDHR was adopted in 1948.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The agency that fights financial crimes in Nigeria is the",
+    "opts": [
+      "Immigration",
+      "Customs",
+      "Economic and Financial Crimes Commission",
+      "Police"
+    ],
+    "ans": 2,
+    "explanation": "EFCC fights financial crimes.",
+    "topic": "Corruption",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Corruption | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The age at which a Nigerian can vote is",
+    "opts": [
+      "16 years",
+      "25 years",
+      "18 years",
+      "21 years"
+    ],
+    "ans": 2,
+    "explanation": "The voting age in Nigeria is 18.",
+    "topic": "Citizenship",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Citizenship | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The separation of powers divides government into the executive, legislature and",
+    "opts": [
+      "Judiciary",
+      "Police",
+      "Army",
+      "Civil service"
+    ],
+    "ans": 0,
+    "explanation": "The three arms are executive, legislature and judiciary.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The agency that protects children in Nigeria is the",
+    "opts": [
+      "National Agency for the Prohibition of Trafficking in Persons",
+      "Immigration",
+      "Police only",
+      "Customs"
+    ],
+    "ans": 0,
+    "explanation": "NAPTIP protects against trafficking.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The body that conducts elections in Nigeria is the",
+    "opts": [
+      "National Assembly",
+      "Police",
+      "Supreme Court",
+      "Independent National Electoral Commission"
+    ],
+    "ans": 3,
+    "explanation": "INEC conducts elections in Nigeria.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The head of a state executive in Nigeria is the",
+    "opts": [
+      "Senator",
+      "Chairman",
+      "Governor",
+      "President"
+    ],
+    "ans": 2,
+    "explanation": "A state is headed by a governor.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major feature of democracy is",
+    "opts": [
+      "One-party rule",
+      "Free and fair elections",
+      "Military rule",
+      "Hereditary rule"
+    ],
+    "ans": 1,
+    "explanation": "Democracy needs free and fair elections.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The arm of government that implements laws is the",
+    "opts": [
+      "Judiciary",
+      "Legislature",
+      "Executive",
+      "Press"
+    ],
+    "ans": 2,
+    "explanation": "The executive implements laws.",
+    "topic": "Democracy",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Democracy | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major effect of drug abuse is",
+    "opts": [
+      "Poor health",
+      "Success",
+      "Wealth",
+      "Good health"
+    ],
+    "ans": 0,
+    "explanation": "Drug abuse damages health.",
+    "topic": "Drug abuse",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Drug abuse | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A major cause of road accidents in Nigeria is",
+    "opts": [
+      "Good roads",
+      "Traffic lights",
+      "Seat belts",
+      "Over-speeding"
+    ],
+    "ans": 3,
+    "explanation": "Over-speeding causes many accidents.",
+    "topic": "Traffic rules",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Traffic rules | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "NDLEA stands for",
+    "opts": [
+      "National Drug Legal Enforcement Agency",
+      "National Drug Law Enforcement Authority",
+      "Nigeria Drug Law Enforcement Agency",
+      "National Drug Law Enforcement Agency"
+    ],
+    "ans": 3,
+    "explanation": "NDLEA = National Drug Law Enforcement Agency.",
+    "topic": "Drug abuse",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Drug abuse | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The Nigerian national pledge is recited to show",
+    "opts": [
+      "Power",
+      "Loyalty to the country",
+      "Wealth",
+      "Fear"
+    ],
+    "ans": 1,
+    "explanation": "The pledge expresses loyalty to Nigeria.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The right to education is a",
+    "opts": [
+      "Social right",
+      "Civil right only",
+      "Economic right only",
+      "Political right"
+    ],
+    "ans": 0,
+    "explanation": "Education is a social right.",
+    "topic": "Human rights",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: Human rights | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The green colour on the Nigerian flag represents",
+    "opts": [
+      "Agriculture",
+      "Blood",
+      "Peace",
+      "Unity"
+    ],
+    "ans": 0,
+    "explanation": "Green stands for agriculture and the land.",
+    "topic": "National identity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2021 paper | Topic: National identity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

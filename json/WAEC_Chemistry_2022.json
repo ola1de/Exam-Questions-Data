@@ -1,1 +1,702 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "How many moles are in 32 g of a substance of molar mass 16 g/mol?",
+    "opts": [
+      "4",
+      "12",
+      "2",
+      "7"
+    ],
+    "ans": 2,
+    "explanation": "Moles = mass/molar mass = 32/16 = 2 mol.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical formula of common salt is",
+    "opts": [
+      "NaOH",
+      "NaCl",
+      "HCl",
+      "KCl"
+    ],
+    "ans": 1,
+    "explanation": "Common salt is sodium chloride, NaCl.",
+    "topic": "Chemical formulae",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Chemical formulae | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The separation of a mixture of liquids with different boiling points is done by",
+    "opts": [
+      "Fractional distillation",
+      "Chromatography",
+      "Sublimation",
+      "Filtration"
+    ],
+    "ans": 0,
+    "explanation": "Fractional distillation separates liquids by boiling point.",
+    "topic": "Separation techniques",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Separation techniques | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 10 and mass number 18. How many neutrons does it have?",
+    "opts": [
+      "8",
+      "13",
+      "9",
+      "6"
+    ],
+    "ans": 0,
+    "explanation": "Neutrons = mass number - atomic number = 18 - 10 = 8.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gas liberated at the anode during the electrolysis of dilute sulphuric acid is",
+    "opts": [
+      "Chlorine",
+      "Sulphur dioxide",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "ans": 2,
+    "explanation": "At the anode, hydroxide ions discharge to give oxygen.",
+    "topic": "Electrolysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Electrolysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the relative molecular mass of O2. [H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35.5]",
+    "opts": [
+      "31",
+      "32",
+      "28",
+      "27"
+    ],
+    "ans": 1,
+    "explanation": "The relative molecular mass of O2 is 32.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The salt formed when hydrochloric acid reacts with sodium hydroxide is",
+    "opts": [
+      "Sodium nitrate",
+      "Sodium sulphate",
+      "Sodium carbonate",
+      "Sodium chloride"
+    ],
+    "ans": 3,
+    "explanation": "HCl + NaOH → NaCl + H2O.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The rate of a chemical reaction increases with",
+    "opts": [
+      "Decrease in temperature",
+      "Decrease in concentration",
+      "Decrease in surface area",
+      "Increase in temperature"
+    ],
+    "ans": 3,
+    "explanation": "Higher temperature increases reaction rate.",
+    "topic": "Chemical kinetics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Chemical kinetics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the relative molecular mass of CH4. [H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35.5]",
+    "opts": [
+      "12",
+      "16",
+      "22",
+      "21"
+    ],
+    "ans": 1,
+    "explanation": "The relative molecular mass of CH4 is 16.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "How many moles are in 88 g of a substance of molar mass 44 g/mol?",
+    "opts": [
+      "1",
+      "2",
+      "12",
+      "0"
+    ],
+    "ans": 1,
+    "explanation": "Moles = mass/molar mass = 88/44 = 2 mol.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Soap is made by the reaction of fats with",
+    "opts": [
+      "Nitric acid",
+      "Sodium hydroxide",
+      "Sulphuric acid",
+      "Hydrochloric acid"
+    ],
+    "ans": 1,
+    "explanation": "Saponification is fat + alkali → soap + glycerol.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The cathode in an electrolytic cell is the",
+    "opts": [
+      "Negative electrode",
+      "Neutral electrode",
+      "Salt bridge",
+      "Positive electrode"
+    ],
+    "ans": 0,
+    "explanation": "The cathode is negative in electrolysis.",
+    "topic": "Electrolysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Electrolysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 17 and mass number 37. How many neutrons does it have?",
+    "opts": [
+      "21",
+      "20",
+      "0",
+      "15"
+    ],
+    "ans": 1,
+    "explanation": "Neutrons = mass number - atomic number = 37 - 17 = 20.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 14 and mass number 32. How many neutrons does it have?",
+    "opts": [
+      "23",
+      "20",
+      "18",
+      "16"
+    ],
+    "ans": 2,
+    "explanation": "Neutrons = mass number - atomic number = 32 - 14 = 18.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the percentage by mass of the named element in carbon dioxide, CO2 (carbon).",
+    "opts": [
+      "27.3%",
+      "75%",
+      "100%",
+      "50%"
+    ],
+    "ans": 0,
+    "explanation": "Percentage by mass = (mass of element/molar mass) × 100% = 27.3%.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "20 cm³ of 0.1 mol/dm³ acid neutralises 50 cm³ of alkali of the same concentration ratio (1:1). Find the concentration of the alkali.",
+    "opts": [
+      "0.02 mol/dm³",
+      "0.08 mol/dm³",
+      "0.1 mol/dm³",
+      "0.04 mol/dm³"
+    ],
+    "ans": 3,
+    "explanation": "M1V1 = M2V2, so M2 = 0.1 × 20/50 = 0.04 mol/dm³.",
+    "topic": "Stoichiometry: volumetric analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry: volumetric analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A catalyst increases the rate of a reaction by",
+    "opts": [
+      "Increasing the temperature",
+      "Increasing the concentration",
+      "Raising the activation energy",
+      "Lowering the activation energy"
+    ],
+    "ans": 3,
+    "explanation": "A catalyst lowers the activation energy.",
+    "topic": "Chemical kinetics",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Chemical kinetics | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "How many moles are in 32 g of a substance of molar mass 32 g/mol?",
+    "opts": [
+      "1",
+      "3",
+      "2",
+      "11"
+    ],
+    "ans": 0,
+    "explanation": "Moles = mass/molar mass = 32/32 = 1 mol.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a reducing agent?",
+    "opts": [
+      "Oxygen",
+      "Chlorine",
+      "Concentrated sulphuric acid",
+      "Carbon monoxide"
+    ],
+    "ans": 3,
+    "explanation": "Carbon monoxide reduces metal oxides, being itself oxidised.",
+    "topic": "Redox reactions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Redox reactions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The common name for sodium carbonate is",
+    "opts": [
+      "Washing soda",
+      "Baking soda",
+      "Quicklime",
+      "Caustic soda"
+    ],
+    "ans": 0,
+    "explanation": "Sodium carbonate is washing soda.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The ideal gas equation is",
+    "opts": [
+      "PV = nT",
+      "PV = nRT",
+      "P = nRT/V only",
+      "V = nRT"
+    ],
+    "ans": 1,
+    "explanation": "The ideal gas equation is PV = nRT.",
+    "topic": "Gas laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Gas laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The general formula of alkanes is",
+    "opts": [
+      "CnH2n",
+      "CnH2n-2",
+      "CnH2n+1",
+      "CnH2n+2"
+    ],
+    "ans": 3,
+    "explanation": "Alkanes follow CnH2n+2.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical formula of sulphuric acid is",
+    "opts": [
+      "H2SO3",
+      "HCl",
+      "HNO3",
+      "H2SO4"
+    ],
+    "ans": 3,
+    "explanation": "Sulphuric acid is H2SO4.",
+    "topic": "Chemical formulae",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Chemical formulae | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The method used to remove permanent hardness of water is",
+    "opts": [
+      "Distillation",
+      "Boiling",
+      "Adding washing soda",
+      "Filtration"
+    ],
+    "ans": 2,
+    "explanation": "Boiling removes temporary hardness only; washing soda removes permanent hardness.",
+    "topic": "Water",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Water | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The main ore of aluminium is",
+    "opts": [
+      "Bauxite",
+      "Haematite",
+      "Galena",
+      "Cassiterite"
+    ],
+    "ans": 0,
+    "explanation": "Bauxite is the ore of aluminium.",
+    "topic": "Metals and reactivity",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Metals and reactivity | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Charles' law states that at constant pressure, the volume of a fixed mass of gas is",
+    "opts": [
+      "Proportional to its pressure",
+      "Independent of temperature",
+      "Inversely proportional to its temperature",
+      "Directly proportional to its absolute temperature"
+    ],
+    "ans": 3,
+    "explanation": "Charles' law: V ∝ T at constant P.",
+    "topic": "Gas laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Gas laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a transition metal?",
+    "opts": [
+      "Calcium",
+      "Aluminium",
+      "Iron",
+      "Sodium"
+    ],
+    "ans": 2,
+    "explanation": "Iron is a transition metal.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The pH of an acidic solution is",
+    "opts": [
+      "Less than 7",
+      "Greater than 7",
+      "Equal to 14",
+      "Equal to 7"
+    ],
+    "ans": 0,
+    "explanation": "Acids have pH below 7.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the percentage by mass of the named element in methane, CH4 (hydrogen).",
+    "opts": [
+      "75%",
+      "25%",
+      "100%",
+      "10%"
+    ],
+    "ans": 1,
+    "explanation": "Percentage by mass = (mass of element/molar mass) × 100% = 25%.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The best method of separating a mixture of sand and water is",
+    "opts": [
+      "Sublimation",
+      "Evaporation",
+      "Filtration",
+      "Distillation"
+    ],
+    "ans": 2,
+    "explanation": "Sand is insoluble, so filtration separates it from water.",
+    "topic": "Separation techniques",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Separation techniques | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Elements in the same period have the same number of",
+    "opts": [
+      "Protons",
+      "Valence electrons",
+      "Neutrons",
+      "Electron shells"
+    ],
+    "ans": 3,
+    "explanation": "Period number reflects the number of electron shells.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a covalent compound?",
+    "opts": [
+      "Carbon dioxide",
+      "Magnesium oxide",
+      "Potassium bromide",
+      "Sodium chloride"
+    ],
+    "ans": 0,
+    "explanation": "CO2 is formed by sharing electrons.",
+    "topic": "Chemical bonds",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Chemical bonds | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "25 cm³ of 0.2 mol/dm³ acid neutralises 20 cm³ of alkali of the same concentration ratio (1:1). Find the concentration of the alkali.",
+    "opts": [
+      "0.5 mol/dm³",
+      "0.12 mol/dm³",
+      "0.25 mol/dm³",
+      "0.2 mol/dm³"
+    ],
+    "ans": 2,
+    "explanation": "M1V1 = M2V2, so M2 = 0.2 × 25/20 = 0.25 mol/dm³.",
+    "topic": "Stoichiometry: volumetric analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry: volumetric analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A gas occupies 2 dm³ at 200 kPa. If the pressure is doubled at constant temperature, what is the new volume?",
+    "opts": [
+      "1 dm³",
+      "None of the above",
+      "2 dm³",
+      "4 dm³"
+    ],
+    "ans": 0,
+    "explanation": "Boyle's law: P1V1 = P2V2, so V2 = 200×2/400 = 1 dm³.",
+    "topic": "Gas laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Gas laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical formula of water is",
+    "opts": [
+      "CO2",
+      "O2",
+      "H2O",
+      "H2O2"
+    ],
+    "ans": 2,
+    "explanation": "A water molecule has two hydrogen atoms and one oxygen atom.",
+    "topic": "Chemical formulae",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Chemical formulae | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 8 and mass number 22. How many neutrons does it have?",
+    "opts": [
+      "17",
+      "14",
+      "24",
+      "10"
+    ],
+    "ans": 1,
+    "explanation": "Neutrons = mass number - atomic number = 22 - 8 = 14.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "20 cm³ of 0.5 mol/dm³ acid neutralises 20 cm³ of alkali of the same concentration ratio (1:1). Find the concentration of the alkali.",
+    "opts": [
+      "1 mol/dm³",
+      "None of the above",
+      "0.5 mol/dm³",
+      "0.25 mol/dm³"
+    ],
+    "ans": 2,
+    "explanation": "M1V1 = M2V2, so M2 = 0.5 × 20/20 = 0.5 mol/dm³.",
+    "topic": "Stoichiometry: volumetric analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry: volumetric analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Calculate the relative molecular mass of CO2. [H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35.5]",
+    "opts": [
+      "44",
+      "43",
+      "42",
+      "45"
+    ],
+    "ans": 0,
+    "explanation": "The relative molecular mass of CO2 is 44.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical symbol for sodium is",
+    "opts": [
+      "N",
+      "So",
+      "Sd",
+      "Na"
+    ],
+    "ans": 3,
+    "explanation": "Sodium comes from Latin 'natrium', symbol Na.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Vinegar contains",
+    "opts": [
+      "Hydrochloric acid",
+      "Ethanoic acid",
+      "Citric acid",
+      "Tartaric acid"
+    ],
+    "ans": 1,
+    "explanation": "Vinegar is dilute ethanoic acid.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The gas released when dilute hydrochloric acid reacts with zinc is",
+    "opts": [
+      "Oxygen",
+      "Hydrogen",
+      "Chlorine",
+      "Carbon dioxide"
+    ],
+    "ans": 1,
+    "explanation": "Zn + 2HCl → ZnCl2 + H2.",
+    "topic": "Chemical reactions",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Chemical reactions | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chemical symbol for potassium is",
+    "opts": [
+      "Pt",
+      "Po",
+      "K",
+      "P"
+    ],
+    "ans": 2,
+    "explanation": "Potassium comes from Latin 'kalium', symbol K.",
+    "topic": "Periodic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Periodic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "25 cm³ of 0.1 mol/dm³ acid neutralises 50 cm³ of alkali of the same concentration ratio (1:1). Find the concentration of the alkali.",
+    "opts": [
+      "0.1 mol/dm³",
+      "None of the above",
+      "0.03 mol/dm³",
+      "0.05 mol/dm³"
+    ],
+    "ans": 3,
+    "explanation": "M1V1 = M2V2, so M2 = 0.1 × 25/50 = 0.05 mol/dm³.",
+    "topic": "Stoichiometry: volumetric analysis",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry: volumetric analysis | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a base?",
+    "opts": [
+      "Hydrochloric acid",
+      "Sulphur dioxide",
+      "Sodium hydroxide",
+      "Sodium chloride"
+    ],
+    "ans": 2,
+    "explanation": "Sodium hydroxide is an alkali, a soluble base.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The general formula of alkenes is",
+    "opts": [
+      "CnH2n+1",
+      "CnH2n-2",
+      "CnH2n",
+      "CnH2n+2"
+    ],
+    "ans": 2,
+    "explanation": "Alkenes follow CnH2n.",
+    "topic": "Organic chemistry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Organic chemistry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Hard water contains dissolved salts of",
+    "opts": [
+      "Iron and zinc",
+      "Copper and lead",
+      "Sodium and potassium",
+      "Calcium and magnesium"
+    ],
+    "ans": 3,
+    "explanation": "Hardness is caused by Ca2+ and Mg2+ ions.",
+    "topic": "Water",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Water | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "One mole of a gas at s.t.p. occupies",
+    "opts": [
+      "2.24 dm³",
+      "11.2 dm³",
+      "22.4 dm³",
+      "24.0 dm³"
+    ],
+    "ans": 2,
+    "explanation": "Molar volume at s.t.p. is 22.4 dm³.",
+    "topic": "Stoichiometry",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Stoichiometry | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A gas occupies 4 dm³ at 200 kPa. If the pressure is doubled at constant temperature, what is the new volume?",
+    "opts": [
+      "3 dm³",
+      "2 dm³",
+      "8 dm³",
+      "4 dm³"
+    ],
+    "ans": 1,
+    "explanation": "Boyle's law: P1V1 = P2V2, so V2 = 200×4/400 = 2 dm³.",
+    "topic": "Gas laws",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Gas laws | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "An atom has atomic number 7 and mass number 24. How many neutrons does it have?",
+    "opts": [
+      "17",
+      "20",
+      "16",
+      "22"
+    ],
+    "ans": 0,
+    "explanation": "Neutrons = mass number - atomic number = 24 - 7 = 17.",
+    "topic": "Structure of the atom",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Structure of the atom | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The common name for sodium hydroxide is",
+    "opts": [
+      "Baking soda",
+      "Caustic soda",
+      "Slaked lime",
+      "Washing soda"
+    ],
+    "ans": 1,
+    "explanation": "Sodium hydroxide is caustic soda.",
+    "topic": "Acids, bases and salts",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2022 paper | Topic: Acids, bases and salts | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  }
+]

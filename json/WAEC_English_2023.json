@@ -1,1 +1,858 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "q": "The committee ___ reached a decision.",
+    "opts": [
+      "has",
+      "have",
+      "are",
+      "were"
+    ],
+    "ans": 0,
+    "explanation": "'Committee' as a single body takes a singular verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'big'.",
+    "opts": [
+      "falsehood",
+      "poor",
+      "small",
+      "blunt"
+    ],
+    "ans": 2,
+    "explanation": "'small' is the opposite of 'big'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to be under the weather'.",
+    "opts": [
+      "to waste time regretting a past mistake",
+      "to start a conversation in a formal setting",
+      "to feel slightly ill",
+      "to avoid speaking directly"
+    ],
+    "ans": 2,
+    "explanation": "'to be under the weather' means to feel slightly ill.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Which of the following is a correct sentence?",
+    "opts": [
+      "She has went to school.",
+      "She has gone to school.",
+      "She have went to school.",
+      "She have gone to school."
+    ],
+    "ans": 1,
+    "explanation": "'Has gone' is the correct present perfect form.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'The boy ran ___ the road.'",
+    "opts": [
+      "over",
+      "into",
+      "through",
+      "across"
+    ],
+    "ans": 3,
+    "explanation": "'Across' is used for crossing a road.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The dogs ___ barking at strangers.",
+    "opts": [
+      "are",
+      "is",
+      "was",
+      "has"
+    ],
+    "ans": 0,
+    "explanation": "'Dogs' is plural, so the verb is plural.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'He did not come, ___ he?'",
+    "opts": [
+      "did",
+      "was",
+      "does",
+      "is"
+    ],
+    "ans": 0,
+    "explanation": "The tag repeats the auxiliary 'did'.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to kill two birds with one stone'.",
+    "opts": [
+      "to tease or joke with someone",
+      "to be in the same difficult situation",
+      "to be in trouble",
+      "to achieve two things with one action"
+    ],
+    "ans": 3,
+    "explanation": "'to kill two birds with one stone' means to achieve two things with one action.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The trousers ___ torn.",
+    "opts": [
+      "is",
+      "was",
+      "are",
+      "has"
+    ],
+    "ans": 2,
+    "explanation": "'Trousers' takes a plural verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to be on cloud nine'.",
+    "opts": [
+      "to reveal a secret",
+      "to be extremely happy",
+      "to achieve two things with one action",
+      "to be in a difficult situation"
+    ],
+    "ans": 1,
+    "explanation": "'to be on cloud nine' means to be extremely happy.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'difficult'.",
+    "opts": [
+      "arduous",
+      "renowned",
+      "joyful",
+      "mild"
+    ],
+    "ans": 0,
+    "explanation": "'arduous' is the closest synonym of 'difficult'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'accept'.",
+    "opts": [
+      "cold",
+      "reject",
+      "abundant",
+      "hard"
+    ],
+    "ans": 1,
+    "explanation": "'reject' is the opposite of 'accept'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to be in the same boat'.",
+    "opts": [
+      "to say exactly the right thing",
+      "to be the centre of public attention",
+      "to be in serious trouble",
+      "to be in the same difficult situation"
+    ],
+    "ans": 3,
+    "explanation": "'to be in the same boat' means to be in the same difficult situation.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'remember'.",
+    "opts": [
+      "departure",
+      "contract",
+      "forget",
+      "abundant"
+    ],
+    "ans": 2,
+    "explanation": "'forget' is the opposite of 'remember'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'She is interested ___ music.'",
+    "opts": [
+      "in",
+      "at",
+      "for",
+      "on"
+    ],
+    "ans": 0,
+    "explanation": "'Interested in' is the correct collocation.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to be in hot water'.",
+    "opts": [
+      "to work late into the night",
+      "to be in trouble",
+      "to make peace after a quarrel",
+      "to be in the same difficult situation"
+    ],
+    "ans": 1,
+    "explanation": "'to be in hot water' means to be in trouble.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to be in hot soup'.",
+    "opts": [
+      "to rain heavily",
+      "to achieve two things with one action",
+      "to be in serious trouble",
+      "to make peace after a quarrel"
+    ],
+    "ans": 2,
+    "explanation": "'to be in hot soup' means to be in serious trouble.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to burn the midnight oil'.",
+    "opts": [
+      "not to know what to do or say",
+      "to make peace after a quarrel",
+      "to rain heavily",
+      "to work late into the night"
+    ],
+    "ans": 3,
+    "explanation": "'to burn the midnight oil' means to work late into the night.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The chairman, as well as the members, ___ present.",
+    "opts": [
+      "have",
+      "are",
+      "were",
+      "was"
+    ],
+    "ans": 3,
+    "explanation": "The verb agrees with 'chairman', not with the phrase after it.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "All the food ___ been eaten.",
+    "opts": [
+      "has",
+      "were",
+      "are",
+      "have"
+    ],
+    "ans": 0,
+    "explanation": "'All the food' takes a singular verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'help'.",
+    "opts": [
+      "sagacious",
+      "assist",
+      "swift",
+      "delightful"
+    ],
+    "ans": 1,
+    "explanation": "'assist' is the closest synonym of 'help'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The number of students in the class ___ forty.",
+    "opts": [
+      "is",
+      "have",
+      "were",
+      "are"
+    ],
+    "ans": 0,
+    "explanation": "'The number of' takes a singular verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'love'.",
+    "opts": [
+      "renowned",
+      "adore",
+      "mild",
+      "arrogant"
+    ],
+    "ans": 1,
+    "explanation": "'adore' is the closest synonym of 'love'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'love'.",
+    "opts": [
+      "hate",
+      "weak",
+      "slavery",
+      "darkness"
+    ],
+    "ans": 0,
+    "explanation": "'hate' is the opposite of 'love'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Either the students or the teacher ___ to blame.",
+    "opts": [
+      "are",
+      "is",
+      "have",
+      "were"
+    ],
+    "ans": 1,
+    "explanation": "The verb agrees with the nearer subject 'teacher' (singular).",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'clean'.",
+    "opts": [
+      "slow",
+      "shallow",
+      "dirty",
+      "easy"
+    ],
+    "ans": 2,
+    "explanation": "'dirty' is the opposite of 'clean'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'hot'.",
+    "opts": [
+      "scorching",
+      "weary",
+      "lovely",
+      "adore"
+    ],
+    "ans": 0,
+    "explanation": "'scorching' is the closest synonym of 'hot'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'truth'.",
+    "opts": [
+      "sorrow",
+      "old",
+      "empty",
+      "falsehood"
+    ],
+    "ans": 3,
+    "explanation": "'falsehood' is the opposite of 'truth'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'once in a blue moon'.",
+    "opts": [
+      "to waste time regretting a past mistake",
+      "to ignore someone deliberately",
+      "to do something cheaply or quickly, skipping steps",
+      "very rarely"
+    ],
+    "ans": 3,
+    "explanation": "'once in a blue moon' means very rarely.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'proud'.",
+    "opts": [
+      "dull",
+      "simple",
+      "benevolent",
+      "arrogant"
+    ],
+    "ans": 3,
+    "explanation": "'arrogant' is the closest synonym of 'proud'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The word 'very' in 'very good' is an",
+    "opts": [
+      "Adjective",
+      "Noun",
+      "Adverb",
+      "Verb"
+    ],
+    "ans": 2,
+    "explanation": "'Very' modifies the adjective 'good', so it is an adverb.",
+    "topic": "Lexis and structure: word classes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: word classes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The information ___ useful.",
+    "opts": [
+      "have",
+      "are",
+      "were",
+      "is"
+    ],
+    "ans": 3,
+    "explanation": "'Information' is uncountable and takes a singular verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "A number of students ___ absent today.",
+    "opts": [
+      "is",
+      "has",
+      "was",
+      "are"
+    ],
+    "ans": 3,
+    "explanation": "'A number of' takes a plural verb.",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'faithful'.",
+    "opts": [
+      "swift",
+      "furious",
+      "unsightly",
+      "loyal"
+    ],
+    "ans": 3,
+    "explanation": "'loyal' is the closest synonym of 'faithful'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'silent'.",
+    "opts": [
+      "silly",
+      "quiet",
+      "modest",
+      "merciless"
+    ],
+    "ans": 1,
+    "explanation": "'quiet' is the closest synonym of 'silent'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'He ___ have finished by now.'",
+    "opts": [
+      "shall",
+      "should",
+      "may",
+      "will"
+    ],
+    "ans": 1,
+    "explanation": "'Should have' expresses expectation.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'The book is ___ the table.'",
+    "opts": [
+      "by",
+      "on",
+      "in",
+      "at"
+    ],
+    "ans": 1,
+    "explanation": "'On' is used for a surface.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'rude'.",
+    "opts": [
+      "quiet",
+      "impolite",
+      "loyal",
+      "spotless"
+    ],
+    "ans": 1,
+    "explanation": "'impolite' is the closest synonym of 'rude'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct option: 'Neither the pen nor the book ___ on the table.'",
+    "opts": [
+      "were",
+      "is",
+      "have",
+      "are"
+    ],
+    "ans": 1,
+    "explanation": "The verb agrees with the nearer subject 'book' (singular).",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to be at a loss'.",
+    "opts": [
+      "to tell someone important news",
+      "to reveal secret information",
+      "not to know what to do or say",
+      "to be in a difficult situation"
+    ],
+    "ans": 2,
+    "explanation": "'to be at a loss' means not to know what to do or say.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct meaning of the idiom 'to cry over spilt milk'.",
+    "opts": [
+      "to be in a risky situation",
+      "to tell someone important news",
+      "to waste time regretting a past mistake",
+      "not to know what to do or say"
+    ],
+    "ans": 2,
+    "explanation": "'to cry over spilt milk' means to waste time regretting a past mistake.",
+    "topic": "Lexis and structure: idiomatic usage",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: idiomatic usage | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "The word 'between' in 'between the two houses' is a",
+    "opts": [
+      "Adverb",
+      "Conjunction",
+      "Preposition",
+      "Adjective"
+    ],
+    "ans": 2,
+    "explanation": "'Between' shows a relationship of place, so it is a preposition.",
+    "topic": "Lexis and structure: word classes",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: word classes | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'hot'.",
+    "opts": [
+      "cold",
+      "wrong",
+      "sorrow",
+      "contract"
+    ],
+    "ans": 0,
+    "explanation": "'cold' is the opposite of 'hot'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'lazy'.",
+    "opts": [
+      "idle",
+      "spotless",
+      "conclude",
+      "swift"
+    ],
+    "ans": 0,
+    "explanation": "'idle' is the closest synonym of 'lazy'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word opposite in meaning to 'calm'.",
+    "opts": [
+      "bitter",
+      "slow",
+      "agitated",
+      "foolish"
+    ],
+    "ans": 2,
+    "explanation": "'agitated' is the opposite of 'calm'.",
+    "topic": "Lexis and structure: antonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: antonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Either the boys or the girl ___ to be blamed.",
+    "opts": [
+      "have",
+      "were",
+      "is",
+      "are"
+    ],
+    "ans": 2,
+    "explanation": "The verb agrees with the nearer subject 'girl' (singular).",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Neither the boys nor the girl ___ arrived.",
+    "opts": [
+      "were",
+      "are",
+      "has",
+      "have"
+    ],
+    "ans": 2,
+    "explanation": "The verb agrees with the nearer subject 'girl' (singular).",
+    "topic": "Lexis and structure: concord (subject-verb agreement)",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: concord (subject-verb agreement) | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the correct question tag: 'They are not here, ___?'",
+    "opts": [
+      "are they",
+      "is they",
+      "aren't they",
+      "are they not"
+    ],
+    "ans": 0,
+    "explanation": "The tag for a negative statement is positive: 'are they'.",
+    "topic": "Lexis and structure: sentence patterns",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: sentence patterns | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'cruel'.",
+    "opts": [
+      "merciless",
+      "serene",
+      "idle",
+      "courageous"
+    ],
+    "ans": 0,
+    "explanation": "'merciless' is the closest synonym of 'cruel'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "q": "Choose the word nearest in meaning to 'easy'.",
+    "opts": [
+      "needy",
+      "mild",
+      "idle",
+      "simple"
+    ],
+    "ans": 3,
+    "explanation": "'simple' is the closest synonym of 'easy'.",
+    "topic": "Lexis and structure: synonyms",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Lexis and structure: synonyms | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+  },
+  {
+    "type": "passage",
+    "content": "<b>The New Student</b><br><br>When Adaeze joined our class in the middle of the term, she was very shy. She sat alone during break and spoke to nobody. Some of the pupils laughed at her because she spoke with a different accent. One day, our teacher, Mr Eze, asked Adaeze to read a poem in front of the class. Her voice was clear and beautiful, and everyone listened quietly. After she finished, the whole class clapped. From that day, Adaeze made many friends. She joined the debating society and later won a prize for the best speaker in the school. Adaeze taught us that we should not judge people by their appearance or accent.",
+    "questions": [
+      {
+        "q": "Why was Adaeze shy when she joined the class?",
+        "opts": [
+          "She was afraid of the teacher",
+          "She was new and did not know anyone",
+          "She could not speak English",
+          "She did not like the school"
+        ],
+        "ans": 1,
+        "explanation": "She was new, sat alone and spoke to nobody.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "Why did some pupils laugh at Adaeze?",
+        "opts": [
+          "Because she was short",
+          "Because she was poor",
+          "Because she failed her exams",
+          "Because she spoke with a different accent"
+        ],
+        "ans": 3,
+        "explanation": "Some laughed because of her accent.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "What did Mr Eze ask Adaeze to do?",
+        "opts": [
+          "To leave the class",
+          "To sing a song",
+          "To write on the board",
+          "To read a poem in front of the class"
+        ],
+        "ans": 3,
+        "explanation": "He asked her to read a poem.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "What happened after Adaeze read the poem?",
+        "opts": [
+          "The whole class clapped",
+          "She ran out of the class",
+          "The class laughed at her",
+          "The teacher scolded her"
+        ],
+        "ans": 0,
+        "explanation": "After she finished, the whole class clapped.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "What did Adaeze later win a prize for?",
+        "opts": [
+          "Being the best speaker in the school",
+          "Being the best dancer",
+          "Being the best singer",
+          "Being the best writer"
+        ],
+        "ans": 0,
+        "explanation": "She won a prize for the best speaker.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      }
+    ],
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Original passage written for this practice set; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng)"
+  },
+  {
+    "type": "passage",
+    "content": "<b>The Market Day</b><br><br>Every Saturday is market day in our town. Traders come from far and near with their goods: yams, plantains, vegetables, cloth, and pots. The market is always busy and noisy. Buyers haggle over prices, and sellers call out to attract customers. My mother goes to the market early in the morning to buy fresh vegetables. She says that the early buyer gets the best goods at the lowest prices. In the afternoon, the market becomes quieter as traders pack their unsold goods and return to their villages. Market day is important to our town because it brings people together and helps farmers to sell their produce.",
+    "questions": [
+      {
+        "q": "On which day is market day in the town?",
+        "opts": [
+          "Monday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "ans": 2,
+        "explanation": "Every Saturday is market day.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "What do traders bring to the market?",
+        "opts": [
+          "Books, pens and bags",
+          "Cars, machines and tools",
+          "Yams, plantains, vegetables, cloth and pots",
+          "Gold, silver and diamonds"
+        ],
+        "ans": 2,
+        "explanation": "Traders bring yams, plantains, vegetables, cloth and pots.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "Why does the writer's mother go to the market early?",
+        "opts": [
+          "To sell her goods",
+          "To buy fresh vegetables at low prices",
+          "To meet her friends",
+          "To avoid the crowd"
+        ],
+        "ans": 1,
+        "explanation": "She goes early to buy fresh vegetables at the lowest prices.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "When does the market become quieter?",
+        "opts": [
+          "At midnight",
+          "In the afternoon",
+          "In the evening",
+          "In the morning"
+        ],
+        "ans": 1,
+        "explanation": "In the afternoon the market becomes quieter.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      },
+      {
+        "q": "Why is market day important to the town?",
+        "opts": [
+          "It closes the schools",
+          "It makes the town rich",
+          "It brings visitors from abroad",
+          "It brings people together and helps farmers sell their produce"
+        ],
+        "ans": 3,
+        "explanation": "Market day brings people together and helps farmers sell produce.",
+        "topic": "Comprehension",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Adapted by topic from WAEC 2024/2025 repo files; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng); answers verified against the syllabus"
+      }
+    ],
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the WAEC syllabus for this subject, not the official 2023 paper | Topic: Comprehension | Original passage written for this practice set; syllabus: WAEC syllabus (waecsyllabus.com) and JAMB syllabus (ibass.jamb.gov.ng)"
+  }
+]
