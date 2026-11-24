@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "A map that shows relief and physical features is a",
+    "opts": [
+      "Political map",
+      "Climate map",
+      "Topographical map",
+      "Population map"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Maps | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Topographical maps show relief, rivers and settlements."
+  },
+  {
+    "type": "std",
+    "q": "The scale 1:50,000 on a map means 1 cm on the map represents",
+    "opts": [
+      "50 m on the ground",
+      "500 m on the ground",
+      "5 km on the ground",
+      "50 km on the ground"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Scale and Measurement | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "50,000 cm = 500 m."
+  },
+  {
+    "type": "std",
+    "q": "Contour lines that are close together indicate a",
+    "opts": [
+      "Gentle slope",
+      "Steep slope",
+      "Flat plain",
+      "Valley"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Map Reading and Interpretation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Close contours mean rapid height change: a steep slope."
+  },
+  {
+    "type": "std",
+    "q": "The point where a river meets the sea is its",
+    "opts": [
+      "Source",
+      "Mouth",
+      "Tributary",
+      "Watershed"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Map Reading and Interpretation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A river ends at its mouth."
+  },
+  {
+    "type": "std",
+    "q": "A pie chart is best used to show",
+    "opts": [
+      "Changes over time",
+      "Height of land",
+      "Direction of flow",
+      "Proportions of a whole"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Interpretation of Statistical Data | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Pie charts show parts of a whole."
+  },
+  {
+    "type": "std",
+    "q": "A chain and prismatic compass are tools used in",
+    "opts": [
+      "Elementary surveying",
+      "Soil testing",
+      "Map printing",
+      "Weather recording"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Elementary Surveying | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Surveying uses chains, compasses and levels."
+  },
+  {
+    "type": "std",
+    "q": "GIS is an abbreviation for",
+    "opts": [
+      "Global Information Service",
+      "General Internet System",
+      "Geographic Information System",
+      "Geological Investigation Survey"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Geographic Information System (GIS) | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "GIS = Geographic Information System."
+  },
+  {
+    "type": "std",
+    "q": "The earth rotates on its axis once in about",
+    "opts": [
+      "24 hours",
+      "12 hours",
+      "365 days",
+      "30 days"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Earth as a Planet | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "One rotation takes about 24 hours, causing day and night."
+  },
+  {
+    "type": "std",
+    "q": "The earth revolves around the sun in about",
+    "opts": [
+      "365 days",
+      "24 hours",
+      "30 days",
+      "7 days"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Earth as a Planet | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "One revolution takes about 365 days, causing seasons."
+  },
+  {
+    "type": "std",
+    "q": "The innermost layer of the earth is the",
+    "opts": [
+      "Crust",
+      "Asthenosphere",
+      "Core",
+      "Mantle"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Earth's Crust | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The core is the innermost layer."
+  },
+  {
+    "type": "std",
+    "q": "Granite is an example of a/an",
+    "opts": [
+      "Metamorphic rock",
+      "Fossil rock",
+      "Igneous rock",
+      "Sedimentary rock"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Earth's Crust | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Granite forms from cooled magma: igneous."
+  },
+  {
+    "type": "std",
+    "q": "Sandstone is an example of a",
+    "opts": [
+      "Igneous rock",
+      "Sedimentary rock",
+      "Metamorphic rock",
+      "Volcanic rock"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Earth's Crust | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Sandstone is formed from deposited sand: sedimentary."
+  },
+  {
+    "type": "std",
+    "q": "Marble is formed from limestone by",
+    "opts": [
+      "Weathering",
+      "Erosion",
+      "Metamorphism",
+      "Deposition"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Earth's Crust | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Heat and pressure change limestone into marble."
+  },
+  {
+    "type": "std",
+    "q": "A volcano is an opening in the earth's crust through which",
+    "opts": [
+      "Rivers flow",
+      "Rain falls",
+      "Wind blows",
+      "Lava and gases escape"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Volcanism and Earthquakes | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Volcanoes erupt lava, ash and gases."
+  },
+  {
+    "type": "std",
+    "q": "The instrument used to measure earthquakes is the",
+    "opts": [
+      "Seismograph",
+      "Barometer",
+      "Thermometer",
+      "Anemometer"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Volcanism and Earthquakes | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A seismograph records earthquake waves."
+  },
+  {
+    "type": "std",
+    "q": "Weathering is the",
+    "opts": [
+      "Melting of rocks",
+      "Breaking down of rocks in place",
+      "Carrying away of rocks",
+      "Formation of soil only"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Denudation Processes in the Tropics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Weathering breaks rocks down without moving them."
+  },
+  {
+    "type": "std",
+    "q": "The main agent of erosion in a desert is",
+    "opts": [
+      "Wind",
+      "Water",
+      "Ice",
+      "Animals"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Denudation Processes in the Tropics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Wind is the chief erosive agent in deserts."
+  },
+  {
+    "type": "std",
+    "q": "The longest river in Africa is the",
+    "opts": [
+      "Niger",
+      "Congo",
+      "Nile",
+      "Zambezi"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Water Bodies | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The Nile is Africa's longest river."
+  },
+  {
+    "type": "std",
+    "q": "The river Niger flows into the Atlantic through its",
+    "opts": [
+      "Source",
+      "Tributary",
+      "Waterfall",
+      "Delta"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Water Bodies | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The Niger enters the sea through its delta."
+  },
+  {
+    "type": "std",
+    "q": "The instrument used to measure rainfall is the",
+    "opts": [
+      "Barometer",
+      "Rain gauge",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Weather and Climate | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A rain gauge measures rainfall."
+  },
+  {
+    "type": "std",
+    "q": "Atmospheric pressure is measured with a",
+    "opts": [
+      "Rain gauge",
+      "Wind vane",
+      "Barometer",
+      "Thermometer"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Weather and Climate | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A barometer measures air pressure."
+  },
+  {
+    "type": "std",
+    "q": "The equatorial climate is characterised by",
+    "opts": [
+      "High temperature and heavy rainfall all year",
+      "Cold winters",
+      "Low rainfall",
+      "Snowfall"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Weather and Climate | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Equatorial regions are hot and wet throughout the year."
+  },
+  {
+    "type": "std",
+    "q": "The harmattan wind in West Africa blows from the",
+    "opts": [
+      "North-east",
+      "South-west",
+      "South-east",
+      "North-west"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Weather and Climate | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The harmattan is a dry north-east wind from the Sahara."
+  },
+  {
+    "type": "std",
+    "q": "The vegetation of the rainforest is mainly",
+    "opts": [
+      "Cactus",
+      "Tall evergreen trees",
+      "Thorny shrubs",
+      "Short grasses"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Vegetation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Rainforest has tall evergreen trees."
+  },
+  {
+    "type": "std",
+    "q": "The savanna vegetation of Nigeria is found mainly in the",
+    "opts": [
+      "South-east coast",
+      "Niger Delta",
+      "Jos Plateau only",
+      "North"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Vegetation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Savanna covers northern and central Nigeria."
+  },
+  {
+    "type": "std",
+    "q": "The most fertile soil for farming in Nigeria is",
+    "opts": [
+      "Sandy soil",
+      "Clay soil",
+      "Loamy soil",
+      "Lateritic soil"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Soils | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Loam balances nutrients, drainage and aeration."
+  },
+  {
+    "type": "std",
+    "q": "Petroleum in Nigeria is found mainly in the",
+    "opts": [
+      "Sokoto Basin",
+      "Niger Delta",
+      "Chad Basin",
+      "Jos Plateau"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Environmental Resources | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Nigeria's oil comes from the Niger Delta."
+  },
+  {
+    "type": "std",
+    "q": "Tin mining in Nigeria is centred on the",
+    "opts": [
+      "Jos Plateau",
+      "Niger Delta",
+      "Enugu",
+      "Lagos"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Environmental Resources | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Tin is mined on the Jos Plateau."
+  },
+  {
+    "type": "std",
+    "q": "Flooding in coastal Nigeria is an example of a/an",
+    "opts": [
+      "Environmental hazard",
+      "Soil type",
+      "Economic activity",
+      "Settlement pattern"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Environmental Hazards | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Floods are natural environmental hazards."
+  },
+  {
+    "type": "std",
+    "q": "Afforestation is the planting of trees to",
+    "opts": [
+      "Increase farming land",
+      "Control erosion and desertification",
+      "Build houses",
+      "Produce charcoal"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Environmental Conservation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Planting trees checks erosion and desert spread."
+  },
+  {
+    "type": "std",
+    "q": "Africa's most populous country is",
+    "opts": [
+      "Ethiopia",
+      "Nigeria",
+      "South Africa",
+      "Egypt"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Population | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Nigeria is Africa's most populous country."
+  },
+  {
+    "type": "std",
+    "q": "A nucleated settlement is one in which houses are",
+    "opts": [
+      "Spread far apart",
+      "Built along a road only",
+      "Built on hills only",
+      "Clustered together"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Settlement | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Nucleated settlements cluster around a centre."
+  },
+  {
+    "type": "std",
+    "q": "Lumbering is an economic activity based on",
+    "opts": [
+      "Fishing",
+      "Mining",
+      "Forest resources",
+      "Farming"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Selected Economic Activities | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Lumbering harvests timber from forests."
+  },
+  {
+    "type": "std",
+    "q": "The capital of Nigeria is",
+    "opts": [
+      "Lagos",
+      "Kano",
+      "Ibadan",
+      "Abuja"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Broad Outline of Nigeria | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Abuja has been the capital since 1991."
+  },
+  {
+    "type": "std",
+    "q": "The Kainji Dam is built on the river",
+    "opts": [
+      "Benue",
+      "Cross",
+      "Ogun",
+      "Niger"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Economic and Human Geography of Nigeria | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Kainji Dam is on the River Niger."
+  },
+  {
+    "type": "std",
+    "q": "Cocoa in Nigeria is grown mainly in the",
+    "opts": [
+      "Middle Belt",
+      "North-east",
+      "North-west",
+      "South-west"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Economic and Human Geography of Nigeria | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Cocoa grows in the south-western rainforest belt."
+  },
+  {
+    "type": "std",
+    "q": "ECOWAS was founded in",
+    "opts": [
+      "1999",
+      "1960",
+      "1980",
+      "1975"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: ECOWAS | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "ECOWAS was founded in Lagos in 1975."
+  },
+  {
+    "type": "std",
+    "q": "The city where ECOWAS has its headquarters is",
+    "opts": [
+      "Accra",
+      "Lagos",
+      "Dakar",
+      "Abuja"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: ECOWAS | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "ECOWAS headquarters is in Abuja, Nigeria."
+  },
+  {
+    "type": "std",
+    "q": "One aim of ECOWAS is to promote",
+    "opts": [
+      "Colonial trade",
+      "Single-party politics",
+      "Economic integration in West Africa",
+      "Military rule"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: ECOWAS | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "ECOWAS promotes economic cooperation and integration."
+  },
+  {
+    "type": "std",
+    "q": "Wind speed is measured with an",
+    "opts": [
+      "Anemometer",
+      "Rain gauge",
+      "Barometer",
+      "Thermometer"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Weather and Climate | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "An anemometer measures wind speed."
+  }
+]

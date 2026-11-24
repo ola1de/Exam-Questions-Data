@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Wasali 'a, e, i, o, u' guda nawa ne?",
+    "opts": [
+      "Biyar",
+      "Shida",
+      "Bakwai",
+      "Huɗu"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Tsarin Sauti (Phonology) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Wasali guda biyar ne."
+  },
+  {
+    "type": "std",
+    "q": "Harafin 'ɓ' yana daga cikin",
+    "opts": [
+      "Lambobi",
+      "Alamomi",
+      "Bogaye",
+      "Wasali"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙa’idojin Rubutu (Orthography) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Ɓ harafin boge ne."
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne jam'in kalmar 'littafi'?",
+    "opts": [
+      "Littafai",
+      "Littatafai",
+      "Littattafai",
+      "Litattafi"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙirar Kalma (Morphology) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Jam'in littafi shi ne littattafai."
+  },
+  {
+    "type": "std",
+    "q": "Mene ne jam'in kalmar 'mota'?",
+    "opts": [
+      "Motaye",
+      "Motansu",
+      "Motoci",
+      "Motoci-mota"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Jam'in mota shi ne motoci."
+  },
+  {
+    "type": "std",
+    "q": "Mene ne jam'in kalmar 'makaranta'?",
+    "opts": [
+      "Makaran",
+      "Makaranta-makaranta",
+      "Makarantu",
+      "Makarance"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Jam'in makaranta shi ne makarantu."
+  },
+  {
+    "type": "std",
+    "q": "Mene ne jam'in kalmar 'kare'?",
+    "opts": [
+      "Kare-kare",
+      "Karaye",
+      "Karan",
+      "Karnuka"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Jam'in kare shi ne karnuka."
+  },
+  {
+    "type": "std",
+    "q": "Kalmar 'wata' tana nuna jinsi na",
+    "opts": [
+      "Mace",
+      "Miji",
+      "Babu jinsi",
+      "Duka biyu"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Wata (wata/hold) kalma ce ta miji."
+  },
+  {
+    "type": "std",
+    "q": "Kalmar 'ƙasa' tana nuna jinsi na",
+    "opts": [
+      "Miji",
+      "Babu jinsi",
+      "Mace",
+      "Duka biyu"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Ƙasa kalma ce ta mace."
+  },
+  {
+    "type": "std",
+    "q": "Kalmar 'ruwa' tana nuna jinsi na",
+    "opts": [
+      "Mace",
+      "Miji",
+      "Babu jinsi",
+      "Duka biyu"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Ruwa kalma ce ta miji."
+  },
+  {
+    "type": "std",
+    "q": "A cikin waɗannan, wanne ne suna na mutum?",
+    "opts": [
+      "Musa",
+      "Kare",
+      "Mota",
+      "Gida"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ma’ana (Semantics) | New syllabus-modelled item",
+    "explanation": "Musa suna ne na mutum."
+  },
+  {
+    "type": "std",
+    "q": "'Barka da safiya' a Turanci yana nufin",
+    "opts": [
+      "Good afternoon",
+      "Good night",
+      "Good morning",
+      "Goodbye"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Fassara (Translation) | New syllabus-modelled item",
+    "explanation": "Barka da safiya na nufin good morning."
+  },
+  {
+    "type": "std",
+    "q": "'Sannu' a Turanci yana nufin",
+    "opts": [
+      "Hello",
+      "Thank you",
+      "Sorry",
+      "Goodbye"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Fassara (Translation) | New syllabus-modelled item",
+    "explanation": "Sannu gaisuwa ce da ke nufin hello."
+  },
+  {
+    "type": "std",
+    "q": "Lambar 'uku' a Turanci ita ce",
+    "opts": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Uku na nufin three."
+  },
+  {
+    "type": "std",
+    "q": "Lambar 'ashirin' a Turanci ita ce",
+    "opts": [
+      "Ten",
+      "Thirty",
+      "Twelve",
+      "Twenty"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Ashirin na nufin twenty."
+  },
+  {
+    "type": "std",
+    "q": "Wace rana ce ta Juma'a a mako?",
+    "opts": [
+      "Ranar ibada ta Musulmi",
+      "Ranar kasuwa",
+      "Ranar hutu kaɗai",
+      "Ranar farko"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Rayuwar Hausawa (Hausa Customs) | New syllabus-modelled item",
+    "explanation": "Juma'a ita ce ranar ibadar Musulmi ta mako."
+  },
+  {
+    "type": "std",
+    "q": "Wani littafi ne na farko da aka rubuta a harshen Hausa?",
+    "opts": [
+      "Gandoki",
+      "Shaihu Umar",
+      "Ruwan Bagaja",
+      "Magana Jari Ce"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Zube (Written Prose) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Magana Jari Ce (1937) shi ne littafin Hausa na farko da aka buga."
+  },
+  {
+    "type": "std",
+    "q": "Wace sana'a ce ta gargajiya ta Hausawa?",
+    "opts": [
+      "Aikin banki",
+      "Noma",
+      "Aikin ofis",
+      "Tukin jirgin sama"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Sana’o’in Gargajiya (Traditional Occupations) | New syllabus-modelled item",
+    "explanation": "Noma ita ce babbar sana'ar gargajiya ta Hausawa."
+  },
+  {
+    "type": "std",
+    "q": "Wasan kwaikwayo na gargajiya ana yin shi a",
+    "opts": [
+      "Makaranta kaɗai",
+      "Ofis",
+      "Filin wasa",
+      "Asibiti"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Wasannin Kwaikwayo na Gargajiya (Traditional Drama) | New syllabus-modelled item",
+    "explanation": "Wasan kwaikwayo na gargajiya ana yin shi a fili da tarurruka."
+  },
+  {
+    "type": "std",
+    "q": "Karin magana 'Zaman lafiya ya fi zama ɗan sarki' yana koyar da",
+    "opts": [
+      "Muhimmancin zaman lafiya",
+      "Son mulki",
+      "Son kuɗi",
+      "Girmamawa ga sarki"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Maganganun Azanci (Folk-Sayings) | New syllabus-modelled item",
+    "explanation": "Karin maganar na nuna zaman lafiya ya fi komai."
+  },
+  {
+    "type": "std",
+    "q": "Sarauta a ƙasar Hausa tana ƙarƙashin",
+    "opts": [
+      "Sarki",
+      "Gwamna kaɗai",
+      "Alƙali",
+      "Malam"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Sarautun Gargajiya (Traditional Authority) | New syllabus-modelled item",
+    "explanation": "Sarki shi ne shugaban sarauta ta gargajiya."
+  },
+  {
+    "type": "std",
+    "q": "Babban garin daular Hausa na da",
+    "opts": [
+      "Lagos",
+      "Kano",
+      "Ibadan",
+      "Enugu"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Rayuwar Hausawa (Hausa Customs) | New syllabus-modelled item",
+    "explanation": "Kano ɗaya ne daga cikin manyan garuruwan Hausa na da."
+  },
+  {
+    "type": "std",
+    "q": "Sana'ar kiwo tana da alaƙa da",
+    "opts": [
+      "Kifi",
+      "Itace",
+      "Gini",
+      "Dabbobi"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Sana’o’in Gargajiya (Traditional Occupations) | New syllabus-modelled item",
+    "explanation": "Kiwo sana'a ce ta renon dabbobi."
+  },
+  {
+    "type": "std",
+    "q": "Miyar kuka ana yin ta da",
+    "opts": [
+      "Ganyen kuka",
+      "Ganyen alayyahu",
+      "Tumatir",
+      "Wake"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Kayayyakin Buƙatun Rayuwa (Material Culture) | New syllabus-modelled item",
+    "explanation": "Miyar kuka ana yin ta da ganyen kuka (baobab)."
+  },
+  {
+    "type": "std",
+    "q": "Kalmar 'mai mota' tana nufin",
+    "opts": [
+      "Saye",
+      "Mai abin hawa",
+      "Gyara",
+      "Direba kaɗai"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ginin Jumla (Syntax) | New syllabus-modelled item",
+    "explanation": "'Mai' na nuna mai abu; mai mota shi ne mai abin hawa."
+  },
+  {
+    "type": "std",
+    "q": "A cikin waɗannan, wanne ne suna na abinci?",
+    "opts": [
+      "Gida",
+      "Tuwo",
+      "Mota",
+      "Kare"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ma’ana (Semantics) | New syllabus-modelled item",
+    "explanation": "Tuwo abinci ne."
+  },
+  {
+    "type": "std",
+    "q": "Ana amfani da 'me' don tambayar",
+    "opts": [
+      "Yawa",
+      "Abin da",
+      "Wuri",
+      "Lokaci"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ginin Jumla (Syntax) | New syllabus-modelled item",
+    "explanation": "Me tambaya ce ta abin da."
+  },
+  {
+    "type": "std",
+    "q": "Ana amfani da 'wane' don tambayar",
+    "opts": [
+      "Wuri",
+      "Lokaci",
+      "Dalili",
+      "Wanne (namiji)"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ginin Jumla (Syntax) | New syllabus-modelled item",
+    "explanation": "Wane tambaya ce ta zaɓi ga namiji."
+  },
+  {
+    "type": "std",
+    "q": "Hausa tana daga cikin iyalin harsunan",
+    "opts": [
+      "Bantu",
+      "Chadic",
+      "Kwa",
+      "Nilo-Saharan"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Tsarin Sauti (Phonology) | New syllabus-modelled item",
+    "explanation": "Hausa harshe ne na iyali Chadic (Afro-Asiatic)."
+  },
+  {
+    "type": "std",
+    "q": "Sana'ar kira tana da alaƙa da",
+    "opts": [
+      "Itace",
+      "Ƙarfe",
+      "Tufafi",
+      "Abinci"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Sana’o’in Gargajiya (Traditional Occupations) | New syllabus-modelled item",
+    "explanation": "Kira (ƙera) sana'a ce ta aikin ƙarfe."
+  },
+  {
+    "type": "std",
+    "q": "Maganin gargajiya ya fi amfani da",
+    "opts": [
+      "Tsirrai",
+      "Lantarki",
+      "Sinadarai na zamani",
+      "Allura"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Magungunan Gargajiya (Traditional Medicine) | New syllabus-modelled item",
+    "explanation": "Maganin gargajiya ya dogara da tsirrai da ganye."
+  },
+  {
+    "type": "std",
+    "q": "Waƙoƙin baka sun haɗa da",
+    "opts": [
+      "Waƙar makaranta kaɗai",
+      "Waƙar ofis",
+      "Waƙar asibiti",
+      "Waƙar biki da waƙar yabo"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Waƙoƙi na Baka (Oral Songs) | New syllabus-modelled item",
+    "explanation": "Waƙoƙin baka sun haɗa da waƙar biki, yabo da sauransu."
+  },
+  {
+    "type": "std",
+    "q": "Labarin tatsuniya yakan fara da",
+    "opts": [
+      "Rana",
+      "Suna",
+      "Adireshi",
+      "'Ga ta nan, ga ta nan' ko makamancin haka"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Zuben Baka (Oral Narratives) | New syllabus-modelled item",
+    "explanation": "Tatsuniya yakan fara da furuci kamar 'Ga ta nan, ga ta nan'."
+  },
+  {
+    "type": "std",
+    "q": "'Je ka dawo' a Turanci yana nufin",
+    "opts": [
+      "Stay here",
+      "Sit down",
+      "Run away",
+      "Go and come back"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Fassara (Translation) | New syllabus-modelled item",
+    "explanation": "Je ka dawo na nufin go and come back."
+  },
+  {
+    "type": "std",
+    "q": "A cikin jumla 'Musa ya je kasuwa', kalmar 'je' tana nufin",
+    "opts": [
+      "Come",
+      "Eat",
+      "Sleep",
+      "Go"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ma’ana (Semantics) | New syllabus-modelled item",
+    "explanation": "Je na nufin go."
+  },
+  {
+    "type": "std",
+    "q": "A cikin jumla 'Aisha ta zo gida', kalmar 'zo' tana nufin",
+    "opts": [
+      "Come",
+      "Go",
+      "Eat",
+      "Drink"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ma’ana (Semantics) | New syllabus-modelled item",
+    "explanation": "Zo na nufin come."
+  },
+  {
+    "type": "std",
+    "q": "Asibiti a Turanci shi ne",
+    "opts": [
+      "Market",
+      "Mosque",
+      "Hospital",
+      "School"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Fassara (Translation) | New syllabus-modelled item",
+    "explanation": "Asibiti na nufin hospital."
+  },
+  {
+    "type": "std",
+    "q": "Masallaci a Turanci shi ne",
+    "opts": [
+      "Church",
+      "Mosque",
+      "School",
+      "Palace"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Fassara (Translation) | New syllabus-modelled item",
+    "explanation": "Masallaci na nufin mosque."
+  },
+  {
+    "type": "std",
+    "q": "Fadar sarki ana kiranta",
+    "opts": [
+      "Kasuwar sarki",
+      "Makarantar sarki",
+      "Gidan gwamnati",
+      "Gidan sarki"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Sarautun Gargajiya (Traditional Authority) | New syllabus-modelled item",
+    "explanation": "Fadar sarki ita ce gidan sarki."
+  },
+  {
+    "type": "std",
+    "q": "Al'adar aure a ƙasar Hausa ta haɗa da",
+    "opts": [
+      "Sallah kaɗai",
+      "Hajji",
+      "Neman aure da biki",
+      "Azumi"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Zamantakewa (Social Institutions) | New syllabus-modelled item",
+    "explanation": "Auren Hausawa ya haɗa da neman aure, sadaki da biki."
+  },
+  {
+    "type": "std",
+    "q": "Rubutun Boko ya samo asali daga",
+    "opts": [
+      "Haruffan Latin",
+      "Haruffan Girka",
+      "Haruffan Larabci",
+      "Haruffan Sin"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2023 paper | Syllabus topic: Ƙa’idojin Rubutu (Orthography) | New syllabus-modelled item",
+    "explanation": "Boko rubutu ne da haruffan Latin."
+  }
+]

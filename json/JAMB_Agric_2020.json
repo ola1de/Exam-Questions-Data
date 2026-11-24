@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Agriculture is best defined as the science and art of",
+    "opts": [
+      "Selling farm produce only",
+      "Hunting wild animals only",
+      "Cultivating crops and rearing animals",
+      "Cutting down forests"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Meaning and Scope of Agriculture | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Agriculture covers crop production and animal rearing."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a branch of agriculture?",
+    "opts": [
+      "Agronomy",
+      "Geology",
+      "Astronomy",
+      "Metallurgy"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Meaning and Scope of Agriculture | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Agronomy is the science of crop production."
+  },
+  {
+    "type": "std",
+    "q": "Subsistence agriculture is mainly practised to",
+    "opts": [
+      "Export produce abroad",
+      "Supply raw materials to industry",
+      "Earn foreign exchange",
+      "Feed the farmer's family"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Meaning and Scope of Agriculture | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Subsistence farming produces mainly for family consumption."
+  },
+  {
+    "type": "std",
+    "q": "The most important reason for practising agriculture in West Africa is to provide",
+    "opts": [
+      "Timber for export only",
+      "Food and raw materials",
+      "Land for housing",
+      "Employment for machines"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Importance of Agriculture | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Agriculture provides food, raw materials and employment."
+  },
+  {
+    "type": "std",
+    "q": "Which ecological factor most limits crop growth in the Sahel?",
+    "opts": [
+      "Cloud cover",
+      "Excessive rainfall",
+      "High humidity",
+      "Low rainfall"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Agricultural Ecology | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The Sahel is limited mainly by low, unreliable rainfall."
+  },
+  {
+    "type": "std",
+    "q": "The transfer of pollen from anther to stigma is called",
+    "opts": [
+      "Photosynthesis",
+      "Pollination",
+      "Fertilisation",
+      "Germination"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Agricultural Genetics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Pollination is the transfer of pollen to the stigma."
+  },
+  {
+    "type": "std",
+    "q": "Mendel's first law of inheritance is the law of",
+    "opts": [
+      "Independent assortment only",
+      "Dominance only",
+      "Linkage",
+      "Segregation"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Agricultural Genetics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Mendel's first law is the law of segregation of alleles."
+  },
+  {
+    "type": "std",
+    "q": "A cross between two heterozygous tall plants (Tt x Tt) gives tall offspring in the ratio",
+    "opts": [
+      "1:1",
+      "3:1",
+      "1:2:1",
+      "2:1"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Agricultural Genetics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Tt x Tt gives 3 tall : 1 short."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a farm input?",
+    "opts": [
+      "Harvested yam",
+      "Fertiliser",
+      "Farm gate",
+      "Barn"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Farm Inputs | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Fertiliser is an input used in production."
+  },
+  {
+    "type": "std",
+    "q": "The history of agricultural development in West Africa includes the establishment of",
+    "opts": [
+      "Oil refineries",
+      "Marketing boards",
+      "Steel mills",
+      "Textile factories"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: History of Agricultural Development in West Africa | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Marketing boards were set up to buy and export produce."
+  },
+  {
+    "type": "std",
+    "q": "One role of government in agricultural development is to provide",
+    "opts": [
+      "Extension services",
+      "Farm labour",
+      "Rainfall",
+      "Sunshine"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Roles of Government and NGOs in Agricultural Development | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Government provides extension, credit and research services."
+  },
+  {
+    "type": "std",
+    "q": "The weathering of rocks to form soil is mainly caused by",
+    "opts": [
+      "Temperature changes, water and living organisms",
+      "Irrigation",
+      "Fertilisers only",
+      "Tractors"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Rocks and Soil Formation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Physical, chemical and biological weathering break down rocks."
+  },
+  {
+    "type": "std",
+    "q": "The soil type with the largest particles and poorest water retention is",
+    "opts": [
+      "Sandy soil",
+      "Clay soil",
+      "Loamy soil",
+      "Silt soil"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Rocks and Soil Formation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Sand has large particles, large pores and drains quickly."
+  },
+  {
+    "type": "std",
+    "q": "Which soil is best for most crops?",
+    "opts": [
+      "Sandy soil",
+      "Clay soil",
+      "Gravelly soil",
+      "Loamy soil"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Rocks and Soil Formation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Loam balances drainage, aeration and nutrient retention."
+  },
+  {
+    "type": "std",
+    "q": "Soil erosion on a slope is best controlled by",
+    "opts": [
+      "Overgrazing",
+      "Clean clearing",
+      "Terracing",
+      "Bush burning"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Soil Water and Soil Conservation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Terracing slows runoff on slopes."
+  },
+  {
+    "type": "std",
+    "q": "Mulching helps to conserve soil moisture by",
+    "opts": [
+      "Increasing runoff",
+      "Raising soil temperature",
+      "Reducing evaporation",
+      "Blocking rainfall"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Soil Water and Soil Conservation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Mulch covers the soil and cuts evaporation."
+  },
+  {
+    "type": "std",
+    "q": "Nitrogen deficiency in crops is shown by",
+    "opts": [
+      "Purple stems only",
+      "White flowers",
+      "Thick bark",
+      "Yellowing of older leaves"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Soil Fertility | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Nitrogen is mobile, so older leaves yellow first."
+  },
+  {
+    "type": "std",
+    "q": "Leguminous plants improve soil fertility because they",
+    "opts": [
+      "Absorb nitrogen from rocks",
+      "Fix atmospheric nitrogen",
+      "Produce phosphorus",
+      "Kill soil pests"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Soil Fertility | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Root nodule bacteria fix nitrogen from the air."
+  },
+  {
+    "type": "std",
+    "q": "The first operation in land preparation is usually",
+    "opts": [
+      "Planting seeds",
+      "Clearing the land",
+      "Applying fertiliser",
+      "Harvesting"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Land Preparation and Soil Tillage | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Land is cleared before ploughing and planting."
+  },
+  {
+    "type": "std",
+    "q": "The part of a flowering plant that absorbs water is the",
+    "opts": [
+      "Leaf",
+      "Flower",
+      "Root",
+      "Stem"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Plant Forms and Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Roots absorb water and mineral salts."
+  },
+  {
+    "type": "std",
+    "q": "Photosynthesis takes place mainly in the",
+    "opts": [
+      "Leaf",
+      "Stem",
+      "Flower",
+      "Root"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Plant Forms and Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Leaves contain chlorophyll for photosynthesis."
+  },
+  {
+    "type": "std",
+    "q": "The process by which a seed develops into a seedling is",
+    "opts": [
+      "Respiration",
+      "Pollination",
+      "Germination",
+      "Transpiration"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Growth, Development and Reproduction | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Germination is the sprouting of a seed."
+  },
+  {
+    "type": "std",
+    "q": "Grafting is a method of",
+    "opts": [
+      "Artificial vegetative propagation",
+      "Seed dormancy",
+      "Crop rotation",
+      "Sexual reproduction"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Plant Propagation Methods | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Grafting joins a scion to a stock for vegetative propagation."
+  },
+  {
+    "type": "std",
+    "q": "Mixed cropping is the growing of",
+    "opts": [
+      "Crops in separate seasons only",
+      "Trees alone",
+      "Two or more crops on the same land at the same time",
+      "One crop repeatedly"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Cropping Systems, Planting Patterns and Plant Densities | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Mixed cropping grows several crops together."
+  },
+  {
+    "type": "std",
+    "q": "One advantage of crop rotation is that it helps to",
+    "opts": [
+      "Exhaust the soil",
+      "Reduce yields",
+      "Control pests and maintain soil fertility",
+      "Increase weeds"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Cropping Systems, Planting Patterns and Plant Densities | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Rotating crops breaks pest cycles and balances nutrient use."
+  },
+  {
+    "type": "std",
+    "q": "Maize is best planted at the beginning of the",
+    "opts": [
+      "Rainy season",
+      "Harvest season",
+      "Dry season",
+      "Harmattan"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Crop Husbandry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Maize needs rain for germination and growth."
+  },
+  {
+    "type": "std",
+    "q": "The cereal crop most widely grown in northern Nigeria is",
+    "opts": [
+      "Cocoa",
+      "Millet",
+      "Oil palm",
+      "Rubber"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Crop Husbandry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Millet and sorghum suit the drier north."
+  },
+  {
+    "type": "std",
+    "q": "Pasture crops are grown mainly to",
+    "opts": [
+      "Control erosion only",
+      "Produce timber",
+      "Feed livestock",
+      "Make paper"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Pasture and Forage Crops | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Pastures provide forage for grazing animals."
+  },
+  {
+    "type": "std",
+    "q": "Striga is a common weed parasite of",
+    "opts": [
+      "Cocoa",
+      "Oil palm",
+      "Cereals such as maize and sorghum",
+      "Yam"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Weeds | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Striga (witchweed) parasitises cereal roots."
+  },
+  {
+    "type": "std",
+    "q": "Black pod disease attacks",
+    "opts": [
+      "Maize",
+      "Cocoa",
+      "Groundnut",
+      "Rice"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Crop Diseases | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Black pod, caused by Phytophthora, attacks cocoa pods."
+  },
+  {
+    "type": "std",
+    "q": "The cotton stainer is a pest of",
+    "opts": [
+      "Cotton",
+      "Cassava",
+      "Rice",
+      "Yam"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Crop Pests | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The cotton stainer (Dysdercus) damages cotton bolls."
+  },
+  {
+    "type": "std",
+    "q": "The main purpose of forestry is to manage forests for",
+    "opts": [
+      "Hunting only",
+      "Road building",
+      "Farming only",
+      "Timber and environmental benefits"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Forest Management (Silviculture) | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Forestry manages trees for timber, conservation and climate."
+  },
+  {
+    "type": "std",
+    "q": "A young female cattle is called a",
+    "opts": [
+      "Steer",
+      "Calf",
+      "Bull",
+      "Heifer"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: General Terminology in Animal Production | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A heifer is a young female cow that has not calved."
+  },
+  {
+    "type": "std",
+    "q": "Castrated male cattle reared for beef are called",
+    "opts": [
+      "Bulls",
+      "Heifers",
+      "Steers",
+      "Cows"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: General Terminology in Animal Production | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Steers are castrated males kept for beef."
+  },
+  {
+    "type": "std",
+    "q": "The stomach compartment where fermentation occurs in cattle is the",
+    "opts": [
+      "Omasum",
+      "Rumen",
+      "Reticulum",
+      "Abomasum"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Anatomy and Physiology of Farm Animals | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The rumen is the large fermentation chamber."
+  },
+  {
+    "type": "std",
+    "q": "Gestation in cattle lasts about",
+    "opts": [
+      "283 days",
+      "114 days",
+      "150 days",
+      "365 days"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Reproduction in Farm Animals | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A cow's gestation is about 283 days (9 months)."
+  },
+  {
+    "type": "std",
+    "q": "The most important nutrient for building body tissue in animals is",
+    "opts": [
+      "Vitamin C",
+      "Carbohydrate",
+      "Fat",
+      "Protein"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Animal Nutrition | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Protein builds and repairs body tissues."
+  },
+  {
+    "type": "std",
+    "q": "Newcastle disease affects mainly",
+    "opts": [
+      "Pigs",
+      "Cattle",
+      "Goats",
+      "Poultry"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Animal Health | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Newcastle disease is a viral disease of poultry."
+  },
+  {
+    "type": "std",
+    "q": "Fish farming in ponds is known as",
+    "opts": [
+      "Sericulture",
+      "Silviculture",
+      "Apiculture",
+      "Aquaculture"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Fisheries and Wildlife | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Aquaculture is the farming of fish and other aquatic organisms."
+  },
+  {
+    "type": "std",
+    "q": "Bee-keeping is called",
+    "opts": [
+      "Apiculture",
+      "Aquaculture",
+      "Horticulture",
+      "Floriculture"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Bee-keeping (Apiculture) | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Apiculture is the keeping of bees."
+  }
+]

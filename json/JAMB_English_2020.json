@@ -1,1 +1,840 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "passage",
+    "content": "<h3>Passage: The Cost of Honesty</h3><p>When Ada found a wallet containing a large sum of money on her way to school, she did not hesitate. She took it to the school office, where the owner, a trader who had lost it on his way to the market, was found. The trader was so grateful that he offered her a reward, but Ada refused it politely. She said that returning what does not belong to you is not a favour but a duty. Her classmates praised her, and the principal commended her before the whole school. Ada's action shows that honesty is not merely the absence of theft; it is the active choice to do what is right even when no one is watching.</p>",
+    "questions": [
+      {
+        "q": "The main idea of the passage is that honesty is",
+        "opts": [
+          "Accepting rewards for good deeds",
+          "Doing what is right even when unobserved",
+          "Reporting lost property to the police",
+          "Avoiding temptation"
+        ],
+        "ans": 1,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "Ada returned the wallet because it was her duty, not for reward."
+      },
+      {
+        "q": "Ada refused the trader's reward because she believed returning the wallet was",
+        "opts": [
+          "A duty, not a favour",
+          "The principal's order",
+          "A way to gain fame",
+          "A waste of time"
+        ],
+        "ans": 0,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "She said returning what is not yours is a duty."
+      },
+      {
+        "q": "The word 'commended' as used in the passage is closest in meaning to",
+        "opts": [
+          "Questioned",
+          "Praised",
+          "Ignored",
+          "Punished"
+        ],
+        "ans": 1,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "The principal commended, i.e. praised, her."
+      },
+      {
+        "q": "The trader lost his wallet on his way to the",
+        "opts": [
+          "Market",
+          "Church",
+          "School",
+          "Office"
+        ],
+        "ans": 0,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "The trader lost it on his way to the market."
+      },
+      {
+        "q": "According to the passage, honesty is best described as",
+        "opts": [
+          "The absence of theft only",
+          "Obedience to school rules",
+          "Fear of punishment",
+          "An active choice to do right"
+        ],
+        "ans": 3,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "Honesty is 'the active choice to do what is right'."
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<h3>Passage: Reading for Life</h3><p>Reading is the cheapest form of travel. A single book can carry its reader across continents and centuries without the cost of a ticket. Yet many young people read only what their examinations demand. They miss the wider world that books open: the lives of others, the lessons of history, and the pleasure of language itself. A person who reads widely becomes a better thinker, because reading forces the mind to weigh ideas, compare claims and imagine alternatives. The habit is best formed early, a few pages each day, until books become companions rather than chores. A nation that reads is a nation that thinks, and a nation that thinks is a nation that grows.</p>",
+    "questions": [
+      {
+        "q": "The passage suggests that young people mostly read",
+        "opts": [
+          "Books from other countries",
+          "History books",
+          "Poetry",
+          "Only what examinations demand"
+        ],
+        "ans": 3,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "Many young people read only what examinations demand."
+      },
+      {
+        "q": "According to the passage, reading makes a person a better thinker because it",
+        "opts": [
+          "Improves eyesight",
+          "Reduces school fees",
+          "Replaces teachers",
+          "Forces the mind to weigh ideas"
+        ],
+        "ans": 3,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "Reading forces the mind to weigh ideas and compare claims."
+      },
+      {
+        "q": "The writer compares reading to travel because books",
+        "opts": [
+          "Are sold at airports",
+          "Require tickets",
+          "Carry readers across continents and centuries",
+          "Are written by travellers"
+        ],
+        "ans": 2,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "A book can carry its reader across continents and centuries."
+      },
+      {
+        "q": "The best way to form the reading habit, according to the passage, is to read",
+        "opts": [
+          "Only novels",
+          "A few pages each day",
+          "Only during holidays",
+          "Whole books at once"
+        ],
+        "ans": 1,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "The habit is formed a few pages each day."
+      },
+      {
+        "q": "The passage ends with the idea that a nation that reads is a nation that",
+        "opts": [
+          "Forgets its history",
+          "Grows",
+          "Spends more",
+          "Travels more"
+        ],
+        "ans": 1,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "A nation that reads is a nation that thinks, and grows."
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<h3>Cloze Passage: The Harmattan Morning</h3><p>The harmattan wind swept through the village, carrying dust that settled on every roof and leaf. Farmers rose early, wrapping themselves in thick cloth against the cold. In the market, traders arranged their yams and peppers, calling out to passers-by in voices made hoarse by the dry air. Children hurried to school, their lips cracked and their eyes watering. Yet the season had its gifts: the air was clear, the nights were cool, and the harvest, stored in barns, promised food for the months ahead.</p>",
+    "questions": [
+      {
+        "q": "Choose the word that best completes the gap: The harmattan wind ___ through the village.",
+        "opts": [
+          "sleeps",
+          "sleeping",
+          "sweep",
+          "swept"
+        ],
+        "ans": 3,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "Past tense 'swept' fits the narrative."
+      },
+      {
+        "q": "The dust settled on every roof and",
+        "opts": [
+          "leafs",
+          "leaves",
+          "leaf",
+          "leave"
+        ],
+        "ans": 2,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "'Every roof and leaf' — singular 'leaf' matches 'every'."
+      },
+      {
+        "q": "Farmers rose early, wrapping themselves in thick cloth ___ the cold.",
+        "opts": [
+          "for",
+          "with",
+          "against",
+          "to"
+        ],
+        "ans": 2,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "Cloth is worn 'against' the cold."
+      },
+      {
+        "q": "Traders arranged their yams and peppers, calling out to passers-by in voices made hoarse ___ the dry air.",
+        "opts": [
+          "by",
+          "of",
+          "at",
+          "from"
+        ],
+        "ans": 0,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "Voices made hoarse 'by' the dry air."
+      },
+      {
+        "q": "Children hurried to school, their lips cracked and their eyes",
+        "opts": [
+          "watering",
+          "waters",
+          "water",
+          "watered"
+        ],
+        "ans": 0,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "'Their eyes watering' is the correct participle form."
+      },
+      {
+        "q": "The season had its gifts: the air was clear, the nights were cool, and the harvest, stored in barns, promised food ___ the months ahead.",
+        "opts": [
+          "to",
+          "for",
+          "of",
+          "at"
+        ],
+        "ans": 1,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "Food 'for' the months ahead."
+      },
+      {
+        "q": "Which word best describes the harmattan air in the passage?",
+        "opts": [
+          "Warm",
+          "Still",
+          "Dry",
+          "Humid"
+        ],
+        "ans": 2,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "The passage stresses dry air and cracked lips."
+      },
+      {
+        "q": "The farmers wrapped themselves in thick cloth because the morning was",
+        "opts": [
+          "Hot",
+          "Rainy",
+          "Cold",
+          "Dark"
+        ],
+        "ans": 2,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "They wrapped up against the cold."
+      },
+      {
+        "q": "The passage suggests the harmattan season is",
+        "opts": [
+          "Both harsh and rewarding",
+          "The best season",
+          "Entirely harmful",
+          "Without any effect"
+        ],
+        "ans": 0,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "It had harsh dust and cold, but also gifts like clear air and harvest."
+      },
+      {
+        "q": "The main purpose of the passage is to",
+        "opts": [
+          "Describe a harmattan morning",
+          "Warn against farming",
+          "Advertise yams",
+          "Teach children"
+        ],
+        "ans": 0,
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Comprehension/Summary | New syllabus-modelled item",
+        "explanation": "The passage describes a harmattan morning in a village."
+      }
+    ]
+  },
+  {
+    "type": "std",
+    "q": "Choose the interpretation: 'He is a man of his word.' This means he",
+    "opts": [
+      "Argues a lot",
+      "Talks too much",
+      "Writes books",
+      "Keeps his promises"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A man of his word keeps his promises."
+  },
+  {
+    "type": "std",
+    "q": "Choose the interpretation: 'The meeting was called off.' This means the meeting was",
+    "opts": [
+      "Started",
+      "Postponed by an hour",
+      "Cancelled",
+      "Held outdoors"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Called off means cancelled."
+  },
+  {
+    "type": "std",
+    "q": "Choose the interpretation: 'She saw through his plan.' This means she",
+    "opts": [
+      "Looked at him",
+      "Helped him",
+      "Understood his true intention",
+      "Ignored him"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "To see through a plan is to understand its real purpose."
+  },
+  {
+    "type": "std",
+    "q": "Choose the interpretation: 'The boy is the apple of his mother's eye.' This means he is",
+    "opts": [
+      "A farmer",
+      "Deeply loved by his mother",
+      "Very tall",
+      "Always hungry"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The apple of one's eye is someone dearly loved."
+  },
+  {
+    "type": "std",
+    "q": "Choose the interpretation: 'We arrived in the nick of time.' This means we arrived",
+    "opts": [
+      "Too early",
+      "After everyone left",
+      "Very late",
+      "Just in time"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "In the nick of time means just in time."
+  },
+  {
+    "type": "std",
+    "q": "Choose the opposite of the underlined word: The witness gave a <u>truthful</u> account.",
+    "opts": [
+      "Honest",
+      "False",
+      "Clear",
+      "Long"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The opposite of truthful is false."
+  },
+  {
+    "type": "std",
+    "q": "Choose the opposite of the underlined word: The road was <u>narrow</u>.",
+    "opts": [
+      "Wide",
+      "Long",
+      "Short",
+      "Rough"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The opposite of narrow is wide."
+  },
+  {
+    "type": "std",
+    "q": "Choose the opposite of the underlined word: Her answer was <u>correct</u>.",
+    "opts": [
+      "Quick",
+      "Polite",
+      "Wrong",
+      "Loud"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The opposite of correct is wrong."
+  },
+  {
+    "type": "std",
+    "q": "Choose the opposite of the underlined word: The old man was <u>generous</u>.",
+    "opts": [
+      "Kind",
+      "Rich",
+      "Tall",
+      "Stingy"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The opposite of generous is stingy."
+  },
+  {
+    "type": "std",
+    "q": "Choose the opposite of the underlined word: The water is <u>clean</u>.",
+    "opts": [
+      "Cold",
+      "Dirty",
+      "Deep",
+      "Clear"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The opposite of clean is dirty."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to the underlined word: The governor's speech was <u>concise</u>.",
+    "opts": [
+      "Long",
+      "Brief",
+      "Confusing",
+      "Angry"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Concise means brief and to the point."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to the underlined word: He is known for his <u>meticulous</u> work.",
+    "opts": [
+      "Careless",
+      "Lazy",
+      "Hasty",
+      "Careful"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Meticulous means very careful and precise."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to the underlined word: The village was <u>deserted</u>.",
+    "opts": [
+      "Crowded",
+      "Beautiful",
+      "Noisy",
+      "Abandoned"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Deserted means abandoned and empty."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to the underlined word: The teacher <u>praised</u> the boy.",
+    "opts": [
+      "Ignored",
+      "Punished",
+      "Blamed",
+      "Commended"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Praised means commended."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to the underlined word: The story was <u>vivid</u>.",
+    "opts": [
+      "Clear and lively",
+      "Short",
+      "False",
+      "Dull"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Vivid means clear and lively."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words is correctly spelt?",
+    "opts": [
+      "Ocurrence",
+      "Occurrance",
+      "Occurence",
+      "Occurrence"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Occurrence is the correct spelling."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correctly spelt word.",
+    "opts": [
+      "Separate",
+      "Seperate",
+      "Separete",
+      "Separat"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Separate is the correct spelling."
+  },
+  {
+    "type": "std",
+    "q": "Neither the teacher nor the students ___ present.",
+    "opts": [
+      "was",
+      "is",
+      "were",
+      "has been"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "With 'neither... nor', the verb agrees with the nearer subject, students, so 'were'."
+  },
+  {
+    "type": "std",
+    "q": "Each of the boys ___ a uniform.",
+    "opts": [
+      "have",
+      "are having",
+      "were",
+      "has"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "'Each' takes a singular verb: has."
+  },
+  {
+    "type": "std",
+    "q": "The committee ___ reached a decision.",
+    "opts": [
+      "have",
+      "are",
+      "has",
+      "were"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Committee as one body takes 'has'."
+  },
+  {
+    "type": "std",
+    "q": "She is the girl ___ won the prize.",
+    "opts": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "'Who' is the subject pronoun for the winner."
+  },
+  {
+    "type": "std",
+    "q": "I have lived here ___ 2015.",
+    "opts": [
+      "at",
+      "for",
+      "since",
+      "from"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "'Since' is used with a point in time, 2015."
+  },
+  {
+    "type": "std",
+    "q": "He has been ill ___ three days.",
+    "opts": [
+      "since",
+      "from",
+      "for",
+      "in"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "'For' is used with a period of time, three days."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence with the correct use of the apostrophe.",
+    "opts": [
+      "The children books' are here.",
+      "The children's books are here.",
+      "The childrens books are here.",
+      "The childrens' books are here."
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Children is already plural, so the possessive is children's."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct question tag: She can swim, ___?",
+    "opts": [
+      "isn't she",
+      "can't she",
+      "doesn't she",
+      "can she"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The tag for 'She can swim' is 'can't she'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word with the same vowel sound as 'seat'.",
+    "opts": [
+      "Hit",
+      "Hot",
+      "Hat",
+      "Heat"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Forms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Seat and heat share the /i:/ sound."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word with the same vowel sound as 'cat'.",
+    "opts": [
+      "Hat",
+      "Heat",
+      "Heart",
+      "Hut"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Forms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Cat and hat share the /a/ sound."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word that rhymes with 'day'.",
+    "opts": [
+      "Do",
+      "Say",
+      "Dee",
+      "Die"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Forms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Day and say rhyme."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word that rhymes with 'through'.",
+    "opts": [
+      "Thought",
+      "Throw",
+      "Though",
+      "True"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Forms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Through and true rhyme."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word with a different stress pattern: 'record' as a verb is stressed on the",
+    "opts": [
+      "Second syllable",
+      "Third syllable",
+      "Last letter",
+      "First syllable"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Forms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "As a verb, record is stressed on the second syllable (re-CORD)."
+  },
+  {
+    "type": "std",
+    "q": "In the word 'photography', the main stress falls on the",
+    "opts": [
+      "First syllable",
+      "Third syllable",
+      "Second syllable",
+      "Fourth syllable"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Forms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Photography is stressed on the second syllable (pho-TOG-ra-phy)."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word in which the letter 'k' is silent.",
+    "opts": [
+      "Kite",
+      "Knee",
+      "King",
+      "Keep"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Forms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The k in knee is silent."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word in which the letter 'b' is silent.",
+    "opts": [
+      "Bible",
+      "Book",
+      "Comb",
+      "Ball"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Forms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The b in comb is silent."
+  },
+  {
+    "type": "std",
+    "q": "The emphatic stress in 'I did NOT take the money' falls on",
+    "opts": [
+      "Not",
+      "I",
+      "Take",
+      "Money"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Forms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The speaker stresses NOT to deny the act."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word with the consonant cluster at the beginning.",
+    "opts": [
+      "String",
+      "King",
+      "Sing",
+      "Ring"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Forms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "String begins with the cluster /str/."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct form: He is good ___ mathematics.",
+    "opts": [
+      "in",
+      "on",
+      "for",
+      "at"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "One is good 'at' a subject."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct form: She congratulated him ___ his success.",
+    "opts": [
+      "for",
+      "on",
+      "at",
+      "in"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Congratulate someone 'on' an achievement."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following sentences is correct?",
+    "opts": [
+      "Neither of the answers is correct.",
+      "Neither of the answers are correct.",
+      "Neither of the answers were correct.",
+      "Neither of the answer is correct."
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "'Neither' takes a singular verb: is."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that is grammatically correct.",
+    "opts": [
+      "The boy and his sister is here.",
+      "The boy and his sister has come.",
+      "The boy and his sister are here.",
+      "The boy and his sister was here."
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Two subjects joined by 'and' take a plural verb."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word that best completes the sentence: We must abide ___ the rules.",
+    "opts": [
+      "in",
+      "by",
+      "with",
+      "to"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Lexis and Structure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Abide 'by' the rules."
+  }
+]

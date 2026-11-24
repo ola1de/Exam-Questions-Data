@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The basic structural and functional unit of life is the",
+    "opts": [
+      "Organ",
+      "System",
+      "Tissue",
+      "Cell"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Living Organisms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The cell is the smallest unit of life."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a characteristic of living organisms?",
+    "opts": [
+      "Melting",
+      "Movement",
+      "Rustling",
+      "Evaporation"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Living Organisms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Movement is one of the characteristics of life (MR NIGER D)."
+  },
+  {
+    "type": "std",
+    "q": "The organelle responsible for photosynthesis is the",
+    "opts": [
+      "Ribosome",
+      "Mitochondrion",
+      "Nucleus",
+      "Chloroplast"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Living Organisms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Chloroplasts contain chlorophyll for photosynthesis."
+  },
+  {
+    "type": "std",
+    "q": "Energy for cellular activities is produced in the",
+    "opts": [
+      "Mitochondrion",
+      "Golgi body",
+      "Vacuole",
+      "Chloroplast"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Living Organisms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Mitochondria release energy through respiration."
+  },
+  {
+    "type": "std",
+    "q": "Protein synthesis takes place in the",
+    "opts": [
+      "Lysosome",
+      "Nucleus",
+      "Ribosome",
+      "Vacuole"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Living Organisms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Ribosomes are the sites of protein synthesis."
+  },
+  {
+    "type": "std",
+    "q": "Bacteria belong to the kingdom",
+    "opts": [
+      "Fungi",
+      "Monera",
+      "Plantae",
+      "Animalia"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Evolution Among Organisms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Bacteria are prokaryotes in kingdom Monera."
+  },
+  {
+    "type": "std",
+    "q": "Spirogyra is an example of",
+    "opts": [
+      "Bryophyta",
+      "Thallophyta",
+      "Pteridophyta",
+      "Gymnosperm"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Evolution Among Organisms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Spirogyra is a green alga, a thallophyte."
+  },
+  {
+    "type": "std",
+    "q": "The scientific name of man is",
+    "opts": [
+      "Homo sapiens",
+      "Pan troglodytes",
+      "Gorilla gorilla",
+      "Homo erectus"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Evolution Among Organisms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Man is Homo sapiens."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a structural adaptation of a fish for swimming?",
+    "opts": [
+      "Feathers",
+      "Streamlined body",
+      "Fur",
+      "Scales for flying"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Structural/Functional and Behavioural Adaptations of Organisms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A streamlined body reduces water resistance."
+  },
+  {
+    "type": "std",
+    "q": "The root hairs of a plant increase the surface area for",
+    "opts": [
+      "Absorption of water",
+      "Photosynthesis",
+      "Transpiration",
+      "Reproduction"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Internal Structure of a Flowering Plant and a Mammal | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Root hairs absorb water and salts."
+  },
+  {
+    "type": "std",
+    "q": "The tissue that transports water in a flowering plant is the",
+    "opts": [
+      "Phloem",
+      "Cambium",
+      "Cortex",
+      "Xylem"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Internal Structure of a Flowering Plant and a Mammal | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Xylem carries water from roots to leaves."
+  },
+  {
+    "type": "std",
+    "q": "Manufactured food is transported in plants through the",
+    "opts": [
+      "Pith",
+      "Phloem",
+      "Xylem",
+      "Epidermis"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Internal Structure of a Flowering Plant and a Mammal | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Phloem translocates food."
+  },
+  {
+    "type": "std",
+    "q": "Autotrophic nutrition in green plants depends on",
+    "opts": [
+      "Soil bacteria only",
+      "Dead organic matter",
+      "Other living organisms",
+      "Chlorophyll and sunlight"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Nutrition | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Green plants make food using chlorophyll and sunlight."
+  },
+  {
+    "type": "std",
+    "q": "The correct equation for photosynthesis is",
+    "opts": [
+      "C6H12O6 + 6O2 -> 6CO2 + 6H2O",
+      "6O2 + 6H2O -> C6H12O6 + 6CO2",
+      "CO2 + H2O -> C6H12O6",
+      "6CO2 + 6H2O -> C6H12O6 + 6O2"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Nutrition | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Photosynthesis combines carbon dioxide and water to make glucose and oxygen."
+  },
+  {
+    "type": "std",
+    "q": "In humans, digestion of starch begins in the",
+    "opts": [
+      "Stomach",
+      "Ileum",
+      "Colon",
+      "Mouth"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Nutrition | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Salivary amylase in the mouth begins starch digestion."
+  },
+  {
+    "type": "std",
+    "q": "The organ that produces bile is the",
+    "opts": [
+      "Pancreas",
+      "Gall bladder",
+      "Liver",
+      "Spleen"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Nutrition | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The liver produces bile, stored in the gall bladder."
+  },
+  {
+    "type": "std",
+    "q": "In mammals, gaseous exchange takes place in the",
+    "opts": [
+      "Alveoli",
+      "Bronchi",
+      "Trachea",
+      "Larynx"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Respiration | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Alveoli are the gas-exchange surfaces in lungs."
+  },
+  {
+    "type": "std",
+    "q": "Aerobic respiration produces",
+    "opts": [
+      "Oxygen and glucose",
+      "Carbon dioxide, water and energy",
+      "Lactic acid only",
+      "Alcohol and carbon dioxide"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Respiration | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Aerobic respiration breaks down glucose with oxygen to release energy."
+  },
+  {
+    "type": "std",
+    "q": "The excretory organ in humans that filters blood is the",
+    "opts": [
+      "Liver",
+      "Kidney",
+      "Lung",
+      "Skin"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Excretion | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Kidneys filter blood and form urine."
+  },
+  {
+    "type": "std",
+    "q": "The functional unit of the kidney is the",
+    "opts": [
+      "Alveolus",
+      "Nephron",
+      "Villus",
+      "Neuron"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Excretion | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The nephron is the kidney's filtering unit."
+  },
+  {
+    "type": "std",
+    "q": "The skeleton of vertebrates is made mainly of",
+    "opts": [
+      "Bone and cartilage",
+      "Chitin",
+      "Keratin",
+      "Cellulose"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Support and Movement | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Vertebrate skeletons are bone and cartilage."
+  },
+  {
+    "type": "std",
+    "q": "The joint between the humerus and radius is a",
+    "opts": [
+      "Hinge joint",
+      "Ball and socket joint",
+      "Pivot joint",
+      "Gliding joint"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Support and Movement | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The elbow is a hinge joint."
+  },
+  {
+    "type": "std",
+    "q": "Fission in Paramecium is a form of",
+    "opts": [
+      "Pollination",
+      "Sexual reproduction",
+      "Conjugation",
+      "Asexual reproduction"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Reproduction | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Binary fission is asexual reproduction."
+  },
+  {
+    "type": "std",
+    "q": "In flowering plants, fertilisation occurs in the",
+    "opts": [
+      "Stigma",
+      "Anther",
+      "Ovule",
+      "Petal"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Reproduction | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The male gamete fuses with the egg in the ovule."
+  },
+  {
+    "type": "std",
+    "q": "The male reproductive organ in mammals produces",
+    "opts": [
+      "Ova",
+      "Oestrogen",
+      "Milk",
+      "Sperm"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Reproduction | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The testes produce sperm."
+  },
+  {
+    "type": "std",
+    "q": "The growth of a plant towards light is called",
+    "opts": [
+      "Chemotropism",
+      "Thigmotropism",
+      "Phototropism",
+      "Geotropism"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Growth | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Phototropism is growth in response to light."
+  },
+  {
+    "type": "std",
+    "q": "The hormone that controls blood sugar in humans is",
+    "opts": [
+      "Adrenaline",
+      "Thyroxine",
+      "Insulin",
+      "Growth hormone"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Coordination and Control | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Insulin lowers blood glucose."
+  },
+  {
+    "type": "std",
+    "q": "The part of the brain that coordinates balance is the",
+    "opts": [
+      "Medulla",
+      "Hypothalamus",
+      "Cerebellum",
+      "Cerebrum"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Coordination and Control | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The cerebellum coordinates movement and balance."
+  },
+  {
+    "type": "std",
+    "q": "The nerve cell is also called a",
+    "opts": [
+      "Neuron",
+      "Alveolus",
+      "Axon",
+      "Nephron"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Coordination and Control | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A neuron is a nerve cell."
+  },
+  {
+    "type": "std",
+    "q": "Which of these factors affects the distribution of organisms?",
+    "opts": [
+      "Temperature",
+      "Wind direction only",
+      "Time of day",
+      "Colour of soil"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Factors Affecting the Distribution of Organisms | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Temperature, rainfall and soil affect where organisms live."
+  },
+  {
+    "type": "std",
+    "q": "The relationship in which both organisms benefit is",
+    "opts": [
+      "Parasitism",
+      "Commensalism",
+      "Predation",
+      "Mutualism"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Symbiotic Interactions of Plants and Animals | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "In mutualism both partners benefit."
+  },
+  {
+    "type": "std",
+    "q": "A tick feeding on a cow is an example of",
+    "opts": [
+      "Saprophytism",
+      "Mutualism",
+      "Commensalism",
+      "Parasitism"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Symbiotic Interactions of Plants and Animals | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The tick benefits while the cow is harmed: parasitism."
+  },
+  {
+    "type": "std",
+    "q": "The savanna is a Nigerian biome characterised by",
+    "opts": [
+      "Grassland with scattered trees",
+      "Dense rainforest",
+      "Desert sand only",
+      "Mangrove swamps"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Local (Nigerian) Biomes | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Savanna is grassland with scattered trees."
+  },
+  {
+    "type": "std",
+    "q": "The carrying capacity of a habitat is the",
+    "opts": [
+      "Number of predators present",
+      "Birth rate of the population",
+      "Maximum population it can support",
+      "Minimum population it can support"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ecology of Populations | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Carrying capacity is the largest population an environment can sustain."
+  },
+  {
+    "type": "std",
+    "q": "Humus in soil is important because it",
+    "opts": [
+      "Improves fertility and water retention",
+      "Makes soil acidic only",
+      "Kills soil organisms",
+      "Prevents plant growth"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Soil | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Humus adds nutrients and holds water."
+  },
+  {
+    "type": "std",
+    "q": "Global warming is mainly caused by increased",
+    "opts": [
+      "Rainfall",
+      "Oxygen",
+      "Greenhouse gases",
+      "Nitrogen"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Humans and Environment | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Carbon dioxide and other greenhouse gases trap heat."
+  },
+  {
+    "type": "std",
+    "q": "A man with blood group O can donate blood to",
+    "opts": [
+      "AB only",
+      "A only",
+      "O, A, B and AB recipients in the classic scheme",
+      "B only"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Variation in Population | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Group O red cells carry no A or B antigens, so O is the universal red-cell donor."
+  },
+  {
+    "type": "std",
+    "q": "The gene for colour blindness is carried on the",
+    "opts": [
+      "Y chromosome",
+      "Autosome 1",
+      "X chromosome",
+      "Mitochondrion"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Heredity | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Colour blindness is X-linked recessive."
+  },
+  {
+    "type": "std",
+    "q": "The cross of a pure tall pea plant (TT) with a short one (tt) gives F1 offspring that are",
+    "opts": [
+      "All short",
+      "All tall",
+      "Half tall, half short",
+      "Three tall, one short"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Heredity | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "All F1 are Tt and tall, since T is dominant."
+  },
+  {
+    "type": "std",
+    "q": "DNA is found mainly in the",
+    "opts": [
+      "Cell wall",
+      "Nucleus",
+      "Vacuole",
+      "Cytoplasm only"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Heredity | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "DNA is housed in the nucleus."
+  }
+]

@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Fawẹ́lì aláìlẹ́gbẹ́ (oral vowels) mélòó ni ó wà nínú èdè Yorùbá?",
+    "opts": [
+      "Mẹ́fà",
+      "Mẹ́tàlá",
+      "Méje",
+      "Márùn-ún"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sound System (Language) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Fawẹ́lì aláìlẹ́gbẹ́ méje ni: a, e, ẹ, i, o, ọ, u."
+  },
+  {
+    "type": "std",
+    "q": "Fawẹ́lì onímí (nasal vowels) mélòó ni ó wà?",
+    "opts": [
+      "Méje",
+      "Mẹ́fà",
+      "Mẹ́ta",
+      "Márùn-ún"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sound System (Language) | New syllabus-modelled item",
+    "explanation": "Fawẹ́lì onímí márùn-ún ni: an, ẹn, in, ọn, un."
+  },
+  {
+    "type": "std",
+    "q": "Nínú álífábẹ́ẹ̀tì èdè Yorùbá, kọ́ńsónáǹtì mélòó ni ó wà?",
+    "opts": [
+      "Mẹ́fà",
+      "Mẹ́jìdínlógún",
+      "Mẹ́tàlélógún",
+      "Mẹ́ẹ̀ẹ́dógún"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sound System (Language) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Kọ́ńsónáǹtì Yorùbá mẹ́jìdínlógún (18) ni."
+  },
+  {
+    "type": "std",
+    "q": "Èdè Yorùbá ní àmì ohun mélòó?",
+    "opts": [
+      "Mẹ́ta",
+      "Méjì",
+      "Mẹ́rin",
+      "Márùn-ún"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sound System (Language) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Àmì ohun mẹ́ta ni: òkè, àárín àti ìsàlẹ̀."
+  },
+  {
+    "type": "std",
+    "q": "Ìfúnpá fawẹ́lì wo ni ó wáyé nínú ọ̀rọ̀ yìí: 'Ta ẹja' -> 'Tẹja'?",
+    "opts": [
+      "e",
+      "ẹ",
+      "i",
+      "a"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sound System (Language) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Fawẹ́lì 'a' ni a pa kúrò nínú 'ta'."
+  },
+  {
+    "type": "std",
+    "q": "Nọ́mbà 'ọ̀kan' nínú èdè Yorùbá túmọ̀ sí",
+    "opts": [
+      "Ten",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Òǹkà Yorùbá — Yorùbá Numerals (Culture) | New syllabus-modelled item",
+    "explanation": "Ọ̀kan túmọ̀ sí one."
+  },
+  {
+    "type": "std",
+    "q": "Nọ́mbà 'mẹ́wàá' nínú èdè Yorùbá túmọ̀ sí",
+    "opts": [
+      "Five",
+      "Nine",
+      "Ten",
+      "Twenty"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Òǹkà Yorùbá — Yorùbá Numerals (Culture) | New syllabus-modelled item",
+    "explanation": "Mẹ́wàá túmọ̀ sí ten."
+  },
+  {
+    "type": "std",
+    "q": "Nọ́mbà 'ogún' nínú èdè Yorùbá túmọ̀ sí",
+    "opts": [
+      "Twenty",
+      "Ten",
+      "Thirty",
+      "Forty"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Òǹkà Yorùbá — Yorùbá Numerals (Culture) | New syllabus-modelled item",
+    "explanation": "Ogún túmọ̀ sí twenty."
+  },
+  {
+    "type": "std",
+    "q": "'Ẹ ku abọ̀' nínú èdè Gẹ̀ẹ́sì túmọ̀ sí",
+    "opts": [
+      "Sorry",
+      "Goodbye",
+      "Welcome",
+      "Thank you"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Language) | New syllabus-modelled item",
+    "explanation": "Ẹ ku abọ̀ túmọ̀ sí welcome."
+  },
+  {
+    "type": "std",
+    "q": "'Ẹ ṣe' nínú èdè Gẹ̀ẹ́sì túmọ̀ sí",
+    "opts": [
+      "Goodbye",
+      "Welcome",
+      "Good morning",
+      "Thank you"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Language) | New syllabus-modelled item",
+    "explanation": "Ẹ ṣe túmọ̀ sí thank you."
+  },
+  {
+    "type": "std",
+    "q": "'Báwo ni?' nínú èdè Gẹ̀ẹ́sì túmọ̀ sí",
+    "opts": [
+      "How are you?",
+      "Where are you?",
+      "Who are you?",
+      "What is this?"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Language) | New syllabus-modelled item",
+    "explanation": "Báwo ni? túmọ̀ sí how are you?"
+  },
+  {
+    "type": "std",
+    "q": "'Ẹ kú àárọ̀' nínú èdè Gẹ̀ẹ́sì túmọ̀ sí",
+    "opts": [
+      "Good afternoon",
+      "Good morning",
+      "Good night",
+      "Good evening"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Language) | New syllabus-modelled item",
+    "explanation": "Ẹ kú àárọ̀ túmọ̀ sí good morning."
+  },
+  {
+    "type": "std",
+    "q": "Ọba ìlú Ọ̀yọ́ ni a ń pè ní",
+    "opts": [
+      "Alaafin",
+      "Ooni",
+      "Oba ti Benin",
+      "Baálẹ̀"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ètò Ìṣèlú àti Ààbò Ìlú — Political System and Community Security (Culture) | New syllabus-modelled item",
+    "explanation": "Alaafin ni ọba ìlú Ọ̀yọ́."
+  },
+  {
+    "type": "std",
+    "q": "Ọba ìlú Ifẹ̀ ni a ń pè ní",
+    "opts": [
+      "Alaafin",
+      "Ooni",
+      "Olubadan",
+      "Soun"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ètò Ìṣèlú àti Ààbò Ìlú — Political System and Community Security (Culture) | New syllabus-modelled item",
+    "explanation": "Ooni ni ọba ìlú Ifẹ̀."
+  },
+  {
+    "type": "std",
+    "q": "Òrìṣà tí ó jẹ́ olórí mànàmáná ni",
+    "opts": [
+      "Ṣàngó",
+      "Ògún",
+      "Ọ̀ṣun",
+      "Ọbàtálá"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Èrò àti Ìgbàgbọ́ — Beliefs and Worldview (Culture) | New syllabus-modelled item",
+    "explanation": "Ṣàngó ni òrìṣà mànàmáná àti àrá."
+  },
+  {
+    "type": "std",
+    "q": "Òrìṣà tí ó jẹ́ olórí irin àti ogun ni",
+    "opts": [
+      "Ṣàngó",
+      "Ògún",
+      "Ọ̀ṣun",
+      "Yemoja"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Èrò àti Ìgbàgbọ́ — Beliefs and Worldview (Culture) | New syllabus-modelled item",
+    "explanation": "Ògún ni òrìṣà irin àti ogun."
+  },
+  {
+    "type": "std",
+    "q": "Ọ̀rúnmìlà jẹ́ òrìṣà",
+    "opts": [
+      "Omi",
+      "Igi",
+      "Ifá (ìfáṣe)",
+      "Òkè"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Èrò àti Ìgbàgbọ́ — Beliefs and Worldview (Culture) | New syllabus-modelled item",
+    "explanation": "Ọ̀rúnmìlà ni òrìṣà Ifá, ìmọ̀ ìfáṣe."
+  },
+  {
+    "type": "std",
+    "q": "Oríkì jẹ́",
+    "opts": [
+      "Ẹ̀sìn orin ìyìn",
+      "Orin ìbànújẹ́",
+      "Ìtàn",
+      "Ere"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Literature — Prose (Literature) | New syllabus-modelled item",
+    "explanation": "Oríkì ni orin ìyìn tí a ń kọ fún ènìyàn tàbí ìdílé."
+  },
+  {
+    "type": "std",
+    "q": "Ìtàn àlọ́ jẹ́",
+    "opts": [
+      "Orin ìyìn",
+      "Ìwé ìtàn",
+      "Ere oníṣe",
+      "Ìtàn àròsọ tí a ń sọ fún ọmọdé"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Literature — Prose (Literature) | New syllabus-modelled item",
+    "explanation": "Àlọ́ ni ìtàn àròsọ (folktale) tí a ń sọ ní alẹ́."
+  },
+  {
+    "type": "std",
+    "q": "Òwe jẹ́",
+    "opts": [
+      "Orin gígùn",
+      "Ìtàn gígùn",
+      "Ọ̀rọ̀ ọgbọ́n kékèké",
+      "Ere"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Literature — Prose (Literature) | New syllabus-modelled item",
+    "explanation": "Òwe ni ọ̀rọ̀ ọgbọ́n (proverb)."
+  },
+  {
+    "type": "std",
+    "q": "Ìwé 'Ogboju Ode Ninu Igbo Irunmale' ni ẹni tí ó kọ ọ́ ni",
+    "opts": [
+      "Wole Soyinka",
+      "D. O. Fagunwa",
+      "Amos Tutuola",
+      "Chinua Achebe"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Written Literature — Prose (Literature) | New syllabus-modelled item",
+    "explanation": "Ogboju Ode (1938) ni ìwé àkọ́kọ́ tí D. O. Fagunwa kọ."
+  },
+  {
+    "type": "std",
+    "q": "'Ogboju Ode Ninu Igbo Irunmale' ni a tẹ̀ jáde ní ọdún",
+    "opts": [
+      "1958",
+      "1960",
+      "1938",
+      "1948"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Written Literature — Prose (Literature) | New syllabus-modelled item",
+    "explanation": "A tẹ̀ ìwé náà jáde ní 1938."
+  },
+  {
+    "type": "std",
+    "q": "Ọjọ́ Àìkú nínú èdè Yorùbá ni",
+    "opts": [
+      "Monday",
+      "Saturday",
+      "Friday",
+      "Sunday"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Òǹkà Yorùbá — Yorùbá Numerals (Culture) | New syllabus-modelled item",
+    "explanation": "Ọjọ́ Àìkú ni Sunday."
+  },
+  {
+    "type": "std",
+    "q": "Ọjọ́ Ajé nínú èdè Yorùbá ni",
+    "opts": [
+      "Tuesday",
+      "Sunday",
+      "Thursday",
+      "Monday"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Òǹkà Yorùbá — Yorùbá Numerals (Culture) | New syllabus-modelled item",
+    "explanation": "Ọjọ́ Ajé ni Monday."
+  },
+  {
+    "type": "std",
+    "q": "Àṣọ òkè jẹ́ aṣọ ìbílẹ̀ ti ẹ̀yà wo?",
+    "opts": [
+      "Hausa",
+      "Yorùbá",
+      "Igbo",
+      "Gẹ̀ẹ́sì"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Iṣẹ́ Abínibí àti Oúnjẹ Ilẹ̀ Yorùbá — Traditional Occupations and Foods (Culture) | New syllabus-modelled item",
+    "explanation": "Àṣọ òkè ni aṣọ ìbílẹ̀ Yorùbá tí a ń hun."
+  },
+  {
+    "type": "std",
+    "q": "Adire jẹ́ aṣọ tí a ń ṣe ní",
+    "opts": [
+      "Ìlú Ọ̀yọ́ nìkan",
+      "Ìlú Èkó nìkan",
+      "Ìlú Ẹ̀gbá (Abeokuta)",
+      "Ìlú Ìbàdàn nìkan"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Iṣẹ́ Abínibí àti Oúnjẹ Ilẹ̀ Yorùbá — Traditional Occupations and Foods (Culture) | New syllabus-modelled item",
+    "explanation": "Adire (tie-dye) jẹ́ iṣẹ́ ìbílẹ̀ Ẹ̀gbá ní Abeokuta."
+  },
+  {
+    "type": "std",
+    "q": "Gangan jẹ́",
+    "opts": [
+      "Orin",
+      "Ìlù ìbílẹ̀ Yorùbá (talking drum)",
+      "Ere",
+      "Aṣọ"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Iṣẹ́ Abínibí àti Oúnjẹ Ilẹ̀ Yorùbá — Traditional Occupations and Foods (Culture) | New syllabus-modelled item",
+    "explanation": "Gangan (dundun) ni ìlù ìbílẹ̀ Yorùbá tí ó ń sọ̀rọ̀."
+  },
+  {
+    "type": "std",
+    "q": "Oúnjẹ ìbílẹ̀ Yorùbá tí a fi ìyámú ṣe ni",
+    "opts": [
+      "Iyan",
+      "Semo",
+      "Tuwo",
+      "Eba"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Iṣẹ́ Abínibí àti Oúnjẹ Ilẹ̀ Yorùbá — Traditional Occupations and Foods (Culture) | New syllabus-modelled item",
+    "explanation": "Iyan (pounded yam) ni oúnjẹ ìbílẹ̀ Yorùbá."
+  },
+  {
+    "type": "std",
+    "q": "Amala jẹ́ oúnjẹ tí a fi ṣe láti",
+    "opts": [
+      "Ẹ̀gẹ́ (yam flour)",
+      "Ẹ̀wà",
+      "Ìrẹsì",
+      "Àgbàdo"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Iṣẹ́ Abínibí àti Oúnjẹ Ilẹ̀ Yorùbá — Traditional Occupations and Foods (Culture) | New syllabus-modelled item",
+    "explanation": "Amala ni a fi ẹ̀gẹ́ ṣe."
+  },
+  {
+    "type": "std",
+    "q": "Ìsọmọlórúkọ ọmọ Yorùbá sábà máa ń wáyé ní ọjọ́",
+    "opts": [
+      "Kẹta",
+      "Kẹrin",
+      "Kẹwàá",
+      "Kẹjọ"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ètò Ìgbéyàwó àti Ìsọmọlórúkọ — Marriage and Naming (Culture) | New syllabus-modelled item",
+    "explanation": "Ìsọmọlórúkọ sábà máa ń wáyé ní ọjọ́ kẹjọ."
+  },
+  {
+    "type": "std",
+    "q": "Ayò jẹ́",
+    "opts": [
+      "Oúnjẹ",
+      "Eré ìdárayá ìbílẹ̀ Yorùbá",
+      "Aṣọ",
+      "Orin"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Eré Ìdárayá — Games and Recreation (Culture) | New syllabus-modelled item",
+    "explanation": "Ayò (ayo) ni eré ìdárayá ìbílẹ̀ (mancala)."
+  },
+  {
+    "type": "std",
+    "q": "Ọmọlúàbí túmọ̀ sí",
+    "opts": [
+      "Ọmọ ọba",
+      "Ọmọ òṣìṣẹ́",
+      "Ẹni rere tí ó ní ìwà rere",
+      "Ọmọ olówó"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ẹ̀kọ́ Ilé — Home Training / Moral Education (Culture) | New syllabus-modelled item",
+    "explanation": "Ọmọlúàbí ni ẹni tí ó ní ìwà rere àti ọ̀wọ̀."
+  },
+  {
+    "type": "std",
+    "q": "Ẹ̀kọ́ ilé ní í ṣe pẹ̀lú",
+    "opts": [
+      "Iṣẹ́ ọba",
+      "Ìtọ́jú ọmọ ní ilé",
+      "Eré",
+      "Ìkọ́ ní ilé-ìwé"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ẹ̀kọ́ Ilé — Home Training / Moral Education (Culture) | New syllabus-modelled item",
+    "explanation": "Ẹ̀kọ́ ilé ni ìtọ́jú àti ìkọ́ ọmọ ní ilé."
+  },
+  {
+    "type": "std",
+    "q": "Ìbọ̀wọ̀ fún àgbà jẹ́ ẹ̀kọ́",
+    "opts": [
+      "Ìbọ̀wọ̀ fún àgbàlagbà",
+      "Iṣẹ́",
+      "Ìkọ̀ ní ilé-ìwé",
+      "Eré"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ẹ̀kọ́ Ilé — Home Training / Moral Education (Culture) | New syllabus-modelled item",
+    "explanation": "Ìbọ̀wọ̀ fún àgbà ni ìtẹríba fún àgbàlagbà."
+  },
+  {
+    "type": "std",
+    "q": "'Ilé' nínú èdè Gẹ̀ẹ́sì túmọ̀ sí",
+    "opts": [
+      "Market",
+      "Farm",
+      "School",
+      "House"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Language) | New syllabus-modelled item",
+    "explanation": "Ilé túmọ̀ sí house."
+  },
+  {
+    "type": "std",
+    "q": "'Ọjà' nínú èdè Gẹ̀ẹ́sì túmọ̀ sí",
+    "opts": [
+      "River",
+      "House",
+      "Market",
+      "School"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Language) | New syllabus-modelled item",
+    "explanation": "Ọjà túmọ̀ sí market."
+  },
+  {
+    "type": "std",
+    "q": "'Omi' nínú èdè Gẹ̀ẹ́sì túmọ̀ sí",
+    "opts": [
+      "Water",
+      "Fire",
+      "Food",
+      "Air"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Language) | New syllabus-modelled item",
+    "explanation": "Omi túmọ̀ sí water."
+  },
+  {
+    "type": "std",
+    "q": "'Ilé-ìwé' nínú èdè Gẹ̀ẹ́sì túmọ̀ sí",
+    "opts": [
+      "Church",
+      "House",
+      "Market",
+      "School"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Language) | New syllabus-modelled item",
+    "explanation": "Ilé-ìwé túmọ̀ sí school."
+  },
+  {
+    "type": "std",
+    "q": "Àgbẹ̀ jẹ́ iṣẹ́",
+    "opts": [
+      "Pẹja",
+      "Àgbẹ̀dẹ",
+      "Àgbẹ̀ (farming)",
+      "Aṣọ"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Iṣẹ́ Abínibí àti Oúnjẹ Ilẹ̀ Yorùbá — Traditional Occupations and Foods (Culture) | New syllabus-modelled item",
+    "explanation": "Àgbẹ̀ ni iṣẹ́ àgbẹ̀ (farming)."
+  },
+  {
+    "type": "std",
+    "q": "Agbo jẹ́",
+    "opts": [
+      "Orin",
+      "Oúnjẹ",
+      "Aṣọ",
+      "Oògùn ìbílẹ̀ láti inú ewé"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ètò Ìwòsàn — Health Care Practices (Culture) | New syllabus-modelled item",
+    "explanation": "Agbo ni oògùn ìbílẹ̀ tí a fi ewé ṣe."
+  }
+]

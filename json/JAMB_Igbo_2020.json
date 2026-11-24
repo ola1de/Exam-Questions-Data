@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Mkpụrụedemede Igbo ole bụ ụdaume?",
+    "opts": [
+      "Itoolu",
+      "Iri",
+      "Isii",
+      "Asatọ"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Igbo Orthography (Mkpụrụedemede Igbo) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Igbo nwere ụdaume asatọ: a, e, i, ị, o, ọ, u, ụ."
+  },
+  {
+    "type": "std",
+    "q": "Kedu n'ime ụdaume ndị a bụ ụdaume mịrị amị?",
+    "opts": [
+      "e, i, o, u",
+      "a, e, i, o",
+      "a, ị, ọ, ụ",
+      "ị, ọ, ụ, u"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sounds and Sound Patterns (Ụdaasụsụ na Usoro Ụdaasụsụ) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Ụdaume mịrị amị bụ a, ị, ọ, ụ."
+  },
+  {
+    "type": "std",
+    "q": "Kedu n'ime ndị a bụ ụdaume gbara ọkpụrụkpụ (heavy vowels)?",
+    "opts": [
+      "e, i, o, u",
+      "a, ị, ọ, ụ",
+      "a, e, i, o",
+      "e, o, a, ị"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sounds and Sound Patterns (Ụdaasụsụ na Usoro Ụdaasụsụ) | New syllabus-modelled item",
+    "explanation": "Ụdaume gbara ọkpụrụkpụ bụ e, i, o, u."
+  },
+  {
+    "type": "std",
+    "q": "Ụda ole ka asụsụ Igbo nwere?",
+    "opts": [
+      "Abụọ: elu na ala",
+      "Anọ",
+      "Otu",
+      "Atọ: elu, ala na mgbada"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sounds and Sound Patterns (Ụdaasụsụ na Usoro Ụdaasụsụ) | New syllabus-modelled item",
+    "explanation": "Igbo nwere ụda atọ: elu, ala na mgbada (downstep)."
+  },
+  {
+    "type": "std",
+    "q": "Kedu mkpụrụedemede ndị a na-akpọ ụda imi (nasal sounds)?",
+    "opts": [
+      "b, d, g",
+      "m, n, ṅ",
+      "s, z, f",
+      "k, p, t"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sounds and Sound Patterns (Ụdaasụsụ na Usoro Ụdaasụsụ) | New syllabus-modelled item",
+    "explanation": "Ụda imi bụ m, n, ṅ."
+  },
+  {
+    "type": "std",
+    "q": "Akwụkwọ ole ka mkpụrụedemede Igbo dị?",
+    "opts": [
+      "Iri atọ na isii (36)",
+      "Iri anọ (40)",
+      "Iri abụọ na isii (26)",
+      "Iri atọ (30)"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Igbo Orthography (Mkpụrụedemede Igbo) | New syllabus-modelled item",
+    "explanation": "Mkpụrụedemede Igbo dị iri atọ na isii."
+  },
+  {
+    "type": "std",
+    "q": "Kedu ihe bụ 'aha' n'asụsụ Igbo?",
+    "opts": [
+      "Verb",
+      "Adjective",
+      "Adverb",
+      "Noun"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Grammar (Ụtọasụsụ) | New syllabus-modelled item",
+    "explanation": "Aha bụ noun — aha mmadụ, ebe ma ọ bụ ihe."
+  },
+  {
+    "type": "std",
+    "q": "Kedu ihe bụ 'ngwaa' n'asụsụ Igbo?",
+    "opts": [
+      "Noun",
+      "Verb",
+      "Adjective",
+      "Pronoun"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Grammar (Ụtọasụsụ) | New syllabus-modelled item",
+    "explanation": "Ngwaa bụ verb — okwu na-egosi omume."
+  },
+  {
+    "type": "std",
+    "q": "Ọnụọgụ 'otu' n'asụsụ Igbo pụtara",
+    "opts": [
+      "One",
+      "Two",
+      "Three",
+      "Ten"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Grammar (Ụtọasụsụ) | New syllabus-modelled item",
+    "explanation": "Otu pụtara one."
+  },
+  {
+    "type": "std",
+    "q": "Ọnụọgụ 'ise' n'asụsụ Igbo pụtara",
+    "opts": [
+      "Six",
+      "Five",
+      "Seven",
+      "Four"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Grammar (Ụtọasụsụ) | New syllabus-modelled item",
+    "explanation": "Ise pụtara five."
+  },
+  {
+    "type": "std",
+    "q": "Ọnụọgụ 'iri' n'asụsụ Igbo pụtara",
+    "opts": [
+      "Ten",
+      "Eight",
+      "Twenty",
+      "Nine"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Grammar (Ụtọasụsụ) | New syllabus-modelled item",
+    "explanation": "Iri pụtara ten."
+  },
+  {
+    "type": "std",
+    "q": "'Daalụ' n'asụsụ Igbo pụtara",
+    "opts": [
+      "Good morning",
+      "Goodbye",
+      "Welcome",
+      "Thank you"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Ntụgharị) | New syllabus-modelled item",
+    "explanation": "Daalụ pụtara thank you."
+  },
+  {
+    "type": "std",
+    "q": "'Nnọọ' n'asụsụ Igbo pụtara",
+    "opts": [
+      "Welcome",
+      "Goodbye",
+      "Sorry",
+      "Thank you"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Ntụgharị) | New syllabus-modelled item",
+    "explanation": "Nnọọ pụtara welcome."
+  },
+  {
+    "type": "std",
+    "q": "'Kedu?' n'asụsụ Igbo pụtara",
+    "opts": [
+      "What is this?",
+      "Where are you?",
+      "How are you?",
+      "Who are you?"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Ntụgharị) | New syllabus-modelled item",
+    "explanation": "Kedu? pụtara how are you?"
+  },
+  {
+    "type": "std",
+    "q": "Aha ụbọchị ahịa anọ n'ala Igbo bụ",
+    "opts": [
+      "Mọnde, Tusde, Wensde, Tọsde",
+      "Eke, Orie, Afor, Nkwo",
+      "Eke, Afor, Nkwo",
+      "Orie, Afor"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Customs and Institutions (Omenala na Ewumewu) | New syllabus-modelled item",
+    "explanation": "Ụbọchị ahịa anọ bụ Eke, Orie, Afor na Nkwo."
+  },
+  {
+    "type": "std",
+    "q": "Ilu Igbo 'Egbe bere ugo bere' pụtara",
+    "opts": [
+      "Ka onye ọ bụla bie ndụ ya n'enweghị nsogbu",
+      "Ka mmadụ rie nri",
+      "Ka mmadụ gaa ahịa",
+      "Ka mmadụ rahụ ụra"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Literature (Agụmagụ Ọnụ/Agụmagụ Ọdịnala) | New syllabus-modelled item",
+    "explanation": "Ilu a na-akụzi ka onye ọ bụla bie ndụ ya — live and let live."
+  },
+  {
+    "type": "std",
+    "q": "Ilu Igbo 'Onye kwe, chi ya ekwe' pụtara",
+    "opts": [
+      "Chi na-ekwe mgbe niile",
+      "Mmadu enweghị chi",
+      "Ọ bụrụ na mmadụ ekwee, chi ya ga-ekwe",
+      "Chi bụ mmadụ"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Literature (Agụmagụ Ọnụ/Agụmagụ Ọdịnala) | New syllabus-modelled item",
+    "explanation": "Ọ bụrụ na mmadụ ekwee n'ihe, chi ya ga-ekwe ya."
+  },
+  {
+    "type": "std",
+    "q": "Akụkọ ifo bụ",
+    "opts": [
+      "Abụ a na-agụ n'ụlọ akwụkwọ",
+      "Akwụkwọ a na-ede",
+      "Egwu a na-agba",
+      "Akụkọ ọnụ a na-akọ ụmụaka"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Literature (Agụmagụ Ọnụ/Agụmagụ Ọdịnala) | New syllabus-modelled item",
+    "explanation": "Akụkọ ifo bụ akụkọ ọnụ (folktale)."
+  },
+  {
+    "type": "std",
+    "q": "Ọjị (kola nut) n'omenala Igbo na-egosi",
+    "opts": [
+      "Nnabata na udo",
+      "Agha",
+      "Ọnwụ",
+      "Owuwe ihe ubi"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Customs and Institutions (Omenala na Ewumewu) | New syllabus-modelled item",
+    "explanation": "A na-eji ọjị anabata ọbịa — ọ bụ akara udo."
+  },
+  {
+    "type": "std",
+    "q": "'Igba nkwụ' bụ emume",
+    "opts": [
+      "Iri ji",
+      "Ọmụmụ nwa",
+      "Alụmdi na nwunye (ịṅụ mmanya)",
+      "Olili ozu"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Customs and Institutions (Omenala na Ewumewu) | New syllabus-modelled item",
+    "explanation": "Igba nkwụ bụ emume alụmdi na nwunye ebe nwanyị na-enye di ya mmanya."
+  },
+  {
+    "type": "std",
+    "q": "'Iri ji' bụ emume",
+    "opts": [
+      "Emume alụmdi na nwunye",
+      "Emume ọmụmụ",
+      "Emume ji ọhụrụ (New Yam festival)",
+      "Emume olili"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Customs and Institutions (Omenala na Ewumewu) | New syllabus-modelled item",
+    "explanation": "Iri ji bụ emume ji ọhụrụ."
+  },
+  {
+    "type": "std",
+    "q": "'Mmanwu' n'ala Igbo bụ",
+    "opts": [
+      "Egwuregwu bọọlụ",
+      "Egwu ụmụaka",
+      "Mmụọ mmadụ na-eyi (masquerade)",
+      "Abụ"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Customs and Institutions (Omenala na Ewumewu) | New syllabus-modelled item",
+    "explanation": "Mmanwu bụ masquerade — mmụọ a na-eyi n'emume."
+  },
+  {
+    "type": "std",
+    "q": "Onye dere akwụkwọ 'Things Fall Apart' bụ",
+    "opts": [
+      "Flora Nwapa",
+      "Elechi Amadi",
+      "Cyprian Ekwensi",
+      "Chinua Achebe"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Written Literature (Agụmagụ Ederede) — Prose, Poetry and Drama | New syllabus-modelled item",
+    "explanation": "Things Fall Apart (1958) bụ nke Chinua Achebe."
+  },
+  {
+    "type": "std",
+    "q": "Isi agwa (protagonist) n'akwụkwọ 'Things Fall Apart' bụ",
+    "opts": [
+      "Unoka",
+      "Obierika",
+      "Okonkwo",
+      "Nwoye"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Written Literature (Agụmagụ Ederede) — Prose, Poetry and Drama | New syllabus-modelled item",
+    "explanation": "Okonkwo bụ isi agwa n'akwụkwọ ahụ."
+  },
+  {
+    "type": "std",
+    "q": "Onye dere akwụkwọ 'Efuru' bụ",
+    "opts": [
+      "Elechi Amadi",
+      "Flora Nwapa",
+      "Buchi Emecheta",
+      "Chinua Achebe"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Written Literature (Agụmagụ Ederede) — Prose, Poetry and Drama | New syllabus-modelled item",
+    "explanation": "Efuru (1966) bụ nke Flora Nwapa."
+  },
+  {
+    "type": "std",
+    "q": "Onye dere akwụkwọ 'The Concubine' bụ",
+    "opts": [
+      "Chinua Achebe",
+      "Flora Nwapa",
+      "Chukwuemeka Ike",
+      "Elechi Amadi"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Written Literature (Agụmagụ Ederede) — Prose, Poetry and Drama | New syllabus-modelled item",
+    "explanation": "The Concubine bụ nke Elechi Amadi."
+  },
+  {
+    "type": "std",
+    "q": "'Umunna' n'ala Igbo pụtara",
+    "opts": [
+      "Ndị ọbịa",
+      "Ndị eze",
+      "Ndị ahịa",
+      "Ndị ikwu (kindred)"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Customs and Institutions (Omenala na Ewumewu) | New syllabus-modelled item",
+    "explanation": "Umunna bụ ndị ikwu — the kindred."
+  },
+  {
+    "type": "std",
+    "q": "'Nze na Ozo' bụ",
+    "opts": [
+      "Abụ",
+      "Nri",
+      "Usoro utu aha n'ala Igbo",
+      "Egwu"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Customs and Institutions (Omenala na Ewumewu) | New syllabus-modelled item",
+    "explanation": "Nze na Ozo bụ usoro utu aha (title system)."
+  },
+  {
+    "type": "std",
+    "q": "N'asụsụ Igbo, 'ụlọ akwụkwọ' pụtara",
+    "opts": [
+      "School",
+      "Market",
+      "Hospital",
+      "Church"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Ntụgharị) | New syllabus-modelled item",
+    "explanation": "Ụlọ akwụkwọ pụtara school."
+  },
+  {
+    "type": "std",
+    "q": "N'asụsụ Igbo, 'ahịa' pụtara",
+    "opts": [
+      "School",
+      "Market",
+      "Farm",
+      "River"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Ntụgharị) | New syllabus-modelled item",
+    "explanation": "Ahịa pụtara market."
+  },
+  {
+    "type": "std",
+    "q": "Kedu n'ime ndị a bụ ngwaa?",
+    "opts": [
+      "Rie (eat)",
+      "Ụlọ (house)",
+      "Nwoke (man)",
+      "Osisi (tree)"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Grammar (Ụtọasụsụ) | New syllabus-modelled item",
+    "explanation": "Rie bụ ngwaa (verb); ndị ọzọ bụ aha (nouns)."
+  },
+  {
+    "type": "std",
+    "q": "Kedu n'ime ndị a bụ aha?",
+    "opts": [
+      "Rie (eat)",
+      "Gaa (go)",
+      "Bịa (come)",
+      "Osisi (tree)"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Grammar (Ụtọasụsụ) | New syllabus-modelled item",
+    "explanation": "Osisi bụ aha (noun); ndị ọzọ bụ ngwaa."
+  },
+  {
+    "type": "std",
+    "q": "Ilu bụ",
+    "opts": [
+      "Abụ ogologo",
+      "Akụkọ ifo",
+      "Okwu amamihe dị mkpụmkpụ (proverb)",
+      "Egwu"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oral Literature (Agụmagụ Ọnụ/Agụmagụ Ọdịnala) | New syllabus-modelled item",
+    "explanation": "Ilu bụ proverb — okwu amamihe dị mkpụmkpụ."
+  },
+  {
+    "type": "std",
+    "q": "Olumba Igbo izugbe (Standard Igbo) dabere na",
+    "opts": [
+      "Olumba Owerri naanị",
+      "Olumba dị iche iche a chịkọtara",
+      "Asụsụ Bekee",
+      "Olumba Onitsha naanị"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Dialect and Standard Igbo (Olundị/Olumba na Igbo Izugbe) | New syllabus-modelled item",
+    "explanation": "Igbo izugbe bụ asụsụ a chịkọtara site n'olumba dị iche iche."
+  },
+  {
+    "type": "std",
+    "q": "N'asụsụ Igbo, 'mmiri' pụtara",
+    "opts": [
+      "Water",
+      "Food",
+      "Air",
+      "Fire"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Ntụgharị) | New syllabus-modelled item",
+    "explanation": "Mmiri pụtara water."
+  },
+  {
+    "type": "std",
+    "q": "N'asụsụ Igbo, 'ọkụ' pụtara",
+    "opts": [
+      "Water",
+      "Fire",
+      "Earth",
+      "Wind"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Ntụgharị) | New syllabus-modelled item",
+    "explanation": "Ọkụ pụtara fire."
+  },
+  {
+    "type": "std",
+    "q": "Odee akwụkwọ 'No Longer at Ease' bụ",
+    "opts": [
+      "Flora Nwapa",
+      "Elechi Amadi",
+      "Wole Soyinka",
+      "Chinua Achebe"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Written Literature (Agụmagụ Ederede) — Prose, Poetry and Drama | New syllabus-modelled item",
+    "explanation": "No Longer at Ease (1960) bụ nke Chinua Achebe."
+  },
+  {
+    "type": "std",
+    "q": "N'asụsụ Igbo, 'nne' pụtara",
+    "opts": [
+      "Father",
+      "Sister",
+      "Mother",
+      "Brother"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Ntụgharị) | New syllabus-modelled item",
+    "explanation": "Nne pụtara mother."
+  },
+  {
+    "type": "std",
+    "q": "N'asụsụ Igbo, 'nna' pụtara",
+    "opts": [
+      "Son",
+      "Father",
+      "Mother",
+      "Uncle"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Translation (Ntụgharị) | New syllabus-modelled item",
+    "explanation": "Nna pụtara father."
+  },
+  {
+    "type": "std",
+    "q": "Akwụkwọ akụkọ (novel) n'asụsụ Igbo bụ agụmagụ",
+    "opts": [
+      "Egwu naanị",
+      "Ederede (written literature)",
+      "Ọnụ naanị",
+      "Abụ naanị"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Written Literature (Agụmagụ Ederede) — Prose, Poetry and Drama | New syllabus-modelled item",
+    "explanation": "Akwụkwọ akụkọ bụ agụmagụ ederede."
+  }
+]

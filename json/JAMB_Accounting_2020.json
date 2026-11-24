@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The accounting equation is stated as",
+    "opts": [
+      "Liabilities = Assets + Capital",
+      "Capital = Assets - Drawings",
+      "Assets = Capital + Liabilities",
+      "Assets = Capital - Liabilities"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Nature and Significance of Bookkeeping and Accounting | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Assets equal capital plus liabilities."
+  },
+  {
+    "type": "std",
+    "q": "The rule of double entry for a personal account is",
+    "opts": [
+      "Debit the giver, credit the receiver",
+      "Debit what comes in, credit what goes out",
+      "Debit the receiver, credit the giver",
+      "Debit expenses, credit income"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Principles of Double Entry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "For personal accounts: debit the receiver, credit the giver."
+  },
+  {
+    "type": "std",
+    "q": "The main purpose of a trial balance is to check",
+    "opts": [
+      "The value of closing stock",
+      "The arithmetical accuracy of ledger entries",
+      "The cash at bank",
+      "The profit of the business"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Principles of Double Entry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A trial balance checks that total debits equal total credits."
+  },
+  {
+    "type": "std",
+    "q": "A credit balance in a ledger account usually represents",
+    "opts": [
+      "A liability or income",
+      "A drawings account",
+      "An asset only",
+      "An expense only"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Principles of Double Entry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Liabilities, capital and income normally have credit balances."
+  },
+  {
+    "type": "std",
+    "q": "Goods bought on credit are first recorded in the",
+    "opts": [
+      "Sales journal",
+      "Cash book",
+      "Petty cash book",
+      "Purchases journal"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Principles of Double Entry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Credit purchases are recorded in the purchases journal."
+  },
+  {
+    "type": "std",
+    "q": "The book of original entry for goods sold on credit is the",
+    "opts": [
+      "Sales journal",
+      "Purchases journal",
+      "Returns inwards journal",
+      "General journal"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Principles of Double Entry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Credit sales go to the sales journal."
+  },
+  {
+    "type": "std",
+    "q": "An error of omission occurs when a transaction is",
+    "opts": [
+      "Recorded twice",
+      "Recorded in the wrong account",
+      "Completely left out of the books",
+      "Recorded on the wrong side"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Principles of Double Entry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Omission means the transaction is not recorded at all."
+  },
+  {
+    "type": "std",
+    "q": "An error of principle arises when",
+    "opts": [
+      "An item is posted to the wrong class of account",
+      "A transaction is omitted",
+      "Figures are transposed",
+      "An entry is duplicated"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Principles of Double Entry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "E.g. charging a capital item to revenue is an error of principle."
+  },
+  {
+    "type": "std",
+    "q": "The suspense account is used to",
+    "opts": [
+      "Pay creditors",
+      "Hold the difference in a trial balance until errors are found",
+      "Record drawings",
+      "Record bad debts"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Principles of Double Entry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The suspense account temporarily holds an unexplained trial-balance difference."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is an example of capital expenditure?",
+    "opts": [
+      "Day-to-day running costs",
+      "Buying fixed assets",
+      "Paying wages",
+      "Buying goods for resale"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Capital expenditure buys or improves fixed assets."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a revenue expenditure?",
+    "opts": [
+      "Purchase of a delivery van",
+      "Building an extension",
+      "Rent for the shop",
+      "Buying office furniture"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Rent is a day-to-day running cost, so it is revenue expenditure."
+  },
+  {
+    "type": "std",
+    "q": "Gross profit is obtained by",
+    "opts": [
+      "Sales plus closing stock",
+      "Net profit plus expenses",
+      "Sales minus drawings",
+      "Sales minus cost of sales"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Gross profit = sales - cost of goods sold."
+  },
+  {
+    "type": "std",
+    "q": "A trader's sales were N150,000 and cost of sales N95,000. Gross profit is",
+    "opts": [
+      "N55,000",
+      "N45,000",
+      "N245,000",
+      "N95,000"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "150,000 - 95,000 = 55,000."
+  },
+  {
+    "type": "std",
+    "q": "Cost of sales is computed as opening stock plus purchases minus",
+    "opts": [
+      "Sales",
+      "Gross profit",
+      "Closing stock",
+      "Drawings"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Stock Valuation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Cost of sales = opening stock + purchases - closing stock."
+  },
+  {
+    "type": "std",
+    "q": "Opening stock N20,000, purchases N100,000, closing stock N25,000. Cost of sales is",
+    "opts": [
+      "N105,000",
+      "N145,000",
+      "N95,000",
+      "N45,000"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Stock Valuation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "20,000 + 100,000 - 25,000 = 95,000."
+  },
+  {
+    "type": "std",
+    "q": "Drawings by the owner will",
+    "opts": [
+      "Reduce capital",
+      "Reduce expenses",
+      "Increase capital",
+      "Increase liabilities"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Drawings reduce the owner's capital in the business."
+  },
+  {
+    "type": "std",
+    "q": "The straight-line depreciation on a machine costing N100,000 with scrap value N10,000 and 5-year life is",
+    "opts": [
+      "N20,000 per year",
+      "N18,000 per year",
+      "N10,000 per year",
+      "N90,000 per year"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "(100,000 - 10,000) / 5 = 18,000 per year."
+  },
+  {
+    "type": "std",
+    "q": "Using reducing balance at 10%, first-year depreciation on an asset costing N50,000 is",
+    "opts": [
+      "N10,000",
+      "N5,000",
+      "N45,000",
+      "N500"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "10% of 50,000 = 5,000."
+  },
+  {
+    "type": "std",
+    "q": "Accrued expenses are expenses",
+    "opts": [
+      "Written off as bad debts",
+      "Owed but not yet paid",
+      "Paid in advance",
+      "Already paid in cash"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Accrued expenses have been incurred but not yet paid."
+  },
+  {
+    "type": "std",
+    "q": "Prepaid rent is treated in the balance sheet as a",
+    "opts": [
+      "Current liability",
+      "Current asset",
+      "Fixed asset",
+      "Capital item"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Rent paid in advance is a current asset."
+  },
+  {
+    "type": "std",
+    "q": "The three-column cash book has columns for cash, bank and",
+    "opts": [
+      "Purchases",
+      "Drawings",
+      "Sales",
+      "Discount"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Cashbook | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The three columns are cash, bank and discount."
+  },
+  {
+    "type": "std",
+    "q": "Discount allowed is recorded as",
+    "opts": [
+      "An expense in the profit and loss account",
+      "Income in the profit and loss account",
+      "A liability",
+      "A fixed asset"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Cashbook | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Discount allowed to customers is an expense."
+  },
+  {
+    "type": "std",
+    "q": "In the petty cash book, the imprest system means the float is",
+    "opts": [
+      "Increased every month",
+      "Reduced to zero monthly",
+      "Kept only in coins",
+      "Restored to its original amount after spending"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Cashbook | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Under imprest, the amount spent is reimbursed to restore the float."
+  },
+  {
+    "type": "std",
+    "q": "If the imprest is N10,000 and N6,500 was spent, the reimbursement is",
+    "opts": [
+      "N3,500",
+      "N6,500",
+      "N10,000",
+      "N16,500"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Cashbook | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Reimbursement equals the amount spent, N6,500."
+  },
+  {
+    "type": "std",
+    "q": "Unpresented cheques in a bank reconciliation are",
+    "opts": [
+      "Deducted from the bank statement balance",
+      "Added to the bank statement balance",
+      "Added to the cash book balance",
+      "Ignored completely"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Bank Transactions and Reconciliation Statements | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Cheques issued but not yet presented are deducted from the bank statement balance."
+  },
+  {
+    "type": "std",
+    "q": "A bank statement balance of N80,000 with unpresented cheques of N12,000 and uncredited lodgements of N5,000 gives a cash book balance of",
+    "opts": [
+      "N73,000",
+      "N87,000",
+      "N97,000",
+      "N63,000"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Bank Transactions and Reconciliation Statements | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "80,000 - 12,000 + 5,000 = 73,000."
+  },
+  {
+    "type": "std",
+    "q": "Returns inwards are also called",
+    "opts": [
+      "Purchases returns",
+      "Bad debts",
+      "Sales returns",
+      "Discount received"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Returns inwards are goods returned by customers, i.e. sales returns."
+  },
+  {
+    "type": "std",
+    "q": "Carriage inwards is",
+    "opts": [
+      "An office expense",
+      "Added to drawings",
+      "Added to the cost of purchases",
+      "Deducted from sales"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Carriage inwards forms part of the cost of goods bought."
+  },
+  {
+    "type": "std",
+    "q": "The sales ledger control account is used to check the accuracy of the",
+    "opts": [
+      "General ledger",
+      "Creditors ledger",
+      "Cash book",
+      "Debtors ledger"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Control Accounts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The sales ledger control account summarises the debtors ledger."
+  },
+  {
+    "type": "std",
+    "q": "Opening capital under incomplete records equals opening assets minus opening",
+    "opts": [
+      "Drawings",
+      "Sales",
+      "Stock",
+      "Liabilities"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Incomplete Records and Single Entry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Capital = assets - liabilities."
+  },
+  {
+    "type": "std",
+    "q": "Opening assets N200,000 and opening liabilities N50,000 give opening capital of",
+    "opts": [
+      "N150,000",
+      "N100,000",
+      "N250,000",
+      "N50,000"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Incomplete Records and Single Entry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "200,000 - 50,000 = 150,000."
+  },
+  {
+    "type": "std",
+    "q": "Prime cost in manufacturing is direct material plus direct labour plus",
+    "opts": [
+      "Direct expenses",
+      "Factory rent",
+      "Office salaries",
+      "Selling expenses"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Manufacturing Accounts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Prime cost = direct materials + direct labour + direct expenses."
+  },
+  {
+    "type": "std",
+    "q": "Direct materials N40,000, direct labour N30,000 and direct expenses N10,000 give prime cost of",
+    "opts": [
+      "N70,000",
+      "N80,000",
+      "N120,000",
+      "N50,000"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Manufacturing Accounts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "40,000 + 30,000 + 10,000 = 80,000."
+  },
+  {
+    "type": "std",
+    "q": "Factory overheads are added to prime cost to obtain",
+    "opts": [
+      "Prime cost",
+      "Cost of production",
+      "Selling price",
+      "Gross profit"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Manufacturing Accounts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Prime cost plus factory overheads equals cost of production."
+  },
+  {
+    "type": "std",
+    "q": "In partnership, the deed that sets out profit-sharing and duties is the",
+    "opts": [
+      "Memorandum of association",
+      "Trial balance",
+      "Balance sheet",
+      "Partnership agreement"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Partnership Accounts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The partnership agreement governs the partners' relationship."
+  },
+  {
+    "type": "std",
+    "q": "Interest on capital in a partnership is",
+    "opts": [
+      "Part of drawings",
+      "A business expense",
+      "An appropriation of profit",
+      "A liability to outsiders"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Partnership Accounts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Interest on capital is charged in the appropriation account, not as an expense."
+  },
+  {
+    "type": "std",
+    "q": "A debenture is best described as a",
+    "opts": [
+      "Dividend payment",
+      "Share in a company",
+      "Short-term bank overdraft",
+      "Long-term loan to a company"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Introduction to Company Accounts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Debentures are long-term loans carrying fixed interest."
+  },
+  {
+    "type": "std",
+    "q": "Authorised share capital is the",
+    "opts": [
+      "Profit kept in the business",
+      "Capital actually issued",
+      "Maximum capital a company may issue",
+      "Capital paid up by shareholders"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Introduction to Company Accounts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Authorised capital is the maximum a company is allowed to issue."
+  },
+  {
+    "type": "std",
+    "q": "Current ratio is calculated as current assets divided by",
+    "opts": [
+      "Total liabilities",
+      "Fixed assets",
+      "Capital",
+      "Current liabilities"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Current ratio = current assets / current liabilities."
+  },
+  {
+    "type": "std",
+    "q": "Current assets N120,000 and current liabilities N60,000 give a current ratio of",
+    "opts": [
+      "1:2",
+      "3:1",
+      "1:1",
+      "2:1"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Final Accounts of a Sole Trader/Proprietor | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "120,000 / 60,000 = 2, i.e. 2:1."
+  }
+]

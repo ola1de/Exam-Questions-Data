@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Wasali nawa ne a harshen Hausa?",
+    "opts": [
+      "Biyar",
+      "Bakwai",
+      "Uku",
+      "Goma"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Tsarin Sauti (Phonology) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Wasalan Hausa guda biyar ne: a, e, i, o, u."
+  },
+  {
+    "type": "std",
+    "q": "Wanne daga cikin waɗannan haruffa ne na boge?",
+    "opts": [
+      "K",
+      "Ƙ",
+      "G",
+      "T"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ƙa’idojin Rubutu (Orthography) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Ƙ harafin boge ne; K, G da T ba bogaye ba ne."
+  },
+  {
+    "type": "std",
+    "q": "Kalmar 'yaro' tana nuna jinsi na",
+    "opts": [
+      "Miji",
+      "Mace",
+      "Babu jinsi",
+      "Duka biyu"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Yaro namiji ne."
+  },
+  {
+    "type": "std",
+    "q": "Mene ne jam'in kalmar 'mace'?",
+    "opts": [
+      "Mace-mace",
+      "Macen",
+      "Mataye",
+      "Mata"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Jam'in mace shi ne mata."
+  },
+  {
+    "type": "std",
+    "q": "Mene ne jam'in kalmar 'yaro'?",
+    "opts": [
+      "Yara",
+      "Yarar",
+      "Yaraye",
+      "Yaransu"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Jam'in yaro shi ne yara."
+  },
+  {
+    "type": "std",
+    "q": "Mene ne jam'in kalmar 'gida'?",
+    "opts": [
+      "Gidaje",
+      "Gidaje-gidaje",
+      "Gidansu",
+      "Gidada"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Jam'in gida shi ne gidaje."
+  },
+  {
+    "type": "std",
+    "q": "Kalmar 'rana' tana nuna jinsi na",
+    "opts": [
+      "Miji",
+      "Mace",
+      "Babu jinsi",
+      "Duka biyu"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Rana kalma ce ta mace."
+  },
+  {
+    "type": "std",
+    "q": "A cikin waɗannan, wanne ne sunan dabbobi?",
+    "opts": [
+      "Littafi",
+      "Kare",
+      "Makaranta",
+      "Gida"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ma’ana (Semantics) | New syllabus-modelled item",
+    "explanation": "Kare dabba ne; gida, littafi da makaranta ba dabbobi ba ne."
+  },
+  {
+    "type": "std",
+    "q": "'Na gode' a Turanci yana nufin",
+    "opts": [
+      "Welcome",
+      "Thank you",
+      "Good morning",
+      "Goodbye"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Fassara (Translation) | New syllabus-modelled item",
+    "explanation": "Na gode na nufin thank you."
+  },
+  {
+    "type": "std",
+    "q": "'Ina kwana' ana faɗa a lokacin",
+    "opts": [
+      "Yamma",
+      "Safe",
+      "Tsakar dare",
+      "Rana"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Fassara (Translation) | New syllabus-modelled item",
+    "explanation": "Ina kwana gaisuwa ce ta safe."
+  },
+  {
+    "type": "std",
+    "q": "Lambar 'biyar' a Turanci ita ce",
+    "opts": [
+      "Seven",
+      "Four",
+      "Six",
+      "Five"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Biyar na nufin five."
+  },
+  {
+    "type": "std",
+    "q": "Lambar 'goma' a Turanci ita ce",
+    "opts": [
+      "Nine",
+      "Eight",
+      "Ten",
+      "Eleven"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ƙirar Kalma (Morphology) | New syllabus-modelled item",
+    "explanation": "Goma na nufin ten."
+  },
+  {
+    "type": "std",
+    "q": "Wace rana ce ta farko a mako a al'adar Hausawa?",
+    "opts": [
+      "Litinin",
+      "Talata",
+      "Lahadi",
+      "Juma'a"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Rayuwar Hausawa (Hausa Customs) | New syllabus-modelled item",
+    "explanation": "Lahadi ita ce ranar farko ta mako."
+  },
+  {
+    "type": "std",
+    "q": "Wanda ya rubuta littafin 'Magana Jari Ce' shi ne",
+    "opts": [
+      "Muhammadu Bello Kagara",
+      "Abubakar Tafawa Balewa",
+      "Nana Asma'u",
+      "Abubakar Imam"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Zube (Written Prose) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Abubakar Imam ne ya rubuta Magana Jari Ce (1937)."
+  },
+  {
+    "type": "std",
+    "q": "Littafin 'Ruwan Bagaja' marubucinsa shi ne",
+    "opts": [
+      "Abubakar Tafawa Balewa",
+      "Muhammadu Bello Kagara",
+      "Abubakar Imam",
+      "Aminu Kano"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Zube (Written Prose) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Ruwan Bagaja na Abubakar Imam ne."
+  },
+  {
+    "type": "std",
+    "q": "Littafin 'Gandoki' marubucinsa shi ne",
+    "opts": [
+      "Abubakar Imam",
+      "Abubakar Tafawa Balewa",
+      "Sa'adu Zungur",
+      "Muhammadu Bello Kagara"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Zube (Written Prose) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Gandoki na Muhammadu Bello Kagara ne."
+  },
+  {
+    "type": "std",
+    "q": "Littafin 'Shaihu Umar' marubucinsa shi ne",
+    "opts": [
+      "Abubakar Imam",
+      "Muhammadu Bello Kagara",
+      "Abubakar Tafawa Balewa",
+      "Ahmadu Bello"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Zube (Written Prose) | Adapted by topic/pattern from JAMB Master archive 1983-2020 (jamb-master.web.app; wording changed, not copied verbatim)",
+    "explanation": "Shaihu Umar na Abubakar Tafawa Balewa ne."
+  },
+  {
+    "type": "std",
+    "q": "Tatsuniya tana daga cikin",
+    "opts": [
+      "Adabin rubutu",
+      "Adabin baka",
+      "Waƙa ta zamani",
+      "Wasan kwaikwayo na zamani"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Zuben Baka (Oral Narratives) | New syllabus-modelled item",
+    "explanation": "Tatsuniya labari ne na baka."
+  },
+  {
+    "type": "std",
+    "q": "Karin magana 'Hannu ɗaya ba ya ɗaukan jinka' yana koyar da",
+    "opts": [
+      "Kishi",
+      "Tsafta",
+      "Girmamawa",
+      "Haɗin kai"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Maganganun Azanci (Folk-Sayings) | New syllabus-modelled item",
+    "explanation": "Karin maganar na nuna muhimmancin haɗin kai."
+  },
+  {
+    "type": "std",
+    "q": "Sarkin gargajiya na Daular Usumaniyya ana kiransa",
+    "opts": [
+      "Oba",
+      "Alaafin",
+      "Obi",
+      "Sarkin Musulmi"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sarautun Gargajiya (Traditional Authority) | New syllabus-modelled item",
+    "explanation": "Sarkin Musulmi shi ne shugaban Daular Usumaniyya."
+  },
+  {
+    "type": "std",
+    "q": "Babban bikin Hawan Daba ana yin shi a lokacin",
+    "opts": [
+      "Kirsimiti",
+      "Hajji",
+      "Azumi",
+      "Sallah"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Bukukuwa da Wasanni (Hausa Festivities and Recreational Activities) | New syllabus-modelled item",
+    "explanation": "Durbar (Hawan Daba) ana yin shi a lokacin Sallah."
+  },
+  {
+    "type": "std",
+    "q": "Sana'ar gargajiya ta rini tana da alaƙa da",
+    "opts": [
+      "Launi",
+      "Gini",
+      "Noma",
+      "Kiwo"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sana’o’in Gargajiya (Traditional Occupations) | New syllabus-modelled item",
+    "explanation": "Rini sana'a ce ta ba wa tufafi launi."
+  },
+  {
+    "type": "std",
+    "q": "Abincin gargajiya na Hausawa da aka fi sani shi ne",
+    "opts": [
+      "Amala",
+      "Semo",
+      "Tuwo",
+      "Eba"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Kayayyakin Buƙatun Rayuwa (Material Culture) | New syllabus-modelled item",
+    "explanation": "Tuwo abinci ne na gargajiya na Hausawa."
+  },
+  {
+    "type": "std",
+    "q": "Kalmar 'mai gida' tana nufin",
+    "opts": [
+      "Bawa",
+      "Yaro",
+      "Maigida",
+      "Sarki"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ginin Jumla (Syntax) | New syllabus-modelled item",
+    "explanation": "'Mai' na nuna mai abu; mai gida shi ne maigida."
+  },
+  {
+    "type": "std",
+    "q": "A cikin waɗannan, wanne ne suna na wuri?",
+    "opts": [
+      "Kano",
+      "Kare",
+      "Yaro",
+      "Littafi"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ma’ana (Semantics) | New syllabus-modelled item",
+    "explanation": "Kano suna ne na wuri (gari)."
+  },
+  {
+    "type": "std",
+    "q": "Ana amfani da 'ina' don tambayar",
+    "opts": [
+      "Lokaci",
+      "Yawa",
+      "Dalili",
+      "Wuri"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ginin Jumla (Syntax) | New syllabus-modelled item",
+    "explanation": "Ina tambaya ce ta wuri."
+  },
+  {
+    "type": "std",
+    "q": "Ana amfani da 'yaushe' don tambayar",
+    "opts": [
+      "Wuri",
+      "Yawa",
+      "Lokaci",
+      "Hali"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ginin Jumla (Syntax) | New syllabus-modelled item",
+    "explanation": "Yaushe tambaya ce ta lokaci."
+  },
+  {
+    "type": "std",
+    "q": "Bakin Hausa yana da sauti na",
+    "opts": [
+      "Ɗaukaka, ƙasa da faɗuwa",
+      "Ɗaukaka kaɗai",
+      "Ƙasa kaɗai",
+      "Faɗuwa kaɗai"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Tsarin Sauti (Phonology) | New syllabus-modelled item",
+    "explanation": "Hausa tana da sautuka uku: mai ɗaukaka, mai ƙasa da mai faɗuwa."
+  },
+  {
+    "type": "std",
+    "q": "Wanne ne aikin da ya shafi sana'ar hannu?",
+    "opts": [
+      "Saka",
+      "Barci",
+      "Wasa",
+      "Cin abinci"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sana’o’in Gargajiya (Traditional Occupations) | New syllabus-modelled item",
+    "explanation": "Saka (saƙa) sana'a ce ta hannu."
+  },
+  {
+    "type": "std",
+    "q": "Maganin gargajiya ana samun shi daga",
+    "opts": [
+      "Makaranta",
+      "Ganye da tushen bishiyoyi",
+      "Asibiti kaɗai",
+      "Kanti"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Magungunan Gargajiya (Traditional Medicine) | New syllabus-modelled item",
+    "explanation": "Maganin gargajiya ya samo asali daga ganye da tushen bishiyoyi."
+  },
+  {
+    "type": "std",
+    "q": "Waƙar baka ana rera ta a lokacin",
+    "opts": [
+      "Barci",
+      "Karatu kaɗai",
+      "Biki da taro",
+      "Aiki a ofis"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Waƙoƙi na Baka (Oral Songs) | New syllabus-modelled item",
+    "explanation": "Waƙoƙin baka ana rera su a bukukuwa da tarurruka."
+  },
+  {
+    "type": "std",
+    "q": "Kirari yana nufin",
+    "opts": [
+      "Yabon mutum ko zuriya",
+      "Zagi",
+      "Labari",
+      "Waƙa ta yara"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Zuben Baka (Oral Narratives) | New syllabus-modelled item",
+    "explanation": "Kirari yabo ne da ake yi wa mutum ko zuriyarsa."
+  },
+  {
+    "type": "std",
+    "q": "'Ka zo nan' a Turanci yana nufin",
+    "opts": [
+      "Go there",
+      "Sit down",
+      "Come here",
+      "Stand up"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Fassara (Translation) | New syllabus-modelled item",
+    "explanation": "Ka zo nan na nufin come here."
+  },
+  {
+    "type": "std",
+    "q": "A cikin jumla 'Yaro ya ci abinci', kalmar 'ci' tana nufin",
+    "opts": [
+      "Drink",
+      "Go",
+      "Come",
+      "Eat"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ma’ana (Semantics) | New syllabus-modelled item",
+    "explanation": "Ci na nufin eat."
+  },
+  {
+    "type": "std",
+    "q": "A cikin jumla 'Yaro ya sha ruwa', kalmar 'sha' tana nufin",
+    "opts": [
+      "Eat",
+      "Drink",
+      "Go",
+      "Sleep"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ma’ana (Semantics) | New syllabus-modelled item",
+    "explanation": "Sha na nufin drink."
+  },
+  {
+    "type": "std",
+    "q": "Makaranta a Turanci ita ce",
+    "opts": [
+      "House",
+      "School",
+      "Market",
+      "Hospital"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Fassara (Translation) | New syllabus-modelled item",
+    "explanation": "Makaranta na nufin school."
+  },
+  {
+    "type": "std",
+    "q": "Kasuwar Kano ta fi shahara da",
+    "opts": [
+      "Noma kaɗai",
+      "Kasuwanci",
+      "Kiwo kaɗai",
+      "Kamun kifi"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Zamantakewa (Social Institutions) | New syllabus-modelled item",
+    "explanation": "Kano ta shahara da kasuwanci tun daɗewa."
+  },
+  {
+    "type": "std",
+    "q": "Harsunan da ake magana a Arewacin Najeriya sun haɗa da",
+    "opts": [
+      "Igbo kaɗai",
+      "Efik kaɗai",
+      "Yoruba kaɗai",
+      "Hausa"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Rayuwar Hausawa (Hausa Customs) | New syllabus-modelled item",
+    "explanation": "Hausa ita ce babbar harshe ta Arewa."
+  },
+  {
+    "type": "std",
+    "q": "Rubutun Hausa da haruffan Larabci ana kiransa",
+    "opts": [
+      "Boko",
+      "Rumi",
+      "Ajami",
+      "Tifinagh"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ƙa’idojin Rubutu (Orthography) | New syllabus-modelled item",
+    "explanation": "Rubutun Hausa da haruffan Larabci shi ne Ajami."
+  },
+  {
+    "type": "std",
+    "q": "Rubutun Hausa da haruffan Latin ana kiransa",
+    "opts": [
+      "Boko",
+      "Ajami",
+      "Hausa",
+      "Turanci"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Ƙa’idojin Rubutu (Orthography) | New syllabus-modelled item",
+    "explanation": "Rubutun Hausa da haruffan Latin shi ne Boko."
+  }
+]

@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The process used to separate a mixture of sand and water is",
+    "opts": [
+      "Sublimation",
+      "Chromatography",
+      "Filtration",
+      "Distillation"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Separation of Mixtures and Purification of Chemical Substances | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Sand is insoluble and is separated from water by filtration."
+  },
+  {
+    "type": "std",
+    "q": "A pure substance that cannot be broken down by chemical means is a/an",
+    "opts": [
+      "Compound",
+      "Mixture",
+      "Element",
+      "Solution"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Separation of Mixtures and Purification of Chemical Substances | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "An element cannot be split into simpler substances chemically."
+  },
+  {
+    "type": "std",
+    "q": "The separation of a soluble solid from its solution by heating is",
+    "opts": [
+      "Evaporation",
+      "Decantation",
+      "Sublimation",
+      "Filtration"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Separation of Mixtures and Purification of Chemical Substances | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Evaporation drives off the solvent, leaving the solid."
+  },
+  {
+    "type": "std",
+    "q": "The law of definite proportions states that a compound always contains its elements in",
+    "opts": [
+      "Equal volumes",
+      "Variable ratio",
+      "Fixed ratio by volume",
+      "Fixed ratio by mass"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Chemical Combination | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A compound always has the same elements in the same proportion by mass."
+  },
+  {
+    "type": "std",
+    "q": "The number of moles in 20 g of calcium carbonate, CaCO3 (Ca=40, C=12, O=16), is",
+    "opts": [
+      "2.0 mol",
+      "0.2 mol",
+      "0.5 mol",
+      "1.0 mol"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Chemical Combination | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Molar mass of CaCO3 = 100 g/mol; 20/100 = 0.2 mol."
+  },
+  {
+    "type": "std",
+    "q": "The number of moles in 4 g of hydrogen gas, H2 (H=1), is",
+    "opts": [
+      "2 mol",
+      "1 mol",
+      "0.5 mol",
+      "4 mol"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Chemical Combination | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Molar mass of H2 = 2 g/mol; 4/2 = 2 mol."
+  },
+  {
+    "type": "std",
+    "q": "The relative atomic mass of an element is best defined as the average mass of its atoms compared with",
+    "opts": [
+      "The mass of oxygen-16",
+      "1 g of the element",
+      "1/12 the mass of carbon-12",
+      "The mass of hydrogen"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Chemical Combination | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Relative atomic mass is based on 1/12 of carbon-12."
+  },
+  {
+    "type": "std",
+    "q": "According to Boyle's law, at constant temperature the volume of a fixed mass of gas is",
+    "opts": [
+      "Directly proportional to pressure",
+      "Inversely proportional to pressure",
+      "Independent of pressure",
+      "Proportional to the square of pressure"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Kinetic Theory of Matter and Gas Laws | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Boyle's law: P1V1 = P2V2 at constant temperature."
+  },
+  {
+    "type": "std",
+    "q": "A gas occupies 200 cm3 at 100 kPa. At 200 kPa (same temperature) its volume is",
+    "opts": [
+      "400 cm3",
+      "200 cm3",
+      "100 cm3",
+      "50 cm3"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Kinetic Theory of Matter and Gas Laws | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Doubling pressure halves volume: 200 x 100/200 = 100 cm3."
+  },
+  {
+    "type": "std",
+    "q": "The ideal gas equation is",
+    "opts": [
+      "PV = nRT",
+      "P = V/T",
+      "PV = T/n",
+      "V = nP/RT"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Kinetic Theory of Matter and Gas Laws | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The ideal gas equation is PV = nRT."
+  },
+  {
+    "type": "std",
+    "q": "The atomic number of an element is the number of",
+    "opts": [
+      "Neutrons in its nucleus",
+      "Electrons plus neutrons",
+      "Nucleons",
+      "Protons in its nucleus"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Atomic Structure and Bonding | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Atomic number = number of protons."
+  },
+  {
+    "type": "std",
+    "q": "Isotopes of the same element differ in their number of",
+    "opts": [
+      "Protons",
+      "Electrons",
+      "Neutrons",
+      "Shells"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Atomic Structure and Bonding | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Isotopes have the same protons but different neutrons."
+  },
+  {
+    "type": "std",
+    "q": "The electronic configuration of sodium (atomic number 11) is",
+    "opts": [
+      "2, 8, 1",
+      "2, 7, 2",
+      "2, 8, 8",
+      "2, 8, 2"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Atomic Structure and Bonding | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Sodium has 11 electrons: 2 in the first shell, 8 in the second, 1 in the third."
+  },
+  {
+    "type": "std",
+    "q": "A covalent bond is formed by",
+    "opts": [
+      "Metallic attraction",
+      "Hydrogen bonding only",
+      "Transfer of electrons",
+      "Sharing of electrons"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Atomic Structure and Bonding | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Covalent bonding is the sharing of electron pairs."
+  },
+  {
+    "type": "std",
+    "q": "The type of bond in sodium chloride is",
+    "opts": [
+      "Covalent",
+      "Metallic",
+      "Ionic",
+      "Hydrogen"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Atomic Structure and Bonding | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "NaCl is held by ionic bonds between Na+ and Cl-."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following gases is a noble gas?",
+    "opts": [
+      "Argon",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Atomic Structure and Bonding | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Argon is a group 0 noble gas."
+  },
+  {
+    "type": "std",
+    "q": "Alpha particles consist of",
+    "opts": [
+      "1 proton and 1 neutron",
+      "2 electrons",
+      "2 protons and 2 neutrons",
+      "1 proton only"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Nuclear Chemistry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "An alpha particle is a helium-4 nucleus: 2 protons + 2 neutrons."
+  },
+  {
+    "type": "std",
+    "q": "The solubility of most solids in water increases with",
+    "opts": [
+      "Increase in pressure",
+      "Increase in temperature",
+      "Decrease in temperature",
+      "Decrease in pressure"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Solubility | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Most solids dissolve more as temperature rises."
+  },
+  {
+    "type": "std",
+    "q": "A saturated solution is one that",
+    "opts": [
+      "Contains only solvent",
+      "Contains no solute",
+      "Is always hot",
+      "Cannot dissolve more solute at that temperature"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Solubility | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A saturated solution holds the maximum solute at that temperature."
+  },
+  {
+    "type": "std",
+    "q": "Acid rain is caused mainly by oxides of",
+    "opts": [
+      "Carbon only",
+      "Sulphur and nitrogen",
+      "Calcium",
+      "Sodium"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Environmental Pollution | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Sulphur dioxide and nitrogen oxides cause acid rain."
+  },
+  {
+    "type": "std",
+    "q": "Which gas is the main cause of the greenhouse effect?",
+    "opts": [
+      "Argon",
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Environmental Pollution | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Carbon dioxide is the principal greenhouse gas from human activity."
+  },
+  {
+    "type": "std",
+    "q": "An acid turns blue litmus paper",
+    "opts": [
+      "Green",
+      "Colourless",
+      "Blue",
+      "Red"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Acids, Bases and Salts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Acids turn blue litmus red."
+  },
+  {
+    "type": "std",
+    "q": "The pH of a neutral solution at 25 C is",
+    "opts": [
+      "14",
+      "1",
+      "0",
+      "7"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Acids, Bases and Salts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Neutral pH is 7 at 25 C."
+  },
+  {
+    "type": "std",
+    "q": "The salt formed when hydrochloric acid reacts with sodium hydroxide is",
+    "opts": [
+      "Sodium sulphate",
+      "Sodium chloride",
+      "Sodium nitrate",
+      "Sodium carbonate"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Acids, Bases and Salts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "HCl + NaOH -> NaCl + H2O."
+  },
+  {
+    "type": "std",
+    "q": "Oxidation is best defined as",
+    "opts": [
+      "Gain of electrons",
+      "Loss of protons",
+      "Loss of electrons",
+      "Gain of neutrons"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oxidation and Reduction | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Oxidation is loss of electrons (OIL)."
+  },
+  {
+    "type": "std",
+    "q": "In the reaction Zn + Cu2+ -> Zn2+ + Cu, zinc is",
+    "opts": [
+      "An electrolyte",
+      "Oxidised",
+      "Reduced",
+      "A catalyst"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Oxidation and Reduction | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Zinc loses electrons, so it is oxidised."
+  },
+  {
+    "type": "std",
+    "q": "Electrolysis of dilute sodium chloride solution using inert electrodes gives at the cathode",
+    "opts": [
+      "Chlorine",
+      "Oxygen",
+      "Hydrogen",
+      "Sodium"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Electrolysis | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "H+ is discharged in preference to Na+, giving hydrogen at the cathode."
+  },
+  {
+    "type": "std",
+    "q": "The Faraday is the quantity of electricity that liberates",
+    "opts": [
+      "One mole of electrons",
+      "One mole of gas",
+      "One mole of ions",
+      "One gram of metal"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Electrolysis | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "One faraday (96,500 C) corresponds to one mole of electrons."
+  },
+  {
+    "type": "std",
+    "q": "An exothermic reaction is one in which heat is",
+    "opts": [
+      "Absorbed",
+      "Neither given out nor absorbed",
+      "Stored as light",
+      "Given out"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Energy Changes | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Exothermic reactions release heat to the surroundings."
+  },
+  {
+    "type": "std",
+    "q": "The rate of a chemical reaction increases when temperature rises because",
+    "opts": [
+      "The activation energy increases",
+      "More particles have energy above the activation energy",
+      "The reactants freeze",
+      "The products decrease"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Rates of Chemical Reaction | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Higher temperature means more successful collisions."
+  },
+  {
+    "type": "std",
+    "q": "A catalyst increases the rate of a reaction by",
+    "opts": [
+      "Raising the activation energy",
+      "Increasing the temperature",
+      "Lowering the activation energy",
+      "Decreasing the concentration"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Rates of Chemical Reaction | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A catalyst provides a lower-energy pathway."
+  },
+  {
+    "type": "std",
+    "q": "At equilibrium, the rates of the forward and backward reactions are",
+    "opts": [
+      "Equal",
+      "Zero",
+      "Unequal",
+      "Infinite"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Chemical Equilibria | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "At dynamic equilibrium both rates are equal."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a non-metal that is a liquid at room temperature?",
+    "opts": [
+      "Bromine",
+      "Iodine",
+      "Sulphur",
+      "Phosphorus"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Non-Metals and Their Compounds | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Bromine is a liquid non-metal at room temperature."
+  },
+  {
+    "type": "std",
+    "q": "Chlorine gas is prepared in the laboratory by reacting concentrated hydrochloric acid with",
+    "opts": [
+      "Manganese(IV) oxide",
+      "Zinc",
+      "Copper",
+      "Sodium chloride"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Non-Metals and Their Compounds | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "MnO2 oxidises concentrated HCl to release chlorine."
+  },
+  {
+    "type": "std",
+    "q": "The gas released when dilute hydrochloric acid reacts with zinc is",
+    "opts": [
+      "Chlorine",
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Metals and Their Compounds | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Zn + 2HCl -> ZnCl2 + H2."
+  },
+  {
+    "type": "std",
+    "q": "Iron rusts fastest in the presence of",
+    "opts": [
+      "Water and air",
+      "Dry air only",
+      "Oil",
+      "Nitrogen"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Metals and Their Compounds | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Rusting needs both water and oxygen."
+  },
+  {
+    "type": "std",
+    "q": "The general formula of alkanes is",
+    "opts": [
+      "CnH2n-2",
+      "CnH2n+1",
+      "CnH2n",
+      "CnH2n+2"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Organic Compounds | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Alkanes follow CnH2n+2."
+  },
+  {
+    "type": "std",
+    "q": "Ethanol belongs to the homologous series of",
+    "opts": [
+      "Alkanes",
+      "Alkenes",
+      "Alkanoic acids",
+      "Alkanols"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Organic Compounds | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Ethanol is an alkanol (alcohol)."
+  },
+  {
+    "type": "std",
+    "q": "The functional group in carboxylic acids is",
+    "opts": [
+      "-OH",
+      "-COOH",
+      "-CHO",
+      "-CO-"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Organic Compounds | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Carboxylic acids contain the -COOH group."
+  },
+  {
+    "type": "std",
+    "q": "Saponification is the hydrolysis of fats and oils with",
+    "opts": [
+      "Alcohol",
+      "Alkali",
+      "Acid only",
+      "Water only"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Chemistry and Industry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Boiling fats with alkali gives soap: saponification."
+  }
+]

@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Economics is the study of how people allocate",
+    "opts": [
+      "Unlimited resources to satisfy limited wants",
+      "Money to buy goods",
+      "Scarce resources to satisfy unlimited wants",
+      "Land to farmers"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Economics as a Science | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Economics studies choice under scarcity."
+  },
+  {
+    "type": "std",
+    "q": "Opportunity cost is the",
+    "opts": [
+      "Money spent on goods",
+      "Total cost of production",
+      "Profit made",
+      "Next best alternative forgone"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Economics as a Science | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Opportunity cost is what you give up when you choose."
+  },
+  {
+    "type": "std",
+    "q": "A free market economy is one in which resources are allocated mainly by",
+    "opts": [
+      "Government planning",
+      "Price mechanism",
+      "Tradition",
+      "Military decree"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Economic Systems | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "In a market economy, prices allocate resources."
+  },
+  {
+    "type": "std",
+    "q": "In a mixed economy, resources are allocated by",
+    "opts": [
+      "Government alone",
+      "Market forces alone",
+      "Traditional rulers",
+      "Both market forces and government"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Economic Systems | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A mixed economy combines market and state allocation."
+  },
+  {
+    "type": "std",
+    "q": "The demand curve normally slopes",
+    "opts": [
+      "Downwards from left to right",
+      "Upwards from left to right",
+      "Horizontally",
+      "Vertically"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Demand | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Higher price means lower quantity demanded."
+  },
+  {
+    "type": "std",
+    "q": "An increase in the price of a good usually causes quantity demanded to",
+    "opts": [
+      "Rise",
+      "Stay the same",
+      "Fall",
+      "Double"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Demand | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The law of demand: price up, quantity demanded down."
+  },
+  {
+    "type": "std",
+    "q": "A good whose demand rises as income rises is a",
+    "opts": [
+      "Normal good",
+      "Inferior good",
+      "Giffen good",
+      "Public good"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Demand | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Demand for normal goods rises with income."
+  },
+  {
+    "type": "std",
+    "q": "Complementary goods are goods that are",
+    "opts": [
+      "Used instead of each other",
+      "Produced by one firm",
+      "Sold abroad",
+      "Used together"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Demand | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Complements, like cars and petrol, are consumed together."
+  },
+  {
+    "type": "std",
+    "q": "Utility is the",
+    "opts": [
+      "Satisfaction derived from consuming a good",
+      "Quantity of a good",
+      "Price of a good",
+      "Cost of producing a good"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Consumer Behaviour | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Utility is the satisfaction from consumption."
+  },
+  {
+    "type": "std",
+    "q": "Total utility is at its maximum when marginal utility is",
+    "opts": [
+      "One",
+      "Negative",
+      "Zero",
+      "Infinite"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Consumer Behaviour | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Total utility peaks where marginal utility is zero."
+  },
+  {
+    "type": "std",
+    "q": "The supply curve normally slopes",
+    "opts": [
+      "Horizontally",
+      "Upwards from left to right",
+      "Vertically",
+      "Downwards from left to right"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Supply | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Higher price encourages greater quantity supplied."
+  },
+  {
+    "type": "std",
+    "q": "An improvement in technology will cause supply to",
+    "opts": [
+      "Decrease",
+      "Remain unchanged",
+      "Fall to zero",
+      "Increase"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Supply | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Better technology lowers cost and raises supply."
+  },
+  {
+    "type": "std",
+    "q": "Equilibrium price is the price at which quantity demanded equals",
+    "opts": [
+      "Total revenue",
+      "Total cost",
+      "Quantity supplied",
+      "Marginal cost"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Price Determination | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "At equilibrium, demand equals supply."
+  },
+  {
+    "type": "std",
+    "q": "A price set above equilibrium by government is a",
+    "opts": [
+      "Price floor",
+      "Price ceiling",
+      "Equilibrium price",
+      "Market price"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Price Determination | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A floor is a minimum price above equilibrium."
+  },
+  {
+    "type": "std",
+    "q": "The factors of production are land, labour, capital and",
+    "opts": [
+      "Government",
+      "Money",
+      "Technology",
+      "Entrepreneurship"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Factors of Production and their Theories | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The four factors are land, labour, capital and entrepreneurship."
+  },
+  {
+    "type": "std",
+    "q": "The short run is the period in which at least one factor is",
+    "opts": [
+      "Free",
+      "Fixed",
+      "Absent",
+      "Variable"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Production | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "In the short run, some inputs cannot be changed."
+  },
+  {
+    "type": "std",
+    "q": "Diminishing returns set in when the marginal product of a variable input begins to",
+    "opts": [
+      "Rise",
+      "Stay constant",
+      "Become zero at once",
+      "Fall"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Theory of Production | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Adding more of one input eventually lowers its marginal product."
+  },
+  {
+    "type": "std",
+    "q": "Total cost equals total fixed cost plus",
+    "opts": [
+      "Average cost",
+      "Total variable cost",
+      "Total revenue",
+      "Marginal cost"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Theory of Costs and Revenue | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "TC = TFC + TVC."
+  },
+  {
+    "type": "std",
+    "q": "If total cost is N500 and output is 50 units, average cost is",
+    "opts": [
+      "N5",
+      "N10",
+      "N25",
+      "N50"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Theory of Costs and Revenue | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "500 / 50 = 10."
+  },
+  {
+    "type": "std",
+    "q": "A market with many sellers of identical products is",
+    "opts": [
+      "Monopoly",
+      "Oligopoly",
+      "Monopolistic competition",
+      "Perfect competition"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Market Structures | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Perfect competition has many sellers of identical goods."
+  },
+  {
+    "type": "std",
+    "q": "A single seller of a product with no close substitute is a",
+    "opts": [
+      "Oligopolist",
+      "Perfect competitor",
+      "Monopolist",
+      "Retailer"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Market Structures | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A monopoly has one seller."
+  },
+  {
+    "type": "std",
+    "q": "Gross Domestic Product measures the",
+    "opts": [
+      "Total money in circulation",
+      "Total value of goods and services produced in a country in a year",
+      "Total exports only",
+      "Total government spending"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: National Income | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "GDP is the value of final goods and services produced within a country in a year."
+  },
+  {
+    "type": "std",
+    "q": "National income can be measured by the output, income and",
+    "opts": [
+      "Expenditure approaches",
+      "Tax approach",
+      "Trade approach",
+      "Population approach"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: National Income | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The three approaches are output, income and expenditure."
+  },
+  {
+    "type": "std",
+    "q": "Money functions as a store of value because it can",
+    "opts": [
+      "Earn interest always",
+      "Be printed freely",
+      "Replace goods",
+      "Keep purchasing power over time"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Money and Inflation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Money stores value for future spending."
+  },
+  {
+    "type": "std",
+    "q": "Inflation is a persistent rise in the",
+    "opts": [
+      "Money supply only",
+      "Interest rate only",
+      "General price level",
+      "Exchange rate only"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Money and Inflation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Inflation is a sustained rise in general prices."
+  },
+  {
+    "type": "std",
+    "q": "Demand-pull inflation is caused by",
+    "opts": [
+      "Rising costs only",
+      "Falling money supply",
+      "Falling demand",
+      "Excess demand over supply"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Money and Inflation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Too much spending chasing too few goods pulls prices up."
+  },
+  {
+    "type": "std",
+    "q": "The central bank controls the money supply mainly through",
+    "opts": [
+      "Monetary policy",
+      "Trade policy",
+      "Wage policy",
+      "Fiscal policy"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Financial Institutions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The central bank uses monetary policy tools."
+  },
+  {
+    "type": "std",
+    "q": "A commercial bank's main function is to",
+    "opts": [
+      "Accept deposits and grant loans",
+      "Print money",
+      "Collect taxes",
+      "Fix prices"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Financial Institutions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Commercial banks take deposits and lend."
+  },
+  {
+    "type": "std",
+    "q": "Government revenue comes mainly from",
+    "opts": [
+      "Taxation",
+      "Borrowing only",
+      "Foreign aid only",
+      "Printing money"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Public Finance | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Taxes are the main source of government revenue."
+  },
+  {
+    "type": "std",
+    "q": "A progressive tax takes a",
+    "opts": [
+      "Same amount from everyone",
+      "Fixed amount from everyone",
+      "Higher proportion from higher incomes",
+      "Lower proportion from higher incomes"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Public Finance | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Progressive tax rates rise with income."
+  },
+  {
+    "type": "std",
+    "q": "A budget deficit occurs when government spending exceeds",
+    "opts": [
+      "Borrowing",
+      "Savings",
+      "Investment",
+      "Revenue"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Public Finance | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Deficit = expenditure greater than revenue."
+  },
+  {
+    "type": "std",
+    "q": "Economic growth is best measured by an increase in",
+    "opts": [
+      "Money supply",
+      "Population",
+      "Real GDP",
+      "Prices"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Economic Growth and Development | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Real GDP growth measures economic growth."
+  },
+  {
+    "type": "std",
+    "q": "Agriculture contributes to the Nigerian economy mainly by providing",
+    "opts": [
+      "Oil revenue only",
+      "Food, employment and raw materials",
+      "Foreign exchange only",
+      "Manufactured goods"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Agriculture in Nigeria | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Agriculture supplies food, jobs and raw materials."
+  },
+  {
+    "type": "std",
+    "q": "Industrialisation is the process of developing",
+    "opts": [
+      "Banks only",
+      "Manufacturing industries",
+      "Farms only",
+      "Markets only"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Industry and Industrialization | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Industrialisation builds manufacturing capacity."
+  },
+  {
+    "type": "std",
+    "q": "Crude oil is Nigeria's main source of",
+    "opts": [
+      "Foreign exchange earnings",
+      "Timber",
+      "Electricity",
+      "Food supply"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Natural Resources and the Nigerian Economy | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Oil dominates Nigeria's export earnings."
+  },
+  {
+    "type": "std",
+    "q": "A public limited company is an example of a",
+    "opts": [
+      "Government agency",
+      "Trade union",
+      "Business organisation",
+      "Cooperative"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Business Organizations | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Companies are forms of business organisation."
+  },
+  {
+    "type": "std",
+    "q": "The population of a country affects its economy through the size of the",
+    "opts": [
+      "Land area",
+      "Labour force and market",
+      "Coastline",
+      "Currency"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Population | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Population determines labour supply and market size."
+  },
+  {
+    "type": "std",
+    "q": "International trade is trade between",
+    "opts": [
+      "States",
+      "Towns",
+      "Countries",
+      "Villages"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: International Trade | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "International trade crosses national borders."
+  },
+  {
+    "type": "std",
+    "q": "A country has comparative advantage when it produces a good at a",
+    "opts": [
+      "Lower opportunity cost",
+      "Higher money cost",
+      "Higher opportunity cost",
+      "Zero cost"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: International Trade | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Comparative advantage means lower opportunity cost."
+  },
+  {
+    "type": "std",
+    "q": "The Economic Community of West African States is known as",
+    "opts": [
+      "AU",
+      "ECOWAS",
+      "OPEC",
+      "UN"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: International Economic Organizations | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "ECOWAS is the West African regional bloc."
+  }
+]

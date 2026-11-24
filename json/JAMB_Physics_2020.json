@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The SI unit of force is the",
+    "opts": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Measurements and Units | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Force is measured in newtons (N)."
+  },
+  {
+    "type": "std",
+    "q": "One kilometre is equal to",
+    "opts": [
+      "100 metres",
+      "1000 metres",
+      "10 metres",
+      "10,000 metres"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Measurements and Units | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "1 km = 1000 m."
+  },
+  {
+    "type": "std",
+    "q": "The instrument used to measure the diameter of a wire is the",
+    "opts": [
+      "Metre rule",
+      "Micrometer screw gauge",
+      "Stopwatch",
+      "Beam balance"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Measurements and Units | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A micrometer measures small diameters accurately."
+  },
+  {
+    "type": "std",
+    "q": "The dimensional formula of force is",
+    "opts": [
+      "MLT⁻¹",
+      "MLT⁻²",
+      "ML²T⁻²",
+      "MT⁻²"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Measurements and Units | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Force = mass × acceleration: MLT⁻²."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a scalar quantity?",
+    "opts": [
+      "Acceleration",
+      "Speed",
+      "Velocity",
+      "Force"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Scalars and Vectors; Measurement, Position, Distance and Displacement | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Speed has magnitude only; it is a scalar."
+  },
+  {
+    "type": "std",
+    "q": "The resultant of two perpendicular forces of 3 N and 4 N is",
+    "opts": [
+      "5 N",
+      "7 N",
+      "1 N",
+      "12 N"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Scalars and Vectors; Measurement, Position, Distance and Displacement | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "R = √(3² + 4²) = 5 N."
+  },
+  {
+    "type": "std",
+    "q": "A body starts from rest and accelerates at 2 m/s² for 5 s. Its final velocity is",
+    "opts": [
+      "7 m/s",
+      "10 m/s",
+      "2.5 m/s",
+      "25 m/s"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Motion | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "v = u + at = 0 + 2×5 = 10 m/s."
+  },
+  {
+    "type": "std",
+    "q": "A car moving at 10 m/s accelerates at 2 m/s² for 3 s. The distance covered is",
+    "opts": [
+      "30 m",
+      "39 m",
+      "36 m",
+      "45 m"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Motion | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "s = ut + ½at² = 30 + 9 = 39 m."
+  },
+  {
+    "type": "std",
+    "q": "The acceleration due to gravity on earth is approximately",
+    "opts": [
+      "1 m/s²",
+      "100 m/s²",
+      "10 m/s²",
+      "5 m/s²"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Gravitational Field | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "g ≈ 9.8 m/s², about 10 m/s²."
+  },
+  {
+    "type": "std",
+    "q": "Newton's second law of motion states that force equals",
+    "opts": [
+      "Mass × acceleration",
+      "Mass + acceleration",
+      "Mass - acceleration",
+      "Mass ÷ acceleration"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Motion | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "F = ma."
+  },
+  {
+    "type": "std",
+    "q": "The momentum of a 2 kg mass moving at 3 m/s is",
+    "opts": [
+      "6 kg m/s",
+      "5 kg m/s",
+      "1.5 kg m/s",
+      "12 kg m/s"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Motion | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "p = mv = 2×3 = 6 kg m/s."
+  },
+  {
+    "type": "std",
+    "q": "Work done by a force of 10 N moving an object 4 m is",
+    "opts": [
+      "14 J",
+      "2.5 J",
+      "400 J",
+      "40 J"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Work, Energy and Power | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "W = F × d = 10×4 = 40 J."
+  },
+  {
+    "type": "std",
+    "q": "The power developed when 100 J of work is done in 5 s is",
+    "opts": [
+      "500 W",
+      "5 W",
+      "20 W",
+      "105 W"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Work, Energy and Power | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "P = W/t = 100/5 = 20 W."
+  },
+  {
+    "type": "std",
+    "q": "The kinetic energy of a 2 kg mass moving at 3 m/s is",
+    "opts": [
+      "9 J",
+      "6 J",
+      "18 J",
+      "3 J"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Work, Energy and Power | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "KE = ½mv² = ½×2×9 = 9 J."
+  },
+  {
+    "type": "std",
+    "q": "The potential energy of a 2 kg mass at a height of 5 m (g = 10 m/s²) is",
+    "opts": [
+      "50 J",
+      "10 J",
+      "100 J",
+      "25 J"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Work, Energy and Power | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "PE = mgh = 2×10×5 = 100 J."
+  },
+  {
+    "type": "std",
+    "q": "The efficiency of a machine with mechanical advantage 4 and velocity ratio 5 is",
+    "opts": [
+      "20%",
+      "45%",
+      "80%",
+      "125%"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Simple Machines | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Efficiency = MA/VR × 100 = 4/5 × 100 = 80%."
+  },
+  {
+    "type": "std",
+    "q": "Hooke's law states that the extension of a spring is proportional to the",
+    "opts": [
+      "Applied force",
+      "Mass of the spring",
+      "Length of the spring",
+      "Temperature"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Elasticity | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "F = kx within the elastic limit."
+  },
+  {
+    "type": "std",
+    "q": "Pressure is defined as force per unit",
+    "opts": [
+      "Volume",
+      "Area",
+      "Length",
+      "Mass"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Pressure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Pressure = force/area."
+  },
+  {
+    "type": "std",
+    "q": "A force of 100 N acts on an area of 2 m². The pressure is",
+    "opts": [
+      "200 Pa",
+      "102 Pa",
+      "50 Pa",
+      "98 Pa"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Pressure | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "P = F/A = 100/2 = 50 Pa."
+  },
+  {
+    "type": "std",
+    "q": "The density of a body of mass 100 g and volume 50 cm³ is",
+    "opts": [
+      "5 g/cm³",
+      "0.5 g/cm³",
+      "5000 g/cm³",
+      "2 g/cm³"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Liquids At Rest | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Density = mass/volume = 100/50 = 2 g/cm³."
+  },
+  {
+    "type": "std",
+    "q": "According to Boyle's law, if the pressure of a gas doubles at constant temperature, its volume",
+    "opts": [
+      "Becomes zero",
+      "Doubles",
+      "Stays the same",
+      "Halves"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Gas Laws | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "P1V1 = P2V2; doubling P halves V."
+  },
+  {
+    "type": "std",
+    "q": "The relationship between volume and temperature at constant pressure is given by",
+    "opts": [
+      "Boyle's law",
+      "Hooke's law",
+      "Charles' law",
+      "Ohm's law"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Gas Laws | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Charles' law: V ∝ T at constant pressure."
+  },
+  {
+    "type": "std",
+    "q": "The heat required to raise 2 kg of water by 5 °C (specific heat capacity 4200 J/kg°C) is",
+    "opts": [
+      "42,000 J",
+      "8,400 J",
+      "21,000 J",
+      "4,200 J"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Quantity of Heat | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Q = mcΔT = 2×4200×5 = 42,000 J."
+  },
+  {
+    "type": "std",
+    "q": "The specific latent heat of fusion of ice is about",
+    "opts": [
+      "336,000 J/kg",
+      "100,000 J/kg",
+      "2,260,000 J/kg",
+      "4,200 J/kg"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Change of State | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Ice melts with about 336 kJ per kilogram."
+  },
+  {
+    "type": "std",
+    "q": "The speed of sound in air is approximately",
+    "opts": [
+      "3 × 10⁸ m/s",
+      "1500 m/s",
+      "100 m/s",
+      "343 m/s"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Propagation of Sound Waves | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Sound travels about 343 m/s in air."
+  },
+  {
+    "type": "std",
+    "q": "A wave has a period of 0.5 s. Its frequency is",
+    "opts": [
+      "5 Hz",
+      "20 Hz",
+      "0.5 Hz",
+      "2 Hz"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Waves | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "f = 1/T = 1/0.5 = 2 Hz."
+  },
+  {
+    "type": "std",
+    "q": "A sound wave of speed 340 m/s and frequency 170 Hz has wavelength",
+    "opts": [
+      "0.5 m",
+      "510 m",
+      "2 m",
+      "170 m"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Waves | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "λ = v/f = 340/170 = 2 m."
+  },
+  {
+    "type": "std",
+    "q": "The angle of incidence is always equal to the angle of",
+    "opts": [
+      "Refraction",
+      "Diffraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Reflection of Light at Plane and Curved Surfaces | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The law of reflection: angle in = angle out."
+  },
+  {
+    "type": "std",
+    "q": "The refractive index of a medium is sin i divided by sin",
+    "opts": [
+      "c",
+      "e",
+      "i",
+      "r"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Refraction of Light Through Plane and Curved Surfaces | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "n = sin i / sin r (Snell's law)."
+  },
+  {
+    "type": "std",
+    "q": "A lens of focal length 0.5 m has a power of",
+    "opts": [
+      "0.5 dioptres",
+      "2 dioptres",
+      "5 dioptres",
+      "1 dioptre"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Optical Instruments | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "P = 1/f = 1/0.5 = 2 D."
+  },
+  {
+    "type": "std",
+    "q": "According to Ohm's law, the current through a resistor is voltage divided by",
+    "opts": [
+      "Resistance",
+      "Time",
+      "Power",
+      "Charge"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Current Electricity | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "V = IR, so I = V/R."
+  },
+  {
+    "type": "std",
+    "q": "A current of 2 A flows through a 5 Ω resistor. The voltage across it is",
+    "opts": [
+      "2.5 V",
+      "10 V",
+      "7 V",
+      "0.4 V"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Current Electricity | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "V = IR = 2×5 = 10 V."
+  },
+  {
+    "type": "std",
+    "q": "Two resistors of 2 Ω and 3 Ω in series have a total resistance of",
+    "opts": [
+      "1 Ω",
+      "1.2 Ω",
+      "6 Ω",
+      "5 Ω"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Current Electricity | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Series: R = 2 + 3 = 5 Ω."
+  },
+  {
+    "type": "std",
+    "q": "Two 2 Ω resistors in parallel have a total resistance of",
+    "opts": [
+      "0.5 Ω",
+      "4 Ω",
+      "2 Ω",
+      "1 Ω"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Current Electricity | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "1/R = 1/2 + 1/2 = 1, so R = 1 Ω."
+  },
+  {
+    "type": "std",
+    "q": "The electrical power in a circuit with voltage 10 V and current 2 A is",
+    "opts": [
+      "20 W",
+      "5 W",
+      "12 W",
+      "8 W"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Electrical Energy and Power | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "P = VI = 10×2 = 20 W."
+  },
+  {
+    "type": "std",
+    "q": "The charge that flows when a current of 2 A flows for 5 s is",
+    "opts": [
+      "2.5 C",
+      "7 C",
+      "25 C",
+      "10 C"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Electric Cells | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Q = It = 2×5 = 10 C."
+  },
+  {
+    "type": "std",
+    "q": "The magnetic field around a straight current-carrying wire forms",
+    "opts": [
+      "Squares",
+      "Triangles",
+      "Straight lines",
+      "Concentric circles"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Magnets and Magnetic Fields | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The field lines are circles around the wire."
+  },
+  {
+    "type": "std",
+    "q": "A transformer works with",
+    "opts": [
+      "Direct current only",
+      "Both AC and DC",
+      "Alternating current only",
+      "No current"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Electromagnetic Induction | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Transformers need changing flux, so AC only."
+  },
+  {
+    "type": "std",
+    "q": "The energy of a photon is given by E =",
+    "opts": [
+      "hf",
+      "mc²",
+      "mv²",
+      "qV only"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Elementary Modern Physics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "E = hf, where h is Planck's constant."
+  },
+  {
+    "type": "std",
+    "q": "An alpha particle consists of",
+    "opts": [
+      "1 proton and 1 neutron",
+      "2 electrons",
+      "2 protons and 2 neutrons",
+      "1 proton only"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Elementary Modern Physics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "An alpha particle is a helium-4 nucleus."
+  }
+]

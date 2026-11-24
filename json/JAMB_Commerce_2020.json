@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Commerce is best defined as the study of",
+    "opts": [
+      "Farming methods",
+      "Trade and aids to trade",
+      "Manufacturing only",
+      "Banking only"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Commerce | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Commerce covers trade and the services that aid trade."
+  },
+  {
+    "type": "std",
+    "q": "The main difference between commerce and trade is that commerce includes",
+    "opts": [
+      "Production only",
+      "Consumption only",
+      "Aids to trade",
+      "Farming"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Commerce | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Commerce = trade + aids to trade."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is an aid to trade?",
+    "opts": [
+      "Farming",
+      "Banking",
+      "Mining",
+      "Fishing"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Commerce | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Banking, transport, insurance and advertising aid trade."
+  },
+  {
+    "type": "std",
+    "q": "Direct services are services rendered",
+    "opts": [
+      "Through middlemen",
+      "By machines only",
+      "To manufacturers only",
+      "Directly to consumers"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Occupation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Direct services serve consumers personally."
+  },
+  {
+    "type": "std",
+    "q": "A person who works in a factory is engaged in",
+    "opts": [
+      "Secondary occupation",
+      "Tertiary occupation",
+      "Quaternary occupation",
+      "Primary occupation"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Occupation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Manufacturing is a secondary occupation."
+  },
+  {
+    "type": "std",
+    "q": "Farming, fishing and mining are examples of",
+    "opts": [
+      "Primary occupation",
+      "Tertiary occupation",
+      "Commercial occupation",
+      "Secondary occupation"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Occupation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Extracting raw materials is primary production."
+  },
+  {
+    "type": "std",
+    "q": "The production of goods in large quantities for sale is called",
+    "opts": [
+      "Subsistence production",
+      "Job production",
+      "Batch production",
+      "Mass production"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Production | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Mass production makes goods in large volumes."
+  },
+  {
+    "type": "std",
+    "q": "The reward for labour as a factor of production is",
+    "opts": [
+      "Rent",
+      "Wages",
+      "Interest",
+      "Profit"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Production | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Labour earns wages."
+  },
+  {
+    "type": "std",
+    "q": "The reward for capital is",
+    "opts": [
+      "Rent",
+      "Wages",
+      "Interest",
+      "Profit"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Production | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Capital earns interest."
+  },
+  {
+    "type": "std",
+    "q": "Land as a factor of production earns",
+    "opts": [
+      "Wages",
+      "Interest",
+      "Profit",
+      "Rent"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Production | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Land earns rent."
+  },
+  {
+    "type": "std",
+    "q": "The entrepreneur's reward is",
+    "opts": [
+      "Wages",
+      "Rent",
+      "Interest",
+      "Profit"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Production | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The entrepreneur bears risk and earns profit."
+  },
+  {
+    "type": "std",
+    "q": "Home trade is trade carried on",
+    "opts": [
+      "Within a country",
+      "Between countries",
+      "By sea only",
+      "By air only"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Trade | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Home trade takes place within national borders."
+  },
+  {
+    "type": "std",
+    "q": "Trade between Nigeria and Ghana is",
+    "opts": [
+      "Home trade",
+      "Retail trade",
+      "Foreign trade",
+      "Local trade"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Trade | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Trade across borders is foreign (international) trade."
+  },
+  {
+    "type": "std",
+    "q": "A retailer buys goods from the",
+    "opts": [
+      "Consumer",
+      "Wholesaler",
+      "Producer directly always",
+      "Importer"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Trade | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Retailers usually buy from wholesalers."
+  },
+  {
+    "type": "std",
+    "q": "The wholesaler's main function is to",
+    "opts": [
+      "Sell to final consumers only",
+      "Produce goods",
+      "Advertise goods",
+      "Break bulk for retailers"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Trade | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Wholesalers buy in bulk and sell in smaller lots to retailers."
+  },
+  {
+    "type": "std",
+    "q": "A document sent by a seller to a buyer giving details of goods sold is a/an",
+    "opts": [
+      "Cheque",
+      "Order",
+      "Invoice",
+      "Receipt"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Purchase and Sale of Goods | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "An invoice states the goods sold, prices and terms."
+  },
+  {
+    "type": "std",
+    "q": "A receipt is issued as proof of",
+    "opts": [
+      "Order",
+      "Delivery",
+      "Payment",
+      "Discount"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Purchase and Sale of Goods | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A receipt acknowledges money received."
+  },
+  {
+    "type": "std",
+    "q": "Trade discount is given to encourage",
+    "opts": [
+      "Cash payment",
+      "Credit buying",
+      "Prompt payment",
+      "Bulk buying"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Purchase and Sale of Goods | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Trade discount is allowed on bulk purchases."
+  },
+  {
+    "type": "std",
+    "q": "Cash discount is given for",
+    "opts": [
+      "Bulk buying",
+      "Damaged goods",
+      "Prompt payment",
+      "Late payment"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Purchase and Sale of Goods | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Cash discount rewards quick payment."
+  },
+  {
+    "type": "std",
+    "q": "Transport as an aid to trade helps to",
+    "opts": [
+      "Move goods from producers to consumers",
+      "Store goods",
+      "Advertise goods",
+      "Insure goods"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Aids-to-Trade | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Transport bridges the gap between production and consumption points."
+  },
+  {
+    "type": "std",
+    "q": "Warehousing as an aid to trade provides",
+    "opts": [
+      "Movement of goods",
+      "Storage of goods",
+      "Payment for goods",
+      "Advertisement"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Aids-to-Trade | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Warehouses store goods until needed."
+  },
+  {
+    "type": "std",
+    "q": "Insurance as an aid to trade provides",
+    "opts": [
+      "Cover against risks",
+      "Storage",
+      "Communication",
+      "Transport"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Aids-to-Trade | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Insurance compensates for losses from insured risks."
+  },
+  {
+    "type": "std",
+    "q": "A sole proprietorship is owned and managed by",
+    "opts": [
+      "Two persons",
+      "One person",
+      "Shareholders",
+      "The government"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Business Units | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A sole trader owns and controls the business alone."
+  },
+  {
+    "type": "std",
+    "q": "A partnership in Nigeria must have a minimum of",
+    "opts": [
+      "Two persons",
+      "Seven persons",
+      "Twenty persons",
+      "One person"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Business Units | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A partnership needs at least two people."
+  },
+  {
+    "type": "std",
+    "q": "The liability of shareholders in a limited company is limited to",
+    "opts": [
+      "The company's debts",
+      "The value of their shares",
+      "Nothing",
+      "All their personal property"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Business Units | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Shareholders lose at most what they invested in shares."
+  },
+  {
+    "type": "std",
+    "q": "A public limited company can offer its shares to the",
+    "opts": [
+      "Members only",
+      "Government only",
+      "Workers only",
+      "General public"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Business Units | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Public companies may invite the public to buy shares."
+  },
+  {
+    "type": "std",
+    "q": "A cooperative society is formed mainly to",
+    "opts": [
+      "Avoid tax",
+      "Employ foreigners",
+      "Make maximum profit",
+      "Promote the welfare of members"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Business Units | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Cooperatives serve members' common economic interests."
+  },
+  {
+    "type": "std",
+    "q": "Short-term finance for a business can be obtained through",
+    "opts": [
+      "Debentures",
+      "Sale of fixed assets",
+      "Bank overdraft",
+      "Issue of shares"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Financing Business | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "An overdraft is short-term borrowing from a bank."
+  },
+  {
+    "type": "std",
+    "q": "Long-term finance can be raised by issuing",
+    "opts": [
+      "Shares and debentures",
+      "Bills of exchange",
+      "Trade credit",
+      "Bank overdraft"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Financing Business | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Shares and debentures are long-term sources."
+  },
+  {
+    "type": "std",
+    "q": "The Manufacturers Association of Nigeria is an example of a",
+    "opts": [
+      "Trade union",
+      "Consumer association",
+      "Chamber of commerce",
+      "Trade association"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Trade Associations | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "MAN is an association of manufacturers."
+  },
+  {
+    "type": "std",
+    "q": "Money serves as a medium of exchange because it is",
+    "opts": [
+      "Made of gold",
+      "Printed by banks",
+      "Generally accepted in payment",
+      "Kept in safes"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Money | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "General acceptability makes money a medium of exchange."
+  },
+  {
+    "type": "std",
+    "q": "The central bank in Nigeria is the",
+    "opts": [
+      "First Bank of Nigeria",
+      "Nigeria Deposit Insurance Corporation",
+      "Central Bank of Nigeria",
+      "Federal Ministry of Finance"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Money | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The CBN is Nigeria's central bank."
+  },
+  {
+    "type": "std",
+    "q": "A bull on the stock exchange expects prices to",
+    "opts": [
+      "Fall",
+      "Remain the same",
+      "Rise",
+      "Disappear"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Stock Exchange | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A bull buys expecting prices to rise."
+  },
+  {
+    "type": "std",
+    "q": "Planning in business management involves",
+    "opts": [
+      "Setting objectives and deciding how to achieve them",
+      "Hiring workers only",
+      "Selling goods",
+      "Paying tax"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Elements of Business Management | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Planning sets goals and the means to reach them."
+  },
+  {
+    "type": "std",
+    "q": "Marketing is concerned with",
+    "opts": [
+      "Identifying and satisfying consumer needs",
+      "Producing goods only",
+      "Storing goods only",
+      "Transporting goods only"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Elements of Marketing | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Marketing finds out what consumers want and satisfies it profitably."
+  },
+  {
+    "type": "std",
+    "q": "The four Ps of marketing are product, price, place and",
+    "opts": [
+      "People",
+      "Profit",
+      "Planning",
+      "Promotion"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Elements of Marketing | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The marketing mix is product, price, place, promotion."
+  },
+  {
+    "type": "std",
+    "q": "A contract is an agreement that is",
+    "opts": [
+      "Always written",
+      "Enforceable by law",
+      "Between friends only",
+      "Verbal only"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Legal Aspects of Business | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A contract is a legally binding agreement."
+  },
+  {
+    "type": "std",
+    "q": "A cheque that is crossed can only be paid",
+    "opts": [
+      "Over the counter in cash",
+      "Through a bank account",
+      "By the drawer only",
+      "Abroad"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Money | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Crossing means payment must go through a bank account."
+  },
+  {
+    "type": "std",
+    "q": "The commodity exchange trades mainly in",
+    "opts": [
+      "Shares",
+      "Agricultural produce and raw materials",
+      "Houses",
+      "Vehicles"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Commodity Exchange | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Commodity exchanges trade produce such as cocoa and grains."
+  },
+  {
+    "type": "std",
+    "q": "Social responsibility of business means a business should",
+    "opts": [
+      "Consider the welfare of society",
+      "Maximise profit at all costs",
+      "Avoid paying tax",
+      "Ignore the environment"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Business Environment and Social Responsibility | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Socially responsible firms care for society and the environment."
+  }
+]

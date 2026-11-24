@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The first calculating device used by man was the",
+    "opts": [
+      "Analytical engine",
+      "Abacus",
+      "Slide rule",
+      "Pascaline"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: History of Computing | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The abacus is the earliest known calculating device."
+  },
+  {
+    "type": "std",
+    "q": "The analytical engine was designed by",
+    "opts": [
+      "Blaise Pascal",
+      "Charles Babbage",
+      "John Napier",
+      "Herman Hollerith"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: History of Computing | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Charles Babbage designed the analytical engine."
+  },
+  {
+    "type": "std",
+    "q": "The first generation of computers used",
+    "opts": [
+      "Vacuum tubes",
+      "Transistors",
+      "Integrated circuits",
+      "Microprocessors"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: History of Computing | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "First-generation computers used vacuum tubes."
+  },
+  {
+    "type": "std",
+    "q": "The third generation of computers used",
+    "opts": [
+      "Transistors",
+      "Punched cards",
+      "Integrated circuits",
+      "Vacuum tubes"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: History of Computing | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Third-generation computers used integrated circuits."
+  },
+  {
+    "type": "std",
+    "q": "A microcomputer is also called a",
+    "opts": [
+      "Mainframe",
+      "Supercomputer",
+      "Personal computer",
+      "Minicomputer"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Classification of Computing Devices | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Microcomputers are personal computers."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a supercomputer use?",
+    "opts": [
+      "Typing letters",
+      "Playing music",
+      "Weather forecasting",
+      "Sending email"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Classification of Computing Devices | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Supercomputers handle huge tasks like weather forecasting."
+  },
+  {
+    "type": "std",
+    "q": "The main function of the CPU is to",
+    "opts": [
+      "Store data permanently",
+      "Process data",
+      "Display output",
+      "Connect to the internet"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Overview of Computing Systems | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The CPU processes data and controls the computer."
+  },
+  {
+    "type": "std",
+    "q": "The ALU is the part of the CPU that performs",
+    "opts": [
+      "Storage of programs",
+      "Arithmetic and logical operations",
+      "Input of data",
+      "Display of results"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Overview of Computing Systems | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The Arithmetic and Logic Unit does calculations and comparisons."
+  },
+  {
+    "type": "std",
+    "q": "RAM is best described as",
+    "opts": [
+      "Temporary memory",
+      "Permanent memory",
+      "Read-only memory",
+      "External storage"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Overview of Computing Systems | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "RAM holds data temporarily while the computer is on."
+  },
+  {
+    "type": "std",
+    "q": "ROM is used mainly to store",
+    "opts": [
+      "Videos",
+      "User documents",
+      "Music files",
+      "Startup instructions"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Overview of Computing Systems | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "ROM holds the firmware that starts the computer."
+  },
+  {
+    "type": "std",
+    "q": "Which of these devices is used to enter data into a computer?",
+    "opts": [
+      "Keyboard",
+      "Monitor",
+      "Printer",
+      "Speaker"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Overview of Computing Systems | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A keyboard enters data into the computer."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is an output device?",
+    "opts": [
+      "Mouse",
+      "Scanner",
+      "Keyboard",
+      "Monitor"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Overview of Computing Systems | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A monitor displays processed information."
+  },
+  {
+    "type": "std",
+    "q": "Data that has been processed into a useful form is called",
+    "opts": [
+      "Raw data",
+      "A program",
+      "A file",
+      "Information"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Data and Information | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Processed data is information."
+  },
+  {
+    "type": "std",
+    "q": "One byte is made up of",
+    "opts": [
+      "4 bits",
+      "16 bits",
+      "8 bits",
+      "2 bits"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Data and Information | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A byte equals 8 bits."
+  },
+  {
+    "type": "std",
+    "q": "Microsoft Word is an example of a",
+    "opts": [
+      "Spreadsheet package",
+      "Database package",
+      "Word processing package",
+      "Graphics package"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Word Processing Package | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Word is a word processor."
+  },
+  {
+    "type": "std",
+    "q": "The default file extension of a Microsoft Word document is",
+    "opts": [
+      ".xlsx",
+      ".pptx",
+      ".docx",
+      ".accdb"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Word Processing Package | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Word documents use .docx."
+  },
+  {
+    "type": "std",
+    "q": "In a spreadsheet, the point where a row and a column meet is called a",
+    "opts": [
+      "Table",
+      "Cell",
+      "Field",
+      "Record"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Spreadsheet Package | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A cell is where a row meets a column."
+  },
+  {
+    "type": "std",
+    "q": "The formula =SUM(A1:A5) in a spreadsheet adds the values in",
+    "opts": [
+      "Row 1 only",
+      "Column A only",
+      "Cells A1 to A5",
+      "Cells A1 and A5 only"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Spreadsheet Package | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "SUM(A1:A5) totals cells A1 through A5."
+  },
+  {
+    "type": "std",
+    "q": "A database record is a collection of related",
+    "opts": [
+      "Tables",
+      "Forms",
+      "Fields",
+      "Files"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Database Package | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A record groups related fields about one item."
+  },
+  {
+    "type": "std",
+    "q": "CorelDRAW is an example of a",
+    "opts": [
+      "Word processor",
+      "Graphics package",
+      "Spreadsheet",
+      "Browser"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Graphics Package | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "CorelDRAW is used for graphic design."
+  },
+  {
+    "type": "std",
+    "q": "Microsoft PowerPoint is used mainly for",
+    "opts": [
+      "Presentations",
+      "Programming",
+      "Word processing",
+      "Calculations"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Presentation Package | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "PowerPoint creates slide presentations."
+  },
+  {
+    "type": "std",
+    "q": "The main purpose of HTML is",
+    "opts": [
+      "Writing essays",
+      "Designing web pages",
+      "Editing photos",
+      "Playing videos"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Web Design Package | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "HTML structures web pages."
+  },
+  {
+    "type": "std",
+    "q": "A computer file is a collection of related",
+    "opts": [
+      "Data stored under a name",
+      "Programs only",
+      "Folders only",
+      "Icons"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Concept of Computer Files | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A file is named stored data."
+  },
+  {
+    "type": "std",
+    "q": "The process of starting a computer is called",
+    "opts": [
+      "Shutting down",
+      "Logging off",
+      "Booting",
+      "Formatting"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Booting and Shutting Down Process | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Booting loads the operating system when a computer starts."
+  },
+  {
+    "type": "std",
+    "q": "A virus is a type of",
+    "opts": [
+      "Hardware",
+      "Malicious software",
+      "Operating system",
+      "Input device"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Computer Maintenance | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A computer virus is harmful software."
+  },
+  {
+    "type": "std",
+    "q": "Antivirus software is used to",
+    "opts": [
+      "Speed up the internet",
+      "Detect and remove malware",
+      "Create documents",
+      "Design websites"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Computer Maintenance | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Antivirus programs find and remove malicious software."
+  },
+  {
+    "type": "std",
+    "q": "The internet is best described as a",
+    "opts": [
+      "Software program",
+      "Type of printer",
+      "Single computer",
+      "Global network of computers"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Internet | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The internet links computer networks worldwide."
+  },
+  {
+    "type": "std",
+    "q": "The protocol used to transfer web pages is",
+    "opts": [
+      "FTP",
+      "SMTP",
+      "HTTP",
+      "TCP"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: World Wide Web (WWW) | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "HTTP transfers web pages."
+  },
+  {
+    "type": "std",
+    "q": "An email address must contain the symbol",
+    "opts": [
+      "@",
+      "#",
+      "$",
+      "%"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Electronic Mail | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Email addresses use @ to separate user and domain."
+  },
+  {
+    "type": "std",
+    "q": "A LAN is a network that covers a",
+    "opts": [
+      "Small area such as an office",
+      "Whole country",
+      "Whole world",
+      "Continent"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Networking | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A Local Area Network covers a small area."
+  },
+  {
+    "type": "std",
+    "q": "The device that connects a computer to the internet through a telephone line is a",
+    "opts": [
+      "Printer",
+      "Modem",
+      "Scanner",
+      "Speaker"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Networking | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "A modem converts signals for internet access."
+  },
+  {
+    "type": "std",
+    "q": "Twisted pair cable is an example of a",
+    "opts": [
+      "Network cable",
+      "Power cable",
+      "Printer cable",
+      "Audio cable"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Cables and Connectors | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Twisted pair is a common network cable."
+  },
+  {
+    "type": "std",
+    "q": "Python is an example of a",
+    "opts": [
+      "Assembly language",
+      "Low-level language",
+      "Machine language",
+      "High-level programming language"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: High Level Languages (HLL) | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Python is a high-level language."
+  },
+  {
+    "type": "std",
+    "q": "The first step in program development is",
+    "opts": [
+      "Documentation",
+      "Coding",
+      "Testing",
+      "Problem definition"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Program Development | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Programs begin by defining the problem clearly."
+  },
+  {
+    "type": "std",
+    "q": "A flowchart uses symbols to represent",
+    "opts": [
+      "Hardware parts",
+      "Data only",
+      "Users",
+      "Steps in a process"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Algorithm and Flowcharts | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Flowcharts show the steps of an algorithm with symbols."
+  },
+  {
+    "type": "std",
+    "q": "The SDLC is a framework for",
+    "opts": [
+      "Designing networks",
+      "Typing documents",
+      "Repairing hardware",
+      "Developing information systems"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: System Development Life Cycle (SDLC) | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The System Development Life Cycle guides system development."
+  },
+  {
+    "type": "std",
+    "q": "Artificial intelligence is the ability of machines to",
+    "opts": [
+      "Perform tasks that need human intelligence",
+      "Print documents",
+      "Connect to networks",
+      "Store large data only"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Artificial Intelligence (AI) | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "AI lets machines reason, learn and decide like humans."
+  },
+  {
+    "type": "std",
+    "q": "A robot is a machine that can",
+    "opts": [
+      "Only store data",
+      "Only display images",
+      "Only play sound",
+      "Carry out tasks automatically"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Fundamentals of Robotics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Robots perform tasks automatically, often with sensors."
+  },
+  {
+    "type": "std",
+    "q": "Sharing someone's password with others is",
+    "opts": [
+      "Unethical",
+      "Compulsory",
+      "Safe",
+      "Recommended"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Computer Ethics and Cyber Risks | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Sharing passwords breaks computer ethics."
+  },
+  {
+    "type": "std",
+    "q": "Cyberbullying is the use of digital platforms to",
+    "opts": [
+      "Share news",
+      "Teach students",
+      "Sell goods",
+      "Harass or threaten others"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Computer Ethics and Cyber Risks | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Cyberbullying is online harassment."
+  }
+]

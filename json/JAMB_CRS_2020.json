@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "God created man on the",
+    "opts": [
+      "First day",
+      "Sixth day",
+      "Third day",
+      "Seventh day"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Sovereignty of God | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Man was created on the sixth day (Gen. 1:26-31)."
+  },
+  {
+    "type": "std",
+    "q": "The first man created by God was",
+    "opts": [
+      "Abel",
+      "Cain",
+      "Noah",
+      "Adam"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Sovereignty of God | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Adam was the first man (Gen. 2:7)."
+  },
+  {
+    "type": "std",
+    "q": "God's covenant with Noah was sealed with the sign of the",
+    "opts": [
+      "Sabbath",
+      "Passover",
+      "Rainbow",
+      "Circumcision"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Covenant | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The rainbow was the sign of the covenant with Noah (Gen. 9:13)."
+  },
+  {
+    "type": "std",
+    "q": "The son of Abraham who was offered as a sacrifice was",
+    "opts": [
+      "Isaac",
+      "Ishmael",
+      "Jacob",
+      "Esau"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Covenant | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "God asked Abraham to offer Isaac (Gen. 22)."
+  },
+  {
+    "type": "std",
+    "q": "Joseph was sold by his brothers to the",
+    "opts": [
+      "Philistines",
+      "Amorites",
+      "Hittites",
+      "Ishmaelites"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Divine Providence, Guidance and Protection | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Joseph's brothers sold him to Ishmaelite traders (Gen. 37:28)."
+  },
+  {
+    "type": "std",
+    "q": "Moses fled from Egypt to",
+    "opts": [
+      "Ur",
+      "Babylon",
+      "Midian",
+      "Canaan"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Leadership Qualities | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Moses fled to Midian after killing an Egyptian (Ex. 2:15)."
+  },
+  {
+    "type": "std",
+    "q": "The burning bush experience took place on Mount",
+    "opts": [
+      "Horeb",
+      "Sinai",
+      "Carmel",
+      "Nebo"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Leadership Qualities | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Moses saw the burning bush at Horeb (Ex. 3:1-2)."
+  },
+  {
+    "type": "std",
+    "q": "Israel's first king was",
+    "opts": [
+      "Solomon",
+      "Saul",
+      "Rehoboam",
+      "David"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: A Man After God's Own Heart | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Saul was anointed the first king of Israel (1 Sam. 10)."
+  },
+  {
+    "type": "std",
+    "q": "David defeated Goliath with a",
+    "opts": [
+      "Sling and stone",
+      "Sword",
+      "Spear",
+      "Bow and arrow"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: A Man After God's Own Heart | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "David killed Goliath with a sling and a stone (1 Sam. 17:49-50)."
+  },
+  {
+    "type": "std",
+    "q": "The prophet who anointed David as king was",
+    "opts": [
+      "Samuel",
+      "Nathan",
+      "Elijah",
+      "Elisha"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: A Man After God's Own Heart | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Samuel anointed David (1 Sam. 16:13)."
+  },
+  {
+    "type": "std",
+    "q": "The wisdom of Solomon was shown when he judged between",
+    "opts": [
+      "Two women claiming one baby",
+      "Two prophets",
+      "Two brothers",
+      "Two kings"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Decision-Making | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Solomon's wise ruling settled the dispute of two harlots over a baby (1 Kings 3:16-28)."
+  },
+  {
+    "type": "std",
+    "q": "Ahab coveted the vineyard of",
+    "opts": [
+      "Gehazi",
+      "Naboth",
+      "Nabal",
+      "Uriah"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Greed and Its Effects | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Ahab seized Naboth's vineyard (1 Kings 21)."
+  },
+  {
+    "type": "std",
+    "q": "Gehazi was punished with leprosy because of his",
+    "opts": [
+      "Theft of the ark",
+      "Laziness",
+      "Greed",
+      "Disobedience to Elijah"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Greed and Its Effects | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Gehazi's greed for Naaman's gifts brought leprosy (2 Kings 5:20-27)."
+  },
+  {
+    "type": "std",
+    "q": "Elijah challenged the prophets of Baal on Mount",
+    "opts": [
+      "Sinai",
+      "Zion",
+      "Tabor",
+      "Carmel"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Supremacy of God | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The contest with Baal's prophets was on Mount Carmel (1 Kings 18)."
+  },
+  {
+    "type": "std",
+    "q": "The king who introduced religious reforms in Judah after finding the Book of the Law was",
+    "opts": [
+      "Hezekiah",
+      "Josiah",
+      "Manasseh",
+      "Jehoshaphat"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Religious Reforms in Judah | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Josiah reformed Judah after the Book of the Law was found (2 Kings 22-23)."
+  },
+  {
+    "type": "std",
+    "q": "The prophet who was thrown into the lions' den was",
+    "opts": [
+      "Ezekiel",
+      "Jeremiah",
+      "Hosea",
+      "Daniel"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Faith, Courage and Protection | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Daniel was thrown into the lions' den (Dan. 6)."
+  },
+  {
+    "type": "std",
+    "q": "Jonah was sent by God to preach in",
+    "opts": [
+      "Tarshish",
+      "Nineveh",
+      "Jerusalem",
+      "Damascus"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: God's Message to Nineveh | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "God sent Jonah to Nineveh (Jonah 1:2)."
+  },
+  {
+    "type": "std",
+    "q": "The prophet who married a harlot to illustrate Israel's unfaithfulness was",
+    "opts": [
+      "Amos",
+      "Micah",
+      "Hosea",
+      "Joel"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Social Justice, True Religion and Divine Love | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Hosea married Gomer as a sign of Israel's unfaithfulness (Hosea 1-3)."
+  },
+  {
+    "type": "std",
+    "q": "Isaiah's call to be a prophet is recorded in Isaiah chapter",
+    "opts": [
+      "1",
+      "40",
+      "53",
+      "6"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Holiness and Divine Call | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Isaiah's vision and call are in Isaiah 6."
+  },
+  {
+    "type": "std",
+    "q": "The birth of Jesus was announced to Mary by the angel",
+    "opts": [
+      "Uriel",
+      "Gabriel",
+      "Michael",
+      "Raphael"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Birth and Early Life of Jesus | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Gabriel announced the birth to Mary (Luke 1:26-31)."
+  },
+  {
+    "type": "std",
+    "q": "The town in which Jesus was born is",
+    "opts": [
+      "Nazareth",
+      "Jerusalem",
+      "Capernaum",
+      "Bethlehem"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Birth and Early Life of Jesus | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Jesus was born in Bethlehem (Matt. 2:1)."
+  },
+  {
+    "type": "std",
+    "q": "Jesus was baptised by",
+    "opts": [
+      "Peter",
+      "John the Baptist",
+      "Andrew",
+      "James"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Baptism and Temptation of Jesus | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "John the Baptist baptised Jesus in the Jordan (Matt. 3:13-17)."
+  },
+  {
+    "type": "std",
+    "q": "The first miracle of Jesus was turning water into wine at",
+    "opts": [
+      "Bethany",
+      "Capernaum",
+      "Cana",
+      "Jericho"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Miracles | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The wedding at Cana was Jesus' first miracle (John 2:1-11)."
+  },
+  {
+    "type": "std",
+    "q": "Jesus fed five thousand people with",
+    "opts": [
+      "Five loaves and two fish",
+      "Twelve baskets of bread",
+      "Seven loaves and three fish",
+      "Two loaves and five fish"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Miracles | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Five loaves and two fish fed the five thousand (John 6:9)."
+  },
+  {
+    "type": "std",
+    "q": "The main lesson of the parable of the Good Samaritan is",
+    "opts": [
+      "The need for wealth",
+      "Love for one's neighbour",
+      "Fasting",
+      "Sabbath keeping"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Parables | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The Good Samaritan shows love to a neighbour in need (Luke 10:30-37)."
+  },
+  {
+    "type": "std",
+    "q": "The parable of the prodigal son is found in Luke chapter",
+    "opts": [
+      "15",
+      "10",
+      "18",
+      "21"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Parables | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The prodigal son is in Luke 15:11-32."
+  },
+  {
+    "type": "std",
+    "q": "In the Sermon on the Mount, Jesus taught that the pure in heart shall",
+    "opts": [
+      "Obtain mercy",
+      "Inherit the earth",
+      "See God",
+      "Be comforted"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sermon on the Mount | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Blessed are the pure in heart, for they shall see God (Matt. 5:8)."
+  },
+  {
+    "type": "std",
+    "q": "The twelve disciples were also called",
+    "opts": [
+      "Apostles",
+      "Sadducees",
+      "Scribes",
+      "Pharisees"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Discipleship | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The twelve are called apostles (Luke 6:13)."
+  },
+  {
+    "type": "std",
+    "q": "Peter confessed Jesus as the Christ at",
+    "opts": [
+      "Caesarea Philippi",
+      "Jerusalem",
+      "Capernaum",
+      "Bethlehem"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Great Confession | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Peter's confession was at Caesarea Philippi (Matt. 16:13-16)."
+  },
+  {
+    "type": "std",
+    "q": "The Transfiguration of Jesus took place on a",
+    "opts": [
+      "Boat",
+      "High mountain",
+      "Plain",
+      "Roof"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Transfiguration | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Jesus was transfigured on a high mountain (Matt. 17:1-2)."
+  },
+  {
+    "type": "std",
+    "q": "The Last Supper was eaten during the feast of",
+    "opts": [
+      "Trumpets",
+      "Tabernacles",
+      "Pentecost",
+      "Passover"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Last Supper | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The Last Supper was the Passover meal (Matt. 26:17-19)."
+  },
+  {
+    "type": "std",
+    "q": "Jesus was betrayed by",
+    "opts": [
+      "Peter",
+      "Thomas",
+      "Judas Iscariot",
+      "Matthew"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Trials and the Death of Jesus | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Judas Iscariot betrayed Jesus (Matt. 26:14-16)."
+  },
+  {
+    "type": "std",
+    "q": "Jesus was crucified at a place called",
+    "opts": [
+      "Galilee",
+      "Goshen",
+      "Golgotha",
+      "Gethsemane"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Trials and the Death of Jesus | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Golgotha, the place of the skull, was the crucifixion site (Matt. 27:33)."
+  },
+  {
+    "type": "std",
+    "q": "What happened to Jesus on the third day after His death?",
+    "opts": [
+      "Rose again",
+      "Appeared to Pilate",
+      "Was buried",
+      "Ascended at once"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Resurrection, Appearances and Ascension of Jesus | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Jesus rose on the third day (Luke 24:1-7)."
+  },
+  {
+    "type": "std",
+    "q": "The descent of the Holy Spirit on the disciples took place on",
+    "opts": [
+      "Passover",
+      "Atonement",
+      "Tabernacles",
+      "Pentecost"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: The Holy Spirit and the Mission of the Church | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The Spirit came at Pentecost (Acts 2:1-4)."
+  },
+  {
+    "type": "std",
+    "q": "The first martyr of the early Church was",
+    "opts": [
+      "Barnabas",
+      "James",
+      "Stephen",
+      "Paul"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Opposition to the Gospel Message | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Stephen was stoned, the first martyr (Acts 7:59-60)."
+  },
+  {
+    "type": "std",
+    "q": "Saul's conversion took place on the road leading to",
+    "opts": [
+      "Antioch",
+      "Damascus",
+      "Rome",
+      "Jerusalem"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Mission to the Gentiles | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Saul met the risen Christ on the Damascus road (Acts 9:3-6)."
+  },
+  {
+    "type": "std",
+    "q": "Paul's teaching on justification is that a person is justified by",
+    "opts": [
+      "Works of the law alone",
+      "Circumcision",
+      "Sacrifices",
+      "Faith"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Justification by Faith | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Paul taught justification by faith (Rom. 3:28)."
+  },
+  {
+    "type": "std",
+    "q": "The fruit of the Spirit includes love, joy and",
+    "opts": [
+      "Pride",
+      "Envy",
+      "Anger",
+      "Peace"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: New Life in Christ | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The fruit of the Spirit includes love, joy, peace (Gal. 5:22)."
+  },
+  {
+    "type": "std",
+    "q": "According to Paul, the greatest of faith, hope and love is",
+    "opts": [
+      "Faith",
+      "Hope",
+      "Love",
+      "Knowledge"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Love | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The greatest of these is love (1 Cor. 13:13)."
+  }
+]

@@ -1,1 +1,562 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "If n(A) = 20, n(B) = 15 and n(A ∩ B) = 5, then n(A ∪ B) is",
+    "opts": [
+      "35",
+      "25",
+      "30",
+      "40"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sets | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "n(A∪B) = 20 + 15 - 5 = 30."
+  },
+  {
+    "type": "std",
+    "q": "The value of √12 in surd form is",
+    "opts": [
+      "2√3",
+      "√6",
+      "3√2",
+      "4√3"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Surds | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "√12 = √(4×3) = 2√3."
+  },
+  {
+    "type": "std",
+    "q": "If a * b = a + b + ab, then 2 * 3 equals",
+    "opts": [
+      "5",
+      "6",
+      "13",
+      "11"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Binary Operations | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "2 * 3 = 2 + 3 + (2×3) = 11."
+  },
+  {
+    "type": "std",
+    "q": "The implication p → q is false only when",
+    "opts": [
+      "p and q are both false",
+      "p is false and q is true",
+      "p and q are both true",
+      "p is true and q is false"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Logical Reasoning | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "An implication is false only with true premise and false conclusion."
+  },
+  {
+    "type": "std",
+    "q": "If f(x) = 2x + 3, then f(4) equals",
+    "opts": [
+      "14",
+      "9",
+      "10",
+      "11"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "f(4) = 2(4) + 3 = 11."
+  },
+  {
+    "type": "std",
+    "q": "The inverse of f(x) = 3x - 2 is",
+    "opts": [
+      "(x - 2)/3",
+      "3x + 2",
+      "(x + 2)/3",
+      "(x + 2)/2"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "y = 3x - 2 gives x = (y + 2)/3."
+  },
+  {
+    "type": "std",
+    "q": "The roots of x² - 5x + 6 = 0 are",
+    "opts": [
+      "5 and 6",
+      "1 and 6",
+      "2 and 3",
+      "-2 and -3"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Polynomial Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "x² - 5x + 6 = (x - 2)(x - 3)."
+  },
+  {
+    "type": "std",
+    "q": "The sum of the roots of x² - 5x + 6 = 0 is",
+    "opts": [
+      "-5",
+      "11",
+      "6",
+      "5"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Polynomial Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Sum of roots = -b/a = 5."
+  },
+  {
+    "type": "std",
+    "q": "The equation x² + 4x + 4 = 0 has",
+    "opts": [
+      "Equal real roots",
+      "Distinct real roots",
+      "Imaginary roots",
+      "No roots"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Polynomial Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Discriminant = 16 - 16 = 0, so roots are equal."
+  },
+  {
+    "type": "std",
+    "q": "The roots of x³ - 6x² + 11x - 6 = 0 are",
+    "opts": [
+      "1, 2 and 6",
+      "2, 3 and 6",
+      "1, 2 and 3",
+      "1, 3 and 6"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Polynomial Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "(x-1)(x-2)(x-3) = x³ - 6x² + 11x - 6."
+  },
+  {
+    "type": "std",
+    "q": "The remainder when x² - 3x + 2 is divided by (x - 1) is",
+    "opts": [
+      "1",
+      "0",
+      "2",
+      "-1"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Polynomial Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "By the remainder theorem, f(1) = 1 - 3 + 2 = 0."
+  },
+  {
+    "type": "std",
+    "q": "If 2^x = 32, then x equals",
+    "opts": [
+      "4",
+      "5",
+      "6",
+      "16"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Indices and Logarithmic Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "32 = 2^5, so x = 5."
+  },
+  {
+    "type": "std",
+    "q": "The value of log10 1000 is",
+    "opts": [
+      "10",
+      "2",
+      "4",
+      "3"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Indices and Logarithmic Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "10³ = 1000, so log10 1000 = 3."
+  },
+  {
+    "type": "std",
+    "q": "The value of log2 8 is",
+    "opts": [
+      "8",
+      "2",
+      "3",
+      "4"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Indices and Logarithmic Functions | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "2³ = 8, so log2 8 = 3."
+  },
+  {
+    "type": "std",
+    "q": "The value of 5P2 is",
+    "opts": [
+      "25",
+      "20",
+      "15",
+      "10"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Permutation and Combination | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "5P2 = 5×4 = 20."
+  },
+  {
+    "type": "std",
+    "q": "The value of 5C2 is",
+    "opts": [
+      "20",
+      "10",
+      "15",
+      "25"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Permutation and Combination | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "5C2 = 5!/(2!3!) = 10."
+  },
+  {
+    "type": "std",
+    "q": "In the expansion of (1 + x)³, the coefficient of x² is",
+    "opts": [
+      "3",
+      "2",
+      "6",
+      "1"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Binomial Theorem | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "C(3,2) = 3."
+  },
+  {
+    "type": "std",
+    "q": "In an arithmetic progression with first term 3 and common difference 4, the 5th term is",
+    "opts": [
+      "15",
+      "23",
+      "19",
+      "11"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sequences and Series | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "T5 = 3 + 4×4 = 19."
+  },
+  {
+    "type": "std",
+    "q": "The sum of the first 10 natural numbers is",
+    "opts": [
+      "55",
+      "50",
+      "45",
+      "100"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sequences and Series | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "S = 10×11/2 = 55."
+  },
+  {
+    "type": "std",
+    "q": "In the geometric progression 2, 6, 18, ..., the 4th term is",
+    "opts": [
+      "54",
+      "36",
+      "72",
+      "108"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sequences and Series | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Common ratio 3; T4 = 2×3³ = 54."
+  },
+  {
+    "type": "std",
+    "q": "The sum to infinity of 8 + 4 + 2 + ... is",
+    "opts": [
+      "14",
+      "12",
+      "16",
+      "24"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Sequences and Series | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "S = a/(1-r) = 8/(1-1/2) = 16."
+  },
+  {
+    "type": "std",
+    "q": "The determinant of the matrix [[2, 1], [3, 4]] is",
+    "opts": [
+      "2",
+      "5",
+      "11",
+      "8"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Matrices and Linear Transformation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "det = 2×4 - 1×3 = 5."
+  },
+  {
+    "type": "std",
+    "q": "The inverse of the matrix [[2, 0], [0, 2]] is",
+    "opts": [
+      "[[2, 0], [0, 2]]",
+      "[[1/2, 0], [0, 1/2]]",
+      "[[0, 2], [2, 0]]",
+      "[[1, 0], [0, 1]]"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Matrices and Linear Transformation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The inverse of 2I is (1/2)I."
+  },
+  {
+    "type": "std",
+    "q": "The value of sin 30° is",
+    "opts": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Trigonometry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "sin 30° = 1/2."
+  },
+  {
+    "type": "std",
+    "q": "The value of cos 60° is",
+    "opts": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Trigonometry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "cos 60° = 1/2."
+  },
+  {
+    "type": "std",
+    "q": "The value of tan 45° is",
+    "opts": [
+      "0",
+      "1",
+      "√3",
+      "1/2"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Trigonometry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "tan 45° = 1."
+  },
+  {
+    "type": "std",
+    "q": "For any angle θ, sin²θ + cos²θ equals",
+    "opts": [
+      "1",
+      "0",
+      "2",
+      "tan θ"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Trigonometry | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "The fundamental identity: sin²θ + cos²θ = 1."
+  },
+  {
+    "type": "std",
+    "q": "The derivative of x³ with respect to x is",
+    "opts": [
+      "3x²",
+      "x³",
+      "x²",
+      "3x"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Differentiation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "d/dx(x³) = 3x²."
+  },
+  {
+    "type": "std",
+    "q": "The derivative of x² + 3x with respect to x is",
+    "opts": [
+      "2x",
+      "2x + 3",
+      "x + 3",
+      "3x²"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Differentiation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "d/dx(x² + 3x) = 2x + 3."
+  },
+  {
+    "type": "std",
+    "q": "The stationary point of y = x² - 4x + 3 occurs at x =",
+    "opts": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Differentiation | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "dy/dx = 2x - 4 = 0 gives x = 2."
+  },
+  {
+    "type": "std",
+    "q": "The integral of 2x dx is",
+    "opts": [
+      "2x² + c",
+      "x + c",
+      "2 + c",
+      "x² + c"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Integration | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "∫2x dx = x² + c."
+  },
+  {
+    "type": "std",
+    "q": "The integral of x² dx is",
+    "opts": [
+      "x³ + c",
+      "x³/3 + c",
+      "3x² + c",
+      "2x + c"
+    ],
+    "ans": 1,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Integration | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "∫x² dx = x³/3 + c."
+  },
+  {
+    "type": "std",
+    "q": "The magnitude of the vector 3i + 4j is",
+    "opts": [
+      "5",
+      "7",
+      "12",
+      "25"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Vectors | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "|3i + 4j| = √(9 + 16) = 5."
+  },
+  {
+    "type": "std",
+    "q": "If a = 2i + j and b = i + 3j, then a + b equals",
+    "opts": [
+      "i + 4j",
+      "3i + 2j",
+      "2i + 3j",
+      "3i + 4j"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Vectors | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "(2+1)i + (1+3)j = 3i + 4j."
+  },
+  {
+    "type": "std",
+    "q": "A force of 6 N acts on a mass of 2 kg. The acceleration is",
+    "opts": [
+      "3 m/s²",
+      "12 m/s²",
+      "2 m/s²",
+      "8 m/s²"
+    ],
+    "ans": 0,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Mechanics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "a = F/m = 6/2 = 3 m/s²."
+  },
+  {
+    "type": "std",
+    "q": "Work done by a force of 10 N moving an object 5 m in the direction of the force is",
+    "opts": [
+      "15 J",
+      "2 J",
+      "500 J",
+      "50 J"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Mechanics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "Work = force × distance = 10 × 5 = 50 J."
+  },
+  {
+    "type": "std",
+    "q": "The mean of 2, 4, 6 and 8 is",
+    "opts": [
+      "4",
+      "6",
+      "10",
+      "5"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Statistics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "(2+4+6+8)/4 = 20/4 = 5."
+  },
+  {
+    "type": "std",
+    "q": "Find the mode of the data 1, 2, 2, 3, 4",
+    "opts": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Statistics | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "2 occurs most often."
+  },
+  {
+    "type": "std",
+    "q": "The probability of getting a head in a toss of a fair coin is",
+    "opts": [
+      "1/3",
+      "1/4",
+      "1",
+      "1/2"
+    ],
+    "ans": 3,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Probability | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "One favourable outcome out of two."
+  },
+  {
+    "type": "std",
+    "q": "The probability of throwing a 6 with a fair die is",
+    "opts": [
+      "1/2",
+      "1/3",
+      "1/6",
+      "1/5"
+    ],
+    "ans": 2,
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the JAMB syllabus for this subject, not the official 2020 paper | Syllabus topic: Probability | Adapted by topic/pattern from JAMB 2021-2025 past questions in repo (wording changed, not copied verbatim)",
+    "explanation": "One favourable outcome out of six."
+  }
+]
