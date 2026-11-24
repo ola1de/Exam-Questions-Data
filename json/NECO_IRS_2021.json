@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The Hajj takes place in the month of:",
+    "opts": [
+      "Muharram",
+      "Dhul-Hijjah",
+      "Ramadan",
+      "Shawwal"
+    ],
+    "ans": 1,
+    "explanation": "Hajj is in Dhul-Hijjah.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Five Pillars",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the messengers sent by Allah to guide mankind?",
+    "opts": [
+      "the holy books",
+      "the prophets",
+      "Tawhid",
+      "the angels"
+    ],
+    "ans": 1,
+    "explanation": "the messengers sent by Allah to guide mankind describes the prophets.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Articles of Faith",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Salat?",
+    "opts": [
+      "the five daily prayers in Islam",
+      "the declaration of faith that there is no god but Allah and Muhammad is His messenger",
+      "the compulsory almsgiving of a portion of one's wealth to the poor",
+      "the fasting observed during the month of Ramadan"
+    ],
+    "ans": 0,
+    "explanation": "Salat is the five daily prayers in Islam.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Pillars of Islam",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Surah Maryam is chapter number:",
+    "opts": [
+      "Al-Fatihah",
+      "Al-Ikhlas",
+      "19",
+      "Al-Baqarah"
+    ],
+    "ans": 2,
+    "explanation": "Surah Maryam is chapter 19 of the Qur'an.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Qur'an",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Surah Al-Falaq is chapter number:",
+    "opts": [
+      "Al-Baqarah",
+      "113",
+      "Al-Fatihah",
+      "Al-Ikhlas"
+    ],
+    "ans": 1,
+    "explanation": "Surah Al-Falaq is chapter 113 of the Qur'an.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Qur'an",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Qur'an was compiled into a single book during the caliphate of:",
+    "opts": [
+      "Uthman",
+      "Ali",
+      "Umar",
+      "Abu Bakr"
+    ],
+    "ans": 3,
+    "explanation": "The compilation began under Abu Bakr and was standardised under Uthman.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Islamic History",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the compulsory almsgiving of a portion of one's wealth to the poor?",
+    "opts": [
+      "Salat",
+      "Zakat",
+      "Shahada",
+      "Sawm"
+    ],
+    "ans": 1,
+    "explanation": "the compulsory almsgiving of a portion of one's wealth to the poor describes Zakat.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Pillars of Islam",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the prophet who was willing to sacrifice his son in obedience to Allah?",
+    "opts": [
+      "Adam",
+      "Ibrahim",
+      "Musa",
+      "Nuh"
+    ],
+    "ans": 1,
+    "explanation": "the prophet who was willing to sacrifice his son in obedience to Allah describes Ibrahim.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Prophets",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Ibrahim?",
+    "opts": [
+      "the prophet to whom the Torah was revealed and who led the Israelites out of Egypt",
+      "the prophet who built the ark to save believers from the flood",
+      "the first man and first prophet in Islam",
+      "the prophet who was willing to sacrifice his son in obedience to Allah"
+    ],
+    "ans": 3,
+    "explanation": "Ibrahim is the prophet who was willing to sacrifice his son in obedience to Allah.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Prophets",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Marriage in Islam is called:",
+    "opts": [
+      "Khul",
+      "Talaq",
+      "Nikah",
+      "Mahr"
+    ],
+    "ans": 2,
+    "explanation": "Nikah is the marriage contract.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fiqh",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Eid al-Fitr comes after:",
+    "opts": [
+      "Shawwal only",
+      "Ramadan",
+      "Muharram",
+      "Hajj"
+    ],
+    "ans": 1,
+    "explanation": "Eid al-Fitr marks the end of Ramadan.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fiqh",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The prophet who received the Injil was:",
+    "opts": [
+      "Muhammad",
+      "Dawud",
+      "Musa",
+      "Isa (Jesus)"
+    ],
+    "ans": 3,
+    "explanation": "Isa received the Injil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Prophets",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Salat is the:",
+    "opts": [
+      "five daily prayers",
+      "annual fast",
+      "alms tax",
+      "pilgrimage"
+    ],
+    "ans": 0,
+    "explanation": "Salat is prayer, performed five times daily.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Five Pillars",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Friday sermon is called the:",
+    "opts": [
+      "Khutbah",
+      "Tasbih",
+      "Iqamah",
+      "Adhan"
+    ],
+    "ans": 0,
+    "explanation": "The Khutbah is the sermon before Jumu'ah prayer.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fiqh",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The opening chapter of the Qur'an is:",
+    "opts": [
+      "Surah Al-Ikhlas",
+      "Surah An-Nas",
+      "Surah Al-Fatihah",
+      "Surah Al-Baqarah"
+    ],
+    "ans": 2,
+    "explanation": "Al-Fatihah opens the Qur'an.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Qur'an",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Shahada?",
+    "opts": [
+      "the five daily prayers in Islam",
+      "the compulsory almsgiving of a portion of one's wealth to the poor",
+      "the fasting observed during the month of Ramadan",
+      "the declaration of faith that there is no god but Allah and Muhammad is His messenger"
+    ],
+    "ans": 3,
+    "explanation": "Shahada is the declaration of faith that there is no god but Allah and Muhammad is His messenger.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Pillars of Islam",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The call to prayer is the:",
+    "opts": [
+      "Iqamah",
+      "Adhan",
+      "Tasbih",
+      "Khutbah"
+    ],
+    "ans": 1,
+    "explanation": "The Adhan calls Muslims to prayer.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fiqh",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Excellence in worship as if seeing Allah is:",
+    "opts": [
+      "Islam",
+      "Taqwa",
+      "Iman",
+      "Ihsan"
+    ],
+    "ans": 3,
+    "explanation": "Ihsan is worshipping as though you see Allah.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Islamic Morality",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the festival of sacrifice during Hajj?",
+    "opts": [
+      "Ramadan",
+      "Eid al-Adha",
+      "Eid al-Fitr",
+      "wudu"
+    ],
+    "ans": 1,
+    "explanation": "the festival of sacrifice during Hajj describes Eid al-Adha.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Practices and Worship",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The fast of Ramadan begins at:",
+    "opts": [
+      "dawn (Fajr)",
+      "sunrise",
+      "sunset",
+      "noon"
+    ],
+    "ans": 0,
+    "explanation": "The fast starts at dawn.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Five Pillars",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The three categories of Tawhid are Rububiyyah, Uluhiyyah and:",
+    "opts": [
+      "Asma wa Sifat",
+      "Islam",
+      "Iman",
+      "Ihsan"
+    ],
+    "ans": 0,
+    "explanation": "Tawhid covers Lordship, Worship and Names/Attributes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Tawhid",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the Battle of Uhud?",
+    "opts": [
+      "the battle fought in 625 CE in which the Muslims suffered a setback",
+      "the peace agreement between the Muslims and the Quraysh in 628 CE",
+      "the first major battle of the Muslims, fought in 624 CE",
+      "the migration of the Prophet Muhammad from Makkah to Madinah in 622 CE"
+    ],
+    "ans": 0,
+    "explanation": "the Battle of Uhud is the battle fought in 625 CE in which the Muslims suffered a setback.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Islamic History",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Patience in Islam is called:",
+    "opts": [
+      "Taqwa",
+      "Sabr",
+      "Ihsan",
+      "Shukr"
+    ],
+    "ans": 1,
+    "explanation": "Sabr is patience in hardship and obedience.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Islamic Morality",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Qur'an was revealed to Prophet Muhammad (SAW) through Angel:",
+    "opts": [
+      "Israfil",
+      "Jibril (Gabriel)",
+      "Malik",
+      "Mikail"
+    ],
+    "ans": 1,
+    "explanation": "Jibril brought the revelation to the Prophet.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Qur'an",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The night prayer is:",
+    "opts": [
+      "Isha",
+      "Fajr",
+      "Maghrib",
+      "Zuhr"
+    ],
+    "ans": 0,
+    "explanation": "Isha is the night prayer.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Five Pillars",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The first mosque built in Islam was:",
+    "opts": [
+      "the Prophet's Mosque",
+      "the Ka'bah",
+      "Quba Mosque",
+      "Al-Aqsa"
+    ],
+    "ans": 2,
+    "explanation": "Quba was the first mosque built by the Prophet on arrival in Madinah.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Islamic History",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Prophet Muhammad (SAW) died in:",
+    "opts": [
+      "632 CE",
+      "570 CE",
+      "610 CE",
+      "622 CE"
+    ],
+    "ans": 0,
+    "explanation": "The Prophet died in Madinah in 632 CE (11 AH).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Prophets",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The prophet who spoke to Allah on Mount Sinai was:",
+    "opts": [
+      "Muhammad",
+      "Ibrahim",
+      "Isa",
+      "Musa (Moses)"
+    ],
+    "ans": 3,
+    "explanation": "Musa spoke with Allah on Mount Sinai.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Prophets",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Battle of Uhud took place in:",
+    "opts": [
+      "630 CE",
+      "624 CE",
+      "625 CE",
+      "627 CE"
+    ],
+    "ans": 2,
+    "explanation": "Uhud was fought in 3 AH (625 CE).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Islamic History",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The first human was created from:",
+    "opts": [
+      "clay",
+      "water",
+      "light",
+      "fire"
+    ],
+    "ans": 0,
+    "explanation": "Adam was created from clay.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Tawhid",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Zakat?",
+    "opts": [
+      "the fasting observed during the month of Ramadan",
+      "the declaration of faith that there is no god but Allah and Muhammad is His messenger",
+      "the five daily prayers in Islam",
+      "the compulsory almsgiving of a portion of one's wealth to the poor"
+    ],
+    "ans": 3,
+    "explanation": "Zakat is the compulsory almsgiving of a portion of one's wealth to the poor.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Pillars of Islam",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the second caliph, known for justice and the expansion of Islam?",
+    "opts": [
+      "Umar",
+      "the Hijra",
+      "the Battle of Uhud",
+      "the Battle of Badr"
+    ],
+    "ans": 0,
+    "explanation": "the second caliph, known for justice and the expansion of Islam describes Umar.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Islamic History",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The first revealed words were:",
+    "opts": [
+      "'Give'",
+      "'Pray'",
+      "'Iqra' (Read)",
+      "'Fast'"
+    ],
+    "ans": 2,
+    "explanation": "The first revelation began 'Iqra bismi Rabbik' (Q 96:1).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Qur'an",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The six most authentic Hadith collections are called:",
+    "opts": [
+      "Musnad",
+      "Muwatta",
+      "Kutub al-Sittah",
+      "Sahihayn"
+    ],
+    "ans": 2,
+    "explanation": "Kutub al-Sittah are the six books.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Hadith",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The two Eid festivals are Eid al-Fitr and:",
+    "opts": [
+      "Eid al-Jumu'ah",
+      "Eid al-Mawlid",
+      "Eid al-Hajj",
+      "Eid al-Adha"
+    ],
+    "ans": 3,
+    "explanation": "The two Eids are Fitr and Adha.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fiqh",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the five daily prayers in Islam?",
+    "opts": [
+      "Shahada",
+      "Sawm",
+      "Salat",
+      "Zakat"
+    ],
+    "ans": 2,
+    "explanation": "the five daily prayers in Islam describes Salat.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Pillars of Islam",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Hajj is obligatory on Muslims who are:",
+    "opts": [
+      "scholars only",
+      "old only",
+      "rich only",
+      "physically and financially able"
+    ],
+    "ans": 3,
+    "explanation": "Hajj is required of those who can afford it and are able.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "The Five Pillars",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes wudu?",
+    "opts": [
+      "the festival marking the end of Ramadan",
+      "the festival of sacrifice during Hajj",
+      "the ninth month of the Islamic calendar, observed with fasting",
+      "the ritual ablution performed before prayer"
+    ],
+    "ans": 3,
+    "explanation": "wudu is the ritual ablution performed before prayer.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Practices and Worship",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the place of worship for Muslims?",
+    "opts": [
+      "wudu",
+      "Eid al-Fitr",
+      "the mosque",
+      "Ramadan"
+    ],
+    "ans": 2,
+    "explanation": "the place of worship for Muslims describes the mosque.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Practices and Worship",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the battle fought in 625 CE in which the Muslims suffered a setback?",
+    "opts": [
+      "the Hijra",
+      "the Treaty of Hudaybiyyah",
+      "the Battle of Uhud",
+      "the Battle of Badr"
+    ],
+    "ans": 2,
+    "explanation": "the battle fought in 625 CE in which the Muslims suffered a setback describes the Battle of Uhud.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Islamic History",
+    "adapted_from": "Repo JAMB_IRS_2024.json / NECO_IRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

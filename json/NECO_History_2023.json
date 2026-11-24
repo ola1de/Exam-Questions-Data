@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1861?",
+    "opts": [
+      "Nigeria became a republic",
+      "The Lagos colony was annexed by Britain",
+      "The Sokoto Jihad began",
+      "Nigeria gained independence"
+    ],
+    "ans": 1,
+    "explanation": "The Lagos colony was annexed by Britain happened in 1861.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the Nigerian republic?",
+    "opts": [
+      "the first President of Nigeria and leader of the NCNC",
+      "the Nigerian nationalist known as the father of Nigerian nationalism",
+      "the status Nigeria attained on 1 October 1963",
+      "the leader of the Action Group and first Premier of the Western Region"
+    ],
+    "ans": 2,
+    "explanation": "the Nigerian republic is the status Nigeria attained on 1 October 1963.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nationalists and Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the war of 1967 to 1970 between the Federal Government and Biafra?",
+    "opts": [
+      "Herbert Macaulay",
+      "Nnamdi Azikiwe",
+      "the Nigerian Civil War",
+      "Obafemi Awolowo"
+    ],
+    "ans": 2,
+    "explanation": "the war of 1967 to 1970 between the Federal Government and Biafra describes the Nigerian Civil War.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nationalists and Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Berlin Conference partitioned Africa?",
+    "opts": [
+      "1963",
+      "1804",
+      "1884",
+      "1960"
+    ],
+    "ans": 2,
+    "explanation": "The Berlin Conference partitioned Africa happened in 1884.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Nigeria's capital was moved from Lagos to Abuja in:",
+    "opts": [
+      "1991",
+      "1999",
+      "1983",
+      "1979"
+    ],
+    "ans": 0,
+    "explanation": "The seat of government moved to Abuja in December 1991.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Post-Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Second Republic began?",
+    "opts": [
+      "1963",
+      "1979",
+      "1804",
+      "1960"
+    ],
+    "ans": 1,
+    "explanation": "The Second Republic began happened in 1979.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1807?",
+    "opts": [
+      "The Atlantic slave trade was abolished by Britain",
+      "The Sokoto Jihad began",
+      "Nigeria became a republic",
+      "Nigeria gained independence"
+    ],
+    "ans": 0,
+    "explanation": "The Atlantic slave trade was abolished by Britain happened in 1807.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1914?",
+    "opts": [
+      "Nigeria became a republic",
+      "The Sokoto Jihad began",
+      "The First World War began",
+      "Nigeria gained independence"
+    ],
+    "ans": 2,
+    "explanation": "The First World War began happened in 1914.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "General Murtala Mohammed ruled from:",
+    "opts": [
+      "1966 to 1975",
+      "1983 to 1985",
+      "1976 to 1979",
+      "1975 to 1976"
+    ],
+    "ans": 3,
+    "explanation": "Murtala ruled from July 1975 until his assassination in February 1976.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Military Rule",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The League of Nations was replaced by the:",
+    "opts": [
+      "African Union",
+      "United Nations",
+      "European Union",
+      "Commonwealth"
+    ],
+    "ans": 1,
+    "explanation": "The UN was founded in 1945 to replace the League.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "General Olusegun Obasanjo handed power to civilians in:",
+    "opts": [
+      "1976",
+      "1993",
+      "1979",
+      "1983"
+    ],
+    "ans": 2,
+    "explanation": "Obasanjo handed over to Shagari in 1979.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Military Rule",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the constitution that introduced regional councils in Nigeria?",
+    "opts": [
+      "the amalgamation of 1914",
+      "the Richards Constitution of 1946",
+      "indirect rule",
+      "the Clifford Constitution of 1922"
+    ],
+    "ans": 1,
+    "explanation": "the constitution that introduced regional councils in Nigeria describes the Richards Constitution of 1946.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Colonial Nigeria",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Nigeria joined the United Nations in:",
+    "opts": [
+      "1945",
+      "1970",
+      "1963",
+      "1960"
+    ],
+    "ans": 3,
+    "explanation": "Nigeria joined the UN in 1960, the year of independence.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Post-Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1796?",
+    "opts": [
+      "The Sokoto Jihad began",
+      "Mungo Park reached the River Niger",
+      "Nigeria became a republic",
+      "Nigeria gained independence"
+    ],
+    "ans": 1,
+    "explanation": "Mungo Park reached the River Niger happened in 1796.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Nigerian Civil War began?",
+    "opts": [
+      "1967",
+      "1963",
+      "1960",
+      "1804"
+    ],
+    "ans": 0,
+    "explanation": "The Nigerian Civil War began happened in 1967.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Nigeria joined the Commonwealth in:",
+    "opts": [
+      "1963",
+      "1945",
+      "1960",
+      "1970"
+    ],
+    "ans": 2,
+    "explanation": "Nigeria joined the Commonwealth at independence.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Post-Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The leader of Biafra during the Civil War was:",
+    "opts": [
+      "Yakubu Gowon",
+      "Nnamdi Azikiwe",
+      "Obafemi Awolowo",
+      "Odumegwu Ojukwu"
+    ],
+    "ans": 3,
+    "explanation": "Ojukwu declared the Republic of Biafra.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Military Rule",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: Nigeria gained independence?",
+    "opts": [
+      "1804",
+      "1960",
+      "1884",
+      "1963"
+    ],
+    "ans": 1,
+    "explanation": "Nigeria gained independence happened in 1960.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the Nigerian nationalist known as the father of Nigerian nationalism?",
+    "opts": [
+      "Herbert Macaulay",
+      "Nnamdi Azikiwe",
+      "Obafemi Awolowo",
+      "Ahmadu Bello"
+    ],
+    "ans": 0,
+    "explanation": "the Nigerian nationalist known as the father of Nigerian nationalism describes Herbert Macaulay.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nationalists and Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many years after The Sokoto Jihad began (1804) did Nigeria gained independence (1960) happen?",
+    "opts": [
+      "151 years",
+      "166 years",
+      "161 years",
+      "156 years"
+    ],
+    "ans": 3,
+    "explanation": "1960 - 1804 = 156 years.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The First World War ended?",
+    "opts": [
+      "1918",
+      "1963",
+      "1960",
+      "1804"
+    ],
+    "ans": 0,
+    "explanation": "The First World War ended happened in 1918.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Nok culture flourished in present-day:",
+    "opts": [
+      "Ghana",
+      "southern Nigeria",
+      "Mali",
+      "northern Nigeria"
+    ],
+    "ans": 3,
+    "explanation": "Nok sites are in the Jos area of northern Nigeria.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Early Civilisations",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the Islamic state founded by Usman dan Fodio after the jihad of 1804?",
+    "opts": [
+      "the Oyo Empire",
+      "the Benin Empire",
+      "the Sokoto Caliphate",
+      "Kanem-Bornu"
+    ],
+    "ans": 2,
+    "explanation": "the Islamic state founded by Usman dan Fodio after the jihad of 1804 describes the Sokoto Caliphate.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Pre-Colonial Nigeria",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the joining of the Northern and Southern Protectorates of Nigeria by Lord Lugard?",
+    "opts": [
+      "the Richards Constitution of 1946",
+      "the amalgamation of 1914",
+      "indirect rule",
+      "the Clifford Constitution of 1922"
+    ],
+    "ans": 1,
+    "explanation": "the joining of the Northern and Southern Protectorates of Nigeria by Lord Lugard describes the amalgamation of 1914.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Colonial Nigeria",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1929?",
+    "opts": [
+      "The Sokoto Jihad began",
+      "Nigeria became a republic",
+      "Nigeria gained independence",
+      "The Aba Women's Riot"
+    ],
+    "ans": 3,
+    "explanation": "The Aba Women's Riot happened in 1929.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Berlin Wall fell?",
+    "opts": [
+      "1804",
+      "1989",
+      "1960",
+      "1963"
+    ],
+    "ans": 1,
+    "explanation": "The Berlin Wall fell happened in 1989.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the trans-Saharan trade?",
+    "opts": [
+      "the trade across the Sahara linking West Africa with North Africa",
+      "an Edo kingdom famous for its bronze art and the Oba's palace",
+      "the Islamic state founded by Usman dan Fodio after the jihad of 1804",
+      "a powerful Yoruba empire that flourished in the 17th and 18th centuries"
+    ],
+    "ans": 0,
+    "explanation": "the trans-Saharan trade is the trade across the Sahara linking West Africa with North Africa.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Pre-Colonial Nigeria",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "General Yakubu Gowon ruled Nigeria from:",
+    "opts": [
+      "1976 to 1979",
+      "1975 to 1976",
+      "1960 to 1966",
+      "1966 to 1975"
+    ],
+    "ans": 3,
+    "explanation": "Gowon was Head of State from 1966 to 1975.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Military Rule",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Herbert Macaulay?",
+    "opts": [
+      "the Sardauna of Sokoto and first Premier of the Northern Region",
+      "the first President of Nigeria and leader of the NCNC",
+      "the leader of the Action Group and first Premier of the Western Region",
+      "the Nigerian nationalist known as the father of Nigerian nationalism"
+    ],
+    "ans": 3,
+    "explanation": "Herbert Macaulay is the Nigerian nationalist known as the father of Nigerian nationalism.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nationalists and Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Egba United Government was formed?",
+    "opts": [
+      "1865",
+      "1804",
+      "1960",
+      "1963"
+    ],
+    "ans": 0,
+    "explanation": "The Egba United Government was formed happened in 1865.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the leader of the Action Group and first Premier of the Western Region?",
+    "opts": [
+      "Ahmadu Bello",
+      "Obafemi Awolowo",
+      "Nnamdi Azikiwe",
+      "Herbert Macaulay"
+    ],
+    "ans": 1,
+    "explanation": "the leader of the Action Group and first Premier of the Western Region describes Obafemi Awolowo.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nationalists and Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1939?",
+    "opts": [
+      "Nigeria became a republic",
+      "The Sokoto Jihad began",
+      "Nigeria gained independence",
+      "The Second World War began"
+    ],
+    "ans": 3,
+    "explanation": "The Second World War began happened in 1939.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Nigerian Youth Movement was formed in:",
+    "opts": [
+      "1934",
+      "1951",
+      "1944",
+      "1923"
+    ],
+    "ans": 0,
+    "explanation": "The Nigerian Youth Movement was formed in 1934.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nationalism",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Sokoto Jihad began?",
+    "opts": [
+      "1884",
+      "1804",
+      "1963",
+      "1960"
+    ],
+    "ans": 1,
+    "explanation": "The Sokoto Jihad began happened in 1804.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: Usman dan Fodio founded the Sokoto Caliphate?",
+    "opts": [
+      "1804",
+      "1884",
+      "1963",
+      "1960"
+    ],
+    "ans": 0,
+    "explanation": "Usman dan Fodio founded the Sokoto Caliphate happened in 1804.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The first Nigerian political party, the NNDP, was founded by:",
+    "opts": [
+      "Nnamdi Azikiwe",
+      "Ahmadu Bello",
+      "Herbert Macaulay",
+      "Obafemi Awolowo"
+    ],
+    "ans": 2,
+    "explanation": "Herbert Macaulay founded the NNDP in 1923.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nationalism",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1804?",
+    "opts": [
+      "Nigeria became a republic",
+      "Nigeria gained independence",
+      "The Sokoto Jihad began",
+      "The Berlin Conference partitioned Africa"
+    ],
+    "ans": 2,
+    "explanation": "The Sokoto Jihad began happened in 1804.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Richards Constitution was introduced?",
+    "opts": [
+      "1946",
+      "1804",
+      "1960",
+      "1963"
+    ],
+    "ans": 0,
+    "explanation": "The Richards Constitution was introduced happened in 1946.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The British conquest of Benin?",
+    "opts": [
+      "1963",
+      "1804",
+      "1960",
+      "1897"
+    ],
+    "ans": 3,
+    "explanation": "The British conquest of Benin happened in 1897.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many years after The OAU was founded (1963) did The African Union replaced the OAU (2002) happen?",
+    "opts": [
+      "44 years",
+      "34 years",
+      "39 years",
+      "49 years"
+    ],
+    "ans": 2,
+    "explanation": "2002 - 1963 = 39 years.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

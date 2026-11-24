@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'mage' a Turanci?",
+    "opts": [
+      "house",
+      "cat",
+      "water",
+      "food"
+    ],
+    "ans": 1,
+    "explanation": "'mage' a Turanci shi ne 'cat'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'mai' a Turanci?",
+    "opts": [
+      "oil",
+      "water",
+      "house",
+      "food"
+    ],
+    "ans": 0,
+    "explanation": "'mai' a Turanci shi ne 'oil'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Hello' a Hausa?",
+    "opts": [
+      "Sai anjima",
+      "Sannu",
+      "Na gode",
+      "Don Allah"
+    ],
+    "ans": 1,
+    "explanation": "'Hello' a Hausa shi ne 'Sannu'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nahawu (Grammar)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'nine' a Hausa?",
+    "opts": [
+      "biyu",
+      "daya",
+      "tara",
+      "uku"
+    ],
+    "ans": 2,
+    "explanation": "'nine' a Hausa shi ne 'tara'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lambobi (Numbers)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'kunne' a Turanci?",
+    "opts": [
+      "food",
+      "ear",
+      "water",
+      "house"
+    ],
+    "ans": 1,
+    "explanation": "'kunne' a Turanci shi ne 'ear'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'table' a Hausa?",
+    "opts": [
+      "ruwa",
+      "abinci",
+      "tebur",
+      "gida"
+    ],
+    "ans": 2,
+    "explanation": "'table' a Hausa shi ne 'tebur'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene jam'in 'kare'?",
+    "opts": [
+      "littattafai",
+      "dokuna",
+      "gidaje",
+      "karnuka"
+    ],
+    "ans": 3,
+    "explanation": "Jam'in 'kare' shi ne 'karnuka'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nahawu (Grammar)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'blood' a Hausa?",
+    "opts": [
+      "ruwa",
+      "jini",
+      "abinci",
+      "gida"
+    ],
+    "ans": 1,
+    "explanation": "'blood' a Hausa shi ne 'jini'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'wando' a Turanci?",
+    "opts": [
+      "food",
+      "house",
+      "water",
+      "trousers"
+    ],
+    "ans": 3,
+    "explanation": "'wando' a Turanci shi ne 'trousers'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene jam'in 'doki'?",
+    "opts": [
+      "gidaje",
+      "littattafai",
+      "dokuna",
+      "yara"
+    ],
+    "ans": 2,
+    "explanation": "Jam'in 'doki' shi ne 'dokuna'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nahawu (Grammar)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'two' a Hausa?",
+    "opts": [
+      "uku",
+      "biyu",
+      "hudu",
+      "daya"
+    ],
+    "ans": 1,
+    "explanation": "'two' a Hausa shi ne 'biyu'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lambobi (Numbers)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'kudi' a Turanci?",
+    "opts": [
+      "money",
+      "house",
+      "water",
+      "food"
+    ],
+    "ans": 0,
+    "explanation": "'kudi' a Turanci shi ne 'money'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'kafa' a Turanci?",
+    "opts": [
+      "water",
+      "leg",
+      "house",
+      "food"
+    ],
+    "ans": 1,
+    "explanation": "'kafa' a Turanci shi ne 'leg'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'maciji' a Turanci?",
+    "opts": [
+      "food",
+      "snake",
+      "water",
+      "house"
+    ],
+    "ans": 1,
+    "explanation": "'maciji' a Turanci shi ne 'snake'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'eye' a Hausa?",
+    "opts": [
+      "ido",
+      "abinci",
+      "ruwa",
+      "gida"
+    ],
+    "ans": 0,
+    "explanation": "'eye' a Hausa shi ne 'ido'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'night' a Hausa?",
+    "opts": [
+      "abinci",
+      "gida",
+      "dare",
+      "ruwa"
+    ],
+    "ans": 2,
+    "explanation": "'night' a Hausa shi ne 'dare'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'bread' a Hausa?",
+    "opts": [
+      "abinci",
+      "gida",
+      "ruwa",
+      "burodi"
+    ],
+    "ans": 3,
+    "explanation": "'bread' a Hausa shi ne 'burodi'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'lion' a Hausa?",
+    "opts": [
+      "abinci",
+      "gida",
+      "zaki",
+      "ruwa"
+    ],
+    "ans": 2,
+    "explanation": "'lion' a Hausa shi ne 'zaki'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'bed' a Hausa?",
+    "opts": [
+      "ruwa",
+      "gado",
+      "abinci",
+      "gida"
+    ],
+    "ans": 1,
+    "explanation": "'bed' a Hausa shi ne 'gado'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'sugar' a Hausa?",
+    "opts": [
+      "sukari",
+      "ruwa",
+      "abinci",
+      "gida"
+    ],
+    "ans": 0,
+    "explanation": "'sugar' a Hausa shi ne 'sukari'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'hanci' a Turanci?",
+    "opts": [
+      "nose",
+      "house",
+      "food",
+      "water"
+    ],
+    "ans": 0,
+    "explanation": "'hanci' a Turanci shi ne 'nose'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'moon' a Hausa?",
+    "opts": [
+      "wata",
+      "gida",
+      "abinci",
+      "ruwa"
+    ],
+    "ans": 0,
+    "explanation": "'moon' a Hausa shi ne 'wata'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'room' a Hausa?",
+    "opts": [
+      "abinci",
+      "ruwa",
+      "gida",
+      "daki"
+    ],
+    "ans": 3,
+    "explanation": "'room' a Hausa shi ne 'daki'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'cassava' a Hausa?",
+    "opts": [
+      "ruwa",
+      "abinci",
+      "gida",
+      "rogo"
+    ],
+    "ans": 3,
+    "explanation": "'cassava' a Hausa shi ne 'rogo'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'sun' a Hausa?",
+    "opts": [
+      "abinci",
+      "ruwa",
+      "gida",
+      "rana"
+    ],
+    "ans": 3,
+    "explanation": "'sun' a Hausa shi ne 'rana'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'Noun' a Hausa?",
+    "opts": [
+      "Sifa",
+      "Bayanau",
+      "Aikatau",
+      "Suna"
+    ],
+    "ans": 3,
+    "explanation": "'Noun' a Hausa shi ne 'Suna'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nahawu (Grammar)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'wata' a Turanci?",
+    "opts": [
+      "moon",
+      "water",
+      "food",
+      "house"
+    ],
+    "ans": 0,
+    "explanation": "'wata' a Turanci shi ne 'moon'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'hundred' a Hausa?",
+    "opts": [
+      "dari",
+      "uku",
+      "daya",
+      "biyu"
+    ],
+    "ans": 0,
+    "explanation": "'hundred' a Hausa shi ne 'dari'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lambobi (Numbers)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'father' a Hausa?",
+    "opts": [
+      "gida",
+      "abinci",
+      "ruwa",
+      "uba"
+    ],
+    "ans": 3,
+    "explanation": "'father' a Hausa shi ne 'uba'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'village' a Hausa?",
+    "opts": [
+      "gida",
+      "abinci",
+      "kauye",
+      "ruwa"
+    ],
+    "ans": 2,
+    "explanation": "'village' a Hausa shi ne 'kauye'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'gona' a Turanci?",
+    "opts": [
+      "farm",
+      "house",
+      "water",
+      "food"
+    ],
+    "ans": 0,
+    "explanation": "'gona' a Turanci shi ne 'farm'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'masara' a Turanci?",
+    "opts": [
+      "food",
+      "water",
+      "house",
+      "maize"
+    ],
+    "ans": 3,
+    "explanation": "'masara' a Turanci shi ne 'maize'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'yam' a Hausa?",
+    "opts": [
+      "ruwa",
+      "abinci",
+      "doya",
+      "gida"
+    ],
+    "ans": 2,
+    "explanation": "'yam' a Hausa shi ne 'doya'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene jam'in 'gida'?",
+    "opts": [
+      "littattafai",
+      "dokuna",
+      "gidaje",
+      "yara"
+    ],
+    "ans": 2,
+    "explanation": "Jam'in 'gida' shi ne 'gidaje'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nahawu (Grammar)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Sarkin Musulmi yana zaune a:",
+    "opts": [
+      "Sokoto",
+      "Kano",
+      "Kaduna",
+      "Zaria"
+    ],
+    "ans": 0,
+    "explanation": "Sarkin Musulmi yana Sokoto.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Al'ada (Culture)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'chair' a Hausa?",
+    "opts": [
+      "gida",
+      "abinci",
+      "kujera",
+      "ruwa"
+    ],
+    "ans": 2,
+    "explanation": "'chair' a Hausa shi ne 'kujera'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'hakori' a Turanci?",
+    "opts": [
+      "house",
+      "food",
+      "water",
+      "tooth"
+    ],
+    "ans": 3,
+    "explanation": "'hakori' a Turanci shi ne 'tooth'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'baki' a Turanci?",
+    "opts": [
+      "food",
+      "mouth",
+      "house",
+      "water"
+    ],
+    "ans": 1,
+    "explanation": "'baki' a Turanci shi ne 'mouth'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kalmomi (Vocabulary)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene 'ten' a Hausa?",
+    "opts": [
+      "biyu",
+      "daya",
+      "goma",
+      "uku"
+    ],
+    "ans": 2,
+    "explanation": "'ten' a Hausa shi ne 'goma'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lambobi (Numbers)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Menene ma'anar 'Lafiya'?",
+    "opts": [
+      "hello",
+      "peace / good health",
+      "thank you",
+      "please"
+    ],
+    "ans": 1,
+    "explanation": "'Lafiya' na nufin 'peace / good health'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Gaisuwa (Greetings)",
+    "adapted_from": "Repo JAMB_Hausa_2024.json / NECO_Hausa_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

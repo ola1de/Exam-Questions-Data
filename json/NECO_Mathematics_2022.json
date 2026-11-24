@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Find the area of a triangle of base 10 cm and height 6 cm.",
+    "opts": [
+      "30 cm²",
+      "16 cm²",
+      "35 cm²",
+      "60 cm²"
+    ],
+    "ans": 0,
+    "explanation": "Area = 1/2 x base x height = 30 cm².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $135_{6}$ to base 10.",
+    "opts": [
+      "61",
+      "60",
+      "58",
+      "59"
+    ],
+    "ans": 3,
+    "explanation": "135 in base 6 = 59 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate: $2^{5}$.",
+    "opts": [
+      "33",
+      "31",
+      "10",
+      "32"
+    ],
+    "ans": 3,
+    "explanation": "2 raised to power 5 = 32.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $432_{5}$ to base 10.",
+    "opts": [
+      "117",
+      "116",
+      "118",
+      "119"
+    ],
+    "ans": 0,
+    "explanation": "432 in base 5 = 117 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "sin 30° is equal to:",
+    "opts": [
+      "√3/2",
+      "1",
+      "0",
+      "1/2"
+    ],
+    "ans": 3,
+    "explanation": "sin 30° = 1/2.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the area of a triangle of base 8 cm and height 5 cm.",
+    "opts": [
+      "13 cm²",
+      "25 cm²",
+      "40 cm²",
+      "20 cm²"
+    ],
+    "ans": 3,
+    "explanation": "Area = 1/2 x base x height = 20 cm².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find 30% of ₦600.",
+    "opts": [
+      "₦360",
+      "₦180",
+      "₦230",
+      "₦130"
+    ],
+    "ans": 1,
+    "explanation": "30% of 600 = 30/100 x 600 = 180.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the area of a circle of radius 10 cm. (Take π = 22/7)",
+    "opts": [
+      "314 cm²",
+      "62 cm²",
+      "292 cm²",
+      "336 cm²"
+    ],
+    "ans": 0,
+    "explanation": "Area = πr² = 22/7 x 10² = 314 cm².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the volume of a cube of side 12 cm.",
+    "opts": [
+      "1738 cm³",
+      "156 cm³",
+      "1728 cm³",
+      "144 cm³"
+    ],
+    "ans": 2,
+    "explanation": "Volume = s³ = 12³ = 1728 cm³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find 12% of ₦1,500.",
+    "opts": [
+      "₦230",
+      "₦130",
+      "₦180",
+      "₦360"
+    ],
+    "ans": 2,
+    "explanation": "12% of 1500 = 12/100 x 1500 = 180.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $231_{4}$ to base 10.",
+    "opts": [
+      "47",
+      "45",
+      "46",
+      "44"
+    ],
+    "ans": 1,
+    "explanation": "231 in base 4 = 45 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Expand: (x + 2)(x + 3).",
+    "opts": [
+      "x² + 6x + 5",
+      "x² + 6x + 6",
+      "x² + 5x + 6",
+      "x² + 5x + 5"
+    ],
+    "ans": 2,
+    "explanation": "(x+2)(x+3) = x² + 3x + 2x + 6 = x² + 5x + 6.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the area of a rectangle 18 cm long and 5 cm wide.",
+    "opts": [
+      "90 cm²",
+      "46 cm²",
+      "100 cm²",
+      "23 cm²"
+    ],
+    "ans": 0,
+    "explanation": "Area = length x width = 18 x 5 = 90 cm².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the roots of $x^2 - 8x + 15 = 0$.",
+    "opts": [
+      "x = 3 or x = 5",
+      "x = 4 or x = 5",
+      "x = 3 or x = 6",
+      "x = -3 or x = -5"
+    ],
+    "ans": 0,
+    "explanation": "(x-3)(x-5) = 0, so x = 3 or 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Solve for x: $5x + 2 = 27$.",
+    "opts": [
+      "7",
+      "6",
+      "4",
+      "5"
+    ],
+    "ans": 3,
+    "explanation": "5x = 25, so x = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $1011_{2}$ to base 10.",
+    "opts": [
+      "11",
+      "12",
+      "13",
+      "10"
+    ],
+    "ans": 0,
+    "explanation": "1011 in base 2 = 11 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the square of 6.",
+    "opts": [
+      "37",
+      "36",
+      "38",
+      "35"
+    ],
+    "ans": 1,
+    "explanation": "6² = 36.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the square of 9.",
+    "opts": [
+      "83",
+      "80",
+      "81",
+      "82"
+    ],
+    "ans": 2,
+    "explanation": "9² = 81.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Simplify: $\\sqrt{98} - \\sqrt{50} + \\sqrt{32}$.",
+    "opts": [
+      "$4\\sqrt{2}$",
+      "$10\\sqrt{2}$",
+      "$6\\sqrt{2}$",
+      "$8\\sqrt{2}$"
+    ],
+    "ans": 2,
+    "explanation": "7√2 - 5√2 + 4√2 = 6√2.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate: $5^{2}$.",
+    "opts": [
+      "25",
+      "26",
+      "24",
+      "10"
+    ],
+    "ans": 0,
+    "explanation": "5 raised to power 2 = 25.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "cos 60° is equal to:",
+    "opts": [
+      "1",
+      "0",
+      "√3/2",
+      "1/2"
+    ],
+    "ans": 3,
+    "explanation": "cos 60° = 1/2.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the value of 16 divided by 8.",
+    "opts": [
+      "2",
+      "128",
+      "3",
+      "1"
+    ],
+    "ans": 0,
+    "explanation": "16 / 8 = 2.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the area of a circle of radius 5 cm. (Take π = 22/7)",
+    "opts": [
+      "100 cm²",
+      "78 cm²",
+      "56 cm²",
+      "31 cm²"
+    ],
+    "ans": 1,
+    "explanation": "Area = πr² = 22/7 x 5² = 78 cm².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the mean of 5, 10, 15, 20.",
+    "opts": [
+      "13.5",
+      "14.5",
+      "11.5",
+      "12.5"
+    ],
+    "ans": 3,
+    "explanation": "Mean = sum/count = 50/4 = 12.5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Statistics and Probability",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the value of 30 divided by 5.",
+    "opts": [
+      "150",
+      "7",
+      "6",
+      "5"
+    ],
+    "ans": 2,
+    "explanation": "30 / 5 = 6.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $210_{3}$ to base 10.",
+    "opts": [
+      "20",
+      "23",
+      "21",
+      "22"
+    ],
+    "ans": 2,
+    "explanation": "210 in base 3 = 21 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the roots of $x^2 - 5x + 6 = 0$.",
+    "opts": [
+      "x = 2 or x = 3",
+      "x = 3 or x = 3",
+      "x = -2 or x = -3",
+      "x = 2 or x = 4"
+    ],
+    "ans": 0,
+    "explanation": "(x-2)(x-3) = 0, so x = 2 or 3.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the sum of 9 and 6.",
+    "opts": [
+      "17",
+      "15",
+      "16",
+      "14"
+    ],
+    "ans": 1,
+    "explanation": "9 + 6 = 15.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the square of 8.",
+    "opts": [
+      "63",
+      "64",
+      "66",
+      "65"
+    ],
+    "ans": 1,
+    "explanation": "8² = 64.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate: $10^{2}$.",
+    "opts": [
+      "101",
+      "100",
+      "20",
+      "99"
+    ],
+    "ans": 1,
+    "explanation": "10 raised to power 2 = 100.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $123_{6}$ to base 10.",
+    "opts": [
+      "52",
+      "53",
+      "51",
+      "50"
+    ],
+    "ans": 2,
+    "explanation": "123 in base 6 = 51 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the sum of 7 and 8.",
+    "opts": [
+      "15",
+      "16",
+      "14",
+      "17"
+    ],
+    "ans": 0,
+    "explanation": "7 + 8 = 15.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If y varies directly as x and y = 12 when x = 3, find y when x = 7.",
+    "opts": [
+      "36",
+      "28",
+      "24",
+      "21"
+    ],
+    "ans": 1,
+    "explanation": "y = kx, k = 4, so y = 4 x 7 = 28.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the sum of 13 and 5.",
+    "opts": [
+      "17",
+      "19",
+      "20",
+      "18"
+    ],
+    "ans": 3,
+    "explanation": "13 + 5 = 18.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A trader bought an article for ₦800 and sold it for ₦1,000. Find the percentage profit.",
+    "opts": [
+      "30%",
+      "25%",
+      "35%",
+      "20%"
+    ],
+    "ans": 1,
+    "explanation": "Profit = 200, as a percentage of cost price 800 = 25%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find 5% of ₦4,000.",
+    "opts": [
+      "₦250",
+      "₦150",
+      "₦400",
+      "₦200"
+    ],
+    "ans": 3,
+    "explanation": "5% of 4000 = 5/100 x 4000 = 200.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The sum of the interior angles of a pentagon is:",
+    "opts": [
+      "180°",
+      "360°",
+      "720°",
+      "540°"
+    ],
+    "ans": 3,
+    "explanation": "(n-2) x 180° = 3 x 180° = 540°.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Solve simultaneously: x + y = 8 and x - y = 2.",
+    "opts": [
+      "x = 6, y = 3",
+      "x = 5, y = 3",
+      "x = 3, y = 5",
+      "x = 5, y = 4"
+    ],
+    "ans": 1,
+    "explanation": "Adding: 2x = 10, x = 5; then y = 3.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the simple interest on ₦12,000 at 8% per annum for 2 years.",
+    "opts": [
+      "₦2,120",
+      "₦3,840",
+      "₦1,920",
+      "₦1,720"
+    ],
+    "ans": 2,
+    "explanation": "I = PRT/100 = 12000 x 8 x 2 / 100 = 1920.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The median of 3, 7, 5, 9, 11 is:",
+    "opts": [
+      "9",
+      "3",
+      "7",
+      "5"
+    ],
+    "ans": 2,
+    "explanation": "Ordered: 3, 5, 7, 9, 11; the middle value is 7.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Statistics and Probability",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

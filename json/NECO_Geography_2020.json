@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "What is the capital of Netherlands?",
+    "opts": [
+      "Abuja",
+      "Amsterdam",
+      "Nairobi",
+      "Accra"
+    ],
+    "ans": 1,
+    "explanation": "The capital of Netherlands is Amsterdam.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Japan?",
+    "opts": [
+      "Abuja",
+      "Accra",
+      "Nairobi",
+      "Tokyo"
+    ],
+    "ans": 3,
+    "explanation": "The capital of Japan is Tokyo.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Brasilia is the capital of which country?",
+    "opts": [
+      "Brazil",
+      "Ghana",
+      "Nigeria",
+      "Kenya"
+    ],
+    "ans": 0,
+    "explanation": "Brasilia is the capital of Brazil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The scale of a map shows the relationship between:",
+    "opts": [
+      "height and depth",
+      "latitude and longitude",
+      "map distance and ground distance",
+      "time and distance"
+    ],
+    "ans": 2,
+    "explanation": "Scale relates map distance to ground distance.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Map Work",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The gradual change of fertile land into desert is:",
+    "opts": [
+      "erosion",
+      "desertification",
+      "flooding",
+      "deforestation"
+    ],
+    "ans": 1,
+    "explanation": "Desertification is land degradation in dry areas.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Environmental Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Jakarta is the capital of which country?",
+    "opts": [
+      "Indonesia",
+      "Kenya",
+      "Nigeria",
+      "Ghana"
+    ],
+    "ans": 0,
+    "explanation": "Jakarta is the capital of Indonesia.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Senegal?",
+    "opts": [
+      "Dakar",
+      "Accra",
+      "Abuja",
+      "Nairobi"
+    ],
+    "ans": 0,
+    "explanation": "The capital of Senegal is Dakar.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Mexico City is the capital of which country?",
+    "opts": [
+      "Mexico",
+      "Nigeria",
+      "Ghana",
+      "Kenya"
+    ],
+    "ans": 0,
+    "explanation": "Mexico City is the capital of Mexico.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Accra is the capital of which country?",
+    "opts": [
+      "Egypt",
+      "Nigeria",
+      "Ghana",
+      "Kenya"
+    ],
+    "ans": 2,
+    "explanation": "Accra is the capital of Ghana.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The equator is at latitude:",
+    "opts": [
+      "90°N",
+      "23.5°N",
+      "66.5°S",
+      "0°"
+    ],
+    "ans": 3,
+    "explanation": "The equator is 0° latitude.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Warsaw is the capital of which country?",
+    "opts": [
+      "Ghana",
+      "Nigeria",
+      "Kenya",
+      "Poland"
+    ],
+    "ans": 3,
+    "explanation": "Warsaw is the capital of Poland.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Dodoma is the capital of which country?",
+    "opts": [
+      "Tanzania",
+      "Ghana",
+      "Nigeria",
+      "Kenya"
+    ],
+    "ans": 0,
+    "explanation": "Dodoma is the capital of Tanzania.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The seasons are caused by the:",
+    "opts": [
+      "shape of the Earth",
+      "tilt of the Earth's axis and its revolution",
+      "rotation of the Earth only",
+      "distance from the Moon"
+    ],
+    "ans": 1,
+    "explanation": "The 23.5° tilt plus revolution produces seasons.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ottawa is the capital of which country?",
+    "opts": [
+      "Nigeria",
+      "Kenya",
+      "Canada",
+      "Ghana"
+    ],
+    "ans": 2,
+    "explanation": "Ottawa is the capital of Canada.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Earth rotates on its axis once in:",
+    "opts": [
+      "30 days",
+      "24 hours",
+      "365 days",
+      "12 hours"
+    ],
+    "ans": 1,
+    "explanation": "One rotation takes about 24 hours, giving day and night.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The longest river in Nigeria is the:",
+    "opts": [
+      "Niger",
+      "Cross River",
+      "Benue",
+      "Ogun"
+    ],
+    "ans": 0,
+    "explanation": "The River Niger is Nigeria's longest river.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Yaounde is the capital of which country?",
+    "opts": [
+      "Kenya",
+      "Ghana",
+      "Cameroon",
+      "Nigeria"
+    ],
+    "ans": 2,
+    "explanation": "Yaounde is the capital of Cameroon.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Iran?",
+    "opts": [
+      "Nairobi",
+      "Accra",
+      "Tehran",
+      "Abuja"
+    ],
+    "ans": 2,
+    "explanation": "The capital of Iran is Tehran.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Buenos Aires is the capital of which country?",
+    "opts": [
+      "Ghana",
+      "Nigeria",
+      "Kenya",
+      "Argentina"
+    ],
+    "ans": 3,
+    "explanation": "Buenos Aires is the capital of Argentina.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Groundnut is mainly grown in:",
+    "opts": [
+      "the Niger Delta",
+      "the coastal zone",
+      "southern Nigeria",
+      "northern Nigeria"
+    ],
+    "ans": 3,
+    "explanation": "Groundnut is a northern crop.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Economic Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The River Zambezi is found in:",
+    "opts": [
+      "DR Congo",
+      "Egypt/Sudan",
+      "Zambia/Zimbabwe",
+      "Nigeria"
+    ],
+    "ans": 2,
+    "explanation": "The River Zambezi flows through Zambia/Zimbabwe.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Vietnam?",
+    "opts": [
+      "Abuja",
+      "Hanoi",
+      "Nairobi",
+      "Accra"
+    ],
+    "ans": 1,
+    "explanation": "The capital of Vietnam is Hanoi.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The River Thames is found in:",
+    "opts": [
+      "England",
+      "Egypt/Sudan",
+      "DR Congo",
+      "Nigeria"
+    ],
+    "ans": 0,
+    "explanation": "The River Thames flows through England.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The instrument used to measure humidity is the:",
+    "opts": [
+      "rain gauge",
+      "hygrometer",
+      "anemometer",
+      "barometer"
+    ],
+    "ans": 1,
+    "explanation": "A hygrometer measures air humidity.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Nairobi is the capital of which country?",
+    "opts": [
+      "Ghana",
+      "Egypt",
+      "Nigeria",
+      "Kenya"
+    ],
+    "ans": 3,
+    "explanation": "Nairobi is the capital of Kenya.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Libya?",
+    "opts": [
+      "Abuja",
+      "Accra",
+      "Nairobi",
+      "Tripoli"
+    ],
+    "ans": 3,
+    "explanation": "The capital of Libya is Tripoli.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Algeria?",
+    "opts": [
+      "Nairobi",
+      "Accra",
+      "Algiers",
+      "Abuja"
+    ],
+    "ans": 2,
+    "explanation": "The capital of Algeria is Algiers.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Greece?",
+    "opts": [
+      "Accra",
+      "Athens",
+      "Abuja",
+      "Nairobi"
+    ],
+    "ans": 1,
+    "explanation": "The capital of Greece is Athens.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Abuja is the capital of which country?",
+    "opts": [
+      "Ghana",
+      "Egypt",
+      "Nigeria",
+      "Kenya"
+    ],
+    "ans": 2,
+    "explanation": "Abuja is the capital of Nigeria.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Madrid is the capital of which country?",
+    "opts": [
+      "Ghana",
+      "Spain",
+      "Nigeria",
+      "Kenya"
+    ],
+    "ans": 1,
+    "explanation": "Madrid is the capital of Spain.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Germany?",
+    "opts": [
+      "Berlin",
+      "Accra",
+      "Abuja",
+      "Nairobi"
+    ],
+    "ans": 0,
+    "explanation": "The capital of Germany is Berlin.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The main export of Nigeria is:",
+    "opts": [
+      "groundnut",
+      "cocoa",
+      "timber",
+      "crude oil"
+    ],
+    "ans": 3,
+    "explanation": "Crude oil dominates Nigeria's exports.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Economic Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Italy?",
+    "opts": [
+      "Nairobi",
+      "Accra",
+      "Abuja",
+      "Rome"
+    ],
+    "ans": 3,
+    "explanation": "The capital of Italy is Rome.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The harmattan is a:",
+    "opts": [
+      "wind from the forest",
+      "wet wind from the sea",
+      "dry, dusty wind from the Sahara",
+      "cold wind from Europe"
+    ],
+    "ans": 2,
+    "explanation": "The harmattan blows dry dust from the Sahara in the dry season.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of India?",
+    "opts": [
+      "New Delhi",
+      "Accra",
+      "Abuja",
+      "Nairobi"
+    ],
+    "ans": 0,
+    "explanation": "The capital of India is New Delhi.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Indonesia?",
+    "opts": [
+      "Jakarta",
+      "Accra",
+      "Nairobi",
+      "Abuja"
+    ],
+    "ans": 0,
+    "explanation": "The capital of Indonesia is Jakarta.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Washington D.C. is the capital of which country?",
+    "opts": [
+      "Nigeria",
+      "United States",
+      "Ghana",
+      "Kenya"
+    ],
+    "ans": 1,
+    "explanation": "Washington D.C. is the capital of United States.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Riyadh is the capital of which country?",
+    "opts": [
+      "Kenya",
+      "Nigeria",
+      "Ghana",
+      "Saudi Arabia"
+    ],
+    "ans": 3,
+    "explanation": "Riyadh is the capital of Saudi Arabia.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Russia?",
+    "opts": [
+      "Abuja",
+      "Moscow",
+      "Accra",
+      "Nairobi"
+    ],
+    "ans": 1,
+    "explanation": "The capital of Russia is Moscow.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Lisbon is the capital of which country?",
+    "opts": [
+      "Nigeria",
+      "Ghana",
+      "Portugal",
+      "Kenya"
+    ],
+    "ans": 2,
+    "explanation": "Lisbon is the capital of Portugal.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

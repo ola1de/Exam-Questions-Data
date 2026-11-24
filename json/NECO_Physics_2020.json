@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Find the density of a body of mass 5 kg and volume 4 m³.",
+    "opts": [
+      "4.25 kg/m³",
+      "1.25 kg/m³",
+      "22 kg/m³",
+      "5 kg/m³"
+    ],
+    "ans": 1,
+    "explanation": "Density = mass/volume = 5/4 = 1.25 kg/m³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Motion",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A current of 2 A flows through a resistor of 10 ohms. The voltage across it is:",
+    "opts": [
+      "20",
+      "25",
+      "40",
+      "10"
+    ],
+    "ans": 0,
+    "explanation": "V = IR = 2 x 10 = 20 V.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Electricity",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the momentum of a 4 kg body moving at 20 m/s.",
+    "opts": [
+      "80 kg m/s",
+      "24 kg m/s",
+      "85 kg m/s",
+      "75 kg m/s"
+    ],
+    "ans": 0,
+    "explanation": "Momentum = mv = 4 x 20 = 80 kg m/s.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Motion",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A force of 100 N acts on an area of 10 m². Find the pressure.",
+    "opts": [
+      "12 Pa",
+      "1000 Pa",
+      "15 Pa",
+      "10 Pa"
+    ],
+    "ans": 3,
+    "explanation": "Pressure = force/area = 100/10 = 10 Pa.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Pressure",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the potential energy of a 20 kg mass at a height of 3 m. (g = 10 m/s²)",
+    "opts": [
+      "300 J",
+      "700 J",
+      "23 J",
+      "600 J"
+    ],
+    "ans": 3,
+    "explanation": "PE = mgh = 20 x 10 x 3 = 600 J.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Work, Energy and Power",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A body starts with velocity 0 m/s and accelerates at 2 m/s² for 5 s. Find its final velocity.",
+    "opts": [
+      "10 m/s",
+      "2 m/s",
+      "12 m/s",
+      "8 m/s"
+    ],
+    "ans": 0,
+    "explanation": "v = u + at = 0 + 2x5 = 10 m/s.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Motion",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A wave of frequency 200 Hz has wavelength 1 m. Find its speed.",
+    "opts": [
+      "201 m/s",
+      "200 m/s",
+      "250 m/s",
+      "210 m/s"
+    ],
+    "ans": 1,
+    "explanation": "v = fλ = 200 x 1 = 200 m/s.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Waves",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the heat required to raise 40 g of water by 1°C. (Specific heat capacity of water = 4.2 J/g°C)",
+    "opts": [
+      "80 J",
+      "218 J",
+      "168 J",
+      "40 J"
+    ],
+    "ans": 2,
+    "explanation": "Q = mcΔθ = 40 x 4.2 x 1 = 168 J.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Heat",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A wave of frequency 50 Hz has wavelength 2 m. Find its speed.",
+    "opts": [
+      "150 m/s",
+      "52 m/s",
+      "100 m/s",
+      "35 m/s"
+    ],
+    "ans": 2,
+    "explanation": "v = fλ = 50 x 2 = 100 m/s.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Waves",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A force of 120 N acts on an area of 12 m². Find the pressure.",
+    "opts": [
+      "1440 Pa",
+      "15 Pa",
+      "12 Pa",
+      "10 Pa"
+    ],
+    "ans": 3,
+    "explanation": "Pressure = force/area = 120/12 = 10 Pa.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Pressure",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the resistance of a conductor when a potential difference of 30 V drives a current of 5 A through it.",
+    "opts": [
+      "35 Ω",
+      "7 Ω",
+      "6 Ω",
+      "150 Ω"
+    ],
+    "ans": 2,
+    "explanation": "R = V/I = 30/5 = 6 Ω.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Electricity",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Heat is transferred through a vacuum by:",
+    "opts": [
+      "radiation",
+      "convection",
+      "conduction",
+      "evaporation"
+    ],
+    "ans": 0,
+    "explanation": "Radiation needs no medium; the Sun's heat reaches Earth this way.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Heat",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the pressure at a depth of 5 m in water. (density 1000 kg/m³, g = 10 m/s²)",
+    "opts": [
+      "500 Pa",
+      "5000 Pa",
+      "51000 Pa",
+      "50000 Pa"
+    ],
+    "ans": 3,
+    "explanation": "P = ρgh = 1000 x 10 x 5 = 50000 Pa.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Pressure",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A charge of 30 C flows in 5 s. Find the current.",
+    "opts": [
+      "6 A",
+      "5 A",
+      "7 A",
+      "150 A"
+    ],
+    "ans": 0,
+    "explanation": "I = Q/t = 30/5 = 6 A.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Electricity",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A wave of frequency 100 Hz has wavelength 3 m. Find its speed.",
+    "opts": [
+      "300 m/s",
+      "350 m/s",
+      "43 m/s",
+      "103 m/s"
+    ],
+    "ans": 0,
+    "explanation": "v = fλ = 100 x 3 = 300 m/s.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Waves",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the voltage across a 8 Ω resistor carrying 3 A.",
+    "opts": [
+      "29 V",
+      "11 V",
+      "24 V",
+      "19 V"
+    ],
+    "ans": 2,
+    "explanation": "V = IR = 8 x 3 = 24 V.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Electricity",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A charge of 24 C flows in 6 s. Find the current.",
+    "opts": [
+      "4 A",
+      "6 A",
+      "5 A",
+      "144 A"
+    ],
+    "ans": 0,
+    "explanation": "I = Q/t = 24/6 = 4 A.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Electricity",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the momentum of a 3 kg body moving at 8 m/s.",
+    "opts": [
+      "19 kg m/s",
+      "11 kg m/s",
+      "24 kg m/s",
+      "29 kg m/s"
+    ],
+    "ans": 2,
+    "explanation": "Momentum = mv = 3 x 8 = 24 kg m/s.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Motion",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the potential energy of a 10 kg mass at a height of 5 m. (g = 10 m/s²)",
+    "opts": [
+      "250 J",
+      "500 J",
+      "15 J",
+      "600 J"
+    ],
+    "ans": 1,
+    "explanation": "PE = mgh = 10 x 10 x 5 = 500 J.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Work, Energy and Power",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the density of a body of mass 8 kg and volume 2 m³.",
+    "opts": [
+      "18 kg/m³",
+      "7 kg/m³",
+      "3 kg/m³",
+      "4 kg/m³"
+    ],
+    "ans": 3,
+    "explanation": "Density = mass/volume = 8/2 = 4 kg/m³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Motion",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How much heat is needed to raise 1 kg of water by 5 degrees? (specific heat capacity of water = 4200 J/kgK)",
+    "opts": [
+      "21000",
+      "10500",
+      "42000",
+      "31000"
+    ],
+    "ans": 0,
+    "explanation": "Q = mc change in temperature = 1 x 4200 x 5 = 21,000 J.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Heat",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the heat required to raise 50 g of water by 1°C. (Specific heat capacity of water = 4.2 J/g°C)",
+    "opts": [
+      "100 J",
+      "50 J",
+      "210 J",
+      "260 J"
+    ],
+    "ans": 2,
+    "explanation": "Q = mcΔθ = 50 x 4.2 x 1 = 210 J.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Heat",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The pressure in a liquid increases with:",
+    "opts": [
+      "volume",
+      "temperature",
+      "depth",
+      "surface area"
+    ],
+    "ans": 2,
+    "explanation": "P = ρgh, so pressure grows with depth.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Pressure",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A body of mass 2 kg moves with a velocity of 10 m/s. Its kinetic energy is:",
+    "opts": [
+      "200",
+      "100",
+      "110",
+      "50"
+    ],
+    "ans": 1,
+    "explanation": "Kinetic energy = 1/2 mv^2 = 0.5 x 2 x 10^2 = 100 J.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Work and Energy",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The period of a wave of frequency 20 Hz is:",
+    "opts": [
+      "1 s",
+      "1/20 s",
+      "20 s",
+      "1/10 s"
+    ],
+    "ans": 1,
+    "explanation": "T = 1/f = 1/20 s.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Waves",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the kinetic energy of a 8 kg body moving at 3 m/s.",
+    "opts": [
+      "29 J",
+      "72 J",
+      "36 J",
+      "46 J"
+    ],
+    "ans": 2,
+    "explanation": "KE = 1/2 mv² = 1/2 x 8 x 3² = 36 J.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Work, Energy and Power",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A body starts with velocity 15 m/s and accelerates at 5 m/s² for 4 s. Find its final velocity.",
+    "opts": [
+      "20 m/s",
+      "35 m/s",
+      "33 m/s",
+      "37 m/s"
+    ],
+    "ans": 1,
+    "explanation": "v = u + at = 15 + 5x4 = 35 m/s.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Motion",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the heat required to raise 10 g of water by 1°C. (Specific heat capacity of water = 4.2 J/g°C)",
+    "opts": [
+      "92 J",
+      "20 J",
+      "10 J",
+      "42 J"
+    ],
+    "ans": 3,
+    "explanation": "Q = mcΔθ = 10 x 4.2 x 1 = 42 J.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Heat",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A machine does 300 J of work in 15 s. Find its power.",
+    "opts": [
+      "4500 W",
+      "25 W",
+      "18 W",
+      "20 W"
+    ],
+    "ans": 3,
+    "explanation": "Power = work/time = 300/15 = 20 W.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Work, Energy and Power",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A machine does 100 J of work in 10 s. Find its power.",
+    "opts": [
+      "1000 W",
+      "10 W",
+      "15 W",
+      "8 W"
+    ],
+    "ans": 1,
+    "explanation": "Power = work/time = 100/10 = 10 W.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Work, Energy and Power",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the force needed to accelerate a 5 kg mass at 2 m/s².",
+    "opts": [
+      "10 N",
+      "7 N",
+      "15 N",
+      "5 N"
+    ],
+    "ans": 0,
+    "explanation": "F = ma = 5 x 2 = 10 N.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Motion",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The angle of incidence equals the angle of reflection. This is the law of:",
+    "opts": [
+      "diffraction",
+      "reflection",
+      "refraction",
+      "interference"
+    ],
+    "ans": 1,
+    "explanation": "The first law of reflection.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Optics",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A body is in equilibrium when the resultant force on it is:",
+    "opts": [
+      "maximum",
+      "equal to its mass",
+      "equal to its weight",
+      "zero"
+    ],
+    "ans": 3,
+    "explanation": "Equilibrium means no net force and no net moment.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Equilibrium of Forces",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the resistance of a conductor when a potential difference of 10 V drives a current of 5 A through it.",
+    "opts": [
+      "15 Ω",
+      "50 Ω",
+      "2 Ω",
+      "3 Ω"
+    ],
+    "ans": 2,
+    "explanation": "R = V/I = 10/5 = 2 Ω.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Electricity",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the heat required to raise 20 g of water by 1°C. (Specific heat capacity of water = 4.2 J/g°C)",
+    "opts": [
+      "134 J",
+      "40 J",
+      "84 J",
+      "20 J"
+    ],
+    "ans": 2,
+    "explanation": "Q = mcΔθ = 20 x 4.2 x 1 = 84 J.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Heat",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the heat required to raise 30 g of water by 1°C. (Specific heat capacity of water = 4.2 J/g°C)",
+    "opts": [
+      "60 J",
+      "126 J",
+      "176 J",
+      "30 J"
+    ],
+    "ans": 1,
+    "explanation": "Q = mcΔθ = 30 x 4.2 x 1 = 126 J.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Heat",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The particle that carries electric charge in a metal is the:",
+    "opts": [
+      "proton",
+      "electron",
+      "neutron",
+      "photon"
+    ],
+    "ans": 1,
+    "explanation": "Free electrons carry current in metals.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Modern Physics",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A body of mass 5 kg moves with a velocity of 4 m/s. Its momentum is:",
+    "opts": [
+      "10",
+      "30",
+      "40",
+      "20"
+    ],
+    "ans": 3,
+    "explanation": "Momentum = mass x velocity = 5 x 4 = 20 kg m/s.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Motion",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the force needed to accelerate a 8 kg mass at 4 m/s².",
+    "opts": [
+      "27 N",
+      "37 N",
+      "12 N",
+      "32 N"
+    ],
+    "ans": 3,
+    "explanation": "F = ma = 8 x 4 = 32 N.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Motion",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The nucleus of an atom contains:",
+    "opts": [
+      "protons and neutrons",
+      "electrons and protons",
+      "electrons only",
+      "protons only"
+    ],
+    "ans": 0,
+    "explanation": "Protons and neutrons make up the nucleus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Modern Physics",
+    "adapted_from": "Repo JAMB_Physics_2024.json / NECO_Physics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

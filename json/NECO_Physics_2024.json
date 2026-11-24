@@ -3,169 +3,19 @@
 "q": "Which of the following is a derived unit?",
 "opts": ["Kilogram", "Kelvin", "Newton", "Candela"],
 "ans": 2,
-"explanation": "Newton is a derived unit (
-𝑘
-𝑔
-𝑐
-𝑑
-𝑜
-𝑡
-𝑚
-/
-𝑠
-2
-kg
-cdotm/s
-2
-). Kilogram, Kelvin, and Candela are fundamental S.I. units."
+"explanation": "Newton is a derived unit (\r\n𝑘\r\n𝑔\r\n𝑐\r\n𝑑\r\n𝑜\r\n𝑡\r\n𝑚\r\n/\r\n𝑠\r\n2\r\nkg\r\ncdotm/s\r\n2\r\n). Kilogram, Kelvin, and Candela are fundamental S.I. units."
 },
 {
 "q": "The dimension of Young's Modulus is _____.",
-"opts": ["
-𝑀
-𝐿
-−
-1
-𝑇
-−
-2
-ML
-−1
-T
-−2
-", "
-𝑀
-𝐿
-𝑇
-−
-2
-MLT
-−2
-", "
-𝑀
-𝐿
-2
-𝑇
-−
-2
-ML
-2
-T
-−2
-", "
-𝑀
-2
-𝐿
-−
-1
-𝑇
-−
-2
-M
-2
-L
-−1
-T
-−2
-"],
+"opts": ["\r\n𝑀\r\n𝐿\r\n−\r\n1\r\n𝑇\r\n−\r\n2\r\nML\r\n−1\r\nT\r\n−2\r\n", "\r\n𝑀\r\n𝐿\r\n𝑇\r\n−\r\n2\r\nMLT\r\n−2\r\n", "\r\n𝑀\r\n𝐿\r\n2\r\n𝑇\r\n−\r\n2\r\nML\r\n2\r\nT\r\n−2\r\n", "\r\n𝑀\r\n2\r\n𝐿\r\n−\r\n1\r\n𝑇\r\n−\r\n2\r\nM\r\n2\r\nL\r\n−1\r\nT\r\n−2\r\n"],
 "ans": 0,
-"explanation": "Young's Modulus = Stress / Strain. Stress is Force/Area (
-𝑀
-𝐿
-𝑇
-−
-2
-/
-𝐿
-2
-=
-𝑀
-𝐿
-−
-1
-𝑇
-−
-2
-MLT
-−2
-/L
-2
-=ML
-−1
-T
-−2
-) and strain is dimensionless."
+"explanation": "Young's Modulus = Stress / Strain. Stress is Force/Area (\r\n𝑀\r\n𝐿\r\n𝑇\r\n−\r\n2\r\n/\r\n𝐿\r\n2\r\n=\r\n𝑀\r\n𝐿\r\n−\r\n1\r\n𝑇\r\n−\r\n2\r\nMLT\r\n−2\r\n/L\r\n2\r\n=ML\r\n−1\r\nT\r\n−2\r\n) and strain is dimensionless."
 },
 {
-"q": "A car starts from rest and accelerates uniformly at 
-5
-,
-𝑚
-/
-𝑠
-2
-5
-,m/s
-2
- for 8 seconds. Calculate the distance covered.",
+"q": "A car starts from rest and accelerates uniformly at \r\n5\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n2\r\n5\r\n,m/s\r\n2\r\n for 8 seconds. Calculate the distance covered.",
 "opts": ["40 m", "80 m", "160 m", "320 m"],
 "ans": 2,
-"explanation": "Using 
-𝑠
-=
-𝑢
-𝑡
-+
-𝑓
-𝑟
-𝑎
-𝑐
-12
-𝑎
-𝑡
-2
-s=ut+
-frac12at
-2
-, where 
-𝑢
-=
-0
-u=0
-, 
-𝑎
-=
-5
-a=5
-, and 
-𝑡
-=
-8
-t=8
-. 
-𝑠
-=
-0
-+
-0.5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-64
-=
-160
-s=0+0.5
-times5
-times64=160
- m."
+"explanation": "Using \r\n𝑠\r\n=\r\n𝑢\r\n𝑡\r\n+\r\n𝑓\r\n𝑟\r\n𝑎\r\n𝑐\r\n12\r\n𝑎\r\n𝑡\r\n2\r\ns=ut+\r\nfrac12at\r\n2\r\n, where \r\n𝑢\r\n=\r\n0\r\nu=0\r\n, \r\n𝑎\r\n=\r\n5\r\na=5\r\n, and \r\n𝑡\r\n=\r\n8\r\nt=8\r\n. \r\n𝑠\r\n=\r\n0\r\n+\r\n0.5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n64\r\n=\r\n160\r\ns=0+0.5\r\ntimes5\r\ntimes64=160\r\n m."
 },
 {
 "q": "The property of a body to remain at rest or continue in its state of uniform motion unless acted upon by a force is _____.",
@@ -174,162 +24,16 @@ times64=160
 "explanation": "Inertia is the tendency of an object to resist changes to its state of motion, as described by Newton's First Law."
 },
 {
-"q": "A ball is projected with a velocity of 
-20
-,
-𝑚
-/
-𝑠
-20
-,m/s
- at an angle of 
- to the horizontal. Calculate the time of flight. (
-𝑔
-=
-10
-,
-𝑚
-/
-𝑠
-2
-g=10
-,m/s
-2
-)",
+"q": "A ball is projected with a velocity of \r\n20\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n20\r\n,m/s\r\n at an angle of \r\n to the horizontal. Calculate the time of flight. (\r\n𝑔\r\n=\r\n10\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n2\r\ng=10\r\n,m/s\r\n2\r\n)",
 "opts": ["1 s", "2 s", "4 s", "8 s"],
 "ans": 1,
-"explanation": "Time of flight 
-𝑇
-=
-𝑓
-𝑟
-𝑎
-𝑐
-2
-𝑢
-𝑠
-𝑖
-𝑛
-𝑡
-ℎ
-𝑒
-𝑡
-𝑎
-𝑔
-=
-𝑓
-𝑟
-𝑎
-𝑐
-2
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-20
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑠
-𝑖
-𝑛
-30
-10
-=
-𝑓
-𝑟
-𝑎
-𝑐
-40
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-0.5
-10
-=
-2
-T=
-frac2usinthetag=
-frac2times20timessin3010=
-frac40times0.510=2
- s."
+"explanation": "Time of flight \r\n𝑇\r\n=\r\n𝑓\r\n𝑟\r\n𝑎\r\n𝑐\r\n2\r\n𝑢\r\n𝑠\r\n𝑖\r\n𝑛\r\n𝑡\r\nℎ\r\n𝑒\r\n𝑡\r\n𝑎\r\n𝑔\r\n=\r\n𝑓\r\n𝑟\r\n𝑎\r\n𝑐\r\n2\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n20\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n𝑠\r\n𝑖\r\n𝑛\r\n30\r\n10\r\n=\r\n𝑓\r\n𝑟\r\n𝑎\r\n𝑐\r\n40\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n0.5\r\n10\r\n=\r\n2\r\nT=\r\nfrac2usinthetag=\r\nfrac2times20timessin3010=\r\nfrac40times0.510=2\r\n s."
 },
 {
 "q": "The work done in stretching a spring by 4 cm is 0.8 J. Calculate the force constant of the spring.",
 "opts": ["200 N/m", "400 N/m", "800 N/m", "1000 N/m"],
 "ans": 3,
-"explanation": "
-𝑊
-=
-𝑓
-𝑟
-𝑎
-𝑐
-12
-𝑘
-𝑒
-2
-W=
-frac12ke
-2
-. 
-0.8
-=
-0.5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑘
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-(
-0.04
-)
-2
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-0.8
-=
-0.0008
-𝑘
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑘
-=
-1000
-0.8=0.5
-timesk
-times(0.04)
-2
-Rightarrow0.8=0.0008k
-Rightarrowk=1000
- N/m."
+"explanation": "\r\n𝑊\r\n=\r\n𝑓\r\n𝑟\r\n𝑎\r\n𝑐\r\n12\r\n𝑘\r\n𝑒\r\n2\r\nW=\r\nfrac12ke\r\n2\r\n. \r\n0.8\r\n=\r\n0.5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n𝑘\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n(\r\n0.04\r\n)\r\n2\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n0.8\r\n=\r\n0.0008\r\n𝑘\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑘\r\n=\r\n1000\r\n0.8=0.5\r\ntimesk\r\ntimes(0.04)\r\n2\r\nRightarrow0.8=0.0008k\r\nRightarrowk=1000\r\n N/m."
 },
 {
 "q": "Which of the following is a vector quantity?",
@@ -338,271 +42,22 @@ Rightarrowk=1000
 "explanation": "Magnetic flux density has both magnitude and direction. The others are scalar quantities."
 },
 {
-"q": "A body of mass 2 kg moving at 
-10
-,
-𝑚
-/
-𝑠
-10
-,m/s
- collides with a stationary body of mass 3 kg. If they move together, calculate their common velocity.",
+"q": "A body of mass 2 kg moving at \r\n10\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n10\r\n,m/s\r\n collides with a stationary body of mass 3 kg. If they move together, calculate their common velocity.",
 "opts": ["2 m/s", "4 m/s", "5 m/s", "6 m/s"],
 "ans": 1,
-"explanation": "Conservation of momentum: 
-𝑚
-1
-𝑢
-1
-+
-𝑚
-2
-𝑢
-2
-=
-(
-𝑚
-1
-+
-𝑚
-2
-)
-𝑣
-m
-1
-	​
-
-u
-1
-	​
-
-+m
-2
-	​
-
-u
-2
-	​
-
-=(m
-1
-	​
-
-+m
-2
-	​
-
-)v
-. 
-2
-(
-10
-)
-+
-3
-(
-0
-)
-=
-5
-𝑣
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-20
-=
-5
-𝑣
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑣
-=
-4
-2(10)+3(0)=5v
-Rightarrow20=5v
-Rightarrowv=4
- m/s."
+"explanation": "Conservation of momentum: \r\n𝑚\r\n1\r\n𝑢\r\n1\r\n+\r\n𝑚\r\n2\r\n𝑢\r\n2\r\n=\r\n(\r\n𝑚\r\n1\r\n+\r\n𝑚\r\n2\r\n)\r\n𝑣\r\nm\r\n1\r\n\t​\r\n\r\nu\r\n1\r\n\t​\r\n\r\n+m\r\n2\r\n\t​\r\n\r\nu\r\n2\r\n\t​\r\n\r\n=(m\r\n1\r\n\t​\r\n\r\n+m\r\n2\r\n\t​\r\n\r\n)v\r\n. \r\n2\r\n(\r\n10\r\n)\r\n+\r\n3\r\n(\r\n0\r\n)\r\n=\r\n5\r\n𝑣\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n20\r\n=\r\n5\r\n𝑣\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑣\r\n=\r\n4\r\n2(10)+3(0)=5v\r\nRightarrow20=5v\r\nRightarrowv=4\r\n m/s."
 },
 {
-"q": "The centripetal force acting on a body of mass 
-𝑚
-m
- moving with velocity 
-𝑣
-v
- in a circle of radius 
-𝑟
-r
- is _____.",
-"opts": ["
-𝑚
-𝑣
-/
-𝑟
-mv/r
-", "
-𝑚
-𝑣
-2
-/
-𝑟
-mv
-2
-/r
-", "
-𝑚
-𝑣
-/
-𝑟
-2
-mv/r
-2
-", "
-𝑚
-2
-𝑣
-/
-𝑟
-m
-2
-v/r
-"],
+"q": "The centripetal force acting on a body of mass \r\n𝑚\r\nm\r\n moving with velocity \r\n𝑣\r\nv\r\n in a circle of radius \r\n𝑟\r\nr\r\n is _____.",
+"opts": ["\r\n𝑚\r\n𝑣\r\n/\r\n𝑟\r\nmv/r\r\n", "\r\n𝑚\r\n𝑣\r\n2\r\n/\r\n𝑟\r\nmv\r\n2\r\n/r\r\n", "\r\n𝑚\r\n𝑣\r\n/\r\n𝑟\r\n2\r\nmv/r\r\n2\r\n", "\r\n𝑚\r\n2\r\n𝑣\r\n/\r\n𝑟\r\nm\r\n2\r\nv/r\r\n"],
 "ans": 1,
-"explanation": "Centripetal force is defined as 
-𝐹
-=
-𝑓
-𝑟
-𝑎
-𝑐
-𝑚
-𝑣
-2
-𝑟
-F=
-fracmv
-2
-r
-."
+"explanation": "Centripetal force is defined as \r\n𝐹\r\n=\r\n𝑓\r\n𝑟\r\n𝑎\r\n𝑐\r\n𝑚\r\n𝑣\r\n2\r\n𝑟\r\nF=\r\nfracmv\r\n2\r\nr\r\n."
 },
 {
-"q": "A hydraulic press has a small piston of area 
-0.02
-,
-𝑚
-2
-0.02
-,m
-2
- and a large piston of area 
-0.5
-,
-𝑚
-2
-0.5
-,m
-2
-. If a force of 100 N is applied to the small piston, what is the force on the large piston?",
+"q": "A hydraulic press has a small piston of area \r\n0.02\r\n,\r\n𝑚\r\n2\r\n0.02\r\n,m\r\n2\r\n and a large piston of area \r\n0.5\r\n,\r\n𝑚\r\n2\r\n0.5\r\n,m\r\n2\r\n. If a force of 100 N is applied to the small piston, what is the force on the large piston?",
 "opts": ["4 N", "250 N", "2500 N", "5000 N"],
 "ans": 2,
-"explanation": "
-𝐹
-1
-/
-𝐴
-1
-=
-𝐹
-2
-/
-𝐴
-2
-F
-1
-	​
-
-/A
-1
-	​
-
-=F
-2
-	​
-
-/A
-2
-	​
-
-. 
-100
-/
-0.02
-=
-𝐹
-2
-/
-0.5
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-5000
-=
-𝐹
-2
-/
-0.5
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝐹
-2
-=
-2500
-100/0.02=F
-2
-	​
-
-/0.5
-Rightarrow5000=F
-2
-	​
-
-/0.5
-RightarrowF
-2
-	​
-
-=2500
- N."
+"explanation": "\r\n𝐹\r\n1\r\n/\r\n𝐴\r\n1\r\n=\r\n𝐹\r\n2\r\n/\r\n𝐴\r\n2\r\nF\r\n1\r\n\t​\r\n\r\n/A\r\n1\r\n\t​\r\n\r\n=F\r\n2\r\n\t​\r\n\r\n/A\r\n2\r\n\t​\r\n\r\n. \r\n100\r\n/\r\n0.02\r\n=\r\n𝐹\r\n2\r\n/\r\n0.5\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n5000\r\n=\r\n𝐹\r\n2\r\n/\r\n0.5\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝐹\r\n2\r\n=\r\n2500\r\n100/0.02=F\r\n2\r\n\t​\r\n\r\n/0.5\r\nRightarrow5000=F\r\n2\r\n\t​\r\n\r\n/0.5\r\nRightarrowF\r\n2\r\n\t​\r\n\r\n=2500\r\n N."
 },
 {
 "q": "The clinical thermometer is designed with a narrow constriction to _____.",
@@ -611,140 +66,16 @@ RightarrowF
 "explanation": "The constriction (kink) prevents the mercury from returning to the bulb before the reading is taken."
 },
 {
-"q": "The heat required to change 1 kg of ice at 
- to water at the same temperature is _____.",
+"q": "The heat required to change 1 kg of ice at \r\n to water at the same temperature is _____.",
 "opts": ["Specific heat capacity", "Latent heat of fusion", "Latent heat of vaporization", "Heat capacity"],
 "ans": 1,
 "explanation": "Latent heat of fusion is the heat required to change a substance from solid to liquid without a change in temperature."
 },
 {
-"q": "The volume of a gas is 
-40
-,
-𝑐
-𝑚
-3
-40
-,cm
-3
- at 
-. Calculate its volume at 
- if the pressure is constant.",
-"opts": ["30.0 
-𝑐
-𝑚
-3
-cm
-3
-", "53.3 
-𝑐
-𝑚
-3
-cm
-3
-", "189.2 
-𝑐
-𝑚
-3
-cm
-3
-", "80.0 
-𝑐
-𝑚
-3
-cm
-3
-"],
+"q": "The volume of a gas is \r\n40\r\n,\r\n𝑐\r\n𝑚\r\n3\r\n40\r\n,cm\r\n3\r\n at \r\n. Calculate its volume at \r\n if the pressure is constant.",
+"opts": ["30.0 \r\n𝑐\r\n𝑚\r\n3\r\ncm\r\n3\r\n", "53.3 \r\n𝑐\r\n𝑚\r\n3\r\ncm\r\n3\r\n", "189.2 \r\n𝑐\r\n𝑚\r\n3\r\ncm\r\n3\r\n", "80.0 \r\n𝑐\r\n𝑚\r\n3\r\ncm\r\n3\r\n"],
 "ans": 1,
-"explanation": "Using Charles' Law: 
-𝑉
-1
-/
-𝑇
-1
-=
-𝑉
-2
-/
-𝑇
-2
-V
-1
-	​
-
-/T
-1
-	​
-
-=V
-2
-	​
-
-/T
-2
-	​
-
-. 
-𝑇
-1
-=
-300
-𝐾
-,
-𝑇
-2
-=
-400
-𝐾
-T
-1
-	​
-
-=300K,T
-2
-	​
-
-=400K
-. 
-40
-/
-300
-=
-𝑉
-2
-/
-400
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑉
-2
-=
-53.33
-,
-𝑐
-𝑚
-3
-40/300=V
-2
-	​
-
-/400
-RightarrowV
-2
-	​
-
-=53.33
-,cm
-3
-."
+"explanation": "Using Charles' Law: \r\n𝑉\r\n1\r\n/\r\n𝑇\r\n1\r\n=\r\n𝑉\r\n2\r\n/\r\n𝑇\r\n2\r\nV\r\n1\r\n\t​\r\n\r\n/T\r\n1\r\n\t​\r\n\r\n=V\r\n2\r\n\t​\r\n\r\n/T\r\n2\r\n\t​\r\n\r\n. \r\n𝑇\r\n1\r\n=\r\n300\r\n𝐾\r\n,\r\n𝑇\r\n2\r\n=\r\n400\r\n𝐾\r\nT\r\n1\r\n\t​\r\n\r\n=300K,T\r\n2\r\n\t​\r\n\r\n=400K\r\n. \r\n40\r\n/\r\n300\r\n=\r\n𝑉\r\n2\r\n/\r\n400\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑉\r\n2\r\n=\r\n53.33\r\n,\r\n𝑐\r\n𝑚\r\n3\r\n40/300=V\r\n2\r\n\t​\r\n\r\n/400\r\nRightarrowV\r\n2\r\n\t​\r\n\r\n=53.33\r\n,cm\r\n3\r\n."
 },
 {
 "q": "The mode of heat transfer that does not require a material medium is _____.",
@@ -753,78 +84,10 @@ RightarrowV
 "explanation": "Radiation transfers heat via electromagnetic waves, which can travel through a vacuum."
 },
 {
-"q": "An object of mass 0.5 kg is heated from 
- to 
-. If the specific heat capacity is 
-400
-,
-𝐽
-/
-𝑘
-𝑔
-𝑐
-𝑑
-𝑜
-𝑡
-𝐾
-400
-,J/kg
-cdotK
-, calculate the heat absorbed.",
+"q": "An object of mass 0.5 kg is heated from \r\n to \r\n. If the specific heat capacity is \r\n400\r\n,\r\n𝐽\r\n/\r\n𝑘\r\n𝑔\r\n𝑐\r\n𝑑\r\n𝑜\r\n𝑡\r\n𝐾\r\n400\r\n,J/kg\r\ncdotK\r\n, calculate the heat absorbed.",
 "opts": ["16,000 J", "32,000 J", "40,000 J", "20,000 J"],
 "ans": 0,
-"explanation": "
-𝑄
-=
-𝑚
-𝑐
-𝐷
-𝑒
-𝑙
-𝑡
-𝑎
-𝑡
-ℎ
-𝑒
-𝑡
-𝑎
-=
-0.5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-400
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-(
-100
-−
-20
-)
-=
-200
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-80
-=
-16
-,
-000
-Q=mc
-Delta
-theta=0.5
-times400
-times(100−20)=200
-times80=16,000
- J."
+"explanation": "\r\n𝑄\r\n=\r\n𝑚\r\n𝑐\r\n𝐷\r\n𝑒\r\n𝑙\r\n𝑡\r\n𝑎\r\n𝑡\r\nℎ\r\n𝑒\r\n𝑡\r\n𝑎\r\n=\r\n0.5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n400\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n(\r\n100\r\n−\r\n20\r\n)\r\n=\r\n200\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n80\r\n=\r\n16\r\n,\r\n000\r\nQ=mc\r\nDelta\r\ntheta=0.5\r\ntimes400\r\ntimes(100−20)=200\r\ntimes80=16,000\r\n J."
 },
 {
 "q": "The temperature at which the saturated vapor pressure of a liquid equals the atmospheric pressure is the _____.",
@@ -836,30 +99,7 @@ times80=16,000
 "q": "A wave has a frequency of 500 Hz and a wavelength of 0.7 m. Calculate its velocity.",
 "opts": ["35 m/s", "350 m/s", "714 m/s", "1500 m/s"],
 "ans": 1,
-"explanation": "
-𝑣
-=
-𝑓
-𝑙
-𝑎
-𝑚
-𝑏
-𝑑
-𝑎
-=
-500
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-0.7
-=
-350
-v=f
-lambda=500
-times0.7=350
- m/s."
+"explanation": "\r\n𝑣\r\n=\r\n𝑓\r\n𝑙\r\n𝑎\r\n𝑚\r\n𝑏\r\n𝑑\r\n𝑎\r\n=\r\n500\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n0.7\r\n=\r\n350\r\nv=f\r\nlambda=500\r\ntimes0.7=350\r\n m/s."
 },
 {
 "q": "Transverse waves can be _____ while longitudinal waves cannot.",
@@ -871,225 +111,13 @@ times0.7=350
 "q": "An object is placed 15 cm in front of a concave mirror of focal length 10 cm. Calculate the image distance.",
 "opts": ["6 cm", "25 cm", "30 cm", "60 cm"],
 "ans": 2,
-"explanation": "
-1
-/
-𝑓
-=
-1
-/
-𝑢
-+
-1
-/
-𝑣
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-1
-/
-10
-=
-1
-/
-15
-+
-1
-/
-𝑣
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-1
-/
-𝑣
-=
-1
-/
-10
-−
-1
-/
-15
-=
-1
-/
-30
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑣
-=
-30
-1/f=1/u+1/v
-Rightarrow1/10=1/15+1/v
-Rightarrow1/v=1/10−1/15=1/30
-Rightarrowv=30
- cm."
+"explanation": "\r\n1\r\n/\r\n𝑓\r\n=\r\n1\r\n/\r\n𝑢\r\n+\r\n1\r\n/\r\n𝑣\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n1\r\n/\r\n10\r\n=\r\n1\r\n/\r\n15\r\n+\r\n1\r\n/\r\n𝑣\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n1\r\n/\r\n𝑣\r\n=\r\n1\r\n/\r\n10\r\n−\r\n1\r\n/\r\n15\r\n=\r\n1\r\n/\r\n30\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑣\r\n=\r\n30\r\n1/f=1/u+1/v\r\nRightarrow1/10=1/15+1/v\r\nRightarrow1/v=1/10−1/15=1/30\r\nRightarrowv=30\r\n cm."
 },
 {
-"q": "The refractive index of glass is 1.5. Calculate the speed of light in glass. (
-𝑐
-=
-3
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-8
-,
-𝑚
-/
-𝑠
-c=3
-times10
-8
-,m/s
-)",
-"opts": ["
-2.0
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-8
-,
-𝑚
-/
-𝑠
-2.0
-times10
-8
-,m/s
-", "
-4.5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-8
-,
-𝑚
-/
-𝑠
-4.5
-times10
-8
-,m/s
-", "
-1.5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-8
-,
-𝑚
-/
-𝑠
-1.5
-times10
-8
-,m/s
-", "
-2.5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-8
-,
-𝑚
-/
-𝑠
-2.5
-times10
-8
-,m/s
-"],
+"q": "The refractive index of glass is 1.5. Calculate the speed of light in glass. (\r\n𝑐\r\n=\r\n3\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n8\r\n,\r\n𝑚\r\n/\r\n𝑠\r\nc=3\r\ntimes10\r\n8\r\n,m/s\r\n)",
+"opts": ["\r\n2.0\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n8\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n2.0\r\ntimes10\r\n8\r\n,m/s\r\n", "\r\n4.5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n8\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n4.5\r\ntimes10\r\n8\r\n,m/s\r\n", "\r\n1.5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n8\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n1.5\r\ntimes10\r\n8\r\n,m/s\r\n", "\r\n2.5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n8\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n2.5\r\ntimes10\r\n8\r\n,m/s\r\n"],
 "ans": 0,
-"explanation": "
-𝑛
-=
-𝑐
-/
-𝑣
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑣
-=
-𝑐
-/
-𝑛
-=
-(
-3
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-8
-)
-/
-1.5
-=
-2.0
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-8
-n=c/v
-Rightarrowv=c/n=(3
-times10
-8
-)/1.5=2.0
-times10
-8
- m/s."
+"explanation": "\r\n𝑛\r\n=\r\n𝑐\r\n/\r\n𝑣\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑣\r\n=\r\n𝑐\r\n/\r\n𝑛\r\n=\r\n(\r\n3\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n8\r\n)\r\n/\r\n1.5\r\n=\r\n2.0\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n8\r\nn=c/v\r\nRightarrowv=c/n=(3\r\ntimes10\r\n8\r\n)/1.5=2.0\r\ntimes10\r\n8\r\n m/s."
 },
 {
 "q": "The type of lens used to correct hypermetropia (long-sightedness) is _____.",
@@ -1104,57 +132,10 @@ times10
 "explanation": "Total internal reflection occurs only when light moves from a denser to a less dense medium and the angle of incidence exceeds the critical angle."
 },
 {
-"q": "A person hears an echo from a cliff 2 seconds after shouting. If the speed of sound is 
-340
-,
-𝑚
-/
-𝑠
-340
-,m/s
-, calculate the distance to the cliff.",
+"q": "A person hears an echo from a cliff 2 seconds after shouting. If the speed of sound is \r\n340\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n340\r\n,m/s\r\n, calculate the distance to the cliff.",
 "opts": ["170 m", "340 m", "680 m", "85 m"],
 "ans": 1,
-"explanation": "
-𝑣
-=
-2
-𝑑
-/
-𝑡
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-340
-=
-2
-𝑑
-/
-2
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑑
-=
-340
-v=2d/t
-Rightarrow340=2d/2
-Rightarrowd=340
- m."
+"explanation": "\r\n𝑣\r\n=\r\n2\r\n𝑑\r\n/\r\n𝑡\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n340\r\n=\r\n2\r\n𝑑\r\n/\r\n2\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑑\r\n=\r\n340\r\nv=2d/t\r\nRightarrow340=2d/2\r\nRightarrowd=340\r\n m."
 },
 {
 "q": "The pitch of a musical note depends on its _____.",
@@ -1169,84 +150,10 @@ Rightarrowd=340
 "explanation": "Quality or Timbre depends on the overtones or harmonics produced by the instrument."
 },
 {
-"q": "Three resistors of 
-2
-,
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-2
-,
-Omega
-, 
-4
-,
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-4
-,
-Omega
-, and 
-6
-,
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-6
-,
-Omega
- are connected in series. If a 24 V battery is connected, calculate the current.",
+"q": "Three resistors of \r\n2\r\n,\r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\n2\r\n,\r\nOmega\r\n, \r\n4\r\n,\r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\n4\r\n,\r\nOmega\r\n, and \r\n6\r\n,\r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\n6\r\n,\r\nOmega\r\n are connected in series. If a 24 V battery is connected, calculate the current.",
 "opts": ["2 A", "4 A", "12 A", "24 A"],
 "ans": 0,
-"explanation": "
-𝑅
-𝑡
-𝑜
-𝑡
-𝑎
-𝑙
-=
-2
-+
-4
-+
-6
-=
-12
-,
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-R
-total
-	​
-
-=2+4+6=12
-,
-Omega
-. 
-𝐼
-=
-𝑉
-/
-𝑅
-=
-24
-/
-12
-=
-2
-I=V/R=24/12=2
- A."
+"explanation": "\r\n𝑅\r\n𝑡\r\n𝑜\r\n𝑡\r\n𝑎\r\n𝑙\r\n=\r\n2\r\n+\r\n4\r\n+\r\n6\r\n=\r\n12\r\n,\r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nR\r\ntotal\r\n\t​\r\n\r\n=2+4+6=12\r\n,\r\nOmega\r\n. \r\n𝐼\r\n=\r\n𝑉\r\n/\r\n𝑅\r\n=\r\n24\r\n/\r\n12\r\n=\r\n2\r\nI=V/R=24/12=2\r\n A."
 },
 {
 "q": "The unit of electric potential is the _____.",
@@ -1255,78 +162,10 @@ I=V/R=24/12=2
 "explanation": "The Volt is the S.I. unit of electric potential and electromotive force."
 },
 {
-"q": "A capacitor of 
-5
-,
-𝑚
-𝑢
-𝐹
-5
-,
-muF
- is connected to a 10 V source. Calculate the charge stored.",
-"opts": ["
-0.5
-,
-𝑚
-𝑢
-𝐶
-0.5
-,
-muC
-", "
-50
-,
-𝑚
-𝑢
-𝐶
-50
-,
-muC
-", "
-2
-,
-𝑚
-𝑢
-𝐶
-2
-,
-muC
-", "
-15
-,
-𝑚
-𝑢
-𝐶
-15
-,
-muC
-"],
+"q": "A capacitor of \r\n5\r\n,\r\n𝑚\r\n𝑢\r\n𝐹\r\n5\r\n,\r\nmuF\r\n is connected to a 10 V source. Calculate the charge stored.",
+"opts": ["\r\n0.5\r\n,\r\n𝑚\r\n𝑢\r\n𝐶\r\n0.5\r\n,\r\nmuC\r\n", "\r\n50\r\n,\r\n𝑚\r\n𝑢\r\n𝐶\r\n50\r\n,\r\nmuC\r\n", "\r\n2\r\n,\r\n𝑚\r\n𝑢\r\n𝐶\r\n2\r\n,\r\nmuC\r\n", "\r\n15\r\n,\r\n𝑚\r\n𝑢\r\n𝐶\r\n15\r\n,\r\nmuC\r\n"],
 "ans": 1,
-"explanation": "
-𝑄
-=
-𝐶
-𝑉
-=
-5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-=
-50
-,
-𝑚
-𝑢
-𝐶
-Q=CV=5
-times10=50
-,
-muC
-."
+"explanation": "\r\n𝑄\r\n=\r\n𝐶\r\n𝑉\r\n=\r\n5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n=\r\n50\r\n,\r\n𝑚\r\n𝑢\r\n𝐶\r\nQ=CV=5\r\ntimes10=50\r\n,\r\nmuC\r\n."
 },
 {
 "q": "Which of the following materials is a semiconductor?",
@@ -1338,86 +177,7 @@ muC
 "q": "A transformer has 100 turns in the primary and 500 turns in the secondary. If the input voltage is 220 V, the output voltage is _____.",
 "opts": ["44 V", "110 V", "1100 V", "2200 V"],
 "ans": 2,
-"explanation": "
-𝑉
-𝑠
-/
-𝑉
-𝑝
-=
-𝑁
-𝑠
-/
-𝑁
-𝑝
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑉
-𝑠
-/
-220
-=
-500
-/
-100
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑉
-𝑠
-=
-5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-220
-=
-1100
-V
-s
-	​
-
-/V
-p
-	​
-
-=N
-s
-	​
-
-/N
-p
-	​
-
-RightarrowV
-s
-	​
-
-/220=500/100
-RightarrowV
-s
-	​
-
-=5
-times220=1100
- V."
+"explanation": "\r\n𝑉\r\n𝑠\r\n/\r\n𝑉\r\n𝑝\r\n=\r\n𝑁\r\n𝑠\r\n/\r\n𝑁\r\n𝑝\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑉\r\n𝑠\r\n/\r\n220\r\n=\r\n500\r\n/\r\n100\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑉\r\n𝑠\r\n=\r\n5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n220\r\n=\r\n1100\r\nV\r\ns\r\n\t​\r\n\r\n/V\r\np\r\n\t​\r\n\r\n=N\r\ns\r\n\t​\r\n\r\n/N\r\np\r\n\t​\r\n\r\nRightarrowV\r\ns\r\n\t​\r\n\r\n/220=500/100\r\nRightarrowV\r\ns\r\n\t​\r\n\r\n=5\r\ntimes220=1100\r\n V."
 },
 {
 "q": "The process of adding impurities to a pure semiconductor to increase conductivity is _____.",
@@ -1432,180 +192,16 @@ times220=1100
 "explanation": "Thermionic emission involves the escape of electrons from a metal due to thermal energy."
 },
 {
-"q": "Calculate the energy of a photon of frequency 
-6
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-14
-,
-𝐻
-𝑧
-6
-times10
-14
-,Hz
-. (
-ℎ
-=
-6.6
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-34
-,
-𝐽
-𝑠
-h=6.6
-times10
-−34
-,Js
-)",
-"opts": ["
-3.96
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-19
-𝐽
-3.96
-times10
-−19
-J
-", "
-1.1
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-48
-𝐽
-1.1
-times10
-−48
-J
-", "
-4.0
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-20
-𝐽
-4.0
-times10
-−20
-J
-", "
-6.6
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-34
-𝐽
-6.6
-times10
-−34
-J
-"],
+"q": "Calculate the energy of a photon of frequency \r\n6\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n14\r\n,\r\n𝐻\r\n𝑧\r\n6\r\ntimes10\r\n14\r\n,Hz\r\n. (\r\nℎ\r\n=\r\n6.6\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n34\r\n,\r\n𝐽\r\n𝑠\r\nh=6.6\r\ntimes10\r\n−34\r\n,Js\r\n)",
+"opts": ["\r\n3.96\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n19\r\n𝐽\r\n3.96\r\ntimes10\r\n−19\r\nJ\r\n", "\r\n1.1\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n48\r\n𝐽\r\n1.1\r\ntimes10\r\n−48\r\nJ\r\n", "\r\n4.0\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n20\r\n𝐽\r\n4.0\r\ntimes10\r\n−20\r\nJ\r\n", "\r\n6.6\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n34\r\n𝐽\r\n6.6\r\ntimes10\r\n−34\r\nJ\r\n"],
 "ans": 0,
-"explanation": "
-𝐸
-=
-ℎ
-𝑓
-=
-6.6
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-34
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-6
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-14
-=
-39.6
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-20
-=
-3.96
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-19
-E=hf=6.6
-times10
-−34
-times6
-times10
-14
-=39.6
-times10
-−20
-=3.96
-times10
-−19
- J."
+"explanation": "\r\n𝐸\r\n=\r\nℎ\r\n𝑓\r\n=\r\n6.6\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n34\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n6\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n14\r\n=\r\n39.6\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n20\r\n=\r\n3.96\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n19\r\nE=hf=6.6\r\ntimes10\r\n−34\r\ntimes6\r\ntimes10\r\n14\r\n=39.6\r\ntimes10\r\n−20\r\n=3.96\r\ntimes10\r\n−19\r\n J."
 },
 {
 "q": "The time taken for a radioactive sample to decay to half its original mass is its _____.",
 "opts": ["Mean life", "Decay constant", "Half-life", "Period"],
 "ans": 2,
-"explanation": "Half-life (
-𝑇
-1
-/
-2
-T
-1/2
-	​
-
-) is the characteristic time required for half the atoms in a sample to decay."
+"explanation": "Half-life (\r\n𝑇\r\n1\r\n/\r\n2\r\nT\r\n1/2\r\n\t​\r\n\r\n) is the characteristic time required for half the atoms in a sample to decay."
 },
 {
 "q": "In nuclear fission, a heavy nucleus splits into two smaller nuclei with the release of _____.",
@@ -1627,30 +223,9 @@ T
 },
 {
 "q": "The S.I. unit of pressure is _____.",
-"opts": ["
-𝑁
-/
-𝑚
-N/m
-", "
-𝑁
-𝑐
-𝑑
-𝑜
-𝑡
-𝑚
-N
-cdotm
-", "Pascal", "Joule"],
+"opts": ["\r\n𝑁\r\n/\r\n𝑚\r\nN/m\r\n", "\r\n𝑁\r\n𝑐\r\n𝑑\r\n𝑜\r\n𝑡\r\n𝑚\r\nN\r\ncdotm\r\n", "Pascal", "Joule"],
 "ans": 2,
-"explanation": "One Pascal (Pa) is defined as one Newton per square meter (
-𝑁
-/
-𝑚
-2
-N/m
-2
-)."
+"explanation": "One Pascal (Pa) is defined as one Newton per square meter (\r\n𝑁\r\n/\r\n𝑚\r\n2\r\nN/m\r\n2\r\n)."
 },
 {
 "q": "Archimedes' Principle states that when a body is immersed in a fluid, it experiences an upthrust equal to the _____.",
@@ -1671,61 +246,10 @@ N/m
 "explanation": "Magnetic flux is a scalar product of B and A. Momentum, Field Intensity, and Acceleration are vectors."
 },
 {
-"q": "Calculate the power of a pump that lifts 500 kg of water through a height of 10 m in 20 s. (
-𝑔
-=
-10
-,
-𝑚
-/
-𝑠
-2
-g=10
-,m/s
-2
-)",
+"q": "Calculate the power of a pump that lifts 500 kg of water through a height of 10 m in 20 s. (\r\n𝑔\r\n=\r\n10\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n2\r\ng=10\r\n,m/s\r\n2\r\n)",
 "opts": ["250 W", "2500 W", "5000 W", "1000 W"],
 "ans": 1,
-"explanation": "
-𝑃
-=
-𝑊
-/
-𝑡
-=
-𝑚
-𝑔
-ℎ
-/
-𝑡
-=
-(
-500
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-)
-/
-20
-=
-50000
-/
-20
-=
-2500
-P=W/t=mgh/t=(500
-times10
-times10)/20=50000/20=2500
- W."
+"explanation": "\r\n𝑃\r\n=\r\n𝑊\r\n/\r\n𝑡\r\n=\r\n𝑚\r\n𝑔\r\nℎ\r\n/\r\n𝑡\r\n=\r\n(\r\n500\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n)\r\n/\r\n20\r\n=\r\n50000\r\n/\r\n20\r\n=\r\n2500\r\nP=W/t=mgh/t=(500\r\ntimes10\r\ntimes10)/20=50000/20=2500\r\n W."
 },
 {
 "q": "The instrument used to measure relative humidity is the _____.",
@@ -1740,292 +264,16 @@ times10)/20=50000/20=2500
 "explanation": "Red light has the longest wavelength and the lowest refractive index in glass, so it is deviated the least."
 },
 {
-"q": "The work function of a metal is 
-3.3
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-19
-𝐽
-3.3
-times10
-−19
-J
-. Calculate the threshold frequency. (
-ℎ
-=
-6.6
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-34
-,
-𝐽
-𝑠
-h=6.6
-times10
-−34
-,Js
-)",
-"opts": ["
-0.5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-15
-𝐻
-𝑧
-0.5
-times10
-15
-Hz
-", "
-2.0
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-14
-𝐻
-𝑧
-2.0
-times10
-14
-Hz
-", "
-5.0
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-14
-𝐻
-𝑧
-5.0
-times10
-14
-Hz
-", "
-1.0
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-15
-𝐻
-𝑧
-1.0
-times10
-15
-Hz
-"],
+"q": "The work function of a metal is \r\n3.3\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n19\r\n𝐽\r\n3.3\r\ntimes10\r\n−19\r\nJ\r\n. Calculate the threshold frequency. (\r\nℎ\r\n=\r\n6.6\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n34\r\n,\r\n𝐽\r\n𝑠\r\nh=6.6\r\ntimes10\r\n−34\r\n,Js\r\n)",
+"opts": ["\r\n0.5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n15\r\n𝐻\r\n𝑧\r\n0.5\r\ntimes10\r\n15\r\nHz\r\n", "\r\n2.0\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n14\r\n𝐻\r\n𝑧\r\n2.0\r\ntimes10\r\n14\r\nHz\r\n", "\r\n5.0\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n14\r\n𝐻\r\n𝑧\r\n5.0\r\ntimes10\r\n14\r\nHz\r\n", "\r\n1.0\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n15\r\n𝐻\r\n𝑧\r\n1.0\r\ntimes10\r\n15\r\nHz\r\n"],
 "ans": 2,
-"explanation": "
-𝑊
-=
-ℎ
-𝑓
-0
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑓
-0
-=
-𝑊
-/
-ℎ
-=
-(
-3.3
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-19
-)
-/
-(
-6.6
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-−
-34
-)
-=
-0.5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-15
-=
-5.0
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-14
-W=hf
-0
-	​
-
-Rightarrowf
-0
-	​
-
-=W/h=(3.3
-times10
-−19
-)/(6.6
-times10
-−34
-)=0.5
-times10
-15
-=5.0
-times10
-14
- Hz."
+"explanation": "\r\n𝑊\r\n=\r\nℎ\r\n𝑓\r\n0\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑓\r\n0\r\n=\r\n𝑊\r\n/\r\nℎ\r\n=\r\n(\r\n3.3\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n19\r\n)\r\n/\r\n(\r\n6.6\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n−\r\n34\r\n)\r\n=\r\n0.5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n15\r\n=\r\n5.0\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n14\r\nW=hf\r\n0\r\n\t​\r\n\r\nRightarrowf\r\n0\r\n\t​\r\n\r\n=W/h=(3.3\r\ntimes10\r\n−19\r\n)/(6.6\r\ntimes10\r\n−34\r\n)=0.5\r\ntimes10\r\n15\r\n=5.0\r\ntimes10\r\n14\r\n Hz."
 },
 {
-"q": "The resistance of a wire is 
-10
-,
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-10
-,
-Omega
-. If its length is doubled and its area is halved, the new resistance is _____.",
-"opts": ["10 
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-Omega
-", "20 
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-Omega
-", "40 
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-Omega
-", "5 
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-Omega
-"],
+"q": "The resistance of a wire is \r\n10\r\n,\r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\n10\r\n,\r\nOmega\r\n. If its length is doubled and its area is halved, the new resistance is _____.",
+"opts": ["10 \r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nOmega\r\n", "20 \r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nOmega\r\n", "40 \r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nOmega\r\n", "5 \r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nOmega\r\n"],
 "ans": 2,
-"explanation": "
-𝑅
-=
-𝑟
-ℎ
-𝑜
-𝐿
-/
-𝐴
-R=
-rhoL/A
-. New 
-𝑅
-=
-𝑟
-ℎ
-𝑜
-(
-2
-𝐿
-)
-/
-(
-𝐴
-/
-2
-)
-=
-4
-(
-𝑟
-ℎ
-𝑜
-𝐿
-/
-𝐴
-)
-=
-4
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-=
-40
-,
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-R=
-rho(2L)/(A/2)=4(
-rhoL/A)=4
-times10=40
-,
-Omega
-."
+"explanation": "\r\n𝑅\r\n=\r\n𝑟\r\nℎ\r\n𝑜\r\n𝐿\r\n/\r\n𝐴\r\nR=\r\nrhoL/A\r\n. New \r\n𝑅\r\n=\r\n𝑟\r\nℎ\r\n𝑜\r\n(\r\n2\r\n𝐿\r\n)\r\n/\r\n(\r\n𝐴\r\n/\r\n2\r\n)\r\n=\r\n4\r\n(\r\n𝑟\r\nℎ\r\n𝑜\r\n𝐿\r\n/\r\n𝐴\r\n)\r\n=\r\n4\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n=\r\n40\r\n,\r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nR=\r\nrho(2L)/(A/2)=4(\r\nrhoL/A)=4\r\ntimes10=40\r\n,\r\nOmega\r\n."
 },
 {
 "q": "The particle that carries a negative charge in an atom is the _____.",
@@ -2035,93 +283,9 @@ Omega
 },
 {
 "q": "An electric iron is rated 1000 W, 220 V. Calculate the resistance of the heating element.",
-"opts": ["0.22 
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-Omega
-", "4.54 
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-Omega
-", "48.4 
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-Omega
-", "220,000 
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-Omega
-"],
+"opts": ["0.22 \r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nOmega\r\n", "4.54 \r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nOmega\r\n", "48.4 \r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nOmega\r\n", "220,000 \r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nOmega\r\n"],
 "ans": 2,
-"explanation": "
-𝑃
-=
-𝑉
-2
-/
-𝑅
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑅
-=
-𝑉
-2
-/
-𝑃
-=
-(
-220
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-220
-)
-/
-1000
-=
-48400
-/
-1000
-=
-48.4
-,
-𝑂
-𝑚
-𝑒
-𝑔
-𝑎
-P=V
-2
-/R
-RightarrowR=V
-2
-/P=(220
-times220)/1000=48400/1000=48.4
-,
-Omega
-."
+"explanation": "\r\n𝑃\r\n=\r\n𝑉\r\n2\r\n/\r\n𝑅\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑅\r\n=\r\n𝑉\r\n2\r\n/\r\n𝑃\r\n=\r\n(\r\n220\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n220\r\n)\r\n/\r\n1000\r\n=\r\n48400\r\n/\r\n1000\r\n=\r\n48.4\r\n,\r\n𝑂\r\n𝑚\r\n𝑒\r\n𝑔\r\n𝑎\r\nP=V\r\n2\r\n/R\r\nRightarrowR=V\r\n2\r\n/P=(220\r\ntimes220)/1000=48400/1000=48.4\r\n,\r\nOmega\r\n."
 },
 {
 "q": "The phenomena that demonstrates the wave nature of light is _____.",
@@ -2133,63 +297,13 @@ Omega
 "q": "The magnifying power of a telescope with an objective of focal length 100 cm and an eyepiece of focal length 5 cm is _____.",
 "opts": ["20", "500", "0.05", "105"],
 "ans": 0,
-"explanation": "
-𝑀
-=
-𝑓
-𝑜
-/
-𝑓
-𝑒
-=
-100
-/
-5
-=
-20
-M=f
-o
-	​
-
-/f
-e
-	​
-
-=100/5=20
-."
+"explanation": "\r\n𝑀\r\n=\r\n𝑓\r\n𝑜\r\n/\r\n𝑓\r\n𝑒\r\n=\r\n100\r\n/\r\n5\r\n=\r\n20\r\nM=f\r\no\r\n\t​\r\n\r\n/f\r\ne\r\n\t​\r\n\r\n=100/5=20\r\n."
 },
 {
-"q": "A simple pendulum has a period of 2 s on Earth. If it is taken to the Moon where gravity is 
-1
-/
-6
-1/6
- of Earth's, the period will _____.",
+"q": "A simple pendulum has a period of 2 s on Earth. If it is taken to the Moon where gravity is \r\n1\r\n/\r\n6\r\n1/6\r\n of Earth's, the period will _____.",
 "opts": ["increase", "decrease", "remain the same", "become zero"],
 "ans": 0,
-"explanation": "
-𝑇
-=
-2
-𝑝
-𝑖
-𝑠
-𝑞
-𝑟
-𝑡
-𝐿
-/
-𝑔
-T=2
-pi
-sqrtL/g
-. If 
-𝑔
-g
- decreases, 
-𝑇
-T
- increases."
+"explanation": "\r\n𝑇\r\n=\r\n2\r\n𝑝\r\n𝑖\r\n𝑠\r\n𝑞\r\n𝑟\r\n𝑡\r\n𝐿\r\n/\r\n𝑔\r\nT=2\r\npi\r\nsqrtL/g\r\n. If \r\n𝑔\r\ng\r\n decreases, \r\n𝑇\r\nT\r\n increases."
 },
 {
 "q": "The unit of magnetic flux is the _____.",
@@ -2207,34 +321,7 @@ T
 "q": "The boiling point of water in the Kelvin scale is _____.",
 "opts": ["100 K", "273 K", "373 K", "0 K"],
 "ans": 2,
-"explanation": "
-𝑇
-(
-𝐾
-)
-=
-𝜃
-(
-∘
-𝐶
-)
-+
-273
-T(K)=θ(
-∘
-C)+273
-. Water boils at 
-100
-∘
-𝐶
-100
-∘
-C
-, which is 
-373
-𝐾
-373K
-."
+"explanation": "\r\n𝑇\r\n(\r\n𝐾\r\n)\r\n=\r\n𝜃\r\n(\r\n∘\r\n𝐶\r\n)\r\n+\r\n273\r\nT(K)=θ(\r\n∘\r\nC)+273\r\n. Water boils at \r\n100\r\n∘\r\n𝐶\r\n100\r\n∘\r\nC\r\n, which is \r\n373\r\n𝐾\r\n373K\r\n."
 },
 {
 "q": "The mercury-in-glass thermometer works on the principle of _____.",
@@ -2252,51 +339,13 @@ C
 "q": "A force of 50 N acts on a body of mass 5 kg for 2 seconds. Calculate the change in momentum.",
 "opts": ["10 kg m/s", "25 kg m/s", "50 kg m/s", "100 kg m/s"],
 "ans": 3,
-"explanation": "Change in momentum = Impulse = 
-𝐹
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-𝑡
-=
-50
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-2
-=
-100
-F
-timest=50
-times2=100
- kg m/s."
+"explanation": "Change in momentum = Impulse = \r\n𝐹\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n𝑡\r\n=\r\n50\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n2\r\n=\r\n100\r\nF\r\ntimest=50\r\ntimes2=100\r\n kg m/s."
 },
 {
 "q": "The escape velocity of an object from the Earth's surface is approximately _____.",
 "opts": ["7.9 km/s", "11.2 km/s", "3.0 km/s", "42.0 km/s"],
 "ans": 1,
-"explanation": "The standard value for Earth's escape velocity is 
-11.2
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-10
-3
-,
-𝑚
-/
-𝑠
-11.2
-times10
-3
-,m/s
-."
+"explanation": "The standard value for Earth's escape velocity is \r\n11.2\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n10\r\n3\r\n,\r\n𝑚\r\n/\r\n𝑠\r\n11.2\r\ntimes10\r\n3\r\n,m/s\r\n."
 },
 {
 "q": "The component that converts AC to DC is a _____.",
@@ -2311,55 +360,10 @@ times10
 "explanation": "Sound is a mechanical wave and requires a material medium to propagate."
 },
 {
-"q": "The fundamental frequency of a closed pipe of length 
-𝐿
-L
- is _____.",
-"opts": ["
-𝑣
-/
-2
-𝐿
-v/2L
-", "
-𝑣
-/
-4
-𝐿
-v/4L
-", "
-2
-𝑣
-/
-𝐿
-2v/L
-", "
-𝑣
-/
-𝐿
-v/L
-"],
+"q": "The fundamental frequency of a closed pipe of length \r\n𝐿\r\nL\r\n is _____.",
+"opts": ["\r\n𝑣\r\n/\r\n2\r\n𝐿\r\nv/2L\r\n", "\r\n𝑣\r\n/\r\n4\r\n𝐿\r\nv/4L\r\n", "\r\n2\r\n𝑣\r\n/\r\n𝐿\r\n2v/L\r\n", "\r\n𝑣\r\n/\r\n𝐿\r\nv/L\r\n"],
 "ans": 1,
-"explanation": "For a closed pipe, the first harmonic occurs at 
-𝑙
-𝑎
-𝑚
-𝑏
-𝑑
-𝑎
-=
-4
-𝐿
-lambda=4L
-, so 
-𝑓
-=
-𝑣
-/
-4
-𝐿
-f=v/4L
-."
+"explanation": "For a closed pipe, the first harmonic occurs at \r\n𝑙\r\n𝑎\r\n𝑚\r\n𝑏\r\n𝑑\r\n𝑎\r\n=\r\n4\r\n𝐿\r\nlambda=4L\r\n, so \r\n𝑓\r\n=\r\n𝑣\r\n/\r\n4\r\n𝐿\r\nf=v/4L\r\n."
 },
 {
 "q": "An isotope of an element has the same number of _____.",
@@ -2383,49 +387,13 @@ f=v/4L
 "q": "Calculate the current flowing through a 100 W bulb connected to a 250 V supply.",
 "opts": ["0.4 A", "2.5 A", "25 A", "40 A"],
 "ans": 0,
-"explanation": "
-𝐼
-=
-𝑃
-/
-𝑉
-=
-100
-/
-250
-=
-0.4
-I=P/V=100/250=0.4
- A."
+"explanation": "\r\n𝐼\r\n=\r\n𝑃\r\n/\r\n𝑉\r\n=\r\n100\r\n/\r\n250\r\n=\r\n0.4\r\nI=P/V=100/250=0.4\r\n A."
 },
 {
 "q": "The force between two point charges is inversely proportional to the _____.",
 "opts": ["product of the charges", "distance between them", "square of the distance between them", "permittivity"],
 "ans": 2,
-"explanation": "According to Coulomb's Law, 
-𝐹
-=
-𝑘
-(
-𝑞
-1
-𝑞
-2
-)
-/
-𝑟
-2
-F=k(q
-1
-	​
-
-q
-2
-	​
-
-)/r
-2
-."
+"explanation": "According to Coulomb's Law, \r\n𝐹\r\n=\r\n𝑘\r\n(\r\n𝑞\r\n1\r\n𝑞\r\n2\r\n)\r\n/\r\n𝑟\r\n2\r\nF=k(q\r\n1\r\n\t​\r\n\r\nq\r\n2\r\n\t​\r\n\r\n)/r\r\n2\r\n."
 },
 {
 "q": "The primary objective of a step-up transformer is to increase _____.",
@@ -2447,64 +415,8 @@ q
 },
 {
 "q": "The S.I. unit of viscosity is _____.",
-"opts": ["
-𝑘
-𝑔
-/
-𝑚
-𝑐
-𝑑
-𝑜
-𝑡
-𝑠
-kg/m
-cdots
-", "
-𝑁
-𝑐
-𝑑
-𝑜
-𝑡
-𝑚
-N
-cdotm
-", "
-𝑁
-/
-𝑚
-2
-N/m
-2
-", "Pascal"],
+"opts": ["\r\n𝑘\r\n𝑔\r\n/\r\n𝑚\r\n𝑐\r\n𝑑\r\n𝑜\r\n𝑡\r\n𝑠\r\nkg/m\r\ncdots\r\n", "\r\n𝑁\r\n𝑐\r\n𝑑\r\n𝑜\r\n𝑡\r\n𝑚\r\nN\r\ncdotm\r\n", "\r\n𝑁\r\n/\r\n𝑚\r\n2\r\nN/m\r\n2\r\n", "Pascal"],
 "ans": 0,
-"explanation": "The unit of viscosity is the Poiseuille (
-𝑘
-𝑔
-𝑐
-𝑑
-𝑜
-𝑡
-𝑚
-−
-1
-𝑠
-−
-1
-kg
-cdotm
-−1
-s
-−1
- or 
-𝑃
-𝑎
-𝑐
-𝑑
-𝑜
-𝑡
-𝑠
-Pa
-cdots
-)."
+"explanation": "The unit of viscosity is the Poiseuille (\r\n𝑘\r\n𝑔\r\n𝑐\r\n𝑑\r\n𝑜\r\n𝑡\r\n𝑚\r\n−\r\n1\r\n𝑠\r\n−\r\n1\r\nkg\r\ncdotm\r\n−1\r\ns\r\n−1\r\n or \r\n𝑃\r\n𝑎\r\n𝑐\r\n𝑑\r\n𝑜\r\n𝑡\r\n𝑠\r\nPa\r\ncdots\r\n)."
 }
 ]

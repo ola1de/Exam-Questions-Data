@@ -1,1 +1,651 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "A pair of rhymed lines is a:",
+    "opts": [
+      "stanza",
+      "quatrain",
+      "couplet",
+      "tercet"
+    ],
+    "ans": 2,
+    "explanation": "A couplet is two rhymed lines.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Poetry",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these works was written by William Golding?",
+    "opts": [
+      "Lord of the Flies",
+      "The Lion and the Jewel",
+      "The Trials of Brother Jero",
+      "Things Fall Apart"
+    ],
+    "ans": 0,
+    "explanation": "'Lord of the Flies' was written by William Golding.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'Mine Boy'?",
+    "opts": [
+      "Wole Soyinka",
+      "Chinua Achebe",
+      "Chimamanda Ngozi Adichie",
+      "Peter Abrahams"
+    ],
+    "ans": 3,
+    "explanation": "'Mine Boy' was written by Peter Abrahams.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'Arrow of God'?",
+    "opts": [
+      "Elechi Amadi",
+      "Chimamanda Ngozi Adichie",
+      "Wole Soyinka",
+      "Chinua Achebe"
+    ],
+    "ans": 3,
+    "explanation": "'Arrow of God' was written by Chinua Achebe.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A play that ends sadly for the hero is a:",
+    "opts": [
+      "farce",
+      "tragedy",
+      "melodrama",
+      "comedy"
+    ],
+    "ans": 1,
+    "explanation": "Tragedy ends in the hero's downfall.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'A Grain of Wheat'?",
+    "opts": [
+      "Ngugi wa Thiong'o",
+      "Chimamanda Ngozi Adichie",
+      "Wole Soyinka",
+      "Chinua Achebe"
+    ],
+    "ans": 0,
+    "explanation": "'A Grain of Wheat' was written by Ngugi wa Thiong'o.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'Anowa'?",
+    "opts": [
+      "Chimamanda Ngozi Adichie",
+      "Ama Ata Aidoo",
+      "Chinua Achebe",
+      "Wole Soyinka"
+    ],
+    "ans": 1,
+    "explanation": "'Anowa' was written by Ama Ata Aidoo.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A direct comparison without 'like' or 'as' is a:",
+    "opts": [
+      "simile",
+      "alliteration",
+      "irony",
+      "metaphor"
+    ],
+    "ans": 3,
+    "explanation": "Metaphor says one thing is another.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A statement that means the opposite of what it says is:",
+    "opts": [
+      "hyperbole",
+      "irony",
+      "metaphor",
+      "simile"
+    ],
+    "ans": 1,
+    "explanation": "Irony is a contrast between expectation and reality.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The repetition of a word or phrase for emphasis is:",
+    "opts": [
+      "alliteration",
+      "irony",
+      "metaphor",
+      "repetition"
+    ],
+    "ans": 3,
+    "explanation": "Repetition repeats words for effect.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Poetry",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Giving human qualities to non-human things is:",
+    "opts": [
+      "irony",
+      "simile",
+      "personification",
+      "metaphor"
+    ],
+    "ans": 2,
+    "explanation": "Personification gives human traits to objects or animals.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A play with a happy ending is a:",
+    "opts": [
+      "comedy",
+      "epic",
+      "elegy",
+      "tragedy"
+    ],
+    "ans": 0,
+    "explanation": "Comedy ends happily.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A character who contrasts with another to highlight their qualities is a:",
+    "opts": [
+      "foil",
+      "antagonist",
+      "narrator",
+      "protagonist"
+    ],
+    "ans": 0,
+    "explanation": "A foil highlights another character by contrast.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a figure of speech that gives human qualities to non-human things?",
+    "opts": [
+      "a metaphor",
+      "alliteration",
+      "personification",
+      "a simile"
+    ],
+    "ans": 2,
+    "explanation": "a figure of speech that gives human qualities to non-human things describes personification.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Devices",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A hint of what will happen later in a story is:",
+    "opts": [
+      "suspense",
+      "flashback",
+      "irony",
+      "foreshadowing"
+    ],
+    "ans": 3,
+    "explanation": "Foreshadowing hints at future events.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which literary device is used in: 'I am so hungry I could eat a horse.'",
+    "opts": [
+      "hyperbole",
+      "metaphor",
+      "simile",
+      "personification"
+    ],
+    "ans": 0,
+    "explanation": "'I am so hungry I could eat a horse.' uses hyperbole.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Devices",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these works was written by George Orwell?",
+    "opts": [
+      "The Trials of Brother Jero",
+      "The Lion and the Jewel",
+      "Animal Farm",
+      "Things Fall Apart"
+    ],
+    "ans": 2,
+    "explanation": "'Animal Farm' was written by George Orwell.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A long narrative poem about heroic deeds is an:",
+    "opts": [
+      "ballad",
+      "epic",
+      "sonnet",
+      "ode"
+    ],
+    "ans": 1,
+    "explanation": "Epics tell heroic stories.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which literary device is used in: 'He is like a rock in a storm.'",
+    "opts": [
+      "simile",
+      "personification",
+      "onomatopoeia",
+      "metaphor"
+    ],
+    "ans": 0,
+    "explanation": "'He is like a rock in a storm.' uses simile.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Devices",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A play meant to make the audience laugh is a:",
+    "opts": [
+      "tragedy",
+      "comedy",
+      "epic",
+      "elegy"
+    ],
+    "ans": 1,
+    "explanation": "Comedy is humorous drama.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "passage",
+    "content": "<b>The Silent Drum</b><br><br>The drum hangs silent on the wall,<br>No hands to make its rhythm call.<br>Dust settles on its tautened skin,<br>Where once the spirit danced within.<br>The dancers' feet are cold and still,<br>The songbirds left the grassy hill.<br>A silence heavy, thick, and deep,<br>Has lulled the village into sleep.<br>We wait for dawn to break the spell,<br>And drink from memory's deep well.",
+    "questions": [
+      {
+        "type": "std",
+        "q": "The 'silent drum' is a symbol of:",
+        "opts": [
+          "a new festival",
+          "a lost tradition / cultural silence",
+          "a rainy season",
+          "a musical instrument for sale"
+        ],
+        "ans": 1,
+        "explanation": "The drum's silence stands for a tradition that has fallen quiet.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Poetry Analysis",
+        "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "The mood of the poem is:",
+        "opts": [
+          "joyful and loud",
+          "playful and light",
+          "sad and reflective",
+          "angry and bitter"
+        ],
+        "ans": 2,
+        "explanation": "The imagery of silence, dust and sleep creates a sad, reflective mood.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Poetry Analysis",
+        "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "'Dust settles on its tautened skin' suggests the drum has:",
+        "opts": [
+          "not been used for a long time",
+          "just been made",
+          "been painted",
+          "been sold"
+        ],
+        "ans": 0,
+        "explanation": "Dust settling means it has lain unused.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Poetry Analysis",
+        "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "The phrase 'drink from memory's deep well' means the people:",
+        "opts": [
+          "fetch water",
+          "forget the past",
+          "remember the past",
+          "dig a well"
+        ],
+        "ans": 2,
+        "explanation": "Memory's well is a metaphor for remembering.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Poetry Analysis",
+        "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "The poem is written mainly in:",
+        "opts": [
+          "blank verse",
+          "free verse",
+          "prose",
+          "rhymed couplets"
+        ],
+        "ans": 3,
+        "explanation": "The lines rhyme in pairs (wall/call, skin/within).",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Poetry Analysis",
+        "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      }
+    ],
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Poetry Analysis"
+  },
+  {
+    "type": "std",
+    "q": "A narrative poem that tells a story in simple verses is a:",
+    "opts": [
+      "ode",
+      "elegy",
+      "sonnet",
+      "ballad"
+    ],
+    "ans": 3,
+    "explanation": "Ballads tell stories in verse.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Unrhymed verse in iambic pentameter is:",
+    "opts": [
+      "ode",
+      "free verse",
+      "blank verse",
+      "sonnet"
+    ],
+    "ans": 2,
+    "explanation": "Blank verse is unrhymed iambic pentameter.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Poetry",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these works was written by Ernest Hemingway?",
+    "opts": [
+      "The Old Man and the Sea",
+      "Things Fall Apart",
+      "The Lion and the Jewel",
+      "The Trials of Brother Jero"
+    ],
+    "ans": 0,
+    "explanation": "'The Old Man and the Sea' was written by Ernest Hemingway.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which literary device is used in: 'She sells sea shells by the sea shore.'",
+    "opts": [
+      "personification",
+      "metaphor",
+      "alliteration",
+      "simile"
+    ],
+    "ans": 2,
+    "explanation": "'She sells sea shells by the sea shore.' uses alliteration.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Devices",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'Purple Hibiscus'?",
+    "opts": [
+      "Chimamanda Ngozi Adichie",
+      "Elechi Amadi",
+      "Chinua Achebe",
+      "Wole Soyinka"
+    ],
+    "ans": 0,
+    "explanation": "'Purple Hibiscus' was written by Chimamanda Ngozi Adichie.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which literary device is used in: 'The sun smiled down on us.'",
+    "opts": [
+      "personification",
+      "onomatopoeia",
+      "simile",
+      "metaphor"
+    ],
+    "ans": 0,
+    "explanation": "'The sun smiled down on us.' uses personification.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Devices",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A scene from an earlier time in a story is a:",
+    "opts": [
+      "denouement",
+      "climax",
+      "flashback",
+      "foreshadowing"
+    ],
+    "ans": 2,
+    "explanation": "A flashback returns to the past.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Terms",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'Harvest of Corruption'?",
+    "opts": [
+      "Chimamanda Ngozi Adichie",
+      "Chinua Achebe",
+      "Wole Soyinka",
+      "Frank Ogodo Ogbeche"
+    ],
+    "ans": 3,
+    "explanation": "'Harvest of Corruption' was written by Frank Ogodo Ogbeche.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these works was written by Ola Rotimi?",
+    "opts": [
+      "The Lion and the Jewel",
+      "The Gods Are Not to Blame",
+      "The Trials of Brother Jero",
+      "Things Fall Apart"
+    ],
+    "ans": 1,
+    "explanation": "'The Gods Are Not to Blame' was written by Ola Rotimi.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a stanza?",
+    "opts": [
+      "a figure of speech comparing two things using 'like' or 'as'",
+      "a figure of speech that describes one thing as another",
+      "a group of lines forming a unit in a poem",
+      "a figure of speech that gives human qualities to non-human things"
+    ],
+    "ans": 2,
+    "explanation": "a stanza is a group of lines forming a unit in a poem.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Literary Devices",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A long fictional narrative is a:",
+    "opts": [
+      "essay",
+      "novel",
+      "short story",
+      "play"
+    ],
+    "ans": 1,
+    "explanation": "A novel is a long work of fiction.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Prose",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these works was written by William Shakespeare?",
+    "opts": [
+      "The Trials of Brother Jero",
+      "Things Fall Apart",
+      "The Lion and the Jewel",
+      "The Merchant of Venice"
+    ],
+    "ans": 3,
+    "explanation": "'The Merchant of Venice' was written by William Shakespeare.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'A Midsummer Night's Dream'?",
+    "opts": [
+      "Chimamanda Ngozi Adichie",
+      "William Shakespeare",
+      "Wole Soyinka",
+      "Chinua Achebe"
+    ],
+    "ans": 1,
+    "explanation": "'A Midsummer Night's Dream' was written by William Shakespeare.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'The African Child'?",
+    "opts": [
+      "Wole Soyinka",
+      "Chinua Achebe",
+      "Chimamanda Ngozi Adichie",
+      "Camara Laye"
+    ],
+    "ans": 3,
+    "explanation": "'The African Child' was written by Camara Laye.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Who wrote 'The Man Died'?",
+    "opts": [
+      "Chinua Achebe",
+      "Wole Soyinka",
+      "Elechi Amadi",
+      "Chimamanda Ngozi Adichie"
+    ],
+    "ans": 1,
+    "explanation": "'The Man Died' was written by Wole Soyinka.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African and World Literature",
+    "adapted_from": "Repo JAMB_Literature_2024.json / NECO_Literature_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'osu' ni ede Geesi?",
+    "opts": [
+      "food",
+      "moon",
+      "water",
+      "house"
+    ],
+    "ans": 1,
+    "explanation": "'osu' ni ede Geesi ni 'moon'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'E jowo' ni ede Geesi?",
+    "opts": [
+      "sorry",
+      "hello / how are you",
+      "please",
+      "thank you"
+    ],
+    "ans": 2,
+    "explanation": "'E jowo' ni ede Geesi ni 'please'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Ikini (Greetings)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'water' ni ede Yoruba?",
+    "opts": [
+      "omi",
+      "ounje",
+      "iwe",
+      "ile"
+    ],
+    "ans": 0,
+    "explanation": "'water' ni ede Yoruba ni 'omi'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'Hello' ni ede Yoruba?",
+    "opts": [
+      "E se",
+      "E jowo",
+      "O daabo",
+      "Bawo ni"
+    ],
+    "ans": 3,
+    "explanation": "'Hello' ni ede Yoruba ni 'Bawo ni'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Girama (Grammar)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'six' ni ede Yoruba?",
+    "opts": [
+      "okan",
+      "mefa",
+      "meta",
+      "meji"
+    ],
+    "ans": 1,
+    "explanation": "'six' ni ede Yoruba ni 'mefa'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nomba (Numbers)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'omo' ni ede Geesi?",
+    "opts": [
+      "food",
+      "water",
+      "child",
+      "house"
+    ],
+    "ans": 2,
+    "explanation": "'omo' ni ede Geesi ni 'child'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'oluko' ni ede Geesi?",
+    "opts": [
+      "house",
+      "water",
+      "teacher",
+      "food"
+    ],
+    "ans": 2,
+    "explanation": "'oluko' ni ede Geesi ni 'teacher'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'kinniun' ni ede Geesi?",
+    "opts": [
+      "water",
+      "food",
+      "lion",
+      "house"
+    ],
+    "ans": 2,
+    "explanation": "'kinniun' ni ede Geesi ni 'lion'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'sister' ni ede Yoruba?",
+    "opts": [
+      "omi",
+      "ounje",
+      "ile",
+      "arabinrin"
+    ],
+    "ans": 3,
+    "explanation": "'sister' ni ede Yoruba ni 'arabinrin'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'ilekun' ni ede Geesi?",
+    "opts": [
+      "house",
+      "water",
+      "door",
+      "food"
+    ],
+    "ans": 2,
+    "explanation": "'ilekun' ni ede Geesi ni 'door'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'nine' ni ede Yoruba?",
+    "opts": [
+      "meta",
+      "meji",
+      "mesan",
+      "okan"
+    ],
+    "ans": 2,
+    "explanation": "'nine' ni ede Yoruba ni 'mesan'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nomba (Numbers)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'leg' ni ede Yoruba?",
+    "opts": [
+      "omi",
+      "ese",
+      "ounje",
+      "ile"
+    ],
+    "ans": 1,
+    "explanation": "'leg' ni ede Yoruba ni 'ese'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'abule' ni ede Geesi?",
+    "opts": [
+      "house",
+      "village",
+      "water",
+      "food"
+    ],
+    "ans": 1,
+    "explanation": "'abule' ni ede Geesi ni 'village'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'cow' ni ede Yoruba?",
+    "opts": [
+      "malu",
+      "omi",
+      "ounje",
+      "ile"
+    ],
+    "ans": 0,
+    "explanation": "'cow' ni ede Yoruba ni 'malu'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'epo' ni ede Geesi?",
+    "opts": [
+      "food",
+      "water",
+      "house",
+      "oil"
+    ],
+    "ans": 3,
+    "explanation": "'epo' ni ede Geesi ni 'oil'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'owo' ni ede Geesi?",
+    "opts": [
+      "money",
+      "food",
+      "water",
+      "house"
+    ],
+    "ans": 0,
+    "explanation": "'owo' ni ede Geesi ni 'money'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'ese' ni ede Geesi?",
+    "opts": [
+      "water",
+      "leg",
+      "food",
+      "house"
+    ],
+    "ans": 1,
+    "explanation": "'ese' ni ede Geesi ni 'leg'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'river' ni ede Yoruba?",
+    "opts": [
+      "ounje",
+      "odo",
+      "omi",
+      "ile"
+    ],
+    "ans": 1,
+    "explanation": "'river' ni ede Yoruba ni 'odo'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'money' ni ede Yoruba?",
+    "opts": [
+      "owo",
+      "omi",
+      "ile",
+      "ounje"
+    ],
+    "ans": 0,
+    "explanation": "'money' ni ede Yoruba ni 'owo'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'E kaasan' ni ede Geesi?",
+    "opts": [
+      "please",
+      "thank you",
+      "hello / how are you",
+      "good afternoon"
+    ],
+    "ans": 3,
+    "explanation": "'E kaasan' ni ede Geesi ni 'good afternoon'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Ikini (Greetings)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'dog' ni ede Yoruba?",
+    "opts": [
+      "ile",
+      "omi",
+      "ounje",
+      "aja"
+    ],
+    "ans": 3,
+    "explanation": "'dog' ni ede Yoruba ni 'aja'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'hundred' ni ede Yoruba?",
+    "opts": [
+      "okan",
+      "meta",
+      "meji",
+      "ogorun"
+    ],
+    "ans": 3,
+    "explanation": "'hundred' ni ede Yoruba ni 'ogorun'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nomba (Numbers)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'nose' ni ede Yoruba?",
+    "opts": [
+      "ile",
+      "ounje",
+      "omi",
+      "imu"
+    ],
+    "ans": 3,
+    "explanation": "'nose' ni ede Yoruba ni 'imu'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'stone' ni ede Yoruba?",
+    "opts": [
+      "ounje",
+      "omi",
+      "okuta",
+      "ile"
+    ],
+    "ans": 2,
+    "explanation": "'stone' ni ede Yoruba ni 'okuta'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'E kaale' ni ede Geesi?",
+    "opts": [
+      "good evening",
+      "hello / how are you",
+      "please",
+      "thank you"
+    ],
+    "ans": 0,
+    "explanation": "'E kaale' ni ede Geesi ni 'good evening'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Ikini (Greetings)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'market' ni ede Yoruba?",
+    "opts": [
+      "ounje",
+      "ile",
+      "omi",
+      "oja"
+    ],
+    "ans": 3,
+    "explanation": "'market' ni ede Yoruba ni 'oja'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'oru' ni ede Geesi?",
+    "opts": [
+      "water",
+      "night",
+      "food",
+      "house"
+    ],
+    "ans": 1,
+    "explanation": "'oru' ni ede Geesi ni 'night'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'cloth' ni ede Yoruba?",
+    "opts": [
+      "ounje",
+      "omi",
+      "ile",
+      "aso"
+    ],
+    "ans": 3,
+    "explanation": "'cloth' ni ede Yoruba ni 'aso'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'blood' ni ede Yoruba?",
+    "opts": [
+      "omi",
+      "ile",
+      "ounje",
+      "eje"
+    ],
+    "ans": 3,
+    "explanation": "'blood' ni ede Yoruba ni 'eje'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'one' ni ede Yoruba?",
+    "opts": [
+      "merin",
+      "meji",
+      "okan",
+      "meta"
+    ],
+    "ans": 2,
+    "explanation": "'one' ni ede Yoruba ni 'okan'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nomba (Numbers)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'window' ni ede Yoruba?",
+    "opts": [
+      "ferese",
+      "ile",
+      "ounje",
+      "omi"
+    ],
+    "ans": 0,
+    "explanation": "'window' ni ede Yoruba ni 'ferese'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'agutan' ni ede Geesi?",
+    "opts": [
+      "house",
+      "water",
+      "sheep",
+      "food"
+    ],
+    "ans": 2,
+    "explanation": "'agutan' ni ede Geesi ni 'sheep'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'eye' ni ede Yoruba?",
+    "opts": [
+      "oju",
+      "ile",
+      "ounje",
+      "omi"
+    ],
+    "ans": 0,
+    "explanation": "'eye' ni ede Yoruba ni 'oju'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'cat' ni ede Yoruba?",
+    "opts": [
+      "ologbo",
+      "ounje",
+      "ile",
+      "omi"
+    ],
+    "ans": 0,
+    "explanation": "'cat' ni ede Yoruba ni 'ologbo'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'tongue' ni ede Yoruba?",
+    "opts": [
+      "omi",
+      "ahon",
+      "ounje",
+      "ile"
+    ],
+    "ans": 1,
+    "explanation": "'tongue' ni ede Yoruba ni 'ahon'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'iwe' ni ede Geesi?",
+    "opts": [
+      "food",
+      "book",
+      "house",
+      "water"
+    ],
+    "ans": 1,
+    "explanation": "'iwe' ni ede Geesi ni 'book'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni 'father' ni ede Yoruba?",
+    "opts": [
+      "ounje",
+      "baba",
+      "ile",
+      "omi"
+    ],
+    "ans": 1,
+    "explanation": "'father' ni ede Yoruba ni 'baba'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'eje' ni ede Geesi?",
+    "opts": [
+      "house",
+      "food",
+      "blood",
+      "water"
+    ],
+    "ans": 2,
+    "explanation": "'eje' ni ede Geesi ni 'blood'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ki ni itumo 'ina' ni ede Geesi?",
+    "opts": [
+      "fire",
+      "water",
+      "food",
+      "house"
+    ],
+    "ans": 0,
+    "explanation": "'ina' ni ede Geesi ni 'fire'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Oro (Vocabulary)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ta ni o ko 'Ogbori Elemoso'?",
+    "opts": [
+      "Akinwumi Isola",
+      "Kola Akinlade",
+      "D.O. Fagunwa",
+      "Adebayo Faleti"
+    ],
+    "ans": 0,
+    "explanation": "'Ogbori Elemoso' ni iwe Akinwumi Isola ko.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Litireso (Literature)",
+    "adapted_from": "Repo JAMB_Yoruba_2024.json / NECO_Yoruba_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

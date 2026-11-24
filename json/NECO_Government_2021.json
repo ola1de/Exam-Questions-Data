@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Which term is described as: an election held to fill a vacancy between general elections?",
+    "opts": [
+      "a plebiscite",
+      "franchise",
+      "a by-election",
+      "a referendum"
+    ],
+    "ans": 2,
+    "explanation": "an election held to fill a vacancy between general elections describes a by-election.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Elections and Representation",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the organ of government that interprets the law?",
+    "opts": [
+      "a bicameral legislature",
+      "the judiciary",
+      "a unicameral legislature",
+      "the executive"
+    ],
+    "ans": 1,
+    "explanation": "the organ of government that interprets the law describes the judiciary.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Institutions",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The head of the executive in Nigeria is the:",
+    "opts": [
+      "President",
+      "Senate President",
+      "Chief Justice",
+      "Speaker"
+    ],
+    "ans": 0,
+    "explanation": "The President heads the executive arm.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Arms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Oyo Empire was ruled by the:",
+    "opts": [
+      "Alaafin",
+      "Ooni",
+      "Emir",
+      "Oba of Benin"
+    ],
+    "ans": 0,
+    "explanation": "The Alaafin ruled Oyo.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Pre-colonial Polities",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Legitimacy is:",
+    "opts": [
+      "the use of force",
+      "the age of a constitution",
+      "the wealth of a ruler",
+      "the acceptance of a government by the people"
+    ],
+    "ans": 3,
+    "explanation": "A legitimate government is accepted as rightful.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Basic Concepts",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The pre-colonial Igbo political system was:",
+    "opts": [
+      "largely republican and acephalous",
+      "ruled by an oba",
+      "highly centralised under a king",
+      "ruled by an emir"
+    ],
+    "ans": 0,
+    "explanation": "Igbo communities were governed by councils and age grades rather than a single king.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Pre-colonial Polities",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: an electoral district represented by one member in the legislature?",
+    "opts": [
+      "a referendum",
+      "a constituency",
+      "franchise",
+      "a plebiscite"
+    ],
+    "ans": 1,
+    "explanation": "an electoral district represented by one member in the legislature describes a constituency.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Elections and Representation",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Political participation includes:",
+    "opts": [
+      "obeying laws only",
+      "paying tax only",
+      "voting in elections",
+      "watching television"
+    ],
+    "ans": 2,
+    "explanation": "Voting is the main form of participation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Basic Concepts",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In a unitary system, power is concentrated in the:",
+    "opts": [
+      "central government",
+      "traditional rulers",
+      "local governments",
+      "state governments"
+    ],
+    "ans": 0,
+    "explanation": "Unitary government keeps power at the centre.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Structures of Governance",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the organ of government that implements and enforces the law?",
+    "opts": [
+      "a unicameral legislature",
+      "a bicameral legislature",
+      "the executive",
+      "the judiciary"
+    ],
+    "ans": 2,
+    "explanation": "the organ of government that implements and enforces the law describes the executive.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Institutions",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A state is made up of population, territory, government and:",
+    "opts": [
+      "language",
+      "wealth",
+      "army",
+      "sovereignty"
+    ],
+    "ans": 3,
+    "explanation": "The four elements of a state are population, territory, government and sovereignty.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Basic Concepts",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The OAU was founded in:",
+    "opts": [
+      "2002",
+      "1975",
+      "1963",
+      "1945"
+    ],
+    "ans": 2,
+    "explanation": "The Organisation of African Unity was founded in 1963.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Foreign Policy",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Supreme Court is the:",
+    "opts": [
+      "highest court in Nigeria",
+      "court of appeal only",
+      "lowest court",
+      "customary court"
+    ],
+    "ans": 0,
+    "explanation": "The Supreme Court is the final court of appeal.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Arms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Separation of powers means each arm of government:",
+    "opts": [
+      "shares all powers",
+      "controls the other arms",
+      "exercises only its own functions",
+      "answers to the military"
+    ],
+    "ans": 2,
+    "explanation": "Powers are divided among legislature, executive and judiciary.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Democratic Principles",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes first-past-the-post?",
+    "opts": [
+      "an electoral system in which the candidate with the most votes wins the seat",
+      "a direct vote of the people on an issue of public importance",
+      "the right to vote in elections",
+      "a direct vote by the electorate on a specific political question"
+    ],
+    "ans": 0,
+    "explanation": "first-past-the-post is an electoral system in which the candidate with the most votes wins the seat.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Elections and Representation",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The headquarters of the United Nations is in:",
+    "opts": [
+      "Geneva",
+      "New York",
+      "Paris",
+      "London"
+    ],
+    "ans": 1,
+    "explanation": "The UN headquarters is in New York.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Foreign Policy",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A nation is a group of people with a common:",
+    "opts": [
+      "government only",
+      "wealth",
+      "army",
+      "history, culture and language"
+    ],
+    "ans": 3,
+    "explanation": "A nation shares identity; a state adds territory and government.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Basic Concepts",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 1979 Constitution introduced the:",
+    "opts": [
+      "presidential system",
+      "confederation",
+      "parliamentary system",
+      "military rule"
+    ],
+    "ans": 0,
+    "explanation": "The Second Republic used the presidential system.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Dual citizenship means a person is a citizen of:",
+    "opts": [
+      "no country",
+      "one country",
+      "two countries",
+      "three countries"
+    ],
+    "ans": 2,
+    "explanation": "Dual citizens hold two citizenships.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a manifesto?",
+    "opts": [
+      "a published statement of a political party's aims and policies",
+      "a direct vote of the people on an issue of public importance",
+      "a direct vote by the electorate on a specific political question",
+      "the right to vote in elections"
+    ],
+    "ans": 0,
+    "explanation": "a manifesto is a published statement of a political party's aims and policies.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Elections and Representation",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Nigeria returned to civilian rule in:",
+    "opts": [
+      "1983",
+      "1999",
+      "1979",
+      "1993"
+    ],
+    "ans": 1,
+    "explanation": "The Fourth Republic began on 29 May 1999.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the sharing of national revenue among the tiers of government?",
+    "opts": [
+      "INEC",
+      "the presidential system",
+      "the 1999 Constitution",
+      "revenue allocation"
+    ],
+    "ans": 3,
+    "explanation": "the sharing of national revenue among the tiers of government describes revenue allocation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The main function of the judiciary is to:",
+    "opts": [
+      "interpret laws",
+      "collect taxes",
+      "make laws",
+      "enforce laws"
+    ],
+    "ans": 0,
+    "explanation": "The judiciary interprets laws and settles disputes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Arms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a system in which power is shared between a central government and regional governments?",
+    "opts": [
+      "a monarchy",
+      "an oligarchy",
+      "democracy",
+      "federalism"
+    ],
+    "ans": 3,
+    "explanation": "a system in which power is shared between a central government and regional governments describes federalism.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Systems of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Political socialisation is the process of learning:",
+    "opts": [
+      "reading only",
+      "trading",
+      "farming",
+      "political values and attitudes"
+    ],
+    "ans": 3,
+    "explanation": "People learn political behaviour through family, school and media.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Basic Concepts",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the civil service?",
+    "opts": [
+      "the organ of government that interprets the law",
+      "the body of permanent officials who carry out government policies",
+      "a legislature made up of one chamber",
+      "a legislature made up of two chambers"
+    ],
+    "ans": 1,
+    "explanation": "the civil service is the body of permanent officials who carry out government policies.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Institutions",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Nigeria's legislature is called the:",
+    "opts": [
+      "Federal Executive Council",
+      "Supreme Court",
+      "National Assembly",
+      "National Council of State"
+    ],
+    "ans": 2,
+    "explanation": "The National Assembly is made up of the Senate and the House of Representatives.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Arms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Capitalism is an economic system based on:",
+    "opts": [
+      "no ownership",
+      "state ownership",
+      "private ownership of the means of production",
+      "common ownership"
+    ],
+    "ans": 2,
+    "explanation": "Capitalism rests on private property and markets.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Forms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes federal character?",
+    "opts": [
+      "the body responsible for conducting elections in Nigeria",
+      "the constitution currently in force in Nigeria",
+      "the principle of fair representation of all parts of Nigeria in public appointments",
+      "the system of government practised in Nigeria since 1979"
+    ],
+    "ans": 2,
+    "explanation": "federal character is the principle of fair representation of all parts of Nigeria in public appointments.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the body responsible for conducting elections in Nigeria?",
+    "opts": [
+      "the 1999 Constitution",
+      "INEC",
+      "the presidential system",
+      "federal character"
+    ],
+    "ans": 1,
+    "explanation": "the body responsible for conducting elections in Nigeria describes INEC.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The main function of the legislature is to:",
+    "opts": [
+      "collect taxes",
+      "make laws",
+      "interpret laws",
+      "enforce laws"
+    ],
+    "ans": 1,
+    "explanation": "The legislature makes laws.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Arms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Commissioners are appointed by the:",
+    "opts": [
+      "Senate",
+      "Governor",
+      "President",
+      "Chairman"
+    ],
+    "ans": 1,
+    "explanation": "State governors appoint commissioners.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Arms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the judiciary?",
+    "opts": [
+      "the organ of government that implements and enforces the law",
+      "a legislature made up of two chambers",
+      "a legislature made up of one chamber",
+      "the organ of government that interprets the law"
+    ],
+    "ans": 3,
+    "explanation": "the judiciary is the organ of government that interprets the law.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Institutions",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a loose union of independent states that keep most of their sovereignty?",
+    "opts": [
+      "a confederation",
+      "an oligarchy",
+      "a monarchy",
+      "democracy"
+    ],
+    "ans": 0,
+    "explanation": "a loose union of independent states that keep most of their sovereignty describes a confederation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Systems of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In a parliamentary system, the head of government is the:",
+    "opts": [
+      "chief justice",
+      "prime minister",
+      "king",
+      "president"
+    ],
+    "ans": 1,
+    "explanation": "The prime minister leads the government in a parliamentary system.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Systems of Governance",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the Fourth Republic?",
+    "opts": [
+      "the constitution currently in force in Nigeria",
+      "the body responsible for conducting elections in Nigeria",
+      "the democratic era in Nigeria that began in 1999",
+      "the system of government practised in Nigeria since 1979"
+    ],
+    "ans": 2,
+    "explanation": "the Fourth Republic is the democratic era in Nigeria that began in 1999.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A republic is a state headed by a:",
+    "opts": [
+      "queen",
+      "king",
+      "emir",
+      "president"
+    ],
+    "ans": 3,
+    "explanation": "A republic has an elected head, not a monarch.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Forms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes local government?",
+    "opts": [
+      "a legislature made up of one chamber",
+      "the organ of government that interprets the law",
+      "a legislature made up of two chambers",
+      "the third tier of government closest to the people"
+    ],
+    "ans": 3,
+    "explanation": "local government is the third tier of government closest to the people.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Institutions",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A rigid constitution is one that is:",
+    "opts": [
+      "not written",
+      "easy to amend",
+      "not supreme",
+      "difficult to amend"
+    ],
+    "ans": 3,
+    "explanation": "Rigid constitutions need special procedures to change.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Constitution",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Tiv political system was:",
+    "opts": [
+      "ruled by an oba",
+      "largely acephalous (without a central king)",
+      "ruled by an emir",
+      "highly centralised"
+    ],
+    "ans": 1,
+    "explanation": "Tiv society was organised by kinship, not a central king.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Pre-colonial Polities",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

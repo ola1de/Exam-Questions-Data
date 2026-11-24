@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "What is the capital of Pakistan?",
+    "opts": [
+      "Islamabad",
+      "Nairobi",
+      "Accra",
+      "Abuja"
+    ],
+    "ans": 0,
+    "explanation": "The capital of Pakistan is Islamabad.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The lines joining places of equal temperature on a map are:",
+    "opts": [
+      "isotherms",
+      "isohyets",
+      "contours",
+      "isobars"
+    ],
+    "ans": 0,
+    "explanation": "Isotherms join places of equal temperature.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The headquarters of the United Nations is in:",
+    "opts": [
+      "Geneva, Switzerland",
+      "Paris, France",
+      "London, UK",
+      "New York, USA"
+    ],
+    "ans": 3,
+    "explanation": "The UN headquarters is in New York.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Economic Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Khartoum is the capital of which country?",
+    "opts": [
+      "Kenya",
+      "Ghana",
+      "Sudan",
+      "Nigeria"
+    ],
+    "ans": 2,
+    "explanation": "Khartoum is the capital of Sudan.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Soil erosion is mainly caused by:",
+    "opts": [
+      "terracing",
+      "running water and wind",
+      "mulching",
+      "planting trees"
+    ],
+    "ans": 1,
+    "explanation": "Water and wind remove topsoil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Environmental Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Austria?",
+    "opts": [
+      "Accra",
+      "Abuja",
+      "Nairobi",
+      "Vienna"
+    ],
+    "ans": 3,
+    "explanation": "The capital of Austria is Vienna.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Bangkok is the capital of which country?",
+    "opts": [
+      "Kenya",
+      "Thailand",
+      "Nigeria",
+      "Ghana"
+    ],
+    "ans": 1,
+    "explanation": "Bangkok is the capital of Thailand.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of South Africa?",
+    "opts": [
+      "Pretoria",
+      "Nairobi",
+      "Accra",
+      "Abuja"
+    ],
+    "ans": 0,
+    "explanation": "The capital of South Africa is Pretoria.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Tropic of Cancer is at latitude:",
+    "opts": [
+      "0°",
+      "66.5°N",
+      "23.5°S",
+      "23.5°N"
+    ],
+    "ans": 3,
+    "explanation": "The Tropic of Cancer lies at 23.5° north.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ankara is the capital of which country?",
+    "opts": [
+      "Ghana",
+      "Kenya",
+      "Turkey",
+      "Nigeria"
+    ],
+    "ans": 2,
+    "explanation": "Ankara is the capital of Turkey.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Cocoa is mainly grown in:",
+    "opts": [
+      "the Niger Delta",
+      "south-western Nigeria",
+      "the Jos Plateau",
+      "northern Nigeria"
+    ],
+    "ans": 1,
+    "explanation": "Cocoa grows in the south-west rainforest zone.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Economic Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Argentina?",
+    "opts": [
+      "Abuja",
+      "Nairobi",
+      "Accra",
+      "Buenos Aires"
+    ],
+    "ans": 3,
+    "explanation": "The capital of Argentina is Buenos Aires.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The ratio 1:50,000 on a map means 1 cm on the map represents:",
+    "opts": [
+      "5,000 cm on the ground",
+      "50,000 cm on the ground",
+      "50 cm on the ground",
+      "500 cm on the ground"
+    ],
+    "ans": 1,
+    "explanation": "The representative fraction gives ground distance per map unit.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Map Work",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "On a map, the north is usually indicated by:",
+    "opts": [
+      "a contour",
+      "a scale bar",
+      "a legend",
+      "an arrow pointing up"
+    ],
+    "ans": 3,
+    "explanation": "The north arrow shows direction.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Map Work",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Belgium?",
+    "opts": [
+      "Brussels",
+      "Nairobi",
+      "Abuja",
+      "Accra"
+    ],
+    "ans": 0,
+    "explanation": "The capital of Belgium is Brussels.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Brussels is the capital of which country?",
+    "opts": [
+      "Kenya",
+      "Belgium",
+      "Ghana",
+      "Nigeria"
+    ],
+    "ans": 1,
+    "explanation": "Brussels is the capital of Belgium.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The capital of Nigeria before Abuja was:",
+    "opts": [
+      "Enugu",
+      "Kano",
+      "Lagos",
+      "Ibadan"
+    ],
+    "ans": 2,
+    "explanation": "Lagos was the capital until 1991.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Human Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Berlin is the capital of which country?",
+    "opts": [
+      "Germany",
+      "Nigeria",
+      "Kenya",
+      "Ghana"
+    ],
+    "ans": 0,
+    "explanation": "Berlin is the capital of Germany.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The main seaport of Nigeria is:",
+    "opts": [
+      "Lagos (Apapa)",
+      "Port Harcourt",
+      "Warri",
+      "Calabar"
+    ],
+    "ans": 0,
+    "explanation": "Apapa in Lagos is the main seaport.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Human Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The longest mountain range in the world is the:",
+    "opts": [
+      "Himalayas",
+      "Rockies",
+      "Andes",
+      "Alps"
+    ],
+    "ans": 2,
+    "explanation": "The Andes run along South America's west coast.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "On a map of scale 1:50,000, a distance of 4 cm represents how many kilometres on the ground?",
+    "opts": [
+      "3 km",
+      "4 km",
+      "5 km",
+      "2 km"
+    ],
+    "ans": 3,
+    "explanation": "Ground distance = 4 x 50,000 cm = 2 km.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Map Work",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Morocco?",
+    "opts": [
+      "Nairobi",
+      "Abuja",
+      "Rabat",
+      "Accra"
+    ],
+    "ans": 2,
+    "explanation": "The capital of Morocco is Rabat.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Cairo is the capital of which country?",
+    "opts": [
+      "Nigeria",
+      "Ghana",
+      "Egypt",
+      "Kenya"
+    ],
+    "ans": 2,
+    "explanation": "Cairo is the capital of Egypt.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Yamoussoukro is the capital of which country?",
+    "opts": [
+      "Nigeria",
+      "Kenya",
+      "Ghana",
+      "Cote d'Ivoire"
+    ],
+    "ans": 3,
+    "explanation": "Yamoussoukro is the capital of Cote d'Ivoire.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Nigeria?",
+    "opts": [
+      "Accra",
+      "Abuja",
+      "Nairobi",
+      "Cairo"
+    ],
+    "ans": 1,
+    "explanation": "The capital of Nigeria is Abuja.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The River Benue is found in:",
+    "opts": [
+      "Nigeria",
+      "DR Congo",
+      "Zambia/Zimbabwe",
+      "Egypt/Sudan"
+    ],
+    "ans": 0,
+    "explanation": "The River Benue flows through Nigeria.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The climate of southern Nigeria is mainly:",
+    "opts": [
+      "tropical rainforest",
+      "temperate",
+      "Mediterranean",
+      "desert"
+    ],
+    "ans": 0,
+    "explanation": "The south has a wet tropical rainforest climate.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The movement of people from rural to urban areas is called:",
+    "opts": [
+      "immigration",
+      "rural-urban migration",
+      "urban-rural migration",
+      "emigration"
+    ],
+    "ans": 1,
+    "explanation": "Rural-urban migration moves people into towns.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Human Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "New Delhi is the capital of which country?",
+    "opts": [
+      "Ghana",
+      "Kenya",
+      "Nigeria",
+      "India"
+    ],
+    "ans": 3,
+    "explanation": "New Delhi is the capital of India.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Amsterdam is the capital of which country?",
+    "opts": [
+      "Netherlands",
+      "Nigeria",
+      "Ghana",
+      "Kenya"
+    ],
+    "ans": 0,
+    "explanation": "Amsterdam is the capital of Netherlands.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "London is the capital of which country?",
+    "opts": [
+      "Nigeria",
+      "Kenya",
+      "United Kingdom",
+      "Ghana"
+    ],
+    "ans": 2,
+    "explanation": "London is the capital of United Kingdom.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The instrument used to measure wind speed is the:",
+    "opts": [
+      "barometer",
+      "rain gauge",
+      "anemometer",
+      "hygrometer"
+    ],
+    "ans": 2,
+    "explanation": "An anemometer measures wind speed.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Lines joining places of equal height are called:",
+    "opts": [
+      "isohyets",
+      "isotherms",
+      "contours",
+      "isobars"
+    ],
+    "ans": 2,
+    "explanation": "Contours show height above sea level.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Vienna is the capital of which country?",
+    "opts": [
+      "Ghana",
+      "Nigeria",
+      "Kenya",
+      "Austria"
+    ],
+    "ans": 3,
+    "explanation": "Vienna is the capital of Austria.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Tehran is the capital of which country?",
+    "opts": [
+      "Nigeria",
+      "Iran",
+      "Kenya",
+      "Ghana"
+    ],
+    "ans": 1,
+    "explanation": "Tehran is the capital of Iran.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Saudi Arabia?",
+    "opts": [
+      "Accra",
+      "Nairobi",
+      "Abuja",
+      "Riyadh"
+    ],
+    "ans": 3,
+    "explanation": "The capital of Saudi Arabia is Riyadh.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Portugal?",
+    "opts": [
+      "Abuja",
+      "Lisbon",
+      "Accra",
+      "Nairobi"
+    ],
+    "ans": 1,
+    "explanation": "The capital of Portugal is Lisbon.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The longest river in the world is the:",
+    "opts": [
+      "Niger",
+      "Nile",
+      "Amazon",
+      "Congo"
+    ],
+    "ans": 1,
+    "explanation": "The Nile is about 6,650 km long.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Physical Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Turkey?",
+    "opts": [
+      "Ankara",
+      "Abuja",
+      "Nairobi",
+      "Accra"
+    ],
+    "ans": 0,
+    "explanation": "The capital of Turkey is Ankara.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the capital of Spain?",
+    "opts": [
+      "Abuja",
+      "Accra",
+      "Madrid",
+      "Nairobi"
+    ],
+    "ans": 2,
+    "explanation": "The capital of Spain is Madrid.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Regional Geography",
+    "adapted_from": "Repo JAMB_Geography_2024.json / NECO_Geography_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

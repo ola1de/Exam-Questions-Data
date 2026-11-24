@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The 4th term of an arithmetic progression with first term 10 and common difference 5 is:",
+    "opts": [
+      "20",
+      "30",
+      "25",
+      "26"
+    ],
+    "ans": 2,
+    "explanation": "Tn = a + (n-1)d = 10 + 3 x 5 = 25.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the area of a triangle of base 16 cm and height 10 cm.",
+    "opts": [
+      "160 cm²",
+      "80 cm²",
+      "85 cm²",
+      "26 cm²"
+    ],
+    "ans": 1,
+    "explanation": "Area = 1/2 x base x height = 80 cm².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the value of 18 divided by 6.",
+    "opts": [
+      "4",
+      "108",
+      "2",
+      "3"
+    ],
+    "ans": 3,
+    "explanation": "18 / 6 = 3.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $314_{5}$ to base 10.",
+    "opts": [
+      "86",
+      "85",
+      "84",
+      "83"
+    ],
+    "ans": 2,
+    "explanation": "314 in base 5 = 84 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the square of 3.",
+    "opts": [
+      "9",
+      "11",
+      "10",
+      "8"
+    ],
+    "ans": 0,
+    "explanation": "3² = 9.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Solve simultaneously: x + y = 7 and x - y = -1.",
+    "opts": [
+      "x = 4, y = 4",
+      "x = 3, y = 5",
+      "x = 3, y = 4",
+      "x = 4, y = 3"
+    ],
+    "ans": 2,
+    "explanation": "Adding: 2x = 6, x = 3; then y = 4.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Simplify: $\\sqrt{49} \\times \\sqrt{2} \\div \\sqrt{2}$.",
+    "opts": [
+      "14",
+      "6",
+      "8",
+      "7"
+    ],
+    "ans": 3,
+    "explanation": "√49 = 7.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate: $3^{2}$.",
+    "opts": [
+      "6",
+      "9",
+      "8",
+      "10"
+    ],
+    "ans": 1,
+    "explanation": "3 raised to power 2 = 9.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the roots of $x^2 - 7x + 12 = 0$.",
+    "opts": [
+      "x = -3 or x = -4",
+      "x = 3 or x = 4",
+      "x = 4 or x = 4",
+      "x = 3 or x = 5"
+    ],
+    "ans": 1,
+    "explanation": "(x-3)(x-4) = 0, so x = 3 or 4.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A trader bought an article for ₦2,000 and sold it for ₦2,400. Find the percentage profit.",
+    "opts": [
+      "20%",
+      "30%",
+      "25%",
+      "15%"
+    ],
+    "ans": 0,
+    "explanation": "Profit = 400, as a percentage of cost price 2000 = 20%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 6th term of an arithmetic progression with first term 5 and common difference 2 is:",
+    "opts": [
+      "17",
+      "15",
+      "16",
+      "13"
+    ],
+    "ans": 1,
+    "explanation": "Tn = a + (n-1)d = 5 + 5 x 2 = 15.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the volume of a cube of side 6 cm.",
+    "opts": [
+      "216 cm³",
+      "42 cm³",
+      "36 cm³",
+      "226 cm³"
+    ],
+    "ans": 0,
+    "explanation": "Volume = s³ = 6³ = 216 cm³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $10010_{2}$ to base 10.",
+    "opts": [
+      "20",
+      "19",
+      "17",
+      "18"
+    ],
+    "ans": 3,
+    "explanation": "10010 in base 2 = 18 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $110_{8}$ to base 10.",
+    "opts": [
+      "74",
+      "71",
+      "73",
+      "72"
+    ],
+    "ans": 3,
+    "explanation": "110 in base 8 = 72 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate: $(0.008)^{-1/3}$.",
+    "opts": [
+      "2",
+      "0.5",
+      "5",
+      "0.2"
+    ],
+    "ans": 2,
+    "explanation": "(8/1000)^(-1/3) = (1000/8)^(1/3) = 10/2 = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In a right-angled triangle with opposite side 3 and hypotenuse 5, find the adjacent side.",
+    "opts": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "ans": 1,
+    "explanation": "By Pythagoras, adjacent = √(5² - 3²) = 4.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the roots of $x^2 - 9x + 20 = 0$.",
+    "opts": [
+      "x = 4 or x = 5",
+      "x = 5 or x = 5",
+      "x = -4 or x = -5",
+      "x = 4 or x = 6"
+    ],
+    "ans": 0,
+    "explanation": "(x-4)(x-5) = 0, so x = 4 or 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find 15% of ₦800.",
+    "opts": [
+      "₦170",
+      "₦240",
+      "₦70",
+      "₦120"
+    ],
+    "ans": 3,
+    "explanation": "15% of 800 = 15/100 x 800 = 120.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the simple interest on ₦8,000 at 5% per annum for 3 years.",
+    "opts": [
+      "₦2,400",
+      "₦1,000",
+      "₦1,400",
+      "₦1,200"
+    ],
+    "ans": 3,
+    "explanation": "I = PRT/100 = 8000 x 5 x 3 / 100 = 1200.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In a right-angled triangle with opposite side 6 and hypotenuse 10, find the adjacent side.",
+    "opts": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "ans": 2,
+    "explanation": "By Pythagoras, adjacent = √(10² - 6²) = 8.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In a right-angled triangle with opposite side 5 and hypotenuse 13, find the adjacent side.",
+    "opts": [
+      "11",
+      "13",
+      "12",
+      "14"
+    ],
+    "ans": 2,
+    "explanation": "By Pythagoras, adjacent = √(13² - 5²) = 12.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the sum of 6 and 9.",
+    "opts": [
+      "15",
+      "16",
+      "17",
+      "14"
+    ],
+    "ans": 0,
+    "explanation": "6 + 9 = 15.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If $\\log_{10} 2 = 0.3010$ and $\\log_{10} 3 = 0.4771$, find $\\log_{10} 18$.",
+    "opts": [
+      "1.0791",
+      "1.2552",
+      "1.3010",
+      "0.7781"
+    ],
+    "ans": 1,
+    "explanation": "log 18 = log(2 x 3^2) = 0.3010 + 2(0.4771) = 1.2552.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the value of 27 divided by 9.",
+    "opts": [
+      "3",
+      "2",
+      "4",
+      "243"
+    ],
+    "ans": 0,
+    "explanation": "27 / 9 = 3.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the value of 12 divided by 3.",
+    "opts": [
+      "5",
+      "3",
+      "36",
+      "4"
+    ],
+    "ans": 3,
+    "explanation": "12 / 3 = 4.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find 25% of ₦1,200.",
+    "opts": [
+      "₦350",
+      "₦300",
+      "₦250",
+      "₦600"
+    ],
+    "ans": 1,
+    "explanation": "25% of 1200 = 25/100 x 1200 = 300.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $213_{4}$ to base 10.",
+    "opts": [
+      "38",
+      "40",
+      "39",
+      "41"
+    ],
+    "ans": 2,
+    "explanation": "213 in base 4 = 39 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $342_{5}$ to base 10.",
+    "opts": [
+      "96",
+      "97",
+      "98",
+      "99"
+    ],
+    "ans": 1,
+    "explanation": "342 in base 5 = 97 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In a right-angled triangle with opposite side 9 and hypotenuse 15, find the adjacent side.",
+    "opts": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "ans": 1,
+    "explanation": "By Pythagoras, adjacent = √(15² - 9²) = 12.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the roots of $x^2 - 7x + 6 = 0$.",
+    "opts": [
+      "x = 1 or x = 6",
+      "x = -1 or x = -6",
+      "x = 1 or x = 7",
+      "x = 2 or x = 6"
+    ],
+    "ans": 0,
+    "explanation": "(x-1)(x-6) = 0, so x = 1 or 6.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find 20% of ₦500.",
+    "opts": [
+      "₦50",
+      "₦150",
+      "₦100",
+      "₦200"
+    ],
+    "ans": 2,
+    "explanation": "20% of 500 = 20/100 x 500 = 100.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $1001_{2}$ to base 10.",
+    "opts": [
+      "8",
+      "10",
+      "11",
+      "9"
+    ],
+    "ans": 3,
+    "explanation": "1001 in base 2 = 9 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the area of a circle of radius 14 cm. (Take π = 22/7)",
+    "opts": [
+      "638 cm²",
+      "616 cm²",
+      "88 cm²",
+      "594 cm²"
+    ],
+    "ans": 1,
+    "explanation": "Area = πr² = 22/7 x 14² = 616 cm².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 4th term of an arithmetic progression with first term 3 and common difference 3 is:",
+    "opts": [
+      "12",
+      "13",
+      "15",
+      "9"
+    ],
+    "ans": 0,
+    "explanation": "Tn = a + (n-1)d = 3 + 3 x 3 = 12.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the volume of a cube of side 10 cm.",
+    "opts": [
+      "100 cm³",
+      "1010 cm³",
+      "110 cm³",
+      "1000 cm³"
+    ],
+    "ans": 3,
+    "explanation": "Volume = s³ = 10³ = 1000 cm³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 4th term of a geometric progression with first term 4 and common ratio 2 is:",
+    "opts": [
+      "64",
+      "16",
+      "32",
+      "34"
+    ],
+    "ans": 2,
+    "explanation": "Tn = ar^(n-1) = 4 x 2^3 = 32.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the area of a triangle of base 12 cm and height 9 cm.",
+    "opts": [
+      "54 cm²",
+      "108 cm²",
+      "59 cm²",
+      "21 cm²"
+    ],
+    "ans": 0,
+    "explanation": "Area = 1/2 x base x height = 54 cm².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $10101_{2}$ to base 10.",
+    "opts": [
+      "23",
+      "22",
+      "20",
+      "21"
+    ],
+    "ans": 3,
+    "explanation": "10101 in base 2 = 21 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the value of 24 divided by 6.",
+    "opts": [
+      "5",
+      "3",
+      "4",
+      "144"
+    ],
+    "ans": 2,
+    "explanation": "24 / 6 = 4.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the value of 15 divided by 5.",
+    "opts": [
+      "3",
+      "2",
+      "75",
+      "4"
+    ],
+    "ans": 0,
+    "explanation": "15 / 5 = 3.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

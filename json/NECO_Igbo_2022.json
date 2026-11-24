@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'dog' n'asụsụ Igbo?",
+    "opts": [
+      "nkita",
+      "nri",
+      "ulo",
+      "mmiri"
+    ],
+    "ans": 0,
+    "explanation": "'dog' n'asụsụ Igbo bụ 'nkita'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'seven' n'asụsụ Igbo?",
+    "opts": [
+      "asaa",
+      "ato",
+      "otu",
+      "abuo"
+    ],
+    "ans": 0,
+    "explanation": "'seven' n'asụsụ Igbo bụ 'asaa'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Onuogugu (Numbers)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'osikapa' n'asụsụ Bekee?",
+    "opts": [
+      "rice",
+      "house",
+      "water",
+      "food"
+    ],
+    "ans": 0,
+    "explanation": "'osikapa' n'asụsụ Bekee bụ 'rice'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'one' n'asụsụ Igbo?",
+    "opts": [
+      "ato",
+      "abuo",
+      "otu",
+      "ano"
+    ],
+    "ans": 2,
+    "explanation": "'one' n'asụsụ Igbo bụ 'otu'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Onuogugu (Numbers)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'fish' n'asụsụ Igbo?",
+    "opts": [
+      "ulo",
+      "nri",
+      "azu",
+      "mmiri"
+    ],
+    "ans": 2,
+    "explanation": "'fish' n'asụsụ Igbo bụ 'azu'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Iri ji ohuru bu emume nke:",
+    "opts": [
+      "owuwe ihe ubi (New Yam Festival)",
+      "alumin di na nwunye",
+      "olili ozu",
+      "agbamakwukwo"
+    ],
+    "ans": 0,
+    "explanation": "Iri ji ohuru bu emume owuwe ihe ubi.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Omenala (Culture)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'water' n'asụsụ Igbo?",
+    "opts": [
+      "mmiri",
+      "ulo",
+      "nri",
+      "akwukwo"
+    ],
+    "ans": 0,
+    "explanation": "'water' n'asụsụ Igbo bụ 'mmiri'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'nnunu' n'asụsụ Bekee?",
+    "opts": [
+      "food",
+      "house",
+      "water",
+      "bird"
+    ],
+    "ans": 3,
+    "explanation": "'nnunu' n'asụsụ Bekee bụ 'bird'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'sun' n'asụsụ Igbo?",
+    "opts": [
+      "nri",
+      "anyanwu",
+      "ulo",
+      "mmiri"
+    ],
+    "ans": 1,
+    "explanation": "'sun' n'asụsụ Igbo bụ 'anyanwu'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'nine' n'asụsụ Igbo?",
+    "opts": [
+      "otu",
+      "abuo",
+      "itoolu",
+      "ato"
+    ],
+    "ans": 2,
+    "explanation": "'nine' n'asụsụ Igbo bụ 'itoolu'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Onuogugu (Numbers)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Verb' n'asụsụ Igbo?",
+    "opts": [
+      "Mbukumba",
+      "Nkeaha",
+      "Nkowa",
+      "Ngwaa"
+    ],
+    "ans": 3,
+    "explanation": "'Verb' n'asụsụ Igbo bụ 'Ngwaa'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Utoasusu (Grammar)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'ji' n'asụsụ Bekee?",
+    "opts": [
+      "house",
+      "water",
+      "yam",
+      "food"
+    ],
+    "ans": 2,
+    "explanation": "'ji' n'asụsụ Bekee bụ 'yam'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'ututu' n'asụsụ Bekee?",
+    "opts": [
+      "morning",
+      "food",
+      "water",
+      "house"
+    ],
+    "ans": 0,
+    "explanation": "'ututu' n'asụsụ Bekee bụ 'morning'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Ndewo' n'asụsụ Bekee?",
+    "opts": [
+      "sorry",
+      "hello",
+      "thank you",
+      "please"
+    ],
+    "ans": 1,
+    "explanation": "'Ndewo' n'asụsụ Bekee bụ 'hello'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Ekele (Greetings)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'head' n'asụsụ Igbo?",
+    "opts": [
+      "nri",
+      "mmiri",
+      "isi",
+      "ulo"
+    ],
+    "ans": 2,
+    "explanation": "'head' n'asụsụ Igbo bụ 'isi'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'thirty' n'asụsụ Igbo?",
+    "opts": [
+      "ato",
+      "abuo",
+      "iri ato",
+      "otu"
+    ],
+    "ans": 2,
+    "explanation": "'thirty' n'asụsụ Igbo bụ 'iri ato'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Onuogugu (Numbers)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'nose' n'asụsụ Igbo?",
+    "opts": [
+      "nri",
+      "imi",
+      "ulo",
+      "mmiri"
+    ],
+    "ans": 1,
+    "explanation": "'nose' n'asụsụ Igbo bụ 'imi'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'king' n'asụsụ Igbo?",
+    "opts": [
+      "eze",
+      "ulo",
+      "mmiri",
+      "nri"
+    ],
+    "ans": 0,
+    "explanation": "'king' n'asụsụ Igbo bụ 'eze'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'nti' n'asụsụ Bekee?",
+    "opts": [
+      "house",
+      "ear",
+      "water",
+      "food"
+    ],
+    "ans": 1,
+    "explanation": "'nti' n'asụsụ Bekee bụ 'ear'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'ulo' n'asụsụ Bekee?",
+    "opts": [
+      "book",
+      "house",
+      "food",
+      "water"
+    ],
+    "ans": 1,
+    "explanation": "'ulo' n'asụsụ Bekee bụ 'house'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'child' n'asụsụ Igbo?",
+    "opts": [
+      "mmiri",
+      "ulo",
+      "nri",
+      "nwa"
+    ],
+    "ans": 3,
+    "explanation": "'child' n'asụsụ Igbo bụ 'nwa'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'two' n'asụsụ Igbo?",
+    "opts": [
+      "otu",
+      "ato",
+      "abuo",
+      "ano"
+    ],
+    "ans": 2,
+    "explanation": "'two' n'asụsụ Igbo bụ 'abuo'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Onuogugu (Numbers)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'Ndo' n'asụsụ Bekee?",
+    "opts": [
+      "hello",
+      "sorry",
+      "thank you",
+      "please"
+    ],
+    "ans": 1,
+    "explanation": "'Ndo' n'asụsụ Bekee bụ 'sorry'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Ekele (Greetings)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'market' n'asụsụ Igbo?",
+    "opts": [
+      "ulo",
+      "mmiri",
+      "ahia",
+      "nri"
+    ],
+    "ans": 2,
+    "explanation": "'market' n'asụsụ Igbo bụ 'ahia'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'fire' n'asụsụ Igbo?",
+    "opts": [
+      "oku",
+      "mmiri",
+      "ulo",
+      "nri"
+    ],
+    "ans": 0,
+    "explanation": "'fire' n'asụsụ Igbo bụ 'oku'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'nri' n'asụsụ Bekee?",
+    "opts": [
+      "house",
+      "book",
+      "water",
+      "food"
+    ],
+    "ans": 3,
+    "explanation": "'nri' n'asụsụ Bekee bụ 'food'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'village' n'asụsụ Igbo?",
+    "opts": [
+      "nri",
+      "ulo",
+      "mmiri",
+      "obodo"
+    ],
+    "ans": 3,
+    "explanation": "'village' n'asụsụ Igbo bụ 'obodo'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'eight' n'asụsụ Igbo?",
+    "opts": [
+      "ato",
+      "otu",
+      "abuo",
+      "asato"
+    ],
+    "ans": 3,
+    "explanation": "'eight' n'asụsụ Igbo bụ 'asato'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Onuogugu (Numbers)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'land' n'asụsụ Igbo?",
+    "opts": [
+      "ulo",
+      "ala",
+      "nri",
+      "mmiri"
+    ],
+    "ans": 1,
+    "explanation": "'land' n'asụsụ Igbo bụ 'ala'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'ahia' n'asụsụ Bekee?",
+    "opts": [
+      "market",
+      "house",
+      "food",
+      "water"
+    ],
+    "ans": 0,
+    "explanation": "'ahia' n'asụsụ Bekee bụ 'market'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'six' n'asụsụ Igbo?",
+    "opts": [
+      "isii",
+      "abuo",
+      "otu",
+      "ato"
+    ],
+    "ans": 0,
+    "explanation": "'six' n'asụsụ Igbo bụ 'isii'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Onuogugu (Numbers)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'blood' n'asụsụ Igbo?",
+    "opts": [
+      "mmiri",
+      "ulo",
+      "obara",
+      "nri"
+    ],
+    "ans": 2,
+    "explanation": "'blood' n'asụsụ Igbo bụ 'obara'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'ehi' n'asụsụ Bekee?",
+    "opts": [
+      "house",
+      "water",
+      "food",
+      "cow"
+    ],
+    "ans": 3,
+    "explanation": "'ehi' n'asụsụ Bekee bụ 'cow'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'egg' n'asụsụ Igbo?",
+    "opts": [
+      "ulo",
+      "akwa",
+      "mmiri",
+      "nri"
+    ],
+    "ans": 1,
+    "explanation": "'egg' n'asụsụ Igbo bụ 'akwa'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'ulo akwukwo' n'asụsụ Bekee?",
+    "opts": [
+      "water",
+      "school",
+      "food",
+      "house"
+    ],
+    "ans": 1,
+    "explanation": "'ulo akwukwo' n'asụsụ Bekee bụ 'school'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'road' n'asụsụ Igbo?",
+    "opts": [
+      "ulo",
+      "uzo",
+      "nri",
+      "mmiri"
+    ],
+    "ans": 1,
+    "explanation": "'road' n'asụsụ Igbo bụ 'uzo'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'agwa' n'asụsụ Bekee?",
+    "opts": [
+      "house",
+      "food",
+      "water",
+      "beans"
+    ],
+    "ans": 3,
+    "explanation": "'agwa' n'asụsụ Bekee bụ 'beans'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'akwa' n'asụsụ Bekee?",
+    "opts": [
+      "water",
+      "food",
+      "house",
+      "egg"
+    ],
+    "ans": 3,
+    "explanation": "'akwa' n'asụsụ Bekee bụ 'egg'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'shuga' n'asụsụ Bekee?",
+    "opts": [
+      "water",
+      "food",
+      "house",
+      "sugar"
+    ],
+    "ans": 3,
+    "explanation": "'shuga' n'asụsụ Bekee bụ 'sugar'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gịnị bụ 'onwa' n'asụsụ Bekee?",
+    "opts": [
+      "water",
+      "house",
+      "moon",
+      "food"
+    ],
+    "ans": 2,
+    "explanation": "'onwa' n'asụsụ Bekee bụ 'moon'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Okwu (Vocabulary)",
+    "adapted_from": "Repo JAMB_Igbo_2024.json / NECO_Igbo_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

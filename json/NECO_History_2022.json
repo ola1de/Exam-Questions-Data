@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Kano Chronicle was written?",
+    "opts": [
+      "1804",
+      "1890",
+      "1963",
+      "1960"
+    ],
+    "ans": 1,
+    "explanation": "The Kano Chronicle was written happened in 1890.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Sokoto Caliphate was founded after the jihad of:",
+    "opts": [
+      "1814",
+      "1900",
+      "1804",
+      "1807"
+    ],
+    "ans": 2,
+    "explanation": "Usman dan Fodio's jihad began in 1804.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "The Sokoto Caliphate",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1918?",
+    "opts": [
+      "Nigeria gained independence",
+      "The First World War ended",
+      "The Sokoto Jihad began",
+      "Nigeria became a republic"
+    ],
+    "ans": 1,
+    "explanation": "The First World War ended happened in 1918.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Royal Niger Company was led by:",
+    "opts": [
+      "Lord Lugard",
+      "George Goldie",
+      "Hugh Clifford",
+      "Mungo Park"
+    ],
+    "ans": 1,
+    "explanation": "Goldie ran the Royal Niger Company.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Colonial Nigeria",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The London Constitutional Conference of 1953 discussed:",
+    "opts": [
+      "the slave trade",
+      "the Second World War",
+      "self-government for Nigeria",
+      "independence for Ghana"
+    ],
+    "ans": 2,
+    "explanation": "The 1953 conference discussed self-government.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nationalism",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The NCNC was led by:",
+    "opts": [
+      "Herbert Macaulay",
+      "Ahmadu Bello",
+      "Nnamdi Azikiwe",
+      "Obafemi Awolowo"
+    ],
+    "ans": 2,
+    "explanation": "Azikiwe led the National Council of Nigeria and the Cameroons.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nationalism",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the democratic era in Nigeria that began on 29 May 1999?",
+    "opts": [
+      "the Fourth Republic",
+      "Obafemi Awolowo",
+      "Herbert Macaulay",
+      "Nnamdi Azikiwe"
+    ],
+    "ans": 0,
+    "explanation": "the democratic era in Nigeria that began on 29 May 1999 describes the Fourth Republic.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nationalists and Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Macpherson Constitution was introduced?",
+    "opts": [
+      "1804",
+      "1963",
+      "1951",
+      "1960"
+    ],
+    "ans": 2,
+    "explanation": "The Macpherson Constitution was introduced happened in 1951.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the Oyo Empire?",
+    "opts": [
+      "an empire around Lake Chad known for the trans-Saharan trade",
+      "a powerful Yoruba empire that flourished in the 17th and 18th centuries",
+      "the Islamic state founded by Usman dan Fodio after the jihad of 1804",
+      "an Edo kingdom famous for its bronze art and the Oba's palace"
+    ],
+    "ans": 1,
+    "explanation": "the Oyo Empire is a powerful Yoruba empire that flourished in the 17th and 18th centuries.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Pre-Colonial Nigeria",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1951?",
+    "opts": [
+      "Nigeria gained independence",
+      "Nigeria became a republic",
+      "The Sokoto Jihad began",
+      "The Macpherson Constitution was introduced"
+    ],
+    "ans": 3,
+    "explanation": "The Macpherson Constitution was introduced happened in 1951.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1979?",
+    "opts": [
+      "The Second Republic began",
+      "The Sokoto Jihad began",
+      "Nigeria gained independence",
+      "Nigeria became a republic"
+    ],
+    "ans": 0,
+    "explanation": "The Second Republic began happened in 1979.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Salt was important in the trans-Saharan trade because it was:",
+    "opts": [
+      "plentiful everywhere",
+      "a luxury for kings only",
+      "used as money only",
+      "scarce in the forest zone and needed to preserve food"
+    ],
+    "ans": 3,
+    "explanation": "Salt was scarce in the south and vital for diet and preservation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Early Civilisations",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ife is famous for its:",
+    "opts": [
+      "stone castles",
+      "gold mines",
+      "iron bridges",
+      "naturalistic bronze and terracotta heads"
+    ],
+    "ans": 3,
+    "explanation": "Ife art is noted for its naturalism.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Early Civilisations",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The trans-Saharan trade linked West Africa with:",
+    "opts": [
+      "America",
+      "North Africa",
+      "Europe only",
+      "Asia only"
+    ],
+    "ans": 1,
+    "explanation": "Caravans crossed the Sahara between West and North Africa.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Early Civilisations",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the constitution that introduced the elective principle in Nigeria?",
+    "opts": [
+      "the Clifford Constitution of 1922",
+      "the Richards Constitution of 1946",
+      "indirect rule",
+      "the amalgamation of 1914"
+    ],
+    "ans": 0,
+    "explanation": "the constitution that introduced the elective principle in Nigeria describes the Clifford Constitution of 1922.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Colonial Nigeria",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1970?",
+    "opts": [
+      "The Sokoto Jihad began",
+      "The Nigerian Civil War ended",
+      "Nigeria became a republic",
+      "Nigeria gained independence"
+    ],
+    "ans": 1,
+    "explanation": "The Nigerian Civil War ended happened in 1970.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Nigerian Civil War ended?",
+    "opts": [
+      "1804",
+      "1963",
+      "1970",
+      "1960"
+    ],
+    "ans": 2,
+    "explanation": "The Nigerian Civil War ended happened in 1970.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1859?",
+    "opts": [
+      "The Sokoto Jihad began",
+      "The first Nigerian newspaper, Iwe Irohin, was founded",
+      "Nigeria became a republic",
+      "Nigeria gained independence"
+    ],
+    "ans": 1,
+    "explanation": "The first Nigerian newspaper, Iwe Irohin, was founded happened in 1859.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 1983 coup brought to power:",
+    "opts": [
+      "General Abdulsalami Abubakar",
+      "General Sani Abacha",
+      "General Ibrahim Babangida",
+      "General Muhammadu Buhari"
+    ],
+    "ans": 3,
+    "explanation": "Buhari took power in December 1983.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Military Rule",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many years after The Second World War ended (1945) did Nigeria gained independence (1960) happen?",
+    "opts": [
+      "20 years",
+      "15 years",
+      "25 years",
+      "10 years"
+    ],
+    "ans": 1,
+    "explanation": "1960 - 1945 = 15 years.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Kwame Nkrumah led the independence of:",
+    "opts": [
+      "Nigeria",
+      "Kenya",
+      "Tanzania",
+      "Ghana"
+    ],
+    "ans": 3,
+    "explanation": "Nkrumah led Ghana to independence in 1957.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the Lyttleton Constitution of 1954?",
+    "opts": [
+      "the constitution that introduced a federal system in Nigeria",
+      "the constitution that introduced the elective principle in Nigeria",
+      "the system by which Britain governed Nigeria through traditional rulers",
+      "the joining of the Northern and Southern Protectorates of Nigeria by Lord Lugard"
+    ],
+    "ans": 0,
+    "explanation": "the Lyttleton Constitution of 1954 is the constitution that introduced a federal system in Nigeria.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Colonial Nigeria",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the Nigerian Civil War?",
+    "opts": [
+      "the Nigerian nationalist known as the father of Nigerian nationalism",
+      "the first President of Nigeria and leader of the NCNC",
+      "the leader of the Action Group and first Premier of the Western Region",
+      "the war of 1967 to 1970 between the Federal Government and Biafra"
+    ],
+    "ans": 3,
+    "explanation": "the Nigerian Civil War is the war of 1967 to 1970 between the Federal Government and Biafra.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nationalists and Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Second Republic was overthrown?",
+    "opts": [
+      "1983",
+      "1960",
+      "1804",
+      "1963"
+    ],
+    "ans": 0,
+    "explanation": "The Second Republic was overthrown happened in 1983.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many years after Nigeria gained independence (1960) did Nigeria became a republic (1963) happen?",
+    "opts": [
+      "-2 years",
+      "13 years",
+      "3 years",
+      "8 years"
+    ],
+    "ans": 2,
+    "explanation": "1963 - 1960 = 3 years.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The slave trade was abolished in the USA?",
+    "opts": [
+      "1963",
+      "1804",
+      "1960",
+      "1865"
+    ],
+    "ans": 3,
+    "explanation": "The slave trade was abolished in the USA happened in 1865.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1983?",
+    "opts": [
+      "The Sokoto Jihad began",
+      "The Second Republic was overthrown",
+      "Nigeria became a republic",
+      "Nigeria gained independence"
+    ],
+    "ans": 1,
+    "explanation": "The Second Republic was overthrown happened in 1983.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The United Nations was founded?",
+    "opts": [
+      "1960",
+      "1963",
+      "1945",
+      "1804"
+    ],
+    "ans": 2,
+    "explanation": "The United Nations was founded happened in 1945.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these events happened in 1954?",
+    "opts": [
+      "The Lyttleton Constitution was introduced",
+      "Nigeria became a republic",
+      "The Sokoto Jihad began",
+      "Nigeria gained independence"
+    ],
+    "ans": 0,
+    "explanation": "The Lyttleton Constitution was introduced happened in 1954.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Aba Women's Riot of 1929 protested against:",
+    "opts": [
+      "forced labour",
+      "land seizure",
+      "taxation of women",
+      "school fees"
+    ],
+    "ans": 2,
+    "explanation": "Women protested against proposed taxation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Colonial Nigeria",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Julius Nyerere was the first President of:",
+    "opts": [
+      "Uganda",
+      "Kenya",
+      "Tanzania",
+      "Zambia"
+    ],
+    "ans": 2,
+    "explanation": "Nyerere led Tanzania after independence.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the constitution that gave Nigerians a greater share in government?",
+    "opts": [
+      "the amalgamation of 1914",
+      "the Clifford Constitution of 1922",
+      "the Macpherson Constitution of 1951",
+      "indirect rule"
+    ],
+    "ans": 2,
+    "explanation": "the constitution that gave Nigerians a greater share in government describes the Macpherson Constitution of 1951.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Colonial Nigeria",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In which year did the following happen: The Lagos colony was annexed by Britain?",
+    "opts": [
+      "1804",
+      "1963",
+      "1960",
+      "1861"
+    ],
+    "ans": 3,
+    "explanation": "The Lagos colony was annexed by Britain happened in 1861.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian and World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "General Ibrahim Babangida ruled from:",
+    "opts": [
+      "1985 to 1993",
+      "1993 to 1998",
+      "1983 to 1985",
+      "1979 to 1983"
+    ],
+    "ans": 0,
+    "explanation": "Babangida ruled from 1985 to 1993.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Military Rule",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Nok culture is famous for its:",
+    "opts": [
+      "terracotta sculptures",
+      "gold mines",
+      "stone castles",
+      "bronze plaques"
+    ],
+    "ans": 0,
+    "explanation": "Nok terracotta figures are among Africa's oldest art.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Early Civilisations",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The apartheid system was practised in:",
+    "opts": [
+      "South Africa",
+      "Ghana",
+      "Kenya",
+      "Egypt"
+    ],
+    "ans": 0,
+    "explanation": "Apartheid was racial segregation in South Africa.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Jomo Kenyatta was the first President of:",
+    "opts": [
+      "Uganda",
+      "Zambia",
+      "Tanzania",
+      "Kenya"
+    ],
+    "ans": 3,
+    "explanation": "Kenyatta led Kenya after independence in 1963.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "African History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Second World War began when Germany invaded:",
+    "opts": [
+      "France",
+      "Russia",
+      "Britain",
+      "Poland"
+    ],
+    "ans": 3,
+    "explanation": "Germany invaded Poland in September 1939.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "World History",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Igbo-Ukwu bronzes were discovered in present-day:",
+    "opts": [
+      "Anambra State",
+      "Kano State",
+      "Lagos State",
+      "Oyo State"
+    ],
+    "ans": 0,
+    "explanation": "Igbo-Ukwu is in Anambra State.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Early Civilisations",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Obafemi Awolowo?",
+    "opts": [
+      "the Sardauna of Sokoto and first Premier of the Northern Region",
+      "the leader of the Action Group and first Premier of the Western Region",
+      "the Nigerian nationalist known as the father of Nigerian nationalism",
+      "the first President of Nigeria and leader of the NCNC"
+    ],
+    "ans": 1,
+    "explanation": "Obafemi Awolowo is the leader of the Action Group and first Premier of the Western Region.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nationalists and Independence",
+    "adapted_from": "Repo JAMB_History_2024.json / NECO_History_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

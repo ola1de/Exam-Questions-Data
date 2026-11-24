@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Find the mean of 2, 4, 6, 8, 10.",
+    "opts": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "ans": 1,
+    "explanation": "Mean = sum/count = 30/5 = 6.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Statistics and Probability",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $101_{7}$ to base 10.",
+    "opts": [
+      "50",
+      "52",
+      "51",
+      "49"
+    ],
+    "ans": 0,
+    "explanation": "101 in base 7 = 50 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the mean of 10, 20, 30, 40.",
+    "opts": [
+      "24",
+      "25",
+      "27",
+      "26"
+    ],
+    "ans": 1,
+    "explanation": "Mean = sum/count = 100/4 = 25.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Statistics and Probability",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Solve simultaneously: x + y = 7 and x - y = -3.",
+    "opts": [
+      "x = 3, y = 5",
+      "x = 5, y = 2",
+      "x = 2, y = 5",
+      "x = 2, y = 6"
+    ],
+    "ans": 2,
+    "explanation": "Adding: 2x = 4, x = 2; then y = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A fair die is thrown once. What is the probability of getting an even number?",
+    "opts": [
+      "1/3",
+      "1/2",
+      "2/3",
+      "1/6"
+    ],
+    "ans": 1,
+    "explanation": "Even numbers are 2, 4, 6 out of 6 outcomes: 3/6 = 1/2.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Statistics and Probability",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 4th term of a geometric progression with first term 1 and common ratio 3 is:",
+    "opts": [
+      "27",
+      "29",
+      "81",
+      "9"
+    ],
+    "ans": 0,
+    "explanation": "Tn = ar^(n-1) = 1 x 3^3 = 27.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the volume of a cube of side 8 cm.",
+    "opts": [
+      "72 cm³",
+      "64 cm³",
+      "522 cm³",
+      "512 cm³"
+    ],
+    "ans": 3,
+    "explanation": "Volume = s³ = 8³ = 512 cm³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the square of 4.",
+    "opts": [
+      "16",
+      "15",
+      "17",
+      "18"
+    ],
+    "ans": 0,
+    "explanation": "4² = 16.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the area of a triangle of base 20 cm and height 7 cm.",
+    "opts": [
+      "140 cm²",
+      "27 cm²",
+      "75 cm²",
+      "70 cm²"
+    ],
+    "ans": 3,
+    "explanation": "Area = 1/2 x base x height = 70 cm².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Simplify: $\\sqrt{81} \\times \\sqrt{2} \\div \\sqrt{2}$.",
+    "opts": [
+      "8",
+      "10",
+      "9",
+      "18"
+    ],
+    "ans": 2,
+    "explanation": "√81 = 9.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the square of 10.",
+    "opts": [
+      "102",
+      "100",
+      "99",
+      "101"
+    ],
+    "ans": 1,
+    "explanation": "10² = 100.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the sum of 14 and 6.",
+    "opts": [
+      "21",
+      "20",
+      "22",
+      "19"
+    ],
+    "ans": 1,
+    "explanation": "14 + 6 = 20.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Solve the inequality: 2x - 3 > 7.",
+    "opts": [
+      "x < 2",
+      "x > 2",
+      "x < 5",
+      "x > 5"
+    ],
+    "ans": 3,
+    "explanation": "2x > 10, so x > 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "tan 45° is equal to:",
+    "opts": [
+      "1/2",
+      "0",
+      "√3",
+      "1"
+    ],
+    "ans": 3,
+    "explanation": "tan 45° = 1.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $201_{3}$ to base 10.",
+    "opts": [
+      "20",
+      "18",
+      "21",
+      "19"
+    ],
+    "ans": 3,
+    "explanation": "201 in base 3 = 19 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the simple interest on ₦20,000 at 6% per annum for 4 years.",
+    "opts": [
+      "₦5,000",
+      "₦4,800",
+      "₦4,600",
+      "₦9,600"
+    ],
+    "ans": 1,
+    "explanation": "I = PRT/100 = 20000 x 6 x 4 / 100 = 4800.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 5th term of an arithmetic progression with first term 4 and common difference 6 is:",
+    "opts": [
+      "28",
+      "34",
+      "29",
+      "22"
+    ],
+    "ans": 0,
+    "explanation": "Tn = a + (n-1)d = 4 + 4 x 6 = 28.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the volume of a cube of side 5 cm.",
+    "opts": [
+      "135 cm³",
+      "25 cm³",
+      "30 cm³",
+      "125 cm³"
+    ],
+    "ans": 3,
+    "explanation": "Volume = s³ = 5³ = 125 cm³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 5th term of an arithmetic progression with first term 1 and common difference 4 is:",
+    "opts": [
+      "17",
+      "21",
+      "13",
+      "18"
+    ],
+    "ans": 0,
+    "explanation": "Tn = a + (n-1)d = 1 + 4 x 4 = 17.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 4th term of a geometric progression with first term 2 and common ratio 2 is:",
+    "opts": [
+      "32",
+      "16",
+      "18",
+      "8"
+    ],
+    "ans": 1,
+    "explanation": "Tn = ar^(n-1) = 2 x 2^3 = 16.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $222_{4}$ to base 10.",
+    "opts": [
+      "41",
+      "43",
+      "42",
+      "44"
+    ],
+    "ans": 2,
+    "explanation": "222 in base 4 = 42 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the area of a rectangle 9 cm long and 7 cm wide.",
+    "opts": [
+      "32 cm²",
+      "16 cm²",
+      "73 cm²",
+      "63 cm²"
+    ],
+    "ans": 3,
+    "explanation": "Area = length x width = 9 x 7 = 63 cm².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Geometry and Trigonometry",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the sum of 17 and 2.",
+    "opts": [
+      "18",
+      "21",
+      "19",
+      "20"
+    ],
+    "ans": 2,
+    "explanation": "17 + 2 = 19.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate: $4^{2}$.",
+    "opts": [
+      "8",
+      "16",
+      "15",
+      "17"
+    ],
+    "ans": 1,
+    "explanation": "4 raised to power 2 = 16.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 3th term of a geometric progression with first term 2 and common ratio 3 is:",
+    "opts": [
+      "20",
+      "6",
+      "18",
+      "54"
+    ],
+    "ans": 2,
+    "explanation": "Tn = ar^(n-1) = 2 x 3^2 = 18.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Solve for x: $4x + 3 = 27$.",
+    "opts": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "ans": 3,
+    "explanation": "4x = 24, so x = 6.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Solve for x: $3x + 4 = 19$.",
+    "opts": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "ans": 0,
+    "explanation": "3x = 15, so x = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate: $2^{3}$.",
+    "opts": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "ans": 0,
+    "explanation": "2 raised to power 3 = 8.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A trader bought an article for ₦500 and sold it for ₦650. Find the percentage profit.",
+    "opts": [
+      "30%",
+      "35%",
+      "25%",
+      "40%"
+    ],
+    "ans": 0,
+    "explanation": "Profit = 150, as a percentage of cost price 500 = 30%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the value of 21 divided by 7.",
+    "opts": [
+      "147",
+      "4",
+      "2",
+      "3"
+    ],
+    "ans": 3,
+    "explanation": "21 / 7 = 3.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Simplify: $\\sqrt{25} \\times \\sqrt{2} \\div \\sqrt{2}$.",
+    "opts": [
+      "5",
+      "6",
+      "4",
+      "10"
+    ],
+    "ans": 0,
+    "explanation": "√25 = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Indices, Logarithms and Surds",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find 10% of ₦2,500.",
+    "opts": [
+      "₦200",
+      "₦300",
+      "₦500",
+      "₦250"
+    ],
+    "ans": 3,
+    "explanation": "10% of 2500 = 10/100 x 2500 = 250.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the square of 5.",
+    "opts": [
+      "27",
+      "26",
+      "25",
+      "24"
+    ],
+    "ans": 2,
+    "explanation": "5² = 25.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A trader bought an article for ₦750 and sold it for ₦600. Find the percentage loss.",
+    "opts": [
+      "15%",
+      "25%",
+      "20%",
+      "30%"
+    ],
+    "ans": 2,
+    "explanation": "Loss = 150, as a percentage of cost price 750 = 20%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 5th term of an arithmetic progression with first term 2 and common difference 3 is:",
+    "opts": [
+      "17",
+      "15",
+      "14",
+      "11"
+    ],
+    "ans": 2,
+    "explanation": "Tn = a + (n-1)d = 2 + 4 x 3 = 14.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert 45 to base 2.",
+    "opts": [
+      "101011",
+      "101110",
+      "101101",
+      "110101"
+    ],
+    "ans": 2,
+    "explanation": "45 = 32+8+4+1 = 101101 in base 2.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find 40% of ₦750.",
+    "opts": [
+      "₦350",
+      "₦600",
+      "₦300",
+      "₦250"
+    ],
+    "ans": 2,
+    "explanation": "40% of 750 = 40/100 x 750 = 300.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert $1101_{2}$ to base 10.",
+    "opts": [
+      "12",
+      "13",
+      "15",
+      "14"
+    ],
+    "ans": 1,
+    "explanation": "1101 in base 2 = 13 in base 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Number Bases",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the mean of 3, 6, 9, 12, 15.",
+    "opts": [
+      "10",
+      "9",
+      "11",
+      "8"
+    ],
+    "ans": 1,
+    "explanation": "Mean = sum/count = 45/5 = 9.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Statistics and Probability",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A trader bought an article for ₦1,200 and sold it for ₦900. Find the percentage loss.",
+    "opts": [
+      "25%",
+      "20%",
+      "30%",
+      "35%"
+    ],
+    "ans": 0,
+    "explanation": "Loss = 300, as a percentage of cost price 1200 = 25%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fractions, Decimals and Percentages",
+    "adapted_from": "Repo JAMB_Mathematics_2024.json / NECO_Mathematics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

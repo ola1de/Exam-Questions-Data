@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The Senate President presides over the:",
+    "opts": [
+      "Senate",
+      "Supreme Court",
+      "House of Representatives",
+      "Cabinet"
+    ],
+    "ans": 0,
+    "explanation": "The Senate President leads the Senate.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Arms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a system of government by the whole population, usually through elected representatives?",
+    "opts": [
+      "an oligarchy",
+      "a theocracy",
+      "a monarchy",
+      "democracy"
+    ],
+    "ans": 3,
+    "explanation": "a system of government by the whole population, usually through elected representatives describes democracy.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Systems of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a theocracy?",
+    "opts": [
+      "a system of government by a small group of people",
+      "a system of government headed by a king or queen",
+      "a system of government by the whole population, usually through elected representatives",
+      "a system of government by religious leaders claiming divine guidance"
+    ],
+    "ans": 3,
+    "explanation": "a theocracy is a system of government by religious leaders claiming divine guidance.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Systems of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The main function of a political party is to:",
+    "opts": [
+      "contest elections and form government",
+      "interpret laws",
+      "make laws",
+      "collect taxes"
+    ],
+    "ans": 0,
+    "explanation": "Parties seek power through elections.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Political Parties",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes revenue allocation?",
+    "opts": [
+      "the system of government practised in Nigeria since 1979",
+      "the body responsible for conducting elections in Nigeria",
+      "the sharing of national revenue among the tiers of government",
+      "the constitution currently in force in Nigeria"
+    ],
+    "ans": 2,
+    "explanation": "revenue allocation is the sharing of national revenue among the tiers of government.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a unicameral legislature?",
+    "opts": [
+      "the organ of government that implements and enforces the law",
+      "the organ of government that interprets the law",
+      "a legislature made up of one chamber",
+      "a legislature made up of two chambers"
+    ],
+    "ans": 2,
+    "explanation": "a unicameral legislature is a legislature made up of one chamber.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Institutions",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A two-party system has:",
+    "opts": [
+      "one party",
+      "many equal parties",
+      "no parties",
+      "two major political parties"
+    ],
+    "ans": 3,
+    "explanation": "Two parties dominate politics.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Political Parties",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes democracy?",
+    "opts": [
+      "a system of government by religious leaders claiming divine guidance",
+      "a system of government by the whole population, usually through elected representatives",
+      "a system of government by a small group of people",
+      "a system of government headed by a king or queen"
+    ],
+    "ans": 1,
+    "explanation": "democracy is a system of government by the whole population, usually through elected representatives.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Systems of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Benin Kingdom was ruled by the:",
+    "opts": [
+      "Emir",
+      "Alaafin",
+      "Eze",
+      "Oba"
+    ],
+    "ans": 3,
+    "explanation": "The Oba ruled Benin.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Pre-colonial Polities",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "An example of a pressure group in Nigeria is the:",
+    "opts": [
+      "LP",
+      "APC",
+      "PDP",
+      "Nigeria Labour Congress (NLC)"
+    ],
+    "ans": 3,
+    "explanation": "The NLC is a pressure group; APC, PDP and LP are parties.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Political Parties",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes franchise?",
+    "opts": [
+      "the right to vote in elections",
+      "an electoral system in which seats are shared in proportion to votes won",
+      "a direct vote by the electorate on a specific political question",
+      "a direct vote of the people on an issue of public importance"
+    ],
+    "ans": 0,
+    "explanation": "franchise is the right to vote in elections.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Elections and Representation",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One right of a citizen is the right to:",
+    "opts": [
+      "break laws",
+      "vote",
+      "steal",
+      "avoid tax"
+    ],
+    "ans": 1,
+    "explanation": "Voting is a political right of citizens.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the principle of fair representation of all parts of Nigeria in public appointments?",
+    "opts": [
+      "the presidential system",
+      "federal character",
+      "INEC",
+      "the 1999 Constitution"
+    ],
+    "ans": 1,
+    "explanation": "the principle of fair representation of all parts of Nigeria in public appointments describes federal character.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Speaker presides over the:",
+    "opts": [
+      "House of Representatives",
+      "Senate",
+      "Supreme Court",
+      "Cabinet"
+    ],
+    "ans": 0,
+    "explanation": "The Speaker leads the House of Representatives.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Arms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ministers are appointed by the:",
+    "opts": [
+      "Chief Justice",
+      "Governor",
+      "Senate",
+      "President"
+    ],
+    "ans": 3,
+    "explanation": "The President appoints ministers, subject to Senate confirmation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Arms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a direct vote of the people on an issue of public importance?",
+    "opts": [
+      "proportional representation",
+      "a referendum",
+      "a plebiscite",
+      "franchise"
+    ],
+    "ans": 2,
+    "explanation": "a direct vote of the people on an issue of public importance describes a plebiscite.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Elections and Representation",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The electoral body in Nigeria is:",
+    "opts": [
+      "ICPC",
+      "INEC",
+      "NCC",
+      "EFCC"
+    ],
+    "ans": 1,
+    "explanation": "The Independent National Electoral Commission conducts elections.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Political Parties",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a referendum?",
+    "opts": [
+      "an electoral system in which seats are shared in proportion to votes won",
+      "a direct vote of the people on an issue of public importance",
+      "a direct vote by the electorate on a specific political question",
+      "the right to vote in elections"
+    ],
+    "ans": 2,
+    "explanation": "a referendum is a direct vote by the electorate on a specific political question.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Elections and Representation",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: an electoral system in which the candidate with the most votes wins the seat?",
+    "opts": [
+      "first-past-the-post",
+      "franchise",
+      "a plebiscite",
+      "a referendum"
+    ],
+    "ans": 0,
+    "explanation": "an electoral system in which the candidate with the most votes wins the seat describes first-past-the-post.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Elections and Representation",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the body of rules that defines the structure and powers of government?",
+    "opts": [
+      "separation of powers",
+      "a constitution",
+      "the rule of law",
+      "checks and balances"
+    ],
+    "ans": 1,
+    "explanation": "the body of rules that defines the structure and powers of government describes a constitution.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Principles of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the rule of law?",
+    "opts": [
+      "the principle that everyone, including rulers, is subject to the law",
+      "the division of government powers among the legislature, executive and judiciary",
+      "the arrangement by which each organ of government controls the others",
+      "the supreme power of a state to make and enforce laws within its territory"
+    ],
+    "ans": 0,
+    "explanation": "the rule of law is the principle that everyone, including rulers, is subject to the law.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Principles of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "An oligarchy is rule by a:",
+    "opts": [
+      "religious leader",
+      "single person",
+      "whole population",
+      "small group of people"
+    ],
+    "ans": 3,
+    "explanation": "Oligarchy is rule by a few.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Forms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Voting in Nigeria is by:",
+    "opts": [
+      "open ballot",
+      "secret ballot",
+      "show of hands",
+      "voice vote"
+    ],
+    "ans": 1,
+    "explanation": "Voters mark ballots in secret.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Political Parties",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Sokoto Jihad was led by:",
+    "opts": [
+      "Nana Asma'u",
+      "Muhammed Bello",
+      "Ahmadu Bello",
+      "Usman dan Fodio"
+    ],
+    "ans": 3,
+    "explanation": "Usman dan Fodio led the jihad of 1804.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Pre-colonial Polities",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A citizen by birth is one born:",
+    "opts": [
+      "abroad always",
+      "in the country or to citizen parents, as the constitution provides",
+      "in a hospital",
+      "to foreign parents only"
+    ],
+    "ans": 1,
+    "explanation": "Birth citizenship follows the constitutional rules.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Socialism is based on:",
+    "opts": [
+      "no ownership",
+      "foreign ownership",
+      "collective or state ownership",
+      "private ownership only"
+    ],
+    "ans": 2,
+    "explanation": "Socialism favours public ownership.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Forms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a plebiscite?",
+    "opts": [
+      "a direct vote of the people on an issue of public importance",
+      "a direct vote by the electorate on a specific political question",
+      "the right to vote in elections",
+      "an electoral system in which seats are shared in proportion to votes won"
+    ],
+    "ans": 0,
+    "explanation": "a plebiscite is a direct vote of the people on an issue of public importance.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Elections and Representation",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a group that seeks to influence government policy without seeking power?",
+    "opts": [
+      "the judiciary",
+      "a bicameral legislature",
+      "a unicameral legislature",
+      "a pressure group"
+    ],
+    "ans": 3,
+    "explanation": "a group that seeks to influence government policy without seeking power describes a pressure group.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Institutions",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Representative government means citizens elect people to:",
+    "opts": [
+      "collect taxes only",
+      "make laws for them without consent",
+      "represent them",
+      "rule them by force"
+    ],
+    "ans": 2,
+    "explanation": "Representatives act on behalf of the people.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Democratic Principles",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Nigeria played a leading role in the formation of:",
+    "opts": [
+      "the EU",
+      "ECOWAS",
+      "NATO",
+      "ASEAN"
+    ],
+    "ans": 1,
+    "explanation": "Nigeria helped found ECOWAS in 1975.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Foreign Policy",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The June 12, 1993 election was won by:",
+    "opts": [
+      "Bashir Tofa",
+      "Ernest Shonekan",
+      "Olusegun Obasanjo",
+      "M.K.O. Abiola"
+    ],
+    "ans": 3,
+    "explanation": "Abiola won the annulled June 12 election.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The sources of a constitution include:",
+    "opts": [
+      "party manifestos only",
+      "newspapers",
+      "history, customs and past constitutions",
+      "foreign laws only"
+    ],
+    "ans": 2,
+    "explanation": "Constitutions draw on history and custom.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Constitution",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes federalism?",
+    "opts": [
+      "a system in which power is shared between a central government and regional governments",
+      "a system of government by a small group of people",
+      "a system of government headed by a king or queen",
+      "a system of government by the whole population, usually through elected representatives"
+    ],
+    "ans": 0,
+    "explanation": "federalism is a system in which power is shared between a central government and regional governments.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Systems of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the constitution currently in force in Nigeria?",
+    "opts": [
+      "INEC",
+      "the presidential system",
+      "the 1999 Constitution",
+      "federal character"
+    ],
+    "ans": 2,
+    "explanation": "the constitution currently in force in Nigeria describes the 1999 Constitution.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The upper house of Nigeria's National Assembly is the:",
+    "opts": [
+      "House of Representatives",
+      "Supreme Court",
+      "Senate",
+      "House of Assembly"
+    ],
+    "ans": 2,
+    "explanation": "The Senate is the upper chamber.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Arms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Totalitarianism is rule with:",
+    "opts": [
+      "free elections",
+      "total control over all aspects of life",
+      "limited power",
+      "free press"
+    ],
+    "ans": 1,
+    "explanation": "Totalitarian regimes control politics, economy and society.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Forms of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The supremacy of the constitution means it is:",
+    "opts": [
+      "above all other laws",
+      "equal to decrees",
+      "only advisory",
+      "below ordinary laws"
+    ],
+    "ans": 0,
+    "explanation": "Any law inconsistent with the constitution is void.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Constitution",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In a presidential system, the president is:",
+    "opts": [
+      "ceremonial only",
+      "both head of state and head of government",
+      "head of government only",
+      "head of state only"
+    ],
+    "ans": 1,
+    "explanation": "Nigeria's presidential system combines both roles in the President.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Systems of Governance",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the general acceptance of a government by the people as rightful?",
+    "opts": [
+      "checks and balances",
+      "separation of powers",
+      "legitimacy",
+      "the rule of law"
+    ],
+    "ans": 2,
+    "explanation": "the general acceptance of a government by the people as rightful describes legitimacy.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Principles of Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 1963 Constitution made Nigeria a:",
+    "opts": [
+      "republic",
+      "dominion",
+      "monarchy",
+      "colony"
+    ],
+    "ans": 0,
+    "explanation": "Nigeria became a republic in 1963.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Nigerian Government",
+    "adapted_from": "Repo JAMB_Government_2024.json / NECO_Government_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]
