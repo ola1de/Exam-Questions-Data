@@ -1,1 +1,980 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "There are _____ books on the shelf.",
+    "opts": [
+      "few",
+      "less",
+      "much",
+      "little"
+    ],
+    "ans": 0,
+    "explanation": "'Few' is used with countable nouns.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Either the boys or the girl _____ to blame.",
+    "opts": [
+      "is",
+      "have",
+      "are",
+      "were"
+    ],
+    "ans": 0,
+    "explanation": "The verb agrees with the nearer subject, 'girl'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: BEGIN",
+    "opts": [
+      "start",
+      "unhappy",
+      "joyful",
+      "courageous"
+    ],
+    "ans": 0,
+    "explanation": "start is the closest synonym of begin.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The vowel sound in 'cat' is the same as in:",
+    "opts": [
+      "cut",
+      "cart",
+      "hat",
+      "cot"
+    ],
+    "ans": 2,
+    "explanation": "'Cat' and 'hat' share the /ae/ sound.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Oral English",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: SILENT",
+    "opts": [
+      "cowardly",
+      "slow",
+      "sad",
+      "noisy"
+    ],
+    "ans": 3,
+    "explanation": "noisy is the opposite of silent.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does the idiom 'to burn the midnight oil' mean?",
+    "opts": [
+      "to work late into the night",
+      "to reveal a secret",
+      "to avoid saying what one means",
+      "to say exactly the right thing"
+    ],
+    "ans": 0,
+    "explanation": "'to burn the midnight oil' means: to work late into the night.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Idioms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The plural of 'box' is:",
+    "opts": [
+      "boxies",
+      "boxen",
+      "boxs",
+      "boxes"
+    ],
+    "ans": 3,
+    "explanation": "'Boxes' is the plural of 'box'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: SAD",
+    "opts": [
+      "courageous",
+      "unhappy",
+      "joyful",
+      "quick"
+    ],
+    "ans": 1,
+    "explanation": "unhappy is the closest synonym of sad.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The subject of a sentence is the person or thing that:",
+    "opts": [
+      "ends the sentence",
+      "describes the action",
+      "does the action",
+      "receives the action"
+    ],
+    "ans": 2,
+    "explanation": "The subject performs the action.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: FOOLISH",
+    "opts": [
+      "plentiful",
+      "rare",
+      "silly",
+      "kind"
+    ],
+    "ans": 2,
+    "explanation": "silly is the closest synonym of foolish.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: CRUCIAL",
+    "opts": [
+      "kind",
+      "plentiful",
+      "rare",
+      "important"
+    ],
+    "ans": 3,
+    "explanation": "important is the closest synonym of crucial.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does the idiom 'a blessing in disguise' mean?",
+    "opts": [
+      "to say exactly the right thing",
+      "to reveal a secret",
+      "to avoid saying what one means",
+      "a good thing that first seemed bad"
+    ],
+    "ans": 3,
+    "explanation": "'a blessing in disguise' means: a good thing that first seemed bad.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Idioms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: DELAY",
+    "opts": [
+      "postpone",
+      "plentiful",
+      "rare",
+      "kind"
+    ],
+    "ans": 0,
+    "explanation": "postpone is the closest synonym of delay.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The comparative form of 'good' is:",
+    "opts": [
+      "better",
+      "more good",
+      "gooder",
+      "best"
+    ],
+    "ans": 0,
+    "explanation": "'Better' is the comparative of 'good'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The past tense of 'go' is:",
+    "opts": [
+      "gone",
+      "went",
+      "going",
+      "goed"
+    ],
+    "ans": 1,
+    "explanation": "'Went' is the past tense of 'go'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The pair 'right' and 'write' are:",
+    "opts": [
+      "homonyms",
+      "antonyms",
+      "synonyms",
+      "homophones"
+    ],
+    "ans": 3,
+    "explanation": "They sound the same but are spelt differently.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Oral English",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does the idiom 'to hit the nail on the head' mean?",
+    "opts": [
+      "a good thing that first seemed bad",
+      "to reveal a secret",
+      "to avoid saying what one means",
+      "to say exactly the right thing"
+    ],
+    "ans": 3,
+    "explanation": "'to hit the nail on the head' means: to say exactly the right thing.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Idioms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: LAZY",
+    "opts": [
+      "unhappy",
+      "idle",
+      "joyful",
+      "courageous"
+    ],
+    "ans": 1,
+    "explanation": "idle is the closest synonym of lazy.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: TIMID",
+    "opts": [
+      "abundant",
+      "bold",
+      "obvious",
+      "generous"
+    ],
+    "ans": 1,
+    "explanation": "bold is the opposite of timid.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The word 'quickly' is a/an:",
+    "opts": [
+      "adverb",
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "ans": 0,
+    "explanation": "'Quickly' describes how an action is done.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does the idiom 'to burn one's bridges' mean?",
+    "opts": [
+      "to accept the consequences",
+      "to ignore someone deliberately",
+      "to make retreat impossible",
+      "to be in trouble"
+    ],
+    "ans": 2,
+    "explanation": "'to burn one's bridges' means: to make retreat impossible.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Idioms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does the idiom 'to throw in the towel' mean?",
+    "opts": [
+      "to ignore someone deliberately",
+      "to make retreat impossible",
+      "to give up",
+      "to accept the consequences"
+    ],
+    "ans": 2,
+    "explanation": "'to throw in the towel' means: to give up.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Idioms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: VICTORY",
+    "opts": [
+      "cowardly",
+      "slow",
+      "defeat",
+      "sad"
+    ],
+    "ans": 2,
+    "explanation": "defeat is the opposite of victory.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The plural of 'woman' is:",
+    "opts": [
+      "women",
+      "womans",
+      "womanes",
+      "womens"
+    ],
+    "ans": 0,
+    "explanation": "'Women' is the plural of 'woman'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: ARRIVE",
+    "opts": [
+      "slow",
+      "sad",
+      "depart",
+      "cowardly"
+    ],
+    "ans": 2,
+    "explanation": "depart is the opposite of arrive.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "passage",
+    "content": "Amina had always wanted to become a doctor. As a child, she watched her mother walk long distances to the nearest clinic, and she promised herself that one day she would bring healthcare to her village. She studied hard, often reading by the light of a kerosene lamp when the power failed. Her teachers noticed her determination and encouraged her. Years later, Amina returned to her village as a qualified doctor and opened a small clinic. The villagers celebrated, for their daughter had kept her promise.",
+    "questions": [
+      {
+        "type": "std",
+        "q": "Amina wanted to become a:",
+        "opts": [
+          "teacher",
+          "doctor",
+          "nurse",
+          "lawyer"
+        ],
+        "ans": 1,
+        "explanation": "Amina wanted to become a doctor.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Comprehension",
+        "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "She studied by the light of a:",
+        "opts": [
+          "moon",
+          "kerosene lamp",
+          "torch",
+          "candle"
+        ],
+        "ans": 1,
+        "explanation": "She read by a kerosene lamp when power failed.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Comprehension",
+        "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "Amina returned to her village as a:",
+        "opts": [
+          "student",
+          "teacher",
+          "qualified doctor",
+          "visitor"
+        ],
+        "ans": 2,
+        "explanation": "She returned as a qualified doctor.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Comprehension",
+        "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "Her teachers encouraged her because of her:",
+        "opts": [
+          "wealth",
+          "age",
+          "determination",
+          "beauty"
+        ],
+        "ans": 2,
+        "explanation": "Her teachers noticed her determination.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Comprehension",
+        "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "The villagers celebrated because Amina had:",
+        "opts": [
+          "kept her promise",
+          "become rich",
+          "left the village",
+          "travelled abroad"
+        ],
+        "ans": 0,
+        "explanation": "She had promised to bring healthcare and did so.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Comprehension",
+        "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      }
+    ],
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Comprehension"
+  },
+  {
+    "type": "std",
+    "q": "The number of students in the class _____ forty.",
+    "opts": [
+      "were",
+      "have",
+      "are",
+      "is"
+    ],
+    "ans": 3,
+    "explanation": "'The number' is singular.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: TIMID",
+    "opts": [
+      "kind",
+      "rare",
+      "plentiful",
+      "shy"
+    ],
+    "ans": 3,
+    "explanation": "shy is the closest synonym of timid.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "She is good _____ Mathematics.",
+    "opts": [
+      "in",
+      "on",
+      "at",
+      "for"
+    ],
+    "ans": 2,
+    "explanation": "'Good at' is the correct collocation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: HONEST",
+    "opts": [
+      "cowardly",
+      "dishonest",
+      "slow",
+      "sad"
+    ],
+    "ans": 1,
+    "explanation": "dishonest is the opposite of honest.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does the idiom 'to cost an arm and a leg' mean?",
+    "opts": [
+      "to be very expensive",
+      "to say exactly the right thing",
+      "to avoid saying what one means",
+      "to reveal a secret"
+    ],
+    "ans": 0,
+    "explanation": "'to cost an arm and a leg' means: to be very expensive.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Idioms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: ASK",
+    "opts": [
+      "inquire",
+      "joyful",
+      "courageous",
+      "unhappy"
+    ],
+    "ans": 0,
+    "explanation": "inquire is the closest synonym of ask.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: BEGIN",
+    "opts": [
+      "sad",
+      "cowardly",
+      "end",
+      "slow"
+    ],
+    "ans": 2,
+    "explanation": "end is the opposite of begin.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: ANGRY",
+    "opts": [
+      "cowardly",
+      "sad",
+      "slow",
+      "calm"
+    ],
+    "ans": 3,
+    "explanation": "calm is the opposite of angry.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: KEEN",
+    "opts": [
+      "plentiful",
+      "kind",
+      "rare",
+      "eager"
+    ],
+    "ans": 3,
+    "explanation": "eager is the closest synonym of keen.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: BRIGHT",
+    "opts": [
+      "joyful",
+      "courageous",
+      "shining",
+      "unhappy"
+    ],
+    "ans": 2,
+    "explanation": "shining is the closest synonym of bright.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: GRATEFUL",
+    "opts": [
+      "generous",
+      "obvious",
+      "ungrateful",
+      "abundant"
+    ],
+    "ans": 2,
+    "explanation": "ungrateful is the opposite of grateful.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The word 'examination' is stressed on the:",
+    "opts": [
+      "first syllable",
+      "second syllable",
+      "third syllable",
+      "fourth syllable"
+    ],
+    "ans": 3,
+    "explanation": "ex-am-i-NA-tion: stress on the fourth syllable.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Oral English",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does the idiom 'to make ends meet' mean?",
+    "opts": [
+      "to make retreat impossible",
+      "to ignore someone deliberately",
+      "to accept the consequences",
+      "to manage on one's income"
+    ],
+    "ans": 3,
+    "explanation": "'to make ends meet' means: to manage on one's income.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Idioms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: RICH",
+    "opts": [
+      "poor",
+      "cowardly",
+      "sad",
+      "slow"
+    ],
+    "ans": 0,
+    "explanation": "poor is the opposite of rich.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does the idiom 'to be under the weather' mean?",
+    "opts": [
+      "to feel slightly ill",
+      "to make retreat impossible",
+      "to accept the consequences",
+      "to ignore someone deliberately"
+    ],
+    "ans": 0,
+    "explanation": "'to be under the weather' means: to feel slightly ill.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Idioms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does the idiom 'to hit the books' mean?",
+    "opts": [
+      "to say exactly the right thing",
+      "to reveal a secret",
+      "to avoid saying what one means",
+      "to begin studying seriously"
+    ],
+    "ans": 3,
+    "explanation": "'to hit the books' means: to begin studying seriously.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Idioms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Each of the boys _____ a prize.",
+    "opts": [
+      "were",
+      "has",
+      "have",
+      "are"
+    ],
+    "ans": 1,
+    "explanation": "'Each' is singular, so the verb is 'has'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "He said, 'I am hungry.' The reported speech is: He said that he _____ hungry.",
+    "opts": [
+      "are",
+      "was",
+      "is",
+      "were"
+    ],
+    "ans": 1,
+    "explanation": "In reported speech the present tense shifts to the past.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: RAPID",
+    "opts": [
+      "obvious",
+      "slow",
+      "abundant",
+      "generous"
+    ],
+    "ans": 1,
+    "explanation": "slow is the opposite of rapid.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: RELUCTANT",
+    "opts": [
+      "kind",
+      "rare",
+      "plentiful",
+      "unwilling"
+    ],
+    "ans": 3,
+    "explanation": "unwilling is the closest synonym of reluctant.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: TRUTH",
+    "opts": [
+      "slow",
+      "cowardly",
+      "sad",
+      "falsehood"
+    ],
+    "ans": 3,
+    "explanation": "falsehood is the opposite of truth.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: POOR",
+    "opts": [
+      "needy",
+      "unhappy",
+      "joyful",
+      "courageous"
+    ],
+    "ans": 0,
+    "explanation": "needy is the closest synonym of poor.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word opposite in meaning to: ACCEPT",
+    "opts": [
+      "sad",
+      "reject",
+      "slow",
+      "cowardly"
+    ],
+    "ans": 1,
+    "explanation": "reject is the opposite of accept.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Antonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "I have lived here _____ 2015.",
+    "opts": [
+      "since",
+      "from",
+      "by",
+      "for"
+    ],
+    "ans": 0,
+    "explanation": "'Since' is used with a point in time.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis and Structure",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Choose the word nearest in meaning to: GRADUAL",
+    "opts": [
+      "plentiful",
+      "kind",
+      "slow",
+      "rare"
+    ],
+    "ans": 2,
+    "explanation": "slow is the closest synonym of gradual.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Lexis: Synonyms",
+    "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "passage",
+    "content": "Tunde was the youngest farmer in his village, but he was also the most hardworking. While others planted the same crops every year, Tunde tried new methods he had learned from agricultural extension officers. He planted maize and beans together, used compost to enrich the soil, and dug a small channel to bring water to his farm. At harvest time, his yield was the best in the village. The elders praised him, and many young people began to follow his example.",
+    "questions": [
+      {
+        "type": "std",
+        "q": "Tunde was known as the:",
+        "opts": [
+          "oldest farmer",
+          "youngest farmer",
+          "richest farmer",
+          "tallest farmer"
+        ],
+        "ans": 1,
+        "explanation": "Tunde was the youngest farmer.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Comprehension",
+        "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "He learned new methods from:",
+        "opts": [
+          "the internet",
+          "agricultural extension officers",
+          "the market women",
+          "his father only"
+        ],
+        "ans": 1,
+        "explanation": "He learned from agricultural extension officers.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Comprehension",
+        "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "Tunde planted maize and beans:",
+        "opts": [
+          "in different villages",
+          "together",
+          "in different years",
+          "for sale only"
+        ],
+        "ans": 1,
+        "explanation": "He planted maize and beans together.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Comprehension",
+        "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "At harvest, his yield was:",
+        "opts": [
+          "the worst in the village",
+          "not measured",
+          "the best in the village",
+          "average"
+        ],
+        "ans": 2,
+        "explanation": "His yield was the best in the village.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Comprehension",
+        "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      },
+      {
+        "type": "std",
+        "q": "The elders praised Tunde because he was:",
+        "opts": [
+          "old",
+          "hardworking and innovative",
+          "rich",
+          "famous"
+        ],
+        "ans": 1,
+        "explanation": "He was hardworking and tried new methods.",
+        "practice": true,
+        "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+        "topic": "Comprehension",
+        "adapted_from": "Repo JAMB_English_2024.json / NECO_English_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+      }
+    ],
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Comprehension"
+  }
+]

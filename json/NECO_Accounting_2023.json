@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "A document that shows money received is a:",
+    "opts": [
+      "delivery note",
+      "invoice",
+      "receipt",
+      "order"
+    ],
+    "ans": 2,
+    "explanation": "A receipt acknowledges payment received.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Source Documents",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Current assets are N90,000, stock is N30,000 and current liabilities are N30,000. The acid-test ratio is:",
+    "opts": [
+      "1.5",
+      "2",
+      "3",
+      "4"
+    ],
+    "ans": 1,
+    "explanation": "Acid-test ratio = (current assets - stock) / current liabilities = (90,000 - 30,000)/30,000 = 2:1.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Ratios",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The rule of double entry for a real account is:",
+    "opts": [
+      "Debit all accounts",
+      "Debit the receiver, credit the giver",
+      "Credit all accounts",
+      "Debit the giver, credit the receiver"
+    ],
+    "ans": 1,
+    "explanation": "In double entry, every debit has an equal credit.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Double Entry",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A computerised accounting system stores records:",
+    "opts": [
+      "electronically",
+      "only on paper",
+      "only in the cash book",
+      "in the trial balance only"
+    ],
+    "ans": 0,
+    "explanation": "Computerised systems keep records in electronic form.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Information Technology",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A business has current assets of ₦30,000 and current liabilities of ₦15,000. Find the current ratio.",
+    "opts": [
+      "1:2",
+      "3:1",
+      "2:1",
+      "15:30"
+    ],
+    "ans": 2,
+    "explanation": "Current ratio = current assets / current liabilities = 2:1.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The document that states a company's internal rules is the:",
+    "opts": [
+      "balance sheet",
+      "memorandum of association",
+      "prospectus",
+      "articles of association"
+    ],
+    "ans": 3,
+    "explanation": "The articles govern internal management.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Company Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If total debits exceed total credits in a trial balance, the difference is:",
+    "opts": [
+      "a loss",
+      "profit",
+      "capital",
+      "an error"
+    ],
+    "ans": 3,
+    "explanation": "Debits must equal credits; a difference means an error exists.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Trial Balance",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A trader made a gross profit of ₦4,000 and had expenses of ₦2,500. Find the net profit.",
+    "opts": [
+      "₦1,500",
+      "₦2,500",
+      "₦6,500",
+      "₦4,000"
+    ],
+    "ans": 0,
+    "explanation": "Net profit = gross profit - expenses = 1500.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: an entry on the left-hand side of an account?",
+    "opts": [
+      "a credit",
+      "double entry",
+      "a ledger",
+      "a debit"
+    ],
+    "ans": 3,
+    "explanation": "an entry on the left-hand side of an account describes a debit.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Bookkeeping",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a list of debit and credit balances used to check the arithmetical accuracy of the ledger?",
+    "opts": [
+      "double entry",
+      "a trial balance",
+      "a debit",
+      "a credit"
+    ],
+    "ans": 1,
+    "explanation": "a list of debit and credit balances used to check the arithmetical accuracy of the ledger describes a trial balance.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Bookkeeping",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A business with capital of ₦50,000 made a profit of ₦10,000. Find the return on capital.",
+    "opts": [
+      "15%",
+      "25%",
+      "20%",
+      "40%"
+    ],
+    "ans": 2,
+    "explanation": "Return = profit/capital x 100 = 20%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Accrued expenses are expenses:",
+    "opts": [
+      "incurred but not yet paid",
+      "paid in full",
+      "paid in advance",
+      "never incurred"
+    ],
+    "ans": 0,
+    "explanation": "Accrued expenses are owed at the period end.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A trader had sales of ₦10,000 and cost of goods sold of ₦6,000. Find the gross profit.",
+    "opts": [
+      "₦4,000",
+      "₦5,000",
+      "₦3,000",
+      "₦16,000"
+    ],
+    "ans": 0,
+    "explanation": "Gross profit = sales - cost of goods sold = 4000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a bad debt?",
+    "opts": [
+      "an entry on the left-hand side of an account",
+      "the principle that every transaction is recorded twice, as a debit and a credit",
+      "a debt that cannot be collected from a debtor",
+      "an entry on the right-hand side of an account"
+    ],
+    "ans": 2,
+    "explanation": "a bad debt is a debt that cannot be collected from a debtor.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Bookkeeping",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A document that shows goods bought on credit is a:",
+    "opts": [
+      "pay-in slip",
+      "purchase invoice",
+      "cheque",
+      "receipt"
+    ],
+    "ans": 1,
+    "explanation": "The supplier's invoice records a credit purchase.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Source Documents",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a balance sheet?",
+    "opts": [
+      "a statement showing the assets, liabilities and capital of a business at a given date",
+      "the principle that every transaction is recorded twice, as a debit and a credit",
+      "an entry on the right-hand side of an account",
+      "an entry on the left-hand side of an account"
+    ],
+    "ans": 0,
+    "explanation": "a balance sheet is a statement showing the assets, liabilities and capital of a business at a given date.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Bookkeeping",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A business has current assets of ₦90,000 and current liabilities of ₦30,000. Find the current ratio.",
+    "opts": [
+      "30:90",
+      "4:1",
+      "3:1",
+      "1:3"
+    ],
+    "ans": 2,
+    "explanation": "Current ratio = current assets / current liabilities = 3:1.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "To increase capital, you:",
+    "opts": [
+      "credit the capital account",
+      "debit the capital account",
+      "close the capital account",
+      "open a new account"
+    ],
+    "ans": 0,
+    "explanation": "Capital is a credit balance; it increases by crediting.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Double Entry",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Current assets are N80,000, stock is N40,000 and current liabilities are N20,000. The acid-test ratio is:",
+    "opts": [
+      "1.5",
+      "2",
+      "4",
+      "3"
+    ],
+    "ans": 1,
+    "explanation": "Acid-test ratio = (current assets - stock) / current liabilities = (80,000 - 40,000)/20,000 = 2:1.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Ratios",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A machine costing ₦50,000 is depreciated at 10% per annum on a straight-line basis. Find the total depreciation after 1 year(s).",
+    "opts": [
+      "₦10,000",
+      "₦6,000",
+      "₦5,000",
+      "₦5,500"
+    ],
+    "ans": 2,
+    "explanation": "Annual depreciation = 50000 x 10% = 5000; over 1 year(s) = 5000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Depreciation",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A machine costing ₦10,000 is depreciated at 10% per annum on a straight-line basis. Find the total depreciation after 2 year(s).",
+    "opts": [
+      "₦3,000",
+      "₦4,000",
+      "₦2,500",
+      "₦2,000"
+    ],
+    "ans": 3,
+    "explanation": "Annual depreciation = 10000 x 10% = 1000; over 2 year(s) = 2000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Depreciation",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a ledger?",
+    "opts": [
+      "the principle that every transaction is recorded twice, as a debit and a credit",
+      "an entry on the right-hand side of an account",
+      "the book in which accounts are kept",
+      "an entry on the left-hand side of an account"
+    ],
+    "ans": 2,
+    "explanation": "a ledger is the book in which accounts are kept.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Bookkeeping",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Opening stock was ₦15,000 and closing stock was ₦18,000. If purchases were ₦20,000, find the cost of goods sold.",
+    "opts": [
+      "₦35,000",
+      "₦18,000",
+      "₦53,000",
+      "₦17,000"
+    ],
+    "ans": 3,
+    "explanation": "COGS = opening stock + purchases - closing stock = 17000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A business with capital of ₦100,000 made a profit of ₦20,000. Find the return on capital.",
+    "opts": [
+      "20%",
+      "40%",
+      "25%",
+      "15%"
+    ],
+    "ans": 0,
+    "explanation": "Return = profit/capital x 100 = 20%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A machine costs N10,000. The first year's depreciation at 25% on the reducing-balance method is:",
+    "opts": [
+      "3500",
+      "1250",
+      "2500",
+      "5000"
+    ],
+    "ans": 2,
+    "explanation": "Reducing-balance depreciation = cost x rate = 10,000 x 25% = N2,500.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Depreciation",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A provision for doubtful debts is made for debts that:",
+    "opts": [
+      "are not yet due",
+      "may not be paid",
+      "have been paid",
+      "will certainly be paid"
+    ],
+    "ans": 1,
+    "explanation": "It is a prudent estimate of debts at risk.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A machine costs N15,000 with a scrap value of N3,000 and a useful life of 6 years. The annual depreciation by the straight-line method is:",
+    "opts": [
+      "2000",
+      "1000",
+      "2500",
+      "4000"
+    ],
+    "ans": 0,
+    "explanation": "Straight-line depreciation = (cost - scrap value) / useful life = (15,000 - 3,000) / 6 = N2,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Depreciation",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "An asset costing ₦20,000 is depreciated at 20% on the reducing balance basis. Find its net book value after one year.",
+    "opts": [
+      "₦4,000",
+      "₦16,000",
+      "₦20,000",
+      "₦15,500"
+    ],
+    "ans": 1,
+    "explanation": "Depreciation = 4000; net book value = 20000 - 4000 = 16000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Depreciation",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A cash discount of 5% is allowed on ₦4,000. Find the discount.",
+    "opts": [
+      "₦3,800",
+      "₦300",
+      "₦250",
+      "₦200"
+    ],
+    "ans": 3,
+    "explanation": "Discount = 5% of 4000 = 200.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Cash Book",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A machine costs N20,000 with a scrap value of N4,000 and a useful life of 8 years. The annual depreciation by the straight-line method is:",
+    "opts": [
+      "2500",
+      "4000",
+      "2000",
+      "1000"
+    ],
+    "ans": 2,
+    "explanation": "Straight-line depreciation = (cost - scrap value) / useful life = (20,000 - 4,000) / 8 = N2,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Depreciation",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Expenses and incomes are recorded in:",
+    "opts": [
+      "control accounts",
+      "nominal accounts",
+      "personal accounts",
+      "real accounts"
+    ],
+    "ans": 1,
+    "explanation": "Nominal accounts record expenses, losses, incomes and gains.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Double Entry",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the book in which accounts are kept?",
+    "opts": [
+      "a debit",
+      "a credit",
+      "double entry",
+      "a ledger"
+    ],
+    "ans": 3,
+    "explanation": "the book in which accounts are kept describes a ledger.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Bookkeeping",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Goods costing N60,000 are sold at a mark-up of 10%. The mark-up is:",
+    "opts": [
+      "6000",
+      "3000",
+      "12000",
+      "7000"
+    ],
+    "ans": 0,
+    "explanation": "Mark-up = cost x mark-up % = 60,000 x 10% = N6,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Carriage inwards is added to:",
+    "opts": [
+      "capital",
+      "the cost of goods",
+      "expenses",
+      "sales"
+    ],
+    "ans": 1,
+    "explanation": "Carriage inwards is part of the cost of purchases.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Interest on capital is:",
+    "opts": [
+      "a loan",
+      "a tax",
+      "an expense of the firm only",
+      "a reward to partners for capital contributed"
+    ],
+    "ans": 3,
+    "explanation": "Partners may be paid interest on their capital.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Partnership Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A partner's drawings are recorded in the partner's:",
+    "opts": [
+      "drawings account",
+      "capital account only",
+      "loan account",
+      "current account only"
+    ],
+    "ans": 0,
+    "explanation": "Drawings are recorded separately.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Partnership Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A trader's sales are N60,000 and cost of goods sold is N35,000. The gross profit is:",
+    "opts": [
+      "30000",
+      "50000",
+      "20000",
+      "25000"
+    ],
+    "ans": 3,
+    "explanation": "Gross profit = sales - cost of goods sold = 60,000 - 35,000 = N25,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Final Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Goods sent to a branch are recorded in the head office books as:",
+    "opts": [
+      "drawings",
+      "sales",
+      "purchases",
+      "goods sent to branch"
+    ],
+    "ans": 3,
+    "explanation": "Goods sent to a branch are not sales.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Branch Accounts",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A cheque not yet presented for payment is called an:",
+    "opts": [
+      "uncredited cheque",
+      "dishonoured cheque",
+      "unpresented cheque",
+      "standing order"
+    ],
+    "ans": 2,
+    "explanation": "Unpresented cheques reduce the bank statement balance.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Bank Reconciliation",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The trial balance is prepared to check the:",
+    "opts": [
+      "profit of the business",
+      "arithmetical accuracy of the ledger",
+      "cash position",
+      "value of stock"
+    ],
+    "ans": 1,
+    "explanation": "It tests whether total debits equal total credits.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Trial Balance",
+    "adapted_from": "Repo JAMB_Accounting_2024.json / NECO_Accounting_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

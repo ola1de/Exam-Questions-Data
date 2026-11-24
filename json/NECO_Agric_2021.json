@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Which of these best describes irrigation?",
+    "opts": [
+      "the practice of growing two crops together with one as the main crop",
+      "the practice of growing different crops on the same land in successive seasons",
+      "the artificial application of water to farmland",
+      "the practice of growing two or more crops on the same land at the same time"
+    ],
+    "ans": 2,
+    "explanation": "irrigation is the artificial application of water to farmland.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which soil type drains fastest?",
+    "opts": [
+      "silty soil",
+      "sandy soil",
+      "clay soil",
+      "loamy soil"
+    ],
+    "ans": 1,
+    "explanation": "Sand has large particles and large air spaces, so water drains quickly.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A spade is used for:",
+    "opts": [
+      "cutting weeds and clearing bush",
+      "tilling and weeding soil",
+      "levelling soil and gathering leaves",
+      "digging soil"
+    ],
+    "ans": 3,
+    "explanation": "A spade is used for digging soil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agricultural Technology",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The young of a horse is called a:",
+    "opts": [
+      "foal",
+      "lamb",
+      "calf",
+      "kid"
+    ],
+    "ans": 0,
+    "explanation": "A young horse is a foal.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: an insect pest that bores into the stems of cereal crops?",
+    "opts": [
+      "poultry",
+      "cattle",
+      "the stem borer",
+      "fish farming"
+    ],
+    "ans": 2,
+    "explanation": "an insect pest that bores into the stems of cereal crops describes the stem borer.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Livestock, Diseases and Pests",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a leguminous oil crop grown for its seeds?",
+    "opts": [
+      "groundnut",
+      "maize",
+      "rice",
+      "millet"
+    ],
+    "ans": 0,
+    "explanation": "a leguminous oil crop grown for its seeds describes groundnut.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the separation of young animals from their mothers at the end of suckling?",
+    "opts": [
+      "mixed cropping",
+      "weaning",
+      "crop rotation",
+      "intercropping"
+    ],
+    "ans": 1,
+    "explanation": "the separation of young animals from their mothers at the end of suckling describes weaning.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes foot-and-mouth disease?",
+    "opts": [
+      "a viral disease affecting cattle, sheep and goats",
+      "livestock kept for beef, milk and draught purposes",
+      "the rearing of fish in ponds, also called aquaculture",
+      "birds such as chickens kept for eggs and meat"
+    ],
+    "ans": 0,
+    "explanation": "foot-and-mouth disease is a viral disease affecting cattle, sheep and goats.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Livestock, Diseases and Pests",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The gestation period of a cow is about:",
+    "opts": [
+      "114 days",
+      "365 days",
+      "150 days",
+      "283 days"
+    ],
+    "ans": 3,
+    "explanation": "A cow carries its calf for about 9 months (283 days).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A hoe is used for:",
+    "opts": [
+      "levelling soil and gathering leaves",
+      "tilling and weeding soil",
+      "cutting weeds and clearing bush",
+      "digging soil"
+    ],
+    "ans": 1,
+    "explanation": "A hoe is used for tilling and weeding soil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agricultural Technology",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes maize?",
+    "opts": [
+      "a cereal crop also known as guinea corn",
+      "a cereal crop that grows well in dry areas",
+      "a cereal crop grown mainly in swampy areas",
+      "a cereal crop used as food for man and feed for livestock"
+    ],
+    "ans": 3,
+    "explanation": "maize is a cereal crop used as food for man and feed for livestock.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The feed given to poultry for egg laying is called:",
+    "opts": [
+      "layers' mash",
+      "creep feed",
+      "broiler mash",
+      "hay"
+    ],
+    "ans": 0,
+    "explanation": "Layers' mash is formulated for laying hens.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The young of a duck is called a:",
+    "opts": [
+      "calf",
+      "kid",
+      "duckling",
+      "lamb"
+    ],
+    "ans": 2,
+    "explanation": "A young duck is a duckling.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a cereal crop grown mainly in swampy areas?",
+    "opts": [
+      "sorghum",
+      "rice",
+      "millet",
+      "maize"
+    ],
+    "ans": 1,
+    "explanation": "a cereal crop grown mainly in swampy areas describes rice.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes millet?",
+    "opts": [
+      "a cereal crop also known as guinea corn",
+      "a cereal crop used as food for man and feed for livestock",
+      "a cereal crop that grows well in dry areas",
+      "a cereal crop grown mainly in swampy areas"
+    ],
+    "ans": 2,
+    "explanation": "millet is a cereal crop that grows well in dry areas.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The law of diminishing returns states that as more of a variable input is added:",
+    "opts": [
+      "output increases at an increasing rate",
+      "output stays constant",
+      "output increases at a decreasing rate",
+      "output falls immediately"
+    ],
+    "ans": 2,
+    "explanation": "After a point, extra input adds less and less output.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agricultural Economics",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The rearing of bees is called:",
+    "opts": [
+      "sericulture",
+      "aquaculture",
+      "horticulture",
+      "apiculture"
+    ],
+    "ans": 3,
+    "explanation": "Apiculture is beekeeping.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Fisheries",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A cooperative helps farmers by:",
+    "opts": [
+      "paying taxes",
+      "building roads",
+      "buying inputs cheaply and marketing produce together",
+      "lending land"
+    ],
+    "ans": 2,
+    "explanation": "Cooperatives give farmers bargaining power.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agricultural Economics",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Sorghum is an example of a cereal crop. Which group does sorghum belong to?",
+    "opts": [
+      "root/tuber",
+      "cereal",
+      "legume",
+      "fibre crop"
+    ],
+    "ans": 1,
+    "explanation": "Sorghum is classified as a cereal.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Deforestation leads to:",
+    "opts": [
+      "more timber forever",
+      "soil erosion and loss of wildlife habitat",
+      "better soil",
+      "increased rainfall"
+    ],
+    "ans": 1,
+    "explanation": "Removing trees exposes soil and destroys habitats.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Forestry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a soil with tiny particles, poor drainage and good water retention?",
+    "opts": [
+      "loamy soil",
+      "sandy soil",
+      "humus",
+      "clay soil"
+    ],
+    "ans": 3,
+    "explanation": "a soil with tiny particles, poor drainage and good water retention describes clay soil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Soil",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which soil type holds the most water?",
+    "opts": [
+      "clay soil",
+      "loamy soil",
+      "sandy soil",
+      "gravelly soil"
+    ],
+    "ans": 0,
+    "explanation": "Clay has tiny particles and holds water strongly.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The young of a rabbit is called a:",
+    "opts": [
+      "lamb",
+      "kid",
+      "calf",
+      "kit"
+    ],
+    "ans": 3,
+    "explanation": "A young rabbit is a kit.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The demand for farm produce is affected by:",
+    "opts": [
+      "price and income",
+      "rainfall only",
+      "farm size only",
+      "soil type only"
+    ],
+    "ans": 0,
+    "explanation": "Price and income shift demand.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agricultural Economics",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Land, labour, capital and management are the:",
+    "opts": [
+      "factors of production in agriculture",
+      "forms of credit",
+      "types of animals",
+      "types of crops"
+    ],
+    "ans": 0,
+    "explanation": "These are the resources used in farming.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agricultural Economics",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Crop rotation is the practice of growing:",
+    "opts": [
+      "the same crop every year",
+      "only one crop",
+      "crops and animals together",
+      "different crops on the same land in sequence"
+    ],
+    "ans": 3,
+    "explanation": "Rotation maintains soil fertility and breaks pest cycles.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The disease Newcastle disease affects:",
+    "opts": [
+      "sheep",
+      "cattle",
+      "goats",
+      "poultry"
+    ],
+    "ans": 3,
+    "explanation": "Newcastle disease is a viral disease of birds.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Rice is an example of a cereal crop. Which group does rice belong to?",
+    "opts": [
+      "legume",
+      "fibre crop",
+      "cereal",
+      "root/tuber"
+    ],
+    "ans": 2,
+    "explanation": "Rice is classified as a cereal.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes rice?",
+    "opts": [
+      "a cereal crop also known as guinea corn",
+      "a cereal crop used as food for man and feed for livestock",
+      "a cereal crop grown mainly in swampy areas",
+      "a cereal crop that grows well in dry areas"
+    ],
+    "ans": 2,
+    "explanation": "rice is a cereal crop grown mainly in swampy areas.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Dehorning is the removal of:",
+    "opts": [
+      "hooves",
+      "tails",
+      "horns",
+      "teeth"
+    ],
+    "ans": 2,
+    "explanation": "Dehorning removes horns for safety.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the best soil for farming, with a balance of sand, silt and clay?",
+    "opts": [
+      "humus",
+      "sandy soil",
+      "clay soil",
+      "loamy soil"
+    ],
+    "ans": 3,
+    "explanation": "the best soil for farming, with a balance of sand, silt and clay describes loamy soil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Soil",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A tree crop that gives timber is:",
+    "opts": [
+      "mahogany",
+      "cocoa",
+      "rubber",
+      "oil palm"
+    ],
+    "ans": 0,
+    "explanation": "Mahogany is a timber tree.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Forestry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Compost is made from:",
+    "opts": [
+      "chemicals only",
+      "decayed plant and animal matter",
+      "sand",
+      "clay"
+    ],
+    "ans": 1,
+    "explanation": "Compost is decomposed organic matter.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Shifting cultivation involves:",
+    "opts": [
+      "farming the same plot forever",
+      "terracing only",
+      "farming a plot, then leaving it fallow",
+      "irrigation only"
+    ],
+    "ans": 2,
+    "explanation": "Shifting cultivation moves to new land after a few years.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "General Agriculture",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes soil pH?",
+    "opts": [
+      "a soil with large particles, good drainage and poor water retention",
+      "the best soil for farming, with a balance of sand, silt and clay",
+      "a soil with tiny particles, poor drainage and good water retention",
+      "the measure of the acidity or alkalinity of soil"
+    ],
+    "ans": 3,
+    "explanation": "soil pH is the measure of the acidity or alkalinity of soil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Soil",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a cutlass?",
+    "opts": [
+      "the practice of growing two crops together with one as the main crop",
+      "a farm tool used for clearing bushes and harvesting",
+      "the practice of growing two or more crops on the same land at the same time",
+      "the practice of growing different crops on the same land in successive seasons"
+    ],
+    "ans": 1,
+    "explanation": "a cutlass is a farm tool used for clearing bushes and harvesting.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A cutlass is used for:",
+    "opts": [
+      "tilling and weeding soil",
+      "cutting weeds and clearing bush",
+      "digging soil",
+      "levelling soil and gathering leaves"
+    ],
+    "ans": 1,
+    "explanation": "A cutlass is used for cutting weeds and clearing bush.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Agricultural Technology",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes aphids?",
+    "opts": [
+      "birds such as chickens kept for eggs and meat",
+      "small insects that suck sap from plants and spread diseases",
+      "the rearing of fish in ponds, also called aquaculture",
+      "livestock kept for beef, milk and draught purposes"
+    ],
+    "ans": 1,
+    "explanation": "aphids is small insects that suck sap from plants and spread diseases.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Livestock, Diseases and Pests",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Poultry kept for egg production are called:",
+    "opts": [
+      "layers",
+      "broilers",
+      "capons",
+      "cockerels"
+    ],
+    "ans": 0,
+    "explanation": "Layers produce eggs; broilers are raised for meat.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The young of a dog is called a:",
+    "opts": [
+      "puppy",
+      "lamb",
+      "calf",
+      "kid"
+    ],
+    "ans": 0,
+    "explanation": "A young dog is a puppy.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

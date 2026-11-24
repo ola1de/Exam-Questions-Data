@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The opportunity cost of a choice is:",
+    "opts": [
+      "the next best alternative forgone",
+      "the profit made",
+      "the total cost",
+      "the money spent"
+    ],
+    "ans": 0,
+    "explanation": "Opportunity cost is what you give up.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Economics as a Science",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the economist known for the theory of population growth?",
+    "opts": [
+      "Adam Smith",
+      "John Maynard Keynes",
+      "Thomas Malthus",
+      "David Ricardo"
+    ],
+    "ans": 2,
+    "explanation": "the economist known for the theory of population growth describes Thomas Malthus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Economic Thought",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The reward for labour is:",
+    "opts": [
+      "profit",
+      "interest",
+      "wages",
+      "rent"
+    ],
+    "ans": 2,
+    "explanation": "Labour earns wages or salaries.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Production",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A proportional tax takes:",
+    "opts": [
+      "nothing from the rich",
+      "more from the rich",
+      "the same proportion from all incomes",
+      "more from the poor"
+    ],
+    "ans": 2,
+    "explanation": "Proportional tax is a flat rate.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Public Finance",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a market dominated by a few large sellers?",
+    "opts": [
+      "a monopoly",
+      "perfect competition",
+      "a normal good",
+      "an oligopoly"
+    ],
+    "ans": 3,
+    "explanation": "a market dominated by a few large sellers describes an oligopoly.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If $1 = N1,000, how many naira is $120?",
+    "opts": [
+      "120000",
+      "60000",
+      "12000",
+      "240000"
+    ],
+    "ans": 0,
+    "explanation": "$120 x N1,000 = N120,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Exchange Rate",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes complementary goods?",
+    "opts": [
+      "goods that are used together, such as cars and petrol",
+      "a market with only one seller of a product with no close substitutes",
+      "a market with many buyers and sellers and identical products",
+      "a market dominated by a few large sellers"
+    ],
+    "ans": 0,
+    "explanation": "complementary goods is goods that are used together, such as cars and petrol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If total cost is N7500 for 150 units, the average cost is:",
+    "opts": [
+      "40",
+      "100",
+      "50",
+      "60"
+    ],
+    "ans": 2,
+    "explanation": "Average cost = total cost / output = 7500/150 = N50.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Cost",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a persistent rise in the general price level?",
+    "opts": [
+      "inflation",
+      "a monopoly",
+      "an oligopoly",
+      "perfect competition"
+    ],
+    "ans": 0,
+    "explanation": "a persistent rise in the general price level describes inflation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "When price rises from ₦10 to ₦20, quantity demanded falls from 100 to 80 units. Find the price elasticity of demand.",
+    "opts": [
+      "0.5",
+      "1.2",
+      "2.2",
+      "0.2"
+    ],
+    "ans": 3,
+    "explanation": "Ed = % change in quantity / % change in price = 0.2.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Demand and Supply",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "An increase in consumers' income will increase the demand for a:",
+    "opts": [
+      "Giffen good",
+      "normal good",
+      "inferior good",
+      "free good"
+    ],
+    "ans": 1,
+    "explanation": "Demand for normal goods rises with income.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Demand and Supply",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a good whose demand rises as income rises?",
+    "opts": [
+      "an oligopoly",
+      "a normal good",
+      "a monopoly",
+      "perfect competition"
+    ],
+    "ans": 1,
+    "explanation": "a good whose demand rises as income rises describes a normal good.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The reward for land is:",
+    "opts": [
+      "rent",
+      "interest",
+      "profit",
+      "wages"
+    ],
+    "ans": 0,
+    "explanation": "Land earns rent.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Production",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Alfred Marshall?",
+    "opts": [
+      "the economist known for the theory of population growth",
+      "the economist who wrote 'Principles of Economics'",
+      "the economist who wrote 'The General Theory of Employment, Interest and Money'",
+      "the economist who wrote 'The Wealth of Nations' in 1776"
+    ],
+    "ans": 1,
+    "explanation": "Alfred Marshall is the economist who wrote 'Principles of Economics'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Economic Thought",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The simple interest on N30,000 at 12% per annum for 2 years is:",
+    "opts": [
+      "7200",
+      "3600",
+      "14400",
+      "7700"
+    ],
+    "ans": 0,
+    "explanation": "Simple interest = (P x R x T)/100 = (30,000 x 12 x 2)/100 = N7,200.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Interest",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the mean of 100, 200, 300.",
+    "opts": [
+      "202",
+      "199",
+      "201",
+      "200"
+    ],
+    "ans": 3,
+    "explanation": "Mean = 600/3 = 200.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the price of a basket of goods rises from N60 to N90, the price index is:",
+    "opts": [
+      "140",
+      "160",
+      "150",
+      "175"
+    ],
+    "ans": 2,
+    "explanation": "Price index = (current price / base price) x 100 = (90/60) x 100 = 150.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Price Index",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes opportunity cost?",
+    "opts": [
+      "the economist known for the theory of population growth",
+      "the economist who wrote 'The General Theory of Employment, Interest and Money'",
+      "the value of the next best alternative forgone when a choice is made",
+      "the economist who wrote 'The Wealth of Nations' in 1776"
+    ],
+    "ans": 2,
+    "explanation": "opportunity cost is the value of the next best alternative forgone when a choice is made.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Economic Thought",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Demand-pull inflation is caused by:",
+    "opts": [
+      "falling costs",
+      "rising output",
+      "falling demand",
+      "too much money chasing too few goods"
+    ],
+    "ans": 3,
+    "explanation": "Excess demand pulls prices up.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Money and Banking",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A country gains from trade by:",
+    "opts": [
+      "fixing all prices",
+      "producing everything itself",
+      "banning imports",
+      "specialising in goods it produces at lower cost"
+    ],
+    "ans": 3,
+    "explanation": "Comparative advantage is the basis of trade.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "International Trade",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One advantage of a sole proprietorship is:",
+    "opts": [
+      "quick decision-making",
+      "continuity after death",
+      "limited liability",
+      "unlimited capital"
+    ],
+    "ans": 0,
+    "explanation": "The owner decides alone and quickly.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Business Organisations",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The simple interest on N50,000 at 10% per annum for 3 years is:",
+    "opts": [
+      "15500",
+      "15000",
+      "7500",
+      "30000"
+    ],
+    "ans": 1,
+    "explanation": "Simple interest = (P x R x T)/100 = (50,000 x 10 x 3)/100 = N15,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Interest",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If $1 = N1,600, how many naira is $25?",
+    "opts": [
+      "80000",
+      "40000",
+      "20000",
+      "4000"
+    ],
+    "ans": 1,
+    "explanation": "$25 x N1,600 = N40,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Exchange Rate",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "An increase in the price of a good will cause:",
+    "opts": [
+      "a contraction of demand",
+      "a fall in supply",
+      "a shift in demand",
+      "an increase in demand"
+    ],
+    "ans": 0,
+    "explanation": "A price rise moves along the demand curve (contraction).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Demand and Supply",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the range of 3, 7, 11, 15, 19.",
+    "opts": [
+      "3",
+      "16",
+      "19",
+      "14"
+    ],
+    "ans": 1,
+    "explanation": "Range = 19 - 3 = 16.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A scale of preference shows:",
+    "opts": [
+      "the order in which wants are satisfied",
+      "the price of goods",
+      "the income of consumers",
+      "the cost of production"
+    ],
+    "ans": 0,
+    "explanation": "Wants are ranked by importance on a scale of preference.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Economics as a Science",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the consumer price index rises from 120 to 132, the inflation rate is:",
+    "opts": [
+      "20",
+      "10",
+      "5",
+      "15"
+    ],
+    "ans": 1,
+    "explanation": "Inflation rate = (new CPI - old CPI) / old CPI x 100 = (132-120)/120 x 100 = 10%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Inflation",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the price of a basket of goods rises from N110 to N132, the price index is:",
+    "opts": [
+      "110",
+      "120",
+      "130",
+      "145"
+    ],
+    "ans": 1,
+    "explanation": "Price index = (current price / base price) x 100 = (132/110) x 100 = 120.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Price Index",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A tariff is a:",
+    "opts": [
+      "tax on imported goods",
+      "ban on imports",
+      "subsidy on exports",
+      "quota on exports"
+    ],
+    "ans": 0,
+    "explanation": "Tariffs raise the price of imports.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "International Trade",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Adam Smith?",
+    "opts": [
+      "the economist known for the theory of comparative advantage",
+      "the economist known for the theory of population growth",
+      "the economist who wrote 'The Wealth of Nations' in 1776",
+      "the economist who wrote 'The General Theory of Employment, Interest and Money'"
+    ],
+    "ans": 2,
+    "explanation": "Adam Smith is the economist who wrote 'The Wealth of Nations' in 1776.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Economic Thought",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A market with many sellers of identical products is:",
+    "opts": [
+      "monopoly",
+      "perfect competition",
+      "monopolistic competition",
+      "oligopoly"
+    ],
+    "ans": 1,
+    "explanation": "Perfect competition has many sellers and homogeneous products.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Market Structures",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The difference between a country's exports and imports is its:",
+    "opts": [
+      "national debt",
+      "balance of payments",
+      "foreign reserves",
+      "balance of trade"
+    ],
+    "ans": 3,
+    "explanation": "Balance of trade = exports - imports of goods.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "International Trade",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the range of 10, 30, 50, 70.",
+    "opts": [
+      "58",
+      "70",
+      "60",
+      "10"
+    ],
+    "ans": 2,
+    "explanation": "Range = 70 - 10 = 60.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the economist known for the theory of comparative advantage?",
+    "opts": [
+      "Thomas Malthus",
+      "Adam Smith",
+      "John Maynard Keynes",
+      "David Ricardo"
+    ],
+    "ans": 3,
+    "explanation": "the economist known for the theory of comparative advantage describes David Ricardo.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Economic Thought",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Nigerian Stock Exchange trades in:",
+    "opts": [
+      "land",
+      "foodstuffs",
+      "shares and bonds",
+      "cars"
+    ],
+    "ans": 2,
+    "explanation": "The stock market trades securities.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Money and Banking",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A public corporation is owned by the:",
+    "opts": [
+      "shareholders",
+      "partners",
+      "cooperative members",
+      "government"
+    ],
+    "ans": 3,
+    "explanation": "Public corporations are state-owned.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Business Organisations",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If national income is N300 billion and the population is 25 million, per capita income is:",
+    "opts": [
+      "120000",
+      "6000",
+      "1200",
+      "12000"
+    ],
+    "ans": 3,
+    "explanation": "Per capita income = national income / population = N300bn / 25m = N12,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "National Income",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the consumer price index rises from 150 to 180, the inflation rate is:",
+    "opts": [
+      "25",
+      "15",
+      "40",
+      "20"
+    ],
+    "ans": 3,
+    "explanation": "Inflation rate = (new CPI - old CPI) / old CPI x 100 = (180-150)/150 x 100 = 20%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Inflation",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If consumption is N200bn, savings N50bn and taxes N40bn, national income is:",
+    "opts": [
+      "310",
+      "290",
+      "270",
+      "340"
+    ],
+    "ans": 1,
+    "explanation": "Y = C + S + T = 200 + 50 + 40 = N290bn.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "National Income",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If quantity demanded rises by 50% when price falls by 25%, the price elasticity of demand is:",
+    "opts": [
+      "4",
+      "1",
+      "2",
+      "2.5"
+    ],
+    "ans": 2,
+    "explanation": "Elasticity = % change in quantity demanded / % change in price = 50/25 = 2.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Elasticity",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

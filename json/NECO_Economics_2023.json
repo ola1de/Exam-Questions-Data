@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "If total cost is N4000 for 80 units, the average cost is:",
+    "opts": [
+      "100",
+      "60",
+      "40",
+      "50"
+    ],
+    "ans": 3,
+    "explanation": "Average cost = total cost / output = 4000/80 = N50.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Cost",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Unemployment in which people lack the skills for available jobs is:",
+    "opts": [
+      "seasonal unemployment",
+      "structural unemployment",
+      "cyclical unemployment",
+      "frictional unemployment"
+    ],
+    "ans": 1,
+    "explanation": "Structural unemployment is a mismatch of skills.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Money and Banking",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the price of a basket of goods rises from N100 to N150, the price index is:",
+    "opts": [
+      "160",
+      "140",
+      "150",
+      "175"
+    ],
+    "ans": 2,
+    "explanation": "Price index = (current price / base price) x 100 = (150/100) x 100 = 150.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Price Index",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If national income is N900 billion and the population is 100 million, per capita income is:",
+    "opts": [
+      "90000",
+      "4500",
+      "9000",
+      "900"
+    ],
+    "ans": 2,
+    "explanation": "Per capita income = national income / population = N900bn / 100m = N9,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "National Income",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If total cost is N10000 for 250 units, the average cost is:",
+    "opts": [
+      "80",
+      "30",
+      "50",
+      "40"
+    ],
+    "ans": 3,
+    "explanation": "Average cost = total cost / output = 10000/250 = N40.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Cost",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The median of 4, 8, 6, 10, 2 is:",
+    "opts": [
+      "10",
+      "4",
+      "8",
+      "6"
+    ],
+    "ans": 3,
+    "explanation": "Ordered: 2, 4, 6, 8, 10; middle is 6.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a market with many buyers and sellers and identical products?",
+    "opts": [
+      "a monopoly",
+      "a normal good",
+      "perfect competition",
+      "an oligopoly"
+    ],
+    "ans": 2,
+    "explanation": "a market with many buyers and sellers and identical products describes perfect competition.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a monopoly?",
+    "opts": [
+      "a good whose demand rises as income rises",
+      "a market with only one seller of a product with no close substitutes",
+      "a market dominated by a few large sellers",
+      "a market with many buyers and sellers and identical products"
+    ],
+    "ans": 1,
+    "explanation": "a monopoly is a market with only one seller of a product with no close substitutes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If $1 = N1,500, how many naira is $200?",
+    "opts": [
+      "30000",
+      "150000",
+      "300000",
+      "600000"
+    ],
+    "ans": 2,
+    "explanation": "$200 x N1,500 = N300,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Exchange Rate",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "When price rises from N10 to N12, quantity demanded falls from 100 to 90 units. The new total expenditure is:",
+    "opts": [
+      "1080",
+      "1180",
+      "2160",
+      "1000"
+    ],
+    "ans": 0,
+    "explanation": "New total expenditure = new price x new quantity = 12 x 90 = N1080.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Demand",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If quantity demanded rises by 25% when price falls by 5%, the price elasticity of demand is:",
+    "opts": [
+      "5",
+      "5.5",
+      "2.5",
+      "10"
+    ],
+    "ans": 0,
+    "explanation": "Elasticity = % change in quantity demanded / % change in price = 25/5 = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Elasticity",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A firm sells 20 units at N50 each. Its total revenue is:",
+    "opts": [
+      "1200",
+      "2000",
+      "800",
+      "1000"
+    ],
+    "ans": 3,
+    "explanation": "Total revenue = price x quantity = 50 x 20 = N1000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Revenue",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The simple interest on N40,000 at 6% per annum for 5 years is:",
+    "opts": [
+      "6000",
+      "12000",
+      "24000",
+      "12500"
+    ],
+    "ans": 1,
+    "explanation": "Simple interest = (P x R x T)/100 = (40,000 x 6 x 5)/100 = N12,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Interest",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The central bank of Nigeria is the:",
+    "opts": [
+      "First Bank of Nigeria",
+      "Nigerian Deposit Insurance Corporation",
+      "Bank of Industry",
+      "Central Bank of Nigeria"
+    ],
+    "ans": 3,
+    "explanation": "The CBN is Nigeria's central bank.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Money and Banking",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If $1 = N1,200, how many naira is $50?",
+    "opts": [
+      "120000",
+      "60000",
+      "6000",
+      "30000"
+    ],
+    "ans": 1,
+    "explanation": "$50 x N1,200 = N60,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Exchange Rate",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Transfer payments such as pensions are:",
+    "opts": [
+      "included in national income",
+      "counted as exports",
+      "counted as output",
+      "excluded from national income"
+    ],
+    "ans": 3,
+    "explanation": "Transfers are not payments for current production.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "National Income",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Thomas Malthus?",
+    "opts": [
+      "the economist known for the theory of population growth",
+      "the economist who wrote 'The General Theory of Employment, Interest and Money'",
+      "the economist known for the theory of comparative advantage",
+      "the economist who wrote 'The Wealth of Nations' in 1776"
+    ],
+    "ans": 0,
+    "explanation": "Thomas Malthus is the economist known for the theory of population growth.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Economic Thought",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the value of the next best alternative forgone when a choice is made?",
+    "opts": [
+      "Adam Smith",
+      "John Maynard Keynes",
+      "opportunity cost",
+      "Thomas Malthus"
+    ],
+    "ans": 2,
+    "explanation": "the value of the next best alternative forgone when a choice is made describes opportunity cost.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Economic Thought",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the marginal propensity to consume is 0.7, the multiplier is:",
+    "opts": [
+      "2.83",
+      "6.66",
+      "3.33",
+      "4.33"
+    ],
+    "ans": 2,
+    "explanation": "Multiplier = 1/(1 - MPC) = 1/(1 - 0.7) = 3.33.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Multiplier",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Price rises from ₦10 to ₦15 and quantity demanded falls from 500 to 400. Find the price elasticity of demand.",
+    "opts": [
+      "1.4",
+      "0.4",
+      "2.4",
+      "0.7"
+    ],
+    "ans": 1,
+    "explanation": "Ed = %ΔQ / %ΔP = 0.4.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Demand and Supply",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Fixed costs are costs that:",
+    "opts": [
+      "fall to zero",
+      "rise with output",
+      "do not change with output",
+      "are paid only once"
+    ],
+    "ans": 2,
+    "explanation": "Fixed costs (rent, salaries) stay the same in the short run.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Costs",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A firm sells 60 units at N45 each. Its total revenue is:",
+    "opts": [
+      "2700",
+      "2900",
+      "5400",
+      "2500"
+    ],
+    "ans": 0,
+    "explanation": "Total revenue = price x quantity = 45 x 60 = N2700.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Revenue",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the central bank?",
+    "opts": [
+      "a market with only one seller of a product with no close substitutes",
+      "a market dominated by a few large sellers",
+      "the bank that issues currency and controls the money supply",
+      "a market with many buyers and sellers and identical products"
+    ],
+    "ans": 2,
+    "explanation": "the central bank is the bank that issues currency and controls the money supply.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "An example of an oligopoly in Nigeria is the:",
+    "opts": [
+      "cement industry",
+      "street hawking",
+      "subsistence farming",
+      "local market"
+    ],
+    "ans": 0,
+    "explanation": "A few large firms dominate cement.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Market Structures",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the mean of 8, 12, 16, 20, 24.",
+    "opts": [
+      "16",
+      "17",
+      "18",
+      "15"
+    ],
+    "ans": 0,
+    "explanation": "Mean = 80/5 = 16.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If total cost is N6000 for 100 units, the average cost is:",
+    "opts": [
+      "120",
+      "70",
+      "50",
+      "60"
+    ],
+    "ans": 3,
+    "explanation": "Average cost = total cost / output = 6000/100 = N60.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Cost",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "When price rises from N20 to N25, quantity demanded falls from 200 to 150 units. The new total expenditure is:",
+    "opts": [
+      "3850",
+      "3750",
+      "7500",
+      "4000"
+    ],
+    "ans": 1,
+    "explanation": "New total expenditure = new price x new quantity = 25 x 150 = N3750.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Demand",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the marginal propensity to consume is 0.8, the multiplier is:",
+    "opts": [
+      "4.5",
+      "5",
+      "6",
+      "10"
+    ],
+    "ans": 1,
+    "explanation": "Multiplier = 1/(1 - MPC) = 1/(1 - 0.8) = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Multiplier",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Deflation is a:",
+    "opts": [
+      "rise in money supply",
+      "fall in output only",
+      "rise in prices",
+      "general fall in prices"
+    ],
+    "ans": 3,
+    "explanation": "Deflation is a sustained fall in the general price level.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Money and Banking",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The simple interest on N20,000 at 5% per annum for 2 years is:",
+    "opts": [
+      "2000",
+      "2500",
+      "4000",
+      "1000"
+    ],
+    "ans": 0,
+    "explanation": "Simple interest = (P x R x T)/100 = (20,000 x 5 x 2)/100 = N2,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Interest",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the marginal propensity to consume is 0.75, the multiplier is:",
+    "opts": [
+      "8",
+      "4",
+      "3.5",
+      "5"
+    ],
+    "ans": 1,
+    "explanation": "Multiplier = 1/(1 - MPC) = 1/(1 - 0.75) = 4.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Multiplier",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Gross Domestic Product (GDP) measures:",
+    "opts": [
+      "the total value of goods and services produced within a country in a year",
+      "the total exports of a country",
+      "the total money in circulation",
+      "the total income of citizens abroad"
+    ],
+    "ans": 0,
+    "explanation": "GDP is production within the country's borders.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "National Income",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A market with a few large sellers is an:",
+    "opts": [
+      "monopsony",
+      "perfect competition",
+      "monopoly",
+      "oligopoly"
+    ],
+    "ans": 3,
+    "explanation": "Oligopoly has few dominant firms.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Market Structures",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Inflation is a:",
+    "opts": [
+      "general and sustained rise in prices",
+      "fall in money supply",
+      "rise in one price",
+      "fall in prices"
+    ],
+    "ans": 0,
+    "explanation": "Inflation is a persistent rise in the general price level.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Money and Banking",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The mean of 10, 20 and 30 is:",
+    "opts": [
+      "25",
+      "15",
+      "20",
+      "30"
+    ],
+    "ans": 2,
+    "explanation": "Mean = (10+20+30)/3 = 20.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the mean of 5, 15, 25, 35, 45.",
+    "opts": [
+      "27",
+      "24",
+      "26",
+      "25"
+    ],
+    "ans": 3,
+    "explanation": "Mean = 125/5 = 25.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "GNP equals GDP plus:",
+    "opts": [
+      "imports",
+      "exports",
+      "net income from abroad",
+      "taxes"
+    ],
+    "ans": 2,
+    "explanation": "GNP adds net factor income from abroad.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "National Income",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "When price rises from N8 to N10, quantity demanded falls from 50 to 45 units. The new total expenditure is:",
+    "opts": [
+      "450",
+      "900",
+      "400",
+      "550"
+    ],
+    "ans": 0,
+    "explanation": "New total expenditure = new price x new quantity = 10 x 45 = N450.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Demand",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the consumer price index rises from 90 to 99, the inflation rate is:",
+    "opts": [
+      "15",
+      "10",
+      "5",
+      "20"
+    ],
+    "ans": 1,
+    "explanation": "Inflation rate = (new CPI - old CPI) / old CPI x 100 = (99-90)/90 x 100 = 10%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Inflation",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Division of labour leads to:",
+    "opts": [
+      "lower output",
+      "increased output and specialisation",
+      "higher cost per unit",
+      "less skill"
+    ],
+    "ans": 1,
+    "explanation": "Specialisation raises productivity.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Production",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

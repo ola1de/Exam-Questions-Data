@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The parable of the Rich Fool teaches:",
+    "opts": [
+      "love for one's neighbour",
+      "the danger of greed",
+      "God's forgiveness",
+      "responses to God's word"
+    ],
+    "ans": 1,
+    "explanation": "The parable of the Rich Fool teaches the danger of greed.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Ministry of Jesus",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Amos was a prophet from:",
+    "opts": [
+      "Bethlehem",
+      "Jerusalem",
+      "Nazareth",
+      "Tekoa"
+    ],
+    "ans": 3,
+    "explanation": "Amos was a herdsman from Tekoa.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Prophets",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the parable of servants given money to use profitably for their master?",
+    "opts": [
+      "the Talents",
+      "the Good Samaritan",
+      "the Prodigal Son",
+      "the Sower"
+    ],
+    "ans": 0,
+    "explanation": "the parable of servants given money to use profitably for their master describes the Talents.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Parables and Miracles",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "God rested on the:",
+    "opts": [
+      "third day",
+      "sixth day",
+      "first day",
+      "seventh day"
+    ],
+    "ans": 3,
+    "explanation": "God rested on the seventh day (Genesis 2:2).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Sovereignty of God",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Peter?",
+    "opts": [
+      "the laws given to Moses on Mount Sinai",
+      "the apostle who denied Jesus three times and later preached at Pentecost",
+      "the departure of the Israelites from Egypt under Moses",
+      "the account of God making the heavens, the earth and all living things"
+    ],
+    "ans": 1,
+    "explanation": "Peter is the apostle who denied Jesus three times and later preached at Pentecost.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Events and People",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the apostle who denied Jesus three times and later preached at Pentecost?",
+    "opts": [
+      "the Ten Commandments",
+      "the creation",
+      "the Exodus",
+      "Peter"
+    ],
+    "ans": 3,
+    "explanation": "the apostle who denied Jesus three times and later preached at Pentecost describes Peter.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Events and People",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the feeding of the 5,000?",
+    "opts": [
+      "the parable of a man who helped a wounded traveller neglected by others",
+      "the miracle in which Jesus fed a great crowd with five loaves and two fish",
+      "the parable of seed falling on different kinds of soil",
+      "the parable of a son who wasted his inheritance and was welcomed back by his father"
+    ],
+    "ans": 1,
+    "explanation": "the feeding of the 5,000 is the miracle in which Jesus fed a great crowd with five loaves and two fish.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Parables and Miracles",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Moses led the Israelites out of:",
+    "opts": [
+      "Assyria",
+      "Babylon",
+      "Canaan",
+      "Egypt"
+    ],
+    "ans": 3,
+    "explanation": "The Exodus was the deliverance from Egypt.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Leadership Qualities",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the miracle in which Jesus brought his friend Lazarus back to life?",
+    "opts": [
+      "the Good Samaritan",
+      "the Sower",
+      "the raising of Lazarus",
+      "the Prodigal Son"
+    ],
+    "ans": 2,
+    "explanation": "the miracle in which Jesus brought his friend Lazarus back to life describes the raising of Lazarus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Parables and Miracles",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Jesus was crucified on:",
+    "opts": [
+      "Mount Sinai",
+      "the cross at Golgotha",
+      "Mount Carmel",
+      "the Temple"
+    ],
+    "ans": 1,
+    "explanation": "Jesus was crucified at Golgotha.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Passion",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The disciple who denied Jesus three times was:",
+    "opts": [
+      "John",
+      "Andrew",
+      "James",
+      "Peter"
+    ],
+    "ans": 3,
+    "explanation": "Peter denied Jesus three times before the cock crowed.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Passion",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The miracle of raising Lazarus took place at/in:",
+    "opts": [
+      "the wilderness",
+      "Cana",
+      "the Sea of Galilee",
+      "Bethany"
+    ],
+    "ans": 3,
+    "explanation": "The miracle of raising Lazarus took place at Bethany.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Ministry of Jesus",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the king of Israel known for his wisdom and for building the temple?",
+    "opts": [
+      "Isaiah",
+      "David",
+      "Solomon",
+      "Saul"
+    ],
+    "ans": 2,
+    "explanation": "the king of Israel known for his wisdom and for building the temple describes Solomon.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Kings and Prophets",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes turning water into wine?",
+    "opts": [
+      "the parable of seed falling on different kinds of soil",
+      "the parable of a son who wasted his inheritance and was welcomed back by his father",
+      "the first miracle of Jesus, performed at a wedding in Cana",
+      "the parable of a man who helped a wounded traveller neglected by others"
+    ],
+    "ans": 2,
+    "explanation": "turning water into wine is the first miracle of Jesus, performed at a wedding in Cana.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Parables and Miracles",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Bible teaches that Christians should pray:",
+    "opts": [
+      "only when in trouble",
+      "without ceasing",
+      "only in church",
+      "only on Sundays"
+    ],
+    "ans": 1,
+    "explanation": "1 Thessalonians 5:17 - pray without ceasing.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Christian Ethics",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The book that tells of the Exodus from Egypt is:",
+    "opts": [
+      "Exodus",
+      "Leviticus",
+      "Genesis",
+      "Joshua"
+    ],
+    "ans": 0,
+    "explanation": "Exodus tells of the deliverance from Egypt.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Old Testament",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The inscription on the cross read:",
+    "opts": [
+      "'Jesus of Nazareth, King of the Jews'",
+      "'King of Israel'",
+      "'Son of David'",
+      "'The Messiah'"
+    ],
+    "ans": 0,
+    "explanation": "John 19:19 records the inscription.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Passion",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Joseph was sold into slavery by his:",
+    "opts": [
+      "brothers",
+      "father",
+      "master",
+      "friends"
+    ],
+    "ans": 0,
+    "explanation": "Joseph's brothers sold him to Ishmaelite traders (Genesis 37).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Leadership Qualities",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the son of Abraham and Sarah, born in their old age?",
+    "opts": [
+      "Jacob",
+      "Joseph",
+      "Isaac",
+      "Abraham"
+    ],
+    "ans": 2,
+    "explanation": "the son of Abraham and Sarah, born in their old age describes Isaac.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Patriarchs and Leaders",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The kingdom of Israel split after the death of:",
+    "opts": [
+      "Saul",
+      "Rehoboam's father only",
+      "Solomon",
+      "David"
+    ],
+    "ans": 2,
+    "explanation": "After Solomon, the kingdom divided under Rehoboam.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Old Testament",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Philip preached to the Ethiopian eunuch on the road to:",
+    "opts": [
+      "Gaza",
+      "Damascus",
+      "Bethlehem",
+      "Jericho"
+    ],
+    "ans": 0,
+    "explanation": "Philip met the eunuch on the Gaza road (Acts 8).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Early Church",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The parable of the Mustard Seed teaches:",
+    "opts": [
+      "God's forgiveness",
+      "love for one's neighbour",
+      "responses to God's word",
+      "the growth of God's kingdom"
+    ],
+    "ans": 3,
+    "explanation": "The parable of the Mustard Seed teaches the growth of God's kingdom.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Ministry of Jesus",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The first Christian martyr was:",
+    "opts": [
+      "Stephen",
+      "Peter",
+      "Paul",
+      "James"
+    ],
+    "ans": 0,
+    "explanation": "Stephen was stoned (Acts 7).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Early Church",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The miracle of healing the blind Bartimaeus took place at/in:",
+    "opts": [
+      "Jericho",
+      "Cana",
+      "the wilderness",
+      "the Sea of Galilee"
+    ],
+    "ans": 0,
+    "explanation": "The miracle of healing the blind Bartimaeus took place at Jericho.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Ministry of Jesus",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The son of Abraham through Hagar was:",
+    "opts": [
+      "Jacob",
+      "Isaac",
+      "Ishmael",
+      "Esau"
+    ],
+    "ans": 2,
+    "explanation": "Ishmael was Hagar's son.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Old Testament",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes Amos?",
+    "opts": [
+      "the prophet who preached justice and righteousness in Israel",
+      "the shepherd boy who became king of Israel and wrote many psalms",
+      "the king of Israel known for his wisdom and for building the temple",
+      "the first king of Israel"
+    ],
+    "ans": 0,
+    "explanation": "Amos is the prophet who preached justice and righteousness in Israel.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Kings and Prophets",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The parable of the Lost Sheep teaches:",
+    "opts": [
+      "responses to God's word",
+      "love for one's neighbour",
+      "God's care for the lost",
+      "God's forgiveness"
+    ],
+    "ans": 2,
+    "explanation": "The parable of the Lost Sheep teaches God's care for the lost.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Ministry of Jesus",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the parable of a man who helped a wounded traveller neglected by others?",
+    "opts": [
+      "the Good Samaritan",
+      "the Mustard Seed",
+      "the Sower",
+      "the Prodigal Son"
+    ],
+    "ans": 0,
+    "explanation": "the parable of a man who helped a wounded traveller neglected by others describes the Good Samaritan.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Parables and Miracles",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The king who built the first Temple was:",
+    "opts": [
+      "Saul",
+      "Rehoboam",
+      "Solomon",
+      "David"
+    ],
+    "ans": 2,
+    "explanation": "Solomon built the Temple.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Old Testament",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The brother who killed Abel was:",
+    "opts": [
+      "Jacob",
+      "Seth",
+      "Cain",
+      "Esau"
+    ],
+    "ans": 2,
+    "explanation": "Cain killed Abel (Genesis 4).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Old Testament",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the parable of the smallest seed growing into a great tree, like the kingdom of God?",
+    "opts": [
+      "the Sower",
+      "the Mustard Seed",
+      "the Prodigal Son",
+      "the Good Samaritan"
+    ],
+    "ans": 1,
+    "explanation": "the parable of the smallest seed growing into a great tree, like the kingdom of God describes the Mustard Seed.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Parables and Miracles",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Red Sea was parted by:",
+    "opts": [
+      "David",
+      "Aaron",
+      "Moses",
+      "Joshua"
+    ],
+    "ans": 2,
+    "explanation": "Moses stretched out his hand and the Red Sea parted (Exodus 14).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Leadership Qualities",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The first five books of the Bible are called the:",
+    "opts": [
+      "Gospels",
+      "Pentateuch",
+      "Writings",
+      "Prophets"
+    ],
+    "ans": 1,
+    "explanation": "The Pentateuch is Genesis to Deuteronomy.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Old Testament",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the account of God making the heavens, the earth and all living things?",
+    "opts": [
+      "the birth of Jesus",
+      "the creation",
+      "the Ten Commandments",
+      "the Exodus"
+    ],
+    "ans": 1,
+    "explanation": "the account of God making the heavens, the earth and all living things describes the creation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Events and People",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the first king of Israel?",
+    "opts": [
+      "David",
+      "Saul",
+      "Isaiah",
+      "Solomon"
+    ],
+    "ans": 1,
+    "explanation": "the first king of Israel describes Saul.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Kings and Prophets",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the departure of the Israelites from Egypt under Moses?",
+    "opts": [
+      "the creation",
+      "the birth of Jesus",
+      "the Ten Commandments",
+      "the Exodus"
+    ],
+    "ans": 3,
+    "explanation": "the departure of the Israelites from Egypt under Moses describes the Exodus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Events and People",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The miracle of calming the storm took place at/in:",
+    "opts": [
+      "Cana",
+      "Jericho",
+      "the wilderness",
+      "the Sea of Galilee"
+    ],
+    "ans": 3,
+    "explanation": "The miracle of calming the storm took place at the Sea of Galilee.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Ministry of Jesus",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Jesus fed five thousand people with:",
+    "opts": [
+      "ten loaves and ten fish",
+      "seven loaves and three fish",
+      "two loaves and five fish",
+      "five loaves and two fish"
+    ],
+    "ans": 3,
+    "explanation": "Five loaves and two fish fed the multitude (John 6).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Ministry of Jesus",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The parable of the Prodigal Son teaches God's:",
+    "opts": [
+      "anger",
+      "forgiveness and mercy",
+      "indifference",
+      "partiality"
+    ],
+    "ans": 1,
+    "explanation": "The father welcomed the returning son (Luke 15).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "The Ministry of Jesus",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Ten Commandments are recorded in:",
+    "opts": [
+      "Exodus 20",
+      "Genesis 1",
+      "Leviticus 1",
+      "Numbers 1"
+    ],
+    "ans": 0,
+    "explanation": "Exodus 20 gives the Ten Commandments.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Old Testament",
+    "adapted_from": "Repo JAMB_CRS_2024.json / NECO_CRS_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

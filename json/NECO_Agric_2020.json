@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Roughage in animal feed provides:",
+    "opts": [
+      "fibre",
+      "vitamins only",
+      "protein only",
+      "water"
+    ],
+    "ans": 0,
+    "explanation": "Roughage is fibrous feed such as grass and hay.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A watering can is used for:",
+    "opts": [
+      "levelling soil and gathering leaves",
+      "cutting weeds and clearing bush",
+      "watering crops",
+      "tilling and weeding soil"
+    ],
+    "ans": 2,
+    "explanation": "A watering can is used for watering crops.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agricultural Technology",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a leguminous crop that adds nitrogen to the soil?",
+    "opts": [
+      "rice",
+      "maize",
+      "cowpea",
+      "millet"
+    ],
+    "ans": 2,
+    "explanation": "a leguminous crop that adds nitrogen to the soil describes cowpea.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Poultry kept for meat production are called:",
+    "opts": [
+      "broilers",
+      "cockerels",
+      "layers",
+      "pullets"
+    ],
+    "ans": 0,
+    "explanation": "Broilers grow fast for meat.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Staking is done to support:",
+    "opts": [
+      "trees",
+      "climbing crops such as yam",
+      "root crops",
+      "cereals"
+    ],
+    "ans": 1,
+    "explanation": "Yam vines are staked for support.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "NPK fertiliser supplies:",
+    "opts": [
+      "iron, zinc and boron",
+      "nitrogen only",
+      "calcium, magnesium and sulphur",
+      "nitrogen, phosphorus and potassium"
+    ],
+    "ans": 3,
+    "explanation": "NPK stands for nitrogen, phosphorus and potassium.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The gestation period of a mare is about:",
+    "opts": [
+      "340 days",
+      "114 days",
+      "283 days",
+      "150 days"
+    ],
+    "ans": 0,
+    "explanation": "A mare carries its young for about 340 days.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A fallow period allows the soil to:",
+    "opts": [
+      "become acidic",
+      "lose fertility",
+      "regain fertility",
+      "dry out"
+    ],
+    "ans": 2,
+    "explanation": "Fallow lets the soil recover.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "General Agriculture",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes yam?",
+    "opts": [
+      "a cereal crop that grows well in dry areas",
+      "a cereal crop used as food for man and feed for livestock",
+      "a root crop that is a staple food in West Africa",
+      "a cereal crop grown mainly in swampy areas"
+    ],
+    "ans": 2,
+    "explanation": "yam is a root crop that is a staple food in West Africa.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A tractor is used mainly for:",
+    "opts": [
+      "tillage and haulage",
+      "planting seeds by hand",
+      "watering crops",
+      "storing grain"
+    ],
+    "ans": 0,
+    "explanation": "Tractors pull ploughs and trailers.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agricultural Technology",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a cereal crop used as food for man and feed for livestock?",
+    "opts": [
+      "maize",
+      "millet",
+      "rice",
+      "sorghum"
+    ],
+    "ans": 0,
+    "explanation": "a cereal crop used as food for man and feed for livestock describes maize.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Afforestation is the:",
+    "opts": [
+      "cutting down of trees",
+      "clearing of land",
+      "burning of forests",
+      "planting of trees where there were none"
+    ],
+    "ans": 3,
+    "explanation": "Afforestation creates new forest.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Forestry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Cassava is an example of a root crop. Which group does cassava belong to?",
+    "opts": [
+      "fibre crop",
+      "cereal",
+      "legume",
+      "root/tuber"
+    ],
+    "ans": 3,
+    "explanation": "Cassava is classified as a root/tuber.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the practice of growing different crops on the same land in successive seasons?",
+    "opts": [
+      "intercropping",
+      "mixed cropping",
+      "irrigation",
+      "crop rotation"
+    ],
+    "ans": 3,
+    "explanation": "the practice of growing different crops on the same land in successive seasons describes crop rotation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The process of breaking up soil before planting is:",
+    "opts": [
+      "mulching",
+      "tillage",
+      "irrigation",
+      "pruning"
+    ],
+    "ans": 1,
+    "explanation": "Tillage loosens the soil for planting.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes mixed cropping?",
+    "opts": [
+      "the practice of growing two crops together with one as the main crop",
+      "the practice of growing different crops on the same land in successive seasons",
+      "the practice of growing two or more crops on the same land at the same time",
+      "the artificial application of water to farmland"
+    ],
+    "ans": 2,
+    "explanation": "mixed cropping is the practice of growing two or more crops on the same land at the same time.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the rearing of fish in ponds, also called aquaculture?",
+    "opts": [
+      "fish farming",
+      "Newcastle disease",
+      "poultry",
+      "cattle"
+    ],
+    "ans": 0,
+    "explanation": "the rearing of fish in ponds, also called aquaculture describes fish farming.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Livestock, Diseases and Pests",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Foot-and-mouth disease affects:",
+    "opts": [
+      "poultry",
+      "cattle",
+      "bees",
+      "fish"
+    ],
+    "ans": 1,
+    "explanation": "Foot-and-mouth disease affects cloven-hoofed animals such as cattle.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Millet is an example of a cereal crop. Which group does millet belong to?",
+    "opts": [
+      "fibre crop",
+      "cereal",
+      "legume",
+      "root/tuber"
+    ],
+    "ans": 1,
+    "explanation": "Millet is classified as a cereal.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a root crop that is a staple food in West Africa?",
+    "opts": [
+      "maize",
+      "rice",
+      "yam",
+      "millet"
+    ],
+    "ans": 2,
+    "explanation": "a root crop that is a staple food in West Africa describes yam.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes cowpea?",
+    "opts": [
+      "a leguminous crop that adds nitrogen to the soil",
+      "a cereal crop used as food for man and feed for livestock",
+      "a cereal crop that grows well in dry areas",
+      "a cereal crop grown mainly in swampy areas"
+    ],
+    "ans": 0,
+    "explanation": "cowpea is a leguminous crop that adds nitrogen to the soil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Castration in farm animals is done to:",
+    "opts": [
+      "increase milk",
+      "increase size only",
+      "cure disease",
+      "control breeding and improve meat quality"
+    ],
+    "ans": 3,
+    "explanation": "Castration removes the testes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Irrigation is the:",
+    "opts": [
+      "harvesting of crops",
+      "artificial application of water to crops",
+      "removal of weeds",
+      "application of fertiliser"
+    ],
+    "ans": 1,
+    "explanation": "Irrigation supplies water when rainfall is inadequate.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The practice of growing two or more crops on the same land at the same time is:",
+    "opts": [
+      "shifting cultivation",
+      "crop rotation",
+      "mono-cropping",
+      "mixed cropping"
+    ],
+    "ans": 3,
+    "explanation": "Mixed cropping grows several crops together.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a cereal crop also known as guinea corn?",
+    "opts": [
+      "millet",
+      "sorghum",
+      "maize",
+      "rice"
+    ],
+    "ans": 1,
+    "explanation": "a cereal crop also known as guinea corn describes sorghum.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Fish farming is also called:",
+    "opts": [
+      "apiculture",
+      "aquaculture",
+      "sericulture",
+      "horticulture"
+    ],
+    "ans": 1,
+    "explanation": "Aquaculture is the farming of fish and other aquatic animals.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fisheries",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The young of a hen is called a:",
+    "opts": [
+      "poult",
+      "gosling",
+      "duckling",
+      "chick"
+    ],
+    "ans": 3,
+    "explanation": "A young hen is a chick.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a ruminant?",
+    "opts": [
+      "cow",
+      "horse",
+      "dog",
+      "pig"
+    ],
+    "ans": 0,
+    "explanation": "Cattle chew the cud; pigs, dogs and horses are not ruminants in the strict sense used here.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The gestation period of a goat is about:",
+    "opts": [
+      "283 days",
+      "340 days",
+      "150 days",
+      "114 days"
+    ],
+    "ans": 2,
+    "explanation": "A goat carries its young for about 150 days.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a viral disease affecting cattle, sheep and goats?",
+    "opts": [
+      "fish farming",
+      "poultry",
+      "foot-and-mouth disease",
+      "cattle"
+    ],
+    "ans": 2,
+    "explanation": "a viral disease affecting cattle, sheep and goats describes foot-and-mouth disease.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Livestock, Diseases and Pests",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The young of a cat is called a:",
+    "opts": [
+      "calf",
+      "kid",
+      "lamb",
+      "kitten"
+    ],
+    "ans": 3,
+    "explanation": "A young cat is a kitten.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Yam is an example of a root crop. Which group does yam belong to?",
+    "opts": [
+      "cereal",
+      "root/tuber",
+      "fibre crop",
+      "legume"
+    ],
+    "ans": 1,
+    "explanation": "Yam is classified as a root/tuber.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Weeds are harmful to crops because they:",
+    "opts": [
+      "attract pollinators",
+      "add nutrients to the soil",
+      "improve soil structure",
+      "compete for water, nutrients and light"
+    ],
+    "ans": 3,
+    "explanation": "Weeds compete with crops and reduce yield.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Cowpea is an example of a legume crop. Which group does cowpea belong to?",
+    "opts": [
+      "legume",
+      "root/tuber",
+      "fibre crop",
+      "cereal"
+    ],
+    "ans": 0,
+    "explanation": "Cowpea is classified as a legume.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Green manure is:",
+    "opts": [
+      "animal dung only",
+      "chemical fertiliser",
+      "a crop ploughed into the soil to enrich it",
+      "compost only"
+    ],
+    "ans": 2,
+    "explanation": "Green manure adds organic matter and nitrogen.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: small insects that suck sap from plants and spread diseases?",
+    "opts": [
+      "poultry",
+      "fish farming",
+      "aphids",
+      "cattle"
+    ],
+    "ans": 2,
+    "explanation": "small insects that suck sap from plants and spread diseases describes aphids.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Livestock, Diseases and Pests",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes weaning?",
+    "opts": [
+      "the practice of growing different crops on the same land in successive seasons",
+      "the practice of growing two or more crops on the same land at the same time",
+      "the practice of growing two crops together with one as the main crop",
+      "the separation of young animals from their mothers at the end of suckling"
+    ],
+    "ans": 3,
+    "explanation": "weaning is the separation of young animals from their mothers at the end of suckling.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The gestation period of a ewe is about:",
+    "opts": [
+      "283 days",
+      "150 days",
+      "114 days",
+      "340 days"
+    ],
+    "ans": 1,
+    "explanation": "A ewe carries its young for about 150 days.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Pruning is the removal of:",
+    "opts": [
+      "roots",
+      "unwanted branches",
+      "fruits",
+      "leaves only"
+    ],
+    "ans": 1,
+    "explanation": "Pruning shapes the plant and improves yield.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A knapsack sprayer is used to apply:",
+    "opts": [
+      "pesticides",
+      "water for irrigation",
+      "seeds",
+      "fertiliser"
+    ],
+    "ans": 0,
+    "explanation": "Sprayers apply chemicals to crops.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Agricultural Technology",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

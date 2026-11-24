@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Victims of human trafficking are often lured with promises of:",
+    "opts": [
+      "jobs abroad",
+      "land",
+      "marriage",
+      "education"
+    ],
+    "ans": 0,
+    "explanation": "Traffickers promise jobs and a better life.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Human Trafficking",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Empathy means:",
+    "opts": [
+      "judging others",
+      "understanding another person's feelings",
+      "avoiding others",
+      "ignoring others"
+    ],
+    "ans": 1,
+    "explanation": "Empathy is feeling with others.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Interpersonal Relations",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes citizenship by naturalisation?",
+    "opts": [
+      "citizenship granted to a person who applies and meets stated conditions",
+      "citizenship acquired by being born in a country or to parents who are citizens",
+      "the status of being a citizen of two countries at the same time",
+      "citizenship granted to an alien after long residence and fulfilment of conditions"
+    ],
+    "ans": 3,
+    "explanation": "citizenship by naturalisation is citizenship granted to an alien after long residence and fulfilment of conditions.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The NYSC scheme is for:",
+    "opts": [
+      "graduates of tertiary institutions",
+      "civil servants",
+      "secondary school leavers",
+      "soldiers"
+    ],
+    "ans": 0,
+    "explanation": "Graduates serve for one year under the NYSC.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does INEC stand for?",
+    "opts": [
+      "Independent Corrupt Practices and Other Related Offences Commission",
+      "Independent National Electoral Commission",
+      "National Drug Law Enforcement Agency",
+      "Economic and Financial Crimes Commission"
+    ],
+    "ans": 1,
+    "explanation": "INEC stands for Independent National Electoral Commission.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the promise of loyalty recited by Nigerians to their country?",
+    "opts": [
+      "integrity",
+      "honesty",
+      "discipline",
+      "the national pledge"
+    ],
+    "ans": 3,
+    "explanation": "the promise of loyalty recited by Nigerians to their country describes the national pledge.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes honesty?",
+    "opts": [
+      "the value of working together for a common purpose",
+      "the value of being upright and consistent in moral principles",
+      "the value of self-control and obedience to rules",
+      "the value of being truthful and sincere"
+    ],
+    "ans": 3,
+    "explanation": "honesty is the value of being truthful and sincere.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does SON stand for?",
+    "opts": [
+      "National Drug Law Enforcement Agency",
+      "Independent Corrupt Practices and Other Related Offences Commission",
+      "Economic and Financial Crimes Commission",
+      "Standards Organisation of Nigeria"
+    ],
+    "ans": 3,
+    "explanation": "SON stands for Standards Organisation of Nigeria.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Constituted authority is authority that is:",
+    "opts": [
+      "bought with money",
+      "inherited only",
+      "established by law",
+      "seized by force"
+    ],
+    "ans": 2,
+    "explanation": "It is power given by the constitution or law.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Law and Order",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the NYSC?",
+    "opts": [
+      "the body responsible for maintaining law and order",
+      "the arm of government that interprets the law and settles disputes",
+      "the agency that investigates and prosecutes economic and financial crimes",
+      "the scheme that requires Nigerian graduates to serve the nation for one year"
+    ],
+    "ans": 3,
+    "explanation": "the NYSC is the scheme that requires Nigerian graduates to serve the nation for one year.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Institutions and Governance",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the right of an accused person to be heard before an impartial court?",
+    "opts": [
+      "freedom of movement",
+      "the right to life",
+      "freedom of expression",
+      "the right to fair hearing"
+    ],
+    "ans": 3,
+    "explanation": "the right of an accused person to be heard before an impartial court describes the right to fair hearing.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Nigerian national anthem begins with:",
+    "opts": [
+      "'Nigeria, we hail thee'",
+      "'O God of creation'",
+      "'Arise, O compatriots'",
+      "'God bless Nigeria'"
+    ],
+    "ans": 2,
+    "explanation": "The anthem adopted in 1978 begins 'Arise, O compatriots'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "National Identity",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes discipline?",
+    "opts": [
+      "the value of self-control and obedience to rules",
+      "the value of being upright and consistent in moral principles",
+      "the value of working together for a common purpose",
+      "the value of being truthful and sincere"
+    ],
+    "ans": 0,
+    "explanation": "discipline is the value of self-control and obedience to rules.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A referendum is a:",
+    "opts": [
+      "direct vote by the people on an issue",
+      "party meeting",
+      "election of a president",
+      "court case"
+    ],
+    "ans": 0,
+    "explanation": "Referendums let citizens decide an issue directly.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Democracy",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The agency that manages road safety in Nigeria is the:",
+    "opts": [
+      "Civil Defence",
+      "Nigeria Police Force",
+      "Federal Road Safety Corps (FRSC)",
+      "Nigerian Army"
+    ],
+    "ans": 2,
+    "explanation": "The FRSC enforces road safety.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Traffic Rules",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Nigeria's coat of arms has the motto:",
+    "opts": [
+      "Unity and Faith, Peace and Progress",
+      "Peace and Unity",
+      "Faith and Courage",
+      "Strength and Honour"
+    ],
+    "ans": 0,
+    "explanation": "The motto is 'Unity and Faith, Peace and Progress'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "National Identity",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Human trafficking is:",
+    "opts": [
+      "legal migration",
+      "the illegal trade in people for exploitation",
+      "tourism",
+      "voluntary travel"
+    ],
+    "ans": 1,
+    "explanation": "Trafficking exploits victims for labour or sex.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Human Trafficking",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Integrity means being:",
+    "opts": [
+      "honest and morally upright",
+      "rich",
+      "clever",
+      "famous"
+    ],
+    "ans": 0,
+    "explanation": "Integrity is honesty and strong moral principles.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Values",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes examination malpractice?",
+    "opts": [
+      "the practice of belonging to a secret society, often violent, in schools",
+      "cheating or other dishonest conduct in examinations",
+      "the harmful use of drugs without medical advice",
+      "the abuse of public office for private gain"
+    ],
+    "ans": 1,
+    "explanation": "examination malpractice is cheating or other dishonest conduct in examinations.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Social Issues",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes obeying the law?",
+    "opts": [
+      "the right to move freely within a country and to leave and return to it",
+      "the right to hold and express opinions without interference",
+      "a civic duty requiring citizens to keep the laws of the land",
+      "the fundamental right of every person not to be unlawfully killed"
+    ],
+    "ans": 2,
+    "explanation": "obeying the law is a civic duty requiring citizens to keep the laws of the land.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does NDLEA stand for?",
+    "opts": [
+      "National Drug Law Enforcement Agency",
+      "Independent Corrupt Practices and Other Related Offences Commission",
+      "National Agency for the Prohibition of Trafficking in Persons",
+      "Economic and Financial Crimes Commission"
+    ],
+    "ans": 0,
+    "explanation": "NDLEA stands for National Drug Law Enforcement Agency.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The right to freedom of association allows citizens to:",
+    "opts": [
+      "avoid all groups",
+      "join secret cults",
+      "join groups of their choice",
+      "form gangs"
+    ],
+    "ans": 2,
+    "explanation": "Citizens may join lawful associations.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Human Rights",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes good governance?",
+    "opts": [
+      "the scheme that requires Nigerian graduates to serve the nation for one year",
+      "government that is transparent, accountable and responsive to the people",
+      "the body responsible for maintaining law and order",
+      "the arm of government that interprets the law and settles disputes"
+    ],
+    "ans": 1,
+    "explanation": "good governance is government that is transparent, accountable and responsive to the people.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Institutions and Governance",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Responsible parenthood means:",
+    "opts": [
+      "caring properly for one's children",
+      "having many children",
+      "sending children to work",
+      "leaving children alone"
+    ],
+    "ans": 0,
+    "explanation": "Responsible parents provide food, education, love and guidance.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Responsible Parenthood",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The old national anthem 'Nigeria, We Hail Thee' was replaced in:",
+    "opts": [
+      "1960",
+      "1963",
+      "1978",
+      "1999"
+    ],
+    "ans": 2,
+    "explanation": "The anthem was changed in 1978; 'Nigeria, We Hail Thee' was restored in 2024.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "National Identity",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does NYSC stand for?",
+    "opts": [
+      "Independent Corrupt Practices and Other Related Offences Commission",
+      "National Drug Law Enforcement Agency",
+      "National Youth Service Corps",
+      "Economic and Financial Crimes Commission"
+    ],
+    "ans": 2,
+    "explanation": "NYSC stands for National Youth Service Corps.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One way to prevent human trafficking is through:",
+    "opts": [
+      "public awareness",
+      "poverty",
+      "ignorance",
+      "secrecy"
+    ],
+    "ans": 0,
+    "explanation": "Awareness helps people recognise traffickers' tricks.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Human Trafficking",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the right to fair hearing?",
+    "opts": [
+      "the right to move freely within a country and to leave and return to it",
+      "the right of an accused person to be heard before an impartial court",
+      "the fundamental right of every person not to be unlawfully killed",
+      "the right to hold and express opinions without interference"
+    ],
+    "ans": 1,
+    "explanation": "the right to fair hearing is the right of an accused person to be heard before an impartial court.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The lowest court in Nigeria is the:",
+    "opts": [
+      "Court of Appeal",
+      "Federal High Court",
+      "customary / magistrate court",
+      "Supreme Court"
+    ],
+    "ans": 2,
+    "explanation": "Magistrate and customary courts are the lowest.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Law and Order",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Contentment means being:",
+    "opts": [
+      "greedy",
+      "satisfied with what one has",
+      "envious",
+      "ambitious only"
+    ],
+    "ans": 1,
+    "explanation": "Contentment is satisfaction with one's lot.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Values",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Discipline means:",
+    "opts": [
+      "avoiding work",
+      "doing what one likes",
+      "breaking rules",
+      "obeying rules and controlling behaviour"
+    ],
+    "ans": 3,
+    "explanation": "Discipline is self-control and obedience to rules.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Values",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A red traffic light means:",
+    "opts": [
+      "stop",
+      "slow down",
+      "turn left",
+      "go"
+    ],
+    "ans": 0,
+    "explanation": "Red means stop.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Traffic Rules",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the value of accepting the views and beliefs of others?",
+    "opts": [
+      "honesty",
+      "discipline",
+      "integrity",
+      "tolerance"
+    ],
+    "ans": 3,
+    "explanation": "the value of accepting the views and beliefs of others describes tolerance.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Corruption hinders national development because it:",
+    "opts": [
+      "increases honesty",
+      "creates jobs fairly",
+      "wastes public resources",
+      "builds trust"
+    ],
+    "ans": 2,
+    "explanation": "Corruption diverts money meant for development.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "National Development",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the Nigerian Police?",
+    "opts": [
+      "the scheme that requires Nigerian graduates to serve the nation for one year",
+      "the agency that investigates and prosecutes economic and financial crimes",
+      "the arm of government that interprets the law and settles disputes",
+      "the body responsible for maintaining law and order"
+    ],
+    "ans": 3,
+    "explanation": "the Nigerian Police is the body responsible for maintaining law and order.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Institutions and Governance",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does EFCC stand for?",
+    "opts": [
+      "National Drug Law Enforcement Agency",
+      "Economic and Financial Crimes Commission",
+      "National Agency for the Prohibition of Trafficking in Persons",
+      "Independent Corrupt Practices and Other Related Offences Commission"
+    ],
+    "ans": 1,
+    "explanation": "EFCC stands for Economic and Financial Crimes Commission.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes cultism?",
+    "opts": [
+      "cheating or other dishonest conduct in examinations",
+      "the practice of belonging to a secret society, often violent, in schools",
+      "the abuse of public office for private gain",
+      "the harmful use of drugs without medical advice"
+    ],
+    "ans": 1,
+    "explanation": "cultism is the practice of belonging to a secret society, often violent, in schools.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Social Issues",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: citizenship acquired by being born in a country or to parents who are citizens?",
+    "opts": [
+      "citizenship by naturalisation",
+      "citizenship by registration",
+      "dual citizenship",
+      "citizenship by birth"
+    ],
+    "ans": 3,
+    "explanation": "citizenship acquired by being born in a country or to parents who are citizens describes citizenship by birth.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A motorcyclist must wear a:",
+    "opts": [
+      "cap",
+      "helmet",
+      "seat belt",
+      "glove"
+    ],
+    "ans": 1,
+    "explanation": "Helmets protect motorcyclists.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Traffic Rules",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes citizenship by registration?",
+    "opts": [
+      "citizenship acquired by being born in a country or to parents who are citizens",
+      "citizenship granted to an alien after long residence and fulfilment of conditions",
+      "citizenship granted to a person who applies and meets stated conditions",
+      "the status of being a citizen of two countries at the same time"
+    ],
+    "ans": 2,
+    "explanation": "citizenship by registration is citizenship granted to a person who applies and meets stated conditions.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

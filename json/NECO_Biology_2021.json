@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The scientific name of humans is:",
+    "opts": [
+      "Pan troglodytes",
+      "Gorilla gorilla",
+      "Homo sapiens",
+      "Homo erectus"
+    ],
+    "ans": 2,
+    "explanation": "Humans are Homo sapiens.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Classification",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a producer?",
+    "opts": [
+      "a unit of inheritance that determines a characteristic",
+      "one of the alternative forms of a gene",
+      "an organism, usually a green plant, that makes its own food",
+      "the genetic make-up of an organism"
+    ],
+    "ans": 2,
+    "explanation": "a producer is an organism, usually a green plant, that makes its own food.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Malaria is caused by:",
+    "opts": [
+      "Plasmodium (a protozoan)",
+      "Mycobacterium tuberculosis (a bacterium)",
+      "human immunodeficiency virus",
+      "Vibrio cholerae (a bacterium)"
+    ],
+    "ans": 0,
+    "explanation": "Malaria is caused by Plasmodium (a protozoan).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Health and Disease",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the genetic make-up of an organism?",
+    "opts": [
+      "a genotype",
+      "an allele",
+      "a gene",
+      "a phenotype"
+    ],
+    "ans": 0,
+    "explanation": "the genetic make-up of an organism describes a genotype.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Deficiency of Vitamin A causes:",
+    "opts": [
+      "beriberi",
+      "night blindness",
+      "rickets",
+      "scurvy"
+    ],
+    "ans": 1,
+    "explanation": "Lack of Vitamin A leads to night blindness.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Cholera is caused by:",
+    "opts": [
+      "human immunodeficiency virus",
+      "Plasmodium (a protozoan)",
+      "Vibrio cholerae (a bacterium)",
+      "Mycobacterium tuberculosis (a bacterium)"
+    ],
+    "ans": 2,
+    "explanation": "Cholera is caused by Vibrio cholerae (a bacterium).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Health and Disease",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The basic unit of life is the:",
+    "opts": [
+      "cell",
+      "tissue",
+      "system",
+      "organ"
+    ],
+    "ans": 0,
+    "explanation": "All living things are made of cells.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes an allele?",
+    "opts": [
+      "a unit of inheritance that determines a characteristic",
+      "the observable characteristics of an organism",
+      "the genetic make-up of an organism",
+      "one of the alternative forms of a gene"
+    ],
+    "ans": 3,
+    "explanation": "an allele is one of the alternative forms of a gene.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Deficiency of Vitamin K causes:",
+    "opts": [
+      "night blindness",
+      "poor blood clotting",
+      "scurvy",
+      "beriberi"
+    ],
+    "ans": 1,
+    "explanation": "Lack of Vitamin K leads to poor blood clotting.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which nutrient deficiency causes poor blood clotting?",
+    "opts": [
+      "Vitamin B1",
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin C"
+    ],
+    "ans": 2,
+    "explanation": "poor blood clotting is caused by deficiency of Vitamin K.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Bile is produced by the:",
+    "opts": [
+      "liver",
+      "gall bladder",
+      "pancreas",
+      "stomach"
+    ],
+    "ans": 0,
+    "explanation": "The liver makes bile, which is stored in the gall bladder.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Physiology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The liquid part of blood is the:",
+    "opts": [
+      "platelet",
+      "plasma",
+      "haemoglobin",
+      "serum"
+    ],
+    "ans": 1,
+    "explanation": "Plasma is the fluid part of blood.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Transport",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which nutrient deficiency causes rickets?",
+    "opts": [
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin B1"
+    ],
+    "ans": 0,
+    "explanation": "rickets is caused by deficiency of Vitamin D.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "An organism that eats both plants and animals is a:",
+    "opts": [
+      "omnivore",
+      "herbivore",
+      "decomposer",
+      "carnivore"
+    ],
+    "ans": 0,
+    "explanation": "Omnivores eat plants and animals.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The study of the relationships between organisms and their environment is:",
+    "opts": [
+      "genetics",
+      "physiology",
+      "ecology",
+      "taxonomy"
+    ],
+    "ans": 2,
+    "explanation": "Ecology studies organisms and their environment.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes thyroxine?",
+    "opts": [
+      "the hormone that controls the rate of metabolism",
+      "the hormone that lowers blood sugar level",
+      "the hormone that prepares the body for emergency action",
+      "the enzyme that digests starch in the mouth and small intestine"
+    ],
+    "ans": 0,
+    "explanation": "thyroxine is the hormone that controls the rate of metabolism.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Human Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "DNA is found mainly in the:",
+    "opts": [
+      "cytoplasm",
+      "cell wall",
+      "ribosome",
+      "nucleus"
+    ],
+    "ans": 3,
+    "explanation": "Most DNA is in the nucleus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Genetics",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The jelly-like substance in a cell is the:",
+    "opts": [
+      "cell wall",
+      "cytoplasm",
+      "nucleus",
+      "vacuole"
+    ],
+    "ans": 1,
+    "explanation": "Cytoplasm fills the cell around the nucleus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a trait that is expressed even when only one copy of the gene is present?",
+    "opts": [
+      "a gene",
+      "an allele",
+      "a dominant trait",
+      "a genotype"
+    ],
+    "ans": 2,
+    "explanation": "a trait that is expressed even when only one copy of the gene is present describes a dominant trait.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a bird?",
+    "opts": [
+      "bat",
+      "lizard",
+      "whale",
+      "eagle"
+    ],
+    "ans": 3,
+    "explanation": "The eagle is a bird.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Classification",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which nutrient deficiency causes night blindness?",
+    "opts": [
+      "Vitamin C",
+      "Vitamin B1",
+      "Vitamin A",
+      "Vitamin D"
+    ],
+    "ans": 2,
+    "explanation": "night blindness is caused by deficiency of Vitamin A.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a neuron?",
+    "opts": [
+      "the hormone that controls the rate of metabolism",
+      "a nerve cell that carries impulses in the body",
+      "the hormone that prepares the body for emergency action",
+      "the hormone that lowers blood sugar level"
+    ],
+    "ans": 1,
+    "explanation": "a neuron is a nerve cell that carries impulses in the body.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Human Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which organelle is the digests worn-out cell parts?",
+    "opts": [
+      "chloroplast",
+      "lysosome",
+      "Golgi body",
+      "ribosome"
+    ],
+    "ans": 1,
+    "explanation": "The lysosome is the digests worn-out cell parts.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which nutrient deficiency causes pellagra?",
+    "opts": [
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin B3 (niacin)",
+      "Vitamin A"
+    ],
+    "ans": 2,
+    "explanation": "pellagra is caused by deficiency of Vitamin B3 (niacin).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Deficiency of Iron causes:",
+    "opts": [
+      "scurvy",
+      "beriberi",
+      "night blindness",
+      "anaemia"
+    ],
+    "ans": 3,
+    "explanation": "Lack of Iron leads to anaemia.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the structure that controls what enters and leaves a cell?",
+    "opts": [
+      "the nucleus",
+      "the cell membrane",
+      "the ribosome",
+      "the mitochondria"
+    ],
+    "ans": 1,
+    "explanation": "the structure that controls what enters and leaves a cell describes the cell membrane.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The enzyme trypsin digests:",
+    "opts": [
+      "starch",
+      "maltose",
+      "fats (lipids)",
+      "protein"
+    ],
+    "ans": 3,
+    "explanation": "trypsin acts on protein.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Physiology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a dicotyledonous plant?",
+    "opts": [
+      "palm tree",
+      "maize",
+      "rice",
+      "beans"
+    ],
+    "ans": 3,
+    "explanation": "Beans have two cotyledons.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Classification",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the place where an organism lives?",
+    "opts": [
+      "a genotype",
+      "a habitat",
+      "a gene",
+      "an allele"
+    ],
+    "ans": 1,
+    "explanation": "the place where an organism lives describes a habitat.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes amylase?",
+    "opts": [
+      "the hormone that controls the rate of metabolism",
+      "the hormone that lowers blood sugar level",
+      "the enzyme that digests starch in the mouth and small intestine",
+      "the hormone that prepares the body for emergency action"
+    ],
+    "ans": 2,
+    "explanation": "amylase is the enzyme that digests starch in the mouth and small intestine.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Human Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The green pigment in plants is:",
+    "opts": [
+      "carotene",
+      "haemoglobin",
+      "melanin",
+      "chlorophyll"
+    ],
+    "ans": 3,
+    "explanation": "Chlorophyll absorbs light for photosynthesis.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Physiology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Blood clotting is helped by the:",
+    "opts": [
+      "plasma only",
+      "platelets",
+      "white blood cells",
+      "red blood cells"
+    ],
+    "ans": 1,
+    "explanation": "Platelets help blood to clot.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Transport",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A mammal is distinguished from other vertebrates by:",
+    "opts": [
+      "laying eggs in water",
+      "scales",
+      "feathers",
+      "mammary glands and hair"
+    ],
+    "ans": 3,
+    "explanation": "Mammals have hair and feed their young with milk.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Classification",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes insulin?",
+    "opts": [
+      "the enzyme that digests starch in the mouth and small intestine",
+      "the hormone that controls the rate of metabolism",
+      "the hormone that lowers blood sugar level",
+      "the hormone that prepares the body for emergency action"
+    ],
+    "ans": 2,
+    "explanation": "insulin is the hormone that lowers blood sugar level.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Human Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which disease is caused by a virus?",
+    "opts": [
+      "measles",
+      "tuberculosis",
+      "cholera",
+      "malaria"
+    ],
+    "ans": 0,
+    "explanation": "Measles is caused by a virus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Health and Disease",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The relationship in which one organism benefits and the other is harmed is:",
+    "opts": [
+      "mutualism",
+      "competition",
+      "commensalism",
+      "parasitism"
+    ],
+    "ans": 3,
+    "explanation": "A parasite gains at its host's expense.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Osmosis is the movement of water molecules:",
+    "opts": [
+      "against a concentration gradient by active transport",
+      "from a dilute to a concentrated solution through a semi-permeable membrane",
+      "through a fully permeable membrane",
+      "from a concentrated to a dilute solution"
+    ],
+    "ans": 1,
+    "explanation": "Osmosis moves water down its concentration gradient across a semi-permeable membrane.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the organelle that releases energy in respiration, known as the powerhouse of the cell?",
+    "opts": [
+      "the ribosome",
+      "the nucleus",
+      "the chloroplast",
+      "the mitochondria"
+    ],
+    "ans": 3,
+    "explanation": "the organelle that releases energy in respiration, known as the powerhouse of the cell describes the mitochondria.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes an ecosystem?",
+    "opts": [
+      "a community of organisms interacting with their environment",
+      "one of the alternative forms of a gene",
+      "a unit of inheritance that determines a characteristic",
+      "the genetic make-up of an organism"
+    ],
+    "ans": 0,
+    "explanation": "an ecosystem is a community of organisms interacting with their environment.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes adrenaline?",
+    "opts": [
+      "the hormone that prepares the body for emergency action",
+      "the hormone that lowers blood sugar level",
+      "the enzyme that digests starch in the mouth and small intestine",
+      "the hormone that controls the rate of metabolism"
+    ],
+    "ans": 0,
+    "explanation": "adrenaline is the hormone that prepares the body for emergency action.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Human Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

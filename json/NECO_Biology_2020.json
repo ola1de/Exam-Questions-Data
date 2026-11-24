@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The main function of proteins is:",
+    "opts": [
+      "energy only",
+      "insulation",
+      "growth and repair",
+      "protection from disease"
+    ],
+    "ans": 2,
+    "explanation": "Proteins build and repair body tissues.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which disease is caused by Mycobacterium tuberculosis (a bacterium)?",
+    "opts": [
+      "malaria",
+      "cholera",
+      "tuberculosis",
+      "HIV/AIDS"
+    ],
+    "ans": 2,
+    "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis (a bacterium).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Health and Disease",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a series of organisms through which food energy passes?",
+    "opts": [
+      "an allele",
+      "a food chain",
+      "a gene",
+      "a genotype"
+    ],
+    "ans": 1,
+    "explanation": "a series of organisms through which food energy passes describes a food chain.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The organisms that produce food in an ecosystem are the:",
+    "opts": [
+      "decomposers",
+      "producers",
+      "scavengers",
+      "consumers"
+    ],
+    "ans": 1,
+    "explanation": "Producers (green plants) make food by photosynthesis.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A cross between AA and aa gives offspring that are all:",
+    "opts": [
+      "aa",
+      "Aa",
+      "A",
+      "AA"
+    ],
+    "ans": 1,
+    "explanation": "All offspring receive A from one parent and a from the other.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Genetics",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "White blood cells defend the body against:",
+    "opts": [
+      "dehydration",
+      "oxygen loss",
+      "blood loss",
+      "disease-causing organisms"
+    ],
+    "ans": 3,
+    "explanation": "White blood cells fight infection.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Transport",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which nutrient deficiency causes anaemia?",
+    "opts": [
+      "Iron",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin B1"
+    ],
+    "ans": 0,
+    "explanation": "anaemia is caused by deficiency of Iron.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The organ that stores bile is the:",
+    "opts": [
+      "pancreas",
+      "gall bladder",
+      "spleen",
+      "liver"
+    ],
+    "ans": 1,
+    "explanation": "Bile made by the liver is stored in the gall bladder.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physiology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The genotype of a homozygous dominant tall pea plant is:",
+    "opts": [
+      "tT",
+      "TT",
+      "Tt",
+      "tt"
+    ],
+    "ans": 1,
+    "explanation": "Homozygous dominant means two dominant alleles, TT.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Genetics",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the functional unit of the kidney that filters blood?",
+    "opts": [
+      "thyroxine",
+      "a nephron",
+      "insulin",
+      "adrenaline"
+    ],
+    "ans": 1,
+    "explanation": "the functional unit of the kidney that filters blood describes a nephron.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Human Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The food test for fats uses:",
+    "opts": [
+      "biuret solution",
+      "iodine solution",
+      "Sudan III",
+      "Benedict's solution"
+    ],
+    "ans": 2,
+    "explanation": "Sudan III stains fats red.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The smallest blood vessels are the:",
+    "opts": [
+      "veins",
+      "arteries",
+      "capillaries",
+      "aorta"
+    ],
+    "ans": 2,
+    "explanation": "Capillaries are tiny vessels where exchange happens.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Transport",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The tissue that transports water in plants is the:",
+    "opts": [
+      "xylem",
+      "epidermis",
+      "phloem",
+      "cambium"
+    ],
+    "ans": 0,
+    "explanation": "Xylem carries water and mineral salts upward.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Transport",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The food test for starch uses:",
+    "opts": [
+      "Sudan III",
+      "biuret solution",
+      "iodine solution",
+      "Benedict's solution"
+    ],
+    "ans": 2,
+    "explanation": "Iodine turns blue-black with starch.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Pollination is the transfer of pollen from the anther to the:",
+    "opts": [
+      "sepal",
+      "petal",
+      "ovary",
+      "stigma"
+    ],
+    "ans": 3,
+    "explanation": "Pollen lands on the stigma.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Reproduction",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Deficiency of Vitamin B1 causes:",
+    "opts": [
+      "night blindness",
+      "beriberi",
+      "rickets",
+      "scurvy"
+    ],
+    "ans": 1,
+    "explanation": "Lack of Vitamin B1 leads to beriberi.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Nutrition",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The enzyme lipase digests:",
+    "opts": [
+      "fats (lipids)",
+      "maltose",
+      "protein",
+      "starch"
+    ],
+    "ans": 0,
+    "explanation": "lipase acts on fats (lipids).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physiology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Diffusion is the movement of molecules from a region of:",
+    "opts": [
+      "higher to lower concentration",
+      "no concentration",
+      "equal concentration",
+      "lower to higher concentration"
+    ],
+    "ans": 0,
+    "explanation": "Diffusion is down the concentration gradient.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: all the members of one species living in a particular area?",
+    "opts": [
+      "a genotype",
+      "an allele",
+      "a gene",
+      "a population"
+    ],
+    "ans": 3,
+    "explanation": "all the members of one species living in a particular area describes a population.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Photosynthesis takes place mainly in the:",
+    "opts": [
+      "leaf",
+      "root",
+      "stem",
+      "flower"
+    ],
+    "ans": 0,
+    "explanation": "Leaves contain chlorophyll in chloroplasts.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Physiology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the pigment in red blood cells that carries oxygen?",
+    "opts": [
+      "haemoglobin",
+      "adrenaline",
+      "insulin",
+      "thyroxine"
+    ],
+    "ans": 0,
+    "explanation": "the pigment in red blood cells that carries oxygen describes haemoglobin.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Human Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ringworm is caused by:",
+    "opts": [
+      "Plasmodium (a protozoan)",
+      "a fungus",
+      "Mycobacterium tuberculosis (a bacterium)",
+      "Vibrio cholerae (a bacterium)"
+    ],
+    "ans": 1,
+    "explanation": "Ringworm is caused by a fungus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Health and Disease",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the enzyme that digests starch in the mouth and small intestine?",
+    "opts": [
+      "adrenaline",
+      "thyroxine",
+      "amylase",
+      "insulin"
+    ],
+    "ans": 2,
+    "explanation": "the enzyme that digests starch in the mouth and small intestine describes amylase.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Human Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Animal cells do not have a:",
+    "opts": [
+      "cell membrane",
+      "cytoplasm",
+      "cell wall",
+      "nucleus"
+    ],
+    "ans": 2,
+    "explanation": "Animal cells lack a cell wall and chloroplasts.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a community of organisms interacting with their environment?",
+    "opts": [
+      "an allele",
+      "a genotype",
+      "a gene",
+      "an ecosystem"
+    ],
+    "ans": 3,
+    "explanation": "a community of organisms interacting with their environment describes an ecosystem.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The hormone growth hormone is produced by the pituitary gland and stimulates growth. Which hormone is described?",
+    "opts": [
+      "thyroxine",
+      "insulin",
+      "adrenaline",
+      "growth hormone"
+    ],
+    "ans": 3,
+    "explanation": "growth hormone is produced by the pituitary gland; it stimulates growth.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Coordination and Control",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which organelle is the controls all cell activities?",
+    "opts": [
+      "ribosome",
+      "cytoplasm",
+      "cell membrane",
+      "nucleus"
+    ],
+    "ans": 3,
+    "explanation": "The nucleus is the controls all cell activities.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Meiosis produces:",
+    "opts": [
+      "four haploid cells",
+      "four diploid cells",
+      "two diploid cells",
+      "two haploid cells"
+    ],
+    "ans": 0,
+    "explanation": "Meiosis gives four genetically different haploid gametes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which organelle is the site of photosynthesis?",
+    "opts": [
+      "vacuole",
+      "mitochondrion",
+      "chloroplast",
+      "nucleus"
+    ],
+    "ans": 2,
+    "explanation": "The chloroplast is the site of photosynthesis.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a dominant trait?",
+    "opts": [
+      "the genetic make-up of an organism",
+      "a trait that is expressed even when only one copy of the gene is present",
+      "one of the alternative forms of a gene",
+      "a unit of inheritance that determines a characteristic"
+    ],
+    "ans": 1,
+    "explanation": "a dominant trait is a trait that is expressed even when only one copy of the gene is present.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the jelly-like substance in which cell organelles are suspended?",
+    "opts": [
+      "the cytoplasm",
+      "the mitochondria",
+      "the nucleus",
+      "the ribosome"
+    ],
+    "ans": 0,
+    "explanation": "the jelly-like substance in which cell organelles are suspended describes the cytoplasm.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a nephron?",
+    "opts": [
+      "the functional unit of the kidney that filters blood",
+      "the hormone that prepares the body for emergency action",
+      "the hormone that lowers blood sugar level",
+      "the hormone that controls the rate of metabolism"
+    ],
+    "ans": 0,
+    "explanation": "a nephron is the functional unit of the kidney that filters blood.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Human Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The rigid outer layer of a plant cell is the:",
+    "opts": [
+      "cytoplasm",
+      "cell membrane",
+      "cell wall",
+      "nucleus"
+    ],
+    "ans": 2,
+    "explanation": "Plant cells have a cellulose cell wall.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The sex chromosomes in a human female are:",
+    "opts": [
+      "XO",
+      "XY",
+      "YY",
+      "XX"
+    ],
+    "ans": 3,
+    "explanation": "Females are XX; males are XY.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Genetics",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A food chain always begins with a:",
+    "opts": [
+      "decomposer",
+      "producer",
+      "carnivore",
+      "herbivore"
+    ],
+    "ans": 1,
+    "explanation": "Producers capture energy from sunlight first.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a chromosome?",
+    "opts": [
+      "a unit of inheritance that determines a characteristic",
+      "one of the alternative forms of a gene",
+      "the genetic make-up of an organism",
+      "a thread-like structure in the nucleus that carries genes"
+    ],
+    "ans": 3,
+    "explanation": "a chromosome is a thread-like structure in the nucleus that carries genes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the observable characteristics of an organism?",
+    "opts": [
+      "a genotype",
+      "a gene",
+      "an allele",
+      "a phenotype"
+    ],
+    "ans": 3,
+    "explanation": "the observable characteristics of an organism describes a phenotype.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which organelle is the site of protein synthesis?",
+    "opts": [
+      "ribosome",
+      "lysosome",
+      "chloroplast",
+      "vacuole"
+    ],
+    "ans": 0,
+    "explanation": "The ribosome is the site of protein synthesis.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Cell Biology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a unit of inheritance that determines a characteristic?",
+    "opts": [
+      "an allele",
+      "a genotype",
+      "a gene",
+      "a phenotype"
+    ],
+    "ans": 2,
+    "explanation": "a unit of inheritance that determines a characteristic describes a gene.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Genetics and Ecology",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these is a fish?",
+    "opts": [
+      "frog",
+      "whale",
+      "eagle",
+      "shark"
+    ],
+    "ans": 3,
+    "explanation": "The shark is a fish.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Classification",
+    "adapted_from": "Repo JAMB_Biology_2024.json / NECO_Biology_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

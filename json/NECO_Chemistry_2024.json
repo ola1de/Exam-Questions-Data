@@ -6,20 +6,10 @@
 "explanation": "Iodine is a substance that undergoes sublimation (changes from solid to gas directly), while common salt does not. Heating the mixture allows the iodine to be collected as a vapor."
 },
 {
-"q": "An atom of an element 
-𝑋
-X
- has 12 protons, 12 electrons, and 13 neutrons. The mass number of the element is _____.",
+"q": "An atom of an element \r\n𝑋\r\nX\r\n has 12 protons, 12 electrons, and 13 neutrons. The mass number of the element is _____.",
 "opts": ["12", "24", "25", "37"],
 "ans": 2,
-"explanation": "Mass number is the sum of protons and neutrons in the nucleus. 
-12
-+
-13
-=
-25
-12+13=25
-."
+"explanation": "Mass number is the sum of protons and neutrons in the nucleus. \r\n12\r\n+\r\n13\r\n=\r\n25\r\n12+13=25\r\n."
 },
 {
 "q": "Which of the following statements is true of the isotopes of an element?",
@@ -46,16 +36,7 @@ X
 "explanation": "A dative (or coordinate) covalent bond occurs when the shared pair of electrons is provided by only one of the participating atoms."
 },
 {
-"q": "What is the shape of a water molecule (
-𝐻
-2
-𝑂
-H
-2
-	​
-
-O
-)?",
+"q": "What is the shape of a water molecule (\r\n𝐻\r\n2\r\n𝑂\r\nH\r\n2\r\n\t​\r\n\r\nO\r\n)?",
 "opts": ["Linear", "Tetrahedral", "Bent (V-shaped)", "Trigonal planar"],
 "ans": 2,
 "explanation": "Due to the presence of two lone pairs of electrons on the oxygen atom, the bond angle is reduced, resulting in a bent or V-shaped geometry."
@@ -64,214 +45,19 @@ O
 "q": "According to Boyle's law, the volume of a fixed mass of gas is inversely proportional to its pressure, provided _____ is constant.",
 "opts": ["Temperature", "Mass", "Volume", "Density"],
 "ans": 0,
-"explanation": "Boyle's law states that 
-𝑃
-𝑉
-=
-𝑘
-PV=k
- at constant temperature."
+"explanation": "Boyle's law states that \r\n𝑃\r\n𝑉\r\n=\r\n𝑘\r\nPV=k\r\n at constant temperature."
 },
 {
-"q": "Calculate the volume of a gas at 
-273
-𝐾
-273K
- if its volume at 
-300
-𝐾
-300K
- is 
-150
-𝑐
-𝑚
-3
-150cm
-3
-, assuming pressure remains constant.",
-"opts": ["
-136.5
-𝑐
-𝑚
-3
-136.5cm
-3
-", "
-164.8
-𝑐
-𝑚
-3
-164.8cm
-3
-", "
-150.0
-𝑐
-𝑚
-3
-150.0cm
-3
-", "
-300.0
-𝑐
-𝑚
-3
-300.0cm
-3
-"],
+"q": "Calculate the volume of a gas at \r\n273\r\n𝐾\r\n273K\r\n if its volume at \r\n300\r\n𝐾\r\n300K\r\n is \r\n150\r\n𝑐\r\n𝑚\r\n3\r\n150cm\r\n3\r\n, assuming pressure remains constant.",
+"opts": ["\r\n136.5\r\n𝑐\r\n𝑚\r\n3\r\n136.5cm\r\n3\r\n", "\r\n164.8\r\n𝑐\r\n𝑚\r\n3\r\n164.8cm\r\n3\r\n", "\r\n150.0\r\n𝑐\r\n𝑚\r\n3\r\n150.0cm\r\n3\r\n", "\r\n300.0\r\n𝑐\r\n𝑚\r\n3\r\n300.0cm\r\n3\r\n"],
 "ans": 0,
-"explanation": "Using Charles's Law: 
-𝑉
-1
-/
-𝑇
-1
-=
-𝑉
-2
-/
-𝑇
-2
-V
-1
-	​
-
-/T
-1
-	​
-
-=V
-2
-	​
-
-/T
-2
-	​
-
-. 
-150
-/
-300
-=
-𝑉
-2
-/
-273
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑉
-2
-=
-(
-150
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-273
-)
-/
-300
-=
-136.5
-𝑐
-𝑚
-3
-150/300=V
-2
-	​
-
-/273
-RightarrowV
-2
-	​
-
-=(150
-times273)/300=136.5cm
-3
-."
+"explanation": "Using Charles's Law: \r\n𝑉\r\n1\r\n/\r\n𝑇\r\n1\r\n=\r\n𝑉\r\n2\r\n/\r\n𝑇\r\n2\r\nV\r\n1\r\n\t​\r\n\r\n/T\r\n1\r\n\t​\r\n\r\n=V\r\n2\r\n\t​\r\n\r\n/T\r\n2\r\n\t​\r\n\r\n. \r\n150\r\n/\r\n300\r\n=\r\n𝑉\r\n2\r\n/\r\n273\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑉\r\n2\r\n=\r\n(\r\n150\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n273\r\n)\r\n/\r\n300\r\n=\r\n136.5\r\n𝑐\r\n𝑚\r\n3\r\n150/300=V\r\n2\r\n\t​\r\n\r\n/273\r\nRightarrowV\r\n2\r\n\t​\r\n\r\n=(150\r\ntimes273)/300=136.5cm\r\n3\r\n."
 },
 {
 "q": "The standard temperature and pressure (S.T.P.) are defined as _____.",
-"opts": ["
-273
-𝐾
-273K
- and 
-760
-𝑚
-𝑚
-𝐻
-𝑔
-760mmHg
-", "
-298
-𝐾
-298K
- and 
-760
-𝑚
-𝑚
-𝐻
-𝑔
-760mmHg
-", "
-0
-𝐾
-0K
- and 
-760
-𝑚
-𝑚
-𝐻
-𝑔
-760mmHg
-", "
-373
-𝐾
-373K
- and 
-100
-𝑚
-𝑚
-𝐻
-𝑔
-100mmHg
-"],
+"opts": ["\r\n273\r\n𝐾\r\n273K\r\n and \r\n760\r\n𝑚\r\n𝑚\r\n𝐻\r\n𝑔\r\n760mmHg\r\n", "\r\n298\r\n𝐾\r\n298K\r\n and \r\n760\r\n𝑚\r\n𝑚\r\n𝐻\r\n𝑔\r\n760mmHg\r\n", "\r\n0\r\n𝐾\r\n0K\r\n and \r\n760\r\n𝑚\r\n𝑚\r\n𝐻\r\n𝑔\r\n760mmHg\r\n", "\r\n373\r\n𝐾\r\n373K\r\n and \r\n100\r\n𝑚\r\n𝑚\r\n𝐻\r\n𝑔\r\n100mmHg\r\n"],
 "ans": 0,
-"explanation": "S.T.P conditions are 
-273.15
-𝐾
-273.15K
- (
-) and 
-1
-𝑎
-𝑡
-𝑚
-1atm
- (
-760
-𝑚
-𝑚
-𝐻
-𝑔
-760mmHg
- or 
-101.325
-𝑘
-𝑃
-𝑎
-101.325kPa
-)."
+"explanation": "S.T.P conditions are \r\n273.15\r\n𝐾\r\n273.15K\r\n (\r\n) and \r\n1\r\n𝑎\r\n𝑡\r\n𝑚\r\n1atm\r\n (\r\n760\r\n𝑚\r\n𝑚\r\n𝐻\r\n𝑔\r\n760mmHg\r\n or \r\n101.325\r\n𝑘\r\n𝑃\r\n𝑎\r\n101.325kPa\r\n)."
 },
 {
 "q": "Which of the following is a physical change?",
@@ -280,223 +66,22 @@ times273)/300=136.5cm
 "explanation": "Melting is a change of state. The chemical composition of the wax remains the same, making it a physical change."
 },
 {
-"q": "The relative molecular mass of tetraoxosulphate(VI) acid (
-𝐻
-2
-𝑆
-𝑂
-4
-H
-2
-	​
-
-SO
-4
-	​
-
-) is _____. [
-𝐻
-=
-1
-,
-𝑆
-=
-32
-,
-𝑂
-=
-16
-H=1,S=32,O=16
-]",
+"q": "The relative molecular mass of tetraoxosulphate(VI) acid (\r\n𝐻\r\n2\r\n𝑆\r\n𝑂\r\n4\r\nH\r\n2\r\n\t​\r\n\r\nSO\r\n4\r\n\t​\r\n\r\n) is _____. [\r\n𝐻\r\n=\r\n1\r\n,\r\n𝑆\r\n=\r\n32\r\n,\r\n𝑂\r\n=\r\n16\r\nH=1,S=32,O=16\r\n]",
 "opts": ["49", "98", "82", "100"],
 "ans": 1,
-"explanation": "
-𝑀
-=
-(
-2
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-1
-)
-+
-32
-+
-(
-4
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-16
-)
-=
-2
-+
-32
-+
-64
-=
-98
-M=(2
-times1)+32+(4
-times16)=2+32+64=98
-."
+"explanation": "\r\n𝑀\r\n=\r\n(\r\n2\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n1\r\n)\r\n+\r\n32\r\n+\r\n(\r\n4\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n16\r\n)\r\n=\r\n2\r\n+\r\n32\r\n+\r\n64\r\n=\r\n98\r\nM=(2\r\ntimes1)+32+(4\r\ntimes16)=2+32+64=98\r\n."
 },
 {
-"q": "How many moles are in 
-10
-𝑔
-10g
- of 
-𝑁
-𝑎
-𝑂
-𝐻
-NaOH
-? [
-𝑁
-𝑎
-=
-23
-,
-𝑂
-=
-16
-,
-𝐻
-=
-1
-Na=23,O=16,H=1
-]",
+"q": "How many moles are in \r\n10\r\n𝑔\r\n10g\r\n of \r\n𝑁\r\n𝑎\r\n𝑂\r\n𝐻\r\nNaOH\r\n? [\r\n𝑁\r\n𝑎\r\n=\r\n23\r\n,\r\n𝑂\r\n=\r\n16\r\n,\r\n𝐻\r\n=\r\n1\r\nNa=23,O=16,H=1\r\n]",
 "opts": ["0.25 moles", "0.50 moles", "1.0 mole", "2.5 moles"],
 "ans": 0,
-"explanation": "Molar mass of 
-𝑁
-𝑎
-𝑂
-𝐻
-=
-23
-+
-16
-+
-1
-=
-40
-𝑔
-/
-𝑚
-𝑜
-𝑙
-NaOH=23+16+1=40g/mol
-. Moles = mass / molar mass = 
-10
-/
-40
-=
-0.25
-10/40=0.25
- moles."
+"explanation": "Molar mass of \r\n𝑁\r\n𝑎\r\n𝑂\r\n𝐻\r\n=\r\n23\r\n+\r\n16\r\n+\r\n1\r\n=\r\n40\r\n𝑔\r\n/\r\n𝑚\r\n𝑜\r\n𝑙\r\nNaOH=23+16+1=40g/mol\r\n. Moles = mass / molar mass = \r\n10\r\n/\r\n40\r\n=\r\n0.25\r\n10/40=0.25\r\n moles."
 },
 {
-"q": "What is the oxidation number of Chromium in 
-𝐾
-2
-𝐶
-𝑟
-2
-𝑂
-7
-K
-2
-	​
-
-Cr
-2
-	​
-
-O
-7
-	​
-
-?",
+"q": "What is the oxidation number of Chromium in \r\n𝐾\r\n2\r\n𝐶\r\n𝑟\r\n2\r\n𝑂\r\n7\r\nK\r\n2\r\n\t​\r\n\r\nCr\r\n2\r\n\t​\r\n\r\nO\r\n7\r\n\t​\r\n\r\n?",
 "opts": ["+3", "+5", "+6", "+7"],
 "ans": 2,
-"explanation": "
-2
-(
-+
-1
-)
-+
-2
-(
-𝑥
-)
-+
-7
-(
-−
-2
-)
-=
-0
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-2
-+
-2
-𝑥
-−
-14
-=
-0
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-2
-𝑥
-=
-12
-𝑅
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑥
-=
-+
-6
-2(+1)+2(x)+7(−2)=0
-Rightarrow2+2x−14=0
-Rightarrow2x=12
-Rightarrowx=+6
-."
+"explanation": "\r\n2\r\n(\r\n+\r\n1\r\n)\r\n+\r\n2\r\n(\r\n𝑥\r\n)\r\n+\r\n7\r\n(\r\n−\r\n2\r\n)\r\n=\r\n0\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n2\r\n+\r\n2\r\n𝑥\r\n−\r\n14\r\n=\r\n0\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n2\r\n𝑥\r\n=\r\n12\r\n𝑅\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑥\r\n=\r\n+\r\n6\r\n2(+1)+2(x)+7(−2)=0\r\nRightarrow2+2x−14=0\r\nRightarrow2x=12\r\nRightarrowx=+6\r\n."
 },
 {
 "q": "A solution with pH 3 is _____.",
@@ -506,57 +91,7 @@ Rightarrowx=+6
 },
 {
 "q": "Which of the following salts is used in the laboratory to dry gases?",
-"opts": ["
-𝑁
-𝑎
-𝐶
-𝑙
-NaCl
-", "
-𝐶
-𝑎
-𝐶
-𝑙
-2
-CaCl
-2
-	​
-
- (anhydrous)", "
-𝐶
-𝑢
-𝑆
-𝑂
-4
-.5
-𝐻
-2
-𝑂
-CuSO
-4
-	​
-
-.5H
-2
-	​
-
-O
-", "
-𝑁
-𝑎
-2
-𝐶
-𝑂
-3
-Na
-2
-	​
-
-CO
-3
-	​
-
-"],
+"opts": ["\r\n𝑁\r\n𝑎\r\n𝐶\r\n𝑙\r\nNaCl\r\n", "\r\n𝐶\r\n𝑎\r\n𝐶\r\n𝑙\r\n2\r\nCaCl\r\n2\r\n\t​\r\n\r\n (anhydrous)", "\r\n𝐶\r\n𝑢\r\n𝑆\r\n𝑂\r\n4\r\n.5\r\n𝐻\r\n2\r\n𝑂\r\nCuSO\r\n4\r\n\t​\r\n\r\n.5H\r\n2\r\n\t​\r\n\r\nO\r\n", "\r\n𝑁\r\n𝑎\r\n2\r\n𝐶\r\n𝑂\r\n3\r\nNa\r\n2\r\n\t​\r\n\r\nCO\r\n3\r\n\t​\r\n\r\n"],
 "ans": 1,
 "explanation": "Anhydrous Calcium Chloride is hygroscopic and is commonly used as a desiccant (drying agent) in desiccators."
 },
@@ -573,94 +108,10 @@ CO
 "explanation": "Stirring affects the rate of dissolving, not the actual solubility (the maximum amount that can dissolve) of a gas."
 },
 {
-"q": "In the reaction 
-𝑍
-𝑛
-(
-𝑠
-)
-+
-𝐶
-𝑢
-𝑆
-𝑂
-4
-(
-𝑎
-𝑞
-)
-𝑟
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑍
-𝑛
-𝑆
-𝑂
-4
-(
-𝑎
-𝑞
-)
-+
-𝐶
-𝑢
-(
-𝑠
-)
-Zn(s)+CuSO
-4
-	​
-
-(aq)
-rightarrowZnSO
-4
-	​
-
-(aq)+Cu(s)
-, which species is reduced?",
-"opts": ["
-𝑍
-𝑛
-Zn
-", "
-𝐶
-𝑢
-2
-+
-Cu
-2+
-", "
-𝑆
-𝑂
-4
-2
-−
-SO
-4
-2−
-	​
-
-", "
-𝑍
-𝑛
-2
-+
-Zn
-2+
-"],
+"q": "In the reaction \r\n𝑍\r\n𝑛\r\n(\r\n𝑠\r\n)\r\n+\r\n𝐶\r\n𝑢\r\n𝑆\r\n𝑂\r\n4\r\n(\r\n𝑎\r\n𝑞\r\n)\r\n𝑟\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑍\r\n𝑛\r\n𝑆\r\n𝑂\r\n4\r\n(\r\n𝑎\r\n𝑞\r\n)\r\n+\r\n𝐶\r\n𝑢\r\n(\r\n𝑠\r\n)\r\nZn(s)+CuSO\r\n4\r\n\t​\r\n\r\n(aq)\r\nrightarrowZnSO\r\n4\r\n\t​\r\n\r\n(aq)+Cu(s)\r\n, which species is reduced?",
+"opts": ["\r\n𝑍\r\n𝑛\r\nZn\r\n", "\r\n𝐶\r\n𝑢\r\n2\r\n+\r\nCu\r\n2+\r\n", "\r\n𝑆\r\n𝑂\r\n4\r\n2\r\n−\r\nSO\r\n4\r\n2−\r\n\t​\r\n\r\n", "\r\n𝑍\r\n𝑛\r\n2\r\n+\r\nZn\r\n2+\r\n"],
 "ans": 1,
-"explanation": "The oxidation state of 
-𝐶
-𝑢
-Cu
- changes from +2 to 0. A decrease in oxidation state is reduction."
+"explanation": "The oxidation state of \r\n𝐶\r\n𝑢\r\nCu\r\n changes from +2 to 0. A decrease in oxidation state is reduction."
 },
 {
 "q": "The catalyst used in the Haber process for the manufacture of Ammonia is _____.",
@@ -669,58 +120,7 @@ Cu
 "explanation": "Iron serves as the catalyst to speed up the reaction between Nitrogen and Hydrogen in the Haber process."
 },
 {
-"q": "According to Le Chatelier's principle, an increase in pressure in the reaction 
-𝑁
-2
-(
-𝑔
-)
-+
-3
-𝐻
-2
-(
-𝑔
-)
-𝑟
-𝑖
-𝑔
-ℎ
-𝑡
-𝑙
-𝑒
-𝑓
-𝑡
-ℎ
-𝑎
-𝑟
-𝑝
-𝑜
-𝑜
-𝑛
-𝑠
-2
-𝑁
-𝐻
-3
-(
-𝑔
-)
-N
-2
-	​
-
-(g)+3H
-2
-	​
-
-(g)
-rightleftharpoons2NH
-3
-	​
-
-(g)
- will _____.",
+"q": "According to Le Chatelier's principle, an increase in pressure in the reaction \r\n𝑁\r\n2\r\n(\r\n𝑔\r\n)\r\n+\r\n3\r\n𝐻\r\n2\r\n(\r\n𝑔\r\n)\r\n𝑟\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑙\r\n𝑒\r\n𝑓\r\n𝑡\r\nℎ\r\n𝑎\r\n𝑟\r\n𝑝\r\n𝑜\r\n𝑜\r\n𝑛\r\n𝑠\r\n2\r\n𝑁\r\n𝐻\r\n3\r\n(\r\n𝑔\r\n)\r\nN\r\n2\r\n\t​\r\n\r\n(g)+3H\r\n2\r\n\t​\r\n\r\n(g)\r\nrightleftharpoons2NH\r\n3\r\n\t​\r\n\r\n(g)\r\n will _____.",
 "opts": ["Shift the equilibrium to the left", "Shift the equilibrium to the right", "Have no effect", "Decrease the yield of Ammonia"],
 "ans": 1,
 "explanation": "Increased pressure shifts equilibrium toward the side with fewer gas moles. 4 moles on the left vs 2 moles on the right; so it shifts right."
@@ -729,198 +129,25 @@ rightleftharpoons2NH
 "q": "A reaction in which heat is absorbed from the surroundings is _____.",
 "opts": ["Exothermic", "Endothermic", "Spontaneous", "Reversible"],
 "ans": 1,
-"explanation": "Endothermic reactions absorb thermal energy, resulting in a positive enthalpy change (
-0
-˘
-394
-𝐻
->
-0
-0
-˘
-394H>0
-)."
+"explanation": "Endothermic reactions absorb thermal energy, resulting in a positive enthalpy change (\r\n0\r\n˘\r\n394\r\n𝐻\r\n>\r\n0\r\n0\r\n˘\r\n394H>0\r\n)."
 },
 {
 "q": "The general formula for the Alkyne homologous series is _____.",
-"opts": ["
-𝐶
-𝑛
-𝐻
-2
-𝑛
-+
-2
-C
-n
-	​
-
-H
-2n+2
-	​
-
-", "
-𝐶
-𝑛
-𝐻
-2
-𝑛
-C
-n
-	​
-
-H
-2n
-	​
-
-", "
-𝐶
-𝑛
-𝐻
-2
-𝑛
-−
-2
-C
-n
-	​
-
-H
-2n−2
-	​
-
-", "
-𝐶
-𝑛
-𝐻
-2
-𝑛
-−
-1
-C
-n
-	​
-
-H
-2n−1
-	​
-
-"],
+"opts": ["\r\n𝐶\r\n𝑛\r\n𝐻\r\n2\r\n𝑛\r\n+\r\n2\r\nC\r\nn\r\n\t​\r\n\r\nH\r\n2n+2\r\n\t​\r\n\r\n", "\r\n𝐶\r\n𝑛\r\n𝐻\r\n2\r\n𝑛\r\nC\r\nn\r\n\t​\r\n\r\nH\r\n2n\r\n\t​\r\n\r\n", "\r\n𝐶\r\n𝑛\r\n𝐻\r\n2\r\n𝑛\r\n−\r\n2\r\nC\r\nn\r\n\t​\r\n\r\nH\r\n2n−2\r\n\t​\r\n\r\n", "\r\n𝐶\r\n𝑛\r\n𝐻\r\n2\r\n𝑛\r\n−\r\n1\r\nC\r\nn\r\n\t​\r\n\r\nH\r\n2n−1\r\n\t​\r\n\r\n"],
 "ans": 2,
-"explanation": "Alkynes are unsaturated hydrocarbons containing a triple bond with the general formula 
-𝐶
-𝑛
-𝐻
-2
-𝑛
-−
-2
-C
-n
-	​
-
-H
-2n−2
-	​
-
-."
+"explanation": "Alkynes are unsaturated hydrocarbons containing a triple bond with the general formula \r\n𝐶\r\n𝑛\r\n𝐻\r\n2\r\n𝑛\r\n−\r\n2\r\nC\r\nn\r\n\t​\r\n\r\nH\r\n2n−2\r\n\t​\r\n\r\n."
 },
 {
-"q": "The IUPAC name for 
-𝐶
-𝐻
-3
-𝐶
-𝐻
-2
-𝐶
-𝐻
-2
-𝑂
-𝐻
-CH
-3
-	​
-
-CH
-2
-	​
-
-CH
-2
-	​
-
-OH
- is _____.",
+"q": "The IUPAC name for \r\n𝐶\r\n𝐻\r\n3\r\n𝐶\r\n𝐻\r\n2\r\n𝐶\r\n𝐻\r\n2\r\n𝑂\r\n𝐻\r\nCH\r\n3\r\n\t​\r\n\r\nCH\r\n2\r\n\t​\r\n\r\nCH\r\n2\r\n\t​\r\n\r\nOH\r\n is _____.",
 "opts": ["Ethanol", "Propan-1-ol", "Propan-2-ol", "Butanol"],
 "ans": 1,
 "explanation": "The chain has three carbons (Propane) and the hydroxyl group is on the first carbon, making it Propan-1-ol."
 },
 {
 "q": "Which of the following organic compounds will decolorize bromine water?",
-"opts": ["
-𝐶
-𝐻
-4
-CH
-4
-	​
-
-", "
-𝐶
-2
-𝐻
-6
-C
-2
-	​
-
-H
-6
-	​
-
-", "
-𝐶
-2
-𝐻
-4
-C
-2
-	​
-
-H
-4
-	​
-
-", "
-𝐶
-3
-𝐻
-8
-C
-3
-	​
-
-H
-8
-	​
-
-"],
+"opts": ["\r\n𝐶\r\n𝐻\r\n4\r\nCH\r\n4\r\n\t​\r\n\r\n", "\r\n𝐶\r\n2\r\n𝐻\r\n6\r\nC\r\n2\r\n\t​\r\n\r\nH\r\n6\r\n\t​\r\n\r\n", "\r\n𝐶\r\n2\r\n𝐻\r\n4\r\nC\r\n2\r\n\t​\r\n\r\nH\r\n4\r\n\t​\r\n\r\n", "\r\n𝐶\r\n3\r\n𝐻\r\n8\r\nC\r\n3\r\n\t​\r\n\r\nH\r\n8\r\n\t​\r\n\r\n"],
 "ans": 2,
-"explanation": "
-𝐶
-2
-𝐻
-4
-C
-2
-	​
-
-H
-4
-	​
-
- (Ethene) is an alkene. Alkenes undergo addition reactions with bromine, causing the reddish-brown color to disappear."
+"explanation": "\r\n𝐶\r\n2\r\n𝐻\r\n4\r\nC\r\n2\r\n\t​\r\n\r\nH\r\n4\r\n\t​\r\n\r\n (Ethene) is an alkene. Alkenes undergo addition reactions with bromine, causing the reddish-brown color to disappear."
 },
 {
 "q": "The process of breaking down long-chain hydrocarbons into smaller, more useful molecules is _____.",
@@ -932,33 +159,13 @@ H
 "q": "The reaction between an organic acid and an alkanol to form an ester is called _____.",
 "opts": ["Hydrolysis", "Saponification", "Esterification", "Hydrogenation"],
 "ans": 2,
-"explanation": "Acid + Alkanol 
-𝑟
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-rightarrow
- Ester + Water. This is esterification."
+"explanation": "Acid + Alkanol \r\n𝑟\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\nrightarrow\r\n Ester + Water. This is esterification."
 },
 {
 "q": "Which of the following is a greenhouse gas?",
 "opts": ["Oxygen", "Nitrogen", "Methane", "Argon"],
 "ans": 2,
-"explanation": "Methane (
-𝐶
-𝐻
-4
-CH
-4
-	​
-
-), Carbon dioxide, and Water vapor are greenhouse gases that trap heat in the earth's atmosphere."
+"explanation": "Methane (\r\n𝐶\r\n𝐻\r\n4\r\nCH\r\n4\r\n\t​\r\n\r\n), Carbon dioxide, and Water vapor are greenhouse gases that trap heat in the earth's atmosphere."
 },
 {
 "q": "Permanent hardness of water is caused by the presence of _____.",
@@ -968,37 +175,7 @@ CH
 },
 {
 "q": "Which of the following gases is used in the bleaching of wood pulp?",
-"opts": ["
-𝐶
-𝑂
-2
-CO
-2
-	​
-
-", "
-𝐶
-𝑙
-2
-Cl
-2
-	​
-
-", "
-𝑂
-2
-O
-2
-	​
-
-", "
-𝑁
-2
-N
-2
-	​
-
-"],
+"opts": ["\r\n𝐶\r\n𝑂\r\n2\r\nCO\r\n2\r\n\t​\r\n\r\n", "\r\n𝐶\r\n𝑙\r\n2\r\nCl\r\n2\r\n\t​\r\n\r\n", "\r\n𝑂\r\n2\r\nO\r\n2\r\n\t​\r\n\r\n", "\r\n𝑁\r\n2\r\nN\r\n2\r\n\t​\r\n\r\n"],
 "ans": 1,
 "explanation": "Chlorine is a powerful oxidizing agent used for bleaching paper, pulp, and textiles."
 },
@@ -1006,31 +183,7 @@ N
 "q": "The main ore of Aluminium is _____.",
 "opts": ["Magnetite", "Bauxite", "Cassiterite", "Galena"],
 "ans": 1,
-"explanation": "Bauxite (
-𝐴
-𝑙
-2
-𝑂
-3
-.
-𝑛
-𝐻
-2
-𝑂
-Al
-2
-	​
-
-O
-3
-	​
-
-.nH
-2
-	​
-
-O
-) is the primary source for the industrial production of aluminium."
+"explanation": "Bauxite (\r\n𝐴\r\n𝑙\r\n2\r\n𝑂\r\n3\r\n.\r\n𝑛\r\n𝐻\r\n2\r\n𝑂\r\nAl\r\n2\r\n\t​\r\n\r\nO\r\n3\r\n\t​\r\n\r\n.nH\r\n2\r\n\t​\r\n\r\nO\r\n) is the primary source for the industrial production of aluminium."
 },
 {
 "q": "Alloys are mixtures of metals. Brass consists of _____.",
@@ -1052,368 +205,39 @@ O
 },
 {
 "q": "The salt formed when Ammonia reacts with Hydrochloric acid is _____.",
-"opts": ["
-𝑁
-𝐻
-4
-𝐶
-𝑙
-NH
-4
-	​
-
-Cl
-", "
-𝑁
-𝐻
-3
-𝐶
-𝑙
-NH
-3
-	​
-
-Cl
-", "
-(
-𝑁
-𝐻
-4
-)
-2
-𝑆
-𝑂
-4
-(NH
-4
-	​
-
-)
-2
-	​
-
-SO
-4
-	​
-
-", "
-𝑁
-𝐻
-4
-𝑂
-𝐻
-NH
-4
-	​
-
-OH
-"],
+"opts": ["\r\n𝑁\r\n𝐻\r\n4\r\n𝐶\r\n𝑙\r\nNH\r\n4\r\n\t​\r\n\r\nCl\r\n", "\r\n𝑁\r\n𝐻\r\n3\r\n𝐶\r\n𝑙\r\nNH\r\n3\r\n\t​\r\n\r\nCl\r\n", "\r\n(\r\n𝑁\r\n𝐻\r\n4\r\n)\r\n2\r\n𝑆\r\n𝑂\r\n4\r\n(NH\r\n4\r\n\t​\r\n\r\n)\r\n2\r\n\t​\r\n\r\nSO\r\n4\r\n\t​\r\n\r\n", "\r\n𝑁\r\n𝐻\r\n4\r\n𝑂\r\n𝐻\r\nNH\r\n4\r\n\t​\r\n\r\nOH\r\n"],
 "ans": 0,
-"explanation": "
-𝑁
-𝐻
-3
-+
-𝐻
-𝐶
-𝑙
-𝑟
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝑁
-𝐻
-4
-𝐶
-𝑙
-NH
-3
-	​
-
-+HCl
-rightarrowNH
-4
-	​
-
-Cl
-. The product is Ammonium Chloride."
+"explanation": "\r\n𝑁\r\n𝐻\r\n3\r\n+\r\n𝐻\r\n𝐶\r\n𝑙\r\n𝑟\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝑁\r\n𝐻\r\n4\r\n𝐶\r\n𝑙\r\nNH\r\n3\r\n\t​\r\n\r\n+HCl\r\nrightarrowNH\r\n4\r\n\t​\r\n\r\nCl\r\n. The product is Ammonium Chloride."
 },
 {
-"q": "Calculate the quantity of electricity (in Coulombs) passed when a current of 
-2.0
-𝐴
-2.0A
- flows for 30 minutes.",
+"q": "Calculate the quantity of electricity (in Coulombs) passed when a current of \r\n2.0\r\n𝐴\r\n2.0A\r\n flows for 30 minutes.",
 "opts": ["60 C", "3600 C", "1800 C", "1 C"],
 "ans": 1,
-"explanation": "
-𝑄
-=
-𝐼
-𝑡
-Q=It
-. Time must be in seconds. 
-30
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-60
-=
-1800
-𝑠
-30
-times60=1800s
-. 
-𝑄
-=
-2.0
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-1800
-=
-3600
-𝐶
-Q=2.0
-times1800=3600C
-."
+"explanation": "\r\n𝑄\r\n=\r\n𝐼\r\n𝑡\r\nQ=It\r\n. Time must be in seconds. \r\n30\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n60\r\n=\r\n1800\r\n𝑠\r\n30\r\ntimes60=1800s\r\n. \r\n𝑄\r\n=\r\n2.0\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n1800\r\n=\r\n3600\r\n𝐶\r\nQ=2.0\r\ntimes1800=3600C\r\n."
 },
 {
 "q": "The volume occupied by 1 mole of any gas at S.T.P. is _____.",
-"opts": ["
-22.4
-𝑑
-𝑚
-3
-22.4dm
-3
-", "
-24.0
-𝑑
-𝑚
-3
-24.0dm
-3
-", "
-11.2
-𝑑
-𝑚
-3
-11.2dm
-3
-", "
-44.8
-𝑑
-𝑚
-3
-44.8dm
-3
-"],
+"opts": ["\r\n22.4\r\n𝑑\r\n𝑚\r\n3\r\n22.4dm\r\n3\r\n", "\r\n24.0\r\n𝑑\r\n𝑚\r\n3\r\n24.0dm\r\n3\r\n", "\r\n11.2\r\n𝑑\r\n𝑚\r\n3\r\n11.2dm\r\n3\r\n", "\r\n44.8\r\n𝑑\r\n𝑚\r\n3\r\n44.8dm\r\n3\r\n"],
 "ans": 0,
 "explanation": "This is a constant known as the molar volume of a gas at S.T.P."
 },
 {
-"q": "What is the concentration in 
-𝑚
-𝑜
-𝑙
-/
-𝑑
-𝑚
-3
-mol/dm
-3
- of a solution containing 
-4
-𝑔
-4g
- of 
-𝑁
-𝑎
-𝑂
-𝐻
-NaOH
- in 
-250
-𝑐
-𝑚
-3
-250cm
-3
-?",
+"q": "What is the concentration in \r\n𝑚\r\n𝑜\r\n𝑙\r\n/\r\n𝑑\r\n𝑚\r\n3\r\nmol/dm\r\n3\r\n of a solution containing \r\n4\r\n𝑔\r\n4g\r\n of \r\n𝑁\r\n𝑎\r\n𝑂\r\n𝐻\r\nNaOH\r\n in \r\n250\r\n𝑐\r\n𝑚\r\n3\r\n250cm\r\n3\r\n?",
 "opts": ["0.1", "0.4", "1.0", "0.04"],
 "ans": 1,
-"explanation": "Moles = 
-4
-/
-40
-=
-0.1
-𝑚
-𝑜
-𝑙
-4/40=0.1mol
-. Volume = 
-250
-/
-1000
-=
-0.25
-𝑑
-𝑚
-3
-250/1000=0.25dm
-3
-. Molarity = 
-0.1
-/
-0.25
-=
-0.4
-𝑚
-𝑜
-𝑙
-/
-𝑑
-𝑚
-3
-0.1/0.25=0.4mol/dm
-3
-."
+"explanation": "Moles = \r\n4\r\n/\r\n40\r\n=\r\n0.1\r\n𝑚\r\n𝑜\r\n𝑙\r\n4/40=0.1mol\r\n. Volume = \r\n250\r\n/\r\n1000\r\n=\r\n0.25\r\n𝑑\r\n𝑚\r\n3\r\n250/1000=0.25dm\r\n3\r\n. Molarity = \r\n0.1\r\n/\r\n0.25\r\n=\r\n0.4\r\n𝑚\r\n𝑜\r\n𝑙\r\n/\r\n𝑑\r\n𝑚\r\n3\r\n0.1/0.25=0.4mol/dm\r\n3\r\n."
 },
 {
 "q": "Which of the following is a saturated hydrocarbon?",
-"opts": ["
-𝐶
-2
-𝐻
-2
-C
-2
-	​
-
-H
-2
-	​
-
-", "
-𝐶
-2
-𝐻
-4
-C
-2
-	​
-
-H
-4
-	​
-
-", "
-𝐶
-3
-𝐻
-8
-C
-3
-	​
-
-H
-8
-	​
-
-", "
-𝐶
-6
-𝐻
-6
-C
-6
-	​
-
-H
-6
-	​
-
-"],
+"opts": ["\r\n𝐶\r\n2\r\n𝐻\r\n2\r\nC\r\n2\r\n\t​\r\n\r\nH\r\n2\r\n\t​\r\n\r\n", "\r\n𝐶\r\n2\r\n𝐻\r\n4\r\nC\r\n2\r\n\t​\r\n\r\nH\r\n4\r\n\t​\r\n\r\n", "\r\n𝐶\r\n3\r\n𝐻\r\n8\r\nC\r\n3\r\n\t​\r\n\r\nH\r\n8\r\n\t​\r\n\r\n", "\r\n𝐶\r\n6\r\n𝐻\r\n6\r\nC\r\n6\r\n\t​\r\n\r\nH\r\n6\r\n\t​\r\n\r\n"],
 "ans": 2,
-"explanation": "Saturated hydrocarbons are alkanes (
-𝐶
-𝑛
-𝐻
-2
-𝑛
-+
-2
-C
-n
-	​
-
-H
-2n+2
-	​
-
-). 
-𝐶
-3
-𝐻
-8
-C
-3
-	​
-
-H
-8
-	​
-
- is propane."
+"explanation": "Saturated hydrocarbons are alkanes (\r\n𝐶\r\n𝑛\r\n𝐻\r\n2\r\n𝑛\r\n+\r\n2\r\nC\r\nn\r\n\t​\r\n\r\nH\r\n2n+2\r\n\t​\r\n\r\n). \r\n𝐶\r\n3\r\n𝐻\r\n8\r\nC\r\n3\r\n\t​\r\n\r\nH\r\n8\r\n\t​\r\n\r\n is propane."
 },
 {
 "q": "The functional group in alkanoic acids is _____.",
-"opts": ["
-−
-𝑂
-𝐻
-−OH
-", "
-−
-𝐶
-𝐻
-𝑂
-−CHO
-", "
-−
-𝐶
-𝑂
-𝑂
-𝐻
-−COOH
-", "
-−
-𝐶
-𝑂
-−
-−CO−
-"],
+"opts": ["\r\n−\r\n𝑂\r\n𝐻\r\n−OH\r\n", "\r\n−\r\n𝐶\r\n𝐻\r\n𝑂\r\n−CHO\r\n", "\r\n−\r\n𝐶\r\n𝑂\r\n𝑂\r\n𝐻\r\n−COOH\r\n", "\r\n−\r\n𝐶\r\n𝑂\r\n−\r\n−CO−\r\n"],
 "ans": 2,
-"explanation": "
-−
-𝐶
-𝑂
-𝑂
-𝐻
-−COOH
- is the carboxyl group characteristic of organic acids."
+"explanation": "\r\n−\r\n𝐶\r\n𝑂\r\n𝑂\r\n𝐻\r\n−COOH\r\n is the carboxyl group characteristic of organic acids."
 },
 {
 "q": "The radioactive emission that has no mass and no charge is _____.",
@@ -1422,137 +246,20 @@ H
 "explanation": "Gamma rays are high-energy electromagnetic radiation."
 },
 {
-"q": "Which of the following indicators is suitable for a titration between 
-𝐶
-𝐻
-3
-𝐶
-𝑂
-𝑂
-𝐻
-CH
-3
-	​
-
-COOH
- and 
-𝑁
-𝑎
-𝑂
-𝐻
-NaOH
-?",
+"q": "Which of the following indicators is suitable for a titration between \r\n𝐶\r\n𝐻\r\n3\r\n𝐶\r\n𝑂\r\n𝑂\r\n𝐻\r\nCH\r\n3\r\n\t​\r\n\r\nCOOH\r\n and \r\n𝑁\r\n𝑎\r\n𝑂\r\n𝐻\r\nNaOH\r\n?",
 "opts": ["Methyl orange", "Methyl red", "Phenolphthalein", "Litmus"],
 "ans": 2,
-"explanation": "For a weak acid (
-𝐶
-𝐻
-3
-𝐶
-𝑂
-𝑂
-𝐻
-CH
-3
-	​
-
-COOH
-) and a strong base (
-𝑁
-𝑎
-𝑂
-𝐻
-NaOH
-), the endpoint is in the alkaline range, where phenolphthalein works best."
+"explanation": "For a weak acid (\r\n𝐶\r\n𝐻\r\n3\r\n𝐶\r\n𝑂\r\n𝑂\r\n𝐻\r\nCH\r\n3\r\n\t​\r\n\r\nCOOH\r\n) and a strong base (\r\n𝑁\r\n𝑎\r\n𝑂\r\n𝐻\r\nNaOH\r\n), the endpoint is in the alkaline range, where phenolphthalein works best."
 },
 {
 "q": "The product of the reaction between ethene and hydrogen in the presence of nickel catalyst is _____.",
 "opts": ["Ethane", "Ethyne", "Ethanol", "Ethylamine"],
 "ans": 0,
-"explanation": "This is an addition (hydrogenation) reaction where 
-𝐶
-2
-𝐻
-4
-+
-𝐻
-2
-𝑟
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝐶
-2
-𝐻
-6
-C
-2
-	​
-
-H
-4
-	​
-
-+H
-2
-	​
-
-rightarrowC
-2
-	​
-
-H
-6
-	​
-
-."
+"explanation": "This is an addition (hydrogenation) reaction where \r\n𝐶\r\n2\r\n𝐻\r\n4\r\n+\r\n𝐻\r\n2\r\n𝑟\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝐶\r\n2\r\n𝐻\r\n6\r\nC\r\n2\r\n\t​\r\n\r\nH\r\n4\r\n\t​\r\n\r\n+H\r\n2\r\n\t​\r\n\r\nrightarrowC\r\n2\r\n\t​\r\n\r\nH\r\n6\r\n\t​\r\n\r\n."
 },
 {
 "q": "Which of the following is an amphoteric oxide?",
-"opts": ["
-𝑁
-𝑎
-2
-𝑂
-Na
-2
-	​
-
-O
-", "
-𝑀
-𝑔
-𝑂
-MgO
-", "
-𝐴
-𝑙
-2
-𝑂
-3
-Al
-2
-	​
-
-O
-3
-	​
-
-", "
-𝐶
-𝑂
-2
-CO
-2
-	​
-
-"],
+"opts": ["\r\n𝑁\r\n𝑎\r\n2\r\n𝑂\r\nNa\r\n2\r\n\t​\r\n\r\nO\r\n", "\r\n𝑀\r\n𝑔\r\n𝑂\r\nMgO\r\n", "\r\n𝐴\r\n𝑙\r\n2\r\n𝑂\r\n3\r\nAl\r\n2\r\n\t​\r\n\r\nO\r\n3\r\n\t​\r\n\r\n", "\r\n𝐶\r\n𝑂\r\n2\r\nCO\r\n2\r\n\t​\r\n\r\n"],
 "ans": 2,
 "explanation": "Amphoteric oxides can react with both acids and bases to form salts."
 },
@@ -1563,43 +270,10 @@ CO
 "explanation": "Brownian motion is the random movement of particles resulting from their collision with the fast-moving molecules of the fluid."
 },
 {
-"q": "An element with electronic configuration 
-1
-𝑠
-2
-2
-𝑠
-2
-2
-𝑝
-6
-3
-𝑠
-2
-3
-𝑝
-5
-1s
-2
-2s
-2
-2p
-6
-3s
-2
-3p
-5
- belongs to group _____.",
+"q": "An element with electronic configuration \r\n1\r\n𝑠\r\n2\r\n2\r\n𝑠\r\n2\r\n2\r\n𝑝\r\n6\r\n3\r\n𝑠\r\n2\r\n3\r\n𝑝\r\n5\r\n1s\r\n2\r\n2s\r\n2\r\n2p\r\n6\r\n3s\r\n2\r\n3p\r\n5\r\n belongs to group _____.",
 "opts": ["2", "5", "7", "17"],
 "ans": 2,
-"explanation": "The valence shell (3rd) has 
-2
-+
-5
-=
-7
-2+5=7
- electrons. Note: In modern numbering it is Group 17, but NECO often uses the IUPAC 'A' group notation (Group 7)."
+"explanation": "The valence shell (3rd) has \r\n2\r\n+\r\n5\r\n=\r\n7\r\n2+5=7\r\n electrons. Note: In modern numbering it is Group 17, but NECO often uses the IUPAC 'A' group notation (Group 7)."
 },
 {
 "q": "The process of coating iron with zinc to prevent rusting is _____.",
@@ -1614,22 +288,10 @@ CO
 "explanation": "Catalysts lower the activation energy of a reaction without being consumed."
 },
 {
-"q": "In the electrolysis of molten 
-𝑁
-𝑎
-𝐶
-𝑙
-NaCl
-, which substance is produced at the cathode?",
+"q": "In the electrolysis of molten \r\n𝑁\r\n𝑎\r\n𝐶\r\n𝑙\r\nNaCl\r\n, which substance is produced at the cathode?",
 "opts": ["Chlorine gas", "Sodium metal", "Hydrogen gas", "Oxygen gas"],
 "ans": 1,
-"explanation": "Sodium ions (
-𝑁
-𝑎
-+
-Na
-+
-) migrate to the cathode (negative electrode) where they gain electrons to form sodium metal."
+"explanation": "Sodium ions (\r\n𝑁\r\n𝑎\r\n+\r\nNa\r\n+\r\n) migrate to the cathode (negative electrode) where they gain electrons to form sodium metal."
 },
 {
 "q": "Which of the following is a property of a base?",
@@ -1645,59 +307,7 @@ Na
 },
 {
 "q": "Water gas is a mixture of _____.",
-"opts": ["
-𝐶
-𝑂
-CO
- and 
-𝐻
-2
-H
-2
-	​
-
-", "
-𝐶
-𝑂
-CO
- and 
-𝑁
-2
-N
-2
-	​
-
-", "
-𝐶
-𝑂
-2
-CO
-2
-	​
-
- and 
-𝐻
-2
-H
-2
-	​
-
-", "
-𝐶
-𝐻
-4
-CH
-4
-	​
-
- and 
-𝐻
-2
-H
-2
-	​
-
-"],
+"opts": ["\r\n𝐶\r\n𝑂\r\nCO\r\n and \r\n𝐻\r\n2\r\nH\r\n2\r\n\t​\r\n\r\n", "\r\n𝐶\r\n𝑂\r\nCO\r\n and \r\n𝑁\r\n2\r\nN\r\n2\r\n\t​\r\n\r\n", "\r\n𝐶\r\n𝑂\r\n2\r\nCO\r\n2\r\n\t​\r\n\r\n and \r\n𝐻\r\n2\r\nH\r\n2\r\n\t​\r\n\r\n", "\r\n𝐶\r\n𝐻\r\n4\r\nCH\r\n4\r\n\t​\r\n\r\n and \r\n𝐻\r\n2\r\nH\r\n2\r\n\t​\r\n\r\n"],
 "ans": 0,
 "explanation": "Water gas is produced by passing steam over red-hot coke."
 },
@@ -1705,103 +315,13 @@ H
 "q": "Which of the following is NOT an allotrope of carbon?",
 "opts": ["Diamond", "Graphite", "Fullerene", "Silica"],
 "ans": 3,
-"explanation": "Silica is 
-𝑆
-𝑖
-𝑂
-2
-SiO
-2
-	​
-
-, a compound of silicon and oxygen."
+"explanation": "Silica is \r\n𝑆\r\n𝑖\r\n𝑂\r\n2\r\nSiO\r\n2\r\n\t​\r\n\r\n, a compound of silicon and oxygen."
 },
 {
-"q": "Calculate the mass of 
-0.5
-0.5
- moles of 
-𝐶
-𝑎
-𝐶
-𝑂
-3
-CaCO
-3
-	​
-
-. [
-𝐶
-𝑎
-=
-40
-,
-𝐶
-=
-12
-,
-𝑂
-=
-16
-Ca=40,C=12,O=16
-]",
-"opts": ["
-50
-𝑔
-50g
-", "
-100
-𝑔
-100g
-", "
-40
-𝑔
-40g
-", "
-25
-𝑔
-25g
-"],
+"q": "Calculate the mass of \r\n0.5\r\n0.5\r\n moles of \r\n𝐶\r\n𝑎\r\n𝐶\r\n𝑂\r\n3\r\nCaCO\r\n3\r\n\t​\r\n\r\n. [\r\n𝐶\r\n𝑎\r\n=\r\n40\r\n,\r\n𝐶\r\n=\r\n12\r\n,\r\n𝑂\r\n=\r\n16\r\nCa=40,C=12,O=16\r\n]",
+"opts": ["\r\n50\r\n𝑔\r\n50g\r\n", "\r\n100\r\n𝑔\r\n100g\r\n", "\r\n40\r\n𝑔\r\n40g\r\n", "\r\n25\r\n𝑔\r\n25g\r\n"],
 "ans": 0,
-"explanation": "Molar mass 
-=
-40
-+
-12
-+
-(
-3
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-16
-)
-=
-100
-𝑔
-/
-𝑚
-𝑜
-𝑙
-=40+12+(3
-times16)=100g/mol
-. Mass 
-=
-0.5
-𝑡
-𝑖
-𝑚
-𝑒
-𝑠
-100
-=
-50
-𝑔
-=0.5
-times100=50g
-."
+"explanation": "Molar mass \r\n=\r\n40\r\n+\r\n12\r\n+\r\n(\r\n3\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n16\r\n)\r\n=\r\n100\r\n𝑔\r\n/\r\n𝑚\r\n𝑜\r\n𝑙\r\n=40+12+(3\r\ntimes16)=100g/mol\r\n. Mass \r\n=\r\n0.5\r\n𝑡\r\n𝑖\r\n𝑚\r\n𝑒\r\n𝑠\r\n100\r\n=\r\n50\r\n𝑔\r\n=0.5\r\ntimes100=50g\r\n."
 },
 {
 "q": "The kinetic theory of gases assumes that collisions between gas molecules are _____.",
@@ -1811,133 +331,27 @@ times100=50g
 },
 {
 "q": "The gas responsible for the 'rotten egg' smell is _____.",
-"opts": ["
-𝑆
-𝑂
-2
-SO
-2
-	​
-
-", "
-𝐻
-2
-𝑆
-H
-2
-	​
-
-S
-", "
-𝑁
-𝐻
-3
-NH
-3
-	​
-
-", "
-𝐶
-𝑂
-CO
-"],
+"opts": ["\r\n𝑆\r\n𝑂\r\n2\r\nSO\r\n2\r\n\t​\r\n\r\n", "\r\n𝐻\r\n2\r\n𝑆\r\nH\r\n2\r\n\t​\r\n\r\nS\r\n", "\r\n𝑁\r\n𝐻\r\n3\r\nNH\r\n3\r\n\t​\r\n\r\n", "\r\n𝐶\r\n𝑂\r\nCO\r\n"],
 "ans": 1,
-"explanation": "Hydrogen sulphide (
-𝐻
-2
-𝑆
-H
-2
-	​
-
-S
-) is a colorless gas with a very distinct foul odor of rotten eggs."
+"explanation": "Hydrogen sulphide (\r\n𝐻\r\n2\r\n𝑆\r\nH\r\n2\r\n\t​\r\n\r\nS\r\n) is a colorless gas with a very distinct foul odor of rotten eggs."
 },
 {
-"q": "In the reaction 
-𝐶
-(
-𝑠
-)
-+
-𝑂
-2
-(
-𝑔
-)
-𝑟
-𝑖
-𝑔
-ℎ
-𝑡
-𝑎
-𝑟
-𝑟
-𝑜
-𝑤
-𝐶
-𝑂
-2
-(
-𝑔
-)
-C(s)+O
-2
-	​
-
-(g)
-rightarrowCO
-2
-	​
-
-(g)
-, the enthalpy change is _____.",
+"q": "In the reaction \r\n𝐶\r\n(\r\n𝑠\r\n)\r\n+\r\n𝑂\r\n2\r\n(\r\n𝑔\r\n)\r\n𝑟\r\n𝑖\r\n𝑔\r\nℎ\r\n𝑡\r\n𝑎\r\n𝑟\r\n𝑟\r\n𝑜\r\n𝑤\r\n𝐶\r\n𝑂\r\n2\r\n(\r\n𝑔\r\n)\r\nC(s)+O\r\n2\r\n\t​\r\n\r\n(g)\r\nrightarrowCO\r\n2\r\n\t​\r\n\r\n(g)\r\n, the enthalpy change is _____.",
 "opts": ["Positive", "Negative", "Zero", "Not measurable"],
 "ans": 1,
-"explanation": "Combustion reactions are exothermic, meaning they release heat and have a negative 
-0
-˘
-394
-𝐻
-0
-˘
-394H
-."
+"explanation": "Combustion reactions are exothermic, meaning they release heat and have a negative \r\n0\r\n˘\r\n394\r\n𝐻\r\n0\r\n˘\r\n394H\r\n."
 },
 {
 "q": "Which of the following substances will conduct electricity in molten state only?",
 "opts": ["Graphite", "Lead", "Sodium chloride", "Mercury"],
 "ans": 2,
-"explanation": "
-𝑁
-𝑎
-𝐶
-𝑙
-NaCl
- is an ionic compound. In solid state, ions are fixed; in molten or aqueous state, they are free to move and conduct electricity."
+"explanation": "\r\n𝑁\r\n𝑎\r\n𝐶\r\n𝑙\r\nNaCl\r\n is an ionic compound. In solid state, ions are fixed; in molten or aqueous state, they are free to move and conduct electricity."
 },
 {
-"q": "The dehydration of ethanol with concentrated 
-𝐻
-2
-𝑆
-𝑂
-4
-H
-2
-	​
-
-SO
-4
-	​
-
- at 
- produces _____.",
+"q": "The dehydration of ethanol with concentrated \r\n𝐻\r\n2\r\n𝑆\r\n𝑂\r\n4\r\nH\r\n2\r\n\t​\r\n\r\nSO\r\n4\r\n\t​\r\n\r\n at \r\n produces _____.",
 "opts": ["Ethane", "Ethene", "Ethoxyethane", "Ethyne"],
 "ans": 1,
-"explanation": "At high temperatures (
-), ethanol undergoes dehydration to form ethene. (At 
-, it forms ether)."
+"explanation": "At high temperatures (\r\n), ethanol undergoes dehydration to form ethene. (At \r\n, it forms ether)."
 },
 {
 "q": "Which of the following is a primary cell?",
@@ -1946,73 +360,10 @@ SO
 "explanation": "Primary cells (like the Daniel cell or Leclanché cell) cannot be recharged. The others are secondary cells."
 },
 {
-"q": "The formula of the conjugate base of 
-𝐻
-2
-𝑆
-𝑂
-4
-H
-2
-	​
-
-SO
-4
-	​
-
- is _____.",
-"opts": ["
-𝑆
-𝑂
-4
-2
-−
-SO
-4
-2−
-	​
-
-", "
-𝐻
-𝑆
-𝑂
-4
-−
-HSO
-4
-−
-	​
-
-", "
-𝐻
-3
-𝑆
-𝑂
-4
-+
-H
-3
-	​
-
-SO
-4
-+
-	​
-
-", "
-𝑂
-𝐻
-−
-OH
-−
-"],
+"q": "The formula of the conjugate base of \r\n𝐻\r\n2\r\n𝑆\r\n𝑂\r\n4\r\nH\r\n2\r\n\t​\r\n\r\nSO\r\n4\r\n\t​\r\n\r\n is _____.",
+"opts": ["\r\n𝑆\r\n𝑂\r\n4\r\n2\r\n−\r\nSO\r\n4\r\n2−\r\n\t​\r\n\r\n", "\r\n𝐻\r\n𝑆\r\n𝑂\r\n4\r\n−\r\nHSO\r\n4\r\n−\r\n\t​\r\n\r\n", "\r\n𝐻\r\n3\r\n𝑆\r\n𝑂\r\n4\r\n+\r\nH\r\n3\r\n\t​\r\n\r\nSO\r\n4\r\n+\r\n\t​\r\n\r\n", "\r\n𝑂\r\n𝐻\r\n−\r\nOH\r\n−\r\n"],
 "ans": 1,
-"explanation": "A conjugate base is formed when an acid loses a proton (
-𝐻
-+
-H
-+
-)."
+"explanation": "A conjugate base is formed when an acid loses a proton (\r\n𝐻\r\n+\r\nH\r\n+\r\n)."
 },
 {
 "q": "The rate of a chemical reaction can be measured by _____.",
@@ -2024,18 +375,7 @@ H
 "q": "Which of the following is used in the manufacture of soap?",
 "opts": ["Ethanol", "Sodium hydroxide", "Hydrochloric acid", "Sodium chloride"],
 "ans": 1,
-"explanation": "Saponification is the hydrolysis of fats or oils with an alkali like 
-𝑁
-𝑎
-𝑂
-𝐻
-NaOH
- or 
-𝐾
-𝑂
-𝐻
-KOH
-."
+"explanation": "Saponification is the hydrolysis of fats or oils with an alkali like \r\n𝑁\r\n𝑎\r\n𝑂\r\n𝐻\r\nNaOH\r\n or \r\n𝐾\r\n𝑂\r\n𝐻\r\nKOH\r\n."
 },
 {
 "q": "The component of air used in the 'neon signs' is _____.",
@@ -2045,85 +385,15 @@ KOH
 },
 {
 "q": "The molecular formula for Benzene is _____.",
-"opts": ["
-𝐶
-6
-𝐻
-12
-C
-6
-	​
-
-H
-12
-	​
-
-", "
-𝐶
-6
-𝐻
-6
-C
-6
-	​
-
-H
-6
-	​
-
-", "
-𝐶
-2
-𝐻
-2
-C
-2
-	​
-
-H
-2
-	​
-
-", "
-𝐶
-6
-𝐻
-14
-C
-6
-	​
-
-H
-14
-	​
-
-"],
+"opts": ["\r\n𝐶\r\n6\r\n𝐻\r\n12\r\nC\r\n6\r\n\t​\r\n\r\nH\r\n12\r\n\t​\r\n\r\n", "\r\n𝐶\r\n6\r\n𝐻\r\n6\r\nC\r\n6\r\n\t​\r\n\r\nH\r\n6\r\n\t​\r\n\r\n", "\r\n𝐶\r\n2\r\n𝐻\r\n2\r\nC\r\n2\r\n\t​\r\n\r\nH\r\n2\r\n\t​\r\n\r\n", "\r\n𝐶\r\n6\r\n𝐻\r\n14\r\nC\r\n6\r\n\t​\r\n\r\nH\r\n14\r\n\t​\r\n\r\n"],
 "ans": 1,
-"explanation": "Benzene is a cyclic aromatic hydrocarbon with the formula 
-𝐶
-6
-𝐻
-6
-C
-6
-	​
-
-H
-6
-	​
-
-."
+"explanation": "Benzene is a cyclic aromatic hydrocarbon with the formula \r\n𝐶\r\n6\r\n𝐻\r\n6\r\nC\r\n6\r\n\t​\r\n\r\nH\r\n6\r\n\t​\r\n\r\n."
 },
 {
 "q": "Which of the following is a trihydric alkanol?",
 "opts": ["Ethanol", "Glycol", "Glycerol", "Phenol"],
 "ans": 2,
-"explanation": "Glycerol (Propane-1,2,3-triol) has three hydroxyl (
-−
-𝑂
-𝐻
-−OH
-) groups."
+"explanation": "Glycerol (Propane-1,2,3-triol) has three hydroxyl (\r\n−\r\n𝑂\r\n𝐻\r\n−OH\r\n) groups."
 },
 {
 "q": "The displacement of a halogen from its salt solution depends on its _____.",
@@ -2141,41 +411,12 @@ H
 "q": "The conversion of glucose into ethanol by yeast is catalyzed by the enzyme _____.",
 "opts": ["Amylase", "Zymase", "Invertase", "Maltase"],
 "ans": 1,
-"explanation": "Zymase is the enzyme complex in yeast that converts sugar into ethanol and 
-𝐶
-𝑂
-2
-CO
-2
-	​
-
-."
+"explanation": "Zymase is the enzyme complex in yeast that converts sugar into ethanol and \r\n𝐶\r\n𝑂\r\n2\r\nCO\r\n2\r\n\t​\r\n\r\n."
 },
 {
 "q": "According to Graham's law, the rate of diffusion of a gas is _____.",
 "opts": ["Directly proportional to its density", "Inversely proportional to its density", "Inversely proportional to the square root of its molar mass", "Independent of its temperature"],
 "ans": 2,
-"explanation": "
-𝑅
-𝑎
-𝑡
-𝑒
-𝑝
-𝑟
-𝑜
-𝑝
-𝑡
-𝑜
-1
-/
-𝑠
-𝑞
-𝑟
-𝑡
-𝑀
-Rate
-propto1/
-sqrtM
-. Lighter gases diffuse faster than heavier gases."
+"explanation": "\r\n𝑅\r\n𝑎\r\n𝑡\r\n𝑒\r\n𝑝\r\n𝑟\r\n𝑜\r\n𝑝\r\n𝑡\r\n𝑜\r\n1\r\n/\r\n𝑠\r\n𝑞\r\n𝑟\r\n𝑡\r\n𝑀\r\nRate\r\npropto1/\r\nsqrtM\r\n. Lighter gases diffuse faster than heavier gases."
 }
 ]

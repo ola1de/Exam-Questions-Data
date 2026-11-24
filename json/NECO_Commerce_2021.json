@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Fire insurance covers loss caused by:",
+    "opts": [
+      "theft",
+      "fire",
+      "accident",
+      "flood only"
+    ],
+    "ans": 1,
+    "explanation": "Fire policies pay for fire damage.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Aids to Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A salesman earns 10% commission on sales of ₦15,000. Find his commission.",
+    "opts": [
+      "₦3,000",
+      "₦1,700",
+      "₦1,500",
+      "₦13,500"
+    ],
+    "ans": 2,
+    "explanation": "Commission = 10% of 15000 = 1500.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Finance",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: an instruction to a bank to pay a fixed sum regularly to a named person?",
+    "opts": [
+      "a standing order",
+      "a savings account",
+      "a fixed deposit account",
+      "a current account"
+    ],
+    "ans": 0,
+    "explanation": "an instruction to a bank to pay a fixed sum regularly to a named person describes a standing order.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Banking, Transport and Marketing",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The document that allows goods to leave a country is the:",
+    "opts": [
+      "export licence",
+      "import licence",
+      "invoice",
+      "bill of lading"
+    ],
+    "ans": 0,
+    "explanation": "Export licences permit exports.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "International Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Indemnity in insurance means the insured is:",
+    "opts": [
+      "paid a profit",
+      "restored to the position before the loss",
+      "paid double the loss",
+      "not paid at all"
+    ],
+    "ans": 1,
+    "explanation": "Indemnity restores, not enriches.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Aids to Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a business owned by members who join voluntarily to serve their common interests?",
+    "opts": [
+      "a private limited company",
+      "a cooperative society",
+      "a sole proprietorship",
+      "a partnership"
+    ],
+    "ans": 1,
+    "explanation": "a business owned by members who join voluntarily to serve their common interests describes a cooperative society.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Business Organisations",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Customs duty is a tax on:",
+    "opts": [
+      "services only",
+      "local goods only",
+      "imported and exported goods",
+      "land"
+    ],
+    "ans": 2,
+    "explanation": "Customs duties are charged at the border.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "International Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Banking aids trade by:",
+    "opts": [
+      "providing money transfer and credit facilities",
+      "storing goods",
+      "moving goods",
+      "advertising goods"
+    ],
+    "ans": 0,
+    "explanation": "Banks handle payments and lend to traders.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Aids to Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes road transport?",
+    "opts": [
+      "a bank account in which money is kept for a fixed period at a fixed interest rate",
+      "a bank account that earns interest and is meant for saving",
+      "the most flexible means of transport, suitable for short distances",
+      "a bank account from which money can be withdrawn by cheque at any time"
+    ],
+    "ans": 2,
+    "explanation": "road transport is the most flexible means of transport, suitable for short distances.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Banking, Transport and Marketing",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes an export?",
+    "opts": [
+      "the buying and selling of goods between countries",
+      "a good sent out of a country to another country",
+      "the buying and selling of goods within a country",
+      "a good brought into a country from another country"
+    ],
+    "ans": 1,
+    "explanation": "an export is a good sent out of a country to another country.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Trade and Insurance",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Hire purchase allows a buyer to:",
+    "opts": [
+      "return goods always",
+      "borrow goods free",
+      "pay cash only",
+      "pay for goods in instalments while using them"
+    ],
+    "ans": 3,
+    "explanation": "Hire purchase spreads payment over time.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a standing order?",
+    "opts": [
+      "a bank account in which money is kept for a fixed period at a fixed interest rate",
+      "an instruction to a bank to pay a fixed sum regularly to a named person",
+      "a bank account that earns interest and is meant for saving",
+      "a bank account from which money can be withdrawn by cheque at any time"
+    ],
+    "ans": 1,
+    "explanation": "a standing order is an instruction to a bank to pay a fixed sum regularly to a named person.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Banking, Transport and Marketing",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a private limited company?",
+    "opts": [
+      "a business owned and controlled by one person",
+      "a company whose shares can be offered to the general public",
+      "a business owned by two or more people sharing profits and losses",
+      "a company whose shares cannot be offered to the general public"
+    ],
+    "ans": 3,
+    "explanation": "a private limited company is a company whose shares cannot be offered to the general public.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Business Organisations",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Warehousing helps trade by:",
+    "opts": [
+      "moving goods",
+      "paying for goods",
+      "advertising goods",
+      "storing goods until they are needed"
+    ],
+    "ans": 3,
+    "explanation": "Warehouses store goods and protect them.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Aids to Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A country that sells more than it buys has a:",
+    "opts": [
+      "favourable balance of trade",
+      "trade deficit",
+      "unfavourable balance of trade",
+      "budget deficit"
+    ],
+    "ans": 0,
+    "explanation": "Exports greater than imports is favourable.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "International Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Advertising helps trade by:",
+    "opts": [
+      "transporting goods",
+      "storing goods",
+      "informing and persuading consumers",
+      "insuring goods"
+    ],
+    "ans": 2,
+    "explanation": "Advertising creates awareness and demand.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Aids to Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A salesman earns 20% commission on sales of ₦5,000. Find his commission.",
+    "opts": [
+      "₦1,200",
+      "₦2,000",
+      "₦1,000",
+      "₦4,000"
+    ],
+    "ans": 2,
+    "explanation": "Commission = 20% of 5000 = 1000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Finance",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A trader gives a 15% trade discount on goods priced at ₦3,000. Find the discount.",
+    "opts": [
+      "₦900",
+      "₦450",
+      "₦550",
+      "₦2,550"
+    ],
+    "ans": 1,
+    "explanation": "Discount = 15% of 3000 = 450.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Finance",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Advertising through television is a form of:",
+    "opts": [
+      "sales promotion",
+      "public relations",
+      "personal selling",
+      "mass media advertising"
+    ],
+    "ans": 3,
+    "explanation": "TV reaches a mass audience.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Aids to Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Cash on delivery means payment is made:",
+    "opts": [
+      "before ordering",
+      "never",
+      "when the goods are delivered",
+      "after one year"
+    ],
+    "ans": 2,
+    "explanation": "COD: pay on delivery.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the fastest but most expensive means of transport?",
+    "opts": [
+      "air transport",
+      "a savings account",
+      "a current account",
+      "a fixed deposit account"
+    ],
+    "ans": 0,
+    "explanation": "the fastest but most expensive means of transport describes air transport.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Banking, Transport and Marketing",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the product?",
+    "opts": [
+      "the first element of the marketing mix, being the good or service offered",
+      "a bank account in which money is kept for a fixed period at a fixed interest rate",
+      "a bank account that earns interest and is meant for saving",
+      "a bank account from which money can be withdrawn by cheque at any time"
+    ],
+    "ans": 0,
+    "explanation": "the product is the first element of the marketing mix, being the good or service offered.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Banking, Transport and Marketing",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: an arrangement allowing a customer to withdraw more than the balance in the account?",
+    "opts": [
+      "a savings account",
+      "a fixed deposit account",
+      "an overdraft",
+      "a current account"
+    ],
+    "ans": 2,
+    "explanation": "an arrangement allowing a customer to withdraw more than the balance in the account describes an overdraft.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Banking, Transport and Marketing",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A savings account is opened mainly to:",
+    "opts": [
+      "pay bills only",
+      "trade shares",
+      "save money and earn interest",
+      "borrow money"
+    ],
+    "ans": 2,
+    "explanation": "Savings accounts encourage saving.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Finance",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a fixed deposit account?",
+    "opts": [
+      "a bank account in which money is kept for a fixed period at a fixed interest rate",
+      "an arrangement allowing a customer to withdraw more than the balance in the account",
+      "a bank account that earns interest and is meant for saving",
+      "a bank account from which money can be withdrawn by cheque at any time"
+    ],
+    "ans": 0,
+    "explanation": "a fixed deposit account is a bank account in which money is kept for a fixed period at a fixed interest rate.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Banking, Transport and Marketing",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a bill of lading?",
+    "opts": [
+      "a document issued to correct an overcharge on an invoice",
+      "a document acknowledging that payment has been received",
+      "a document issued by a shipping company acknowledging receipt of goods for shipment",
+      "a document sent by a seller to a buyer showing goods supplied and the amount due"
+    ],
+    "ans": 2,
+    "explanation": "a bill of lading is a document issued by a shipping company acknowledging receipt of goods for shipment.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Trade Documents",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The fastest means of transport for perishable goods over long distances is:",
+    "opts": [
+      "road transport",
+      "water transport",
+      "rail transport",
+      "air transport"
+    ],
+    "ans": 3,
+    "explanation": "Air is fastest, though costly.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Aids to Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes entrepot trade?",
+    "opts": [
+      "trade in which goods are imported and then re-exported",
+      "the buying and selling of goods between countries",
+      "a good brought into a country from another country",
+      "the buying and selling of goods within a country"
+    ],
+    "ans": 0,
+    "explanation": "entrepot trade is trade in which goods are imported and then re-exported.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Trade and Insurance",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes contribution?",
+    "opts": [
+      "the insurance principle that insurers share a loss when the same risk is insured with more than one insurer",
+      "the buying and selling of goods within a country",
+      "the buying and selling of goods between countries",
+      "a good brought into a country from another country"
+    ],
+    "ans": 0,
+    "explanation": "contribution is the insurance principle that insurers share a loss when the same risk is insured with more than one insurer.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Trade and Insurance",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A consumer's right to safety means goods sold should be:",
+    "opts": [
+      "advertised",
+      "safe for use",
+      "cheap",
+      "imported"
+    ],
+    "ans": 1,
+    "explanation": "Consumers have the right to safe products.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Consumer Protection",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A trader gives a 5% trade discount on goods priced at ₦5,000. Find the discount.",
+    "opts": [
+      "₦500",
+      "₦350",
+      "₦4,750",
+      "₦250"
+    ],
+    "ans": 3,
+    "explanation": "Discount = 5% of 5000 = 250.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Finance",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a partnership?",
+    "opts": [
+      "a business owned by two or more people sharing profits and losses",
+      "a company whose shares cannot be offered to the general public",
+      "a business owned and controlled by one person",
+      "a company whose shares can be offered to the general public"
+    ],
+    "ans": 0,
+    "explanation": "a partnership is a business owned by two or more people sharing profits and losses.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Business Organisations",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a sole proprietorship?",
+    "opts": [
+      "a company whose shares cannot be offered to the general public",
+      "a company whose shares can be offered to the general public",
+      "a business owned by two or more people sharing profits and losses",
+      "a business owned and controlled by one person"
+    ],
+    "ans": 3,
+    "explanation": "a sole proprietorship is a business owned and controlled by one person.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Business Organisations",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Commerce is concerned with:",
+    "opts": [
+      "the storage of goods only",
+      "the consumption of goods only",
+      "the distribution of goods and services",
+      "the production of goods only"
+    ],
+    "ans": 2,
+    "explanation": "Commerce covers trade and aids to trade that move goods from producers to consumers.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Commerce",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A bill of lading is a document used in:",
+    "opts": [
+      "road transport",
+      "rail transport",
+      "air transport",
+      "sea transport"
+    ],
+    "ans": 3,
+    "explanation": "The bill of lading is the shipping document.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "International Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a waybill?",
+    "opts": [
+      "a document sent by a seller to a buyer showing goods supplied and the amount due",
+      "a document that accompanies goods in transit and lists them",
+      "a document issued to correct an overcharge on an invoice",
+      "a document acknowledging that payment has been received"
+    ],
+    "ans": 1,
+    "explanation": "a waybill is a document that accompanies goods in transit and lists them.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Trade Documents",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes an overdraft?",
+    "opts": [
+      "a bank account in which money is kept for a fixed period at a fixed interest rate",
+      "a bank account that earns interest and is meant for saving",
+      "a bank account from which money can be withdrawn by cheque at any time",
+      "an arrangement allowing a customer to withdraw more than the balance in the account"
+    ],
+    "ans": 3,
+    "explanation": "an overdraft is an arrangement allowing a customer to withdraw more than the balance in the account.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Banking, Transport and Marketing",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A warehouse that stores goods before duty is paid is a:",
+    "opts": [
+      "cold store",
+      "bonded warehouse",
+      "public warehouse",
+      "private warehouse"
+    ],
+    "ans": 1,
+    "explanation": "Bonded warehouses hold dutiable goods.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Aids to Trade",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a good sent out of a country to another country?",
+    "opts": [
+      "home trade",
+      "an import",
+      "foreign trade",
+      "an export"
+    ],
+    "ans": 3,
+    "explanation": "a good sent out of a country to another country describes an export.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Trade and Insurance",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a credit note?",
+    "opts": [
+      "a document sent by a seller to a buyer showing goods supplied and the amount due",
+      "a document issued to correct an overcharge on an invoice",
+      "a document issued to correct an undercharge on an invoice",
+      "a document acknowledging that payment has been received"
+    ],
+    "ans": 1,
+    "explanation": "a credit note is a document issued to correct an overcharge on an invoice.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Trade Documents",
+    "adapted_from": "Repo JAMB_Commerce_2024.json / NECO_Commerce_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

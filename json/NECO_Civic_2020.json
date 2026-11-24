@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The three tiers of government in Nigeria are federal, state and:",
+    "opts": [
+      "regional",
+      "military",
+      "local",
+      "traditional"
+    ],
+    "ans": 2,
+    "explanation": "Nigeria has federal, state and local tiers.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Structure of Government",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Zebra crossings are for:",
+    "opts": [
+      "pedestrians",
+      "vehicles",
+      "cyclists only",
+      "animals"
+    ],
+    "ans": 0,
+    "explanation": "Pedestrians cross at zebra crossings.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Traffic Rules",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The two horses on Nigeria's coat of arms represent:",
+    "opts": [
+      "dignity",
+      "agriculture",
+      "peace",
+      "strength"
+    ],
+    "ans": 0,
+    "explanation": "The horses symbolise dignity.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "National Identity",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The agency that fights human trafficking in Nigeria is:",
+    "opts": [
+      "NAPTIP",
+      "FRSC",
+      "EFCC",
+      "NDLEA"
+    ],
+    "ans": 0,
+    "explanation": "NAPTIP is the National Agency for the Prohibition of Trafficking in Persons.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Human Trafficking",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes dual citizenship?",
+    "opts": [
+      "citizenship granted to an alien after long residence and fulfilment of conditions",
+      "citizenship acquired by being born in a country or to parents who are citizens",
+      "citizenship granted to a person who applies and meets stated conditions",
+      "the status of being a citizen of two countries at the same time"
+    ],
+    "ans": 3,
+    "explanation": "dual citizenship is the status of being a citizen of two countries at the same time.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A problem of democracy in Nigeria is:",
+    "opts": [
+      "press freedom",
+      "electoral malpractice",
+      "free elections",
+      "rule of law"
+    ],
+    "ans": 1,
+    "explanation": "Rigging and violence weaken democracy.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Democracy",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One pillar of democracy is the:",
+    "opts": [
+      "rule of the military",
+      "rule of tradition only",
+      "rule of law",
+      "rule of the rich"
+    ],
+    "ans": 2,
+    "explanation": "The rule of law is a pillar of democracy.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Democracy",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "National consciousness means:",
+    "opts": [
+      "hatred of other nations",
+      "ignorance of history",
+      "awareness of belonging to one nation",
+      "loyalty to one's village only"
+    ],
+    "ans": 2,
+    "explanation": "It is the sense of shared national identity.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the right to hold and express opinions without interference?",
+    "opts": [
+      "freedom of religion",
+      "freedom of expression",
+      "the right to life",
+      "freedom of movement"
+    ],
+    "ans": 1,
+    "explanation": "the right to hold and express opinions without interference describes freedom of expression.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes freedom of movement?",
+    "opts": [
+      "the fundamental right of every person not to be unlawfully killed",
+      "the right to hold and express opinions without interference",
+      "the right to move freely within a country and to leave and return to it",
+      "the right to practise any religion of one's choice"
+    ],
+    "ans": 2,
+    "explanation": "freedom of movement is the right to move freely within a country and to leave and return to it.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: citizenship granted to an alien after long residence and fulfilment of conditions?",
+    "opts": [
+      "citizenship by registration",
+      "citizenship by naturalisation",
+      "citizenship by birth",
+      "dual citizenship"
+    ],
+    "ans": 1,
+    "explanation": "citizenship granted to an alien after long residence and fulfilment of conditions describes citizenship by naturalisation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The black shield on Nigeria's coat of arms represents:",
+    "opts": [
+      "the people",
+      "the rivers",
+      "Nigeria's fertile soil",
+      "the forests"
+    ],
+    "ans": 2,
+    "explanation": "The black shield stands for the fertile soil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "National Identity",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Citizenship education teaches people their:",
+    "opts": [
+      "religion only",
+      "wealth and power",
+      "history only",
+      "rights and duties"
+    ],
+    "ans": 3,
+    "explanation": "It prepares citizens to participate responsibly.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the love and loyalty a citizen shows to his or her country?",
+    "opts": [
+      "honesty",
+      "discipline",
+      "integrity",
+      "patriotism"
+    ],
+    "ans": 3,
+    "explanation": "the love and loyalty a citizen shows to his or her country describes patriotism.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The flower on Nigeria's coat of arms is the:",
+    "opts": [
+      "sunflower",
+      "rose",
+      "Costus spectabilis (national flower)",
+      "hibiscus"
+    ],
+    "ans": 2,
+    "explanation": "The Costus spectabilis is at the base of the coat of arms.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "National Identity",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the judiciary?",
+    "opts": [
+      "the scheme that requires Nigerian graduates to serve the nation for one year",
+      "the agency that investigates and prosecutes economic and financial crimes",
+      "the arm of government that interprets the law and settles disputes",
+      "the body responsible for maintaining law and order"
+    ],
+    "ans": 2,
+    "explanation": "the judiciary is the arm of government that interprets the law and settles disputes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Institutions and Governance",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the status of being a citizen of two countries at the same time?",
+    "opts": [
+      "dual citizenship",
+      "citizenship by naturalisation",
+      "citizenship by registration",
+      "citizenship by birth"
+    ],
+    "ans": 0,
+    "explanation": "the status of being a citizen of two countries at the same time describes dual citizenship.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The 'Y' shape on Nigeria's coat of arms represents the:",
+    "opts": [
+      "railways of Nigeria",
+      "borders of Nigeria",
+      "confluence of the Niger and Benue rivers",
+      "roads of Nigeria"
+    ],
+    "ans": 2,
+    "explanation": "The Y shape is the meeting of the Niger and Benue.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "National Identity",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Self-reliance means depending on:",
+    "opts": [
+      "parents only",
+      "government only",
+      "others always",
+      "oneself"
+    ],
+    "ans": 3,
+    "explanation": "Self-reliance is independence.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Values",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Tolerance means:",
+    "opts": [
+      "accepting people with different views",
+      "agreeing with everyone",
+      "ignoring everyone",
+      "fighting others"
+    ],
+    "ans": 0,
+    "explanation": "Tolerance is respecting differences.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Interpersonal Relations",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The head of a local government is the:",
+    "opts": [
+      "president",
+      "chairman",
+      "governor",
+      "senator"
+    ],
+    "ans": 1,
+    "explanation": "The chairman heads the local government council.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Structure of Government",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does FRSC stand for?",
+    "opts": [
+      "Economic and Financial Crimes Commission",
+      "Federal Road Safety Corps",
+      "National Drug Law Enforcement Agency",
+      "Independent Corrupt Practices and Other Related Offences Commission"
+    ],
+    "ans": 1,
+    "explanation": "FRSC stands for Federal Road Safety Corps.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One importance of values in society is that they:",
+    "opts": [
+      "encourage crime",
+      "divide people",
+      "cause conflict",
+      "promote order and good conduct"
+    ],
+    "ans": 3,
+    "explanation": "Shared values hold society together.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Values",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One type of constituted authority is:",
+    "opts": [
+      "gang authority",
+      "traditional authority",
+      "rebel authority",
+      "military authority"
+    ],
+    "ans": 1,
+    "explanation": "Traditional, political and religious authorities are constituted authorities.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Law and Order",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The head of a state government is the:",
+    "opts": [
+      "governor",
+      "chairman",
+      "minister",
+      "president"
+    ],
+    "ans": 0,
+    "explanation": "The governor heads the state executive.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Structure of Government",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the regulations that guide the safe use of roads?",
+    "opts": [
+      "cultism",
+      "examination malpractice",
+      "drug abuse",
+      "traffic rules"
+    ],
+    "ans": 3,
+    "explanation": "the regulations that guide the safe use of roads describes traffic rules.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Social Issues",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a civic duty requiring citizens to keep the laws of the land?",
+    "opts": [
+      "freedom of movement",
+      "freedom of expression",
+      "obeying the law",
+      "the right to life"
+    ],
+    "ans": 2,
+    "explanation": "a civic duty requiring citizens to keep the laws of the land describes obeying the law.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "NEMA responds to:",
+    "opts": [
+      "taxes",
+      "elections",
+      "education",
+      "emergencies and disasters"
+    ],
+    "ans": 3,
+    "explanation": "NEMA manages disaster response.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes tolerance?",
+    "opts": [
+      "the value of being truthful and sincere",
+      "the value of self-control and obedience to rules",
+      "the value of accepting the views and beliefs of others",
+      "the value of being upright and consistent in moral principles"
+    ],
+    "ans": 2,
+    "explanation": "tolerance is the value of accepting the views and beliefs of others.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One feature of democracy is:",
+    "opts": [
+      "military rule",
+      "censorship",
+      "one-party rule",
+      "free and fair elections"
+    ],
+    "ans": 3,
+    "explanation": "Elections let the people choose leaders.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Democracy",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A free press is important in a democracy because it:",
+    "opts": [
+      "informs the public and checks power",
+      "praises the government",
+      "supports one party",
+      "hides information"
+    ],
+    "ans": 0,
+    "explanation": "A free press holds leaders accountable.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Democracy",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the green-white-green symbol of Nigeria?",
+    "opts": [
+      "integrity",
+      "honesty",
+      "discipline",
+      "the national flag"
+    ],
+    "ans": 3,
+    "explanation": "the green-white-green symbol of Nigeria describes the national flag.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A good citizen should:",
+    "opts": [
+      "break laws",
+      "obey the laws of the land",
+      "ignore elections",
+      "avoid taxes"
+    ],
+    "ans": 1,
+    "explanation": "Good citizens obey laws and pay taxes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Citizenship",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does ICPC stand for?",
+    "opts": [
+      "Independent Corrupt Practices and Other Related Offences Commission",
+      "National Drug Law Enforcement Agency",
+      "National Agency for the Prohibition of Trafficking in Persons",
+      "Economic and Financial Crimes Commission"
+    ],
+    "ans": 0,
+    "explanation": "ICPC stands for Independent Corrupt Practices and Other Related Offences Commission.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: cheating or other dishonest conduct in examinations?",
+    "opts": [
+      "examination malpractice",
+      "cultism",
+      "drug abuse",
+      "corruption"
+    ],
+    "ans": 0,
+    "explanation": "cheating or other dishonest conduct in examinations describes examination malpractice.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Social Issues",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the national symbol bearing an eagle, horses and the motto 'Unity and Faith, Peace and Progress'?",
+    "opts": [
+      "the coat of arms",
+      "honesty",
+      "integrity",
+      "discipline"
+    ],
+    "ans": 0,
+    "explanation": "the national symbol bearing an eagle, horses and the motto 'Unity and Faith, Peace and Progress' describes the coat of arms.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Drug addiction can be treated through:",
+    "opts": [
+      "punishment only",
+      "rehabilitation",
+      "isolation only",
+      "ignoring it"
+    ],
+    "ans": 1,
+    "explanation": "Rehabilitation helps addicts recover.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Drug Abuse",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the right to practise any religion of one's choice?",
+    "opts": [
+      "freedom of movement",
+      "freedom of religion",
+      "the right to life",
+      "freedom of expression"
+    ],
+    "ans": 1,
+    "explanation": "the right to practise any religion of one's choice describes freedom of religion.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A court is a place where:",
+    "opts": [
+      "elections are held",
+      "justice is administered",
+      "laws are made",
+      "taxes are collected"
+    ],
+    "ans": 1,
+    "explanation": "Courts interpret laws and settle disputes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Law and Order",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The right to education means every child should have access to:",
+    "opts": [
+      "land",
+      "wealth",
+      "employment",
+      "schooling"
+    ],
+    "ans": 3,
+    "explanation": "Education is a right of the child.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Human Rights",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

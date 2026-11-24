@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The young of a cow is called a:",
+    "opts": [
+      "calf",
+      "piglet",
+      "kid",
+      "lamb"
+    ],
+    "ans": 0,
+    "explanation": "A young cow is a calf.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the period between mating and birth in animals?",
+    "opts": [
+      "gestation",
+      "mixed cropping",
+      "intercropping",
+      "crop rotation"
+    ],
+    "ans": 0,
+    "explanation": "the period between mating and birth in animals describes gestation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes crop rotation?",
+    "opts": [
+      "the practice of growing two crops together with one as the main crop",
+      "the practice of growing two or more crops on the same land at the same time",
+      "the practice of growing different crops on the same land in successive seasons",
+      "the artificial application of water to farmland"
+    ],
+    "ans": 2,
+    "explanation": "crop rotation is the practice of growing different crops on the same land in successive seasons.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Thinning is the removal of:",
+    "opts": [
+      "old plants",
+      "weeds only",
+      "flowers",
+      "excess seedlings"
+    ],
+    "ans": 3,
+    "explanation": "Thinning leaves the right spacing.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Docking in sheep is the removal of the:",
+    "opts": [
+      "ear",
+      "leg",
+      "tail",
+      "horn"
+    ],
+    "ans": 2,
+    "explanation": "Docking shortens the tail.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a farm tool used for clearing bushes and harvesting?",
+    "opts": [
+      "intercropping",
+      "mixed cropping",
+      "a cutlass",
+      "crop rotation"
+    ],
+    "ans": 2,
+    "explanation": "a farm tool used for clearing bushes and harvesting describes a cutlass.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the practice of growing two crops together with one as the main crop?",
+    "opts": [
+      "irrigation",
+      "crop rotation",
+      "mixed cropping",
+      "intercropping"
+    ],
+    "ans": 3,
+    "explanation": "the practice of growing two crops together with one as the main crop describes intercropping.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a hoe?",
+    "opts": [
+      "a farm tool used for tilling and weeding",
+      "the practice of growing two or more crops on the same land at the same time",
+      "the practice of growing different crops on the same land in successive seasons",
+      "the practice of growing two crops together with one as the main crop"
+    ],
+    "ans": 0,
+    "explanation": "a hoe is a farm tool used for tilling and weeding.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Groundnut is an example of a legume crop. Which group does groundnut belong to?",
+    "opts": [
+      "legume",
+      "fibre crop",
+      "root/tuber",
+      "cereal"
+    ],
+    "ans": 0,
+    "explanation": "Groundnut is classified as a legume.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Trypanosomiasis in cattle is transmitted by the:",
+    "opts": [
+      "tsetse fly",
+      "housefly",
+      "mosquito",
+      "tick"
+    ],
+    "ans": 0,
+    "explanation": "The tsetse fly spreads trypanosomiasis (sleeping sickness in animals).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes fish farming?",
+    "opts": [
+      "a viral disease of poultry that causes heavy losses",
+      "the rearing of fish in ponds, also called aquaculture",
+      "livestock kept for beef, milk and draught purposes",
+      "birds such as chickens kept for eggs and meat"
+    ],
+    "ans": 1,
+    "explanation": "fish farming is the rearing of fish in ponds, also called aquaculture.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Livestock, Diseases and Pests",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Humus in the soil improves its:",
+    "opts": [
+      "colour only",
+      "fertility and water-holding capacity",
+      "temperature",
+      "acidity"
+    ],
+    "ans": 1,
+    "explanation": "Humus adds nutrients and improves soil structure.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a soil with large particles, good drainage and poor water retention?",
+    "opts": [
+      "humus",
+      "sandy soil",
+      "clay soil",
+      "loamy soil"
+    ],
+    "ans": 1,
+    "explanation": "a soil with large particles, good drainage and poor water retention describes sandy soil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Soil",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The best water for fish farming is:",
+    "opts": [
+      "dirty water",
+      "salty water only",
+      "hot water",
+      "clean, oxygen-rich water"
+    ],
+    "ans": 3,
+    "explanation": "Fish need clean, oxygenated water.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Fisheries",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A farm manager is responsible for:",
+    "opts": [
+      "buying tractors only",
+      "counting animals only",
+      "selling farm land",
+      "planning and supervising farm operations"
+    ],
+    "ans": 3,
+    "explanation": "The manager plans, organises and controls the farm.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "General Agriculture",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes intercropping?",
+    "opts": [
+      "the practice of growing two or more crops on the same land at the same time",
+      "the practice of growing two crops together with one as the main crop",
+      "the practice of growing different crops on the same land in successive seasons",
+      "the artificial application of water to farmland"
+    ],
+    "ans": 1,
+    "explanation": "intercropping is the practice of growing two crops together with one as the main crop.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Fish feed mainly on:",
+    "opts": [
+      "soil",
+      "leaves only",
+      "plankton and formulated feed",
+      "grass only"
+    ],
+    "ans": 2,
+    "explanation": "Fish eat plankton and prepared feed.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Fisheries",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Mulching is the covering of soil with:",
+    "opts": [
+      "plant materials to conserve moisture",
+      "fertiliser",
+      "stones only",
+      "pesticides"
+    ],
+    "ans": 0,
+    "explanation": "Mulch reduces evaporation and weed growth.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes dehorning?",
+    "opts": [
+      "the practice of growing two or more crops on the same land at the same time",
+      "the practice of growing different crops on the same land in successive seasons",
+      "the practice of growing two crops together with one as the main crop",
+      "the removal of the horns of farm animals"
+    ],
+    "ans": 3,
+    "explanation": "dehorning is the removal of the horns of farm animals.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a root crop from which garri and starch are made?",
+    "opts": [
+      "maize",
+      "millet",
+      "rice",
+      "cassava"
+    ],
+    "ans": 3,
+    "explanation": "a root crop from which garri and starch are made describes cassava.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The young of a goat is called a:",
+    "opts": [
+      "lamb",
+      "kid",
+      "piglet",
+      "calf"
+    ],
+    "ans": 1,
+    "explanation": "A young goat is a kid.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A wheelbarrow is used for:",
+    "opts": [
+      "tilling and weeding soil",
+      "carrying loads",
+      "levelling soil and gathering leaves",
+      "cutting weeds and clearing bush"
+    ],
+    "ans": 1,
+    "explanation": "A wheelbarrow is used for carrying loads.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agricultural Technology",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Plantain is an example of a fruit crop crop. Which group does plantain belong to?",
+    "opts": [
+      "fruit crop",
+      "cereal",
+      "root/tuber",
+      "legume"
+    ],
+    "ans": 0,
+    "explanation": "Plantain is classified as a fruit crop.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes cassava?",
+    "opts": [
+      "a cereal crop that grows well in dry areas",
+      "a cereal crop grown mainly in swampy areas",
+      "a root crop from which garri and starch are made",
+      "a cereal crop used as food for man and feed for livestock"
+    ],
+    "ans": 2,
+    "explanation": "cassava is a root crop from which garri and starch are made.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Crops",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Vaccination protects animals against:",
+    "opts": [
+      "cold",
+      "thirst",
+      "disease",
+      "hunger"
+    ],
+    "ans": 2,
+    "explanation": "Vaccines build immunity to disease.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Yam is propagated by:",
+    "opts": [
+      "seeds",
+      "seed yam (setts)",
+      "cuttings",
+      "suckers"
+    ],
+    "ans": 1,
+    "explanation": "Yam is planted from pieces of tuber called setts.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The implement used to turn over soil is the:",
+    "opts": [
+      "sprayer",
+      "planter",
+      "plough",
+      "harrow"
+    ],
+    "ans": 2,
+    "explanation": "The plough inverts the soil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agricultural Technology",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The process of giving birth in sheep is called:",
+    "opts": [
+      "calving",
+      "lambing",
+      "farrowing",
+      "kidding"
+    ],
+    "ans": 1,
+    "explanation": "Lambing is birth in sheep.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The process of giving birth in pigs is called:",
+    "opts": [
+      "lambing",
+      "kidding",
+      "calving",
+      "farrowing"
+    ],
+    "ans": 3,
+    "explanation": "Farrowing is birth in pigs.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Agriculture is the art and science of:",
+    "opts": [
+      "mining minerals",
+      "manufacturing goods",
+      "fishing only",
+      "cultivating crops and rearing animals"
+    ],
+    "ans": 3,
+    "explanation": "Agriculture covers crop and animal production.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "General Agriculture",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a disease of poultry caused by a protozoan parasite?",
+    "opts": [
+      "poultry",
+      "cattle",
+      "coccidiosis",
+      "fish farming"
+    ],
+    "ans": 2,
+    "explanation": "a disease of poultry caused by a protozoan parasite describes coccidiosis.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Livestock, Diseases and Pests",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The process of giving birth in cattle is called:",
+    "opts": [
+      "kidding",
+      "calving",
+      "farrowing",
+      "lambing"
+    ],
+    "ans": 1,
+    "explanation": "Calving is birth in cattle.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Animal Production",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: an insect pest that feeds on the leaves of crops in large numbers?",
+    "opts": [
+      "fish farming",
+      "poultry",
+      "cattle",
+      "the armyworm"
+    ],
+    "ans": 3,
+    "explanation": "an insect pest that feeds on the leaves of crops in large numbers describes the armyworm.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Livestock, Diseases and Pests",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A machete is used for:",
+    "opts": [
+      "levelling soil and gathering leaves",
+      "cutting bush",
+      "tilling and weeding soil",
+      "cutting weeds and clearing bush"
+    ],
+    "ans": 1,
+    "explanation": "A machete is used for cutting bush.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agricultural Technology",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The implement used to break soil clods after ploughing is the:",
+    "opts": [
+      "harrow",
+      "plough",
+      "planter",
+      "ridger"
+    ],
+    "ans": 0,
+    "explanation": "Harrowing breaks clods and levels the soil.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agricultural Technology",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the dark organic matter in soil formed from decayed plants and animals?",
+    "opts": [
+      "sandy soil",
+      "clay soil",
+      "humus",
+      "loamy soil"
+    ],
+    "ans": 2,
+    "explanation": "the dark organic matter in soil formed from decayed plants and animals describes humus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Soil",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a tractor?",
+    "opts": [
+      "the practice of growing two or more crops on the same land at the same time",
+      "the practice of growing two crops together with one as the main crop",
+      "a farm machine used for ploughing and pulling implements",
+      "the practice of growing different crops on the same land in successive seasons"
+    ],
+    "ans": 2,
+    "explanation": "a tractor is a farm machine used for ploughing and pulling implements.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Farming Practices and Animal Husbandry",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the stem borer?",
+    "opts": [
+      "an insect pest that bores into the stems of cereal crops",
+      "the rearing of fish in ponds, also called aquaculture",
+      "birds such as chickens kept for eggs and meat",
+      "livestock kept for beef, milk and draught purposes"
+    ],
+    "ans": 0,
+    "explanation": "the stem borer is an insect pest that bores into the stems of cereal crops.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Livestock, Diseases and Pests",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes loamy soil?",
+    "opts": [
+      "the best soil for farming, with a balance of sand, silt and clay",
+      "a soil with tiny particles, poor drainage and good water retention",
+      "a soil with large particles, good drainage and poor water retention",
+      "the dark organic matter in soil formed from decayed plants and animals"
+    ],
+    "ans": 0,
+    "explanation": "loamy soil is the best soil for farming, with a balance of sand, silt and clay.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Soil",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Cassava is propagated by:",
+    "opts": [
+      "seeds",
+      "tubers",
+      "suckers",
+      "stem cuttings"
+    ],
+    "ans": 3,
+    "explanation": "Cassava is planted from stem cuttings.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Agronomy",
+    "adapted_from": "Repo JAMB_Agric_2024.json / NECO_Agric_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

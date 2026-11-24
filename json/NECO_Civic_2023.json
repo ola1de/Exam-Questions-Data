@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Which of these best describes the national flag?",
+    "opts": [
+      "the value of self-control and obedience to rules",
+      "the green-white-green symbol of Nigeria",
+      "the value of being truthful and sincere",
+      "the value of being upright and consistent in moral principles"
+    ],
+    "ans": 1,
+    "explanation": "the national flag is the green-white-green symbol of Nigeria.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the fundamental right of every person not to be unlawfully killed?",
+    "opts": [
+      "freedom of movement",
+      "freedom of expression",
+      "freedom of religion",
+      "the right to life"
+    ],
+    "ans": 3,
+    "explanation": "the fundamental right of every person not to be unlawfully killed describes the right to life.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes paying tax?",
+    "opts": [
+      "the fundamental right of every person not to be unlawfully killed",
+      "the right to hold and express opinions without interference",
+      "the right to move freely within a country and to leave and return to it",
+      "a civic duty by which citizens contribute to government revenue"
+    ],
+    "ans": 3,
+    "explanation": "paying tax is a civic duty by which citizens contribute to government revenue.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Drug abuse is the:",
+    "opts": [
+      "use of herbal drugs",
+      "use of drugs by doctors",
+      "use of drugs in a harmful way",
+      "use of prescribed drugs"
+    ],
+    "ans": 2,
+    "explanation": "Abuse is taking drugs without medical need or in excess.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Drug Abuse",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One limitation of human rights is:",
+    "opts": [
+      "age only",
+      "the rights of others",
+      "education",
+      "wealth"
+    ],
+    "ans": 1,
+    "explanation": "Rights are limited where they infringe others' rights.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Human Rights",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: programmes that give young people skills and opportunities to be self-reliant?",
+    "opts": [
+      "examination malpractice",
+      "drug abuse",
+      "youth empowerment",
+      "cultism"
+    ],
+    "ans": 2,
+    "explanation": "programmes that give young people skills and opportunities to be self-reliant describes youth empowerment.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Social Issues",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The NYSC was established in:",
+    "opts": [
+      "1973",
+      "1999",
+      "1979",
+      "1960"
+    ],
+    "ans": 0,
+    "explanation": "The NYSC was created in 1973 to promote national unity.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the national pledge?",
+    "opts": [
+      "the value of being upright and consistent in moral principles",
+      "the value of self-control and obedience to rules",
+      "the value of being truthful and sincere",
+      "the promise of loyalty recited by Nigerians to their country"
+    ],
+    "ans": 3,
+    "explanation": "the national pledge is the promise of loyalty recited by Nigerians to their country.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the right to move freely within a country and to leave and return to it?",
+    "opts": [
+      "freedom of movement",
+      "freedom of expression",
+      "the right to life",
+      "freedom of religion"
+    ],
+    "ans": 0,
+    "explanation": "the right to move freely within a country and to leave and return to it describes freedom of movement.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Good interpersonal relations require:",
+    "opts": [
+      "arrogance",
+      "selfishness",
+      "respect and tolerance",
+      "dishonesty"
+    ],
+    "ans": 2,
+    "explanation": "Respect and tolerance build good relationships.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Interpersonal Relations",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the abuse of public office for private gain?",
+    "opts": [
+      "cultism",
+      "corruption",
+      "drug abuse",
+      "examination malpractice"
+    ],
+    "ans": 1,
+    "explanation": "the abuse of public office for private gain describes corruption.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Social Issues",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the EFCC?",
+    "opts": [
+      "the body responsible for maintaining law and order",
+      "the agency that investigates and prosecutes economic and financial crimes",
+      "the scheme that requires Nigerian graduates to serve the nation for one year",
+      "the arm of government that interprets the law and settles disputes"
+    ],
+    "ans": 1,
+    "explanation": "the EFCC is the agency that investigates and prosecutes economic and financial crimes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Institutions and Governance",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The opposition in a democracy:",
+    "opts": [
+      "rules the country",
+      "has no role",
+      "supports everything",
+      "criticises and checks the government"
+    ],
+    "ans": 3,
+    "explanation": "The opposition provides an alternative.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Democracy",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Universal Declaration of Human Rights was adopted in:",
+    "opts": [
+      "1948",
+      "1945",
+      "1919",
+      "1960"
+    ],
+    "ans": 0,
+    "explanation": "The UDHR was adopted by the UN in 1948.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Human Rights",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes voting?",
+    "opts": [
+      "a civic duty by which citizens choose their leaders",
+      "the right to hold and express opinions without interference",
+      "the fundamental right of every person not to be unlawfully killed",
+      "the right to move freely within a country and to leave and return to it"
+    ],
+    "ans": 0,
+    "explanation": "voting is a civic duty by which citizens choose their leaders.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A mediator is a person who:",
+    "opts": [
+      "starts a fight",
+      "takes sides",
+      "avoids disputes",
+      "helps parties settle a dispute"
+    ],
+    "ans": 3,
+    "explanation": "Mediators are neutral peacemakers.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Interpersonal Relations",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the value of working together for a common purpose?",
+    "opts": [
+      "honesty",
+      "integrity",
+      "discipline",
+      "cooperation"
+    ],
+    "ans": 3,
+    "explanation": "the value of working together for a common purpose describes cooperation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A yellow (amber) traffic light means:",
+    "opts": [
+      "go at full speed",
+      "stop at once always",
+      "get ready to stop or go",
+      "reverse"
+    ],
+    "ans": 2,
+    "explanation": "Amber means prepare to stop (or proceed with caution where allowed).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Traffic Rules",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The white in the Nigerian flag represents:",
+    "opts": [
+      "the rivers",
+      "peace and unity",
+      "strength",
+      "agriculture"
+    ],
+    "ans": 1,
+    "explanation": "White stands for peace and unity.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "National Identity",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the harmful use of drugs without medical advice?",
+    "opts": [
+      "drug abuse",
+      "corruption",
+      "cultism",
+      "examination malpractice"
+    ],
+    "ans": 0,
+    "explanation": "the harmful use of drugs without medical advice describes drug abuse.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Social Issues",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the coat of arms?",
+    "opts": [
+      "the value of being upright and consistent in moral principles",
+      "the value of being truthful and sincere",
+      "the national symbol bearing an eagle, horses and the motto 'Unity and Faith, Peace and Progress'",
+      "the value of self-control and obedience to rules"
+    ],
+    "ans": 2,
+    "explanation": "the coat of arms is the national symbol bearing an eagle, horses and the motto 'Unity and Faith, Peace and Progress'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One cause of drug abuse among youths is:",
+    "opts": [
+      "good parenting",
+      "employment",
+      "peer pressure",
+      "education"
+    ],
+    "ans": 2,
+    "explanation": "Peer pressure pushes youths into drug use.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Drug Abuse",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Education contributes to national development by:",
+    "opts": [
+      "increasing population",
+      "reducing taxes",
+      "building roads only",
+      "producing skilled manpower"
+    ],
+    "ans": 3,
+    "explanation": "Education builds human capital.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "National Development",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A driver must wear a:",
+    "opts": [
+      "cap",
+      "seat belt",
+      "glove",
+      "helmet only"
+    ],
+    "ans": 1,
+    "explanation": "Seat belts save lives.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Traffic Rules",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Freedom of speech is a:",
+    "opts": [
+      "civil right",
+      "economic right",
+      "cultural right",
+      "social right"
+    ],
+    "ans": 0,
+    "explanation": "It is a civil and political right.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Human Rights",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the national anthem?",
+    "opts": [
+      "the song that expresses the ideals and aspirations of a nation",
+      "the value of self-control and obedience to rules",
+      "the value of being truthful and sincere",
+      "the value of being upright and consistent in moral principles"
+    ],
+    "ans": 0,
+    "explanation": "the national anthem is the song that expresses the ideals and aspirations of a nation.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the value of being upright and consistent in moral principles?",
+    "opts": [
+      "honesty",
+      "integrity",
+      "discipline",
+      "cooperation"
+    ],
+    "ans": 1,
+    "explanation": "the value of being upright and consistent in moral principles describes integrity.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The EFCC fights:",
+    "opts": [
+      "human trafficking",
+      "road accidents",
+      "drug trafficking",
+      "economic and financial crimes"
+    ],
+    "ans": 3,
+    "explanation": "The EFCC investigates financial crimes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The ICPC fights:",
+    "opts": [
+      "corruption in public offices",
+      "drug abuse",
+      "road accidents",
+      "election fraud only"
+    ],
+    "ans": 0,
+    "explanation": "The ICPC tackles corrupt practices.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "National Institutions",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Cooperation means:",
+    "opts": [
+      "avoiding others",
+      "working alone",
+      "competing always",
+      "working together for a common goal"
+    ],
+    "ans": 3,
+    "explanation": "Cooperation is joint effort.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Interpersonal Relations",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the arm of government that interprets the law and settles disputes?",
+    "opts": [
+      "the EFCC",
+      "the judiciary",
+      "the Nigerian Police",
+      "the NYSC"
+    ],
+    "ans": 1,
+    "explanation": "the arm of government that interprets the law and settles disputes describes the judiciary.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Institutions and Governance",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Values are:",
+    "opts": [
+      "religious rules only",
+      "beliefs and standards that guide behaviour",
+      "school rules only",
+      "laws of the country"
+    ],
+    "ans": 1,
+    "explanation": "Values shape what people consider right and important.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Values",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a disease that weakens the body's immune system and is spread mainly through infected blood and sexual contact?",
+    "opts": [
+      "examination malpractice",
+      "cultism",
+      "drug abuse",
+      "HIV/AIDS"
+    ],
+    "ans": 3,
+    "explanation": "a disease that weakens the body's immune system and is spread mainly through infected blood and sexual contact describes HIV/AIDS.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Social Issues",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Honesty as a value means:",
+    "opts": [
+      "telling the truth",
+      "being rich",
+      "avoiding people",
+      "keeping secrets"
+    ],
+    "ans": 0,
+    "explanation": "An honest person is truthful.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Values",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes accountability?",
+    "opts": [
+      "the obligation of public officers to answer for their actions",
+      "the scheme that requires Nigerian graduates to serve the nation for one year",
+      "the arm of government that interprets the law and settles disputes",
+      "the body responsible for maintaining law and order"
+    ],
+    "ans": 0,
+    "explanation": "accountability is the obligation of public officers to answer for their actions.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Institutions and Governance",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a civic duty by which citizens choose their leaders?",
+    "opts": [
+      "the right to life",
+      "freedom of movement",
+      "voting",
+      "freedom of expression"
+    ],
+    "ans": 2,
+    "explanation": "a civic duty by which citizens choose their leaders describes voting.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Rights and Duties",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One effect of drug abuse is:",
+    "opts": [
+      "improved studies",
+      "better health",
+      "damage to health and behaviour",
+      "stronger family"
+    ],
+    "ans": 2,
+    "explanation": "Drugs harm health, judgement and relationships.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Drug Abuse",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes integrity?",
+    "opts": [
+      "the value of working together for a common purpose",
+      "the value of being upright and consistent in moral principles",
+      "the value of being truthful and sincere",
+      "the value of self-control and obedience to rules"
+    ],
+    "ans": 1,
+    "explanation": "integrity is the value of being upright and consistent in moral principles.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Values and National Symbols",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The agency that fights drug trafficking in Nigeria is the:",
+    "opts": [
+      "FRSC",
+      "NAPTIP",
+      "NDLEA",
+      "EFCC"
+    ],
+    "ans": 2,
+    "explanation": "The National Drug Law Enforcement Agency fights drug abuse and trafficking.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "Drug Abuse",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The green in the Nigerian flag represents:",
+    "opts": [
+      "the sky",
+      "peace",
+      "agriculture and the land",
+      "the rivers"
+    ],
+    "ans": 2,
+    "explanation": "Green stands for agriculture; white for peace and unity.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2023 paper",
+    "topic": "National Identity",
+    "adapted_from": "Repo JAMB_Civic_2024.json / NECO_Civic_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

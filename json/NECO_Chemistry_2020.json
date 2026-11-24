@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol Ag?",
+    "opts": [
+      "Silver",
+      "Helium",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "ans": 0,
+    "explanation": "The symbol Ag stands for Silver.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Gold?",
+    "opts": [
+      "H",
+      "Au",
+      "He",
+      "C"
+    ],
+    "ans": 1,
+    "explanation": "The symbol for Gold is Au.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A covalent bond is formed by:",
+    "opts": [
+      "transfer of protons",
+      "sharing of protons",
+      "sharing of electrons",
+      "transfer of electrons"
+    ],
+    "ans": 2,
+    "explanation": "Covalent bonding is electron sharing.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Chemical Bonding",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Magnesium?",
+    "opts": [
+      "C",
+      "Mg",
+      "H",
+      "He"
+    ],
+    "ans": 1,
+    "explanation": "The symbol for Magnesium is Mg.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A gas at 50 kPa occupies 4 dm³. At constant temperature, what volume will it occupy at 100 kPa?",
+    "opts": [
+      "5 dm³",
+      "2 dm³",
+      "200 dm³",
+      "3 dm³"
+    ],
+    "ans": 1,
+    "explanation": "Boyle's law: P1V1 = P2V2, so V2 = 50x4/100 = 2 dm³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Kinetic Theory and Gas Laws",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol Hg?",
+    "opts": [
+      "Mercury",
+      "Helium",
+      "Carbon",
+      "Hydrogen"
+    ],
+    "ans": 0,
+    "explanation": "The symbol Hg stands for Mercury.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Fluorine?",
+    "opts": [
+      "H",
+      "C",
+      "He",
+      "F"
+    ],
+    "ans": 3,
+    "explanation": "The symbol for Fluorine is F.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many moles are in 85 g of ammonia?",
+    "opts": [
+      "10 mol",
+      "2.5 mol",
+      "6 mol",
+      "5 mol"
+    ],
+    "ans": 3,
+    "explanation": "Moles = mass/molar mass = 5 mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A gas at 80 kPa occupies 5 dm³. At constant temperature, what volume will it occupy at 200 kPa?",
+    "opts": [
+      "400 dm³",
+      "3 dm³",
+      "2 dm³",
+      "5 dm³"
+    ],
+    "ans": 2,
+    "explanation": "Boyle's law: P1V1 = P2V2, so V2 = 80x5/200 = 2 dm³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Kinetic Theory and Gas Laws",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the molar mass of aluminium oxide, Al₂O₃?",
+    "opts": [
+      "204 g/mol",
+      "102 g/mol",
+      "112 g/mol",
+      "97 g/mol"
+    ],
+    "ans": 1,
+    "explanation": "Adding the atomic masses gives 102 g/mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The pH of a strong alkaline solution is close to:",
+    "opts": [
+      "14",
+      "3",
+      "0",
+      "7"
+    ],
+    "ans": 0,
+    "explanation": "Alkaline solutions have pH above 7, up to 14.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Acids, Bases and Salts",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The functional group of aldehydes is:",
+    "opts": [
+      "-COOH",
+      "-OH",
+      "-NH₂",
+      "-CHO"
+    ],
+    "ans": 3,
+    "explanation": "Aldehydes contain -CHO.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Organic Chemistry",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Elements in the same group have the same number of:",
+    "opts": [
+      "neutrons",
+      "shells",
+      "valence electrons",
+      "protons"
+    ],
+    "ans": 2,
+    "explanation": "Group number gives the number of outer-shell electrons.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the molar mass of hydrochloric acid, HCl?",
+    "opts": [
+      "36.5 g/mol",
+      "46.5 g/mol",
+      "73 g/mol",
+      "31.5 g/mol"
+    ],
+    "ans": 0,
+    "explanation": "Adding the atomic masses gives 36.5 g/mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol K?",
+    "opts": [
+      "Carbon",
+      "Potassium",
+      "Helium",
+      "Hydrogen"
+    ],
+    "ans": 1,
+    "explanation": "The symbol K stands for Potassium.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many moles are in 49 g of H2SO4? (Mr of H2SO4 = 98)",
+    "opts": [
+      "0.5",
+      "1.5",
+      "0.75",
+      "0.25"
+    ],
+    "ans": 0,
+    "explanation": "Moles = mass / Mr = 49/98 = 0.5 mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Moles and Mass",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The most reactive metal among sodium, zinc, copper and iron is:",
+    "opts": [
+      "iron",
+      "copper",
+      "sodium",
+      "zinc"
+    ],
+    "ans": 2,
+    "explanation": "Sodium is at the top of the reactivity series among these.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Metals and Their Compounds",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A gas at 60 kPa occupies 10 dm³. At constant temperature, what volume will it occupy at 300 kPa?",
+    "opts": [
+      "600 dm³",
+      "2 dm³",
+      "5 dm³",
+      "3 dm³"
+    ],
+    "ans": 1,
+    "explanation": "Boyle's law: P1V1 = P2V2, so V2 = 60x10/300 = 2 dm³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Kinetic Theory and Gas Laws",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol Au?",
+    "opts": [
+      "Carbon",
+      "Helium",
+      "Hydrogen",
+      "Gold"
+    ],
+    "ans": 3,
+    "explanation": "The symbol Au stands for Gold.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the concentration of a solution containing 0.5 mol in 2 dm^3?",
+    "opts": [
+      "0.5",
+      "1.25",
+      "0.12",
+      "0.25"
+    ],
+    "ans": 3,
+    "explanation": "Concentration = moles / volume = 0.5/2 = 0.25 mol/dm^3.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Moles and Mass",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol F?",
+    "opts": [
+      "Fluorine",
+      "Carbon",
+      "Helium",
+      "Hydrogen"
+    ],
+    "ans": 0,
+    "explanation": "The symbol F stands for Fluorine.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The molecular formula of propane is:",
+    "opts": [
+      "C₃H₆",
+      "C₄H₊₀",
+      "C₂H₆",
+      "C₃H₈"
+    ],
+    "ans": 3,
+    "explanation": "Propane is C₃H₈.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Organic Chemistry",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many moles are in 132 g of carbon dioxide?",
+    "opts": [
+      "6 mol",
+      "1.5 mol",
+      "3 mol",
+      "4 mol"
+    ],
+    "ans": 2,
+    "explanation": "Moles = mass/molar mass = 3 mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many moles are in 36 g of water?",
+    "opts": [
+      "1 mol",
+      "2 mol",
+      "4 mol",
+      "3 mol"
+    ],
+    "ans": 1,
+    "explanation": "Moles = mass/molar mass = 36/18 = 2 mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "At the cathode during electrolysis, the process is:",
+    "opts": [
+      "oxidation",
+      "reduction",
+      "neutralisation",
+      "combustion"
+    ],
+    "ans": 1,
+    "explanation": "Reduction (gain of electrons) occurs at the cathode.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Electrolysis",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The molecular formula of ethane is:",
+    "opts": [
+      "C₃H₈",
+      "C₂H₄",
+      "CH₄",
+      "C₂H₆"
+    ],
+    "ans": 3,
+    "explanation": "Ethane is C₂H₆.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Organic Chemistry",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The ore of aluminium is:",
+    "opts": [
+      "bauxite",
+      "cassiterite",
+      "galena",
+      "haematite"
+    ],
+    "ans": 0,
+    "explanation": "Bauxite is the ore of aluminium.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Metals and Their Compounds",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the molar mass of sodium chloride, NaCl?",
+    "opts": [
+      "58.5 g/mol",
+      "117 g/mol",
+      "53.5 g/mol",
+      "68.5 g/mol"
+    ],
+    "ans": 0,
+    "explanation": "Adding the atomic masses gives 58.5 g/mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol Na?",
+    "opts": [
+      "Helium",
+      "Sodium",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "ans": 1,
+    "explanation": "The symbol Na stands for Sodium.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol Mg?",
+    "opts": [
+      "Carbon",
+      "Helium",
+      "Hydrogen",
+      "Magnesium"
+    ],
+    "ans": 3,
+    "explanation": "The symbol Mg stands for Magnesium.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Calcium?",
+    "opts": [
+      "C",
+      "He",
+      "Ca",
+      "H"
+    ],
+    "ans": 2,
+    "explanation": "The symbol for Calcium is Ca.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The ore of iron is:",
+    "opts": [
+      "bauxite",
+      "cassiterite",
+      "haematite",
+      "galena"
+    ],
+    "ans": 2,
+    "explanation": "Haematite (Fe₂O₃) is the main iron ore.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Metals and Their Compounds",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Mercury?",
+    "opts": [
+      "H",
+      "C",
+      "He",
+      "Hg"
+    ],
+    "ans": 3,
+    "explanation": "The symbol for Mercury is Hg.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the molar mass of ammonium chloride, NH₄Cl?",
+    "opts": [
+      "107 g/mol",
+      "63.5 g/mol",
+      "53.5 g/mol",
+      "48.5 g/mol"
+    ],
+    "ans": 2,
+    "explanation": "Adding the atomic masses gives 53.5 g/mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Potassium?",
+    "opts": [
+      "K",
+      "He",
+      "H",
+      "C"
+    ],
+    "ans": 0,
+    "explanation": "The symbol for Potassium is K.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the molar mass of ethanoic acid, CH₃COOH?",
+    "opts": [
+      "70 g/mol",
+      "60 g/mol",
+      "55 g/mol",
+      "120 g/mol"
+    ],
+    "ans": 1,
+    "explanation": "Adding the atomic masses gives 60 g/mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the relative molecular mass of H2O? (H=1, O=16)",
+    "opts": [
+      "20",
+      "36",
+      "18",
+      "9"
+    ],
+    "ans": 2,
+    "explanation": "Relative molecular mass of H2O = 18.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Moles and Mass",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Bromine?",
+    "opts": [
+      "Br",
+      "C",
+      "H",
+      "He"
+    ],
+    "ans": 0,
+    "explanation": "The symbol for Bromine is Br.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many moles are in 300 g of calcium carbonate?",
+    "opts": [
+      "4 mol",
+      "6 mol",
+      "3 mol",
+      "1.5 mol"
+    ],
+    "ans": 2,
+    "explanation": "Moles = mass/molar mass = 3 mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The vertical columns of the periodic table are called:",
+    "opts": [
+      "periods",
+      "blocks",
+      "series",
+      "groups"
+    ],
+    "ans": 3,
+    "explanation": "Groups run vertically; periods run horizontally.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

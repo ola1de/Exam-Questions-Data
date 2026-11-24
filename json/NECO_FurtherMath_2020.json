@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "Evaluate 6! / (4)!.",
+    "opts": [
+      "30",
+      "20",
+      "6",
+      "31"
+    ],
+    "ans": 0,
+    "explanation": "6!/(4)! = 6 x 5 = 30.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The binomial expansion of (1 + x)² is:",
+    "opts": [
+      "1 + x + x²",
+      "1 + 2x + x²",
+      "1 + 2x + 2x²",
+      "1 + x²"
+    ],
+    "ans": 1,
+    "explanation": "(1+x)² = 1 + 2x + x².",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The sum of the roots of x² - 5x + 6 = 0 is:",
+    "opts": [
+      "5",
+      "-5",
+      "6",
+      "2"
+    ],
+    "ans": 0,
+    "explanation": "Sum of roots = -b/a = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The integral of 1/x dx is:",
+    "opts": [
+      "ln|x| + C",
+      "1/x² + C",
+      "x + C",
+      "e^x + C"
+    ],
+    "ans": 0,
+    "explanation": "∫ 1/x dx = ln|x| + C.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Calculus",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the sum of the first 5 terms of an AP with first term 10 and common difference 10.",
+    "opts": [
+      "140",
+      "150",
+      "50",
+      "160"
+    ],
+    "ans": 1,
+    "explanation": "Sn = n/2[2a + (n-1)d] = 150.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate P(9, 2).",
+    "opts": [
+      "36",
+      "73",
+      "71",
+      "72"
+    ],
+    "ans": 3,
+    "explanation": "P(9,2) = 72.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find sin 90°.",
+    "opts": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "ans": 1,
+    "explanation": "Standard trigonometric value.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Trigonometry",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the magnitude of the vector (9, 12).",
+    "opts": [
+      "15",
+      "14",
+      "21",
+      "16"
+    ],
+    "ans": 0,
+    "explanation": "|v| = √(9² + 12²) = 15.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Vectors and Complex Numbers",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If f(x) = 2x + 3, find f(4).",
+    "opts": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "ans": 2,
+    "explanation": "f(4) = 8 + 3 = 11.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In an arithmetic progression with first term 5 and common difference 3, the 8th term is:",
+    "opts": [
+      "30",
+      "22",
+      "26",
+      "36"
+    ],
+    "ans": 2,
+    "explanation": "nth term = a + (n-1)d = 5 + (8-1) x 3 = 26.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the determinant of the matrix [[5, 2], [3, 1]]?",
+    "opts": [
+      "-3",
+      "1",
+      "-2",
+      "-1"
+    ],
+    "ans": 3,
+    "explanation": "Determinant = ad - bc = 5 x 1 - 2 x 3 = -1.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Matrices",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The sum of the first 3 terms of a geometric progression with first term 3 and common ratio 2 is:",
+    "opts": [
+      "26",
+      "42",
+      "16",
+      "21"
+    ],
+    "ans": 3,
+    "explanation": "Sum = a(r^n - 1)/(r - 1) = 3(2^3 - 1)/(2 - 1) = 21.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Integrate 3x^2 dx.",
+    "opts": [
+      "6x^1 + C",
+      "3x^3 + C",
+      "1x^3 + C",
+      "1x^2 + C"
+    ],
+    "ans": 2,
+    "explanation": "∫ 3x^2 dx = 3/(n+1) x^3 + C.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Calculus",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A matrix with the same number of rows and columns is called a:",
+    "opts": [
+      "row matrix",
+      "column matrix",
+      "rectangular matrix",
+      "square matrix"
+    ],
+    "ans": 3,
+    "explanation": "Equal rows and columns define a square matrix.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Matrices",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Solve for x: 2^x = 16.",
+    "opts": [
+      "5",
+      "4",
+      "8",
+      "3"
+    ],
+    "ans": 1,
+    "explanation": "2^x = 2^4, so x = 4.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Indices and Logarithms",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If f(x) = x³, find f(2).",
+    "opts": [
+      "8",
+      "6",
+      "9",
+      "4"
+    ],
+    "ans": 0,
+    "explanation": "f(2) = 2³ = 8.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate C(8, 3).",
+    "opts": [
+      "336",
+      "56",
+      "55",
+      "57"
+    ],
+    "ans": 1,
+    "explanation": "C(8,3) = 56.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find dy/dx if y = 4x^5.",
+    "opts": [
+      "4x^5",
+      "20x^5",
+      "20x^4",
+      "4x^4"
+    ],
+    "ans": 2,
+    "explanation": "dy/dx = 20x^4.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Calculus",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate 8! / (6)!.",
+    "opts": [
+      "56",
+      "57",
+      "42",
+      "8"
+    ],
+    "ans": 0,
+    "explanation": "8!/(6)! = 8 x 7 = 56.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the determinant of the matrix [[1, 2], [3, 4]].",
+    "opts": [
+      "-3",
+      "10",
+      "-1",
+      "-2"
+    ],
+    "ans": 3,
+    "explanation": "det = ad - bc = 1x4 - 2x3 = -2.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Matrices",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the sum of the first 5 terms of an AP with first term 15 and common difference 15.",
+    "opts": [
+      "215",
+      "235",
+      "225",
+      "75"
+    ],
+    "ans": 2,
+    "explanation": "Sn = n/2[2a + (n-1)d] = 225.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Algebra",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the determinant of the matrix [[2, 1], [1, 3]].",
+    "opts": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "ans": 3,
+    "explanation": "det = ad - bc = 2x3 - 1x1 = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Matrices",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate P(7, 3).",
+    "opts": [
+      "210",
+      "209",
+      "35",
+      "211"
+    ],
+    "ans": 0,
+    "explanation": "P(7,3) = 210.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate P(11, 3).",
+    "opts": [
+      "165",
+      "989",
+      "990",
+      "991"
+    ],
+    "ans": 2,
+    "explanation": "P(11,3) = 990.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the magnitude of the vector (6, 8).",
+    "opts": [
+      "14",
+      "10",
+      "11",
+      "9"
+    ],
+    "ans": 1,
+    "explanation": "|v| = √(6² + 8²) = 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Vectors and Complex Numbers",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find ∫ 4x^4 dx.",
+    "opts": [
+      "4x^5 + C",
+      "4/5x^4 + C",
+      "4/5x^5 + C",
+      "16x^3 + C"
+    ],
+    "ans": 2,
+    "explanation": "∫ 4x^4 dx = 4/5x^5 + C.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Calculus",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find sin 30°.",
+    "opts": [
+      "√3/2",
+      "1",
+      "0",
+      "1/2"
+    ],
+    "ans": 3,
+    "explanation": "Standard trigonometric value.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Trigonometry",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate C(5, 2).",
+    "opts": [
+      "9",
+      "11",
+      "20",
+      "10"
+    ],
+    "ans": 3,
+    "explanation": "C(5,2) = 5!/(2!(3)!) = 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate C(11, 2).",
+    "opts": [
+      "56",
+      "55",
+      "110",
+      "54"
+    ],
+    "ans": 1,
+    "explanation": "C(11,2) = 55.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the modulus of 5 + 12i?",
+    "opts": [
+      "11",
+      "15",
+      "13",
+      "26"
+    ],
+    "ans": 2,
+    "explanation": "Modulus = sqrt(5^2 + 12^2) = sqrt(169) = 13.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Complex Numbers",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Integrate 1x^4 dx.",
+    "opts": [
+      "4x^3 + C",
+      "1/5x^4 + C",
+      "1x^5 + C",
+      "1/5x^5 + C"
+    ],
+    "ans": 3,
+    "explanation": "∫ 1x^4 dx = 1/(n+1) x^5 + C.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Calculus",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the determinant of [[2, 5], [3, 4]].",
+    "opts": [
+      "-6",
+      "-7",
+      "23",
+      "-8"
+    ],
+    "ans": 1,
+    "explanation": "det = 2x4 - 5x3 = -7.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Matrices",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find sin 45°.",
+    "opts": [
+      "√2/2",
+      "0",
+      "1",
+      "1/2"
+    ],
+    "ans": 0,
+    "explanation": "Standard trigonometric value.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Trigonometry",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "sin²θ + cos²θ equals:",
+    "opts": [
+      "0",
+      "2",
+      "tan²θ",
+      "1"
+    ],
+    "ans": 3,
+    "explanation": "The fundamental Pythagorean identity.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Trigonometry",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the determinant of the matrix [[4, 1], [2, 3]].",
+    "opts": [
+      "10",
+      "9",
+      "11",
+      "14"
+    ],
+    "ans": 0,
+    "explanation": "det = ad - bc = 4x3 - 1x2 = 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Matrices",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate P(10, 4).",
+    "opts": [
+      "5041",
+      "5040",
+      "5039",
+      "210"
+    ],
+    "ans": 1,
+    "explanation": "P(10,4) = 5040.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Evaluate P(12, 2).",
+    "opts": [
+      "132",
+      "133",
+      "131",
+      "66"
+    ],
+    "ans": 0,
+    "explanation": "P(12,2) = 132.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Combinatorics",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In an arithmetic progression with first term 3 and common difference 4, the 10th term is:",
+    "opts": [
+      "49",
+      "43",
+      "39",
+      "35"
+    ],
+    "ans": 2,
+    "explanation": "nth term = a + (n-1)d = 3 + (10-1) x 4 = 39.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Sequences and Series",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the value of tan 45° multiplied by 5.",
+    "opts": [
+      "6",
+      "5",
+      "4",
+      "0"
+    ],
+    "ans": 1,
+    "explanation": "tan 45° = 1, so 1 x 5 = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Trigonometry",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the modulus of 3 + 4i?",
+    "opts": [
+      "7",
+      "3",
+      "5",
+      "10"
+    ],
+    "ans": 2,
+    "explanation": "Modulus = sqrt(3^2 + 4^2) = sqrt(25) = 5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Complex Numbers",
+    "adapted_from": "Repo JAMB_FurtherMath_2024.json / NECO_FurtherMath_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

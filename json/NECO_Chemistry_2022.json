@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "What is the molar mass of zinc oxide, ZnO?",
+    "opts": [
+      "81 g/mol",
+      "162 g/mol",
+      "76 g/mol",
+      "91 g/mol"
+    ],
+    "ans": 0,
+    "explanation": "Adding the atomic masses gives 81 g/mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the molar mass of potassium chloride, KCl?",
+    "opts": [
+      "69.5 g/mol",
+      "74.5 g/mol",
+      "149 g/mol",
+      "84.5 g/mol"
+    ],
+    "ans": 1,
+    "explanation": "Adding the atomic masses gives 74.5 g/mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The general formula of alkanes is:",
+    "opts": [
+      "CₙH₂ₙ₊₁",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ"
+    ],
+    "ans": 2,
+    "explanation": "Alkanes are saturated hydrocarbons, CₙH₂ₙ₊₂.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Organic Chemistry",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A gas at 200 kPa occupies 3 dm³. At constant temperature, what volume will it occupy at 300 kPa?",
+    "opts": [
+      "2 dm³",
+      "5 dm³",
+      "3 dm³",
+      "600 dm³"
+    ],
+    "ans": 0,
+    "explanation": "Boyle's law: P1V1 = P2V2, so V2 = 200x3/300 = 2 dm³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kinetic Theory and Gas Laws",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "An ionic bond is formed by:",
+    "opts": [
+      "sharing of neutrons",
+      "transfer of neutrons",
+      "sharing of electrons",
+      "transfer of electrons"
+    ],
+    "ans": 3,
+    "explanation": "Ionic bonding is electron transfer between metal and non-metal.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Bonding",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The functional group of carboxylic acids is:",
+    "opts": [
+      "-CO-",
+      "-CHO",
+      "-COOH",
+      "-OH"
+    ],
+    "ans": 2,
+    "explanation": "Carboxylic acids contain -COOH.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Organic Chemistry",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol Ca?",
+    "opts": [
+      "Carbon",
+      "Hydrogen",
+      "Helium",
+      "Calcium"
+    ],
+    "ans": 3,
+    "explanation": "The symbol Ca stands for Calcium.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "During electrolysis, the positive electrode is the:",
+    "opts": [
+      "salt bridge",
+      "electrolyte",
+      "anode",
+      "cathode"
+    ],
+    "ans": 2,
+    "explanation": "The anode is positive; anions move towards it.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Electrolysis",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The best method to obtain pure water from salty water is:",
+    "opts": [
+      "evaporation",
+      "filtration",
+      "distillation",
+      "decantation"
+    ],
+    "ans": 2,
+    "explanation": "Distillation separates a liquid from dissolved solids by boiling and condensing.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Separation of Mixtures",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Electroplating is used to:",
+    "opts": [
+      "melt metals",
+      "coat a metal with another metal",
+      "separate gases",
+      "make acids"
+    ],
+    "ans": 1,
+    "explanation": "Electroplating deposits a thin metal coating.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Electrolysis",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Zinc?",
+    "opts": [
+      "Zn",
+      "C",
+      "H",
+      "He"
+    ],
+    "ans": 0,
+    "explanation": "The symbol for Zinc is Zn.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many moles are in 48 g of methane?",
+    "opts": [
+      "4 mol",
+      "1.5 mol",
+      "6 mol",
+      "3 mol"
+    ],
+    "ans": 3,
+    "explanation": "Moles = mass/molar mass = 3 mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Chlorine?",
+    "opts": [
+      "C",
+      "Cl",
+      "H",
+      "He"
+    ],
+    "ans": 1,
+    "explanation": "The symbol for Chlorine is Cl.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the molar mass of copper(II) sulphate, CuSO₄?",
+    "opts": [
+      "160 g/mol",
+      "170 g/mol",
+      "155 g/mol",
+      "320 g/mol"
+    ],
+    "ans": 0,
+    "explanation": "Adding the atomic masses gives 160 g/mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The percentage of oxygen in air is about:",
+    "opts": [
+      "1%",
+      "50%",
+      "78%",
+      "21%"
+    ],
+    "ans": 3,
+    "explanation": "Air is about 21% oxygen.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Non-Metals and Their Compounds",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the molar mass of carbon dioxide, CO₂?",
+    "opts": [
+      "54 g/mol",
+      "88 g/mol",
+      "39 g/mol",
+      "44 g/mol"
+    ],
+    "ans": 3,
+    "explanation": "Adding the atomic masses gives 44 g/mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A gas at 120 kPa occupies 6 dm³. At constant temperature, what volume will it occupy at 240 kPa?",
+    "opts": [
+      "3 dm³",
+      "720 dm³",
+      "6 dm³",
+      "4 dm³"
+    ],
+    "ans": 0,
+    "explanation": "Boyle's law: P1V1 = P2V2, so V2 = 120x6/240 = 3 dm³.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Kinetic Theory and Gas Laws",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The relative atomic mass of carbon-12 is:",
+    "opts": [
+      "12",
+      "14",
+      "6",
+      "1"
+    ],
+    "ans": 0,
+    "explanation": "Carbon-12 is the standard, with relative atomic mass 12.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Copper?",
+    "opts": [
+      "H",
+      "C",
+      "Cu",
+      "He"
+    ],
+    "ans": 2,
+    "explanation": "The symbol for Copper is Cu.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Filtration is used to separate:",
+    "opts": [
+      "an insoluble solid from a liquid",
+      "two gases",
+      "a soluble solid from a liquid",
+      "two miscible liquids"
+    ],
+    "ans": 0,
+    "explanation": "The solid stays on the filter paper while the liquid passes through.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Separation of Mixtures",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol C?",
+    "opts": [
+      "Carbon",
+      "Hydrogen",
+      "Helium",
+      "Nitrogen"
+    ],
+    "ans": 0,
+    "explanation": "The symbol C stands for Carbon.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many moles are in 34 g of ammonia?",
+    "opts": [
+      "1 mol",
+      "2 mol",
+      "3 mol",
+      "4 mol"
+    ],
+    "ans": 1,
+    "explanation": "Moles = mass/molar mass = 34/17 = 2 mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many moles are in 10 g of NaOH? (Mr of NaOH = 40)",
+    "opts": [
+      "0.12",
+      "0.25",
+      "0.5",
+      "1.25"
+    ],
+    "ans": 1,
+    "explanation": "Moles = mass / Mr = 10/40 = 0.25 mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Moles and Mass",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Avogadro's number is approximately:",
+    "opts": [
+      "6.02 x 10²²",
+      "6.02 x 10²⁴",
+      "6.02 x 10²³",
+      "3.01 x 10²³"
+    ],
+    "ans": 2,
+    "explanation": "One mole contains 6.02 x 10²³ particles.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Phenolphthalein turns _____ in an alkali.",
+    "opts": [
+      "yellow",
+      "red",
+      "blue",
+      "pink"
+    ],
+    "ans": 3,
+    "explanation": "Phenolphthalein is pink in alkali and colourless in acid.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Acids, Bases and Salts",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Nitrogen?",
+    "opts": [
+      "He",
+      "C",
+      "N",
+      "H"
+    ],
+    "ans": 2,
+    "explanation": "The symbol for Nitrogen is N.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol Si?",
+    "opts": [
+      "Carbon",
+      "Silicon",
+      "Helium",
+      "Hydrogen"
+    ],
+    "ans": 1,
+    "explanation": "The symbol Si stands for Silicon.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The molecular formula of butane is:",
+    "opts": [
+      "C₅H₊₂",
+      "C₄H₊₀",
+      "C₄H₈",
+      "C₃H₈"
+    ],
+    "ans": 1,
+    "explanation": "Butane is C₄H₊₀.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Organic Chemistry",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Ethene is an example of an:",
+    "opts": [
+      "alkane",
+      "alkene",
+      "alkyne",
+      "alcohol"
+    ],
+    "ans": 1,
+    "explanation": "Ethene has a carbon-carbon double bond.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Organic Chemistry",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol He?",
+    "opts": [
+      "Helium",
+      "Hydrogen",
+      "Carbon",
+      "Nitrogen"
+    ],
+    "ans": 0,
+    "explanation": "The symbol He stands for Helium.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The pH of a strong acid is close to:",
+    "opts": [
+      "14",
+      "1",
+      "7",
+      "10"
+    ],
+    "ans": 1,
+    "explanation": "Strong acids have pH near 0-1.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Acids, Bases and Salts",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The electrolyte in a simple cell is usually a:",
+    "opts": [
+      "metal rod",
+      "plastic cover",
+      "glass tube",
+      "solution that conducts electricity"
+    ],
+    "ans": 3,
+    "explanation": "An electrolyte conducts electricity when molten or in solution.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Electrolysis",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the chemical symbol for Carbon?",
+    "opts": [
+      "N",
+      "He",
+      "C",
+      "H"
+    ],
+    "ans": 2,
+    "explanation": "The symbol for Carbon is C.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which element has the chemical symbol H?",
+    "opts": [
+      "Nitrogen",
+      "Carbon",
+      "Helium",
+      "Hydrogen"
+    ],
+    "ans": 3,
+    "explanation": "The symbol H stands for Hydrogen.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many moles are in 54 g of water?",
+    "opts": [
+      "4 mol",
+      "1.5 mol",
+      "3 mol",
+      "6 mol"
+    ],
+    "ans": 2,
+    "explanation": "Moles = mass/molar mass = 3 mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Methyl orange turns _____ in an acid.",
+    "opts": [
+      "blue",
+      "green",
+      "yellow",
+      "red"
+    ],
+    "ans": 3,
+    "explanation": "Methyl orange is red in acid and yellow in alkali.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Acids, Bases and Salts",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the molar mass of glucose, C₆H₁₂O₆?",
+    "opts": [
+      "360 g/mol",
+      "190 g/mol",
+      "175 g/mol",
+      "180 g/mol"
+    ],
+    "ans": 3,
+    "explanation": "Adding the atomic masses gives 180 g/mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The atomic number of an element is the number of:",
+    "opts": [
+      "neutrons",
+      "protons",
+      "nucleons",
+      "electrons and neutrons"
+    ],
+    "ans": 1,
+    "explanation": "Atomic number = number of protons in the nucleus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Atomic Structure and Periodicity",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The functional group of amines is:",
+    "opts": [
+      "-NH₂",
+      "-CHO",
+      "-COOH",
+      "-OH"
+    ],
+    "ans": 0,
+    "explanation": "Amines contain -NH₂.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Organic Chemistry",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many moles are in 200 g of calcium carbonate?",
+    "opts": [
+      "3 mol",
+      "4 mol",
+      "2 mol",
+      "1 mol"
+    ],
+    "ans": 2,
+    "explanation": "Moles = mass/molar mass = 200/100 = 2 mol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2022 paper",
+    "topic": "Chemical Combination",
+    "adapted_from": "Repo JAMB_Chemistry_2024.json / NECO_Chemistry_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

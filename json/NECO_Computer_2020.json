@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "A file with the extension .jpg is a:",
+    "opts": [
+      "Excel spreadsheet",
+      "Word document",
+      "PowerPoint presentation",
+      "image file"
+    ],
+    "ans": 3,
+    "explanation": ".jpg indicates a image file.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Files",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a printer?",
+    "opts": [
+      "the part of the computer that carries out instructions, also called the processor",
+      "the part of the CPU that performs arithmetic and logical operations",
+      "the temporary memory that loses its contents when the computer is switched off",
+      "an output device that produces hard copies of documents"
+    ],
+    "ans": 3,
+    "explanation": "a printer is an output device that produces hard copies of documents.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Hardware",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a harmful program that spreads and damages files or systems?",
+    "opts": [
+      "application software",
+      "an operating system",
+      "a computer virus",
+      "a bit"
+    ],
+    "ans": 2,
+    "explanation": "a harmful program that spreads and damages files or systems describes a computer virus.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Software and Data",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert binary 101 to decimal.",
+    "opts": [
+      "4",
+      "5",
+      "10",
+      "6"
+    ],
+    "ans": 1,
+    "explanation": "Binary 101 = 5 in decimal.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Systems",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert 9 to binary.",
+    "opts": [
+      "1010",
+      "1000",
+      "1011",
+      "1001"
+    ],
+    "ans": 3,
+    "explanation": "9 in binary is 1001.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Systems",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes the monitor?",
+    "opts": [
+      "the temporary memory that loses its contents when the computer is switched off",
+      "the part of the computer that carries out instructions, also called the processor",
+      "an output device that displays information on a screen",
+      "the part of the CPU that performs arithmetic and logical operations"
+    ],
+    "ans": 2,
+    "explanation": "the monitor is an output device that displays information on a screen.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Hardware",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The hexadecimal system uses base:",
+    "opts": [
+      "2",
+      "10",
+      "8",
+      "16"
+    ],
+    "ans": 3,
+    "explanation": "Hexadecimal is base 16.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Systems",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The part of the CPU that directs operations is the:",
+    "opts": [
+      "Memory Unit",
+      "Output Unit",
+      "Arithmetic and Logic Unit",
+      "Control Unit"
+    ],
+    "ans": 3,
+    "explanation": "The Control Unit fetches and decodes instructions.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Hardware",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many kilobytes are in 10 megabyte(s)?",
+    "opts": [
+      "10 KB",
+      "10000 KB",
+      "10240 KB",
+      "10340 KB"
+    ],
+    "ans": 2,
+    "explanation": "1 MB = 1024 KB, so 10 MB = 10240 KB.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fundamentals",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes an email?",
+    "opts": [
+      "a message sent electronically from one computer user to another",
+      "a network arrangement in which all computers connect to a central device",
+      "a network connecting computers within a small area such as an office",
+      "a network connecting computers over a large geographical area"
+    ],
+    "ans": 0,
+    "explanation": "an email is a message sent electronically from one computer user to another.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Networks and Internet",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a network connecting computers over a large geographical area?",
+    "opts": [
+      "a LAN",
+      "a WAN",
+      "a bus topology",
+      "a star topology"
+    ],
+    "ans": 1,
+    "explanation": "a network connecting computers over a large geographical area describes a WAN.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Networks and Internet",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many bytes are in 4 kilobyte(s)?",
+    "opts": [
+      "4096 bytes",
+      "4 bytes",
+      "4196 bytes",
+      "4000 bytes"
+    ],
+    "ans": 0,
+    "explanation": "1 KB = 1024 bytes, so 4 KB = 4096 bytes.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fundamentals",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "One byte is made up of:",
+    "opts": [
+      "8 bits",
+      "16 bits",
+      "2 bits",
+      "4 bits"
+    ],
+    "ans": 0,
+    "explanation": "1 byte = 8 bits.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fundamentals",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the decimal equivalent of the binary number 100000?",
+    "opts": [
+      "32",
+      "64",
+      "30",
+      "34"
+    ],
+    "ans": 0,
+    "explanation": "100000 in binary = 32 in decimal.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Systems",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert 13 to binary.",
+    "opts": [
+      "1111",
+      "1101",
+      "1100",
+      "1110"
+    ],
+    "ans": 1,
+    "explanation": "13 in binary is 1101.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Systems",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a flash drive?",
+    "opts": [
+      "the part of the computer that carries out instructions, also called the processor",
+      "a small portable storage device that plugs into a USB port",
+      "the temporary memory that loses its contents when the computer is switched off",
+      "the part of the CPU that performs arithmetic and logical operations"
+    ],
+    "ans": 1,
+    "explanation": "a flash drive is a small portable storage device that plugs into a USB port.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Hardware",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A file with the extension .xlsx is a:",
+    "opts": [
+      "PDF document",
+      "PowerPoint presentation",
+      "Excel spreadsheet",
+      "Word document"
+    ],
+    "ans": 2,
+    "explanation": ".xlsx indicates a Excel spreadsheet.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Files",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The smallest unit of data in a computer is the:",
+    "opts": [
+      "bit",
+      "megabyte",
+      "kilobyte",
+      "byte"
+    ],
+    "ans": 0,
+    "explanation": "A bit is a single 0 or 1.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fundamentals",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a network connecting computers within a small area such as an office?",
+    "opts": [
+      "a LAN",
+      "a bus topology",
+      "a star topology",
+      "a WAN"
+    ],
+    "ans": 0,
+    "explanation": "a network connecting computers within a small area such as an office describes a LAN.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Networks and Internet",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The stages of data processing are input, processing, storage and:",
+    "opts": [
+      "input",
+      "deletion",
+      "output",
+      "formatting"
+    ],
+    "ans": 2,
+    "explanation": "IPO cycle: input, process, output (with storage).",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Data Processing",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A folder is used to:",
+    "opts": [
+      "organise files",
+      "scan files",
+      "print files",
+      "delete files only"
+    ],
+    "ans": 0,
+    "explanation": "Folders group related files together.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Files",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A step-by-step procedure for solving a problem is called an:",
+    "opts": [
+      "algorithm",
+      "variable",
+      "program",
+      "flowchart"
+    ],
+    "ans": 0,
+    "explanation": "An algorithm lists the steps in order.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Problem Solving",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert 15 to hexadecimal.",
+    "opts": [
+      "E",
+      "15",
+      "F",
+      "10"
+    ],
+    "ans": 2,
+    "explanation": "15 in hexadecimal is F.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Systems",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The device that captures images from paper is the:",
+    "opts": [
+      "scanner",
+      "speaker",
+      "monitor",
+      "printer"
+    ],
+    "ans": 0,
+    "explanation": "A scanner digitises paper documents.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Hardware",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A program designed to harm a computer is called:",
+    "opts": [
+      "firmware",
+      "freeware",
+      "shareware",
+      "malware"
+    ],
+    "ans": 3,
+    "explanation": "Malware includes viruses, worms and trojans.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Software",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A projector is a/an output device. Which type of device is a projector?",
+    "opts": [
+      "input",
+      "output",
+      "storage",
+      "processing"
+    ],
+    "ans": 1,
+    "explanation": "The projector is a output device.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Hardware",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does HTTP stand for?",
+    "opts": [
+      "Read Only Memory",
+      "HyperText Transfer Protocol",
+      "Random Access Memory",
+      "Central Processing Unit"
+    ],
+    "ans": 1,
+    "explanation": "HTTP stands for HyperText Transfer Protocol.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fundamentals",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A file with the extension .txt is a:",
+    "opts": [
+      "PowerPoint presentation",
+      "Excel spreadsheet",
+      "Word document",
+      "plain text file"
+    ],
+    "ans": 3,
+    "explanation": ".txt indicates a plain text file.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Files",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a network arrangement in which all computers connect to a central device?",
+    "opts": [
+      "a WAN",
+      "a LAN",
+      "a bus topology",
+      "a star topology"
+    ],
+    "ans": 3,
+    "explanation": "a network arrangement in which all computers connect to a central device describes a star topology.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Networks and Internet",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Email is sent over the:",
+    "opts": [
+      "telephone line only",
+      "television",
+      "internet",
+      "radio"
+    ],
+    "ans": 2,
+    "explanation": "Email travels over the internet.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "ICT",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Using another person's work without permission is:",
+    "opts": [
+      "copyright",
+      "encryption",
+      "licensing",
+      "plagiarism"
+    ],
+    "ans": 3,
+    "explanation": "Plagiarism is presenting others' work as your own.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Ethics",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: an output device that produces hard copies of documents?",
+    "opts": [
+      "the ALU",
+      "a printer",
+      "the CPU",
+      "RAM"
+    ],
+    "ans": 1,
+    "explanation": "an output device that produces hard copies of documents describes a printer.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Hardware",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does RAM stand for?",
+    "opts": [
+      "Central Processing Unit",
+      "Random Access Memory",
+      "Local Area Network",
+      "Read Only Memory"
+    ],
+    "ans": 1,
+    "explanation": "RAM stands for Random Access Memory.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fundamentals",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "RAM stands for:",
+    "opts": [
+      "Read Access Memory",
+      "Read And Modify",
+      "Random Access Memory",
+      "Rapid Access Memory"
+    ],
+    "ans": 2,
+    "explanation": "RAM is the temporary working memory.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Hardware",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Convert 31 to hexadecimal.",
+    "opts": [
+      "20",
+      "31",
+      "1F",
+      "1E"
+    ],
+    "ans": 2,
+    "explanation": "31 in hexadecimal is 1F.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Systems",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "How many kilobytes are in 1 megabyte(s)?",
+    "opts": [
+      "1124 KB",
+      "1 KB",
+      "1024 KB",
+      "1000 KB"
+    ],
+    "ans": 2,
+    "explanation": "1 MB = 1024 KB, so 1 MB = 1024 KB.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fundamentals",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What is the decimal equivalent of the binary number 10101?",
+    "opts": [
+      "42",
+      "21",
+      "23",
+      "19"
+    ],
+    "ans": 1,
+    "explanation": "10101 in binary = 21 in decimal.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Number Systems",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A file with the extension .docx is a:",
+    "opts": [
+      "PDF document",
+      "Word document",
+      "Excel spreadsheet",
+      "PowerPoint presentation"
+    ],
+    "ans": 1,
+    "explanation": ".docx indicates a Word document.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Files",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "What does URL stand for?",
+    "opts": [
+      "Uniform Resource Locator",
+      "Central Processing Unit",
+      "Random Access Memory",
+      "Read Only Memory"
+    ],
+    "ans": 0,
+    "explanation": "URL stands for Uniform Resource Locator.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Fundamentals",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: an input device that copies images and documents into a computer?",
+    "opts": [
+      "the CPU",
+      "the ALU",
+      "RAM",
+      "a scanner"
+    ],
+    "ans": 3,
+    "explanation": "an input device that copies images and documents into a computer describes a scanner.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2020 paper",
+    "topic": "Hardware",
+    "adapted_from": "Repo JAMB_Computer_2024.json / NECO_Computer_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

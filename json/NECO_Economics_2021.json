@@ -1,1 +1,642 @@
-[{"type": "std","q": "Question Content Here?","opts": ["Option A", "Option B", "Option C", "Option D"],"ans": 0}] 
+[
+  {
+    "type": "std",
+    "q": "The demand for salt is usually:",
+    "opts": [
+      "perfectly elastic",
+      "unitary",
+      "inelastic",
+      "elastic"
+    ],
+    "ans": 2,
+    "explanation": "Salt has few substitutes and is a small part of spending.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Demand and Supply",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Given consumption N120bn, investment N30bn, government spending N50bn, exports N25bn and imports N15bn, GDP is:",
+    "opts": [
+      "260",
+      "160",
+      "310",
+      "210"
+    ],
+    "ans": 3,
+    "explanation": "GDP = C + I + G + (X - M) = 120 + 30 + 50 + (25 - 15) = N210bn.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "National Income",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the marginal propensity to consume is 0.9, the multiplier is:",
+    "opts": [
+      "10",
+      "11",
+      "9.5",
+      "20"
+    ],
+    "ans": 0,
+    "explanation": "Multiplier = 1/(1 - MPC) = 1/(1 - 0.9) = 10.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Multiplier",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes John Maynard Keynes?",
+    "opts": [
+      "the economist who wrote 'The Wealth of Nations' in 1776",
+      "the economist known for the theory of comparative advantage",
+      "the economist known for the theory of population growth",
+      "the economist who wrote 'The General Theory of Employment, Interest and Money'"
+    ],
+    "ans": 3,
+    "explanation": "John Maynard Keynes is the economist who wrote 'The General Theory of Employment, Interest and Money'.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Economic Thought",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "In perfect competition, firms are:",
+    "opts": [
+      "price takers",
+      "price fixers",
+      "monopolists",
+      "price makers"
+    ],
+    "ans": 0,
+    "explanation": "No single firm can influence the market price.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Market Structures",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The Human Development Index measures health, education and:",
+    "opts": [
+      "exports",
+      "population",
+      "income",
+      "land area"
+    ],
+    "ans": 2,
+    "explanation": "HDI combines health, education and income.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Economic Development",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A monopolist is a:",
+    "opts": [
+      "price follower",
+      "price taker",
+      "price maker",
+      "price breaker"
+    ],
+    "ans": 2,
+    "explanation": "A monopolist sets the price.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Market Structures",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Monopolistic competition has:",
+    "opts": [
+      "one seller",
+      "many sellers of identical products",
+      "many sellers of differentiated products",
+      "few sellers of identical products"
+    ],
+    "ans": 2,
+    "explanation": "Products differ (branding, quality) in monopolistic competition.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Market Structures",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Total product divided by the number of workers is the:",
+    "opts": [
+      "marginal product",
+      "marginal cost",
+      "average product",
+      "total cost"
+    ],
+    "ans": 2,
+    "explanation": "Average product = total product / units of labour.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Production",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The capital market deals in:",
+    "opts": [
+      "long-term funds",
+      "short-term funds",
+      "foreign exchange only",
+      "cash only"
+    ],
+    "ans": 0,
+    "explanation": "The capital market trades shares and bonds.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Money and Banking",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If 4 million people are unemployed out of a labour force of 80 million, the unemployment rate is:",
+    "opts": [
+      "5",
+      "7.5",
+      "2.5",
+      "10"
+    ],
+    "ans": 0,
+    "explanation": "Unemployment rate = (unemployed / labour force) x 100 = (4/80) x 100 = 5%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Unemployment",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Variable costs are costs that:",
+    "opts": [
+      "are paid in advance",
+      "are always zero",
+      "never change",
+      "change with output"
+    ],
+    "ans": 3,
+    "explanation": "Variable costs (raw materials) rise with output.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Costs",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the range of 2, 8, 14, 20.",
+    "opts": [
+      "16",
+      "18",
+      "20",
+      "2"
+    ],
+    "ans": 1,
+    "explanation": "Range = 20 - 2 = 18.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "When price rises from N40 to N50, quantity demanded falls from 30 to 25 units. The new total expenditure is:",
+    "opts": [
+      "1200",
+      "2500",
+      "1350",
+      "1250"
+    ],
+    "ans": 3,
+    "explanation": "New total expenditure = new price x new quantity = 50 x 25 = N1250.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Demand",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes a normal good?",
+    "opts": [
+      "a market dominated by a few large sellers",
+      "a market with many buyers and sellers and identical products",
+      "a good whose demand rises as income rises",
+      "a market with only one seller of a product with no close substitutes"
+    ],
+    "ans": 2,
+    "explanation": "a normal good is a good whose demand rises as income rises.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: goods that are used together, such as cars and petrol?",
+    "opts": [
+      "an oligopoly",
+      "complementary goods",
+      "perfect competition",
+      "a monopoly"
+    ],
+    "ans": 1,
+    "explanation": "goods that are used together, such as cars and petrol describes complementary goods.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "When price rises from ₦5 to ₦10, quantity demanded falls from 200 to 150 units. Find the price elasticity of demand.",
+    "opts": [
+      "0.25",
+      "0.55",
+      "2.25",
+      "1.25"
+    ],
+    "ans": 0,
+    "explanation": "Ed = % change in quantity / % change in price = 0.25.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Demand and Supply",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If 18 million people are unemployed out of a labour force of 90 million, the unemployment rate is:",
+    "opts": [
+      "22.5",
+      "25",
+      "17.5",
+      "20"
+    ],
+    "ans": 3,
+    "explanation": "Unemployment rate = (unemployed / labour force) x 100 = (18/90) x 100 = 20%.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Unemployment",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Given consumption N150bn, investment N40bn, government spending N60bn, exports N30bn and imports N20bn, GDP is:",
+    "opts": [
+      "260",
+      "310",
+      "210",
+      "360"
+    ],
+    "ans": 0,
+    "explanation": "GDP = C + I + G + (X - M) = 150 + 40 + 60 + (30 - 20) = N260bn.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "National Income",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes scale of preference?",
+    "opts": [
+      "the economist who wrote 'The Wealth of Nations' in 1776",
+      "the economist known for the theory of population growth",
+      "a list of wants arranged in order of importance",
+      "the economist who wrote 'The General Theory of Employment, Interest and Money'"
+    ],
+    "ans": 2,
+    "explanation": "scale of preference is a list of wants arranged in order of importance.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Economic Thought",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The law of supply states that, other things being equal:",
+    "opts": [
+      "quantity supplied falls as price rises",
+      "price rises as supply rises",
+      "supply is constant",
+      "quantity supplied rises as price rises"
+    ],
+    "ans": 3,
+    "explanation": "Supply curves slope upward.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Demand and Supply",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If national income is N750 billion and the population is 150 million, per capita income is:",
+    "opts": [
+      "5000",
+      "2500",
+      "50000",
+      "500"
+    ],
+    "ans": 0,
+    "explanation": "Per capita income = national income / population = N750bn / 150m = N5,000.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "National Income",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the price of a basket of goods rises from N200 to N240, the price index is:",
+    "opts": [
+      "110",
+      "120",
+      "145",
+      "130"
+    ],
+    "ans": 1,
+    "explanation": "Price index = (current price / base price) x 100 = (240/200) x 100 = 120.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Price Index",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "A sole proprietorship is owned by:",
+    "opts": [
+      "shareholders",
+      "the government",
+      "one person",
+      "two or more partners"
+    ],
+    "ans": 2,
+    "explanation": "One person owns and controls it.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Business Organisations",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Average cost equals:",
+    "opts": [
+      "fixed cost",
+      "total cost divided by output",
+      "marginal cost",
+      "total cost times output"
+    ],
+    "ans": 1,
+    "explanation": "AC = TC/Q.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Costs",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The law of demand states that, other things being equal:",
+    "opts": [
+      "price falls as demand rises",
+      "quantity demanded falls as price rises",
+      "demand is constant",
+      "quantity demanded rises as price rises"
+    ],
+    "ans": 1,
+    "explanation": "Demand curves slope downward.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Demand and Supply",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes deflation?",
+    "opts": [
+      "a market with only one seller of a product with no close substitutes",
+      "a market with many buyers and sellers and identical products",
+      "a market dominated by a few large sellers",
+      "a persistent fall in the general price level"
+    ],
+    "ans": 3,
+    "explanation": "deflation is a persistent fall in the general price level.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes perfect competition?",
+    "opts": [
+      "a market with many buyers and sellers and identical products",
+      "a market with only one seller of a product with no close substitutes",
+      "a market dominated by a few large sellers",
+      "a good whose demand rises as income rises"
+    ],
+    "ans": 0,
+    "explanation": "perfect competition is a market with many buyers and sellers and identical products.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Demand for a good is elastic when a price change causes a:",
+    "opts": [
+      "equal change only",
+      "more than proportionate change in quantity demanded",
+      "less than proportionate change",
+      "no change"
+    ],
+    "ans": 1,
+    "explanation": "Elastic demand responds strongly to price.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Demand and Supply",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The extra output from one more worker is the:",
+    "opts": [
+      "fixed product",
+      "average product",
+      "marginal product",
+      "total product"
+    ],
+    "ans": 2,
+    "explanation": "Marginal product is the addition to total product.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Production",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the marginal propensity to consume is 0.5, the multiplier is:",
+    "opts": [
+      "3",
+      "2",
+      "1.5",
+      "4"
+    ],
+    "ans": 1,
+    "explanation": "Multiplier = 1/(1 - MPC) = 1/(1 - 0.5) = 2.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Multiplier",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: the economist who wrote 'Principles of Economics'?",
+    "opts": [
+      "John Maynard Keynes",
+      "Adam Smith",
+      "Thomas Malthus",
+      "Alfred Marshall"
+    ],
+    "ans": 3,
+    "explanation": "the economist who wrote 'Principles of Economics' describes Alfred Marshall.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Economic Thought",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If consumption is N350bn, savings N80bn and taxes N70bn, national income is:",
+    "opts": [
+      "550",
+      "500",
+      "520",
+      "480"
+    ],
+    "ans": 1,
+    "explanation": "Y = C + S + T = 350 + 80 + 70 = N500bn.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "National Income",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: a market with only one seller of a product with no close substitutes?",
+    "opts": [
+      "a normal good",
+      "perfect competition",
+      "a monopoly",
+      "an oligopoly"
+    ],
+    "ans": 2,
+    "explanation": "a market with only one seller of a product with no close substitutes describes a monopoly.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The mode of 1, 2, 2, 3, 4, 2, 5 is:",
+    "opts": [
+      "2",
+      "1",
+      "5",
+      "3"
+    ],
+    "ans": 0,
+    "explanation": "2 occurs three times, more than any other value.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "The range of 5, 12, 8, 20, 3 is:",
+    "opts": [
+      "17",
+      "12",
+      "15",
+      "20"
+    ],
+    "ans": 0,
+    "explanation": "Range = highest - lowest = 20 - 3 = 17.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which term is described as: goods that can replace each other, such as tea and coffee?",
+    "opts": [
+      "perfect competition",
+      "an oligopoly",
+      "a monopoly",
+      "substitute goods"
+    ],
+    "ans": 3,
+    "explanation": "goods that can replace each other, such as tea and coffee describes substitute goods.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "If the price of a basket of goods rises from N150 to N210, the price index is:",
+    "opts": [
+      "165",
+      "150",
+      "130",
+      "140"
+    ],
+    "ans": 3,
+    "explanation": "Price index = (current price / base price) x 100 = (210/150) x 100 = 140.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Price Index",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Find the mean of 6, 9, 12, 15.",
+    "opts": [
+      "11.5",
+      "10.5",
+      "12.5",
+      "9.5"
+    ],
+    "ans": 1,
+    "explanation": "Mean = 42/4 = 10.5.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Tools of Analysis",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  },
+  {
+    "type": "std",
+    "q": "Which of these best describes substitute goods?",
+    "opts": [
+      "a market with many buyers and sellers and identical products",
+      "goods that can replace each other, such as tea and coffee",
+      "a market dominated by a few large sellers",
+      "a market with only one seller of a product with no close substitutes"
+    ],
+    "ans": 1,
+    "explanation": "substitute goods is goods that can replace each other, such as tea and coffee.",
+    "practice": true,
+    "source": "MyStudy Practice Set — modelled on the NECO syllabus for this subject, not the official 2021 paper",
+    "topic": "Markets and Money",
+    "adapted_from": "Repo JAMB_Economics_2024.json / NECO_Economics_2024.json (topic coverage & style; adapted, not verbatim) | Syllabus: JAMB IBASS https://ibass.jamb.gov.ng / mirror https://jambsyllabus.com/ ; WAEC https://lekkiheadmaster.com/waec-syllabus/ ; NECO syllabus via https://www.neco.gov.ng (Examinations > SSCE > Syllabuses)"
+  }
+]

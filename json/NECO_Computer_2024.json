@@ -73,18 +73,9 @@
 },
 {
 "q": "In Microsoft Excel, the absolute cell reference for cell A1 is written as _____.",
-"opts": ["A1", "
-𝐴
-1
-"
+"opts": ["A1", "\r\n𝐴\r\n1\r\n"
 ,
-"
-𝐴
-A1","A
-1", "
-𝐴
-A
-1"],
+"\r\n𝐴\r\nA1","A\r\n1", "\r\n𝐴\r\nA\r\n1"],
 "ans": 3,
 "explanation": "The dollar signs ($) before the column letter and row number lock the reference so it does not change when the formula is copied to other cells."
 },
